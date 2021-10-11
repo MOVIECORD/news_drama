@@ -1,9 +1,0 @@
-[naver_entertain_now_drama]
-title = "네이버 TV연예 ─ 최신뉴스 ─ 드라마"
-url = "https://entertain.naver.com/now?sid=225"
-entrySelector = "//html/body/div/div[3]/div/div/div[1]/ul/li"
-titleSelector = "//div/a[@class='tit']"
-linkSelector = "//a[@class='thumb_area']"
-contentSelector = "//div/p[@class='summary']"
-waitUntil = "networkidle"
-onFail = "stale"
