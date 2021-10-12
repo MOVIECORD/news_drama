@@ -5,8 +5,9 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = ".box_g.box_news.box_allnews"
 onFail = "stale"
+timeout=180
 
 [naver_entertain_now_drama]
 title = "네이버 TV연예 ─ 최신뉴스 ─ 드라마"
