@@ -7,7 +7,7 @@ linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
 waitForSelector = ".box_g.box_news.box_allnews"
 onFail = "stale"
-timeout=180
+timeout = 180
 
 [naver_entertain_now_drama]
 title = "네이버 TV연예 ─ 최신뉴스 ─ 드라마"
