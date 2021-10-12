@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-12T11:09:17.815Z</updated>
+    <updated>2021-10-12T12:17:12.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 최명길, 신정윤 유혹한 소이현에 "이건 패륜" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211012203200410</id>
+        <link href="https://entertain.v.daum.net/v/20211012203200410"/>
+        <updated>2021-10-12T12:17:02.400Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두번째남편' 엄현경, 오승아 살인 폭로하려.."지병으로 죽지 않아"]]></title>
         <id>https://entertain.v.daum.net/v/20211012193749461</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211012152937508"/>
         <updated>2021-10-12T07:11:04.889Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은태양' 2부작 스핀오프 '뫼비우스:검은태양' 29-30일 편성확정]]></title>
-        <id>https://entertain.v.daum.net/v/20211012151745013</id>
-        <link href="https://entertain.v.daum.net/v/20211012151745013"/>
-        <updated>2021-10-12T07:11:04.891Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
