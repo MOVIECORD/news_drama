@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-12T21:09:57.632Z</updated>
+    <updated>2021-10-12T22:11:00.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연모' 박은빈, 탄탄한 연기력+넘사벽 눈빛..남장여자 왕세자 완성]]></title>
+        <id>https://entertain.v.daum.net/v/20211013071032144</id>
+        <link href="https://entertain.v.daum.net/v/20211013071032144"/>
+        <updated>2021-10-12T22:10:53.332Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 톱스타 캐스팅의 비밀]]></title>
+        <id>https://entertain.v.daum.net/v/20211013065717942</id>
+        <link href="https://entertain.v.daum.net/v/20211013065717942"/>
+        <updated>2021-10-12T22:10:53.333Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 시청률 소폭 상승, 월화극 1위는 '홍천기']]></title>
+        <id>https://entertain.v.daum.net/v/20211013065238898</id>
+        <link href="https://entertain.v.daum.net/v/20211013065238898"/>
+        <updated>2021-10-12T22:10:53.333Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홍천기' 안효섭, '왕실 복수+김유정 살리기' 계획→곽시양과 결탁]]></title>
         <id>https://entertain.v.daum.net/v/20211013055002100</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211012191629086"/>
         <updated>2021-10-12T14:10:33.203Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진경 범접불가 카리스마→임수정과 대립]]></title>
-        <id>https://entertain.v.daum.net/v/20211012180423366</id>
-        <link href="https://entertain.v.daum.net/v/20211012180423366"/>
-        <updated>2021-10-12T09:11:01.200Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 마왕 노리는 곽시양과 숨막히는 옥사 대치]]></title>
-        <id>https://entertain.v.daum.net/v/20211012175445008</id>
-        <link href="https://entertain.v.daum.net/v/20211012175445008"/>
-        <updated>2021-10-12T09:11:01.201Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진X진기주 '지금부터, 쇼타임!', 싱가포르에 방영권 선판매]]></title>
-        <id>https://entertain.v.daum.net/v/20211012170625376</id>
-        <link href="https://entertain.v.daum.net/v/20211012170625376"/>
-        <updated>2021-10-12T08:13:26.822Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
