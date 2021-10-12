@@ -1,7 +1,7 @@
 [daum_entertain_news_drama]
 title = "다음 연예 ─ 뉴스 ─ 드라마"
 url = "https://entertain.daum.net/news/drama"
-entrySelector = "//html/body/div/div/div/div/div/ul/li/div/strong"
+entrySelector = "//html/body/div/div/div/div/div/ul[@class='list_news']/li/div/strong"
 titleSelector = "//a[1]"
 linkSelector = "//a[1]"
 contentSelector = "//span[1]"
