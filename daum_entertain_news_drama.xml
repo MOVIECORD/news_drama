@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-12T20:11:42.557Z</updated>
+    <updated>2021-10-12T21:09:57.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 안효섭, '왕실 복수+김유정 살리기' 계획→곽시양과 결탁]]></title>
+        <id>https://entertain.v.daum.net/v/20211013055002100</id>
+        <link href="https://entertain.v.daum.net/v/20211013055002100"/>
+        <updated>2021-10-12T21:09:49.056Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민찬기X박은우 웹드라마 '아이돈케어', 13일 첫 방송]]></title>
         <id>https://entertain.v.daum.net/v/20211013000632366</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211012170625376"/>
         <updated>2021-10-12T08:13:26.822Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조여정, 남편 김남희 생존 목격]]></title>
-        <id>https://entertain.v.daum.net/v/20211012170541334</id>
-        <link href="https://entertain.v.daum.net/v/20211012170541334"/>
-        <updated>2021-10-12T08:13:26.830Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
