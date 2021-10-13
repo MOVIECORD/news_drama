@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-13T15:12:12.051Z</updated>
+    <updated>2021-10-13T16:16:17.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '너닮사' 신현빈, "찾았다" 서늘한 미소..고현정에 복수하러 접근했나]]></title>
+        <id>https://entertain.v.daum.net/v/20211014010357235</id>
+        <link href="https://entertain.v.daum.net/v/20211014010357235"/>
+        <updated>2021-10-13T16:16:08.490Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '너를 닮은 사람' 고현정, 딸 폭행한 '기간제 교사' 신현빈에 분노 → 응징]]></title>
+        <id>https://entertain.v.daum.net/v/20211014001541985</id>
+        <link href="https://entertain.v.daum.net/v/20211014001541985"/>
+        <updated>2021-10-13T16:16:08.491Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["찾았다"..'너닮사' 신현빈이 이상해, 고현정에 의도적 접근?]]></title>
         <id>https://entertain.v.daum.net/v/20211014000523915</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211013224608280"/>
         <updated>2021-10-13T14:16:25.505Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한예리, 유재명에 "이레 만났다, 살아있어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211013224000247</id>
-        <link href="https://entertain.v.daum.net/v/20211013224000247"/>
-        <updated>2021-10-13T14:16:25.509Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달리와감자탕' 박규영, 김민재 도움으로 황석정 작품 전시 성공]]></title>
-        <id>https://entertain.v.daum.net/v/20211013221412987</id>
-        <link href="https://entertain.v.daum.net/v/20211013221412987"/>
-        <updated>2021-10-13T13:17:43.176Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
