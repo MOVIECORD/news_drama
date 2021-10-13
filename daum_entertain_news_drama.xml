@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-13T11:09:21.532Z</updated>
+    <updated>2021-10-13T12:17:09.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경찰수업' 차태현, "범인 잡을 때 짜릿..대사 외우기 어려웠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211013210101879</id>
+        <link href="https://entertain.v.daum.net/v/20211013210101879"/>
+        <updated>2021-10-13T12:16:59.963Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 신정윤, 박윤재에 "소이현 좋아해..감정 안 숨길 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211013203050438</id>
+        <link href="https://entertain.v.daum.net/v/20211013203050438"/>
+        <updated>2021-10-13T12:16:59.972Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["하룻밤 보낸 사이".. '빨강구두' 정유민, 박윤재에 소이현X신정윤 관계 폭로]]></title>
+        <id>https://entertain.v.daum.net/v/20211013202731363</id>
+        <link href="https://entertain.v.daum.net/v/20211013202731363"/>
+        <updated>2021-10-13T12:16:59.974Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 소이현, 신정윤에 "그날 밤 일, 실수한 거 아니야"]]></title>
         <id>https://entertain.v.daum.net/v/20211013200126966</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211013175137032"/>
         <updated>2021-10-13T09:11:01.593Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차태현 "근육질 갈망하지 않아..제안조차 없다" 웃음]]></title>
-        <id>https://entertain.v.daum.net/v/20211013175022964</id>
-        <link href="https://entertain.v.daum.net/v/20211013175022964"/>
-        <updated>2021-10-13T09:11:01.595Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한마디로 짱X찐"..전지현→오정세, 기대해도 좋을 시너지]]></title>
-        <id>https://entertain.v.daum.net/v/20211013175015957</id>
-        <link href="https://entertain.v.daum.net/v/20211013175015957"/>
-        <updated>2021-10-13T09:11:01.597Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현빈 "고현정과 밥 많이 먹어..재밌는 선배"]]></title>
-        <id>https://entertain.v.daum.net/v/20211013175003949</id>
-        <link href="https://entertain.v.daum.net/v/20211013175003949"/>
-        <updated>2021-10-13T09:11:01.599Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
