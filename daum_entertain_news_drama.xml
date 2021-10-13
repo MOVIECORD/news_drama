@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-13T12:17:09.540Z</updated>
+    <updated>2021-10-13T13:17:52.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달리와감자탕' 박규영, 김민재 도움으로 황석정 작품 전시 성공]]></title>
+        <id>https://entertain.v.daum.net/v/20211013221412987</id>
+        <link href="https://entertain.v.daum.net/v/20211013221412987"/>
+        <updated>2021-10-13T13:17:43.176Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전지현 "'지리산'으로 김은희 작가와 연이어 작품, 무한 영광"]]></title>
+        <id>https://entertain.v.daum.net/v/20211013211736136</id>
+        <link href="https://entertain.v.daum.net/v/20211013211736136"/>
+        <updated>2021-10-13T13:17:43.179Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경찰수업' 차태현, "범인 잡을 때 짜릿..대사 외우기 어려웠다"]]></title>
         <id>https://entertain.v.daum.net/v/20211013210101879</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211013180233429"/>
         <updated>2021-10-13T09:11:01.586Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴백 고현정, 존재부터 '너닮사' 첫방 관전 포인트]]></title>
-        <id>https://entertain.v.daum.net/v/20211013175357101</id>
-        <link href="https://entertain.v.daum.net/v/20211013175357101"/>
-        <updated>2021-10-13T09:11:01.590Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍천기' 곽시양 폭주 시작됐다 "수단 방법 가리지 않을 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211013175137032</id>
-        <link href="https://entertain.v.daum.net/v/20211013175137032"/>
-        <updated>2021-10-13T09:11:01.593Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
