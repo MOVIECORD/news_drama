@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-13T09:11:11.429Z</updated>
+    <updated>2021-10-13T10:12:05.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나 빼고 다 살쪄"..전지현 밝힌 #주지훈 #'엽기적인 그녀']]></title>
+        <id>https://entertain.v.daum.net/v/20211013185007631</id>
+        <link href="https://entertain.v.daum.net/v/20211013185007631"/>
+        <updated>2021-10-13T10:11:52.278Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고현정·전지현·이영애·송혜교..안방극장, 여왕들이 몰려온다]]></title>
+        <id>https://entertain.v.daum.net/v/20211013183305243</id>
+        <link href="https://entertain.v.daum.net/v/20211013183305243"/>
+        <updated>2021-10-13T10:11:52.278Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차태현, 26년 연기 인생 터닝포인트 #엽기녀 #햇빛속으로 #1박2일]]></title>
+        <id>https://entertain.v.daum.net/v/20211013182308034</id>
+        <link href="https://entertain.v.daum.net/v/20211013182308034"/>
+        <updated>2021-10-13T10:11:52.284Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임' 전화번호 노출..개인정보위 "유출 아니나 손배 대상 가능성"]]></title>
         <id>https://entertain.v.daum.net/v/20211013180716596</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211013171122514"/>
         <updated>2021-10-13T08:13:25.883Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정 "최원영과 같이 살고 싶다" 급고백]]></title>
-        <id>https://entertain.v.daum.net/v/20211013165000637</id>
-        <link href="https://entertain.v.daum.net/v/20211013165000637"/>
-        <updated>2021-10-13T08:13:25.884Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 김민경, 마스크 덕분에 도플갱어 발견? 문세윤과 역대급 싱크로율]]></title>
-        <id>https://entertain.v.daum.net/v/20211013162525672</id>
-        <link href="https://entertain.v.daum.net/v/20211013162525672"/>
-        <updated>2021-10-13T08:13:25.884Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정 "힘든 시간 보내고 만난 '너를 닮은 사람', 운명 같은 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20211013161759466</id>
-        <link href="https://entertain.v.daum.net/v/20211013161759466"/>
-        <updated>2021-10-13T08:13:25.885Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
