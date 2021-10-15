@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-15T16:16:19.205Z</updated>
+    <updated>2021-10-15T17:16:46.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이상윤, "당신이 누구 딸이든 상관없어"..이하늬와 '애틋한 첫 키스']]></title>
+        <id>https://entertain.v.daum.net/v/20211016012404976</id>
+        <link href="https://entertain.v.daum.net/v/20211016012404976"/>
+        <updated>2021-10-15T17:16:37.043Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유미의 세포들' 김고은, 박지현에 사이다 일갈..안보현과 사랑확인]]></title>
         <id>https://entertain.v.daum.net/v/20211016000730518</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211015220954477"/>
         <updated>2021-10-15T13:17:49.517Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 이상윤에 "나는 방화살인범 딸" 父 범죄 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20211015220752456</id>
-        <link href="https://entertain.v.daum.net/v/20211015220752456"/>
-        <updated>2021-10-15T13:17:49.518Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
