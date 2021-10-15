@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-15T10:12:22.437Z</updated>
+    <updated>2021-10-15T11:09:25.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['팽' 윤소희, 주우재=회사대표 알았다..괴한 급습 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211015192617135</id>
+        <link href="https://entertain.v.daum.net/v/20211015192617135"/>
+        <updated>2021-10-15T11:09:16.902Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갯마을 차차차' 홍지희, 공감 자아낸 心스틸러 활약]]></title>
         <id>https://entertain.v.daum.net/v/20211015185113578</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211015154817052"/>
         <updated>2021-10-15T07:11:11.720Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["현실 친구 같다"..이선빈·한선화·정은지, 음주 욕구 부르는 '술꾼도시여자들']]></title>
-        <id>https://entertain.v.daum.net/v/20211015154501951</id>
-        <link href="https://entertain.v.daum.net/v/20211015154501951"/>
-        <updated>2021-10-15T07:11:11.720Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
