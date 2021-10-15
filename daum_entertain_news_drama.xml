@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-15T11:09:25.115Z</updated>
+    <updated>2021-10-15T12:17:43.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선호에 빠질 수밖에 없는 이유, '갯마을 차차차'까지 4년 성장사]]></title>
+        <id>https://entertain.v.daum.net/v/20211015210101542</id>
+        <link href="https://entertain.v.daum.net/v/20211015210101542"/>
+        <updated>2021-10-15T12:17:33.928Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 최명길, 아들 진호 울음 소리 환청 '오열']]></title>
+        <id>https://entertain.v.daum.net/v/20211015204046301</id>
+        <link href="https://entertain.v.daum.net/v/20211015204046301"/>
+        <updated>2021-10-15T12:17:33.936Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['팽' 윤소희, 주우재=회사대표 알았다..괴한 급습 위기]]></title>
         <id>https://entertain.v.daum.net/v/20211015192617135</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211015161210802"/>
         <updated>2021-10-15T08:12:57.915Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은지·한선화·이선빈, '술꾼도시여자들'이 선사할 유쾌한 공감]]></title>
-        <id>https://entertain.v.daum.net/v/20211015155725336</id>
-        <link href="https://entertain.v.daum.net/v/20211015155725336"/>
-        <updated>2021-10-15T07:11:11.720Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은 vs 박지현, 안보현 놓고 신경전..로맨스 위기?]]></title>
-        <id>https://entertain.v.daum.net/v/20211015154817052</id>
-        <link href="https://entertain.v.daum.net/v/20211015154817052"/>
-        <updated>2021-10-15T07:11:11.720Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
