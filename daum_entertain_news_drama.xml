@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-15T07:11:19.521Z</updated>
+    <updated>2021-10-15T08:13:06.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선빈→정은지 밝힌 #첫인상 #찐친 케미]]></title>
+        <id>https://entertain.v.daum.net/v/20211015165004842</id>
+        <link href="https://entertain.v.daum.net/v/20211015165004842"/>
+        <updated>2021-10-15T08:12:57.903Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['갯마을 차차차' 신민아, 세대불문+취향저격 케미라인]]></title>
+        <id>https://entertain.v.daum.net/v/20211015163826551</id>
+        <link href="https://entertain.v.daum.net/v/20211015163826551"/>
+        <updated>2021-10-15T08:12:57.908Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍경, 열일 행보 이어가나 "'콘크리트 마켓' 제안받고 검토 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211015161210802</id>
+        <link href="https://entertain.v.daum.net/v/20211015161210802"/>
+        <updated>2021-10-15T08:12:57.915Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정은지·한선화·이선빈, '술꾼도시여자들'이 선사할 유쾌한 공감]]></title>
         <id>https://entertain.v.daum.net/v/20211015155725336</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211015150722690"/>
         <updated>2021-10-15T06:13:46.910Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["진짜 술 먹고 촬영"..이선빈→최시원, 보기만 해도 취하는 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20211015150701679</id>
-        <link href="https://entertain.v.daum.net/v/20211015150701679"/>
-        <updated>2021-10-15T06:13:46.910Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술꾼도시여자들' 이선빈 "'닭발 루돌프' 장면, 애드리브로 탄생"]]></title>
-        <id>https://entertain.v.daum.net/v/20211015150112517</id>
-        <link href="https://entertain.v.daum.net/v/20211015150112517"/>
-        <updated>2021-10-15T06:13:46.911Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍천기' 6주연속 시청률 1위, 김유정♥안효섭 로맨스에 빠져드는 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20211015145953457</id>
-        <link href="https://entertain.v.daum.net/v/20211015145953457"/>
-        <updated>2021-10-15T06:13:46.911Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
