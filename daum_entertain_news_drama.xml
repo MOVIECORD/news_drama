@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-16T19:09:18.031Z</updated>
+    <updated>2021-10-16T20:11:15.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차태현 "연말에 트로피 받는 게 목표! 열심히 한 느낌"]]></title>
+        <id>https://entertain.v.daum.net/v/20211017050001362</id>
+        <link href="https://entertain.v.daum.net/v/20211017050001362"/>
+        <updated>2021-10-16T20:11:02.934Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하늬♥이상윤, '진짜 사랑' 시작..김원해→송원석에 '가짜 강미나' 발각?]]></title>
         <id>https://entertain.v.daum.net/v/20211017002631580</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016224330684"/>
         <updated>2021-10-16T14:10:09.362Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 검사 이하늬, 강미나로 중앙지청 소환 요청..1인 2역?]]></title>
-        <id>https://entertain.v.daum.net/v/20211016223115570</id>
-        <link href="https://entertain.v.daum.net/v/20211016223115570"/>
-        <updated>2021-10-16T14:10:09.370Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
