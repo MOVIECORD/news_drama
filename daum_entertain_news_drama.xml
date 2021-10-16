@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-16T15:11:22.933Z</updated>
+    <updated>2021-10-16T16:15:09.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬♥이상윤, '진짜 사랑' 시작..김원해→송원석에 '가짜 강미나' 발각?]]></title>
+        <id>https://entertain.v.daum.net/v/20211017002631580</id>
+        <link href="https://entertain.v.daum.net/v/20211017002631580"/>
+        <updated>2021-10-16T16:14:59.963Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이하늬♥이상윤, 14년 전 '첫 사랑의 퍼즐' 맞췄다..새롭게 사랑 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20211017001200473</id>
+        <link href="https://entertain.v.daum.net/v/20211017001200473"/>
+        <updated>2021-10-16T16:14:59.970Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인간실격' 박지영, 남편 내연녀 병원서 전도연 만났다 '긴장']]></title>
         <id>https://entertain.v.daum.net/v/20211016235920342</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211016223115570"/>
         <updated>2021-10-16T14:10:09.370Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 이상윤과 키스 후 어색 기류 '경악']]></title>
-        <id>https://entertain.v.daum.net/v/20211016222342463</id>
-        <link href="https://entertain.v.daum.net/v/20211016222342463"/>
-        <updated>2021-10-16T14:10:09.371Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["울어도 돼".. '갯마을차차차' 신민아, 과거 밝힌 김선호 위로]]></title>
-        <id>https://entertain.v.daum.net/v/20211016221827389</id>
-        <link href="https://entertain.v.daum.net/v/20211016221827389"/>
-        <updated>2021-10-16T14:10:09.371Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
