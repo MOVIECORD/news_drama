@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-18T17:17:54.827Z</updated>
+    <updated>2021-10-18T18:13:00.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스우파' 다시 보는 명장면]]></title>
+        <id>https://entertain.v.daum.net/v/20211019023011069</id>
+        <link href="https://entertain.v.daum.net/v/20211019023011069"/>
+        <updated>2021-10-18T18:12:51.928Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이클래스' 박세진 우현주 이어 혼수상태..조여정 경고]]></title>
         <id>https://entertain.v.daum.net/v/20211019001538484</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211018215504258"/>
         <updated>2021-10-18T13:17:56.142Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 로운 등장에 화들짝 놀라 공격..운명적 만남]]></title>
-        <id>https://entertain.v.daum.net/v/20211018215331242</id>
-        <link href="https://entertain.v.daum.net/v/20211018215331242"/>
-        <updated>2021-10-18T13:17:56.145Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
