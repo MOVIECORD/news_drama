@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-18T15:12:14.262Z</updated>
+    <updated>2021-10-18T16:16:47.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하이클래스' 박세진 우현주 이어 혼수상태..조여정 경고]]></title>
+        <id>https://entertain.v.daum.net/v/20211019001538484</id>
+        <link href="https://entertain.v.daum.net/v/20211019001538484"/>
+        <updated>2021-10-18T16:16:38.653Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이클래스' 김남희, 내연녀 박세진도 죽이려 했나? 의문의 교통사고]]></title>
         <id>https://entertain.v.daum.net/v/20211018234900187</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211018215331242"/>
         <updated>2021-10-18T13:17:56.145Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이클래스' 아내 조여정에 생존 들킨 김남희, 본격 악행 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20211018213829062</id>
-        <link href="https://entertain.v.daum.net/v/20211018213829062"/>
-        <updated>2021-10-18T13:17:56.148Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
