@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-19T15:12:14.297Z</updated>
+    <updated>2021-10-19T16:17:00.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국가대표 와이프' 금보라, 찜질방으로 가출.. 한다감과 고부갈등 심화]]></title>
+        <id>https://entertain.v.daum.net/v/20211020004328599</id>
+        <link href="https://entertain.v.daum.net/v/20211020004328599"/>
+        <updated>2021-10-19T16:16:51.927Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이클래스' 살해된 박세진.. 조여정, 진범=김남희 확신]]></title>
         <id>https://entertain.v.daum.net/v/20211019235200172</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019212730620"/>
         <updated>2021-10-19T13:17:53.071Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 선우재덕X최명길, 서로 前배우자 죽여]]></title>
-        <id>https://entertain.v.daum.net/v/20211019203355645</id>
-        <link href="https://entertain.v.daum.net/v/20211019203355645"/>
-        <updated>2021-10-19T12:17:19.441Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
