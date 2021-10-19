@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-19T07:11:42.258Z</updated>
+    <updated>2021-10-19T08:14:16.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이네임' 한소희, 체중 10kg 증량 이상의 연기..넷플릭스 전세계 4위]]></title>
+        <id>https://entertain.v.daum.net/v/20211019161835567</id>
+        <link href="https://entertain.v.daum.net/v/20211019161835567"/>
+        <updated>2021-10-19T08:14:07.503Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배윤경, 로운 향해 직진 로맨스 '설렘 한스푼']]></title>
         <id>https://entertain.v.daum.net/v/20211019154500281</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019133300326"/>
         <updated>2021-10-19T05:10:14.833Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈vs로운, 계곡서 상의 탈의까지 "뛰는 휘 위에 나는 지운"]]></title>
-        <id>https://entertain.v.daum.net/v/20211019133042268</id>
-        <link href="https://entertain.v.daum.net/v/20211019133042268"/>
-        <updated>2021-10-19T05:10:14.836Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
