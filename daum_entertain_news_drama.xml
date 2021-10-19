@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-19T21:09:58.965Z</updated>
+    <updated>2021-10-19T22:11:14.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 9.3% 시청률 상승, 월화극 1위 수성]]></title>
+        <id>https://entertain.v.daum.net/v/20211020065658789</id>
+        <link href="https://entertain.v.daum.net/v/20211020065658789"/>
+        <updated>2021-10-19T22:11:04.948Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 김유정, 父최광일 잃어→화단 사형 위기..안효섭 "기다려라"]]></title>
+        <id>https://entertain.v.daum.net/v/20211020064501674</id>
+        <link href="https://entertain.v.daum.net/v/20211020064501674"/>
+        <updated>2021-10-19T22:11:04.948Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 로운, 박은빈과 갈등..목숨 걸었다 "화살 피해 봐라"]]></title>
+        <id>https://entertain.v.daum.net/v/20211020063009543</id>
+        <link href="https://entertain.v.daum.net/v/20211020063009543"/>
+        <updated>2021-10-19T22:11:04.949Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가대표 와이프' 금보라, 찜질방으로 가출.. 한다감과 고부갈등 심화]]></title>
         <id>https://entertain.v.daum.net/v/20211020004328599</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211019220301322"/>
         <updated>2021-10-19T13:17:53.069Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 父 협박에 못 이겨 박은빈 사서로..운명적 만남]]></title>
-        <id>https://entertain.v.daum.net/v/20211019215533196</id>
-        <link href="https://entertain.v.daum.net/v/20211019215533196"/>
-        <updated>2021-10-19T13:17:53.069Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 박은빈 스승 됐다.. "실수는 용서해주시길" 능글매력]]></title>
-        <id>https://entertain.v.daum.net/v/20211019215430163</id>
-        <link href="https://entertain.v.daum.net/v/20211019215430163"/>
-        <updated>2021-10-19T13:17:53.071Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["목소리가 다했다" 성우들 美친 열연 현장]]></title>
-        <id>https://entertain.v.daum.net/v/20211019212730620</id>
-        <link href="https://entertain.v.daum.net/v/20211019212730620"/>
-        <updated>2021-10-19T13:17:53.071Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
