@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-20T09:11:19.299Z</updated>
+    <updated>2021-10-20T10:12:33.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재·박규영·권율, 세상 불편한 삼자대면]]></title>
+        <id>https://entertain.v.daum.net/v/20211020190939528</id>
+        <link href="https://entertain.v.daum.net/v/20211020190939528"/>
+        <updated>2021-10-20T10:12:24.150Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최성봉 뮤비 제작사 "암투병 믿고 무보수로 촬영했는데.."]]></title>
+        <id>https://entertain.v.daum.net/v/20211020185023006</id>
+        <link href="https://entertain.v.daum.net/v/20211020185023006"/>
+        <updated>2021-10-20T10:12:24.167Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희 '마이 네임' 여운 더하는 미공개 스틸]]></title>
         <id>https://entertain.v.daum.net/v/20211020181021040</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211020164159833"/>
         <updated>2021-10-20T08:12:56.819Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 미안해 아버지"..김유정, 이렇게 예쁜 눈물 요정]]></title>
-        <id>https://entertain.v.daum.net/v/20211020163526561</id>
-        <link href="https://entertain.v.daum.net/v/20211020163526561"/>
-        <updated>2021-10-20T08:12:56.819Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지→정은채, '안나' 출연 확정..15일 크랭크인]]></title>
-        <id>https://entertain.v.daum.net/v/20211020162645203</id>
-        <link href="https://entertain.v.daum.net/v/20211020162645203"/>
-        <updated>2021-10-20T08:12:56.820Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
