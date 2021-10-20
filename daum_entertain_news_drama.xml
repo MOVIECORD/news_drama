@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-20T02:00:19.080Z</updated>
+    <updated>2021-10-20T02:33:50.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨', 시청률 30% 목전..'연기+연출+음악' 인기 3박자]]></title>
+        <id>https://entertain.v.daum.net/v/20211020111030469</id>
+        <link href="https://entertain.v.daum.net/v/20211020111030469"/>
+        <updated>2021-10-20T02:33:41.756Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박용우, '트레이서' 출연 확정..임시완·손현주와 막강 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20211020110436122</id>
+        <link href="https://entertain.v.daum.net/v/20211020110436122"/>
+        <updated>2021-10-20T02:33:41.758Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영아, '합성 피' 마시는 뱀파이어라니..]]></title>
         <id>https://entertain.v.daum.net/v/20211020105305418</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211020091750800</id>
         <link href="https://entertain.v.daum.net/v/20211020091750800"/>
         <updated>2021-10-20T00:37:56.386Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키마이라' 박해수x수현x이희준, 극한의 몰입감+차별화된 장르물 기대]]></title>
-        <id>https://entertain.v.daum.net/v/20211020091305609</id>
-        <link href="https://entertain.v.daum.net/v/20211020091305609"/>
-        <updated>2021-10-20T00:37:56.391Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' KBS 대박 주말극 계보 잇는다]]></title>
-        <id>https://entertain.v.daum.net/v/20211020091128549</id>
-        <link href="https://entertain.v.daum.net/v/20211020091128549"/>
-        <updated>2021-10-20T00:37:56.392Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
