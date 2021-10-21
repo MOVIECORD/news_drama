@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-21T12:17:32.665Z</updated>
+    <updated>2021-10-21T13:18:55.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영, 황희 방문에 심각]]></title>
+        <id>https://entertain.v.daum.net/v/20211021213008191</id>
+        <link href="https://entertain.v.daum.net/v/20211021213008191"/>
+        <updated>2021-10-21T13:18:46.658Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너를 닮은 사람' 신현빈, 최원영과 비밀스러운 만남]]></title>
         <id>https://entertain.v.daum.net/v/20211021205917458</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211021173412065"/>
         <updated>2021-10-21T09:20:40.555Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["석봉이 계단씬 노래는.." 프라이머리가 언급한 'D.P. 시즌 2']]></title>
-        <id>https://entertain.v.daum.net/v/20211021172712780</id>
-        <link href="https://entertain.v.daum.net/v/20211021172712780"/>
-        <updated>2021-10-21T09:20:40.555Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
