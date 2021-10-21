@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-21T03:11:54.313Z</updated>
+    <updated>2021-10-21T04:14:48.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류의현, 티빙 '어른 연습생' 출연..'달뜨강' 이어 열일]]></title>
+        <id>https://entertain.v.daum.net/v/20211021122711747</id>
+        <link href="https://entertain.v.daum.net/v/20211021122711747"/>
+        <updated>2021-10-21T04:14:38.406Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김귀선 '키마이라' 출연, 야당 실세 현직 국회위원 된다]]></title>
         <id>https://entertain.v.daum.net/v/20211021120628303</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211021104121224"/>
         <updated>2021-10-21T02:05:14.972Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박환희 '지리산' 특별출연, 전지현 주지훈과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20211021102111250</id>
-        <link href="https://entertain.v.daum.net/v/20211021102111250"/>
-        <updated>2021-10-21T02:05:14.973Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
