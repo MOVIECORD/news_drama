@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-22T03:11:54.352Z</updated>
+    <updated>2021-10-22T04:14:03.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 D-1 '지리산' 주지훈 보여줄 세 가지 #인생캐 #열정 #흥행불패]]></title>
+        <id>https://entertain.v.daum.net/v/20211022122805155</id>
+        <link href="https://entertain.v.daum.net/v/20211022122805155"/>
+        <updated>2021-10-22T04:13:55.150Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['술꾼도시여자들' 감독 "배우들 진짜 친구돼, 연기 같지 않을 정도"]]></title>
+        <id>https://entertain.v.daum.net/v/20211022121624952</id>
+        <link href="https://entertain.v.daum.net/v/20211022121624952"/>
+        <updated>2021-10-22T04:13:55.153Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박희순 "'마이네임' 통해 박휘순 아닌 박희순 내 이름 찾고 싶다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211022121412909</id>
+        <link href="https://entertain.v.daum.net/v/20211022121412909"/>
+        <updated>2021-10-22T04:13:55.154Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박희순 "아직도 '박휘순'과 헷갈려 '마이네임'으로 내 이름 찾고싶다"]]></title>
         <id>https://entertain.v.daum.net/v/20211022120516636</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211022100718626"/>
         <updated>2021-10-22T02:06:24.003Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 정해인 지수, 애절한 로맨스 분위기 "한 번만 봤으면 좋겠어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211022100239453</id>
-        <link href="https://entertain.v.daum.net/v/20211022100239453"/>
-        <updated>2021-10-22T02:06:24.004Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너닮사' 신혜지, 시청자 숨은 원픽..분위기+연기력 '묘한 매력']]></title>
-        <id>https://entertain.v.daum.net/v/20211022095504189</id>
-        <link href="https://entertain.v.daum.net/v/20211022095504189"/>
-        <updated>2021-10-22T02:06:24.006Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어사와 조이' 옥택연, 극한직업 어사 출두..짠내와 멋짐 사이]]></title>
-        <id>https://entertain.v.daum.net/v/20211022095344142</id>
-        <link href="https://entertain.v.daum.net/v/20211022095344142"/>
-        <updated>2021-10-22T02:06:24.008Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
