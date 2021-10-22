@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-22T21:09:58.685Z</updated>
+    <updated>2021-10-22T22:11:11.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그 사람은 가짜" 진서연, 이하늬 정체 알았다.. 긴장감↑]]></title>
+        <id>https://entertain.v.daum.net/v/20211023065818216</id>
+        <link href="https://entertain.v.daum.net/v/20211023065818216"/>
+        <updated>2021-10-22T22:11:02.469Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김은희 손잡은 전지현X주지훈 '지리산' 미스터리도 흥할까]]></title>
         <id>https://entertain.v.daum.net/v/20211023060115875</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211022234202208"/>
         <updated>2021-10-22T15:11:28.435Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 송원석에게도 정체 들켰다.."누구든 상관없어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211022232006002</id>
-        <link href="https://entertain.v.daum.net/v/20211022232006002"/>
-        <updated>2021-10-22T15:11:28.435Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
