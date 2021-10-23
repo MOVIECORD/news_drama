@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-23T06:13:04.231Z</updated>
+    <updated>2021-10-23T07:10:39.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플레이리스트 '팽' 측, "남자들의 미묘한 신경전 펼쳐질 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211023160451574</id>
+        <link href="https://entertain.v.daum.net/v/20211023160451574"/>
+        <updated>2021-10-23T07:10:30.795Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와 아가씨' 지현우, 이세희 손목 잡은 이유는?..심상치 않은 분위기]]></title>
         <id>https://entertain.v.daum.net/v/20211023151202076</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211023123412478</id>
         <link href="https://entertain.v.daum.net/v/20211023123412478"/>
         <updated>2021-10-23T04:13:55.133Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 최고 케미 퀸 #앙숙 시댁 #♥이상윤 커플#김창완 조력]]></title>
-        <id>https://entertain.v.daum.net/v/20211023121609345</id>
-        <link href="https://entertain.v.daum.net/v/20211023121609345"/>
-        <updated>2021-10-23T04:13:55.135Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
