@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-23T10:11:29.200Z</updated>
+    <updated>2021-10-23T11:09:30.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우, '이종원 딸' 속인 이세희에 "당장 이 집에서 나가요"]]></title>
+        <id>https://entertain.v.daum.net/v/20211023200817601</id>
+        <link href="https://entertain.v.daum.net/v/20211023200817601"/>
+        <updated>2021-10-23T11:09:21.447Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우, 이세희에 해고 통보.."사기꾼 집안 딸"]]></title>
+        <id>https://entertain.v.daum.net/v/20211023200726592</id>
+        <link href="https://entertain.v.daum.net/v/20211023200726592"/>
+        <updated>2021-10-23T11:09:21.448Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검은 태양' 남궁민, 이 연기력 X 피지컬은 못 참지]]></title>
         <id>https://entertain.v.daum.net/v/20211023170909594</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023141334505"/>
         <updated>2021-10-23T06:12:54.598Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이세희 손목 잡은 지현우, 심상치 않은 분위기]]></title>
-        <id>https://entertain.v.daum.net/v/20211023141236499</id>
-        <link href="https://entertain.v.daum.net/v/20211023141236499"/>
-        <updated>2021-10-23T06:12:54.600Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술꾼도시여자들' 한선화, 매력이 어나더레벨..러블리 끝판왕]]></title>
-        <id>https://entertain.v.daum.net/v/20211023140734448</id>
-        <link href="https://entertain.v.daum.net/v/20211023140734448"/>
-        <updated>2021-10-23T05:09:42.359Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
