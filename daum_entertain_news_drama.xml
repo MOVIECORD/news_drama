@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-23T19:09:20.907Z</updated>
+    <updated>2021-10-23T20:11:16.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조여정 "선택해" 통쾌한 반격]]></title>
+        <id>https://entertain.v.daum.net/v/20211024044301296</id>
+        <link href="https://entertain.v.daum.net/v/20211024044301296"/>
+        <updated>2021-10-23T20:11:07.584Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원더우먼' 이하늬, 유민 前회장과 친자 관계 99.9999% '일치'..이하늬, "대체 왜?" 경악]]></title>
         <id>https://entertain.v.daum.net/v/20211024004200609</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211023224717977"/>
         <updated>2021-10-23T14:09:55.502Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은태양' 김지은, 유오성 위해 스스로 인질됐다.."조금이라도 아빠가 남아있길"]]></title>
-        <id>https://entertain.v.daum.net/v/20211023224549959</id>
-        <link href="https://entertain.v.daum.net/v/20211023224549959"/>
-        <updated>2021-10-23T14:09:55.502Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
