@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-24T08:12:48.772Z</updated>
+    <updated>2021-10-24T09:11:06.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지리산' 전지현·오정세, 경찰 전석호 찾아갔다..이유는?]]></title>
+        <id>https://entertain.v.daum.net/v/20211024174129409</id>
+        <link href="https://entertain.v.daum.net/v/20211024174129409"/>
+        <updated>2021-10-24T09:10:57.469Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지리산, 작가·감독 이름값에 첫회부터 시청률 1위..CG는 '옥의 티']]></title>
         <id>https://entertain.v.daum.net/v/20211024164802993</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024124601769"/>
         <updated>2021-10-24T04:13:55.877Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검은태양' 남궁민 "14kg 증량, 고된 과정이었지만 호흡 최고였다"..소감]]></title>
-        <id>https://entertain.v.daum.net/v/20211024124450756</id>
-        <link href="https://entertain.v.daum.net/v/20211024124450756"/>
-        <updated>2021-10-24T04:13:55.879Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
