@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-24T07:10:56.621Z</updated>
+    <updated>2021-10-24T08:12:48.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지리산, 작가·감독 이름값에 첫회부터 시청률 1위..CG는 '옥의 티']]></title>
+        <id>https://entertain.v.daum.net/v/20211024164802993</id>
+        <link href="https://entertain.v.daum.net/v/20211024164802993"/>
+        <updated>2021-10-24T08:12:40.622Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검은 태양' 감독 "묵묵히 불변의 가치 지키는 이야기"]]></title>
+        <id>https://entertain.v.daum.net/v/20211024162337538</id>
+        <link href="https://entertain.v.daum.net/v/20211024162337538"/>
+        <updated>2021-10-24T08:12:40.622Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유미의 세포들' 김고은♥︎안보현, 동거 끝..진영 때문에 오해만 쌓이네]]></title>
+        <id>https://entertain.v.daum.net/v/20211024161609410</id>
+        <link href="https://entertain.v.daum.net/v/20211024161609410"/>
+        <updated>2021-10-24T08:12:40.622Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BBC, 中 '오징어 게임' 표절 혐의 조명 "오징어의 승리?"]]></title>
         <id>https://entertain.v.daum.net/v/20211024160436119</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024124450756"/>
         <updated>2021-10-24T04:13:55.879Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈, 첫 회부터 혼수상태..섬뜩+미스터리의 반전 엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20211024123354651</id>
-        <link href="https://entertain.v.daum.net/v/20211024123354651"/>
-        <updated>2021-10-24T04:13:55.879Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 BBC "中 스트리밍 사이트 '오징어게임' 표절 논란 사과" 韓김치·한복도 언급]]></title>
-        <id>https://entertain.v.daum.net/v/20211024122139504</id>
-        <link href="https://entertain.v.daum.net/v/20211024122139504"/>
-        <updated>2021-10-24T04:13:55.880Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英·美 넘어 北에서도 언급..넷플릭스 첫 1위 '올킬'의 위엄]]></title>
-        <id>https://entertain.v.daum.net/v/20211024115011025</id>
-        <link href="https://entertain.v.daum.net/v/20211024115011025"/>
-        <updated>2021-10-24T03:11:41.580Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
