@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-24T15:11:17.518Z</updated>
+    <updated>2021-10-24T16:15:37.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '인간실격' 전도연, 류준열과 천문대서 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20211025002054912</id>
+        <link href="https://entertain.v.daum.net/v/20211025002054912"/>
+        <updated>2021-10-24T16:15:27.755Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '인간실격' 전도연X류준열, 별자리 추억 소환 '재회엔딩']]></title>
+        <id>https://entertain.v.daum.net/v/20211025001800886</id>
+        <link href="https://entertain.v.daum.net/v/20211025001800886"/>
+        <updated>2021-10-24T16:15:27.760Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '인간실격' 전도연, 박병은에 "좋아하는 사람 생겼다"→번호 지운 류준열과 재회]]></title>
         <id>https://entertain.v.daum.net/v/20211025000419771</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211024213520322"/>
         <updated>2021-10-24T13:15:36.860Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이세희, 지현우에 달려가 안겼다 '로맨스 급물살']]></title>
-        <id>https://entertain.v.daum.net/v/20211024212200199</id>
-        <link href="https://entertain.v.daum.net/v/20211024212200199"/>
-        <updated>2021-10-24T13:15:36.860Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이세희, 지현우 품에서 안도 느꼈다.. 풋풋 로맨스 물살]]></title>
-        <id>https://entertain.v.daum.net/v/20211024212000181</id>
-        <link href="https://entertain.v.daum.net/v/20211024212000181"/>
-        <updated>2021-10-24T13:15:36.861Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
