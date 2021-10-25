@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-25T21:10:23.819Z</updated>
+    <updated>2021-10-25T22:11:16.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[51세 박희순·44세 허성태·48세 조한철 "내 나이가 어때서"]]></title>
+        <id>https://entertain.v.daum.net/v/20211026065724183</id>
+        <link href="https://entertain.v.daum.net/v/20211026065724183"/>
+        <updated>2021-10-25T22:11:07.772Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꼬꼬무' 28일 엄여인 보험 살인사건편 주목]]></title>
+        <id>https://entertain.v.daum.net/v/20211026065713175</id>
+        <link href="https://entertain.v.daum.net/v/20211026065713175"/>
+        <updated>2021-10-25T22:11:07.777Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['OTT 전쟁' 선봉에 선 K스타들]]></title>
+        <id>https://entertain.v.daum.net/v/20211026065711173</id>
+        <link href="https://entertain.v.daum.net/v/20211026065711173"/>
+        <updated>2021-10-25T22:11:07.777Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 시청률 하락에도 월화극 1위, 힘 못쓰는 '연모']]></title>
+        <id>https://entertain.v.daum.net/v/20211026065620161</id>
+        <link href="https://entertain.v.daum.net/v/20211026065620161"/>
+        <updated>2021-10-25T22:11:07.778Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모' 박은빈, 로운과 티격태격→설렘 눈맞춤..흥미↑]]></title>
         <id>https://entertain.v.daum.net/v/20211026060001461</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211025223332721"/>
         <updated>2021-10-25T14:10:42.371Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 박은빈 정체 의심.."여자처럼 느껴져"]]></title>
-        <id>https://entertain.v.daum.net/v/20211025221643578</id>
-        <link href="https://entertain.v.daum.net/v/20211025221643578"/>
-        <updated>2021-10-25T13:18:29.549Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 박은빈 보며 발그레 "여자로 느껴져"]]></title>
-        <id>https://entertain.v.daum.net/v/20211025221401555</id>
-        <link href="https://entertain.v.daum.net/v/20211025221401555"/>
-        <updated>2021-10-25T13:18:29.549Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍천기' 안효섭, 제 손으로 父 한상진 죽인 것 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211025221012503</id>
-        <link href="https://entertain.v.daum.net/v/20211025221012503"/>
-        <updated>2021-10-25T13:18:29.554Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지영, 손예진 엄마된다..JTBC '서른, 아홉' 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20211025220755459</id>
-        <link href="https://entertain.v.daum.net/v/20211025220755459"/>
-        <updated>2021-10-25T13:18:29.554Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
