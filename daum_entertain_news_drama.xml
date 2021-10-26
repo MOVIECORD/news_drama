@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-26T06:13:49.361Z</updated>
+    <updated>2021-10-26T07:11:20.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검은 태양' 김지은 "지상파 첫 주연, 성장통 느껴..피해 끼칠까 걱정"]]></title>
+        <id>https://entertain.v.daum.net/v/20211026155753997</id>
+        <link href="https://entertain.v.daum.net/v/20211026155753997"/>
+        <updated>2021-10-26T07:11:11.922Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아틀리에 살인사건→호수의 비밀, 고현정x신현빈 둘러싼 복선]]></title>
+        <id>https://entertain.v.daum.net/v/20211026154137291</id>
+        <link href="https://entertain.v.daum.net/v/20211026154137291"/>
+        <updated>2021-10-26T07:11:11.922Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 D-day '홍천기' 매력적인 캐릭터, 아쉬운 스토리]]></title>
         <id>https://entertain.v.daum.net/v/20211026150630737</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026131131323"/>
         <updated>2021-10-26T04:14:15.438Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈♥로운, '입덕 부정기' 현장..시강원의 이상 기류]]></title>
-        <id>https://entertain.v.daum.net/v/20211026130823201</id>
-        <link href="https://entertain.v.daum.net/v/20211026130823201"/>
-        <updated>2021-10-26T04:14:15.438Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 D-day '홍천기' 안효섭♥김유정, 해피 or 새드엔딩?]]></title>
-        <id>https://entertain.v.daum.net/v/20211026130644164</id>
-        <link href="https://entertain.v.daum.net/v/20211026130644164"/>
-        <updated>2021-10-26T04:14:15.438Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
