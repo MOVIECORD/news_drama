@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-26T01:52:44.402Z</updated>
+    <updated>2021-10-26T02:23:56.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달리와 감자탕' 김민재X박규영, 청송 미술관 지켜낼까..떡밥 #3]]></title>
+        <id>https://entertain.v.daum.net/v/20211026110636284</id>
+        <link href="https://entertain.v.daum.net/v/20211026110636284"/>
+        <updated>2021-10-26T02:23:48.679Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뫼비우스 : 검은 태양' 박하선X정문성X장영남, 대본 리딩도 '숨멎']]></title>
+        <id>https://entertain.v.daum.net/v/20211026110353136</id>
+        <link href="https://entertain.v.daum.net/v/20211026110353136"/>
+        <updated>2021-10-26T02:23:48.680Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지리산' 내몰린 이들의 땅이 전지현·주지훈 부른 이유는?]]></title>
+        <id>https://entertain.v.daum.net/v/20211026110043952</id>
+        <link href="https://entertain.v.daum.net/v/20211026110043952"/>
+        <updated>2021-10-26T02:23:48.680Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 루나·정인선 캐릭터 스틸 컷 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211026105038371</id>
@@ -17,13 +38,6 @@
         <id>https://entertain.v.daum.net/v/20211026104810249</id>
         <link href="https://entertain.v.daum.net/v/20211026104810249"/>
         <updated>2021-10-26T01:52:36.629Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼윈도:여왕의 집' 잘못된 사랑에 빠진 전소민, 어떤 파장 일으키나]]></title>
-        <id>https://entertain.v.daum.net/v/20211026104511032</id>
-        <link href="https://entertain.v.daum.net/v/20211026104511032"/>
-        <updated>2021-10-26T01:52:36.630Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026094820384"/>
         <updated>2021-10-26T01:52:36.643Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 작가 "임수정・이도현 캐스팅 난제 풀릴 때보다 더 기뻤다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211026094720337</id>
-        <link href="https://entertain.v.daum.net/v/20211026094720337"/>
-        <updated>2021-10-26T01:52:36.646Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 김지운 작가 "임수정-이도현 캐스팅, 난제 풀릴 때보다 기뻤다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211026094240165</id>
-        <link href="https://entertain.v.daum.net/v/20211026094240165"/>
-        <updated>2021-10-26T01:52:36.648Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
