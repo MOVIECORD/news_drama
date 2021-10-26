@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-26T14:11:18.533Z</updated>
+    <updated>2021-10-26T15:11:39.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하이클래스' 벼랑 끝 김남희, 조여정 아들 납치.. 박세진 살아 있었다]]></title>
+        <id>https://entertain.v.daum.net/v/20211026235148296</id>
+        <link href="https://entertain.v.daum.net/v/20211026235148296"/>
+        <updated>2021-10-26T15:11:31.829Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 로운, 삼계방 운영..서연관→유배]]></title>
+        <id>https://entertain.v.daum.net/v/20211026233904216</id>
+        <link href="https://entertain.v.daum.net/v/20211026233904216"/>
+        <updated>2021-10-26T15:11:31.831Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홍천기' 김유정♥안효섭, 마왕 봉인하고 부부됐다.. 공명VS곽시양 격돌하며 "오픈엔딩"]]></title>
         <id>https://entertain.v.daum.net/v/20211026230800003</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026200251579"/>
         <updated>2021-10-26T11:09:36.504Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 한기웅, 엄현경 사랑하지만..엄현경 복수]]></title>
-        <id>https://entertain.v.daum.net/v/20211026195910507</id>
-        <link href="https://entertain.v.daum.net/v/20211026195910507"/>
-        <updated>2021-10-26T11:09:36.506Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두 번째 남편' 엄현경 생모, 지수원일까? 성병숙 유품상자 열었다]]></title>
-        <id>https://entertain.v.daum.net/v/20211026193623054</id>
-        <link href="https://entertain.v.daum.net/v/20211026193623054"/>
-        <updated>2021-10-26T11:09:36.506Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
