@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-26T04:14:24.783Z</updated>
+    <updated>2021-10-26T05:10:13.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송승하, 제대로 보여주는 제벌 2세룩]]></title>
+        <id>https://entertain.v.daum.net/v/20211026140859287</id>
+        <link href="https://entertain.v.daum.net/v/20211026140859287"/>
+        <updated>2021-10-26T05:10:05.792Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조여정, 병원 입원→핏기 가신 초췌한 몰골 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20211026135449585</id>
+        <link href="https://entertain.v.daum.net/v/20211026135449585"/>
+        <updated>2021-10-26T05:10:05.792Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '홍천기', 안효섭♥김유정 마왕 봉인식 성공하고 해피엔딩?]]></title>
+        <id>https://entertain.v.daum.net/v/20211026135310525</id>
+        <link href="https://entertain.v.daum.net/v/20211026135310525"/>
+        <updated>2021-10-26T05:10:05.797Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 안효섭♥김유정, '마왕 봉인식' 성공하고 해피엔딩 이룰까?]]></title>
+        <id>https://entertain.v.daum.net/v/20211026132154554</id>
+        <link href="https://entertain.v.daum.net/v/20211026132154554"/>
+        <updated>2021-10-26T05:10:05.798Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조여정, 병원 입원 포착..핏기 가신 초췌 몰골]]></title>
+        <id>https://entertain.v.daum.net/v/20211026132018530</id>
+        <link href="https://entertain.v.daum.net/v/20211026132018530"/>
+        <updated>2021-10-26T05:10:05.799Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['달감자' 후반부 관전포인트, 다섯 청춘 마음 화살표 결말은?]]></title>
         <id>https://entertain.v.daum.net/v/20211026131131323</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211026113106504"/>
         <updated>2021-10-26T03:12:14.016Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뫼비우스' 박하선·정문성·장영남, 대본리딩 공개..'검은 태양' 잇는다]]></title>
-        <id>https://entertain.v.daum.net/v/20211026112709327</id>
-        <link href="https://entertain.v.daum.net/v/20211026112709327"/>
-        <updated>2021-10-26T03:12:14.018Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달리와 감자탕' 김민재X박규영, 청송 미술관 지켜낼까..떡밥 #3]]></title>
-        <id>https://entertain.v.daum.net/v/20211026110636284</id>
-        <link href="https://entertain.v.daum.net/v/20211026110636284"/>
-        <updated>2021-10-26T02:23:48.679Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뫼비우스 : 검은 태양' 박하선X정문성X장영남, 대본 리딩도 '숨멎']]></title>
-        <id>https://entertain.v.daum.net/v/20211026110353136</id>
-        <link href="https://entertain.v.daum.net/v/20211026110353136"/>
-        <updated>2021-10-26T02:23:48.680Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 내몰린 이들의 땅이 전지현·주지훈 부른 이유는?]]></title>
-        <id>https://entertain.v.daum.net/v/20211026110043952</id>
-        <link href="https://entertain.v.daum.net/v/20211026110043952"/>
-        <updated>2021-10-26T02:23:48.680Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 루나·정인선 캐릭터 스틸 컷 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211026105038371</id>
-        <link href="https://entertain.v.daum.net/v/20211026105038371"/>
-        <updated>2021-10-26T01:52:36.628Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
