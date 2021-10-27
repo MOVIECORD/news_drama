@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-27T11:09:38.341Z</updated>
+    <updated>2021-10-27T12:17:56.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 경인선, 소이현 구하고 교통사고 당했다.. 선우재덕의 덫]]></title>
+        <id>https://entertain.v.daum.net/v/20211027203301717</id>
+        <link href="https://entertain.v.daum.net/v/20211027203301717"/>
+        <updated>2021-10-27T12:17:48.137Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 선우재덕, 소이현 교통사고 시도→경인선이 대신 당해]]></title>
+        <id>https://entertain.v.daum.net/v/20211027203243698</id>
+        <link href="https://entertain.v.daum.net/v/20211027203243698"/>
+        <updated>2021-10-27T12:17:48.140Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 소이현, 경인선 사죄에도 단호 "신정윤과 결혼 할 것"]]></title>
         <id>https://entertain.v.daum.net/v/20211027200414140</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211027174042282"/>
         <updated>2021-10-27T09:11:23.035Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배드 앤 크레이지' 이동욱→위하준, 대본리딩 현장 공개.. 화끈 히어로물 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211027174000263</id>
-        <link href="https://entertain.v.daum.net/v/20211027174000263"/>
-        <updated>2021-10-27T09:11:23.036Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선 "깊은 아픔·슬픔 겪은 나, 정문성 구해주려는 게 인상 깊어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211027172722863</id>
-        <link href="https://entertain.v.daum.net/v/20211027172722863"/>
-        <updated>2021-10-27T09:11:23.037Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
