@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-27T07:11:33.485Z</updated>
+    <updated>2021-10-27T08:13:17.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍천기' 곽시양 "판타지 사극이니 상상력이 많이 필요했죠 "]]></title>
+        <id>https://entertain.v.daum.net/v/20211027165352332</id>
+        <link href="https://entertain.v.daum.net/v/20211027165352332"/>
+        <updated>2021-10-27T08:13:09.456Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그림자 미녀' 심달기, 섬뜩한 눈빛..SNS 여신의 이중생활]]></title>
+        <id>https://entertain.v.daum.net/v/20211027163648525</id>
+        <link href="https://entertain.v.daum.net/v/20211027163648525"/>
+        <updated>2021-10-27T08:13:09.461Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 8년차' 곽시양 "조정석처럼 코믹 연기하고파"]]></title>
         <id>https://entertain.v.daum.net/v/20211027154443016</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211027144541339"/>
         <updated>2021-10-27T06:13:35.692Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 측 "'구미호뎐2' 출연 확정 NO"]]></title>
-        <id>https://entertain.v.daum.net/v/20211027143626958</id>
-        <link href="https://entertain.v.daum.net/v/20211027143626958"/>
-        <updated>2021-10-27T06:13:35.692Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정인선X이준영, 다정한 스킨십 현장 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20211027143154734</id>
-        <link href="https://entertain.v.daum.net/v/20211027143154734"/>
-        <updated>2021-10-27T06:13:35.692Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
