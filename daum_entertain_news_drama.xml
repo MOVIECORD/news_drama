@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-27T09:11:32.582Z</updated>
+    <updated>2021-10-27T10:12:14.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하도권, tvN '별똥별' 출연 확정..新 카리스마 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211027184724228</id>
+        <link href="https://entertain.v.daum.net/v/20211027184724228"/>
+        <updated>2021-10-27T10:12:05.282Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검은태양' 김지은 "박하선 하차→메인 여주 등극? 부담감 없었죠"]]></title>
         <id>https://entertain.v.daum.net/v/20211027180101020</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211027154424003"/>
         <updated>2021-10-27T07:11:25.604Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달리와 감자탕' 박규영 "용맹한 쌀알→놀란 쌀알, 애정 어린 반응 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211027153146392</id>
-        <link href="https://entertain.v.daum.net/v/20211027153146392"/>
-        <updated>2021-10-27T07:11:25.605Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
