@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-29T15:11:58.831Z</updated>
+    <updated>2021-10-29T16:16:31.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결사곡' 성훈·이태곤만? 감독→김보연까지 하차설..시즌3 괜찮을까]]></title>
+        <id>https://entertain.v.daum.net/v/20211030004843810</id>
+        <link href="https://entertain.v.daum.net/v/20211030004843810"/>
+        <updated>2021-10-29T16:16:22.246Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결사곡' 시즌3 앞두고 이태곤·성훈→연출 PD·김보연까지 하차설]]></title>
+        <id>https://entertain.v.daum.net/v/20211030002313688</id>
+        <link href="https://entertain.v.daum.net/v/20211030002313688"/>
+        <updated>2021-10-29T16:16:22.246Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유미의 세포들' 김고은, 안보현에 "시간 갖자"..이별 위기]]></title>
         <id>https://entertain.v.daum.net/v/20211030001100594</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211029221622762"/>
         <updated>2021-10-29T13:18:25.064Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 유민그룹 총수 자리 내려놨다..한주家 탈출]]></title>
-        <id>https://entertain.v.daum.net/v/20211029221415737</id>
-        <link href="https://entertain.v.daum.net/v/20211029221415737"/>
-        <updated>2021-10-29T13:18:25.064Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 진짜 재벌 딸?..깜짝 반전에 스스로도 놀랐다]]></title>
-        <id>https://entertain.v.daum.net/v/20211029221103683</id>
-        <link href="https://entertain.v.daum.net/v/20211029221103683"/>
-        <updated>2021-10-29T13:18:25.070Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
