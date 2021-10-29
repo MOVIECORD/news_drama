@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-29T21:09:52.065Z</updated>
+    <updated>2021-10-29T22:11:03.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내가 범인"..'크라임퍼즐' 윤계상, 시작부터 열연 '삭발' 할만했네]]></title>
+        <id>https://entertain.v.daum.net/v/20211030070738208</id>
+        <link href="https://entertain.v.daum.net/v/20211030070738208"/>
+        <updated>2021-10-29T22:10:54.166Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 빌런 진서연, 이하늬 할머니 뺑소니 진범이었다]]></title>
+        <id>https://entertain.v.daum.net/v/20211030065009020</id>
+        <link href="https://entertain.v.daum.net/v/20211030065009020"/>
+        <updated>2021-10-29T22:10:54.175Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 진서연=할머니 뺑소니범..이하늬 "나한테 죽었어" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211030063503972</id>
+        <link href="https://entertain.v.daum.net/v/20211030063503972"/>
+        <updated>2021-10-29T22:10:54.177Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 사로잡은 수현, 6년만 국내 복귀작에 거는 기대]]></title>
         <id>https://entertain.v.daum.net/v/20211030054156663</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030000844556"/>
         <updated>2021-10-29T15:11:50.887Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 "할머니 死인 뺑소니범 '진서연'→분노에 눈물"]]></title>
-        <id>https://entertain.v.daum.net/v/20211030000733548</id>
-        <link href="https://entertain.v.daum.net/v/20211030000733548"/>
-        <updated>2021-10-29T15:11:50.891Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 진서연, 이하늬 할머니 뺑소니 사고 '진범'..이하늬, "넌 이제 죽었어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211030000604540</id>
-        <link href="https://entertain.v.daum.net/v/20211030000604540"/>
-        <updated>2021-10-29T15:11:50.891Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태곤·성훈, '결사곡3' 출연 NO..강신효 합류 검토 '새 시즌 향한 관심']]></title>
-        <id>https://entertain.v.daum.net/v/20211029235002385</id>
-        <link href="https://entertain.v.daum.net/v/20211029235002385"/>
-        <updated>2021-10-29T15:11:50.893Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
