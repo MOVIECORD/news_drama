@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-30T01:52:14.846Z</updated>
+    <updated>2021-10-30T02:25:14.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어디서 대상 냄새 안나요?..이하늬, 사랑할 수밖에 없는 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20211030111759357</id>
+        <link href="https://entertain.v.daum.net/v/20211030111759357"/>
+        <updated>2021-10-30T02:25:05.432Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크라임 퍼즐' 윤계상, 첫방부터 괴물 같은 연기력..강렬 임팩트]]></title>
+        <id>https://entertain.v.daum.net/v/20211030111028276</id>
+        <link href="https://entertain.v.daum.net/v/20211030111028276"/>
+        <updated>2021-10-30T02:25:05.434Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애 4년 만 복귀작 '구경이', 오늘 첫방..관전 포인트는?]]></title>
+        <id>https://entertain.v.daum.net/v/20211030110702212</id>
+        <link href="https://entertain.v.daum.net/v/20211030110702212"/>
+        <updated>2021-10-30T02:25:05.437Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원 더 우먼' 진서연=뺑소니 진범..이하늬와 극강 분노 대치 엔딩]]></title>
         <id>https://entertain.v.daum.net/v/20211030103002713</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030090335620"/>
         <updated>2021-10-30T00:34:43.133Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬 "돈? 난 법으로 할 것" 진서연과 대립..최고 19%]]></title>
-        <id>https://entertain.v.daum.net/v/20211030085013452</id>
-        <link href="https://entertain.v.daum.net/v/20211030085013452"/>
-        <updated>2021-10-30T00:34:43.134Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 할머니 뺑소니=진서연 짓..'원더우먼' 분노 유발]]></title>
-        <id>https://entertain.v.daum.net/v/20211030084827440</id>
-        <link href="https://entertain.v.daum.net/v/20211030084827440"/>
-        <updated>2021-10-30T00:34:43.134Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해수X수현X이희준, '키마이라' 오늘 첫방 시청 독려]]></title>
-        <id>https://entertain.v.daum.net/v/20211030084048398</id>
-        <link href="https://entertain.v.daum.net/v/20211030084048398"/>
-        <updated>2021-10-30T00:34:43.135Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
