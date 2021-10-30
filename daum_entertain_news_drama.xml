@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-10-30T15:11:01.008Z</updated>
+    <updated>2021-10-30T16:15:34.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 진서연 비서 이화겸, 진서연에 '정체 발각'..성형 수술한 '진짜 강미나'였다]]></title>
+        <id>https://entertain.v.daum.net/v/20211031011200736</id>
+        <link href="https://entertain.v.daum.net/v/20211031011200736"/>
+        <updated>2021-10-30T16:15:25.247Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애, 보험금 실종 사건 추적..김혜준과 재회 "악연 예고?"]]></title>
+        <id>https://entertain.v.daum.net/v/20211031004523624</id>
+        <link href="https://entertain.v.daum.net/v/20211031004523624"/>
+        <updated>2021-10-30T16:15:25.248Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은, 안보현과 '연애 종료'로 새드 엔딩..시즌2 예고]]></title>
         <id>https://entertain.v.daum.net/v/20211031000844510</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030223636083"/>
         <updated>2021-10-30T14:11:06.225Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 주지훈, 동료 죽음에 '달라진 돌탑'..살인자 존재 의심]]></title>
-        <id>https://entertain.v.daum.net/v/20211030223429063</id>
-        <link href="https://entertain.v.daum.net/v/20211030223429063"/>
-        <updated>2021-10-30T14:11:06.227Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 주지훈 "산에서 사람들 계속 죽여" 살인마 존재 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211030223419060</id>
-        <link href="https://entertain.v.daum.net/v/20211030223419060"/>
-        <updated>2021-10-30T14:11:06.229Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
