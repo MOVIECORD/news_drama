@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T15:12:22.733Z</updated>
+    <updated>2021-11-01T16:16:14.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '하클' 김남희 사망X김지수 구속..조여정 다시 찾은 평화]]></title>
+        <id>https://entertain.v.daum.net/v/20211102001550003</id>
+        <link href="https://entertain.v.daum.net/v/20211102001550003"/>
+        <updated>2021-11-01T16:16:05.915Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '하이클래스' 조여정, 김남희 죽음으로 해방→완벽한 홀로서기]]></title>
         <id>https://entertain.v.daum.net/v/20211101234400679</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101211535122"/>
         <updated>2021-11-01T12:17:44.532Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 소이현, 황동주 손잡고 복직.. 최명길 과거 파헤칠까?]]></title>
-        <id>https://entertain.v.daum.net/v/20211101203430220</id>
-        <link href="https://entertain.v.daum.net/v/20211101203430220"/>
-        <updated>2021-11-01T12:17:44.533Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
