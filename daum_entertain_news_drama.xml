@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T14:11:08.535Z</updated>
+    <updated>2021-11-01T15:12:22.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '하이클래스' 조여정, 김남희 죽음으로 해방→완벽한 홀로서기]]></title>
+        <id>https://entertain.v.daum.net/v/20211101234400679</id>
+        <link href="https://entertain.v.daum.net/v/20211101234400679"/>
+        <updated>2021-11-01T15:12:11.902Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하클' 박세진, 김남희에 "진짜 날 죽이려 했나" 칼 들고 복수]]></title>
+        <id>https://entertain.v.daum.net/v/20211101234001667</id>
+        <link href="https://entertain.v.daum.net/v/20211101234001667"/>
+        <updated>2021-11-01T15:12:11.905Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하이클래스' 김남희, 조여정 돈 협박..아들 납치]]></title>
+        <id>https://entertain.v.daum.net/v/20211101231950509</id>
+        <link href="https://entertain.v.daum.net/v/20211101231950509"/>
+        <updated>2021-11-01T15:12:11.909Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성령·이학주, 심상치 않은 분위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211101231829505</id>
+        <link href="https://entertain.v.daum.net/v/20211101231829505"/>
+        <updated>2021-11-01T15:12:11.910Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모' 박은빈, 로운 구하고 위풍당당→박기웅 만행에 주먹질]]></title>
         <id>https://entertain.v.daum.net/v/20211101224957090</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101203430220"/>
         <updated>2021-11-01T12:17:44.533Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 소이현, 로라 컴백..정유민 자리 뺏고 팀장 승진]]></title>
-        <id>https://entertain.v.daum.net/v/20211101203247192</id>
-        <link href="https://entertain.v.daum.net/v/20211101203247192"/>
-        <updated>2021-11-01T12:17:44.534Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 지수원 딸=엄현경 "서로 모르게 해야 돼" 경악]]></title>
-        <id>https://entertain.v.daum.net/v/20211101200728770</id>
-        <link href="https://entertain.v.daum.net/v/20211101200728770"/>
-        <updated>2021-11-01T11:09:46.307Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 황동주, 계모 최명길에 "로라, 엄밀히 따지면 내 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101195957584</id>
-        <link href="https://entertain.v.daum.net/v/20211101195957584"/>
-        <updated>2021-11-01T11:09:46.308Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘X채수빈, '너와 나의 경찰수업' Z세대 청춘으로 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20211101193253925</id>
-        <link href="https://entertain.v.daum.net/v/20211101193253925"/>
-        <updated>2021-11-01T11:09:46.310Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
