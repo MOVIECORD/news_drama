@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T01:56:39.908Z</updated>
+    <updated>2021-11-01T02:28:25.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스폰서' 지이수, 톱스타 박다솜 변신..당돌한 시선+여유로운 미소]]></title>
+        <id>https://entertain.v.daum.net/v/20211101112246786</id>
+        <link href="https://entertain.v.daum.net/v/20211101112246786"/>
+        <updated>2021-11-01T02:28:16.111Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥' 연상호 감독 "새진리회 의장 정진수役, 처음부터 유아인 염두"]]></title>
+        <id>https://entertain.v.daum.net/v/20211101111903557</id>
+        <link href="https://entertain.v.daum.net/v/20211101111903557"/>
+        <updated>2021-11-01T02:28:16.113Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼윈도:여왕의 집' 송윤아 첫 스틸 공개..완벽한 여왕의 아우라]]></title>
         <id>https://entertain.v.daum.net/v/20211101105009054</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101095356484"/>
         <updated>2021-11-01T01:56:30.507Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노제 "아이돌 깊게 생각 안 해, 댄서들이 멋져 보였다"  ②]]></title>
-        <id>https://entertain.v.daum.net/v/20211101094342112</id>
-        <link href="https://entertain.v.daum.net/v/20211101094342112"/>
-        <updated>2021-11-01T01:56:30.509Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡' 시즌3, 출연진→연출까지 교체설..임성한 월드 어쩌나]]></title>
-        <id>https://entertain.v.daum.net/v/20211101094325108</id>
-        <link href="https://entertain.v.daum.net/v/20211101094325108"/>
-        <updated>2021-11-01T01:56:30.512Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
