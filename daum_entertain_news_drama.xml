@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T20:12:15.132Z</updated>
+    <updated>2021-11-01T21:10:35.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '하클' 조여정X박세진 다시 친구..김남희 사망]]></title>
+        <id>https://entertain.v.daum.net/v/20211102060001200</id>
+        <link href="https://entertain.v.daum.net/v/20211102060001200"/>
+        <updated>2021-11-01T21:10:25.631Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야인시대' '나의 아저씨'.. 드라마·예능도 역주행 시대]]></title>
         <id>https://entertain.v.daum.net/v/20211102030325948</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101212049216"/>
         <updated>2021-11-01T13:19:09.433Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조여정·김지수→하준 "시청자 성원 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211101211751145</id>
-        <link href="https://entertain.v.daum.net/v/20211101211751145"/>
-        <updated>2021-11-01T13:19:09.437Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
