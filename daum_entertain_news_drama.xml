@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-01T17:19:27.968Z</updated>
+    <updated>2021-11-01T18:14:04.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['야인시대' '나의 아저씨'.. 드라마·예능도 역주행 시대]]></title>
+        <id>https://entertain.v.daum.net/v/20211102030325948</id>
+        <link href="https://entertain.v.daum.net/v/20211102030325948"/>
+        <updated>2021-11-01T18:13:56.141Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '하클' 김남희 사망X김지수 구속..조여정 다시 찾은 평화]]></title>
         <id>https://entertain.v.daum.net/v/20211102001550003</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211101211751145"/>
         <updated>2021-11-01T13:19:09.437Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애도사' 예은, 계속 연예인 만났다..'연애 삼진 아웃제']]></title>
-        <id>https://entertain.v.daum.net/v/20211101211535122</id>
-        <link href="https://entertain.v.daum.net/v/20211101211535122"/>
-        <updated>2021-11-01T12:17:44.532Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
