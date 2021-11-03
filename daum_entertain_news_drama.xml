@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-03T10:12:17.957Z</updated>
+    <updated>2021-11-03T11:10:08.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 신정윤, 최명길에 소이현 결혼 청첩장 건네 "장모님"]]></title>
+        <id>https://entertain.v.daum.net/v/20211103195923022</id>
+        <link href="https://entertain.v.daum.net/v/20211103195923022"/>
+        <updated>2021-11-03T11:09:59.237Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['학교 2021' 김요한vs추영우, 물러섬 없는 날선 신경전..안방극장 심쿵 주의보]]></title>
         <id>https://entertain.v.daum.net/v/20211103190059950</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211103172117316"/>
         <updated>2021-11-03T09:11:50.086Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배해선vs이학주, 서로 견제하는 눈빛..긴장감 '팽팽']]></title>
-        <id>https://entertain.v.daum.net/v/20211103170154595</id>
-        <link href="https://entertain.v.daum.net/v/20211103170154595"/>
-        <updated>2021-11-03T08:14:09.166Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
