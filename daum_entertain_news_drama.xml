@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-03T12:17:19.972Z</updated>
+    <updated>2021-11-03T13:18:34.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재, ♥박규영 위한 특급 요리]]></title>
+        <id>https://entertain.v.daum.net/v/20211103214008879</id>
+        <link href="https://entertain.v.daum.net/v/20211103214008879"/>
+        <updated>2021-11-03T13:18:25.832Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국대와이프' 심지호, 자신 폭행한 신현탁과 사돈]]></title>
+        <id>https://entertain.v.daum.net/v/20211103212658680</id>
+        <link href="https://entertain.v.daum.net/v/20211103212658680"/>
+        <updated>2021-11-03T13:18:25.834Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너를 닮은 사람' 김수안, 엄마 고현정 비밀 알았나]]></title>
+        <id>https://entertain.v.daum.net/v/20211103211758524</id>
+        <link href="https://entertain.v.daum.net/v/20211103211758524"/>
+        <updated>2021-11-03T13:18:25.835Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국대와이프' 심지호, 신현탁에 폭행..정보민 목격 "교수님"]]></title>
         <id>https://entertain.v.daum.net/v/20211103210001195</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211103180037707"/>
         <updated>2021-11-03T09:11:50.080Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빈센조'→'어사와 조이'..옥택연, 빙구美로 돌아왔구나!]]></title>
-        <id>https://entertain.v.daum.net/v/20211103175958647</id>
-        <link href="https://entertain.v.daum.net/v/20211103175958647"/>
-        <updated>2021-11-03T09:11:50.080Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지훈 측 "지인-스태프 다툼 사실..깊게 반성 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211103175303441</id>
-        <link href="https://entertain.v.daum.net/v/20211103175303441"/>
-        <updated>2021-11-03T09:11:50.080Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽시양, 무겁지도 무섭지도 않다..'시양타운'을 꿈꾸는 따도남]]></title>
-        <id>https://entertain.v.daum.net/v/20211103175125401</id>
-        <link href="https://entertain.v.daum.net/v/20211103175125401"/>
-        <updated>2021-11-03T09:11:50.081Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
