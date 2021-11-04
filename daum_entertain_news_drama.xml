@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-04T09:11:52.867Z</updated>
+    <updated>2021-11-04T10:12:31.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안내상 "단막극, 빚 탕감에 도움"]]></title>
+        <id>https://entertain.v.daum.net/v/20211104185003236</id>
+        <link href="https://entertain.v.daum.net/v/20211104185003236"/>
+        <updated>2021-11-04T10:12:21.534Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우♥이세희, 취중고백 그 후.. 두근두근 사랑의 조짐]]></title>
+        <id>https://entertain.v.daum.net/v/20211104182900737</id>
+        <link href="https://entertain.v.daum.net/v/20211104182900737"/>
+        <updated>2021-11-04T10:12:21.542Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['달리와 감자탕', 소박해야 사랑이다.."어디 가지 마요!"]]></title>
+        <id>https://entertain.v.daum.net/v/20211104182243569</id>
+        <link href="https://entertain.v.daum.net/v/20211104182243569"/>
+        <updated>2021-11-04T10:12:21.542Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박강섭, JTBC '구경이' 합류..이홍내와 케미 예고]]></title>
         <id>https://entertain.v.daum.net/v/20211104180244086</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104161254251"/>
         <updated>2021-11-04T08:13:18.783Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌과 비밀 주치의의 로맨스..SBS '너의 밤이 되어줄게']]></title>
-        <id>https://entertain.v.daum.net/v/20211104161252249</id>
-        <link href="https://entertain.v.daum.net/v/20211104161252249"/>
-        <updated>2021-11-04T08:13:18.791Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정인선 "이준영과 로맨스? 코미디로 계속 빠져"]]></title>
-        <id>https://entertain.v.daum.net/v/20211104161250247</id>
-        <link href="https://entertain.v.daum.net/v/20211104161250247"/>
-        <updated>2021-11-04T08:13:18.791Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너의밤' 정인선X이준영 "코미디가 센 로코..호흡은 100점 만점"]]></title>
-        <id>https://entertain.v.daum.net/v/20211104160906115</id>
-        <link href="https://entertain.v.daum.net/v/20211104160906115"/>
-        <updated>2021-11-04T07:11:30.093Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
