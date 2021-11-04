@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-04T02:27:50.566Z</updated>
+    <updated>2021-11-04T03:12:16.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황신혜·윤다훈·심혜진, '사랑의 꽈배기' 출연 확정..베테랑 라인업 완성]]></title>
+        <id>https://entertain.v.daum.net/v/20211104113350582</id>
+        <link href="https://entertain.v.daum.net/v/20211104113350582"/>
+        <updated>2021-11-04T03:12:05.759Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안효섭, '홍천기'로 시작된 '입덕' 몰이 ing]]></title>
+        <id>https://entertain.v.daum.net/v/20211104113340575</id>
+        <link href="https://entertain.v.daum.net/v/20211104113340575"/>
+        <updated>2021-11-04T03:12:05.762Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['팽' 윤소희가 아니면 상상할 수 없는 고사리]]></title>
         <id>https://entertain.v.daum.net/v/20211104112733297</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104105046561"/>
         <updated>2021-11-04T01:56:14.627Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금, 헤어지는 중입니다', 송혜교 붙잡은 장기용 '설렘 폭발']]></title>
-        <id>https://entertain.v.daum.net/v/20211104104512351</id>
-        <link href="https://entertain.v.daum.net/v/20211104104512351"/>
-        <updated>2021-11-04T01:56:14.629Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운, MBC '내일' 출연 확정..저승 신입사원 최준웅 役]]></title>
-        <id>https://entertain.v.daum.net/v/20211104103949137</id>
-        <link href="https://entertain.v.daum.net/v/20211104103949137"/>
-        <updated>2021-11-04T01:56:14.630Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
