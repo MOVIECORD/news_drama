@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-04T12:17:50.368Z</updated>
+    <updated>2021-11-04T13:18:13.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달라와 감자탕' 김민재·박규영, 옥탑방 뒤집을 폭탄선언]]></title>
+        <id>https://entertain.v.daum.net/v/20211104213010654</id>
+        <link href="https://entertain.v.daum.net/v/20211104213010654"/>
+        <updated>2021-11-04T13:18:04.690Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 정유민, 결국 미쳤다..최명길 현실부정]]></title>
         <id>https://entertain.v.daum.net/v/20211104203350455</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104174715554"/>
         <updated>2021-11-04T09:11:44.067Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고현정 남편' 최원영의 세계, 치밀하고 정교하다]]></title>
-        <id>https://entertain.v.daum.net/v/20211104165928069</id>
-        <link href="https://entertain.v.daum.net/v/20211104165928069"/>
-        <updated>2021-11-04T08:13:18.771Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
