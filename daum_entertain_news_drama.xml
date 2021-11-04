@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-04T16:16:11.209Z</updated>
+    <updated>2021-11-04T17:17:31.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일레인, '크라임 퍼즐' OST 참여]]></title>
+        <id>https://entertain.v.daum.net/v/20211105013012485</id>
+        <link href="https://entertain.v.daum.net/v/20211105013012485"/>
+        <updated>2021-11-04T17:17:23.266Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너닮사' 고현정, 기억 잃은 김재영과 다시 불륜? 격정 키스 엔딩]]></title>
         <id>https://entertain.v.daum.net/v/20211105000321991</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211104195811779</id>
         <link href="https://entertain.v.daum.net/v/20211104195811779"/>
         <updated>2021-11-04T11:09:57.461Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 지수원 친딸 조작..엄현경과 엇갈려]]></title>
-        <id>https://entertain.v.daum.net/v/20211104193740374</id>
-        <link href="https://entertain.v.daum.net/v/20211104193740374"/>
-        <updated>2021-11-04T11:09:57.462Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
