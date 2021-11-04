@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-04T10:12:31.089Z</updated>
+    <updated>2021-11-04T11:10:06.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 정유민, 소이현에 무릎 꿇고 사죄→돌변 "네가 죽어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211104195909792</id>
+        <link href="https://entertain.v.daum.net/v/20211104195909792"/>
+        <updated>2021-11-04T11:09:57.460Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 지수원, 엄현경과 엇갈려→윤대국 '가짜 봉선화' 뒷조사]]></title>
+        <id>https://entertain.v.daum.net/v/20211104195811779</id>
+        <link href="https://entertain.v.daum.net/v/20211104195811779"/>
+        <updated>2021-11-04T11:09:57.461Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 지수원 친딸 조작..엄현경과 엇갈려]]></title>
+        <id>https://entertain.v.daum.net/v/20211104193740374</id>
+        <link href="https://entertain.v.daum.net/v/20211104193740374"/>
+        <updated>2021-11-04T11:09:57.462Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안내상 "단막극, 빚 탕감에 도움"]]></title>
         <id>https://entertain.v.daum.net/v/20211104185003236</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211104161644402"/>
         <updated>2021-11-04T08:13:18.775Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김옥빈·유태오, 넷플릭스 새 시리즈 '연애대전' 캐스팅]]></title>
-        <id>https://entertain.v.daum.net/v/20211104161557364</id>
-        <link href="https://entertain.v.daum.net/v/20211104161557364"/>
-        <updated>2021-11-04T08:13:18.778Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너의 밤이 되어줄게' 김종현 "뉴이스트 멤버들에 연기 도움 많이 받아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211104161354289</id>
-        <link href="https://entertain.v.daum.net/v/20211104161354289"/>
-        <updated>2021-11-04T08:13:18.782Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너의 밤이 되어줄게' 시청자의 판타지를 실현시켜줄 힐링 드라마]]></title>
-        <id>https://entertain.v.daum.net/v/20211104161254251</id>
-        <link href="https://entertain.v.daum.net/v/20211104161254251"/>
-        <updated>2021-11-04T08:13:18.783Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
