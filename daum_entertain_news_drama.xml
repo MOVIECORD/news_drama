@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T08:13:32.463Z</updated>
+    <updated>2021-11-05T09:11:53.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지리산' 2018년 주지훈x2020년 전지현..김은희 작가는 천재인가]]></title>
+        <id>https://entertain.v.daum.net/v/20211105175850276</id>
+        <link href="https://entertain.v.daum.net/v/20211105175850276"/>
+        <updated>2021-11-05T09:11:44.327Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로코킹' 박형식, '해피니스'로 전역 후 배우 인생 2막 열까]]></title>
+        <id>https://entertain.v.daum.net/v/20211105174901027</id>
+        <link href="https://entertain.v.daum.net/v/20211105174901027"/>
+        <updated>2021-11-05T09:11:44.331Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'지헤중', 송혜교♥장기용 열정 멜로"]]></title>
         <id>https://entertain.v.daum.net/v/20211105165740445</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이규한 "두 드라마 하차, 건강 악화 탓..섣부른 추측 자제"]]></title>
+        <title type="html"><![CDATA[이규한 "두 드라마 하차, 건강 악화 탓..억측 자제해달라"]]></title>
         <id>https://entertain.v.daum.net/v/20211105164941187</id>
         <link href="https://entertain.v.daum.net/v/20211105164941187"/>
         <updated>2021-11-05T08:13:23.030Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105143002405"/>
         <updated>2021-11-05T06:13:36.645Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피니스' 오늘 첫방..한효주x박형식, 미스터리 감염병 마주한다]]></title>
-        <id>https://entertain.v.daum.net/v/20211105142355217</id>
-        <link href="https://entertain.v.daum.net/v/20211105142355217"/>
-        <updated>2021-11-05T06:13:36.646Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두 번째 남편' 오늘 결방..프로야구 포스트시즌 중계 여파]]></title>
-        <id>https://entertain.v.daum.net/v/20211105142327206</id>
-        <link href="https://entertain.v.daum.net/v/20211105142327206"/>
-        <updated>2021-11-05T06:13:36.647Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
