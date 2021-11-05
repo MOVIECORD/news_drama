@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T12:17:35.647Z</updated>
+    <updated>2021-11-05T13:18:19.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이하늬, '진짜 강미나' 이화겸 구출 시도]]></title>
+        <id>https://entertain.v.daum.net/v/20211105221744353</id>
+        <link href="https://entertain.v.daum.net/v/20211105221744353"/>
+        <updated>2021-11-05T13:18:11.515Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이상윤, 진서연에 경고 "두 번은 안 당해"]]></title>
+        <id>https://entertain.v.daum.net/v/20211105221643338</id>
+        <link href="https://entertain.v.daum.net/v/20211105221643338"/>
+        <updated>2021-11-05T13:18:11.520Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애→조현철, 본격 팀플레이 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211105214509836</id>
+        <link href="https://entertain.v.daum.net/v/20211105214509836"/>
+        <updated>2021-11-05T13:18:11.520Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 황동주, 친모 간호사 만나..'최명길=친모 살인' 확신]]></title>
         <id>https://entertain.v.daum.net/v/20211105202925421</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105162921498"/>
         <updated>2021-11-05T08:13:23.038Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숙행, '빨강구두' OST 참여..6일 '겨울밤' 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211105162411331</id>
-        <link href="https://entertain.v.daum.net/v/20211105162411331"/>
-        <updated>2021-11-05T08:13:23.039Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유미의 세포들' 안보현 "구웅의 답답한 연애, 나라면 절대 안그런다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211105160425437</id>
-        <link href="https://entertain.v.daum.net/v/20211105160425437"/>
-        <updated>2021-11-05T07:11:21.288Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커피 한잔 할까요?' 뻔뻔한 옹성우, 통쾌한 복수로 짜릿한 쾌감 선사]]></title>
-        <id>https://entertain.v.daum.net/v/20211105155218253</id>
-        <link href="https://entertain.v.daum.net/v/20211105155218253"/>
-        <updated>2021-11-05T07:11:21.289Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
