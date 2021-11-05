@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T02:26:32.590Z</updated>
+    <updated>2021-11-05T03:12:13.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 점수 70점"..안보현 밝힌 #최애 세포 #MBTI #가족]]></title>
+        <id>https://entertain.v.daum.net/v/20211105115002065</id>
+        <link href="https://entertain.v.daum.net/v/20211105115002065"/>
+        <updated>2021-11-05T03:12:03.826Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '해피니스' 한효주→박형식, 극한의 공포 풀어낼 연기 고수 활약]]></title>
+        <id>https://entertain.v.daum.net/v/20211105112834381</id>
+        <link href="https://entertain.v.daum.net/v/20211105112834381"/>
+        <updated>2021-11-05T03:12:03.829Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱→권나라, 600년의 서사 한가운데 섰다..대본리딩 현장]]></title>
         <id>https://entertain.v.daum.net/v/20211105112546286</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105103936664"/>
         <updated>2021-11-05T01:55:09.716Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유미의세포들' 안보현 "원작 싱크로율 위해 사서 고생..김고은 연기력 대단해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211105103220390</id>
-        <link href="https://entertain.v.daum.net/v/20211105103220390"/>
-        <updated>2021-11-05T01:55:09.716Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진욱·권나라→이준 '불가살' 대본리딩 현장 공개..묵직+활력]]></title>
-        <id>https://entertain.v.daum.net/v/20211105103217387</id>
-        <link href="https://entertain.v.daum.net/v/20211105103217387"/>
-        <updated>2021-11-05T01:55:09.716Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
