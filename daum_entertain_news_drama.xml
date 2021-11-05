@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T16:16:35.601Z</updated>
+    <updated>2021-11-05T17:17:45.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구자성 "'스폰서'는 폭발하는 야망"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106020007241</id>
+        <link href="https://entertain.v.daum.net/v/20211106020007241"/>
+        <updated>2021-11-05T17:17:37.548Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해피니스' 신종 감염병 발생.. 폐렴약 부작용일까? → 한효주 광인에 물려 격리]]></title>
         <id>https://entertain.v.daum.net/v/20211106011235016</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105231233185"/>
         <updated>2021-11-05T15:12:04.756Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 유치장서 '검사' 잘렸다→김원해에 분노 "가세요 아저씨"]]></title>
-        <id>https://entertain.v.daum.net/v/20211105225233830</id>
-        <link href="https://entertain.v.daum.net/v/20211105225233830"/>
-        <updated>2021-11-05T14:10:49.073Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
