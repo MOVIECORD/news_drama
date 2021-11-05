@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T21:10:08.319Z</updated>
+    <updated>2021-11-05T22:11:01.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해피니스' 한효주, 광인병 환자 공격받았다 .. "나랑 결혼하자" 박형식에 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20211106070608203</id>
+        <link href="https://entertain.v.daum.net/v/20211106070608203"/>
+        <updated>2021-11-05T22:10:51.797Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안보현 "'유미의 세포들'에서 보여준 순박한 멍뭉美, 내가 이런것도 되더라"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106070114132</id>
+        <link href="https://entertain.v.daum.net/v/20211106070114132"/>
+        <updated>2021-11-05T22:10:51.797Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검은태양' 정문성 "神이었던 유오성선배님과 연기, 스스로 장하다 생각될 정도"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106070011073</id>
+        <link href="https://entertain.v.daum.net/v/20211106070011073"/>
+        <updated>2021-11-05T22:10:51.797Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이하늬X이상윤 '또 위기'..김창완, 진짜 배신했을까]]></title>
+        <id>https://entertain.v.daum.net/v/20211106065002984</id>
+        <link href="https://entertain.v.daum.net/v/20211106065002984"/>
+        <updated>2021-11-05T22:10:51.797Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한효주-박형식, 신종 감염병과 조우.. 높아지는 긴장감]]></title>
+        <id>https://entertain.v.daum.net/v/20211106062008808</id>
+        <link href="https://entertain.v.daum.net/v/20211106062008808"/>
+        <updated>2021-11-05T22:10:51.798Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀면 뭐하니?' 미주, 소개팅남 애프터 신청?..수줍은 미소 포착]]></title>
         <id>https://entertain.v.daum.net/v/20211106060235616</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106030011304"/>
         <updated>2021-11-05T18:13:09.897Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구자성 "'스폰서'는 폭발하는 야망"]]></title>
-        <id>https://entertain.v.daum.net/v/20211106020007241</id>
-        <link href="https://entertain.v.daum.net/v/20211106020007241"/>
-        <updated>2021-11-05T17:17:37.548Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피니스' 신종 감염병 발생.. 폐렴약 부작용일까? → 한효주 광인에 공격 당해 격리]]></title>
-        <id>https://entertain.v.daum.net/v/20211106011235016</id>
-        <link href="https://entertain.v.daum.net/v/20211106011235016"/>
-        <updated>2021-11-05T16:16:27.553Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성령→이학주, 인물 관계도 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211106010010876</id>
-        <link href="https://entertain.v.daum.net/v/20211106010010876"/>
-        <updated>2021-11-05T16:16:27.558Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박연우, 채수빈 첫사랑 낙점]]></title>
-        <id>https://entertain.v.daum.net/v/20211106003009748</id>
-        <link href="https://entertain.v.daum.net/v/20211106003009748"/>
-        <updated>2021-11-05T16:16:27.563Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '해피니스' 한효주, 감염병 의심에 격리..박형식에 "결혼할래?"]]></title>
-        <id>https://entertain.v.daum.net/v/20211106002603737</id>
-        <link href="https://entertain.v.daum.net/v/20211106002603737"/>
-        <updated>2021-11-05T16:16:27.563Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
