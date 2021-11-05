@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T11:10:59.761Z</updated>
+    <updated>2021-11-05T12:17:35.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 황동주, 친모 간호사 만나..'최명길=친모 살인' 확신]]></title>
+        <id>https://entertain.v.daum.net/v/20211105202925421</id>
+        <link href="https://entertain.v.daum.net/v/20211105202925421"/>
+        <updated>2021-11-05T12:17:26.726Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 신정윤, 소이현 놓아줬다..결혼 포기]]></title>
         <id>https://entertain.v.daum.net/v/20211105200814056</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105155218253"/>
         <updated>2021-11-05T07:11:21.289Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호X이세영 꿀성대 케미 미리본다..오늘 '원작 낭독회' 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20211105154508989</id>
-        <link href="https://entertain.v.daum.net/v/20211105154508989"/>
-        <updated>2021-11-05T07:11:21.291Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
