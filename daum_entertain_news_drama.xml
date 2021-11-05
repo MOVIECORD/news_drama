@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-05T17:17:45.972Z</updated>
+    <updated>2021-11-05T18:13:19.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현, 연기 폭발 예고편]]></title>
+        <id>https://entertain.v.daum.net/v/20211106030011304</id>
+        <link href="https://entertain.v.daum.net/v/20211106030011304"/>
+        <updated>2021-11-05T18:13:09.897Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구자성 "'스폰서'는 폭발하는 야망"]]></title>
         <id>https://entertain.v.daum.net/v/20211106020007241</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['해피니스' 신종 감염병 발생.. 폐렴약 부작용일까? → 한효주 광인에 물려 격리]]></title>
+        <title type="html"><![CDATA['해피니스' 신종 감염병 발생.. 폐렴약 부작용일까? → 한효주 광인에 공격 당해 격리]]></title>
         <id>https://entertain.v.daum.net/v/20211106011235016</id>
         <link href="https://entertain.v.daum.net/v/20211106011235016"/>
         <updated>2021-11-05T16:16:27.553Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211105231706210"/>
         <updated>2021-11-05T15:12:04.756Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 김창완, 이하늬X이상윤 배신? 진서연에 결정적 증거 넘겼다]]></title>
-        <id>https://entertain.v.daum.net/v/20211105231233185</id>
-        <link href="https://entertain.v.daum.net/v/20211105231233185"/>
-        <updated>2021-11-05T15:12:04.756Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
