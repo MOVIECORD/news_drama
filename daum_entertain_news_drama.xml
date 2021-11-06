@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-06T08:13:54.296Z</updated>
+    <updated>2021-11-06T09:11:06.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민 엄마' 김미경 "가장 기억에 남는 자식, 박규영"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106175306669</id>
+        <link href="https://entertain.v.daum.net/v/20211106175306669"/>
+        <updated>2021-11-06T09:10:58.400Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥택연X김혜윤 첫만남부터 '으르렁' 기싸움]]></title>
+        <id>https://entertain.v.daum.net/v/20211106175010642</id>
+        <link href="https://entertain.v.daum.net/v/20211106175010642"/>
+        <updated>2021-11-06T09:10:58.401Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주우재, '팽' 종영소감 "윤소희 성격 좋아서 현장 분위기 좋았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106171818245</id>
+        <link href="https://entertain.v.daum.net/v/20211106171818245"/>
+        <updated>2021-11-06T09:10:58.402Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와 아가씨' 지현우X이세희, 나이차 극복하나..로맨스 급물살]]></title>
         <id>https://entertain.v.daum.net/v/20211106171002164</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106135917996"/>
         <updated>2021-11-06T05:10:02.883Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할아버지 박인환x손자 김요한, 벌써 훈훈 감동 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20211106135855991</id>
-        <link href="https://entertain.v.daum.net/v/20211106135855991"/>
-        <updated>2021-11-06T05:10:02.883Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 시국에 결혼 타령? 한효주의 청혼에 담긴 의미]]></title>
-        <id>https://entertain.v.daum.net/v/20211106135654973</id>
-        <link href="https://entertain.v.daum.net/v/20211106135654973"/>
-        <updated>2021-11-06T05:10:02.883Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의심스러운데?"..'구경이' 이영애만? 시청자까지 탐정 만드네]]></title>
-        <id>https://entertain.v.daum.net/v/20211106133818849</id>
-        <link href="https://entertain.v.daum.net/v/20211106133818849"/>
-        <updated>2021-11-06T05:10:02.883Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
