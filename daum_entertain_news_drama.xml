@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-06T15:11:28.005Z</updated>
+    <updated>2021-11-06T16:15:24.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이하늬, "도대체 몇명을 살인교사 했다고 자백하는 거야?"..진서연, 덫에 걸렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20211107002101886</id>
+        <link href="https://entertain.v.daum.net/v/20211107002101886"/>
+        <updated>2021-11-06T16:15:14.805Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구경이' 이영애, 살인자 K=김혜준 정체 눈치 챘다]]></title>
         <id>https://entertain.v.daum.net/v/20211106235945783</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106221531448"/>
         <updated>2021-11-06T13:16:23.240Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 김창완, 이하늬 심은 스파이였다..진서연 살인교사 자백 생중계]]></title>
-        <id>https://entertain.v.daum.net/v/20211106220636407</id>
-        <link href="https://entertain.v.daum.net/v/20211106220636407"/>
-        <updated>2021-11-06T13:16:23.241Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
