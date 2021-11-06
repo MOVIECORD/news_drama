@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-06T07:11:14.858Z</updated>
+    <updated>2021-11-06T08:13:54.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우X이세희, 나이차 극복하나..로맨스 급물살]]></title>
+        <id>https://entertain.v.daum.net/v/20211106171002164</id>
+        <link href="https://entertain.v.daum.net/v/20211106171002164"/>
+        <updated>2021-11-06T08:13:45.581Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구경이' 의심병 유발하는 캐릭터들, 시청자도 탐정 모드]]></title>
+        <id>https://entertain.v.daum.net/v/20211106162840627</id>
+        <link href="https://entertain.v.daum.net/v/20211106162840627"/>
+        <updated>2021-11-06T08:13:45.581Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['IDOL' 팀 존폐 위기 안희연, 냉혈 대표 곽시양과 팽팽한 갈등]]></title>
         <id>https://entertain.v.daum.net/v/20211106154427078</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106133818849"/>
         <updated>2021-11-06T05:10:02.883Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 D-day '원더우먼' 이하늬 원맨쇼의 승리, 결말은?]]></title>
-        <id>https://entertain.v.daum.net/v/20211106133333812</id>
-        <link href="https://entertain.v.daum.net/v/20211106133333812"/>
-        <updated>2021-11-06T05:10:02.884Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬→이원근, 주역 4人의 마지막 인사&명장면 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211106132208692</id>
-        <link href="https://entertain.v.daum.net/v/20211106132208692"/>
-        <updated>2021-11-06T05:10:02.886Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
