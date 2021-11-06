@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-06T01:51:12.899Z</updated>
+    <updated>2021-11-06T02:25:04.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교, 유학 시절에도 이렇게 예쁘면 반칙!..]]></title>
+        <id>https://entertain.v.daum.net/v/20211106110400532</id>
+        <link href="https://entertain.v.daum.net/v/20211106110400532"/>
+        <updated>2021-11-06T02:24:53.174Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['팽' 주우재, 로코 장인 등극.."선제 사랑하고 응원해 주셔서 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20211106110225515</id>
+        <link href="https://entertain.v.daum.net/v/20211106110225515"/>
+        <updated>2021-11-06T02:24:53.175Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 조연희, 얄밉지만 미워할 수 없는 치명적인 매력]]></title>
+        <id>https://entertain.v.daum.net/v/20211106105402417</id>
+        <link href="https://entertain.v.daum.net/v/20211106105402417"/>
+        <updated>2021-11-06T02:24:53.176Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해피니스' 박형식, 여린 감성은 끝났다..거친 남성미로 웰컴백]]></title>
         <id>https://entertain.v.daum.net/v/20211106104624349</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211106092424532"/>
         <updated>2021-11-06T00:34:49.584Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구경이' 측 "탐정 모드 켠 이영애, 기발한 추리 보여줄 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211106092232513</id>
-        <link href="https://entertain.v.daum.net/v/20211106092232513"/>
-        <updated>2021-11-06T00:34:49.585Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 진서연 악행의 끝은 '트로이 목마' 김창완이 매조지?]]></title>
-        <id>https://entertain.v.daum.net/v/20211106092141509</id>
-        <link href="https://entertain.v.daum.net/v/20211106092141509"/>
-        <updated>2021-11-06T00:34:49.589Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬, 배신한 김창완에 충격..돌발 위기 '최고 19.2%']]></title>
-        <id>https://entertain.v.daum.net/v/20211106090416359</id>
-        <link href="https://entertain.v.daum.net/v/20211106090416359"/>
-        <updated>2021-11-06T00:34:49.590Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
