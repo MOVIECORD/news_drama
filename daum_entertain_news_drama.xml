@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-07T15:11:33.375Z</updated>
+    <updated>2021-11-07T16:15:30.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너의 밤' 정인선, 이준영 주치의 제의 받아..이준영 "절대 안 돼"]]></title>
+        <id>https://entertain.v.daum.net/v/20211108003156713</id>
+        <link href="https://entertain.v.daum.net/v/20211108003156713"/>
+        <updated>2021-11-07T16:15:22.242Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애, 김혜준 덫에 걸렸다..곽선영X조현철 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211108001900685</id>
+        <link href="https://entertain.v.daum.net/v/20211108001900685"/>
+        <updated>2021-11-07T16:15:22.242Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너의 밤' 정인선, 17년만 재회한 쌍둥이 언니와 절연 '충격']]></title>
         <id>https://entertain.v.daum.net/v/20211108000751645</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107223924165"/>
         <updated>2021-11-07T14:10:05.073Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전지현, 첫사랑 손석구와 재회했으나.. 유부남이었다]]></title>
-        <id>https://entertain.v.daum.net/v/20211107223531137</id>
-        <link href="https://entertain.v.daum.net/v/20211107223531137"/>
-        <updated>2021-11-07T14:10:05.075Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전지현, 첫사랑 손석구와 돌고 돌아 재회..사연 깊은 크리스마스]]></title>
-        <id>https://entertain.v.daum.net/v/20211107223517136</id>
-        <link href="https://entertain.v.daum.net/v/20211107223517136"/>
-        <updated>2021-11-07T14:10:05.076Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
