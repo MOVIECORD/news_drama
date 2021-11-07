@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-07T06:13:32.775Z</updated>
+    <updated>2021-11-07T07:11:03.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청와대로 간다' 윤성호 감독이 밝힌 김성령→백현진 '찐 케미']]></title>
+        <id>https://entertain.v.daum.net/v/20211107152759978</id>
+        <link href="https://entertain.v.daum.net/v/20211107152759978"/>
+        <updated>2021-11-07T07:10:55.201Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우, 눈물 박하나→바들바들 이세희..선택의 갈림길]]></title>
+        <id>https://entertain.v.daum.net/v/20211107151351550</id>
+        <link href="https://entertain.v.daum.net/v/20211107151351550"/>
+        <updated>2021-11-07T07:10:55.201Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['키마이라' 차주영, 능수능란 강약 조절..쫄깃함+몰입도↑]]></title>
         <id>https://entertain.v.daum.net/v/20211107151313532</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107121112917"/>
         <updated>2021-11-07T03:11:31.220Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈♥로운, 첫 입맞춤 엔딩..무르익은 로맨스 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20211107112924164</id>
-        <link href="https://entertain.v.daum.net/v/20211107112924164"/>
-        <updated>2021-11-07T03:11:31.220Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈♥로운 첫키스 그후 포착, 무르익은 로맨스 기대]]></title>
-        <id>https://entertain.v.daum.net/v/20211107110818807</id>
-        <link href="https://entertain.v.daum.net/v/20211107110818807"/>
-        <updated>2021-11-07T02:28:52.680Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
