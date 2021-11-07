@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-07T07:11:03.761Z</updated>
+    <updated>2021-11-07T08:12:54.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이하늬 "가장 인상 깊었던 장면은 예배당 난동신"]]></title>
+        <id>https://entertain.v.daum.net/v/20211107171133447</id>
+        <link href="https://entertain.v.daum.net/v/20211107171133447"/>
+        <updated>2021-11-07T08:12:46.028Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Dr. 브레인' 쉴 새 없이 몰아친다..애플TV+ 첫 韓 콘텐츠 합격점]]></title>
+        <id>https://entertain.v.daum.net/v/20211107165426093</id>
+        <link href="https://entertain.v.daum.net/v/20211107165426093"/>
+        <updated>2021-11-07T08:12:46.028Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청와대로 간다' 윤성호 감독이 밝힌 김성령→백현진 '찐 케미']]></title>
         <id>https://entertain.v.daum.net/v/20211107152759978</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107125009377"/>
         <updated>2021-11-07T04:14:06.778Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 송승하 "캐스팅에 눈물 펑펑..애착 생겼다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211107125002374</id>
-        <link href="https://entertain.v.daum.net/v/20211107125002374"/>
-        <updated>2021-11-07T04:14:06.779Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더우먼' 이하늬 "도전적인 부분 많아 열심히 준비..끝까지 사랑해주셔서 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20211107121112917</id>
-        <link href="https://entertain.v.daum.net/v/20211107121112917"/>
-        <updated>2021-11-07T03:11:31.220Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
