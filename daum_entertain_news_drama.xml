@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-07T16:15:30.698Z</updated>
+    <updated>2021-11-07T17:15:52.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애, 김혜준에 농락 당했다..곽선영 조현철 생명 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211108015638943</id>
+        <link href="https://entertain.v.daum.net/v/20211108015638943"/>
+        <updated>2021-11-07T17:15:43.566Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너의 밤' 정인선, 이준영 주치의 제의 받아..이준영 "절대 안 돼"]]></title>
         <id>https://entertain.v.daum.net/v/20211108003156713</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107224146182"/>
         <updated>2021-11-07T14:10:05.073Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 위기에 빠진 전지현, 손석구가 구했다..재회한 두 사람]]></title>
-        <id>https://entertain.v.daum.net/v/20211107223924165</id>
-        <link href="https://entertain.v.daum.net/v/20211107223924165"/>
-        <updated>2021-11-07T14:10:05.073Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
