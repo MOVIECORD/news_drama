@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-07T02:29:00.349Z</updated>
+    <updated>2021-11-07T03:11:40.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이하늬 "도전적인 부분 많아 열심히 준비..끝까지 사랑해주셔서 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20211107121112917</id>
+        <link href="https://entertain.v.daum.net/v/20211107121112917"/>
+        <updated>2021-11-07T03:11:31.220Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 박은빈♥로운, 첫 입맞춤 엔딩..무르익은 로맨스 온다]]></title>
+        <id>https://entertain.v.daum.net/v/20211107112924164</id>
+        <link href="https://entertain.v.daum.net/v/20211107112924164"/>
+        <updated>2021-11-07T03:11:31.220Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈♥로운 첫키스 그후 포착, 무르익은 로맨스 기대]]></title>
         <id>https://entertain.v.daum.net/v/20211107110818807</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211107100812785"/>
         <updated>2021-11-07T01:57:11.840Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구경이' 이영애 VS 김혜준, '숨멎 엔딩']]></title>
-        <id>https://entertain.v.daum.net/v/20211107100731780</id>
-        <link href="https://entertain.v.daum.net/v/20211107100731780"/>
-        <updated>2021-11-07T01:57:11.840Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고 22.7%..'원더우먼', 화려한 퇴장]]></title>
-        <id>https://entertain.v.daum.net/v/20211107095930599</id>
-        <link href="https://entertain.v.daum.net/v/20211107095930599"/>
-        <updated>2021-11-07T01:57:11.845Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
