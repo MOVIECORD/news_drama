@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-08T16:17:30.485Z</updated>
+    <updated>2021-11-08T17:19:06.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어사와 조이' 김혜윤, '노름꾼' 남편과 이혼 실패 → 친구 채원빈 사망 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211109014509228</id>
+        <link href="https://entertain.v.daum.net/v/20211109014509228"/>
+        <updated>2021-11-08T17:18:57.250Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재계약은 없어" '아이돌' 망돌 코튼캔디 해체..안희연만 잔존 '오열']]></title>
         <id>https://entertain.v.daum.net/v/20211109003801048</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211108231155570</id>
         <link href="https://entertain.v.daum.net/v/20211108231155570"/>
         <updated>2021-11-08T15:11:57.127Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 이름으로 불린 적 없어" 김혜윤, 이혼 요구→시모 남미정과 입씨름]]></title>
-        <id>https://entertain.v.daum.net/v/20211108230128510</id>
-        <link href="https://entertain.v.daum.net/v/20211108230128510"/>
-        <updated>2021-11-08T14:10:51.207Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
