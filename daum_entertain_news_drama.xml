@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-08T08:13:53.478Z</updated>
+    <updated>2021-11-08T09:12:06.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더우먼' 이원근 "데뷔 10주년 앞두고 대표작 생겨..이하늬 덕분"]]></title>
+        <id>https://entertain.v.daum.net/v/20211108175102963</id>
+        <link href="https://entertain.v.daum.net/v/20211108175102963"/>
+        <updated>2021-11-08T09:11:57.019Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["저 아니에요!" 김수현 '경찰서 몸수색' 현장..눈물 글썽]]></title>
+        <id>https://entertain.v.daum.net/v/20211108174151683</id>
+        <link href="https://entertain.v.daum.net/v/20211108174151683"/>
+        <updated>2021-11-08T09:11:57.019Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안희연→곽시양 'IDOL' 관전 포인트 #청춘배우 #위로 #뮤직드라마]]></title>
         <id>https://entertain.v.daum.net/v/20211108165627239</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211108160042472"/>
         <updated>2021-11-08T07:11:42.408Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애는 전도연·고현정과 달리 여왕의 체면 지킬 수 있을까]]></title>
-        <id>https://entertain.v.daum.net/v/20211108155944408</id>
-        <link href="https://entertain.v.daum.net/v/20211108155944408"/>
-        <updated>2021-11-08T07:11:42.409Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하니·솔빈·엑시..현직 아이돌도 과몰입 부른 '아이돌']]></title>
-        <id>https://entertain.v.daum.net/v/20211108155246108</id>
-        <link href="https://entertain.v.daum.net/v/20211108155246108"/>
-        <updated>2021-11-08T07:11:42.415Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
