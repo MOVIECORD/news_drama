@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-08T15:12:05.429Z</updated>
+    <updated>2021-11-08T16:17:30.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["재계약은 없어" '아이돌' 망돌 코튼캔디 해체..안희연만 잔존 '오열']]></title>
+        <id>https://entertain.v.daum.net/v/20211109003801048</id>
+        <link href="https://entertain.v.daum.net/v/20211109003801048"/>
+        <updated>2021-11-08T16:17:20.929Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어사와조이' 옥택연, 잇다른 살인 사건에 '암행어사 출두']]></title>
+        <id>https://entertain.v.daum.net/v/20211109002929014</id>
+        <link href="https://entertain.v.daum.net/v/20211109002929014"/>
+        <updated>2021-11-08T16:17:20.931Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '아이돌' 안희연, 코튼캔디 살리려 고군분투→정웅인 "너만 남는다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211109002916012</id>
+        <link href="https://entertain.v.daum.net/v/20211109002916012"/>
+        <updated>2021-11-08T16:17:20.933Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어사와 조이' 김혜윤, 시母 남미정과 팽팽 기싸움 "주진수와 이혼 원해"]]></title>
         <id>https://entertain.v.daum.net/v/20211109000524877</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211108230128510"/>
         <updated>2021-11-08T14:10:51.207Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 잠든 로운에 키스→로운 "연모합니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211108225016446</id>
-        <link href="https://entertain.v.daum.net/v/20211108225016446"/>
-        <updated>2021-11-08T14:10:51.208Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 박은빈 도둑키스 기억했다.. "저하를 연모합니다" 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20211108224900441</id>
-        <link href="https://entertain.v.daum.net/v/20211108224900441"/>
-        <updated>2021-11-08T14:10:51.209Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어사와 조이' 김혜윤, 웃으며 뼈 때리는 이혼 공판 현장 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20211108223302326</id>
-        <link href="https://entertain.v.daum.net/v/20211108223302326"/>
-        <updated>2021-11-08T14:10:51.210Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
