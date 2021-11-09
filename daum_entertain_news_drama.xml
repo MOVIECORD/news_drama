@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-09T13:19:39.752Z</updated>
+    <updated>2021-11-09T14:11:22.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어사와 조이' 옥택연X김혜윤, 뜻밖의 장소에서 아찔한 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20211109223300358</id>
+        <link href="https://entertain.v.daum.net/v/20211109223300358"/>
+        <updated>2021-11-09T14:11:13.340Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 로운 "연모합니다" 고백 → 박은빈 "우리는 이뤄질 수 없는 사이" 거절]]></title>
+        <id>https://entertain.v.daum.net/v/20211109222105220</id>
+        <link href="https://entertain.v.daum.net/v/20211109222105220"/>
+        <updated>2021-11-09T14:11:13.341Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민진웅, 시작부터 끝까지 '웃음 저격수']]></title>
         <id>https://entertain.v.daum.net/v/20211109221716151</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211109172258630"/>
         <updated>2021-11-09T09:11:31.118Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 유아인, 사이비 교주로 완벽 변신..김현주와 대립]]></title>
-        <id>https://entertain.v.daum.net/v/20211109170844069</id>
-        <link href="https://entertain.v.daum.net/v/20211109170844069"/>
-        <updated>2021-11-09T08:14:10.263Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 최희서X박효주 "송혜교, 여자가 봐도 멋있어"]]></title>
-        <id>https://entertain.v.daum.net/v/20211109165001361</id>
-        <link href="https://entertain.v.daum.net/v/20211109165001361"/>
-        <updated>2021-11-09T08:14:10.265Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
