@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-09T12:17:57.285Z</updated>
+    <updated>2021-11-09T13:19:39.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민진웅, 시작부터 끝까지 '웃음 저격수']]></title>
+        <id>https://entertain.v.daum.net/v/20211109221716151</id>
+        <link href="https://entertain.v.daum.net/v/20211109221716151"/>
+        <updated>2021-11-09T13:19:30.092Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국대와이프' 심지호, 죽은 약혼녀 얘기에 분노]]></title>
         <id>https://entertain.v.daum.net/v/20211109210623783</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211109165001361"/>
         <updated>2021-11-09T08:14:10.265Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달리와 감자탕' 김민재X박규영, 힐링극 등극 비결 3가지]]></title>
-        <id>https://entertain.v.daum.net/v/20211109164850317</id>
-        <link href="https://entertain.v.daum.net/v/20211109164850317"/>
-        <updated>2021-11-09T08:14:10.268Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
