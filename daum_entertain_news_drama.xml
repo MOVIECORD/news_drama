@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-10T09:12:59.139Z</updated>
+    <updated>2021-11-10T10:12:49.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유영 "오디션 떨어졌는데..다시 불러줘 영광"]]></title>
+        <id>https://entertain.v.daum.net/v/20211110185004770</id>
+        <link href="https://entertain.v.daum.net/v/20211110185004770"/>
+        <updated>2021-11-10T10:12:41.857Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모' 지운의 '불나비 사랑' 멈춰 세운 휘.. 종내 이별?]]></title>
         <id>https://entertain.v.daum.net/v/20211110181153602</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110161514949"/>
         <updated>2021-11-10T08:14:45.286Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 "방탄소년단→기생충→오징어게임, K-콘텐츠 흐뭇"]]></title>
-        <id>https://entertain.v.daum.net/v/20211110155114809</id>
-        <link href="https://entertain.v.daum.net/v/20211110155114809"/>
-        <updated>2021-11-10T07:11:52.121Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
