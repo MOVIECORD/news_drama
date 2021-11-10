@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-10T10:12:49.534Z</updated>
+    <updated>2021-11-10T11:09:51.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재원 "김지운 디테일에 깜짝..이선균, 롤모델이자 형"]]></title>
+        <id>https://entertain.v.daum.net/v/20211110195002503</id>
+        <link href="https://entertain.v.daum.net/v/20211110195002503"/>
+        <updated>2021-11-10T11:09:43.582Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Dr. 브레인' 김지운 감독 "남미와 유럽에서 반응 뜨겁다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211110192815877</id>
+        <link href="https://entertain.v.daum.net/v/20211110192815877"/>
+        <updated>2021-11-10T11:09:43.583Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유영 "오디션 떨어졌는데..다시 불러줘 영광"]]></title>
         <id>https://entertain.v.daum.net/v/20211110185004770</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110164132953"/>
         <updated>2021-11-10T08:14:45.283Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청와대로 간다' 배해선VS이학주, 신선한 앙숙 케미..극과 극 아우라]]></title>
-        <id>https://entertain.v.daum.net/v/20211110163921867</id>
-        <link href="https://entertain.v.daum.net/v/20211110163921867"/>
-        <updated>2021-11-10T08:14:45.284Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어사와 조이' 민진웅, 이번에도 믿고 보는 '꿀잼 치트키']]></title>
-        <id>https://entertain.v.daum.net/v/20211110161514949</id>
-        <link href="https://entertain.v.daum.net/v/20211110161514949"/>
-        <updated>2021-11-10T08:14:45.286Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
