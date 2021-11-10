@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-10T12:17:39.554Z</updated>
+    <updated>2021-11-10T13:18:33.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 임수정·이도현, 기차 안 첫 만남..특별한 인연의 첫 만남]]></title>
+        <title type="html"><![CDATA['달리와 감자탕' 김민재, 쓰러진 채 발견..황희 충격]]></title>
+        <id>https://entertain.v.daum.net/v/20211110214011012</id>
+        <link href="https://entertain.v.daum.net/v/20211110214011012"/>
+        <updated>2021-11-10T13:18:26.031Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['달리와 감자탕' 김민재, 압수수색에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211110213010864</id>
+        <link href="https://entertain.v.daum.net/v/20211110213010864"/>
+        <updated>2021-11-10T13:18:26.031Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너를 닮은 사람' 고현정·김재영, 격정 키스 후 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20211110213003861</id>
+        <link href="https://entertain.v.daum.net/v/20211110213003861"/>
+        <updated>2021-11-10T13:18:26.032Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 임수정·이도현, 기차 안 첫 만남..특별한 인연의 시작]]></title>
         <id>https://entertain.v.daum.net/v/20211110211354590</id>
         <link href="https://entertain.v.daum.net/v/20211110211354590"/>
         <updated>2021-11-10T12:17:31.242Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211110173706168"/>
         <updated>2021-11-10T09:12:51.519Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드라마 명가' JTBC 시청률 0% 참패, '미생' 작가도 못살린 '아이돌']]></title>
-        <id>https://entertain.v.daum.net/v/20211110171303152</id>
-        <link href="https://entertain.v.daum.net/v/20211110171303152"/>
-        <updated>2021-11-10T08:14:45.269Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 남윤수-최병찬-백현주-고규필, 박은빈 '프로 보필러' 유형 분석]]></title>
-        <id>https://entertain.v.daum.net/v/20211110170418810</id>
-        <link href="https://entertain.v.daum.net/v/20211110170418810"/>
-        <updated>2021-11-10T08:14:45.273Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정과 멜로 어떨까..新 인생캐 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211110170247735</id>
-        <link href="https://entertain.v.daum.net/v/20211110170247735"/>
-        <updated>2021-11-10T08:14:45.280Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
