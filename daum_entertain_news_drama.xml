@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-11T03:12:33.011Z</updated>
+    <updated>2021-11-11T04:14:35.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 대본 리딩, 함은정→윤다훈 호흡 어땠나]]></title>
+        <id>https://entertain.v.daum.net/v/20211111130438282</id>
+        <link href="https://entertain.v.daum.net/v/20211111130438282"/>
+        <updated>2021-11-11T04:14:25.202Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애쉬 아일랜드X토일 '크라임 퍼즐' OST 참여, 12일 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211111124650875</id>
+        <link href="https://entertain.v.daum.net/v/20211111124650875"/>
+        <updated>2021-11-11T04:14:25.207Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 임수정, 단 1회 만에 사로잡았다..빈틈없는 연기력]]></title>
         <id>https://entertain.v.daum.net/v/20211111115846730</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111103709647"/>
         <updated>2021-11-11T01:54:39.558Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유쾌한 매운맛" '사랑의 꽈배기' 함은정X김진엽, 환상의 팀워크 빛난 첫 대본 리딩]]></title>
-        <id>https://entertain.v.daum.net/v/20211111102812306</id>
-        <link href="https://entertain.v.daum.net/v/20211111102812306"/>
-        <updated>2021-11-11T01:54:39.560Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 윤소이 딸 출산.."산모와 아이 모두 건강"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111102759295</id>
-        <link href="https://entertain.v.daum.net/v/20211111102759295"/>
-        <updated>2021-11-11T01:54:39.561Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
