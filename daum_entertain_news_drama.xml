@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-11T17:18:27.669Z</updated>
+    <updated>2021-11-11T18:13:34.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['술꾼도시여자들' 흥행 날개]]></title>
+        <id>https://entertain.v.daum.net/v/20211112030009907</id>
+        <link href="https://entertain.v.daum.net/v/20211112030009907"/>
+        <updated>2021-11-11T18:13:26.477Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["너를 만나서 기뻐"..'멜랑꼴리아' 이도현X임수정, 수학으로 마음 통했다]]></title>
         <id>https://entertain.v.daum.net/v/20211111235639017</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111223802594"/>
         <updated>2021-11-11T14:10:55.717Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["찾았다"..'멜랑꼴리아' 임수정, 수학 천재 이도현과 운명적 만남 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20211111223552580</id>
-        <link href="https://entertain.v.daum.net/v/20211111223552580"/>
-        <updated>2021-11-11T14:10:55.718Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
