@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-11T12:17:27.146Z</updated>
+    <updated>2021-11-11T13:18:40.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달리와 감자탕' 박규영, 권율에 "돈밖에 모르는 싸구려" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211111221029157</id>
+        <link href="https://entertain.v.daum.net/v/20211111221029157"/>
+        <updated>2021-11-11T13:18:32.487Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '달리와 감자탕' 박규영, 응급실 앞 간절 기도]]></title>
+        <id>https://entertain.v.daum.net/v/20211111213006295</id>
+        <link href="https://entertain.v.daum.net/v/20211111213006295"/>
+        <updated>2021-11-11T13:18:32.487Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강 구두' 선우재덕, 최명길 불륜에 "이걸로 장관 따낸 거야?" 분노]]></title>
         <id>https://entertain.v.daum.net/v/20211111210732799</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211111175306971"/>
         <updated>2021-11-11T09:11:39.534Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현은 천재인가]]></title>
-        <id>https://entertain.v.daum.net/v/20211111175304969</id>
-        <link href="https://entertain.v.daum.net/v/20211111175304969"/>
-        <updated>2021-11-11T09:11:39.535Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지영 "카리스마 제조상궁, 실제 성격? 개구쟁이"]]></title>
-        <id>https://entertain.v.daum.net/v/20211111175019858</id>
-        <link href="https://entertain.v.daum.net/v/20211111175019858"/>
-        <updated>2021-11-11T09:11:39.536Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
