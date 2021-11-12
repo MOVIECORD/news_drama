@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-12T11:10:00.260Z</updated>
+    <updated>2021-11-12T12:17:34.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강 구두' 최명길, 반효정과 손 잡았다..소이현에 복수의 칼날]]></title>
+        <id>https://entertain.v.daum.net/v/20211112205031309</id>
+        <link href="https://entertain.v.daum.net/v/20211112205031309"/>
+        <updated>2021-11-12T12:17:25.708Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 최명길, 반효정과 손 잡았다..소이현에 반격 준비]]></title>
+        <id>https://entertain.v.daum.net/v/20211112203013114</id>
+        <link href="https://entertain.v.daum.net/v/20211112203013114"/>
+        <updated>2021-11-12T12:17:25.708Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 최명길, 장관 후보 사퇴 "소이현 죽었으면"]]></title>
         <id>https://entertain.v.daum.net/v/20211112200324735</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211112175040739"/>
         <updated>2021-11-12T09:11:37.726Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박규영 "날 사랑하는 법 배웠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211112175011715</id>
-        <link href="https://entertain.v.daum.net/v/20211112175011715"/>
-        <updated>2021-11-12T09:11:37.728Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달리와 감자탕' 김민재 "1년이란 시간 아깝지 않은 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20211112174614630</id>
-        <link href="https://entertain.v.daum.net/v/20211112174614630"/>
-        <updated>2021-11-12T09:11:37.729Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
