@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-13T03:12:01.801Z</updated>
+    <updated>2021-11-13T04:14:33.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '지헤중', 송혜교x장기용 멜로 케미 어땠나..시청률 1위 출발]]></title>
+        <id>https://entertain.v.daum.net/v/20211113123955779</id>
+        <link href="https://entertain.v.daum.net/v/20211113123955779"/>
+        <updated>2021-11-13T04:14:24.661Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['달리와 감자탕' 연우 "착희 연기하며 한층 성장할 수 있었다" 종영소감]]></title>
+        <id>https://entertain.v.daum.net/v/20211113122157657</id>
+        <link href="https://entertain.v.daum.net/v/20211113122157657"/>
+        <updated>2021-11-13T04:14:24.662Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 파격 원나잇 송혜교X장기용, 케미는 좋았지만]]></title>
         <id>https://entertain.v.daum.net/v/20211113115026389</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211113095918162"/>
         <updated>2021-11-13T01:52:07.709Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교X장기용, 첫방부터 터졌다]]></title>
-        <id>https://entertain.v.daum.net/v/20211113095431117</id>
-        <link href="https://entertain.v.daum.net/v/20211113095431117"/>
-        <updated>2021-11-13T01:52:07.711Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교, 장기용 뜨거운 원나잇 첫 만남→대리맞선 "서울서 만나" 인연 계속되나]]></title>
-        <id>https://entertain.v.daum.net/v/20211113095347109</id>
-        <link href="https://entertain.v.daum.net/v/20211113095347109"/>
-        <updated>2021-11-13T01:52:07.715Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
