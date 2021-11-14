@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-14T15:11:32.693Z</updated>
+    <updated>2021-11-14T16:15:54.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애X김혜준, 난투극→'빌런' 김수로, 이영애가 살릴까]]></title>
+        <id>https://entertain.v.daum.net/v/20211115002330312</id>
+        <link href="https://entertain.v.daum.net/v/20211115002330312"/>
+        <updated>2021-11-14T16:15:47.167Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구경이' 이영애, 김혜준 다음 타깃 알아냈다]]></title>
         <id>https://entertain.v.daum.net/v/20211115000930250</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114222949618"/>
         <updated>2021-11-14T14:10:18.031Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 간신히 구출된 전지현, 고민시 마주한 남자 누굴까]]></title>
-        <id>https://entertain.v.daum.net/v/20211114222443584</id>
-        <link href="https://entertain.v.daum.net/v/20211114222443584"/>
-        <updated>2021-11-14T14:10:18.032Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
