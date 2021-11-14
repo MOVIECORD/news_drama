@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-14T02:27:16.297Z</updated>
+    <updated>2021-11-14T03:12:02.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우♥이세희, 달달한 로맨스→이일화 직감]]></title>
+        <id>https://entertain.v.daum.net/v/20211114115401642</id>
+        <link href="https://entertain.v.daum.net/v/20211114115401642"/>
+        <updated>2021-11-14T03:11:52.392Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 공감·웃음 오늘도 통했다..폐업 앞둔 '40년 중국집'서 먹방]]></title>
         <id>https://entertain.v.daum.net/v/20211114112553254</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114103027432"/>
         <updated>2021-11-14T01:55:40.649Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키다리 형님' 남윤수, 로운의 빈자리 채울까]]></title>
-        <id>https://entertain.v.daum.net/v/20211114102802399</id>
-        <link href="https://entertain.v.daum.net/v/20211114102802399"/>
-        <updated>2021-11-14T01:55:40.650Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
