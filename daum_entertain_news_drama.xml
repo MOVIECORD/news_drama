@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-14T10:12:29.205Z</updated>
+    <updated>2021-11-14T11:09:48.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 이세희, 충격 사실 고백..지현우 분노+차화연 기절초풍]]></title>
+        <id>https://entertain.v.daum.net/v/20211114200305330</id>
+        <link href="https://entertain.v.daum.net/v/20211114200305330"/>
+        <updated>2021-11-14T11:09:39.647Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['학교 2021' 첫방 참 멀고 험하다..김요한 코로나 확진→편성 연기]]></title>
         <id>https://entertain.v.daum.net/v/20211114181822308</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114153120028"/>
         <updated>2021-11-14T07:11:01.020Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 지현우, 심각한 표정에 버럭 소리까지]]></title>
-        <id>https://entertain.v.daum.net/v/20211114153054012</id>
-        <link href="https://entertain.v.daum.net/v/20211114153054012"/>
-        <updated>2021-11-14T07:11:01.021Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
