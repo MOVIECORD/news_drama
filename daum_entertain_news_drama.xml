@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-15T03:12:33.588Z</updated>
+    <updated>2021-11-15T04:14:26.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['올타임 워너비' 고현정, 우아함의 정석 패션]]></title>
+        <id>https://entertain.v.daum.net/v/20211115130521770</id>
+        <link href="https://entertain.v.daum.net/v/20211115130521770"/>
+        <updated>2021-11-15T04:14:18.280Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크라임 퍼즐' 고아성, 윤계상 계획 알았다..새 국면 맞은 진실 추격]]></title>
+        <id>https://entertain.v.daum.net/v/20211115122053117</id>
+        <link href="https://entertain.v.daum.net/v/20211115122053117"/>
+        <updated>2021-11-15T04:14:18.284Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그림자 미녀' 심달기의 극과 극 반전, 이중생활 알고 있는 사람 정체는]]></title>
         <id>https://entertain.v.daum.net/v/20211115120836847</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115110330903"/>
         <updated>2021-11-15T02:25:51.009Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['NEW 사랑과 전쟁' OST, 보이스트롯 우승 박세욱→부활 출신 김재희 총출동]]></title>
-        <id>https://entertain.v.daum.net/v/20211115105924623</id>
-        <link href="https://entertain.v.daum.net/v/20211115105924623"/>
-        <updated>2021-11-15T02:25:51.010Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해우리는' 최우식X김다미 두근두근 설레는 첫 사랑 역주행 로맨스 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20211115105749571</id>
-        <link href="https://entertain.v.daum.net/v/20211115105749571"/>
-        <updated>2021-11-15T02:25:51.010Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
