@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-15T13:19:09.338Z</updated>
+    <updated>2021-11-15T14:11:12.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연모' 박은빈, 이필모에 정체 들키나..위기 직면]]></title>
+        <id>https://entertain.v.daum.net/v/20211115225520223</id>
+        <link href="https://entertain.v.daum.net/v/20211115225520223"/>
+        <updated>2021-11-15T14:11:03.772Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 남윤수, 박은빈에 '여인의 길' 권했다.. "궐 떠나도 지킬 것" 애틋]]></title>
+        <id>https://entertain.v.daum.net/v/20211115225000183</id>
+        <link href="https://entertain.v.daum.net/v/20211115225000183"/>
+        <updated>2021-11-15T14:11:03.772Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모' 박은빈, 풍경소리에 로운 생각..눈시울 붉혀]]></title>
         <id>https://entertain.v.daum.net/v/20211115221501945</id>
         <link href="https://entertain.v.daum.net/v/20211115221501945"/>
         <updated>2021-11-15T13:19:00.213Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 로운, 배윤경 고백에 "좋은 인연이었다" 거절]]></title>
+        <id>https://entertain.v.daum.net/v/20211115215826761</id>
+        <link href="https://entertain.v.daum.net/v/20211115215826761"/>
+        <updated>2021-11-15T14:11:03.778Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['연모' 로운, 배윤경 고백 거절 "미안합니다. 내가 몰랐습니다"]]></title>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211115170759207"/>
         <updated>2021-11-15T08:14:15.578Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연, '더 글로리' 출연 검토..김은숙·송혜교 만날까]]></title>
-        <id>https://entertain.v.daum.net/v/20211115170016862</id>
-        <link href="https://entertain.v.daum.net/v/20211115170016862"/>
-        <updated>2021-11-15T08:14:15.580Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태빈 '딜리버리'서 코믹 액션 연기 도전 '펜트하우스'와 전혀 다른 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20211115164600380</id>
-        <link href="https://entertain.v.daum.net/v/20211115164600380"/>
-        <updated>2021-11-15T08:14:15.581Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, "떠나라" 박은빈 명 따라 진짜 떠나나..쓸쓸한 얼굴]]></title>
-        <id>https://entertain.v.daum.net/v/20211115162704757</id>
-        <link href="https://entertain.v.daum.net/v/20211115162704757"/>
-        <updated>2021-11-15T08:14:15.581Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
