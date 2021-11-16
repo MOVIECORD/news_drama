@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-16T11:10:04.872Z</updated>
+    <updated>2021-11-16T12:17:52.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 소이현, 선우재덕에 납치→머리 다쳐 의식불명]]></title>
+        <id>https://entertain.v.daum.net/v/20211116203535743</id>
+        <link href="https://entertain.v.daum.net/v/20211116203535743"/>
+        <updated>2021-11-16T12:17:44.487Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 최명길, 모성애 남아 있었나? 의식 잃은 소이현에 복잡한 감정]]></title>
+        <id>https://entertain.v.daum.net/v/20211116202930678</id>
+        <link href="https://entertain.v.daum.net/v/20211116202930678"/>
+        <updated>2021-11-16T12:17:44.489Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 최명길 "명예퇴직 해라"..소이현 '거절']]></title>
         <id>https://entertain.v.daum.net/v/20211116200049409</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211116171948445"/>
         <updated>2021-11-16T09:11:54.465Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유일무이 연상호 감독표 디스토피아 탄생 '지옥' 온라인 제작발표회 개최]]></title>
-        <id>https://entertain.v.daum.net/v/20211116171844427</id>
-        <link href="https://entertain.v.daum.net/v/20211116171844427"/>
-        <updated>2021-11-16T09:11:54.465Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구경이' 백성철, 대체불가 존재감..산타 같은 맹활약]]></title>
-        <id>https://entertain.v.daum.net/v/20211116165734714</id>
-        <link href="https://entertain.v.daum.net/v/20211116165734714"/>
-        <updated>2021-11-16T08:13:44.830Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
