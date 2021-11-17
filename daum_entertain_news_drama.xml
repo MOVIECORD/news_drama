@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-17T02:26:00.402Z</updated>
+    <updated>2021-11-17T03:11:58.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'오징어게임'보다 더해"..'신세계로부터' 이승기→카이, 예능보석들의 생존게임]]></title>
+        <id>https://entertain.v.daum.net/v/20211117120005588</id>
+        <link href="https://entertain.v.daum.net/v/20211117120005588"/>
+        <updated>2021-11-17T03:11:50.334Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남장 벗고 실체 드러낸 박은빈이 권력에 눈먼 꼰대들에게]]></title>
+        <id>https://entertain.v.daum.net/v/20211117115458451</id>
+        <link href="https://entertain.v.daum.net/v/20211117115458451"/>
+        <updated>2021-11-17T03:11:50.337Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민석, '샤크' 시즌2 드라마도 주연 물망]]></title>
         <id>https://entertain.v.daum.net/v/20211117112345007</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211117103621493"/>
         <updated>2021-11-17T01:53:52.833Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교♥장기용, 만날 수밖에 없는 운명이었다]]></title>
-        <id>https://entertain.v.daum.net/v/20211117101906743</id>
-        <link href="https://entertain.v.daum.net/v/20211117101906743"/>
-        <updated>2021-11-17T01:53:52.834Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 임수정, 이도현-父 만남 주선..의외의 조합]]></title>
-        <id>https://entertain.v.daum.net/v/20211117100536180</id>
-        <link href="https://entertain.v.daum.net/v/20211117100536180"/>
-        <updated>2021-11-17T01:53:52.836Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
