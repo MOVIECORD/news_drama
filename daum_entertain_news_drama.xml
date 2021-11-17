@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-17T13:18:40.158Z</updated>
+    <updated>2021-11-17T14:10:54.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 마음 열었다 "선생님을 오해했어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20211117225900811</id>
+        <link href="https://entertain.v.daum.net/v/20211117225900811"/>
+        <updated>2021-11-17T14:10:46.457Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 임수정, 돌아온 이도현에 "널 다시 봐서 기뻐"]]></title>
+        <id>https://entertain.v.daum.net/v/20211117225316763</id>
+        <link href="https://entertain.v.daum.net/v/20211117225316763"/>
+        <updated>2021-11-17T14:10:46.458Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유퀴즈' 결혼 3개월 차 윤계상 "너무 행복 '안정감 생겼다'" 자랑]]></title>
+        <id>https://entertain.v.daum.net/v/20211117222729579</id>
+        <link href="https://entertain.v.daum.net/v/20211117222729579"/>
+        <updated>2021-11-17T14:10:46.459Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 소이현, 김규철 아닌 선우재덕 친딸이었나? 최명길 "말도 안 돼" 충격]]></title>
         <id>https://entertain.v.daum.net/v/20211117203030992</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211117171933657"/>
         <updated>2021-11-17T09:11:28.971Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경 '콘크리트 마켓' 주연 발탁..무서운 성장세]]></title>
-        <id>https://entertain.v.daum.net/v/20211117171414492</id>
-        <link href="https://entertain.v.daum.net/v/20211117171414492"/>
-        <updated>2021-11-17T09:11:28.975Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["좋은 사람이 되고 싶다"..이원근의 말에서 전해지는 진심]]></title>
-        <id>https://entertain.v.daum.net/v/20211117170613243</id>
-        <link href="https://entertain.v.daum.net/v/20211117170613243"/>
-        <updated>2021-11-17T08:13:51.786Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작정한 MBC, '옷소매 붉은 끝동'으로 구겨진 체면 살렸다]]></title>
-        <id>https://entertain.v.daum.net/v/20211117170502177</id>
-        <link href="https://entertain.v.daum.net/v/20211117170502177"/>
-        <updated>2021-11-17T08:13:51.786Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
