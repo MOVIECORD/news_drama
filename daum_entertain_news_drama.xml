@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-18T09:12:14.754Z</updated>
+    <updated>2021-11-18T10:12:26.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양세종 "너무 보고 싶었다"..팬카페에 전역 인증]]></title>
+        <id>https://entertain.v.daum.net/v/20211118182308149</id>
+        <link href="https://entertain.v.daum.net/v/20211118182308149"/>
+        <updated>2021-11-18T10:12:17.806Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤계상 연기에 소름 더한다..알레프, '크라임퍼즐' 마지막 OST]]></title>
         <id>https://entertain.v.daum.net/v/20211118175603469</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211118145959742</id>
         <link href="https://entertain.v.daum.net/v/20211118145959742"/>
         <updated>2021-11-18T06:14:13.976Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["욕망 채워 줄 스폰서 찾아"..한채영∙이지훈, 상상초월 치정 로맨스]]></title>
-        <id>https://entertain.v.daum.net/v/20211118144239052</id>
-        <link href="https://entertain.v.daum.net/v/20211118144239052"/>
-        <updated>2021-11-18T06:14:13.983Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
