@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-18T08:13:33.650Z</updated>
+    <updated>2021-11-18T09:12:14.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤계상 연기에 소름 더한다..알레프, '크라임퍼즐' 마지막 OST]]></title>
+        <id>https://entertain.v.daum.net/v/20211118175603469</id>
+        <link href="https://entertain.v.daum.net/v/20211118175603469"/>
+        <updated>2021-11-18T09:12:06.343Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정주행 기회!" '꽃엔딩'→'연플리4'까지..다시보는 플레이리스트 명작들]]></title>
         <id>https://entertain.v.daum.net/v/20211118170615722</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118144239052"/>
         <updated>2021-11-18T06:14:13.983Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청와대로 간다' 짜릿한 우먼 파워, 정주행 욕구 자극하는 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20211118141739135</id>
-        <link href="https://entertain.v.daum.net/v/20211118141739135"/>
-        <updated>2021-11-18T06:14:13.983Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
