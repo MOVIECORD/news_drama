@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-18T20:10:27.152Z</updated>
+    <updated>2021-11-18T21:10:46.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두려움이 파고든 순간.. '지옥'이 온다]]></title>
+        <id>https://entertain.v.daum.net/v/20211119060605714</id>
+        <link href="https://entertain.v.daum.net/v/20211119060605714"/>
+        <updated>2021-11-18T21:10:37.958Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 트라우마 왔지만..임수정 말로 극복]]></title>
+        <id>https://entertain.v.daum.net/v/20211119060005424</id>
+        <link href="https://entertain.v.daum.net/v/20211119060005424"/>
+        <updated>2021-11-18T21:10:37.961Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너닮사' 고현정, 불륜 들켰다..쫓겨날 위기→기억 찾은 김재영]]></title>
+        <id>https://entertain.v.daum.net/v/20211119060002410</id>
+        <link href="https://entertain.v.daum.net/v/20211119060002410"/>
+        <updated>2021-11-18T21:10:37.962Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["씨받이 필요해 봐줘" 김보연, 손자 김동하 친자 의심 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211119053754216</id>
+        <link href="https://entertain.v.daum.net/v/20211119053754216"/>
+        <updated>2021-11-18T21:10:37.963Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["그 XX랑 잤어?" 김재영 질투에 고현정 대뜸 키스 입막음]]></title>
+        <id>https://entertain.v.daum.net/v/20211119053703213</id>
+        <link href="https://entertain.v.daum.net/v/20211119053703213"/>
+        <updated>2021-11-18T21:10:37.963Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 이도현, 공황장애 극복→수학 올림피아드 참가]]></title>
         <id>https://entertain.v.daum.net/v/20211119002853562</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118225034955"/>
         <updated>2021-11-18T14:10:55.252Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너닮사' 최원영, 고현정에 "김재영과 있었냐"..불륜 이미 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211118224653889</id>
-        <link href="https://entertain.v.daum.net/v/20211118224653889"/>
-        <updated>2021-11-18T14:10:55.254Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2021, 학교 가자!' 조이현 "지원이 통해 똑 부러지는 사람 되고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20211118222704325</id>
-        <link href="https://entertain.v.daum.net/v/20211118222704325"/>
-        <updated>2021-11-18T14:10:55.255Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2021, 학교 가자!' 김요한 "학창시절? 국가대표 목표로 운동만 했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211118222403264</id>
-        <link href="https://entertain.v.daum.net/v/20211118222403264"/>
-        <updated>2021-11-18T14:10:55.255Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국대와이프' 조은숙, 의사와 결혼? "돈 요구"]]></title>
-        <id>https://entertain.v.daum.net/v/20211118212014869</id>
-        <link href="https://entertain.v.daum.net/v/20211118212014869"/>
-        <updated>2021-11-18T13:18:44.665Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국대와이프' 교수 한상진, 대리기사 투잡 제안에 '솔깃']]></title>
-        <id>https://entertain.v.daum.net/v/20211118210641536</id>
-        <link href="https://entertain.v.daum.net/v/20211118210641536"/>
-        <updated>2021-11-18T12:19:31.979Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
