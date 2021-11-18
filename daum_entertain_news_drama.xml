@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-18T12:19:40.468Z</updated>
+    <updated>2021-11-18T13:18:53.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국대와이프' 조은숙, 의사와 결혼? "돈 요구"]]></title>
+        <id>https://entertain.v.daum.net/v/20211118212014869</id>
+        <link href="https://entertain.v.daum.net/v/20211118212014869"/>
+        <updated>2021-11-18T13:18:44.665Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국대와이프' 교수 한상진, 대리기사 투잡 제안에 '솔깃']]></title>
         <id>https://entertain.v.daum.net/v/20211118210641536</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211118163327479"/>
         <updated>2021-11-18T08:13:25.832Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 구자성 "빠른 전개에 놀라, 배우로서 도전하고 싶었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211118162940339</id>
-        <link href="https://entertain.v.daum.net/v/20211118162940339"/>
-        <updated>2021-11-18T08:13:25.834Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
