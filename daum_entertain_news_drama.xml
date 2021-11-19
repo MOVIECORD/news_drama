@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-19T15:12:20.684Z</updated>
+    <updated>2021-11-19T16:16:35.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해피니스' 한효주X박형식, 목숨 걸고 마트행→위로포옹 "수고했어"]]></title>
+        <id>https://entertain.v.daum.net/v/20211120005630888</id>
+        <link href="https://entertain.v.daum.net/v/20211120005630888"/>
+        <updated>2021-11-19T16:16:26.915Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['해피니스' 한효주X박형식, 감염자 만나..배해선 출입문 봉쇄]]></title>
+        <id>https://entertain.v.daum.net/v/20211120001828745</id>
+        <link href="https://entertain.v.daum.net/v/20211120001828745"/>
+        <updated>2021-11-19T16:16:26.919Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 장기용 "형 신동욱, 10년 전 사망"..송혜교, 10년 만에 진실 알고 충격]]></title>
         <id>https://entertain.v.daum.net/v/20211119235100548</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119214424685"/>
         <updated>2021-11-19T13:18:21.224Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영·이지훈·지이수·구자성 '아슬 아슬']]></title>
-        <id>https://entertain.v.daum.net/v/20211119212228478</id>
-        <link href="https://entertain.v.daum.net/v/20211119212228478"/>
-        <updated>2021-11-19T13:18:21.224Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피니스' 한효주·박형식, 식량확보 위해 감염대 피해 마트 진입]]></title>
-        <id>https://entertain.v.daum.net/v/20211119210244240</id>
-        <link href="https://entertain.v.daum.net/v/20211119210244240"/>
-        <updated>2021-11-19T12:17:37.401Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
