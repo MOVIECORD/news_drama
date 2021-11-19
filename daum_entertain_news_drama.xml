@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-19T02:27:10.174Z</updated>
+    <updated>2021-11-19T03:12:09.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이돌' 곽시양 본격 등판, 냉혹한 어록 모아보니..]]></title>
+        <id>https://entertain.v.daum.net/v/20211119113503098</id>
+        <link href="https://entertain.v.daum.net/v/20211119113503098"/>
+        <updated>2021-11-19T03:12:01.098Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너닮사' 신현빈 VS 고현정의 코트가 의미하는 것]]></title>
         <id>https://entertain.v.daum.net/v/20211119112526683</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119091910024"/>
         <updated>2021-11-19T00:36:55.649Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피니스' 한효주X박형식, 감염자 피해 바깥 탐색 '아슬']]></title>
-        <id>https://entertain.v.daum.net/v/20211119091902015</id>
-        <link href="https://entertain.v.daum.net/v/20211119091902015"/>
-        <updated>2021-11-19T00:36:55.649Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
