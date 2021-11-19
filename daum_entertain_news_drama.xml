@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-19T10:12:44.678Z</updated>
+    <updated>2021-11-19T11:10:02.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 황동규, 선우재덕에 "소이현과 결혼할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211119200412264</id>
+        <link href="https://entertain.v.daum.net/v/20211119200412264"/>
+        <updated>2021-11-19T11:09:54.382Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영애x백성철, 로맨스 아니어도 매력적인 케미]]></title>
         <id>https://entertain.v.daum.net/v/20211119183551961</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119160257122"/>
         <updated>2021-11-19T07:11:50.669Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['딱밤' 신예은→'그녀들' 김새론 홀딱 반한 '드라마 스페셜']]></title>
-        <id>https://entertain.v.daum.net/v/20211119155215788</id>
-        <link href="https://entertain.v.daum.net/v/20211119155215788"/>
-        <updated>2021-11-19T07:11:50.669Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
