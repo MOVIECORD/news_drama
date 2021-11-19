@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-19T19:09:48.070Z</updated>
+    <updated>2021-11-19T20:12:12.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한효주-박형식, 마트에서 극적 탈출.. 입주민 이기심에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211120050036518</id>
+        <link href="https://entertain.v.daum.net/v/20211120050036518"/>
+        <updated>2021-11-19T20:12:04.627Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한효주, 박형식 안아주며 "너 아니었으면 다 죽었을 것"]]></title>
         <id>https://entertain.v.daum.net/v/20211120012524002</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211119221254000"/>
         <updated>2021-11-19T13:18:21.224Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 장기용 형 신동욱, 송혜교 전 연인이었다 "짧았지만 찬란했던"]]></title>
-        <id>https://entertain.v.daum.net/v/20211119221104989</id>
-        <link href="https://entertain.v.daum.net/v/20211119221104989"/>
-        <updated>2021-11-19T13:18:21.224Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
