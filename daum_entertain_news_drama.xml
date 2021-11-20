@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-20T19:09:31.536Z</updated>
+    <updated>2021-11-20T20:11:44.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 이세영에 "앞으로 내 눈앞에 띄지 마라"]]></title>
+        <id>https://entertain.v.daum.net/v/20211121050006399</id>
+        <link href="https://entertain.v.daum.net/v/20211121050006399"/>
+        <updated>2021-11-20T20:11:35.746Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호, 이세영에 "신경 쓰이게 하지 마라, 피곤하다"]]></title>
         <id>https://entertain.v.daum.net/v/20211121011917171</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120225003495"/>
         <updated>2021-11-20T14:10:45.854Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교, 전남친 죽음 알고 오열.."신동욱 죽었대"]]></title>
-        <id>https://entertain.v.daum.net/v/20211120224143470</id>
-        <link href="https://entertain.v.daum.net/v/20211120224143470"/>
-        <updated>2021-11-20T14:10:45.855Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
