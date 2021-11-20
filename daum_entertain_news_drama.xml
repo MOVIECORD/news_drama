@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-20T08:13:50.124Z</updated>
+    <updated>2021-11-20T09:11:35.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구경이' 작가 "2막 관전 포인트? 이영애와 김혜준의 변화"]]></title>
+        <id>https://entertain.v.daum.net/v/20211120175154700</id>
+        <link href="https://entertain.v.daum.net/v/20211120175154700"/>
+        <updated>2021-11-20T09:11:26.658Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTT부터 영화까지..쏟아지는 '정치' 소재 콘텐츠 왜?]]></title>
+        <id>https://entertain.v.daum.net/v/20211120174412629</id>
+        <link href="https://entertain.v.daum.net/v/20211120174412629"/>
+        <updated>2021-11-20T09:11:26.659Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 강은탁·박하나, 의미심장 투샷]]></title>
+        <id>https://entertain.v.daum.net/v/20211120173230531</id>
+        <link href="https://entertain.v.daum.net/v/20211120173230531"/>
+        <updated>2021-11-20T09:11:26.659Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연♥김혜윤, 웃기고 설레고 다 하네]]></title>
         <id>https://entertain.v.daum.net/v/20211120170707302</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120144240011"/>
         <updated>2021-11-20T06:13:23.662Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구경이' 작가 "이영애X김혜준 선택이 2막 관전포인트"]]></title>
-        <id>https://entertain.v.daum.net/v/20211120142420874</id>
-        <link href="https://entertain.v.daum.net/v/20211120142420874"/>
-        <updated>2021-11-20T06:13:23.662Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야구선수 이대은♥래퍼 트루디, 12월 5일 결혼식 "수원에 신접살림"]]></title>
-        <id>https://entertain.v.daum.net/v/20211120141533807</id>
-        <link href="https://entertain.v.daum.net/v/20211120141533807"/>
-        <updated>2021-11-20T06:13:23.664Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민시 행방불명, 전지현 초조]]></title>
-        <id>https://entertain.v.daum.net/v/20211120140931773</id>
-        <link href="https://entertain.v.daum.net/v/20211120140931773"/>
-        <updated>2021-11-20T05:10:18.125Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
