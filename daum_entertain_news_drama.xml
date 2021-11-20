@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-20T06:13:32.775Z</updated>
+    <updated>2021-11-20T07:11:21.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어사와 조이' 옥택연X김혜윤 관계 변화 다시 보기]]></title>
+        <id>https://entertain.v.daum.net/v/20211120160441768</id>
+        <link href="https://entertain.v.daum.net/v/20211120160441768"/>
+        <updated>2021-11-20T07:11:12.264Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최시원, 이선빈 부친상에 두발 벗고 나섰다..사랑꾼 면모로 반전 매력]]></title>
+        <id>https://entertain.v.daum.net/v/20211120152940460</id>
+        <link href="https://entertain.v.daum.net/v/20211120152940460"/>
+        <updated>2021-11-20T07:11:12.264Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해피니스' 박형식vs백현진 충돌 예고..총 들었다]]></title>
         <id>https://entertain.v.daum.net/v/20211120150336222</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고민시가 사라졌다?..전지현 죄책감 심각]]></title>
+        <title type="html"><![CDATA[고민시 사라졌다?..전지현 죄책감 심각]]></title>
         <id>https://entertain.v.daum.net/v/20211120145920165</id>
         <link href="https://entertain.v.daum.net/v/20211120145920165"/>
         <updated>2021-11-20T06:13:23.661Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211120133950537"/>
         <updated>2021-11-20T05:10:18.140Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호, 이세영 손목 '덥석'..왕세손 정체 공개 후 관계 달라지나]]></title>
-        <id>https://entertain.v.daum.net/v/20211120133330487</id>
-        <link href="https://entertain.v.daum.net/v/20211120133330487"/>
-        <updated>2021-11-20T05:10:18.143Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 지현우, 이대로 기억상실? ♥이세희 몰라 보나 '철렁']]></title>
-        <id>https://entertain.v.daum.net/v/20211120125535247</id>
-        <link href="https://entertain.v.daum.net/v/20211120125535247"/>
-        <updated>2021-11-20T04:14:10.205Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
