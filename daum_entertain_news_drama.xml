@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-21T05:10:48.628Z</updated>
+    <updated>2021-11-21T06:13:08.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이돌' 과몰입 부르는 아이돌 드라마의 정석..섬세한 고증으로 살아나는 리얼리티]]></title>
+        <id>https://entertain.v.daum.net/v/20211121143917806</id>
+        <link href="https://entertain.v.daum.net/v/20211121143917806"/>
+        <updated>2021-11-21T06:13:00.153Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 이세희∙이일화, 눈물 폭발!..제작진 "시련의 연속"]]></title>
+        <id>https://entertain.v.daum.net/v/20211121143644765</id>
+        <link href="https://entertain.v.daum.net/v/20211121143644765"/>
+        <updated>2021-11-21T06:13:00.158Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지리산' 전지현X주지훈X오정세X조한철, 동굴에 갇혔다..이대로 구조실패?]]></title>
+        <id>https://entertain.v.daum.net/v/20211121142823611</id>
+        <link href="https://entertain.v.daum.net/v/20211121142823611"/>
+        <updated>2021-11-21T06:13:00.158Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전지현→주지훈, 검은다리골 갇혔다..난관 봉착]]></title>
+        <id>https://entertain.v.daum.net/v/20211121142733592</id>
+        <link href="https://entertain.v.daum.net/v/20211121142733592"/>
+        <updated>2021-11-21T06:13:00.158Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[논쟁적 문제작 '지옥'이 '오겜'보다 빠르게 넷플릭스 점령한 비결]]></title>
         <id>https://entertain.v.daum.net/v/20211121140345155</id>
@@ -27,7 +55,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["신인이라 의심스러운데?" 이영애 선택엔 이유가 있다]]></title>
+        <title type="html"><![CDATA["신인이라 의심스러운데?"..'구경이' 이영애 선택엔 이유가 있다]]></title>
         <id>https://entertain.v.daum.net/v/20211121134155841</id>
         <link href="https://entertain.v.daum.net/v/20211121134155841"/>
         <updated>2021-11-21T05:10:39.741Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121121017728"/>
         <updated>2021-11-21T03:11:57.493Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이클래스' 감독 "김남희 부활, 고민 多..만족스러운 결과"]]></title>
-        <id>https://entertain.v.daum.net/v/20211121121008724</id>
-        <link href="https://entertain.v.daum.net/v/20211121121008724"/>
-        <updated>2021-11-21T03:11:57.494Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 천성을 거스른 이세영 향한 '짝사랑' 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20211121115919417</id>
-        <link href="https://entertain.v.daum.net/v/20211121115919417"/>
-        <updated>2021-11-21T03:11:57.499Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 고민시, 검은 장갑 진범에게 당했다..전지현 절망]]></title>
-        <id>https://entertain.v.daum.net/v/20211121115101324</id>
-        <link href="https://entertain.v.daum.net/v/20211121115101324"/>
-        <updated>2021-11-21T03:11:57.500Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 1위, '오징어게임' 2위..전세계 사로잡은 K드라마]]></title>
-        <id>https://entertain.v.daum.net/v/20211121114654261</id>
-        <link href="https://entertain.v.daum.net/v/20211121114654261"/>
-        <updated>2021-11-21T03:11:57.501Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
