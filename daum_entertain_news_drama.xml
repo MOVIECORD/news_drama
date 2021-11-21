@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-21T15:11:53.428Z</updated>
+    <updated>2021-11-21T16:15:53.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구경이' 김혜준, 곽선영 스카프 두르고 오싹 미소..이영애 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211122010230733</id>
+        <link href="https://entertain.v.daum.net/v/20211122010230733"/>
+        <updated>2021-11-21T16:15:45.657Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너의밤' 이준영, 父 야단 맞고 정인선 목 졸라..'충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211122003134628</id>
+        <link href="https://entertain.v.daum.net/v/20211122003134628"/>
+        <updated>2021-11-21T16:15:45.657Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너의밤' 윤지성, 母 쇼핑 중독에 한숨→악플까지.."쟤가 누구냐"]]></title>
         <id>https://entertain.v.daum.net/v/20211122000437466</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211121225222012"/>
         <updated>2021-11-21T14:10:11.265Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 주지훈, 전지현과 검은다리골서 조난자 구출..이가섭, 수상한 검은 장갑]]></title>
-        <id>https://entertain.v.daum.net/v/20211121224000935</id>
-        <link href="https://entertain.v.daum.net/v/20211121224000935"/>
-        <updated>2021-11-21T14:10:11.265Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 주지훈x전지현 검은다리골 조난자 구조.. 이가섭 검은 장갑 꼈다]]></title>
-        <id>https://entertain.v.daum.net/v/20211121223239859</id>
-        <link href="https://entertain.v.daum.net/v/20211121223239859"/>
-        <updated>2021-11-21T14:10:11.268Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
