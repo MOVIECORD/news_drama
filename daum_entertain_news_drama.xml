@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-22T20:12:34.252Z</updated>
+    <updated>2021-11-22T21:10:43.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어사와 조이' 김혜윤, 간신히 도망쳤지만..또 죽을 위기 처했다]]></title>
+        <id>https://entertain.v.daum.net/v/20211123060001021</id>
+        <link href="https://entertain.v.daum.net/v/20211123060001021"/>
+        <updated>2021-11-22T21:10:33.837Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함은정 김진엽 '사랑의 꽈배기' 코믹·멜로·휴먼 기대 상승]]></title>
+        <id>https://entertain.v.daum.net/v/20211123054902932</id>
+        <link href="https://entertain.v.daum.net/v/20211123054902932"/>
+        <updated>2021-11-22T21:10:33.845Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 박은빈, 폐세자에서 왕으로..이필모 독살에 다시 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211123052202694</id>
+        <link href="https://entertain.v.daum.net/v/20211123052202694"/>
+        <updated>2021-11-22T21:10:33.847Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이돌' 곽시양, 이유진에 코튼캔디 방해 지시..안희연 분노]]></title>
         <id>https://entertain.v.daum.net/v/20211123001624501</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122225856957"/>
         <updated>2021-11-22T14:11:06.109Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이돌' 김민규, 안희연에 제안 "열애설 내자"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122225845956</id>
-        <link href="https://entertain.v.daum.net/v/20211122225845956"/>
-        <updated>2021-11-22T14:11:06.109Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 이필모 독살→박은빈 왕 즉위.."이제 내 곁에 오면 안돼"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122225520935</id>
-        <link href="https://entertain.v.daum.net/v/20211122225520935"/>
-        <updated>2021-11-22T14:11:06.118Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어사와 조이' 옥택연X김혜윤, 위기서 탈출..이재균·정순원 잡았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211122224852906</id>
-        <link href="https://entertain.v.daum.net/v/20211122224852906"/>
-        <updated>2021-11-22T14:11:06.118Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
