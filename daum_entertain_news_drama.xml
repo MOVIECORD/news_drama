@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-22T15:12:29.449Z</updated>
+    <updated>2021-11-22T16:18:14.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이돌' 곽시양, 이유진에 코튼캔디 방해 지시..안희연 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211123001624501</id>
+        <link href="https://entertain.v.daum.net/v/20211123001624501"/>
+        <updated>2021-11-22T16:18:05.373Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황우슬혜·정수영·송아경·이나은 '맘블리 군단'이 떴다]]></title>
         <id>https://entertain.v.daum.net/v/20211123000201323</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122224852906"/>
         <updated>2021-11-22T14:11:06.118Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 박은빈, 로운 지키고자 왕위 올랐다.. "이젠 제 곁에 오시면 안 됩니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211122224801894</id>
-        <link href="https://entertain.v.daum.net/v/20211122224801894"/>
-        <updated>2021-11-22T14:11:06.119Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
