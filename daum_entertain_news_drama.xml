@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-22T03:12:34.852Z</updated>
+    <updated>2021-11-22T04:14:53.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청와대로 간다', '현실 고증' 드라마 촬영 현장 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211122130508049</id>
+        <link href="https://entertain.v.daum.net/v/20211122130508049"/>
+        <updated>2021-11-22T04:14:45.481Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스폰서' 이지훈 "선배들과 연기 호흡 좋아"..꽉 찬 케미 예고]]></title>
         <id>https://entertain.v.daum.net/v/20211122120810920</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211122110712300"/>
         <updated>2021-11-22T02:27:35.100Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금, 헤어지는 중입니다' 김영아, 긴장감 최고조 이끌며 맹활약]]></title>
-        <id>https://entertain.v.daum.net/v/20211122110313118</id>
-        <link href="https://entertain.v.daum.net/v/20211122110313118"/>
-        <updated>2021-11-22T02:27:35.105Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
