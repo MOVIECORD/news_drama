@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-22T04:14:53.414Z</updated>
+    <updated>2021-11-22T05:11:17.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정인선, 이준영과 몽유병 치료 대작전]]></title>
+        <id>https://entertain.v.daum.net/v/20211122134713969</id>
+        <link href="https://entertain.v.daum.net/v/20211122134713969"/>
+        <updated>2021-11-22T05:11:09.368Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슬의생→구경이' 곽선영이 연기하는 묵직한 한 방]]></title>
+        <id>https://entertain.v.daum.net/v/20211122133634671</id>
+        <link href="https://entertain.v.daum.net/v/20211122133634671"/>
+        <updated>2021-11-22T05:11:09.370Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청와대로 간다', '현실 고증' 드라마 촬영 현장 공개]]></title>
         <id>https://entertain.v.daum.net/v/20211122130508049</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211122111213556</id>
         <link href="https://entertain.v.daum.net/v/20211122111213556"/>
         <updated>2021-11-22T02:27:35.097Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희애 문소리, 넷플릭스 '퀸메이커' 출연 확정 '역대급 워맨스 예고']]></title>
-        <id>https://entertain.v.daum.net/v/20211122111200535</id>
-        <link href="https://entertain.v.daum.net/v/20211122111200535"/>
-        <updated>2021-11-22T02:27:35.099Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커피 한잔 할까요?' 김예은, 김미경과 리얼 모녀 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20211122110712300</id>
-        <link href="https://entertain.v.daum.net/v/20211122110712300"/>
-        <updated>2021-11-22T02:27:35.100Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
