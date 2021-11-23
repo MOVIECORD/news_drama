@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T07:11:56.190Z</updated>
+    <updated>2021-11-23T08:14:20.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임' 흥행에 보너스 지급..넷플릭스 측 "다양한 방식 논의"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123171340030</id>
+        <link href="https://entertain.v.daum.net/v/20211123171340030"/>
+        <updated>2021-11-23T08:14:11.180Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스우파' '쇼미' 연속 히트에 '스걸파'까지..기세등등 Mnet]]></title>
+        <id>https://entertain.v.daum.net/v/20211123164108875</id>
+        <link href="https://entertain.v.daum.net/v/20211123164108875"/>
+        <updated>2021-11-23T08:14:11.181Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유아인·김현주부터 김신록·류경수..'지옥' 이끈 명배우 열전]]></title>
+        <id>https://entertain.v.daum.net/v/20211123162930518</id>
+        <link href="https://entertain.v.daum.net/v/20211123162930518"/>
+        <updated>2021-11-23T08:14:11.181Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['술꾼도시여자들' 측 "시즌2? 제작사와 긍정 논의 중"]]></title>
         <id>https://entertain.v.daum.net/v/20211123161024961</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123152246145"/>
         <updated>2021-11-23T07:11:47.886Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 한동철 PD "연출 소신? 내 안의 룰은 꼭 지켜"]]></title>
-        <id>https://entertain.v.daum.net/v/20211123150829550</id>
-        <link href="https://entertain.v.daum.net/v/20211123150829550"/>
-        <updated>2021-11-23T06:14:00.834Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산'=김은희 표 명대사 맛집..전지현x주지훈 '묵직한 울림']]></title>
-        <id>https://entertain.v.daum.net/v/20211123150620467</id>
-        <link href="https://entertain.v.daum.net/v/20211123150620467"/>
-        <updated>2021-11-23T06:14:00.836Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연출 맛집 '옷소매' 사극 명가 MBC 체면 살렸다]]></title>
-        <id>https://entertain.v.daum.net/v/20211123145937175</id>
-        <link href="https://entertain.v.daum.net/v/20211123145937175"/>
-        <updated>2021-11-23T06:14:00.837Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
