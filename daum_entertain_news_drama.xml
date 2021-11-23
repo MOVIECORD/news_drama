@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T03:12:17.264Z</updated>
+    <updated>2021-11-23T04:14:34.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균이 전한 #Dr. 브레인 #'기생충' 이후 K-콘텐츠 # 애플TV+]]></title>
+        <id>https://entertain.v.daum.net/v/20211123122703727</id>
+        <link href="https://entertain.v.daum.net/v/20211123122703727"/>
+        <updated>2021-11-23T04:14:26.701Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' EP "좋은 성과로 MBC 분위기 고무적, 명품 드라마 위해 최선"]]></title>
         <id>https://entertain.v.daum.net/v/20211123121100406</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123103934352"/>
         <updated>2021-11-23T01:53:41.591Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엉클' 오정세X이경훈 무슨 일? 편의점 앞 초라한 행색]]></title>
-        <id>https://entertain.v.daum.net/v/20211123103402076</id>
-        <link href="https://entertain.v.daum.net/v/20211123103402076"/>
-        <updated>2021-11-23T01:53:41.592Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
