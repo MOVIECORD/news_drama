@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T09:12:15.563Z</updated>
+    <updated>2021-11-23T10:12:30.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민진웅, 코믹↔로맨스 한계 없는 '만능 능력치']]></title>
+        <id>https://entertain.v.daum.net/v/20211123191031910</id>
+        <link href="https://entertain.v.daum.net/v/20211123191031910"/>
+        <updated>2021-11-23T10:12:21.869Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박신혜, ♥최태준 질문에 "예쁘게 써달라"더니..이때부터?]]></title>
+        <id>https://entertain.v.daum.net/v/20211123185715718</id>
+        <link href="https://entertain.v.daum.net/v/20211123185715718"/>
+        <updated>2021-11-23T10:12:21.871Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['술꾼도시여자들' 시즌2 제작? "긍정 논의 중"]]></title>
         <id>https://entertain.v.daum.net/v/20211123172126279</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211123154127927</id>
         <link href="https://entertain.v.daum.net/v/20211123154127927"/>
         <updated>2021-11-23T07:11:47.880Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술꾼도시여자들' 측 "시즌2, 제작사와 긍정 논의 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211123153843796</id>
-        <link href="https://entertain.v.daum.net/v/20211123153843796"/>
-        <updated>2021-11-23T07:11:47.883Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술꾼도시여자들' 측 "시즌2, 제작사와 긍정논의중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211123153419622</id>
-        <link href="https://entertain.v.daum.net/v/20211123153419622"/>
-        <updated>2021-11-23T07:11:47.883Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
