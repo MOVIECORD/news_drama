@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T12:17:31.439Z</updated>
+    <updated>2021-11-23T13:18:52.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연모' 박은빈, 로운에 전한 진심.."매번 감사합니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123220904470</id>
+        <link href="https://entertain.v.daum.net/v/20211123220904470"/>
+        <updated>2021-11-23T13:18:43.600Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연모' 로운, 남몰래 박은빈 치료..정채연에 들키나]]></title>
+        <id>https://entertain.v.daum.net/v/20211123215801300</id>
+        <link href="https://entertain.v.daum.net/v/20211123215801300"/>
+        <updated>2021-11-23T13:18:43.603Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이진욱, '도깨비' 아닌 불멸의 존재]]></title>
         <id>https://entertain.v.daum.net/v/20211123204156367</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123171611129"/>
         <updated>2021-11-23T09:12:07.486Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 흥행에 보너스 지급..넷플릭스 측 "다양한 방식 논의"]]></title>
-        <id>https://entertain.v.daum.net/v/20211123171340030</id>
-        <link href="https://entertain.v.daum.net/v/20211123171340030"/>
-        <updated>2021-11-23T08:14:11.180Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스우파' '쇼미' 연속 히트에 '스걸파'까지..기세등등 Mnet]]></title>
-        <id>https://entertain.v.daum.net/v/20211123164108875</id>
-        <link href="https://entertain.v.daum.net/v/20211123164108875"/>
-        <updated>2021-11-23T08:14:11.181Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
