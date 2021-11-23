@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-23T08:14:20.140Z</updated>
+    <updated>2021-11-23T09:12:15.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['술꾼도시여자들' 시즌2 제작? "긍정 논의 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211123172126279</id>
+        <link href="https://entertain.v.daum.net/v/20211123172126279"/>
+        <updated>2021-11-23T09:12:07.486Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['학교 2021' 김요한→조이현, 하이라이트 영상 공개..특급 케미 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211123171611129</id>
+        <link href="https://entertain.v.daum.net/v/20211123171611129"/>
+        <updated>2021-11-23T09:12:07.486Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임' 흥행에 보너스 지급..넷플릭스 측 "다양한 방식 논의"]]></title>
         <id>https://entertain.v.daum.net/v/20211123171340030</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211123153419622"/>
         <updated>2021-11-23T07:11:47.883Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 역사 속 가장 강력한 정치적 공동체 '가족']]></title>
-        <id>https://entertain.v.daum.net/v/20211123153113497</id>
-        <link href="https://entertain.v.daum.net/v/20211123153113497"/>
-        <updated>2021-11-23T07:11:47.885Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그림자미녀' 첫 공개부터 1020 취향 저격..공감백배 현실반영]]></title>
-        <id>https://entertain.v.daum.net/v/20211123152246145</id>
-        <link href="https://entertain.v.daum.net/v/20211123152246145"/>
-        <updated>2021-11-23T07:11:47.886Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
