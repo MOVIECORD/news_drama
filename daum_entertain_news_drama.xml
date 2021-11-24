@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T11:09:52.902Z</updated>
+    <updated>2021-11-24T12:18:19.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 최명길, 구두 디자인 뺏겼다..도청기 발견]]></title>
+        <id>https://entertain.v.daum.net/v/20211124203110642</id>
+        <link href="https://entertain.v.daum.net/v/20211124203110642"/>
+        <updated>2021-11-24T12:18:10.936Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 최명길, 황동주가 설치한 도청기 찾았다 "분노"]]></title>
+        <id>https://entertain.v.daum.net/v/20211124202900595</id>
+        <link href="https://entertain.v.daum.net/v/20211124202900595"/>
+        <updated>2021-11-24T12:18:10.937Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 최영완, 선우재덕에 "최명길이 엄마 죽여"]]></title>
         <id>https://entertain.v.daum.net/v/20211124200252234</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124171800389"/>
         <updated>2021-11-24T09:12:28.956Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 넷플릭스 전세계 1위→원작도서 세계 11개국 판권 수출]]></title>
-        <id>https://entertain.v.daum.net/v/20211124170855076</id>
-        <link href="https://entertain.v.daum.net/v/20211124170855076"/>
-        <updated>2021-11-24T08:13:43.429Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학교2021' 잡음 털고 출항.."케미맛집" 김요한→조이현의 '자신감']]></title>
-        <id>https://entertain.v.daum.net/v/20211124170546962</id>
-        <link href="https://entertain.v.daum.net/v/20211124170546962"/>
-        <updated>2021-11-24T08:13:43.429Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
