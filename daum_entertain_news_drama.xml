@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T02:26:41.403Z</updated>
+    <updated>2021-11-24T03:11:58.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송윤아 "내 가정 완벽하게 지켜낼 거야" 피나는 사투]]></title>
+        <id>https://entertain.v.daum.net/v/20211124115842658</id>
+        <link href="https://entertain.v.daum.net/v/20211124115842658"/>
+        <updated>2021-11-24T03:11:50.554Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥' 또 일냈다..주간 넷플릭스 톱10 TV쇼 글로벌 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20211124114712464</id>
+        <link href="https://entertain.v.daum.net/v/20211124114712464"/>
+        <updated>2021-11-24T03:11:50.554Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로운, '연모'로 배우 입지 단단.."로운을 연모합니다"]]></title>
         <id>https://entertain.v.daum.net/v/20211124111952238</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124102037655"/>
         <updated>2021-11-24T01:54:53.376Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음을 읽는 자들' 김남길→김소진, 대본리딩 공개..연기神 대결]]></title>
-        <id>https://entertain.v.daum.net/v/20211124101933603</id>
-        <link href="https://entertain.v.daum.net/v/20211124101933603"/>
-        <updated>2021-11-24T01:54:53.377Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 수애-김강우-이이담, 3차 티저 속 위태로운 관계+폭발하는 갈등]]></title>
-        <id>https://entertain.v.daum.net/v/20211124101825569</id>
-        <link href="https://entertain.v.daum.net/v/20211124101825569"/>
-        <updated>2021-11-24T01:54:53.378Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
