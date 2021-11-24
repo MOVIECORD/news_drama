@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T12:18:19.914Z</updated>
+    <updated>2021-11-24T13:19:18.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['학교 2021' 김요한vs조이현, 도제반 들어가기 위해 신경전 "네가 무슨"]]></title>
+        <id>https://entertain.v.daum.net/v/20211124220601984</id>
+        <link href="https://entertain.v.daum.net/v/20211124220601984"/>
+        <updated>2021-11-24T13:19:09.018Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 최명길, 구두 디자인 뺏겼다..도청기 발견]]></title>
         <id>https://entertain.v.daum.net/v/20211124203110642</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124171839435"/>
         <updated>2021-11-24T09:12:28.956Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김요한→조이현 '학교2021', 우여곡절 딛고 명성 이을까]]></title>
-        <id>https://entertain.v.daum.net/v/20211124171800389</id>
-        <link href="https://entertain.v.daum.net/v/20211124171800389"/>
-        <updated>2021-11-24T09:12:28.956Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
