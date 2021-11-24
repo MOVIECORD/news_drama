@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-24T15:12:33.072Z</updated>
+    <updated>2021-11-24T16:16:56.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김요한X조이현, 18세 청춘들의 풋풋함 "다시 한 번 뽀뽀 해보든가"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125002103008</id>
+        <link href="https://entertain.v.daum.net/v/20211125002103008"/>
+        <updated>2021-11-24T16:16:48.804Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너닮사' 김재영, 기억 찾아..고현정에 집착 "나 좀 사랑해줘"]]></title>
         <id>https://entertain.v.daum.net/v/20211125000939934</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 빗속 고백..우다비 특혜 논란에 폭주]]></title>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 빗속 고백..우다비, 특혜 논란에 폭주]]></title>
         <id>https://entertain.v.daum.net/v/20211124235521686</id>
         <link href="https://entertain.v.daum.net/v/20211124235521686"/>
         <updated>2021-11-24T15:12:24.299Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211124202900595"/>
         <updated>2021-11-24T12:18:10.937Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 최영완, 선우재덕에 "최명길이 엄마 죽여"]]></title>
-        <id>https://entertain.v.daum.net/v/20211124200252234</id>
-        <link href="https://entertain.v.daum.net/v/20211124200252234"/>
-        <updated>2021-11-24T11:09:44.747Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
