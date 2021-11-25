@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-25T15:12:49.969Z</updated>
+    <updated>2021-11-25T16:16:46.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 임수정, 결혼 파탄X이도현, 수학계 노벨상 수상]]></title>
+        <id>https://entertain.v.daum.net/v/20211126002725323</id>
+        <link href="https://entertain.v.daum.net/v/20211126002725323"/>
+        <updated>2021-11-25T16:16:36.945Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 임수정, 결혼식 도중 이도현과 스캔들 휩싸였다]]></title>
         <id>https://entertain.v.daum.net/v/20211125235115868</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211125205233368</id>
         <link href="https://entertain.v.daum.net/v/20211125205233368"/>
         <updated>2021-11-25T12:17:50.641Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국대와이프' 한다감, 이직 소문+반지 훔친 범인 몰려]]></title>
-        <id>https://entertain.v.daum.net/v/20211125204625300</id>
-        <link href="https://entertain.v.daum.net/v/20211125204625300"/>
-        <updated>2021-11-25T12:17:50.644Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
