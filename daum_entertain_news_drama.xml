@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-25T14:11:05.114Z</updated>
+    <updated>2021-11-25T15:12:49.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 임수정, 결혼식 도중 이도현과 스캔들 휩싸였다]]></title>
+        <id>https://entertain.v.daum.net/v/20211125235115868</id>
+        <link href="https://entertain.v.daum.net/v/20211125235115868"/>
+        <updated>2021-11-25T15:12:40.335Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너닮사' 고현정, 김재영 집착에 오싹함 느꼈다.. 신현빈·최원영 만남에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211125234900860</id>
+        <link href="https://entertain.v.daum.net/v/20211125234900860"/>
+        <updated>2021-11-25T15:12:40.335Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 임수정, 우다비 답안지 유출받은 것 눈치챘다]]></title>
         <id>https://entertain.v.daum.net/v/20211125230718620</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125204625300"/>
         <updated>2021-11-25T12:17:50.644Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강 구두' 최명길, 선우재덕에 독립 경영 계획 들켰다 "도청장치는 누구 짓?"]]></title>
-        <id>https://entertain.v.daum.net/v/20211125203551169</id>
-        <link href="https://entertain.v.daum.net/v/20211125203551169"/>
-        <updated>2021-11-25T12:17:50.644Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 황동주, 소이현과 결혼 강행 "선우재덕처럼 미쳐서.." 일침]]></title>
-        <id>https://entertain.v.daum.net/v/20211125202930056</id>
-        <link href="https://entertain.v.daum.net/v/20211125202930056"/>
-        <updated>2021-11-25T12:17:50.646Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
