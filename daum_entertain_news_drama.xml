@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-25T10:12:37.012Z</updated>
+    <updated>2021-11-25T11:10:46.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지옥' 호불호 평가, 연상호 감독 "대중적 만족 기대 안했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125200102639</id>
+        <link href="https://entertain.v.daum.net/v/20211125200102639"/>
+        <updated>2021-11-25T11:10:37.087Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 차서원, 한기웅에 경고 "부부가 뻔뻔해"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125193235102</id>
+        <link href="https://entertain.v.daum.net/v/20211125193235102"/>
+        <updated>2021-11-25T11:10:37.089Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우 측 "'멘탈코치 제갈길' 긍정 검토 중인 작품"]]></title>
         <id>https://entertain.v.daum.net/v/20211125171811292</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125155231822"/>
         <updated>2021-11-25T07:13:40.226Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열혈사제' PD에 김수현x차승원이라니..'어느날' 안 볼 수 없다]]></title>
-        <id>https://entertain.v.daum.net/v/20211125154139276</id>
-        <link href="https://entertain.v.daum.net/v/20211125154139276"/>
-        <updated>2021-11-25T07:13:40.227Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정, 넷플릭스 '마스크걸' 주연]]></title>
-        <id>https://entertain.v.daum.net/v/20211125153909142</id>
-        <link href="https://entertain.v.daum.net/v/20211125153909142"/>
-        <updated>2021-11-25T07:13:40.228Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
