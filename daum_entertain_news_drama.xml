@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-25T08:13:55.634Z</updated>
+    <updated>2021-11-25T09:12:02.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우 측 "'멘탈코치 제갈길' 긍정 검토 중인 작품"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125171811292</id>
+        <link href="https://entertain.v.daum.net/v/20211125171811292"/>
+        <updated>2021-11-25T09:11:54.679Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정우 측 "'멘탈코치 제갈길' 긍정 검토"]]></title>
+        <id>https://entertain.v.daum.net/v/20211125171720266</id>
+        <link href="https://entertain.v.daum.net/v/20211125171720266"/>
+        <updated>2021-11-25T09:11:54.681Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임수향, MBC '닥터 로이어' 출연 확정..소지섭과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20211125171720265</id>
+        <link href="https://entertain.v.daum.net/v/20211125171720265"/>
+        <updated>2021-11-25T09:11:54.682Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그림자 미녀' 심달기, SNS 협박범과 숨막히는 꼬리 잡기]]></title>
         <id>https://entertain.v.daum.net/v/20211125170708896</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211125153909142"/>
         <updated>2021-11-25T07:13:40.228Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 중간고사로 일으킬 역대급 파란]]></title>
-        <id>https://entertain.v.daum.net/v/20211125153050678</id>
-        <link href="https://entertain.v.daum.net/v/20211125153050678"/>
-        <updated>2021-11-25T07:13:40.230Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학교 2021' 김요한, 사물함에 남겨진 의문의 쪽지..폭풍전야]]></title>
-        <id>https://entertain.v.daum.net/v/20211125152354308</id>
-        <link href="https://entertain.v.daum.net/v/20211125152354308"/>
-        <updated>2021-11-25T07:13:40.231Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주상욱, 근엄x카리스마 '태종 이방원' 완벽 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20211125151423936</id>
-        <link href="https://entertain.v.daum.net/v/20211125151423936"/>
-        <updated>2021-11-25T06:14:46.276Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
