@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-26T03:12:24.934Z</updated>
+    <updated>2021-11-26T04:14:59.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해피니스' 측 "한효주 지키려는 박형식, 무증상 비밀 드러난다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211126131333539</id>
+        <link href="https://entertain.v.daum.net/v/20211126131333539"/>
+        <updated>2021-11-26T04:14:50.285Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조정치 '커피 한잔 할까요' 특별출연, 은퇴한 헤비메탈 밴드 보컬 된다]]></title>
+        <id>https://entertain.v.daum.net/v/20211126124433099</id>
+        <link href="https://entertain.v.daum.net/v/20211126124433099"/>
+        <updated>2021-11-26T04:14:50.285Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥' 김현주 "김신록과의 연기 충격, 자아성찰도"]]></title>
         <id>https://entertain.v.daum.net/v/20211126120714589</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211126104251815"/>
         <updated>2021-11-26T01:53:08.343Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영웅, KBS 드라마스페셜 '비트윈' 출연 확정..신스틸러 新강자]]></title>
-        <id>https://entertain.v.daum.net/v/20211126103819629</id>
-        <link href="https://entertain.v.daum.net/v/20211126103819629"/>
-        <updated>2021-11-26T01:53:08.349Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애 '구경이' 27·28일 휴방..하이라이트 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20211126103756618</id>
-        <link href="https://entertain.v.daum.net/v/20211126103756618"/>
-        <updated>2021-11-26T01:53:08.356Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
