@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-26T21:10:31.295Z</updated>
+    <updated>2021-11-26T22:11:49.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["10년전 시작된 우리"..'지헤중' 송혜교X장기용, 사랑할 인연]]></title>
+        <id>https://entertain.v.daum.net/v/20211127070503733</id>
+        <link href="https://entertain.v.daum.net/v/20211127070503733"/>
+        <updated>2021-11-26T22:11:39.905Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['해피니스' 박형식, 감염 위험 이긴 사랑 "한효주 옆에 두겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211127064001526</id>
+        <link href="https://entertain.v.daum.net/v/20211127064001526"/>
+        <updated>2021-11-26T22:11:39.905Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 장기용, 송혜교 회사 입사..10년 만에 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20211127062001432</id>
+        <link href="https://entertain.v.daum.net/v/20211127062001432"/>
+        <updated>2021-11-26T22:11:39.906Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 최희서, 김주헌 동성애자 오해 "각자의 취향 존중"]]></title>
         <id>https://entertain.v.daum.net/v/20211127054321156</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127005600253"/>
         <updated>2021-11-26T16:17:50.259Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 윤정희, 장기용 형의 약혼자였다. "재국이 여자 만나보셨나?" 송혜교에 적개심]]></title>
-        <id>https://entertain.v.daum.net/v/20211127003514201</id>
-        <link href="https://entertain.v.daum.net/v/20211127003514201"/>
-        <updated>2021-11-26T16:17:50.262Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피니스' 조우진, 항체 나온 한효주 납치→박형식 총 들고 대기]]></title>
-        <id>https://entertain.v.daum.net/v/20211127002049107</id>
-        <link href="https://entertain.v.daum.net/v/20211127002049107"/>
-        <updated>2021-11-26T16:17:50.263Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 장기용, 송혜교에 "10년 전 시작된 우리..헤어지는 동안만 사랑하자" 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20211127000000917</id>
-        <link href="https://entertain.v.daum.net/v/20211127000000917"/>
-        <updated>2021-11-26T15:12:25.328Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
