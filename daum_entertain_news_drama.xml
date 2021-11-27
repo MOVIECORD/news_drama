@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-27T15:11:34.259Z</updated>
+    <updated>2021-11-27T16:16:13.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, "모든 순간 함께 해 준 사람"..장기용과의 10년 전 인연 알았다]]></title>
+        <id>https://entertain.v.daum.net/v/20211128010600456</id>
+        <link href="https://entertain.v.daum.net/v/20211128010600456"/>
+        <updated>2021-11-27T16:16:06.021Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어느 날' 김수현, 살인 혐의 부인 "저 정말 아니에요" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20211128002809331</id>
+        <link href="https://entertain.v.daum.net/v/20211128002809331"/>
+        <updated>2021-11-27T16:16:06.029Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, 사망한 신동욱 발신 전화에 충격, 윤정희 집착이 부른 파멸의 전조]]></title>
+        <id>https://entertain.v.daum.net/v/20211128001542312</id>
+        <link href="https://entertain.v.daum.net/v/20211128001542312"/>
+        <updated>2021-11-27T16:16:06.029Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지금 보고싶다"..'지헤중' 송혜교도 장기용에 직진]]></title>
         <id>https://entertain.v.daum.net/v/20211127233551121</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127215808700"/>
         <updated>2021-11-27T13:16:25.382Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 지현우, 박하나와 과거 연인 아닌 것 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211127215002637</id>
-        <link href="https://entertain.v.daum.net/v/20211127215002637"/>
-        <updated>2021-11-27T13:16:25.382Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전지현, 오정세 범인 의심.."고민시 실종날 산에 있었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211127214837607</id>
-        <link href="https://entertain.v.daum.net/v/20211127214837607"/>
-        <updated>2021-11-27T13:16:25.389Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이루 "박하나와 결혼? 넌 다른 여자 만났는데" 폭로, 지현우 파혼 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211127213610543</id>
-        <link href="https://entertain.v.daum.net/v/20211127213610543"/>
-        <updated>2021-11-27T13:16:25.389Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
