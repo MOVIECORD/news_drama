@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-27T19:09:16.647Z</updated>
+    <updated>2021-11-27T20:11:25.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 이세영에 폭풍 질투 "내가 신경 쓰는 것은 오직.."]]></title>
+        <id>https://entertain.v.daum.net/v/20211128050017832</id>
+        <link href="https://entertain.v.daum.net/v/20211128050017832"/>
+        <updated>2021-11-27T20:11:16.804Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호, 이세영에 "덕임아.. 넌 나의 사람이니까"]]></title>
+        <id>https://entertain.v.daum.net/v/20211128050011821</id>
+        <link href="https://entertain.v.daum.net/v/20211128050011821"/>
+        <updated>2021-11-27T20:11:16.804Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 송혜교, "그래, 우리 헤어지자" 장기용과 ♥시작]]></title>
         <id>https://entertain.v.daum.net/v/20211128022101660</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127222619851"/>
         <updated>2021-11-27T14:10:10.701Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교, "10년 버티게 한 사람..장기용이었다" 눈물]]></title>
-        <id>https://entertain.v.daum.net/v/20211127221752815</id>
-        <link href="https://entertain.v.daum.net/v/20211127221752815"/>
-        <updated>2021-11-27T14:10:10.702Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교, 장기용 바라보며 눈물.."10년을 모른채 지나왔던 사람"]]></title>
-        <id>https://entertain.v.daum.net/v/20211127221211794</id>
-        <link href="https://entertain.v.daum.net/v/20211127221211794"/>
-        <updated>2021-11-27T13:16:25.382Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
