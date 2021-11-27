@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-27T17:17:03.903Z</updated>
+    <updated>2021-11-27T18:12:30.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, "그래, 우리 헤어지자" 장기용과 ♥시작]]></title>
+        <id>https://entertain.v.daum.net/v/20211128022101660</id>
+        <link href="https://entertain.v.daum.net/v/20211128022101660"/>
+        <updated>2021-11-27T18:12:22.395Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 송혜교, "모든 순간 함께 해 준 사람"..장기용과의 10년 전 인연 알았다]]></title>
         <id>https://entertain.v.daum.net/v/20211128010600456</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127221211794"/>
         <updated>2021-11-27T13:16:25.382Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전지현, 오정세 살인 진범 의심 조한철과 함정 팠다]]></title>
-        <id>https://entertain.v.daum.net/v/20211127215808700</id>
-        <link href="https://entertain.v.daum.net/v/20211127215808700"/>
-        <updated>2021-11-27T13:16:25.382Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
