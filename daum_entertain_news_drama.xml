@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-27T07:11:27.889Z</updated>
+    <updated>2021-11-27T08:14:00.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포박된 김수현 vs 기막힌 차승원, 충격적인 송치 현장]]></title>
+        <id>https://entertain.v.daum.net/v/20211127162745214</id>
+        <link href="https://entertain.v.daum.net/v/20211127162745214"/>
+        <updated>2021-11-27T08:13:50.627Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은, '유미의 세포들2' 다은役 캐스팅..싱크로율 100% 활약]]></title>
         <id>https://entertain.v.daum.net/v/20211127155002727</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211127141629637"/>
         <updated>2021-11-27T06:13:14.660Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교만 바라보는 장기용..다정한 눈빛 "서로 다가서는 순간"]]></title>
-        <id>https://entertain.v.daum.net/v/20211127141317603</id>
-        <link href="https://entertain.v.daum.net/v/20211127141317603"/>
-        <updated>2021-11-27T06:13:14.663Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
