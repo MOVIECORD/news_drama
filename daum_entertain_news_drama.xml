@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-28T10:12:09.271Z</updated>
+    <updated>2021-11-28T11:09:46.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이름값 바랜 송혜교·전지현, '옷소매'에 나란히 추격 허용]]></title>
+        <id>https://entertain.v.daum.net/v/20211128195705161</id>
+        <link href="https://entertain.v.daum.net/v/20211128195705161"/>
+        <updated>2021-11-28T11:09:39.119Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예지원, 코로나19 확진..'태종 이방원' 측 "23일 이후 접촉無"]]></title>
+        <id>https://entertain.v.daum.net/v/20211128194104060</id>
+        <link href="https://entertain.v.daum.net/v/20211128194104060"/>
+        <updated>2021-11-28T11:09:39.121Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예지원, 코로나19 확진..'태종 이방원' 측 "배우·제작진 접촉 無"]]></title>
+        <id>https://entertain.v.daum.net/v/20211128193248983</id>
+        <link href="https://entertain.v.daum.net/v/20211128193248983"/>
+        <updated>2021-11-28T11:09:39.121Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["예지원 코로나19 확진, '태종 이방원' 스케줄 취소"]]></title>
         <id>https://entertain.v.daum.net/v/20211128184031495</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128145007408"/>
         <updated>2021-11-28T06:13:49.461Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 지현우-이세희, 입술 닿기 1초 전 "다시 묘한 기류"]]></title>
-        <id>https://entertain.v.daum.net/v/20211128143742238</id>
-        <link href="https://entertain.v.daum.net/v/20211128143742238"/>
-        <updated>2021-11-28T06:13:49.461Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 몰입도 200% 압도적 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20211128143349199</id>
-        <link href="https://entertain.v.daum.net/v/20211128143349199"/>
-        <updated>2021-11-28T06:13:49.465Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년 정조의 첫사랑..'옷소매' 동시간대 1위+자체 최고 경신]]></title>
-        <id>https://entertain.v.daum.net/v/20211128143155189</id>
-        <link href="https://entertain.v.daum.net/v/20211128143155189"/>
-        <updated>2021-11-28T06:13:49.465Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
