@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-28T02:26:52.556Z</updated>
+    <updated>2021-11-28T03:12:06.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옷소매 붉은 끝동' 이세영 마음 전한다..벤, '잠들지 않는 별' 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20211128120018196</id>
+        <link href="https://entertain.v.daum.net/v/20211128120018196"/>
+        <updated>2021-11-28T03:11:59.039Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, 여성들의 워너비 아이콘인 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20211128120004167</id>
+        <link href="https://entertain.v.daum.net/v/20211128120004167"/>
+        <updated>2021-11-28T03:11:59.040Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이돌' 안희연-정웅인, 스타피스엔터 창립 멤버의 끈끈함]]></title>
         <id>https://entertain.v.daum.net/v/20211128111532561</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128100000384"/>
         <updated>2021-11-28T01:51:39.713Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어느날' 김수현, 결국 교도소로..위태로운 감방생활 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20211128095801362</id>
-        <link href="https://entertain.v.daum.net/v/20211128095801362"/>
-        <updated>2021-11-28T01:51:39.715Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성은 독박육아 우울증, 子 두고 도망..박세욱 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20211128095003275</id>
-        <link href="https://entertain.v.daum.net/v/20211128095003275"/>
-        <updated>2021-11-28T01:51:39.715Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
