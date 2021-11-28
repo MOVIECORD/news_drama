@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-28T08:13:11.169Z</updated>
+    <updated>2021-11-28T09:11:37.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 예지원, 코로나19 확진..제작진·배우와 접촉無]]></title>
+        <id>https://entertain.v.daum.net/v/20211128173955601</id>
+        <link href="https://entertain.v.daum.net/v/20211128173955601"/>
+        <updated>2021-11-28T09:11:29.406Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성재, 완벽한 아내 두고 내연녀 초대한 뻔뻔함]]></title>
         <id>https://entertain.v.daum.net/v/20211128170041905</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211128140749892"/>
         <updated>2021-11-28T05:10:03.295Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤, ♥︎이준호 향한 이세영 마음 전한다..오늘 '옷소매' OST 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20211128135156679</id>
-        <link href="https://entertain.v.daum.net/v/20211128135156679"/>
-        <updated>2021-11-28T05:10:03.300Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
