@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-29T09:12:03.714Z</updated>
+    <updated>2021-11-29T10:12:47.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시완X고아성→손현주X박용우 맹활약]]></title>
+        <id>https://entertain.v.daum.net/v/20211129184746827</id>
+        <link href="https://entertain.v.daum.net/v/20211129184746827"/>
+        <updated>2021-11-29T10:12:39.706Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["백현진, 실제로 독특"..김성령 밝힌 #이상청 #발성장애 #시즌2]]></title>
         <id>https://entertain.v.daum.net/v/20211129175029660</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129160443759"/>
         <updated>2021-11-29T07:12:01.352Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼윈도: 여왕의 집' 송윤아X이성재, 파격 전개로 불륜극 클리셰 타파]]></title>
-        <id>https://entertain.v.daum.net/v/20211129155748469</id>
-        <link href="https://entertain.v.daum.net/v/20211129155748469"/>
-        <updated>2021-11-29T07:12:01.353Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
