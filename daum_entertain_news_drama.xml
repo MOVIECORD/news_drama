@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-29T12:18:20.531Z</updated>
+    <updated>2021-11-29T13:19:15.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연모' 최병찬, 아버지 죽인 사람 윤제문..'충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211129220734086</id>
+        <link href="https://entertain.v.daum.net/v/20211129220734086"/>
+        <updated>2021-11-29T13:19:07.171Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성령, 연기 고민 多.."윤성호 감독 보고 좌절·반성"]]></title>
+        <id>https://entertain.v.daum.net/v/20211129220101996</id>
+        <link href="https://entertain.v.daum.net/v/20211129220101996"/>
+        <updated>2021-11-29T13:19:07.172Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 송유현, 얄미움으로 자극제 역할 톡톡..송혜교와 대립]]></title>
         <id>https://entertain.v.daum.net/v/20211129204555300</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129175007634"/>
         <updated>2021-11-29T09:11:55.331Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진 깊어진 감성, 캐릭터 티저+포스터]]></title>
-        <id>https://entertain.v.daum.net/v/20211129173104939</id>
-        <link href="https://entertain.v.daum.net/v/20211129173104939"/>
-        <updated>2021-11-29T09:11:55.331Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전지현 때문에 안방은 눈물바다]]></title>
-        <id>https://entertain.v.daum.net/v/20211129172429665</id>
-        <link href="https://entertain.v.daum.net/v/20211129172429665"/>
-        <updated>2021-11-29T09:11:55.332Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
