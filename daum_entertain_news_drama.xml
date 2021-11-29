@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-29T15:12:27.972Z</updated>
+    <updated>2021-11-29T16:17:53.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불륜' 전소민, 이성재와의 이별에 음독 시도 "헤어지는게 맞는데.."]]></title>
+        <id>https://entertain.v.daum.net/v/20211130011345132</id>
+        <link href="https://entertain.v.daum.net/v/20211130011345132"/>
+        <updated>2021-11-29T16:17:44.052Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼윈도' 이성재, '불륜' 전소민과 이별 여행 → 송윤아와 리마인드 웨딩]]></title>
+        <id>https://entertain.v.daum.net/v/20211130002254902</id>
+        <link href="https://entertain.v.daum.net/v/20211130002254902"/>
+        <updated>2021-11-29T16:17:44.053Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이돌' 안희연, 김민규와 컬래버 포기→백업 댄서 자처]]></title>
         <id>https://entertain.v.daum.net/v/20211130000916822</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211129204555300"/>
         <updated>2021-11-29T12:18:11.594Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 선우재덕, 뺑소니범 살해..소이현 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20211129203935259</id>
-        <link href="https://entertain.v.daum.net/v/20211129203935259"/>
-        <updated>2021-11-29T12:18:11.594Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상, 스릴러 장르도 섭렵..연기 변신 GOOD]]></title>
-        <id>https://entertain.v.daum.net/v/20211129203623239</id>
-        <link href="https://entertain.v.daum.net/v/20211129203623239"/>
-        <updated>2021-11-29T12:18:11.596Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
