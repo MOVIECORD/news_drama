@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-30T12:15:04.163Z</updated>
+    <updated>2021-11-30T13:09:41.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이진욱·권나라·이준·공승연, 600년 환장 관계성 포스터]]></title>
+        <id>https://entertain.v.daum.net/v/20211130214420255</id>
+        <link href="https://entertain.v.daum.net/v/20211130214420255"/>
+        <updated>2021-11-30T13:09:32.846Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강구두' 최명길, 반효정X김규철 모자관계에 경악 "당신 아들이 내 인생을 망쳤어"]]></title>
         <id>https://entertain.v.daum.net/v/20211130203001074</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130171359609"/>
         <updated>2021-11-30T09:10:09.056Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼윈도:여왕의 집' 송윤아X전소민, 워맨스 본격 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20211130165905054</id>
-        <link href="https://entertain.v.daum.net/v/20211130165905054"/>
-        <updated>2021-11-30T08:12:13.316Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
