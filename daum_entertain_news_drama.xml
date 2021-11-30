@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-30T09:10:16.751Z</updated>
+    <updated>2021-11-30T10:10:46.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성·고경표 돌파감염에 비상..이정재·이병헌 음성]]></title>
+        <id>https://entertain.v.daum.net/v/20211130190819404</id>
+        <link href="https://entertain.v.daum.net/v/20211130190819404"/>
+        <updated>2021-11-30T10:10:37.305Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥' 박정민 "짜증 연기 반성 많이해, 해외 진출? 관심 없다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211130190001253</id>
+        <link href="https://entertain.v.daum.net/v/20211130190001253"/>
+        <updated>2021-11-30T10:10:37.305Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그림자미녀' 심달기, 최보민X홍석과 킬링 힐링 오가는 케미..훈훈한 학원 로맨스]]></title>
         <id>https://entertain.v.daum.net/v/20211130175609965</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130164916725"/>
         <updated>2021-11-30T08:12:13.320Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호♥이세영, 송혜교도 꺾더니 결국 1위..화제성 폭발]]></title>
-        <id>https://entertain.v.daum.net/v/20211130163620315</id>
-        <link href="https://entertain.v.daum.net/v/20211130163620315"/>
-        <updated>2021-11-30T08:12:13.321Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이학주 "'이상청' 시청한 박희순X장률,'또 노리고 쓰리 피스 입었다'고.."]]></title>
-        <id>https://entertain.v.daum.net/v/20211130163102109</id>
-        <link href="https://entertain.v.daum.net/v/20211130163102109"/>
-        <updated>2021-11-30T08:12:13.322Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
