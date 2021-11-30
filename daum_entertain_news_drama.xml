@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-11-30T14:11:09.549Z</updated>
+    <updated>2021-11-30T15:12:25.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어사와 조이' 옥택연, 폭발 속에서 생존.. 암행 마치고 화려한 귀환]]></title>
+        <id>https://entertain.v.daum.net/v/20211130234400073</id>
+        <link href="https://entertain.v.daum.net/v/20211130234400073"/>
+        <updated>2021-11-30T15:12:16.762Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모' 로운, 위기의 박은빈 감싸 안았다.. 배수빈, 지원군으로 합류하나?]]></title>
         <id>https://entertain.v.daum.net/v/20211130225030839</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211130174139523"/>
         <updated>2021-11-30T09:10:09.049Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김광규, 티빙 오리지널 '내과 박원장' 출연 확정..산부인과 원장 役]]></title>
-        <id>https://entertain.v.daum.net/v/20211130173948463</id>
-        <link href="https://entertain.v.daum.net/v/20211130173948463"/>
-        <updated>2021-11-30T09:10:09.050Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
