@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-01T15:12:27.133Z</updated>
+    <updated>2021-12-01T16:17:20.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현X임수정 스캔들 4년 후..진경에 복수할까]]></title>
+        <id>https://entertain.v.daum.net/v/20211202005002870</id>
+        <link href="https://entertain.v.daum.net/v/20211202005002870"/>
+        <updated>2021-12-01T16:17:12.658Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역사왜곡 논란 '철인왕후', 9개월만 VOD 서비스 재개]]></title>
+        <id>https://entertain.v.daum.net/v/20211202003418832</id>
+        <link href="https://entertain.v.daum.net/v/20211202003418832"/>
+        <updated>2021-12-01T16:17:12.658Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정과 4년 만에 재회 '애틋']]></title>
         <id>https://entertain.v.daum.net/v/20211201231343253</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211201175652510"/>
         <updated>2021-12-01T09:12:22.684Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학교 2021' 추영우·황보름별, 손 잡았다..수상한 거래 현장]]></title>
-        <id>https://entertain.v.daum.net/v/20211201175549476</id>
-        <link href="https://entertain.v.daum.net/v/20211201175549476"/>
-        <updated>2021-12-01T09:12:22.684Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이서진X라미란 표 코미디 '내과 박원장', 1월 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211201175154376</id>
-        <link href="https://entertain.v.daum.net/v/20211201175154376"/>
-        <updated>2021-12-01T09:12:22.688Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
