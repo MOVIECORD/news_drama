@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-01T09:12:30.872Z</updated>
+    <updated>2021-12-01T10:12:59.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["소울메이트♥"..최우식X김다미, 로코로 3년 만 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20211201191002037</id>
+        <link href="https://entertain.v.daum.net/v/20211201191002037"/>
+        <updated>2021-12-01T10:12:51.962Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크라임 퍼즐' 진소연, 윤계상과 호흡.."모든 순간이 행복"]]></title>
         <id>https://entertain.v.daum.net/v/20211201180205700</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211201170437584"/>
         <updated>2021-12-01T08:14:26.450Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이돌' 안희연, 표절 문제 발생? "이거 내 곡이잖아"]]></title>
-        <id>https://entertain.v.daum.net/v/20211201164946922</id>
-        <link href="https://entertain.v.daum.net/v/20211201164946922"/>
-        <updated>2021-12-01T08:14:26.452Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
