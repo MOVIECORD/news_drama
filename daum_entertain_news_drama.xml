@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-02T15:10:42.287Z</updated>
+    <updated>2021-12-02T16:16:58.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '너를 닮은 사람' 김재영, 김수안 공격에 사망..고현정 다 버리고 떠났다]]></title>
+        <id>https://entertain.v.daum.net/v/20211203001835508</id>
+        <link href="https://entertain.v.daum.net/v/20211203001835508"/>
+        <updated>2021-12-02T16:16:49.342Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '너닮사' 고현정, 딸 김수안 살인죄 덮기 위해 다 버렸다 "파국엔딩"]]></title>
+        <id>https://entertain.v.daum.net/v/20211203001031439</id>
+        <link href="https://entertain.v.daum.net/v/20211203001031439"/>
+        <updated>2021-12-02T16:16:49.344Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 임수정, 파혼한 최대훈과 만남..이도현 삼각관계]]></title>
         <id>https://entertain.v.daum.net/v/20211203000044261</id>
@@ -48,14 +62,14 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 임수정, 교사된 이도현에 "다른 일 해"]]></title>
+        <title type="html"><![CDATA['멜랑꼴리아' 임수정, 교사된 이도현에 "다른 일 해" 충고]]></title>
         <id>https://entertain.v.daum.net/v/20211202224941483</id>
         <link href="https://entertain.v.daum.net/v/20211202224941483"/>
         <updated>2021-12-02T14:10:49.879Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 "처음 같이 왔던 날 같아" 직진]]></title>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정에 직진.."처음 같이 왔던 날 같아"]]></title>
         <id>https://entertain.v.daum.net/v/20211202224514428</id>
         <link href="https://entertain.v.daum.net/v/20211202224514428"/>
         <updated>2021-12-02T14:10:49.879Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211202211127920"/>
         <updated>2021-12-02T12:17:33.677Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈, "'술도녀' 인기 비결..자유로운 욕→찐친 케미"]]></title>
-        <id>https://entertain.v.daum.net/v/20211202210102734</id>
-        <link href="https://entertain.v.daum.net/v/20211202210102734"/>
-        <updated>2021-12-02T12:17:33.683Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 임수정 향해 직진 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20211202205755677</id>
-        <link href="https://entertain.v.daum.net/v/20211202205755677"/>
-        <updated>2021-12-02T12:17:33.684Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
