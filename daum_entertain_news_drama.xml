@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-03T16:17:03.894Z</updated>
+    <updated>2021-12-03T17:18:59.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진희, 능동+독립 성향 '킹 메이커' 활약]]></title>
+        <id>https://entertain.v.daum.net/v/20211204020012985</id>
+        <link href="https://entertain.v.daum.net/v/20211204020012985"/>
+        <updated>2021-12-03T17:18:50.284Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해피니스' 박형식, 광인병 발병 위기 맞나 '충격엔딩']]></title>
         <id>https://entertain.v.daum.net/v/20211204004231786</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203221717803"/>
         <updated>2021-12-03T13:18:44.614Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호 "내가 사모하는 사람" 이세영 고백에 숨길 수 없는 웃음]]></title>
-        <id>https://entertain.v.daum.net/v/20211203220824736</id>
-        <link href="https://entertain.v.daum.net/v/20211203220824736"/>
-        <updated>2021-12-03T13:18:44.614Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
