@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-03T10:12:43.595Z</updated>
+    <updated>2021-12-03T11:09:49.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 복수 후 아들 사진 '눈물']]></title>
+        <id>https://entertain.v.daum.net/v/20211203195211039</id>
+        <link href="https://entertain.v.daum.net/v/20211203195211039"/>
+        <updated>2021-12-03T11:09:40.017Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 그림 도둑 맞아..한기웅 강윤 의심]]></title>
+        <id>https://entertain.v.daum.net/v/20211203193822776</id>
+        <link href="https://entertain.v.daum.net/v/20211203193822776"/>
+        <updated>2021-12-03T11:09:40.017Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최원영, '너를 닮은 사람' 종영 소감 "고현정 선배와 연기, 많은 공부됐다"]]></title>
         <id>https://entertain.v.daum.net/v/20211203180608740</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211203160652356"/>
         <updated>2021-12-03T07:12:04.968Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그녀들' 정다은, 괴기한 비주얼 '충격'..김새론과 기묘한 분위기]]></title>
-        <id>https://entertain.v.daum.net/v/20211203160141181</id>
-        <link href="https://entertain.v.daum.net/v/20211203160141181"/>
-        <updated>2021-12-03T07:12:04.969Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥' 유아인 "20대=겉멋·허세..30대에 죽을 거라고 했는데"]]></title>
-        <id>https://entertain.v.daum.net/v/20211203155003773</id>
-        <link href="https://entertain.v.daum.net/v/20211203155003773"/>
-        <updated>2021-12-03T07:12:04.969Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
