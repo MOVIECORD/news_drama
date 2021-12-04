@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-04T19:09:25.456Z</updated>
+    <updated>2021-12-04T20:11:59.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호X이세영, 뜨거운 포옹 "너였구나"]]></title>
+        <id>https://entertain.v.daum.net/v/20211205050006670</id>
+        <link href="https://entertain.v.daum.net/v/20211205050006670"/>
+        <updated>2021-12-04T20:11:51.381Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 송혜교, 차화연에 "신동욱母라면 만날 이유 없어..장기용 母로서는 만나겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20211205013601520</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204222852853"/>
         <updated>2021-12-04T14:10:16.321Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 생령 주지훈, 위기의 전지현 구하나 '주민경 김영옥 죽음']]></title>
-        <id>https://entertain.v.daum.net/v/20211204222749849</id>
-        <link href="https://entertain.v.daum.net/v/20211204222749849"/>
-        <updated>2021-12-04T14:10:16.321Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
