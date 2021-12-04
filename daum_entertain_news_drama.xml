@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-04T15:12:18.740Z</updated>
+    <updated>2021-12-04T16:16:28.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애, 김혜준X김해숙 공조에 위기→집앞 상자 속 시신 발견 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20211205001816367</id>
+        <link href="https://entertain.v.daum.net/v/20211205001816367"/>
+        <updated>2021-12-04T16:16:18.781Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구경이' 이영애x곽선영 생존.. 김혜준x김해숙 손잡았다]]></title>
         <id>https://entertain.v.daum.net/v/20211205000941344</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204222741848"/>
         <updated>2021-12-04T14:10:16.324Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 장기용, 송혜교 반대하는 차화연에 "그 사람 아니면 안돼"]]></title>
-        <id>https://entertain.v.daum.net/v/20211204222700845</id>
-        <link href="https://entertain.v.daum.net/v/20211204222700845"/>
-        <updated>2021-12-04T14:10:16.325Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
