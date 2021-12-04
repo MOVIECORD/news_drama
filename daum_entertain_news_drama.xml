@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-04T10:11:54.707Z</updated>
+    <updated>2021-12-04T11:11:04.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우, 이세희에 기습 입맞춤..뺨 맞았다]]></title>
+        <id>https://entertain.v.daum.net/v/20211204200656534</id>
+        <link href="https://entertain.v.daum.net/v/20211204200656534"/>
+        <updated>2021-12-04T11:10:55.640Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교·윤나무, 박효주 불치병 알까..눈물 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20211204194224324</id>
+        <link href="https://entertain.v.daum.net/v/20211204194224324"/>
+        <updated>2021-12-04T11:10:55.645Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 송혜교, 눈물샘 예약..박효주 아픔 알게 되나]]></title>
         <id>https://entertain.v.daum.net/v/20211204180523622</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211204135825000"/>
         <updated>2021-12-04T05:11:21.120Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교 윤나무, 박효주 췌장암 알게 될까]]></title>
-        <id>https://entertain.v.daum.net/v/20211204134910939</id>
-        <link href="https://entertain.v.daum.net/v/20211204134910939"/>
-        <updated>2021-12-04T05:11:21.125Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼미더머니10', 자체 최고 시청률 경신하며 피날레]]></title>
-        <id>https://entertain.v.daum.net/v/20211204133507858</id>
-        <link href="https://entertain.v.daum.net/v/20211204133507858"/>
-        <updated>2021-12-04T05:11:21.132Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
