@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-05T03:12:21.824Z</updated>
+    <updated>2021-12-05T04:14:41.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옷소매 붉은 끝동'이 증명한 원작과 각색의 힘]]></title>
+        <id>https://entertain.v.daum.net/v/20211205125719770</id>
+        <link href="https://entertain.v.daum.net/v/20211205125719770"/>
+        <updated>2021-12-05T04:14:33.110Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모' 박은빈, 셀프캠을 든 왕이라니..로운 "박은빈, 착하고 소중해"]]></title>
         <id>https://entertain.v.daum.net/v/20211205113645758</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205100244182"/>
         <updated>2021-12-05T02:02:03.174Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은지 "눈 떠보니 데뷔 10주년, 서른 두렵고 기대돼"]]></title>
-        <id>https://entertain.v.daum.net/v/20211205100007112</id>
-        <link href="https://entertain.v.daum.net/v/20211205100007112"/>
-        <updated>2021-12-05T02:02:03.175Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
