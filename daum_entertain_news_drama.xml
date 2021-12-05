@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-05T04:14:41.651Z</updated>
+    <updated>2021-12-05T05:11:21.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지리산' 오정세, 살인마 아니었다]]></title>
+        <id>https://entertain.v.daum.net/v/20211205140909716</id>
+        <link href="https://entertain.v.daum.net/v/20211205140909716"/>
+        <updated>2021-12-05T05:11:12.815Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['설강화' 정해인X지수, 정치적 음모·첩보전 중 꽃핀 로맨스 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20211205132821133</id>
+        <link href="https://entertain.v.daum.net/v/20211205132821133"/>
+        <updated>2021-12-05T05:11:12.832Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애, 시한폭탄 김혜준 만난다..기차안 은밀한 접선]]></title>
+        <id>https://entertain.v.daum.net/v/20211205132052073</id>
+        <link href="https://entertain.v.daum.net/v/20211205132052073"/>
+        <updated>2021-12-05T05:11:12.845Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매 붉은 끝동'이 증명한 원작과 각색의 힘]]></title>
         <id>https://entertain.v.daum.net/v/20211205125719770</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205105400879"/>
         <updated>2021-12-05T02:02:03.171Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아뇨 전 죽이지 않았습니다"..'어느날' 김수현의 반란 '먹먹']]></title>
-        <id>https://entertain.v.daum.net/v/20211205102916558</id>
-        <link href="https://entertain.v.daum.net/v/20211205102916558"/>
-        <updated>2021-12-05T02:02:03.171Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 송혜교 '오열', 박효주 병+항암 거부 알았다..최고 8.6%]]></title>
-        <id>https://entertain.v.daum.net/v/20211205102423495</id>
-        <link href="https://entertain.v.daum.net/v/20211205102423495"/>
-        <updated>2021-12-05T02:02:03.174Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["죽이지 않았다"..'어느날' 김수현, 자백 강요에 꿈틀..먹먹 엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20211205100244182</id>
-        <link href="https://entertain.v.daum.net/v/20211205100244182"/>
-        <updated>2021-12-05T02:02:03.174Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
