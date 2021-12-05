@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-05T15:11:22.074Z</updated>
+    <updated>2021-12-05T16:16:10.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오정세, 이번엔 레크레이션 강사? 집구석 마술사]]></title>
+        <id>https://entertain.v.daum.net/v/20211206010006699</id>
+        <link href="https://entertain.v.daum.net/v/20211206010006699"/>
+        <updated>2021-12-05T16:16:01.635Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구경이' 이영애, 박지빈 악행 숨긴 김해숙 비밀 알았다]]></title>
+        <id>https://entertain.v.daum.net/v/20211206003800595</id>
+        <link href="https://entertain.v.daum.net/v/20211206003800595"/>
+        <updated>2021-12-05T16:16:01.640Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너의밤' 정인선, 이준영-장동주와 삼각관계?→김동현 탈퇴 선언]]></title>
+        <id>https://entertain.v.daum.net/v/20211206001931522</id>
+        <link href="https://entertain.v.daum.net/v/20211206001931522"/>
+        <updated>2021-12-05T16:16:01.640Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너의밤' 김종현, ♥하영 신발끈 묶어주며 애틋 로맨스 "있지.."]]></title>
         <id>https://entertain.v.daum.net/v/20211205235255275</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211205214429274"/>
         <updated>2021-12-05T13:17:40.370Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산' 전석호, 검은다리골 출신이었다..이가섭 불러낸 문자 발신인]]></title>
-        <id>https://entertain.v.daum.net/v/20211205213635190</id>
-        <link href="https://entertain.v.daum.net/v/20211205213635190"/>
-        <updated>2021-12-05T13:17:40.370Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이세희 이태리 호텔行, 지현우 미행 딱 걸렸다]]></title>
-        <id>https://entertain.v.daum.net/v/20211205213209151</id>
-        <link href="https://entertain.v.daum.net/v/20211205213209151"/>
-        <updated>2021-12-05T13:17:40.371Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["호텔에서 만난다고?".. '신사와 아가씨' 지현우, 이세희X이태리 관계 질투→미행]]></title>
-        <id>https://entertain.v.daum.net/v/20211205212730102</id>
-        <link href="https://entertain.v.daum.net/v/20211205212730102"/>
-        <updated>2021-12-05T13:17:40.371Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
