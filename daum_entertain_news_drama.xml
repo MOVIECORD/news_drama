@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-05T09:11:31.433Z</updated>
+    <updated>2021-12-05T10:12:25.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상청' 김성령 "발성 장애, 연기 은퇴 생각했지만.."]]></title>
+        <id>https://entertain.v.daum.net/v/20211205190421026</id>
+        <link href="https://entertain.v.daum.net/v/20211205190421026"/>
+        <updated>2021-12-05T10:12:15.404Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이돌' 안희연x곽시양x김민규, 직접 뽑은 명대사·명장면 셋]]></title>
+        <id>https://entertain.v.daum.net/v/20211205190100994</id>
+        <link href="https://entertain.v.daum.net/v/20211205190100994"/>
+        <updated>2021-12-05T10:12:15.416Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼윈도' 황찬성·김승수, 6일부터 본격 등장..송윤아 지킬 수 있을까]]></title>
         <id>https://entertain.v.daum.net/v/20211205163501381</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20211205113645758</id>
         <link href="https://entertain.v.daum.net/v/20211205113645758"/>
         <updated>2021-12-05T03:12:13.488Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 죽음 위기 속 삶의 의지 되찾았다]]></title>
-        <id>https://entertain.v.daum.net/v/20211205113441732</id>
-        <link href="https://entertain.v.daum.net/v/20211205113441732"/>
-        <updated>2021-12-05T03:12:13.488Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수정·이도현, 새 사제 관계 깊어진 멜로♥..반전잼 가득한 현장]]></title>
-        <id>https://entertain.v.daum.net/v/20211205113233683</id>
-        <link href="https://entertain.v.daum.net/v/20211205113233683"/>
-        <updated>2021-12-05T03:12:13.489Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
