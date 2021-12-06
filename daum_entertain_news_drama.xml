@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-06T15:13:15.687Z</updated>
+    <updated>2021-12-06T16:14:39.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김규철·이응경·김태한·노상보, 박진희 든든한 가족]]></title>
+        <id>https://entertain.v.daum.net/v/20211207010010955</id>
+        <link href="https://entertain.v.daum.net/v/20211207010010955"/>
+        <updated>2021-12-06T16:14:30.410Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼윈도' 전소민 구한 송윤아, 이성재 불륜 눈치챘나 '충격엔딩']]></title>
+        <id>https://entertain.v.daum.net/v/20211207001500843</id>
+        <link href="https://entertain.v.daum.net/v/20211207001500843"/>
+        <updated>2021-12-06T16:14:30.410Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그 해 우리는' 최우식, 김다미와 헤어진 지 5년 만에 재회.."상처 줄 만큼 줘"]]></title>
+        <id>https://entertain.v.daum.net/v/20211207001431842</id>
+        <link href="https://entertain.v.daum.net/v/20211207001431842"/>
+        <updated>2021-12-06T16:14:30.410Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어사와조이' 김혜윤, 살아 돌아온 옥택연과 재회]]></title>
         <id>https://entertain.v.daum.net/v/20211207000136713</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211206224951411"/>
         <updated>2021-12-06T14:10:52.651Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼윈도' 송윤아, 전소민 도발 눈치챌까]]></title>
-        <id>https://entertain.v.daum.net/v/20211206224507394</id>
-        <link href="https://entertain.v.daum.net/v/20211206224507394"/>
-        <updated>2021-12-06T14:10:52.652Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식, 뷔 OST 맞춰 작업실 등장]]></title>
-        <id>https://entertain.v.daum.net/v/20211206224255386</id>
-        <link href="https://entertain.v.daum.net/v/20211206224255386"/>
-        <updated>2021-12-06T14:10:52.653Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' "박은빈 남자 좋아한다" 궁녀 사이 퍼진 소문]]></title>
-        <id>https://entertain.v.daum.net/v/20211206222721317</id>
-        <link href="https://entertain.v.daum.net/v/20211206222721317"/>
-        <updated>2021-12-06T14:10:52.653Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
