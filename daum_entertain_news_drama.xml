@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-06T20:13:23.783Z</updated>
+    <updated>2021-12-06T21:11:08.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우식·김다미, '마녀'보다 신선한 '그해 우리는']]></title>
+        <id>https://entertain.v.daum.net/v/20211207060021149</id>
+        <link href="https://entertain.v.daum.net/v/20211207060021149"/>
+        <updated>2021-12-06T21:11:00.299Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오정세, 오디션 프로 1위→영광의 눈물 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20211207060005117</id>
+        <link href="https://entertain.v.daum.net/v/20211207060005117"/>
+        <updated>2021-12-06T21:11:00.299Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥' 천사의 충격적 정체, 비화 대방출]]></title>
         <id>https://entertain.v.daum.net/v/20211207043010613</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211206232628570"/>
         <updated>2021-12-06T15:13:05.894Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식X김다미, 5년 전 연인이었다..김성철, 다큐 다시 찍을까]]></title>
-        <id>https://entertain.v.daum.net/v/20211206231240514</id>
-        <link href="https://entertain.v.daum.net/v/20211206231240514"/>
-        <updated>2021-12-06T15:13:05.895Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '그해 우리는' 최우식, 다시 만난 옛 연인 김다미에 분노의 물세례]]></title>
-        <id>https://entertain.v.daum.net/v/20211206230830473</id>
-        <link href="https://entertain.v.daum.net/v/20211206230830473"/>
-        <updated>2021-12-06T14:10:52.630Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
