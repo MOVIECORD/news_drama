@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-07T19:10:02.440Z</updated>
+    <updated>2021-12-07T20:13:08.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함은정♥김진엽, '사랑의 꽈배기' 포스터 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20211208050008503</id>
+        <link href="https://entertain.v.daum.net/v/20211208050008503"/>
+        <updated>2021-12-07T20:12:57.716Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연모'→'옷소매' 사극 열풍 장기화..대하 사극 시대도 올까]]></title>
         <id>https://entertain.v.daum.net/v/20211208040025225</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211207225104026"/>
         <updated>2021-12-07T14:11:36.163Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연모' 로운, 박은빈=첫사랑 담이 알았다.. 더 깊어진 마음]]></title>
-        <id>https://entertain.v.daum.net/v/20211207224900015</id>
-        <link href="https://entertain.v.daum.net/v/20211207224900015"/>
-        <updated>2021-12-07T14:11:36.164Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
