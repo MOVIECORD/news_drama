@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-08T11:10:17.311Z</updated>
+    <updated>2021-12-08T12:18:26.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 선우재덕, 최명길에 "회장직 내려놓고 자수하겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211208204226807</id>
+        <link href="https://entertain.v.daum.net/v/20211208204226807"/>
+        <updated>2021-12-08T12:18:15.612Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 선우재덕, 사직서 쓰고 자수결심.. 친딸 소이현에 "미안하다" 사과]]></title>
+        <id>https://entertain.v.daum.net/v/20211208202900635</id>
+        <link href="https://entertain.v.daum.net/v/20211208202900635"/>
+        <updated>2021-12-08T12:18:15.615Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두번째남편' 엄현경, 정민준 유골함 확인 "살아있는 거냐" 눈물]]></title>
         <id>https://entertain.v.daum.net/v/20211208194715270</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211208173824225"/>
         <updated>2021-12-08T09:11:46.927Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다큐영화 '한창나이 선녀님', 누적 관객수 1만 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211208173653018</id>
-        <link href="https://entertain.v.daum.net/v/20211208173653018"/>
-        <updated>2021-12-08T09:11:46.928Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민상, 전석호에게 충격적인 비밀 털어놓는다]]></title>
-        <id>https://entertain.v.daum.net/v/20211208173515522</id>
-        <link href="https://entertain.v.daum.net/v/20211208173515522"/>
-        <updated>2021-12-08T09:11:46.930Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
