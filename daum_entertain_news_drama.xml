@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-08T20:12:31.641Z</updated>
+    <updated>2021-12-08T21:10:44.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '공작도시' 수애, 김강우 대통령 만들기 제안 승낙..드러난 야욕]]></title>
+        <id>https://entertain.v.daum.net/v/20211209060049340</id>
+        <link href="https://entertain.v.daum.net/v/20211209060049340"/>
+        <updated>2021-12-08T21:10:36.333Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 수애, "남편 김강우 대통령 만들 것"..백지원 사망?]]></title>
         <id>https://entertain.v.daum.net/v/20211209001404669</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211208193521838"/>
         <updated>2021-12-08T11:10:08.497Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이담 "수애 선배님과 할 수 있는 기회=욕심"]]></title>
-        <id>https://entertain.v.daum.net/v/20211208185004956</id>
-        <link href="https://entertain.v.daum.net/v/20211208185004956"/>
-        <updated>2021-12-08T10:12:21.632Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
