@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-08T15:13:04.997Z</updated>
+    <updated>2021-12-08T16:15:33.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['공작도시' 수애, 욕망 드러냈다..백지원 죽음 '충격']]></title>
+        <title type="html"><![CDATA['공작도시' 수애, "남편 김강우 대통령 만들 것"..백지원 사망?]]></title>
+        <id>https://entertain.v.daum.net/v/20211209001404669</id>
+        <link href="https://entertain.v.daum.net/v/20211209001404669"/>
+        <updated>2021-12-08T16:15:25.467Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '공작도시' 수애, 욕망 드러냈다..백지원 죽음 '충격']]></title>
         <id>https://entertain.v.daum.net/v/20211208235919494</id>
         <link href="https://entertain.v.daum.net/v/20211208235919494"/>
         <updated>2021-12-08T15:12:56.816Z</updated>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['공작 도시' 수애, 고혹적인 첫 등장 "웃기지도 않아"]]></title>
+        <title type="html"><![CDATA['공작도시' 수애, 고혹적인 첫 등장 "웃기지도 않아"]]></title>
         <id>https://entertain.v.daum.net/v/20211208225506211</id>
         <link href="https://entertain.v.daum.net/v/20211208225506211"/>
         <updated>2021-12-08T14:11:16.598Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211208185004956"/>
         <updated>2021-12-08T10:12:21.632Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호X이세영, 시청률 공약 지킨다 "'정희' 측과 스케줄 협의 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211208184333672</id>
-        <link href="https://entertain.v.daum.net/v/20211208184333672"/>
-        <updated>2021-12-08T10:12:21.633Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
