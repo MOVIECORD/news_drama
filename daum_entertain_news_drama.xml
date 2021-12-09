@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-09T11:10:08.957Z</updated>
+    <updated>2021-12-09T12:18:02.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨강 구두' 선우재덕, 자수 구속→소이현 '사과 눈물']]></title>
+        <id>https://entertain.v.daum.net/v/20211209204924080</id>
+        <link href="https://entertain.v.daum.net/v/20211209204924080"/>
+        <updated>2021-12-09T12:17:54.070Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강 구두' 박윤재 "소이현과 사촌관계? 말도 안 돼" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20211209204003972</id>
+        <link href="https://entertain.v.daum.net/v/20211209204003972"/>
+        <updated>2021-12-09T12:17:54.072Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨강구두' 소이현, 복수 성공 후 회한의 눈물.. 선우재덕, 법정최고형 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20211209202830795</id>
+        <link href="https://entertain.v.daum.net/v/20211209202830795"/>
+        <updated>2021-12-09T12:17:54.075Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['학교2021' 김요한·조이현, 우여곡절 가득했던 대회의 결말은?]]></title>
+        <id>https://entertain.v.daum.net/v/20211209202820791</id>
+        <link href="https://entertain.v.daum.net/v/20211209202820791"/>
+        <updated>2021-12-09T12:17:54.077Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 작가 "이진욱→이준, 복수극에 딱..외모+연기력 최적의 캐스팅"]]></title>
+        <id>https://entertain.v.daum.net/v/20211209201530602</id>
+        <link href="https://entertain.v.daum.net/v/20211209201530602"/>
+        <updated>2021-12-09T12:17:54.091Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨강 구두' 선우재덕, 최명길에 "자수할게 사랑해" 눈물]]></title>
         <id>https://entertain.v.daum.net/v/20211209200910475</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209174524335"/>
         <updated>2021-12-09T09:12:08.818Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지리산'서 조난 당한 오정세, '엉클'로 생환할까]]></title>
-        <id>https://entertain.v.daum.net/v/20211209174502309</id>
-        <link href="https://entertain.v.daum.net/v/20211209174502309"/>
-        <updated>2021-12-09T09:12:08.819Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은희 작가, SBS 복귀하나.."신작 긍정 논의 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209174103221</id>
-        <link href="https://entertain.v.daum.net/v/20211209174103221"/>
-        <updated>2021-12-09T09:12:08.821Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 수애, 치욕으로 남은 과거..시어머니 향한 이유 있는 도발]]></title>
-        <id>https://entertain.v.daum.net/v/20211209171752450</id>
-        <link href="https://entertain.v.daum.net/v/20211209171752450"/>
-        <updated>2021-12-09T09:12:08.822Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['번지점프를 하다' 드라마 리메이크 무산 "신념에 따른 작가 의견"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209171037170</id>
-        <link href="https://entertain.v.daum.net/v/20211209171037170"/>
-        <updated>2021-12-09T08:13:50.698Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿고 보는 오정세 온다..드라마 '엉클']]></title>
-        <id>https://entertain.v.daum.net/v/20211209170047700</id>
-        <link href="https://entertain.v.daum.net/v/20211209170047700"/>
-        <updated>2021-12-09T08:13:50.703Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
