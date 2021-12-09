@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-09T02:32:07.622Z</updated>
+    <updated>2021-12-09T03:11:54.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신동엽X김유정, 2년 연속 '2021 SBS 연기대상' MC 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20211209114745699</id>
+        <link href="https://entertain.v.daum.net/v/20211209114745699"/>
+        <updated>2021-12-09T03:11:46.863Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[준호X이세영 '옷 소매 붉은 끝동' 1회 연장.."편성 논의 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211209113658230</id>
+        <link href="https://entertain.v.daum.net/v/20211209113658230"/>
+        <updated>2021-12-09T03:11:46.865Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 이도현표 멜로, 올바른 성장의 예]]></title>
         <id>https://entertain.v.daum.net/v/20211209112710627</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209100816939"/>
         <updated>2021-12-09T01:57:42.161Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수애, 등장과 동시에 압도적 몰입감 선사]]></title>
-        <id>https://entertain.v.daum.net/v/20211209100728903</id>
-        <link href="https://entertain.v.daum.net/v/20211209100728903"/>
-        <updated>2021-12-09T01:57:42.162Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 SOLO' 분당 2.9% 자체 최고..영수·정숙·영자 삼각 텐션 지각변동]]></title>
-        <id>https://entertain.v.daum.net/v/20211209100600814</id>
-        <link href="https://entertain.v.daum.net/v/20211209100600814"/>
-        <updated>2021-12-09T01:57:42.165Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
