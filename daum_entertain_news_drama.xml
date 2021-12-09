@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-09T20:12:33.306Z</updated>
+    <updated>2021-12-09T21:10:36.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, 장기용母 차화연과 결국 만났다]]></title>
+        <id>https://entertain.v.daum.net/v/20211210060122962</id>
+        <link href="https://entertain.v.daum.net/v/20211210060122962"/>
+        <updated>2021-12-09T21:10:27.734Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['엉클' B급 감성 더한 따뜻 가족극, BBC 원작 뛰어넘을까]]></title>
+        <id>https://entertain.v.daum.net/v/20211210055734822</id>
+        <link href="https://entertain.v.daum.net/v/20211210055734822"/>
+        <updated>2021-12-09T21:10:27.734Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 수애, 김미숙에 "빈털터리로 쫓겨날 거" 역공]]></title>
         <id>https://entertain.v.daum.net/v/20211210001613002</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209213047572"/>
         <updated>2021-12-09T13:20:02.922Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강 구두' 선우재덕, 자수 구속→소이현 '사과 눈물']]></title>
-        <id>https://entertain.v.daum.net/v/20211209204924080</id>
-        <link href="https://entertain.v.daum.net/v/20211209204924080"/>
-        <updated>2021-12-09T12:17:54.070Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강 구두' 박윤재 "소이현과 사촌관계? 말도 안 돼" 오열]]></title>
-        <id>https://entertain.v.daum.net/v/20211209204003972</id>
-        <link href="https://entertain.v.daum.net/v/20211209204003972"/>
-        <updated>2021-12-09T12:17:54.072Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
