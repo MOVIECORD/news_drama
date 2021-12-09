@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-09T09:12:17.133Z</updated>
+    <updated>2021-12-09T10:13:02.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["눈만 봐도 눈물이"..소주연X정이서X조인, '셋'이 뭉쳤다]]></title>
+        <id>https://entertain.v.daum.net/v/20211209185005970</id>
+        <link href="https://entertain.v.daum.net/v/20211209185005970"/>
+        <updated>2021-12-09T10:12:52.956Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시원 "고교 때 좋아한 가수 無..오정세 '성덕'됐다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211209185002969</id>
+        <link href="https://entertain.v.daum.net/v/20211209185002969"/>
+        <updated>2021-12-09T10:12:52.961Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['번지점프를 하다' 드라마 제작 무산 "법적 문제 없지만 원작자 신념 존중"]]></title>
         <id>https://entertain.v.daum.net/v/20211209175721751</id>
@@ -69,13 +83,6 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KBS 양승동 사장 "차기 사장, 수신료 현실화 이뤄내길"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209170321808</id>
-        <link href="https://entertain.v.daum.net/v/20211209170321808"/>
-        <updated>2021-12-09T08:13:50.702Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[믿고 보는 오정세 온다..드라마 '엉클']]></title>
         <id>https://entertain.v.daum.net/v/20211209170047700</id>
         <link href="https://entertain.v.daum.net/v/20211209170047700"/>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211209161654988"/>
         <updated>2021-12-09T08:13:50.708Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셋' 조인 "세 친구의 복수, 상처치유 의지로 느껴"]]></title>
-        <id>https://entertain.v.daum.net/v/20211209161512910</id>
-        <link href="https://entertain.v.daum.net/v/20211209161512910"/>
-        <updated>2021-12-09T08:13:50.710Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
