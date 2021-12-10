@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-10T10:12:52.037Z</updated>
+    <updated>2021-12-10T11:10:09.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["엄청난 부담"..'태종 이방원' 주상욱, '용의 눈물' 유동근 넘을까]]></title>
+        <id>https://entertain.v.daum.net/v/20211210193004096</id>
+        <link href="https://entertain.v.daum.net/v/20211210193004096"/>
+        <updated>2021-12-10T11:10:01.404Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['셋' 소주연X정이서X조인, 초점 잃은 눈동자→격렬한 몸싸움 예고 '이유는?']]></title>
         <id>https://entertain.v.daum.net/v/20211210190730797</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210155003419"/>
         <updated>2021-12-10T07:11:30.836Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주제의식·재해석 있다"..'태종 이방원'이 담는 대하사극의 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20211210154747355</id>
-        <link href="https://entertain.v.daum.net/v/20211210154747355"/>
-        <updated>2021-12-10T07:11:30.838Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
