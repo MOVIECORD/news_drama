@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-10T03:11:59.343Z</updated>
+    <updated>2021-12-10T04:14:35.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호 '옷소매' 흥행 성공→1회 연장에 "많은 사랑 진심으로 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20211210131205633</id>
+        <link href="https://entertain.v.daum.net/v/20211210131205633"/>
+        <updated>2021-12-10T04:14:27.455Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[욕망에 불타는 수애, 현대판 '여인천하'에서 살아남을까]]></title>
         <id>https://entertain.v.daum.net/v/20211210115025203</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210102617959"/>
         <updated>2021-12-10T01:53:47.195Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X김범, 금손과 똥손이 만났다..메인포스터 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20211210102200774</id>
-        <link href="https://entertain.v.daum.net/v/20211210102200774"/>
-        <updated>2021-12-10T01:53:47.195Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
