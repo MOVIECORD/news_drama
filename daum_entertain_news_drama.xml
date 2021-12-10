@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-10T09:12:06.329Z</updated>
+    <updated>2021-12-10T10:12:52.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['셋' 소주연X정이서X조인, 초점 잃은 눈동자→격렬한 몸싸움 예고 '이유는?']]></title>
+        <id>https://entertain.v.daum.net/v/20211210190730797</id>
+        <link href="https://entertain.v.daum.net/v/20211210190730797"/>
+        <updated>2021-12-10T10:12:42.489Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['해피니스' 올해의 드라마 2위, 뒷심+입소문 美쳤다]]></title>
+        <id>https://entertain.v.daum.net/v/20211210183900299</id>
+        <link href="https://entertain.v.daum.net/v/20211210183900299"/>
+        <updated>2021-12-10T10:12:42.489Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["뺨 때리고 침 뱉어" 신기루, 학폭 일진 의혹..소속사 "확인 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20211210183214146</id>
+        <link href="https://entertain.v.daum.net/v/20211210183214146"/>
+        <updated>2021-12-10T10:12:42.489Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원', 5년 만에 돌아온 대하사극 "퀄리티 자신"]]></title>
         <id>https://entertain.v.daum.net/v/20211210175016138</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210154747355"/>
         <updated>2021-12-10T07:11:30.838Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주연X정이서X조인, 드라마스페셜 '셋' 12년만 복수 위해 뭉치다]]></title>
-        <id>https://entertain.v.daum.net/v/20211210154301205</id>
-        <link href="https://entertain.v.daum.net/v/20211210154301205"/>
-        <updated>2021-12-10T07:11:30.839Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["새로운 이방원 탄생"..'태종 이방원' 주상욱→김영철, 5년만에 돌아온 KBS 대하사극]]></title>
-        <id>https://entertain.v.daum.net/v/20211210154222194</id>
-        <link href="https://entertain.v.daum.net/v/20211210154222194"/>
-        <updated>2021-12-10T07:11:30.840Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, '무채색' 백승유를 다채롭게]]></title>
-        <id>https://entertain.v.daum.net/v/20211210154203184</id>
-        <link href="https://entertain.v.daum.net/v/20211210154203184"/>
-        <updated>2021-12-10T07:11:30.841Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
