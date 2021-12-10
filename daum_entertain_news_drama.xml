@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-10T07:11:39.313Z</updated>
+    <updated>2021-12-10T08:14:09.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해피니스', 좀비물인데도 '펜트하우스'보다 현실적인 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20211210170127761</id>
+        <link href="https://entertain.v.daum.net/v/20211210170127761"/>
+        <updated>2021-12-10T08:14:00.914Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진, 태연, 이소라 등 초호화 라인업∙∙∙'지리산' OST, 오늘 예약 판매 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20211210164745271</id>
+        <link href="https://entertain.v.daum.net/v/20211210164745271"/>
+        <updated>2021-12-10T08:14:00.917Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5년의 기다림..대하드라마 부활 알릴 '태종 이방원']]></title>
+        <id>https://entertain.v.daum.net/v/20211210162636519</id>
+        <link href="https://entertain.v.daum.net/v/20211210162636519"/>
+        <updated>2021-12-10T08:14:00.919Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불륜이 대세? 송윤아→수애 뛰어넘는 파격의 끝]]></title>
         <id>https://entertain.v.daum.net/v/20211210160102730</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211210153342965"/>
         <updated>2021-12-10T07:11:30.845Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김의철 신임 사장 "'태종 이방원' 사극 명가 KBS 신뢰 회복 하겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20211210153333961</id>
-        <link href="https://entertain.v.daum.net/v/20211210153333961"/>
-        <updated>2021-12-10T07:11:30.847Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱 "부담감 엄청나지만 행복해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211210153111887</id>
-        <link href="https://entertain.v.daum.net/v/20211210153111887"/>
-        <updated>2021-12-10T07:11:30.849Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱 "'용의 눈물' 유동근 뛰어넘을 순 없지만..새 이방원 탄생할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20211210153044857</id>
-        <link href="https://entertain.v.daum.net/v/20211210153044857"/>
-        <updated>2021-12-10T07:11:30.850Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
