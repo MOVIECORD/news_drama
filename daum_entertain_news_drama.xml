@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T15:11:11.245Z</updated>
+    <updated>2021-12-29T16:15:32.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석, 이변 없는 'MBC 대상'..총 18번째 대상 트로피]]></title>
+        <id>https://entertain.v.daum.net/v/20211230010615945</id>
+        <link href="https://entertain.v.daum.net/v/20211230010615945"/>
+        <updated>2021-12-29T16:15:24.926Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현X임수정, 진경 비리 증거 모았다→신수연 의식 회복]]></title>
+        <id>https://entertain.v.daum.net/v/20211230005011867</id>
+        <link href="https://entertain.v.daum.net/v/20211230005011867"/>
+        <updated>2021-12-29T16:15:24.926Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀면 뭐하니?' 올해의 프로그램상..김태호 PD, 눈물 소감]]></title>
+        <id>https://entertain.v.daum.net/v/20211230003423812</id>
+        <link href="https://entertain.v.daum.net/v/20211230003423812"/>
+        <updated>2021-12-29T16:15:24.933Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김구라, 늦둥이 언급 "즐거운 일이고 행복한 일"]]></title>
         <id>https://entertain.v.daum.net/v/20211229234637326</id>
@@ -55,7 +76,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 미술관 사고 발뺌하는 진경에 "피해자가 무사하길 기도해"]]></title>
+        <title type="html"><![CDATA['멜랑꼴리아' 이도현, 미술실 사고 발뺌하는 진경에 "피해자가 무사하길 기도해"]]></title>
         <id>https://entertain.v.daum.net/v/20211229230300907</id>
         <link href="https://entertain.v.daum.net/v/20211229230300907"/>
         <updated>2021-12-29T14:11:29.293Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229222451717"/>
         <updated>2021-12-29T14:11:29.307Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김성주 아들' 김민국, 깜짝 등장 "父 집에선 늘 대상"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229215659428</id>
-        <link href="https://entertain.v.daum.net/v/20211229215659428"/>
-        <updated>2021-12-29T13:19:22.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김구라 "병마 이긴 유재석, 대상 받아야..위협 후보 無"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229213756171</id>
-        <link href="https://entertain.v.daum.net/v/20211229213756171"/>
-        <updated>2021-12-29T13:19:22.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미주·박재정, 남녀신인상 "유재석 감사해"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229212422991</id>
-        <link href="https://entertain.v.daum.net/v/20211229212422991"/>
-        <updated>2021-12-29T13:19:22.001Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
