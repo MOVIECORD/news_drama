@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T03:10:52.827Z</updated>
+    <updated>2021-12-29T04:13:40.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안은진·강예원·박수영, 죽음도 살인도 함께하는 특별한 워맨스]]></title>
+        <id>https://entertain.v.daum.net/v/20211229131300824</id>
+        <link href="https://entertain.v.daum.net/v/20211229131300824"/>
+        <updated>2021-12-29T04:13:31.954Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 환생 도감 공개, 600년 동안 무엇이 달라졌나]]></title>
+        <id>https://entertain.v.daum.net/v/20211229124637333</id>
+        <link href="https://entertain.v.daum.net/v/20211229124637333"/>
+        <updated>2021-12-29T04:13:31.955Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['설강화' 시청자 반감만 눈덩이처럼,특별 편성에도 깊어지는 논란의 늪]]></title>
         <id>https://entertain.v.daum.net/v/20211229120314467</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229112018560"/>
         <updated>2021-12-29T03:10:44.809Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 김은희 작가 만날까..소속사 "'악귀', 제안 받은 작품 중 하나"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229111536320</id>
-        <link href="https://entertain.v.daum.net/v/20211229111536320"/>
-        <updated>2021-12-29T03:10:44.810Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어사와 조이' 옥택연, 첫 사극 마침표.."가뭄 속에 단비 같은 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229110701886</id>
-        <link href="https://entertain.v.daum.net/v/20211229110701886"/>
-        <updated>2021-12-29T03:10:44.811Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
