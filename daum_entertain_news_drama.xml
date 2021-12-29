@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T11:09:26.572Z</updated>
+    <updated>2021-12-29T12:17:02.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["셋이 사랑하자".. '사랑의 꽈배기' 심혜진, 황신혜·윤다훈 뻔뻔 작태에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20211229203230967</id>
+        <link href="https://entertain.v.daum.net/v/20211229203230967"/>
+        <updated>2021-12-29T12:16:53.340Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 윤다훈, 심혜진 불륜 언급에 '안절부절']]></title>
+        <id>https://entertain.v.daum.net/v/20211229201643711</id>
+        <link href="https://entertain.v.daum.net/v/20211229201643711"/>
+        <updated>2021-12-29T12:16:53.340Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 심혜진, 황신혜에 "윤다훈, 불쌍해서 놀아주는 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20211229201123615</id>
+        <link href="https://entertain.v.daum.net/v/20211229201123615"/>
+        <updated>2021-12-29T12:16:53.343Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두번째남편' 엄현경, 옛 시어머니 최지연에 복수 "피 눈물 흘려봐라"]]></title>
         <id>https://entertain.v.daum.net/v/20211229200404458</id>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손보승, 한소희 성희롱男→23세 혼전임신 결혼..'이경실 아들' 딱지 뗄까]]></title>
+        <title type="html"><![CDATA[손보승, 한소희 성희롱男 '役'→23세 혼전임신 결혼..'이경실 아들' 딱지 뗄까]]></title>
         <id>https://entertain.v.daum.net/v/20211229180101393</id>
         <link href="https://entertain.v.daum.net/v/20211229180101393"/>
         <updated>2021-12-29T09:11:04.452Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229173314557"/>
         <updated>2021-12-29T09:11:04.459Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[논란의 '설강화' 후폭풍, 유인나 '역사스페셜' 출연 반대 요구 이어져]]></title>
-        <id>https://entertain.v.daum.net/v/20211229173223523</id>
-        <link href="https://entertain.v.daum.net/v/20211229173223523"/>
-        <updated>2021-12-29T09:11:04.459Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 상영금지 가처분 신청 기각]]></title>
-        <id>https://entertain.v.daum.net/v/20211229172601335</id>
-        <link href="https://entertain.v.daum.net/v/20211229172601335"/>
-        <updated>2021-12-29T09:11:04.463Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 상영금지 가처분 신청 기각..JTBC 예정대로 방영]]></title>
-        <id>https://entertain.v.daum.net/v/20211229170711710</id>
-        <link href="https://entertain.v.daum.net/v/20211229170711710"/>
-        <updated>2021-12-29T08:13:00.190Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
