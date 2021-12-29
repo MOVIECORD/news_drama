@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T16:15:32.829Z</updated>
+    <updated>2021-12-29T17:19:19.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[유재석, 이변 없는 'MBC 대상'..총 18번째 대상 트로피]]></title>
+        <title type="html"><![CDATA[유재석, 수상 소감도 '대상' "김태호 PD 응원..故 김철민 추모" [2021 MBC 연예대..]]></title>
+        <id>https://entertain.v.daum.net/v/20211230011938032</id>
+        <link href="https://entertain.v.daum.net/v/20211230011938032"/>
+        <updated>2021-12-29T17:19:11.585Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재석, 이변 없는 'MBC 대상'..통산 18관왕]]></title>
         <id>https://entertain.v.daum.net/v/20211230010615945</id>
         <link href="https://entertain.v.daum.net/v/20211230010615945"/>
         <updated>2021-12-29T16:15:24.926Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229223301768"/>
         <updated>2021-12-29T14:11:29.306Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 1회→6회 명대사 모음]]></title>
-        <id>https://entertain.v.daum.net/v/20211229222451717</id>
-        <link href="https://entertain.v.daum.net/v/20211229222451717"/>
-        <updated>2021-12-29T14:11:29.307Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
