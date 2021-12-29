@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-29T21:09:53.635Z</updated>
+    <updated>2021-12-29T22:10:36.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너의밤' 정인선, 다정한 이준영X강지영에 묘한 질투]]></title>
+        <id>https://entertain.v.daum.net/v/20211230070841371</id>
+        <link href="https://entertain.v.daum.net/v/20211230070841371"/>
+        <updated>2021-12-29T22:10:28.256Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너의 밤' 정인선, 이준영X강지영에 질투..삼각관계 시작?]]></title>
+        <id>https://entertain.v.daum.net/v/20211230070830368</id>
+        <link href="https://entertain.v.daum.net/v/20211230070830368"/>
+        <updated>2021-12-29T22:10:28.261Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어사와 조이' 민진웅 "암행즈도 꽃길만 걷고 있길" 종영소감]]></title>
         <id>https://entertain.v.daum.net/v/20211230060251663</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229231554035"/>
         <updated>2021-12-29T15:11:02.922Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박 "홀로서기 후 첫 수상..YG, 트로피 보내줬으면"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229231500023</id>
-        <link href="https://entertain.v.daum.net/v/20211229231500023"/>
-        <updated>2021-12-29T15:11:02.923Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래, '올해의 예능인상' 받고 사과 "무겁게 느껴져"]]></title>
-        <id>https://entertain.v.daum.net/v/20211229231014970</id>
-        <link href="https://entertain.v.daum.net/v/20211229231014970"/>
-        <updated>2021-12-29T14:11:29.293Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
