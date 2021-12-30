@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-30T02:33:39.290Z</updated>
+    <updated>2021-12-30T03:10:36.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문희경 '며느라기2' 합류 "시청자와 오랜시간 함께 하는 드라마 됐으면"]]></title>
+        <id>https://entertain.v.daum.net/v/20211230120312747</id>
+        <link href="https://entertain.v.daum.net/v/20211230120312747"/>
+        <updated>2021-12-30T03:10:27.545Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그림자 미녀' 심달기 "'충분히 사랑받을 수 있는 존재' 댓글 기억 남아" 종영 소감]]></title>
+        <id>https://entertain.v.daum.net/v/20211230114249904</id>
+        <link href="https://entertain.v.daum.net/v/20211230114249904"/>
+        <updated>2021-12-30T03:10:27.547Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박하선 "요즘 억울한 기분 든다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211230113324529</id>
+        <link href="https://entertain.v.daum.net/v/20211230113324529"/>
+        <updated>2021-12-30T03:10:27.547Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜랑꼴리아' 이도현, 캐릭터에 더해진 진정성..진심 통했다]]></title>
         <id>https://entertain.v.daum.net/v/20211230112856343</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211230102136526"/>
         <updated>2021-12-30T01:57:58.480Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수애, 안방극장 홀린 카리스마]]></title>
-        <id>https://entertain.v.daum.net/v/20211230102048475</id>
-        <link href="https://entertain.v.daum.net/v/20211230102048475"/>
-        <updated>2021-12-30T01:57:58.484Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 이진욱·권나라·이준, 유일무이 아닌 둘..반전의 존재]]></title>
-        <id>https://entertain.v.daum.net/v/20211230101751360</id>
-        <link href="https://entertain.v.daum.net/v/20211230101751360"/>
-        <updated>2021-12-30T01:57:58.504Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금, 헤어지는 중입니다' 눈물 맺힌 최희서X홀로 남은 김주헌 애틋한 이별?]]></title>
-        <id>https://entertain.v.daum.net/v/20211230101535270</id>
-        <link href="https://entertain.v.daum.net/v/20211230101535270"/>
-        <updated>2021-12-30T01:57:58.511Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
