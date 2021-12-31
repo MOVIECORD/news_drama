@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2021-12-31T20:11:31.804Z</updated>
+    <updated>2021-12-31T21:09:27.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 윤나무, 박효주 앞 무릎 꿇고 오열.."폭풍 감정 열연"]]></title>
+        <id>https://entertain.v.daum.net/v/20220101060159473</id>
+        <link href="https://entertain.v.daum.net/v/20220101060159473"/>
+        <updated>2021-12-31T21:09:18.952Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["보조출연자서 대상"..김소연, 28년 만 정상 올랐다]]></title>
+        <id>https://entertain.v.daum.net/v/20220101060107423</id>
+        <link href="https://entertain.v.daum.net/v/20220101060107423"/>
+        <updated>2021-12-31T21:09:18.953Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고요의 바다' 배두나 "잘 나온 결과물, 만족스럽다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220101060003328</id>
+        <link href="https://entertain.v.daum.net/v/20220101060003328"/>
+        <updated>2021-12-31T21:09:18.953Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["자기야♥" 이이경, 하품만 나오던 시상식에 차태현도 깜짝 놀란 MZ세대 수상 소감]]></title>
+        <id>https://entertain.v.daum.net/v/20220101055454296</id>
+        <link href="https://entertain.v.daum.net/v/20220101055454296"/>
+        <updated>2021-12-31T21:09:18.955Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['女원톱' 김소현·박은빈, 누가 뭐래도 KBS 살린 일등공신]]></title>
+        <id>https://entertain.v.daum.net/v/20220101055226293</id>
+        <link href="https://entertain.v.daum.net/v/20220101055226293"/>
+        <updated>2021-12-31T21:09:18.955Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신이 내린 대상 수상자" 김소연, 눈물→폭소..'신동엽 때문에 못 살아']]></title>
         <id>https://entertain.v.daum.net/v/20220101014608090</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220101011533659"/>
         <updated>2021-12-31T17:18:43.134Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와아가씨' 지현우, 연기대상 수상.."작품상이라 생각"]]></title>
-        <id>https://entertain.v.daum.net/v/20220101011052600</id>
-        <link href="https://entertain.v.daum.net/v/20220101011052600"/>
-        <updated>2021-12-31T16:15:24.127Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정·이제훈, 최우수연기상..눈물 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220101010750566</id>
-        <link href="https://entertain.v.daum.net/v/20220101010750566"/>
-        <updated>2021-12-31T16:15:24.128Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현·차태현·김소현·박은빈, 男女 최우수상 수상]]></title>
-        <id>https://entertain.v.daum.net/v/20220101010721564</id>
-        <link href="https://entertain.v.daum.net/v/20220101010721564"/>
-        <updated>2021-12-31T16:15:24.128Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최우수상 김유정 "무섭고 두려운 마음 컸는데" 눈물]]></title>
-        <id>https://entertain.v.daum.net/v/20220101010651558</id>
-        <link href="https://entertain.v.daum.net/v/20220101010651558"/>
-        <updated>2021-12-31T16:15:24.129Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지현우 대상 "'신사와 아가씨' 대표로 받은 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220101010009436</id>
-        <link href="https://entertain.v.daum.net/v/20220101010009436"/>
-        <updated>2021-12-31T16:15:24.129Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
