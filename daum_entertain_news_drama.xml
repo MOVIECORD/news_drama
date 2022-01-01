@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-01T03:13:07.465Z</updated>
+    <updated>2022-01-01T04:14:28.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옷소매' 이준호♥이세영, 비로소 정조와 의빈 됐다 '부부 투샷']]></title>
+        <id>https://entertain.v.daum.net/v/20220101130629276</id>
+        <link href="https://entertain.v.daum.net/v/20220101130629276"/>
+        <updated>2022-01-01T04:14:19.776Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['옷소매' 이준호, 곤룡포 입고 '우리집' 출 수 있을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220101123352931</id>
+        <link href="https://entertain.v.daum.net/v/20220101123352931"/>
+        <updated>2022-01-01T04:14:19.779Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우다비의 '멜랑꼴리아', 그 끝에서 발견한 기쁨]]></title>
         <id>https://entertain.v.daum.net/v/20220101120114646</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220101101257913"/>
         <updated>2022-01-01T02:02:02.597Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경, 데뷔 10년만 첫 수상→전무후무 母전화연결 대리 소감 '폭소']]></title>
-        <id>https://entertain.v.daum.net/v/20220101100653779</id>
-        <link href="https://entertain.v.daum.net/v/20220101100653779"/>
-        <updated>2022-01-01T02:02:02.598Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭x김세정 맞선 본다 '설렘 포텐 장착']]></title>
-        <id>https://entertain.v.daum.net/v/20220101093820285</id>
-        <link href="https://entertain.v.daum.net/v/20220101093820285"/>
-        <updated>2022-01-01T02:02:02.598Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
