@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-01T15:10:27.242Z</updated>
+    <updated>2022-01-01T16:15:14.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, "10년 전 사랑 때문에 놓아버린 꿈"..소노와 꿈 사이에서 갈등]]></title>
+        <id>https://entertain.v.daum.net/v/20220102005100141</id>
+        <link href="https://entertain.v.daum.net/v/20220102005100141"/>
+        <updated>2022-01-01T16:15:06.459Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반전 없었다..'옷소매' 이준호, 세상 떠난 이세영 껴안고 "날 두고가지 마라" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220102004310119</id>
+        <link href="https://entertain.v.daum.net/v/20220102004310119"/>
+        <updated>2022-01-01T16:15:06.459Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배앤크' 이화룡, 한지은 칼로 위협→납치·살인 미수 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220102001007035</id>
+        <link href="https://entertain.v.daum.net/v/20220102001007035"/>
+        <updated>2022-01-01T16:15:06.460Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매 붉은 끝동' 이준호♥이세영 드디어 승은의 밤..한방에 회임]]></title>
         <id>https://entertain.v.daum.net/v/20220101235033930</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220101223902634"/>
         <updated>2022-01-01T14:09:25.313Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 이성계, 낙마 후 위독..간신히 눈 떴다]]></title>
-        <id>https://entertain.v.daum.net/v/20220101223808630</id>
-        <link href="https://entertain.v.daum.net/v/20220101223808630"/>
-        <updated>2022-01-01T14:09:25.313Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준, 이진욱에 권나라 행방 물으며 "우리는 적이 아니야" 집착]]></title>
-        <id>https://entertain.v.daum.net/v/20220101222122557</id>
-        <link href="https://entertain.v.daum.net/v/20220101222122557"/>
-        <updated>2022-01-01T14:09:25.317Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이세영, 이준호와 입맞춤..승은 입고 후궁됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20220101221818541</id>
-        <link href="https://entertain.v.daum.net/v/20220101221818541"/>
-        <updated>2022-01-01T14:09:25.317Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
