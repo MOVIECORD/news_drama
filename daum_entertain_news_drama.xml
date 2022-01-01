@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-01T08:13:17.415Z</updated>
+    <updated>2022-01-01T09:10:34.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옷소매' 이준호♥이세영, 부부 됐다..무릎베개 설렘 폭발]]></title>
+        <id>https://entertain.v.daum.net/v/20220101175524880</id>
+        <link href="https://entertain.v.daum.net/v/20220101175524880"/>
+        <updated>2022-01-01T09:10:25.247Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그 해 우리는' 최우식♥김다미 입맞춤..후반부 관전 포인트 셋]]></title>
+        <id>https://entertain.v.daum.net/v/20220101173856761</id>
+        <link href="https://entertain.v.daum.net/v/20220101173856761"/>
+        <updated>2022-01-01T09:10:25.249Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민 연하남→홀아비' 지현우, 본인도 어리둥절한 대상 수상]]></title>
         <id>https://entertain.v.daum.net/v/20220101170102417</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220101143333911"/>
         <updated>2022-01-01T06:12:29.019Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화빈 윤씨' 이서 "역사적 실존 인물, 자료 조사해 연기에 참고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220101143254901</id>
-        <link href="https://entertain.v.daum.net/v/20220101143254901"/>
-        <updated>2022-01-01T06:12:29.019Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이준호♥이세영, 부부 됐다..해피엔딩 맞을까]]></title>
-        <id>https://entertain.v.daum.net/v/20220101143003873</id>
-        <link href="https://entertain.v.daum.net/v/20220101143003873"/>
-        <updated>2022-01-01T06:12:29.019Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
