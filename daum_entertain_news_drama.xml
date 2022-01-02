@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-02T10:11:06.822Z</updated>
+    <updated>2022-01-02T11:09:02.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엉클' 장희령, 등장마다 범상치 않은 '독보적 존재감']]></title>
+        <id>https://entertain.v.daum.net/v/20220102195645758</id>
+        <link href="https://entertain.v.daum.net/v/20220102195645758"/>
+        <updated>2022-01-02T11:08:55.043Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' 이준호, 곤룡포 '우리집' 공약 초읽기..속적삼 노엘은 '글쎄']]></title>
         <id>https://entertain.v.daum.net/v/20220102180901813</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220102150023099</id>
         <link href="https://entertain.v.daum.net/v/20220102150023099"/>
         <updated>2022-01-02T06:12:25.868Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하종우, "보내주시는 응원들 모두 읽고 있어. 정말 감사하다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220102150017093</id>
-        <link href="https://entertain.v.daum.net/v/20220102150017093"/>
-        <updated>2022-01-02T06:12:25.869Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
