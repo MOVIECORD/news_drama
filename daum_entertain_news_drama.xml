@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-03T01:59:52.436Z</updated>
+    <updated>2022-01-03T02:38:19.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 한번의 K좀비 '지금 우리 학교는' 뭐가 다를까]]></title>
+        <id>https://entertain.v.daum.net/v/20220103111118911</id>
+        <link href="https://entertain.v.daum.net/v/20220103111118911"/>
+        <updated>2022-01-03T02:38:09.694Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' 이준호, 인생캐릭터 경신한 '사극킹' 대세 우뚝]]></title>
         <id>https://entertain.v.daum.net/v/20220103104134232</id>
@@ -13,11 +20,25 @@
         <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['태종 이방원' 주상욱, 가문 위해 최종환 제거..시청률 10.2%로 자체 최고]]></title>
+        <id>https://entertain.v.daum.net/v/20220103103720983</id>
+        <link href="https://entertain.v.daum.net/v/20220103103720983"/>
+        <updated>2022-01-03T02:38:09.695Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['태종 이방원' 정몽주役 최종환 "짧게 등장하지만 행복했다" 소감]]></title>
         <id>https://entertain.v.daum.net/v/20220103103444837</id>
         <link href="https://entertain.v.daum.net/v/20220103103444837"/>
         <updated>2022-01-03T01:59:44.792Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 최종환 "정몽주 마음껏 표현할 수 있어 행복한 시간"]]></title>
+        <id>https://entertain.v.daum.net/v/20220103103417821</id>
+        <link href="https://entertain.v.daum.net/v/20220103103417821"/>
+        <updated>2022-01-03T02:38:09.695Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['쇼윈도' 송윤아, 이성재X전소민 불륜 목격한 딸과 대화]]></title>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103093510728"/>
         <updated>2022-01-03T01:59:44.807Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈2' 윤남기♥이다은, 가정사 고백→서로의 마음 확인]]></title>
-        <id>https://entertain.v.daum.net/v/20220103092932413</id>
-        <link href="https://entertain.v.daum.net/v/20220103092932413"/>
-        <updated>2022-01-03T00:36:02.416Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 이민지 "궁녀즈에 가장 늦게 캐스팅, '확신의 주모상' 웃겨"]]></title>
-        <id>https://entertain.v.daum.net/v/20220103092741351</id>
-        <link href="https://entertain.v.daum.net/v/20220103092741351"/>
-        <updated>2022-01-03T00:36:02.426Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지훈X김범, 육체 공유 의료행위 어떨까]]></title>
-        <id>https://entertain.v.daum.net/v/20220103092408167</id>
-        <link href="https://entertain.v.daum.net/v/20220103092408167"/>
-        <updated>2022-01-03T00:36:02.426Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
