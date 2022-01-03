@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-03T08:13:31.978Z</updated>
+    <updated>2022-01-03T09:11:40.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['며느라기2..ing' 권율VS박하선, 동상이몽 4문 4답.. 첫 공개 전부터 갑론을박]]></title>
+        <id>https://entertain.v.daum.net/v/20220103180500372</id>
+        <link href="https://entertain.v.daum.net/v/20220103180500372"/>
+        <updated>2022-01-03T09:11:31.645Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤도건, 웹드 '주미다했다' 남주 캐스팅]]></title>
+        <id>https://entertain.v.daum.net/v/20220103174842831</id>
+        <link href="https://entertain.v.daum.net/v/20220103174842831"/>
+        <updated>2022-01-03T09:11:31.645Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엉클' 박선영, 폭주+몰락하는 혜령 역 완벽소화 '몰입도↑']]></title>
         <id>https://entertain.v.daum.net/v/20220103170300259</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103153908533"/>
         <updated>2022-01-03T07:10:59.213Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 김범 "'하이킥' 때보다 더 시트콤스러운 연기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220103153540361</id>
-        <link href="https://entertain.v.daum.net/v/20220103153540361"/>
-        <updated>2022-01-03T07:10:59.215Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X김범, 삶과 죽음의 경계서 펼쳐지는 마법]]></title>
-        <id>https://entertain.v.daum.net/v/20220103152410762</id>
-        <link href="https://entertain.v.daum.net/v/20220103152410762"/>
-        <updated>2022-01-03T07:10:59.215Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
