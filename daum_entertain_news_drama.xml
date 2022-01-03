@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-03T10:12:09.714Z</updated>
+    <updated>2022-01-03T11:09:23.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키이스트, 박성혜·남소영 공동대표 체제.."SM 비전 따른 결정"]]></title>
+        <id>https://entertain.v.daum.net/v/20220103200751599</id>
+        <link href="https://entertain.v.daum.net/v/20220103200751599"/>
+        <updated>2022-01-03T11:09:15.930Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 지수원, 엄현경에 "우리집으로 가자" 사죄]]></title>
+        <id>https://entertain.v.daum.net/v/20220103193606057</id>
+        <link href="https://entertain.v.daum.net/v/20220103193606057"/>
+        <updated>2022-01-03T11:09:15.930Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 정지훈, 예능 신드롬 드라마로 이어질까]]></title>
         <id>https://entertain.v.daum.net/v/20220103182830952</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103160410482"/>
         <updated>2022-01-03T07:10:59.201Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['예비 아빠' 손보승, 웹드 '주미 다 했다' 출연 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220103155938282</id>
-        <link href="https://entertain.v.daum.net/v/20220103155938282"/>
-        <updated>2022-01-03T07:10:59.211Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지와 메디컬의 만남 '고스트 닥터'..정지훈-김범 신체 공유]]></title>
-        <id>https://entertain.v.daum.net/v/20220103155934280</id>
-        <link href="https://entertain.v.daum.net/v/20220103155934280"/>
-        <updated>2022-01-03T07:10:59.211Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
