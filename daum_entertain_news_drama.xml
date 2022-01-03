@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-03T09:11:40.313Z</updated>
+    <updated>2022-01-03T10:12:09.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트 닥터' 정지훈, 예능 신드롬 드라마로 이어질까]]></title>
+        <id>https://entertain.v.daum.net/v/20220103182830952</id>
+        <link href="https://entertain.v.daum.net/v/20220103182830952"/>
+        <updated>2022-01-03T10:12:01.806Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["세상이 아직 공정하구나"..김소연 대상 수상에 PD가 남긴 글]]></title>
+        <id>https://entertain.v.daum.net/v/20220103182511867</id>
+        <link href="https://entertain.v.daum.net/v/20220103182511867"/>
+        <updated>2022-01-03T10:12:01.806Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["♥김태희에 혼쭐날 뻔"..정지훈의 과몰입]]></title>
+        <id>https://entertain.v.daum.net/v/20220103181003520</id>
+        <link href="https://entertain.v.daum.net/v/20220103181003520"/>
+        <updated>2022-01-03T10:12:01.806Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['며느라기2..ing' 권율VS박하선, 동상이몽 4문 4답.. 첫 공개 전부터 갑론을박]]></title>
         <id>https://entertain.v.daum.net/v/20220103180500372</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103155934280"/>
         <updated>2022-01-03T07:10:59.211Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이경실 아들' 손보승, 예비 아빠→웹드 '주미 다 했다' 캐스팅 겹경사]]></title>
-        <id>https://entertain.v.daum.net/v/20220103154411750</id>
-        <link href="https://entertain.v.daum.net/v/20220103154411750"/>
-        <updated>2022-01-03T07:10:59.213Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는' 이재규 감독 "학교에서 벌어진 좀비 이야기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220103154039608</id>
-        <link href="https://entertain.v.daum.net/v/20220103154039608"/>
-        <updated>2022-01-03T07:10:59.213Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고요의 바다' 배두나 "먼저 경험하는걸 좋아해.. 한국 첫 SF 출연 결정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220103153908533</id>
-        <link href="https://entertain.v.daum.net/v/20220103153908533"/>
-        <updated>2022-01-03T07:10:59.213Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
