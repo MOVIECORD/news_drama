@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-03T02:38:19.087Z</updated>
+    <updated>2022-01-03T03:12:00.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천우희 '사라진 학교' 내레이션 참여.."아이들 인터뷰, 눈물"]]></title>
+        <id>https://entertain.v.daum.net/v/20220103120135254</id>
+        <link href="https://entertain.v.daum.net/v/20220103120135254"/>
+        <updated>2022-01-03T03:11:52.311Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원빈 선구안 통했나..출연 고사한 '불가살'의 내리막길]]></title>
+        <id>https://entertain.v.daum.net/v/20220103115902113</id>
+        <link href="https://entertain.v.daum.net/v/20220103115902113"/>
+        <updated>2022-01-03T03:11:52.311Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너무 어렵다고? 유입 장벽 '불가살' 시청률 반등 가능할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220103112935815</id>
+        <link href="https://entertain.v.daum.net/v/20220103112935815"/>
+        <updated>2022-01-03T03:11:52.311Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 한번의 K좀비 '지금 우리 학교는' 뭐가 다를까]]></title>
         <id>https://entertain.v.daum.net/v/20220103111118911</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220103095459724"/>
         <updated>2022-01-03T01:59:44.806Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식X김다미, 키스 후 달라진 분위기]]></title>
-        <id>https://entertain.v.daum.net/v/20220103095303643</id>
-        <link href="https://entertain.v.daum.net/v/20220103095303643"/>
-        <updated>2022-01-03T01:59:44.806Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엉클' 전혜진, 박선영 딸 증언에 위기 탈출..순간 7.4% 자체 경신]]></title>
-        <id>https://entertain.v.daum.net/v/20220103093620807</id>
-        <link href="https://entertain.v.daum.net/v/20220103093620807"/>
-        <updated>2022-01-03T01:59:44.806Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 이승우, 무공해 매력..김성철과 티키타카 케미 발산]]></title>
-        <id>https://entertain.v.daum.net/v/20220103093510728</id>
-        <link href="https://entertain.v.daum.net/v/20220103093510728"/>
-        <updated>2022-01-03T01:59:44.807Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
