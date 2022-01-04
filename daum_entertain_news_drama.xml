@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-04T12:16:53.796Z</updated>
+    <updated>2022-01-04T13:19:55.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 유승호, '변우석=벗'이라는 이혜리에 버럭 "남녀유별"]]></title>
+        <id>https://entertain.v.daum.net/v/20220104221044631</id>
+        <link href="https://entertain.v.daum.net/v/20220104221044631"/>
+        <updated>2022-01-04T13:19:46.132Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 유승호, 변우석과 대결서 승리.."형님에 대한 예를 갖추시지요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220104214803254</id>
+        <link href="https://entertain.v.daum.net/v/20220104214803254"/>
+        <updated>2022-01-04T13:19:46.132Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 황신혜, 폭탄발언 "김진엽 친부→윤다훈"]]></title>
         <id>https://entertain.v.daum.net/v/20220104203621354</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220104162034323"/>
         <updated>2022-01-04T08:13:19.241Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃 피면 달 생각하고' 이혜리, 머리에 겨눠진 총구..괴한 습격에 위기]]></title>
-        <id>https://entertain.v.daum.net/v/20220104160404854</id>
-        <link href="https://entertain.v.daum.net/v/20220104160404854"/>
-        <updated>2022-01-04T08:13:19.241Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완→고아성, 제작발표회서 밝힌 각오]]></title>
-        <id>https://entertain.v.daum.net/v/20220104155157479</id>
-        <link href="https://entertain.v.daum.net/v/20220104155157479"/>
-        <updated>2022-01-04T07:10:42.343Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
