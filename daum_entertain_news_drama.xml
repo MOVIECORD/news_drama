@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-04T11:09:20.394Z</updated>
+    <updated>2022-01-04T12:16:53.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 황신혜, 폭탄발언 "김진엽 친부→윤다훈"]]></title>
+        <id>https://entertain.v.daum.net/v/20220104203621354</id>
+        <link href="https://entertain.v.daum.net/v/20220104203621354"/>
+        <updated>2022-01-04T12:16:46.128Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 황신혜 "아들 김진엽, 윤다훈 아들이다" 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220104203032261</id>
+        <link href="https://entertain.v.daum.net/v/20220104203032261"/>
+        <updated>2022-01-04T12:16:46.151Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 황신혜 "김진엽 친부는 윤다훈" 폭탄발언.. 함은정 어쩌나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220104202900241</id>
+        <link href="https://entertain.v.daum.net/v/20220104202900241"/>
+        <updated>2022-01-04T12:16:46.152Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 윤다훈에 "난 패륜, 아저씨는 불륜"]]></title>
         <id>https://entertain.v.daum.net/v/20220104200549882</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220104155157479"/>
         <updated>2022-01-04T07:10:42.343Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃피달' 이혜리, 머리에 겨눠진 총구..험난한 밀주꾼 체험]]></title>
-        <id>https://entertain.v.daum.net/v/20220104151459207</id>
-        <link href="https://entertain.v.daum.net/v/20220104151459207"/>
-        <updated>2022-01-04T07:10:42.343Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 첫방 D-3, 임시완·고아성·박용우 격다른 추적 활극 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220104151214122</id>
-        <link href="https://entertain.v.daum.net/v/20220104151214122"/>
-        <updated>2022-01-04T07:10:42.343Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 빙의하는 정지훈, 김범과 질긴 운명의 서막 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220104145417479</id>
-        <link href="https://entertain.v.daum.net/v/20220104145417479"/>
-        <updated>2022-01-04T06:13:04.005Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
