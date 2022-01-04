@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-04T19:09:20.308Z</updated>
+    <updated>2022-01-04T20:11:49.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김다미, 최우식 향한 감정 깨달아.. "아직도 좋아해" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220105050311711</id>
+        <link href="https://entertain.v.daum.net/v/20220105050311711"/>
+        <updated>2022-01-04T20:11:41.186Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['솔로지옥'→'SNL코리아' OTT 타고 K예능까지 인기..흥행 비결은]]></title>
+        <id>https://entertain.v.daum.net/v/20220105050008611</id>
+        <link href="https://entertain.v.daum.net/v/20220105050008611"/>
+        <updated>2022-01-04T20:11:41.186Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박진주, 김다미에 "너 지금 짝사랑하는 거라고"]]></title>
+        <id>https://entertain.v.daum.net/v/20220105050006607</id>
+        <link href="https://entertain.v.daum.net/v/20220105050006607"/>
+        <updated>2022-01-04T20:11:41.186Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼윈도' 송윤아, 이성재X전소민에 "이혼불가, 셋이 공존"반격]]></title>
         <id>https://entertain.v.daum.net/v/20220105001400510</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220104224700944"/>
         <updated>2022-01-04T14:10:13.885Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 김다미, 최우식x노정의 투샷에 섭섭..짝사랑 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220104223027851</id>
-        <link href="https://entertain.v.daum.net/v/20220104223027851"/>
-        <updated>2022-01-04T14:10:13.885Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식X김다미, 함께 집에서 나와..김성철 "오해 안해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220104222816822</id>
-        <link href="https://entertain.v.daum.net/v/20220104222816822"/>
-        <updated>2022-01-04T14:10:13.885Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 유승호, '변우석=벗'이라는 이혜리에 버럭 "남녀유별"]]></title>
-        <id>https://entertain.v.daum.net/v/20220104221044631</id>
-        <link href="https://entertain.v.daum.net/v/20220104221044631"/>
-        <updated>2022-01-04T13:19:46.132Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
