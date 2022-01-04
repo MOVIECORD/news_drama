@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-04T10:11:38.389Z</updated>
+    <updated>2022-01-04T11:09:20.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 윤다훈에 "난 패륜, 아저씨는 불륜"]]></title>
+        <id>https://entertain.v.daum.net/v/20220104200549882</id>
+        <link href="https://entertain.v.daum.net/v/20220104200549882"/>
+        <updated>2022-01-04T11:09:11.364Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 제이캐피탈X대국제과 대주주]]></title>
+        <id>https://entertain.v.daum.net/v/20220104195505702</id>
+        <link href="https://entertain.v.daum.net/v/20220104195505702"/>
+        <updated>2022-01-04T11:09:11.379Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 지수원, 오승아X한기웅 내쳤다 "집에서 나가"]]></title>
+        <id>https://entertain.v.daum.net/v/20220104192328193</id>
+        <link href="https://entertain.v.daum.net/v/20220104192328193"/>
+        <updated>2022-01-04T11:09:11.379Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 김미숙 "무서울 게 없는 인물..극 중 현실 무서워"]]></title>
         <id>https://entertain.v.daum.net/v/20220104180554666</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220104145417479"/>
         <updated>2022-01-04T06:13:04.005Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성 "이정재, 늘 응원해주는 친구..공유·배두나, 큰 소득"]]></title>
-        <id>https://entertain.v.daum.net/v/20220104145028320</id>
-        <link href="https://entertain.v.daum.net/v/20220104145028320"/>
-        <updated>2022-01-04T06:13:04.009Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매 경희' 하율리 "행복만 가득했던 촬영장, 모든 것 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220104144817221</id>
-        <link href="https://entertain.v.daum.net/v/20220104144817221"/>
-        <updated>2022-01-04T06:13:04.009Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완·고아성 "유쾌하고 통쾌한 '나쁜 돈' 추적극"]]></title>
-        <id>https://entertain.v.daum.net/v/20220104144337028</id>
-        <link href="https://entertain.v.daum.net/v/20220104144337028"/>
-        <updated>2022-01-04T06:13:04.010Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
