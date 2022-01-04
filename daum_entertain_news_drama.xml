@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-04T06:13:12.532Z</updated>
+    <updated>2022-01-04T07:10:51.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완→고아성, 제작발표회서 밝힌 각오]]></title>
+        <id>https://entertain.v.daum.net/v/20220104155157479</id>
+        <link href="https://entertain.v.daum.net/v/20220104155157479"/>
+        <updated>2022-01-04T07:10:42.343Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃피달' 이혜리, 머리에 겨눠진 총구..험난한 밀주꾼 체험]]></title>
+        <id>https://entertain.v.daum.net/v/20220104151459207</id>
+        <link href="https://entertain.v.daum.net/v/20220104151459207"/>
+        <updated>2022-01-04T07:10:42.343Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 첫방 D-3, 임시완·고아성·박용우 격다른 추적 활극 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220104151214122</id>
+        <link href="https://entertain.v.daum.net/v/20220104151214122"/>
+        <updated>2022-01-04T07:10:42.343Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트닥터' 빙의하는 정지훈, 김범과 질긴 운명의 서막 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220104145417479</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220104135315073"/>
         <updated>2022-01-04T05:12:21.964Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["첫날 제정신 아냐"..'고요의바다' 정우성 밝힌 #넷플릭스 제작자 #청담부부 이정재]]></title>
-        <id>https://entertain.v.daum.net/v/20220104135231052</id>
-        <link href="https://entertain.v.daum.net/v/20220104135231052"/>
-        <updated>2022-01-04T05:12:21.964Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 측 "김다미, 최우식 향한 마음 자각..짝사랑 시작될 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220104134343821</id>
-        <link href="https://entertain.v.daum.net/v/20220104134343821"/>
-        <updated>2022-01-04T05:12:21.966Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 유승호x강미나, 이혜리·변우석 길거리 데이트 포착..빼꼼 복붙 포즈]]></title>
-        <id>https://entertain.v.daum.net/v/20220104134032746</id>
-        <link href="https://entertain.v.daum.net/v/20220104134032746"/>
-        <updated>2022-01-04T05:12:21.968Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
