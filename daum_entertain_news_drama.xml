@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-05T12:17:34.565Z</updated>
+    <updated>2022-01-05T13:20:29.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽃다운 나이, '설강화' 남기고 떠난 김미수..7일 발인→추모 물결]]></title>
+        <id>https://entertain.v.daum.net/v/20220105214657615</id>
+        <link href="https://entertain.v.daum.net/v/20220105214657615"/>
+        <updated>2022-01-05T13:20:20.254Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 황신혜, 명문대·미스코리아 시절 박철호에 봉변..인생 꼬여]]></title>
         <id>https://entertain.v.daum.net/v/20220105204503932</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220105170652517"/>
         <updated>2022-01-05T09:11:38.308Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2..ing' 박하선-권율→시월드까지 8人8色 캐릭터 포스터]]></title>
-        <id>https://entertain.v.daum.net/v/20220105170107310</id>
-        <link href="https://entertain.v.daum.net/v/20220105170107310"/>
-        <updated>2022-01-05T08:13:13.017Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
