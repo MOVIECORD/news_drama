@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-05T09:11:46.017Z</updated>
+    <updated>2022-01-05T10:11:47.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차청화·서범준 母子 케미→소소한 꿀잼 포인트]]></title>
+        <id>https://entertain.v.daum.net/v/20220105184703151</id>
+        <link href="https://entertain.v.daum.net/v/20220105184703151"/>
+        <updated>2022-01-05T10:11:38.755Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김미수 5일 사망..유작 '설강화' 속 정의로운 여대생으로 남아]]></title>
+        <id>https://entertain.v.daum.net/v/20220105181255563</id>
+        <link href="https://entertain.v.daum.net/v/20220105181255563"/>
+        <updated>2022-01-05T10:11:38.756Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연말엔 레드벨벳 조이, 안방엔 배우 박수영]]></title>
+        <id>https://entertain.v.daum.net/v/20220105180805441</id>
+        <link href="https://entertain.v.daum.net/v/20220105180805441"/>
+        <updated>2022-01-05T10:11:38.764Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호랑이띠 '국민배우' 최수종, 25대 방송연기자협회 이사장 취임]]></title>
         <id>https://entertain.v.daum.net/v/20220105172645180</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220105161437178"/>
         <updated>2022-01-05T08:13:13.022Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 나쁜 돈 쫓는 개성만점 인물들의 유쾌한 추적극]]></title>
-        <id>https://entertain.v.daum.net/v/20220105160749828</id>
-        <link href="https://entertain.v.daum.net/v/20220105160749828"/>
-        <updated>2022-01-05T07:10:51.347Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호X이세영 '옷소매', 드라마 화제성 1위 '올킬']]></title>
-        <id>https://entertain.v.daum.net/v/20220105154945910</id>
-        <link href="https://entertain.v.daum.net/v/20220105154945910"/>
-        <updated>2022-01-05T07:10:51.347Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식, 이렇게 독특한 캐릭터 또 없습니다]]></title>
-        <id>https://entertain.v.daum.net/v/20220105154105566</id>
-        <link href="https://entertain.v.daum.net/v/20220105154105566"/>
-        <updated>2022-01-05T07:10:51.350Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
