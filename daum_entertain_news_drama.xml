@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-06T09:12:10.212Z</updated>
+    <updated>2022-01-06T10:11:57.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 김영철, 조선 건국 고심.. 제2막 연다]]></title>
+        <id>https://entertain.v.daum.net/v/20220106181130895</id>
+        <link href="https://entertain.v.daum.net/v/20220106181130895"/>
+        <updated>2022-01-06T10:11:47.972Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' 제작비 160억..20개국 판매 수익도 '성공']]></title>
         <id>https://entertain.v.daum.net/v/20220106171938391</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220106141028390"/>
         <updated>2022-01-06T05:12:30.420Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선구마사'·'설강화'는 침몰하고 '옷소매'·'달뜨강'은 떠오른 까닭]]></title>
-        <id>https://entertain.v.daum.net/v/20220106141008371</id>
-        <link href="https://entertain.v.daum.net/v/20220106141008371"/>
-        <updated>2022-01-06T05:12:30.443Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
