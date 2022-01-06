@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-06T11:09:31.839Z</updated>
+    <updated>2022-01-06T12:17:50.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 심혜진 "윤다훈=김진엽 아빠" 박철호 말에 '멘붕']]></title>
+        <id>https://entertain.v.daum.net/v/20220106210403923</id>
+        <link href="https://entertain.v.daum.net/v/20220106210403923"/>
+        <updated>2022-01-06T12:17:39.882Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 박철호 "김진엽=윤다훈 子"..심혜진 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220106203550416</id>
+        <link href="https://entertain.v.daum.net/v/20220106203550416"/>
+        <updated>2022-01-06T12:17:39.882Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 황신혜, 윤다훈에 김진엽 출생의 비밀 밝혔다]]></title>
+        <id>https://entertain.v.daum.net/v/20220106203030278</id>
+        <link href="https://entertain.v.daum.net/v/20220106203030278"/>
+        <updated>2022-01-06T12:17:39.888Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두번째남편' 오승아, 엄현경X지수원 다정한 모습에 "모녀지간 눈치챘나"]]></title>
         <id>https://entertain.v.daum.net/v/20220106195714654</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220106155259843"/>
         <updated>2022-01-06T07:11:00.113Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리X남주혁, 이제서야 만난 청춘 케미 정석]]></title>
-        <id>https://entertain.v.daum.net/v/20220106154544562</id>
-        <link href="https://entertain.v.daum.net/v/20220106154544562"/>
-        <updated>2022-01-06T07:11:00.114Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+, 최민식 주연 '카지노' 등 2022 라인업 추가 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220106145343104</id>
-        <link href="https://entertain.v.daum.net/v/20220106145343104"/>
-        <updated>2022-01-06T06:13:43.016Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+, 韓오리지널 '카지노' 제작..최민식 출연]]></title>
-        <id>https://entertain.v.daum.net/v/20220106144000569</id>
-        <link href="https://entertain.v.daum.net/v/20220106144000569"/>
-        <updated>2022-01-06T06:13:43.016Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
