@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-06T20:12:00.220Z</updated>
+    <updated>2022-01-06T21:09:54.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옷소매' 이은샘 "MBTI I라는 이세영→이민지, 촬영장선 극강의 E"]]></title>
+        <id>https://entertain.v.daum.net/v/20220107060015860</id>
+        <link href="https://entertain.v.daum.net/v/20220107060015860"/>
+        <updated>2022-01-06T21:09:46.315Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['옷소매' 이은샘 "촬영 전 전복사고로 8kg 빠져, 김복연→손영희 캐스팅"]]></title>
+        <id>https://entertain.v.daum.net/v/20220107060010848</id>
+        <link href="https://entertain.v.daum.net/v/20220107060010848"/>
+        <updated>2022-01-06T21:09:46.316Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 이이담X김강우 키스 "이혼 할 수 있어?"→수애 목격]]></title>
         <id>https://entertain.v.daum.net/v/20220107001541982</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220106181130895"/>
         <updated>2022-01-06T10:11:47.972Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 제작비 160억..20개국 판매 수익도 '성공']]></title>
-        <id>https://entertain.v.daum.net/v/20220106171938391</id>
-        <link href="https://entertain.v.daum.net/v/20220106171938391"/>
-        <updated>2022-01-06T09:12:01.316Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱어게인' 이소정, 감성+호소력 폭발 '꽃달' OST 라이브 클립 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220106165901830</id>
-        <link href="https://entertain.v.daum.net/v/20220106165901830"/>
-        <updated>2022-01-06T08:13:35.850Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
