@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-07T10:12:07.144Z</updated>
+    <updated>2022-01-07T11:09:15.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 제이케피탈 대표이사行..오승아 경악]]></title>
+        <id>https://entertain.v.daum.net/v/20220107195857919</id>
+        <link href="https://entertain.v.daum.net/v/20220107195857919"/>
+        <updated>2022-01-07T11:09:06.329Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 엄현경X지수원 관계 의심→안심]]></title>
+        <id>https://entertain.v.daum.net/v/20220107192946458</id>
+        <link href="https://entertain.v.daum.net/v/20220107192946458"/>
+        <updated>2022-01-07T11:09:06.331Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추상미 '트레이서'로 13년 만 드라마 복귀, 손현주 임시완과 호흡]]></title>
         <id>https://entertain.v.daum.net/v/20220107180003288</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220107160314604"/>
         <updated>2022-01-07T07:10:28.636Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2' 박하선 "권율, 이 정도 남편이면 괜찮겠다 싶어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220107155002285</id>
-        <link href="https://entertain.v.daum.net/v/20220107155002285"/>
-        <updated>2022-01-07T07:10:28.636Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재방송을 틀어도 된다"..'마녀식당으로 오세요' 2049 타깃 시청률 최강자]]></title>
-        <id>https://entertain.v.daum.net/v/20220107152859710</id>
-        <link href="https://entertain.v.daum.net/v/20220107152859710"/>
-        <updated>2022-01-07T07:10:28.637Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
