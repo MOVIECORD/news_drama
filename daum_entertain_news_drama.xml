@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-07T12:17:02.215Z</updated>
+    <updated>2022-01-07T13:20:21.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 회계사 임시완, 父 죽음 비밀 풀기 위해 국세청 입성]]></title>
+        <id>https://entertain.v.daum.net/v/20220107221252635</id>
+        <link href="https://entertain.v.daum.net/v/20220107221252635"/>
+        <updated>2022-01-07T13:20:12.694Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송가인 NFT 나온다.. 팬버스, 포켓돌스튜디오와 협약 체결]]></title>
+        <id>https://entertain.v.daum.net/v/20220107213533285</id>
+        <link href="https://entertain.v.daum.net/v/20220107213533285"/>
+        <updated>2022-01-07T13:20:12.694Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지헤중' 박효주·윤나무, 제작진도 숨죽인 열연..인생 연기 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220107210606989</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220107163009206</id>
         <link href="https://entertain.v.daum.net/v/20220107163009206"/>
         <updated>2022-01-07T08:13:16.611Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권일용 "범죄 차단 위한 고민 계기 되길"]]></title>
-        <id>https://entertain.v.daum.net/v/20220107162919179</id>
-        <link href="https://entertain.v.daum.net/v/20220107162919179"/>
-        <updated>2022-01-07T08:13:16.611Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 하율리 "이준호 '우리집' 직관 하고파..수염·주름 서로 웃었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220107162423076</id>
-        <link href="https://entertain.v.daum.net/v/20220107162423076"/>
-        <updated>2022-01-07T08:13:16.612Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
