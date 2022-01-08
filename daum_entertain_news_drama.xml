@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-08T16:15:06.281Z</updated>
+    <updated>2022-01-08T17:19:05.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, "네 우산 덕분에 할 수 있던 게 많아, 고마워" 최희서에 진심 전해]]></title>
+        <id>https://entertain.v.daum.net/v/20220109015400743</id>
+        <link href="https://entertain.v.daum.net/v/20220109015400743"/>
+        <updated>2022-01-08T17:18:56.088Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금 헤어지는 중입니다' 종영, 송혜교는 빛났다]]></title>
         <id>https://entertain.v.daum.net/v/20220109010020660</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220108224109074"/>
         <updated>2022-01-08T14:10:02.661Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 기은세, 윤나무와 관계 정리.."박효주에게 사죄하고 싶어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220108224003062</id>
-        <link href="https://entertain.v.daum.net/v/20220108224003062"/>
-        <updated>2022-01-08T14:10:02.661Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
