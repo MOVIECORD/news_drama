@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-08T10:11:22.195Z</updated>
+    <updated>2022-01-08T11:09:17.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 지현우, 박하나에 파혼 통보 "엄마 될 자격 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220108200454903</id>
+        <link href="https://entertain.v.daum.net/v/20220108200454903"/>
+        <updated>2022-01-08T11:09:07.844Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 주상욱, 왕 된 김영철과 대립..두 호랑이의 카리스마]]></title>
         <id>https://entertain.v.daum.net/v/20220108171500941</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220108141531971"/>
         <updated>2022-01-08T06:12:42.822Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱→위하준, 완벽한 자아 팀플레이..통쾌 정의구현]]></title>
-        <id>https://entertain.v.daum.net/v/20220108135922740</id>
-        <link href="https://entertain.v.daum.net/v/20220108135922740"/>
-        <updated>2022-01-08T05:11:55.447Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
