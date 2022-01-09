@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-09T06:12:59.395Z</updated>
+    <updated>2022-01-09T07:10:50.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원', 어째서 주상욱보다 예지원·박진희가 돋보일까]]></title>
+        <id>https://entertain.v.daum.net/v/20220109155350726</id>
+        <link href="https://entertain.v.daum.net/v/20220109155350726"/>
+        <updated>2022-01-09T07:10:42.054Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오정세·전혜진 '엉클' 결국 일냈다..자체 최고 시청률 경신]]></title>
+        <id>https://entertain.v.daum.net/v/20220109152342209</id>
+        <link href="https://entertain.v.daum.net/v/20220109152342209"/>
+        <updated>2022-01-09T07:10:42.055Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박효주 "지금, 감사하는 중입니다"]]></title>
         <id>https://entertain.v.daum.net/v/20220109145017600</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220109133556209"/>
         <updated>2022-01-09T05:11:59.894Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[착한 드라마가 일냈다, '엉클' 자체 시청률 9.7% 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20220109131509947</id>
-        <link href="https://entertain.v.daum.net/v/20220109131509947"/>
-        <updated>2022-01-09T05:11:59.894Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 하율리 "이세영 배웅에 감독님까지 울어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220109125058624</id>
-        <link href="https://entertain.v.daum.net/v/20220109125058624"/>
-        <updated>2022-01-09T04:13:37.684Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
