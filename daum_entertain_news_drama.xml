@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-09T07:10:50.611Z</updated>
+    <updated>2022-01-09T08:13:03.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이무생이 개척한 '고요의 바다'라는 신세계]]></title>
+        <id>https://entertain.v.daum.net/v/20220109170200923</id>
+        <link href="https://entertain.v.daum.net/v/20220109170200923"/>
+        <updated>2022-01-09T08:12:54.595Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["만약 내가 죽는다면?"..'지헤중' 박효주의 헤어지는 법]]></title>
+        <id>https://entertain.v.daum.net/v/20220109163003247</id>
+        <link href="https://entertain.v.daum.net/v/20220109163003247"/>
+        <updated>2022-01-09T08:12:54.613Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원', 어째서 주상욱보다 예지원·박진희가 돋보일까]]></title>
         <id>https://entertain.v.daum.net/v/20220109155350726</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220109134224297"/>
         <updated>2022-01-09T05:11:59.892Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지헤중' 최희서 "송혜교·박효주와 모든 신, 내 그대로의 모습"]]></title>
-        <id>https://entertain.v.daum.net/v/20220109133645215</id>
-        <link href="https://entertain.v.daum.net/v/20220109133645215"/>
-        <updated>2022-01-09T05:11:59.893Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라, 전생→현생 넘나드는 변화무쌍 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220109133556209</id>
-        <link href="https://entertain.v.daum.net/v/20220109133556209"/>
-        <updated>2022-01-09T05:11:59.894Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
