@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-09T21:09:43.706Z</updated>
+    <updated>2022-01-09T22:10:50.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종원 격분 '신사와 아가씨' 36% 자체 최고 시청률]]></title>
+        <id>https://entertain.v.daum.net/v/20220110070008752</id>
+        <link href="https://entertain.v.daum.net/v/20220110070008752"/>
+        <updated>2022-01-09T22:10:42.057Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["왜 내게 거짓말 했어?" '착한 딸' 이세희, 친母 생존 알아..이종원에 격분]]></title>
+        <id>https://entertain.v.daum.net/v/20220110065436696</id>
+        <link href="https://entertain.v.daum.net/v/20220110065436696"/>
+        <updated>2022-01-09T22:10:42.063Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 김우석, 이진욱 아들의 환생? "어릴 때 모습 밖에 몰라"]]></title>
         <id>https://entertain.v.daum.net/v/20220110060446351</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220109225130480"/>
         <updated>2022-01-09T14:09:41.764Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라 "600년 전 가족 죽인 범인=이준"..이진욱 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220109224201405</id>
-        <link href="https://entertain.v.daum.net/v/20220109224201405"/>
-        <updated>2022-01-09T14:09:41.766Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라 "600년 전 가족 죽인 건 이준" 이진욱 혼란]]></title>
-        <id>https://entertain.v.daum.net/v/20220109223757370</id>
-        <link href="https://entertain.v.daum.net/v/20220109223757370"/>
-        <updated>2022-01-09T14:09:41.766Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
