@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-10T11:09:26.062Z</updated>
+    <updated>2022-01-10T12:17:25.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 심혜진, 김진엽 찾아가 "네 아빠 누군지 궁금하지"]]></title>
+        <id>https://entertain.v.daum.net/v/20220110203449637</id>
+        <link href="https://entertain.v.daum.net/v/20220110203449637"/>
+        <updated>2022-01-10T12:17:16.576Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 심혜진, 윤다훈에 이혼 선언.. 함은정♥김진엽 결혼 막는다]]></title>
+        <id>https://entertain.v.daum.net/v/20220110202800538</id>
+        <link href="https://entertain.v.daum.net/v/20220110202800538"/>
+        <updated>2022-01-10T12:17:16.576Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두번째남편' 오승아, 엄현경에 "일자무식이 무슨 경영"무시]]></title>
         <id>https://entertain.v.daum.net/v/20220110195221117</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110162710290"/>
         <updated>2022-01-10T08:13:57.879Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매 붉은 끝동' 이준호, 진심은 언젠가 통한다]]></title>
-        <id>https://entertain.v.daum.net/v/20220110162532222</id>
-        <link href="https://entertain.v.daum.net/v/20220110162532222"/>
-        <updated>2022-01-10T08:13:57.880Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 오현경, 얄밉다가 짠했다가 '능수능란 연기']]></title>
-        <id>https://entertain.v.daum.net/v/20220110161229732</id>
-        <link href="https://entertain.v.daum.net/v/20220110161229732"/>
-        <updated>2022-01-10T08:13:57.880Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
