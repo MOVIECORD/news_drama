@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-10T09:12:48.842Z</updated>
+    <updated>2022-01-10T10:12:19.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성시경 "내가 요리 다 하는데 왜 백종원 클라쓰?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220110183005913</id>
+        <link href="https://entertain.v.daum.net/v/20220110183005913"/>
+        <updated>2022-01-10T10:12:10.847Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고요의 바다' 공유가 생각한 만족이란]]></title>
         <id>https://entertain.v.daum.net/v/20220110180028237</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110155041943"/>
         <updated>2022-01-10T07:10:46.852Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든 글로브 장벽 허문 '오징어게임', 오영수 조연상 이상의 의미]]></title>
-        <id>https://entertain.v.daum.net/v/20220110154718841</id>
-        <link href="https://entertain.v.daum.net/v/20220110154718841"/>
-        <updated>2022-01-10T07:10:46.853Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
