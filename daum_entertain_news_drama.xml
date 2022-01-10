@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-10T16:16:13.332Z</updated>
+    <updated>2022-01-10T17:21:59.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["거래내역 원본 내놔" 송윤아 VS "이혼이 먼저" 전소민, 팽팽 기싸움]]></title>
+        <id>https://entertain.v.daum.net/v/20220111013003824</id>
+        <link href="https://entertain.v.daum.net/v/20220111013003824"/>
+        <updated>2022-01-10T17:21:51.302Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그해우리는' 최우식, 김다미에 "나만 계속 사랑해줘" 눈물로 애원]]></title>
+        <id>https://entertain.v.daum.net/v/20220111012401812</id>
+        <link href="https://entertain.v.daum.net/v/20220111012401812"/>
+        <updated>2022-01-10T17:21:51.303Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그해우리는' 김다미, 노정의에 "최우식과 무슨 관계냐" 신경전]]></title>
         <id>https://entertain.v.daum.net/v/20220111003600624</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110231011995"/>
         <updated>2022-01-10T15:11:32.096Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나 좀 사랑해줘"..'그 해 우리는' 최우식, 김다미에 눈물고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220110230044956</id>
-        <link href="https://entertain.v.daum.net/v/20220110230044956"/>
-        <updated>2022-01-10T14:10:14.987Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃피달' 유승호, 이혜리에 "변우석 꿈도 꾸지 마" 경고]]></title>
-        <id>https://entertain.v.daum.net/v/20220110224800913</id>
-        <link href="https://entertain.v.daum.net/v/20220110224800913"/>
-        <updated>2022-01-10T14:10:14.987Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
