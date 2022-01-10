@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-10T15:11:39.982Z</updated>
+    <updated>2022-01-10T16:16:13.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그해우리는' 김다미, 노정의에 "최우식과 무슨 관계냐" 신경전]]></title>
+        <id>https://entertain.v.daum.net/v/20220111003600624</id>
+        <link href="https://entertain.v.daum.net/v/20220111003600624"/>
+        <updated>2022-01-10T16:16:05.040Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한 사람만' 소희정 죽음 애도..안은진X김경남 포옹]]></title>
+        <id>https://entertain.v.daum.net/v/20220111002237580</id>
+        <link href="https://entertain.v.daum.net/v/20220111002237580"/>
+        <updated>2022-01-10T16:16:05.040Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼윈도' 송윤아, 아들 박상훈 범인 자백에 폭풍눈물 '충격 반전']]></title>
+        <id>https://entertain.v.daum.net/v/20220111001600553</id>
+        <link href="https://entertain.v.daum.net/v/20220111001600553"/>
+        <updated>2022-01-10T16:16:05.041Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한 사람만' 김경남, 시한부 안은진에 이탈리아 행 항공권 선물]]></title>
         <id>https://entertain.v.daum.net/v/20220111000430453</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110224800913"/>
         <updated>2022-01-10T14:10:14.987Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 김다미, 노정의와 최우식 집 앞서 대면.."내가 방해꾼이냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110224601904</id>
-        <link href="https://entertain.v.daum.net/v/20220110224601904"/>
-        <updated>2022-01-10T14:10:14.989Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 김다미, 노정의에 "최우식과 무슨 사이냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110224512900</id>
-        <link href="https://entertain.v.daum.net/v/20220110224512900"/>
-        <updated>2022-01-10T14:10:14.990Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 김다미, 최우식X노정의 스캔들 질투 "예쁘긴 한데 웃는 게 좀"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110223226824</id>
-        <link href="https://entertain.v.daum.net/v/20220110223226824"/>
-        <updated>2022-01-10T14:10:14.993Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
