@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-10T12:17:25.705Z</updated>
+    <updated>2022-01-10T13:21:34.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그 해 우리는' 최우식이 김다미를 밀어낸 이유..버려지고 싶지 않아서]]></title>
+        <id>https://entertain.v.daum.net/v/20220110220942677</id>
+        <link href="https://entertain.v.daum.net/v/20220110220942677"/>
+        <updated>2022-01-10T13:21:26.154Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼윈도' 전소민, 송윤아 리마인드 웨딩 찾은 진짜 이유 밝혀진다]]></title>
+        <id>https://entertain.v.daum.net/v/20220110213146273</id>
+        <link href="https://entertain.v.daum.net/v/20220110213146273"/>
+        <updated>2022-01-10T13:21:26.155Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 심혜진, 김진엽 찾아가 "네 아빠 누군지 궁금하지"]]></title>
         <id>https://entertain.v.daum.net/v/20220110203449637</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110165004979"/>
         <updated>2022-01-10T08:13:57.878Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기생충' 못다 이룬 꿈 '오징어게임'이..골든글로브 첫 연기상]]></title>
-        <id>https://entertain.v.daum.net/v/20220110164056728</id>
-        <link href="https://entertain.v.daum.net/v/20220110164056728"/>
-        <updated>2022-01-10T08:13:57.878Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구 하자는 최우식, 짝사랑 각성 김다미..'그 해 우리는', 로맨스 향방은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220110162710290</id>
-        <link href="https://entertain.v.daum.net/v/20220110162710290"/>
-        <updated>2022-01-10T08:13:57.879Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
