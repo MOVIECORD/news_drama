@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-10T21:10:15.552Z</updated>
+    <updated>2022-01-10T22:09:30.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전소민 찌른 범인 공개 '쇼윈도' 7.575% 월화극 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220111065829815</id>
+        <link href="https://entertain.v.daum.net/v/20220111065829815"/>
+        <updated>2022-01-10T22:09:22.416Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["진짜 아빠가 날 버렸어"..'그 해 우리는' 최우식의 슬픈 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220111062006440</id>
+        <link href="https://entertain.v.daum.net/v/20220111062006440"/>
+        <updated>2022-01-10T22:09:22.416Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오영수, 韓배우 최초 골든글로브 수상..50년 만에 오른 정점]]></title>
         <id>https://entertain.v.daum.net/v/20220111060016137</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220110235810324"/>
         <updated>2022-01-10T15:11:32.090Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 사람만' 도상우, 서연우 찾아가 "핸드폰 호스피스에 있다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110235126293</id>
-        <link href="https://entertain.v.daum.net/v/20220110235126293"/>
-        <updated>2022-01-10T15:11:32.090Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼윈도' 송윤아, 리마인드 웨딩에 전소민 초대 "거래내역 자료 주면 이혼"]]></title>
-        <id>https://entertain.v.daum.net/v/20220110233853229</id>
-        <link href="https://entertain.v.daum.net/v/20220110233853229"/>
-        <updated>2022-01-10T15:11:32.090Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
