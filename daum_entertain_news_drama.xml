@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-11T12:16:57.229Z</updated>
+    <updated>2022-01-11T13:20:07.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃피면' 이혜리, 술 다 팔면 한양 떠나자? "미련 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220111220818103</id>
+        <link href="https://entertain.v.daum.net/v/20220111220818103"/>
+        <updated>2022-01-11T13:20:00.104Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고' 강미나, 흑마 탄 아씨 된다..대형 사고?]]></title>
+        <id>https://entertain.v.daum.net/v/20220111213302585</id>
+        <link href="https://entertain.v.daum.net/v/20220111213302585"/>
+        <updated>2022-01-11T13:20:00.104Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 유이, 정지훈에 눈을 못 떼..눈물도 그렁그렁 무슨 일?]]></title>
+        <id>https://entertain.v.daum.net/v/20220111212357456</id>
+        <link href="https://entertain.v.daum.net/v/20220111212357456"/>
+        <updated>2022-01-11T13:20:00.104Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 함은정X김진엽 혼인 무산..윤다훈X심혜진 이혼 결정]]></title>
         <id>https://entertain.v.daum.net/v/20220111210847267</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220111174200297"/>
         <updated>2022-01-11T09:11:17.492Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 박소은, 김범·유이와 찰떡 호흡..코믹과 진지 사이]]></title>
-        <id>https://entertain.v.daum.net/v/20220111173733166</id>
-        <link href="https://entertain.v.daum.net/v/20220111173733166"/>
-        <updated>2022-01-11T09:11:17.493Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지훈·김범, 일촉즉발 위기..공조 아닌 공조 시작?]]></title>
-        <id>https://entertain.v.daum.net/v/20220111172830866</id>
-        <link href="https://entertain.v.daum.net/v/20220111172830866"/>
-        <updated>2022-01-11T09:11:17.495Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈-유이, 미묘한 분위기 포착 '애틋']]></title>
-        <id>https://entertain.v.daum.net/v/20220111172531746</id>
-        <link href="https://entertain.v.daum.net/v/20220111172531746"/>
-        <updated>2022-01-11T09:11:17.496Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
