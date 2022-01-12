@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-12T10:12:16.603Z</updated>
+    <updated>2022-01-12T11:09:27.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 비리 감추려 정민준 납치 시도]]></title>
+        <id>https://entertain.v.daum.net/v/20220112195651127</id>
+        <link href="https://entertain.v.daum.net/v/20220112195651127"/>
+        <updated>2022-01-12T11:09:18.526Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 오승아 비리 경찰에 넘겨 "경찰 조사"]]></title>
+        <id>https://entertain.v.daum.net/v/20220112192647533</id>
+        <link href="https://entertain.v.daum.net/v/20220112192647533"/>
+        <updated>2022-01-12T11:09:18.527Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한 사람만' 활력소 박수영, 거부할 수 없는 끌림포인트 셋]]></title>
         <id>https://entertain.v.daum.net/v/20220112184654942</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220112145848902"/>
         <updated>2022-01-12T06:13:11.929Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선-이준호-최우식, 물 만난 배우들의 인생캐 활약]]></title>
-        <id>https://entertain.v.daum.net/v/20220112145834899</id>
-        <link href="https://entertain.v.daum.net/v/20220112145834899"/>
-        <updated>2022-01-12T06:13:11.930Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 사람만' 측 "스태프 코로나19 확진, 김경남-안은진 동선 안 겹쳐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220112145647846</id>
-        <link href="https://entertain.v.daum.net/v/20220112145647846"/>
-        <updated>2022-01-12T06:13:11.930Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
