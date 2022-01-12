@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-12T13:20:41.067Z</updated>
+    <updated>2022-01-12T14:10:23.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀식당으로 오세요' 안은진, 7년 연애한 윤지온 이별 통보에 절망]]></title>
+        <id>https://entertain.v.daum.net/v/20220112230051881</id>
+        <link href="https://entertain.v.daum.net/v/20220112230051881"/>
+        <updated>2022-01-12T14:10:15.383Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 함은정, 심혜진에 "나 엄마 용서 못해"]]></title>
         <id>https://entertain.v.daum.net/v/20220112202759750</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220112162006261"/>
         <updated>2022-01-12T08:13:04.031Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 배유람, 예측불가 독보적 활약..활력소 역할 톡톡]]></title>
-        <id>https://entertain.v.daum.net/v/20220112161924241</id>
-        <link href="https://entertain.v.daum.net/v/20220112161924241"/>
-        <updated>2022-01-12T08:13:04.031Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
