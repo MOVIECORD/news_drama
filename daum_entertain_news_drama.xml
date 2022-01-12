@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-12T08:13:13.097Z</updated>
+    <updated>2022-01-12T09:10:47.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고' 유승호X이혜리, 입맞춤 1초 전?..드디어 꽃길 걷나]]></title>
+        <id>https://entertain.v.daum.net/v/20220112175557845</id>
+        <link href="https://entertain.v.daum.net/v/20220112175557845"/>
+        <updated>2022-01-12T09:10:38.481Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한 사람만' 한규원, 선과 악 오가는 소름돋는 열연]]></title>
+        <id>https://entertain.v.daum.net/v/20220112171656494</id>
+        <link href="https://entertain.v.daum.net/v/20220112171656494"/>
+        <updated>2022-01-12T09:10:38.482Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한 사람만' 한규원, ♥박수영에 프러포즈→살인 언급..충격 반전]]></title>
         <id>https://entertain.v.daum.net/v/20220112171153318</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220112143200997"/>
         <updated>2022-01-12T06:13:11.930Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학교 2021' 궁지 몰린 김요한 vs 여유 가득 이지하, 이사장실 가득 채운 긴장감]]></title>
-        <id>https://entertain.v.daum.net/v/20220112143144991</id>
-        <link href="https://entertain.v.daum.net/v/20220112143144991"/>
-        <updated>2022-01-12T06:13:11.930Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이준호♥이세영 합방신, 몸에 키스 생략한 건"..'옷소매' 대본수정 이유 있었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220112142701733</id>
-        <link href="https://entertain.v.daum.net/v/20220112142701733"/>
-        <updated>2022-01-12T06:13:11.930Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
