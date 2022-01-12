@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-12T03:13:38.374Z</updated>
+    <updated>2022-01-12T04:14:09.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 유승호X이혜리, 입맞춤 1초전 공개..꽃길 걷나]]></title>
+        <id>https://entertain.v.daum.net/v/20220112130357165</id>
+        <link href="https://entertain.v.daum.net/v/20220112130357165"/>
+        <updated>2022-01-12T04:14:00.259Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손예진 강남 피부과 원장 됐다, 대본리딩 현장]]></title>
+        <id>https://entertain.v.daum.net/v/20220112125624007</id>
+        <link href="https://entertain.v.daum.net/v/20220112125624007"/>
+        <updated>2022-01-12T04:14:00.259Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매' 감독 "저도 이준호X이세영 사랑했습니다"]]></title>
         <id>https://entertain.v.daum.net/v/20220112115715569</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220112105901944"/>
         <updated>2022-01-12T02:01:35.340Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 사람만' 김경남, 다크우천 VS 멜로우천 온도차..시선집중]]></title>
-        <id>https://entertain.v.daum.net/v/20220112105900943</id>
-        <link href="https://entertain.v.daum.net/v/20220112105900943"/>
-        <updated>2022-01-12T02:01:35.341Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길·진선규·김소진 "운명처럼 만났다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220112105406722</id>
-        <link href="https://entertain.v.daum.net/v/20220112105406722"/>
-        <updated>2022-01-12T02:01:35.343Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
