@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-13T17:22:17.982Z</updated>
+    <updated>2022-01-13T18:12:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시완·고아성, 직접 뽑은 '트레이서' 키워드]]></title>
+        <id>https://entertain.v.daum.net/v/20220114030011877</id>
+        <link href="https://entertain.v.daum.net/v/20220114030011877"/>
+        <updated>2022-01-13T18:12:44.492Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오정세, 윤희석 멱살 잡았다..폭발 1초 전]]></title>
         <id>https://entertain.v.daum.net/v/20220114020011831</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220113203227280"/>
         <updated>2022-01-13T12:17:50.610Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아 기억상실→한기웅 "엄현경, 우리 다시 합쳐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220113200910945</id>
-        <link href="https://entertain.v.daum.net/v/20220113200910945"/>
-        <updated>2022-01-13T12:17:50.611Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
