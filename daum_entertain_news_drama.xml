@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-13T20:11:34.659Z</updated>
+    <updated>2022-01-13T21:10:00.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 3년만 복귀 김남길, SBS 금토극 자존심 되찾나]]></title>
+        <id>https://entertain.v.daum.net/v/20220114060211404</id>
+        <link href="https://entertain.v.daum.net/v/20220114060211404"/>
+        <updated>2022-01-13T21:09:52.781Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이서진 대머리 변신 '내과 박원장' 티빙 오리지널 흥행 이을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220114060008269</id>
+        <link href="https://entertain.v.daum.net/v/20220114060008269"/>
+        <updated>2022-01-13T21:09:52.790Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임시완·고아성, 직접 뽑은 '트레이서' 키워드]]></title>
         <id>https://entertain.v.daum.net/v/20220114030011877</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220113205439575"/>
         <updated>2022-01-13T12:17:50.599Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 함은정, 믿었던 김진엽..손성윤과 임신 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220113204911509</id>
-        <link href="https://entertain.v.daum.net/v/20220113204911509"/>
-        <updated>2022-01-13T12:17:50.607Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 장세현, 죽으려는 함은정 구출..로맨스 시작?]]></title>
-        <id>https://entertain.v.daum.net/v/20220113203227280</id>
-        <link href="https://entertain.v.daum.net/v/20220113203227280"/>
-        <updated>2022-01-13T12:17:50.610Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
