@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-13T10:11:56.083Z</updated>
+    <updated>2022-01-13T11:09:25.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 정민준 살려냈다..엄현경 "난 엄마 자격없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220113192954404</id>
+        <link href="https://entertain.v.daum.net/v/20220113192954404"/>
+        <updated>2022-01-13T11:09:17.067Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전성우, 넷플릭스 '종말의 바보' 주연 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220113191244160</id>
+        <link href="https://entertain.v.daum.net/v/20220113191244160"/>
+        <updated>2022-01-13T11:09:17.067Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱만?..'전설의 고향'보다 신박한 귀물 총출동]]></title>
         <id>https://entertain.v.daum.net/v/20220113185300816</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220113155441158"/>
         <updated>2022-01-13T07:10:57.040Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학폭논란' 김동희 "초5때 다툰 후 화해..용서 받았다 생각했는데, 반성"]]></title>
-        <id>https://entertain.v.daum.net/v/20220113153004023</id>
-        <link href="https://entertain.v.daum.net/v/20220113153004023"/>
-        <updated>2022-01-13T07:10:57.041Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학교 2021' 김강민 "많은 것 배운 감사한 작품" 종영 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220113152025609</id>
-        <link href="https://entertain.v.daum.net/v/20220113152025609"/>
-        <updated>2022-01-13T07:10:57.041Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
