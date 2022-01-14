@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-14T11:09:19.482Z</updated>
+    <updated>2022-01-14T12:16:55.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 새 국면으로..임시완 vs 손현주, 불꽃 튀는 심리전]]></title>
+        <id>https://entertain.v.daum.net/v/20220114205759833</id>
+        <link href="https://entertain.v.daum.net/v/20220114205759833"/>
+        <updated>2022-01-14T12:16:47.107Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 이이담, 의심→신뢰 유연한 연기 변주]]></title>
+        <id>https://entertain.v.daum.net/v/20220114202622508</id>
+        <link href="https://entertain.v.daum.net/v/20220114202622508"/>
+        <updated>2022-01-14T12:16:47.109Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오승아, 기억상실 거짓말?..지수원 친딸 엄현경 기억 '경악']]></title>
         <id>https://entertain.v.daum.net/v/20220114200015204</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220114175212299"/>
         <updated>2022-01-14T09:11:07.690Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["선처 절대 없다"..비, 가짜뉴스 유튜버 법적대응]]></title>
-        <id>https://entertain.v.daum.net/v/20220114173509847</id>
-        <link href="https://entertain.v.daum.net/v/20220114173509847"/>
-        <updated>2022-01-14T09:11:07.690Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 한미녀 맞아? 김주령, '공작도시' 묵직 존재감]]></title>
-        <id>https://entertain.v.daum.net/v/20220114171110010</id>
-        <link href="https://entertain.v.daum.net/v/20220114171110010"/>
-        <updated>2022-01-14T08:13:25.160Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
