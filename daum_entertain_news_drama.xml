@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-14T06:13:30.867Z</updated>
+    <updated>2022-01-14T07:10:44.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '악의 마음' 진선규, 김남길에 프로파일러 제안]]></title>
+        <id>https://entertain.v.daum.net/v/20220114160322980</id>
+        <link href="https://entertain.v.daum.net/v/20220114160322980"/>
+        <updated>2022-01-14T07:10:36.160Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이스 준, '물들여' 종영 소감 "진정성 있는 연기하겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220114155158587</id>
+        <link href="https://entertain.v.daum.net/v/20220114155158587"/>
+        <updated>2022-01-14T07:10:36.160Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위하준 멱살잡은 이동욱..20년 전 과거랑 K의 연결고리는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220114151348370</id>
+        <link href="https://entertain.v.daum.net/v/20220114151348370"/>
+        <updated>2022-01-14T07:10:36.162Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 정지훈X유이, 미묘한 기류..태인호에 분노 폭발]]></title>
         <id>https://entertain.v.daum.net/v/20220114143445196</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220114123204235"/>
         <updated>2022-01-14T04:13:35.825Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X김범, 눈 뗄 수 없는 판타지 메디컬]]></title>
-        <id>https://entertain.v.daum.net/v/20220114115600586</id>
-        <link href="https://entertain.v.daum.net/v/20220114115600586"/>
-        <updated>2022-01-14T03:12:55.722Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱x위하준x차학연, 제대로 미친 공조수사..다크웹 배후는?]]></title>
-        <id>https://entertain.v.daum.net/v/20220114114720367</id>
-        <link href="https://entertain.v.daum.net/v/20220114114720367"/>
-        <updated>2022-01-14T03:12:55.726Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 이충주 고군분투, 과몰입 유발하는 키플레이어]]></title>
-        <id>https://entertain.v.daum.net/v/20220114114612339</id>
-        <link href="https://entertain.v.daum.net/v/20220114114612339"/>
-        <updated>2022-01-14T03:12:55.727Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
