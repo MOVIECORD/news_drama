@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-14T14:10:46.771Z</updated>
+    <updated>2022-01-14T15:11:03.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '악의 마음' 진선규, 김남길에 프로파일러 제안]]></title>
+        <id>https://entertain.v.daum.net/v/20220114235019421</id>
+        <link href="https://entertain.v.daum.net/v/20220114235019421"/>
+        <updated>2022-01-14T15:10:54.673Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의마음' 진선규, 김남길에 '프로파일러' 합류 제안]]></title>
+        <id>https://entertain.v.daum.net/v/20220114233126292</id>
+        <link href="https://entertain.v.daum.net/v/20220114233126292"/>
+        <updated>2022-01-14T15:10:54.696Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '악의 마음'.. 김남길X진선규, 대한민국 최초 프로파일러로 완변 벽신]]></title>
+        <id>https://entertain.v.daum.net/v/20220114232007190</id>
+        <link href="https://entertain.v.daum.net/v/20220114232007190"/>
+        <updated>2022-01-14T15:10:54.697Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완, OZ 식품 임선우에 "672억 세금 추징"]]></title>
+        <id>https://entertain.v.daum.net/v/20220114231850172</id>
+        <link href="https://entertain.v.daum.net/v/20220114231850172"/>
+        <updated>2022-01-14T15:10:54.698Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["프로파일러!"..'악의 마음을 읽는 자들' 진선규, 김남길에 합류 제안]]></title>
+        <id>https://entertain.v.daum.net/v/20220114231138127</id>
+        <link href="https://entertain.v.daum.net/v/20220114231138127"/>
+        <updated>2022-01-14T15:10:54.699Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의마음' 진선규 "과학수사팀 만들어 달라" 건의]]></title>
         <id>https://entertain.v.daum.net/v/20220114230429070</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220114220512664"/>
         <updated>2022-01-14T13:20:35.843Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음을 읽는 자들' 첫방 포인트 #프로파일러 #연기神 #젊은 제작진]]></title>
-        <id>https://entertain.v.daum.net/v/20220114215100483</id>
-        <link href="https://entertain.v.daum.net/v/20220114215100483"/>
-        <updated>2022-01-14T13:20:35.843Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 새 국면으로..임시완 vs 손현주, 불꽃 튀는 심리전]]></title>
-        <id>https://entertain.v.daum.net/v/20220114205759833</id>
-        <link href="https://entertain.v.daum.net/v/20220114205759833"/>
-        <updated>2022-01-14T12:16:47.107Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 이이담, 의심→신뢰 유연한 연기 변주]]></title>
-        <id>https://entertain.v.daum.net/v/20220114202622508</id>
-        <link href="https://entertain.v.daum.net/v/20220114202622508"/>
-        <updated>2022-01-14T12:16:47.109Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승아, 기억상실 거짓말?..지수원 친딸 엄현경 기억 '경악']]></title>
-        <id>https://entertain.v.daum.net/v/20220114200015204</id>
-        <link href="https://entertain.v.daum.net/v/20220114200015204"/>
-        <updated>2022-01-14T11:09:10.757Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 지수원, 엄현경에 "내 딸" 눈물..오승아 경악]]></title>
-        <id>https://entertain.v.daum.net/v/20220114195921188</id>
-        <link href="https://entertain.v.daum.net/v/20220114195921188"/>
-        <updated>2022-01-14T11:09:10.761Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
