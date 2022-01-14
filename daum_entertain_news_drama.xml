@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-14T09:11:15.444Z</updated>
+    <updated>2022-01-14T10:12:00.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고요의 바다' 정우성 "제작자가 된 건 운명이었어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220114184741225</id>
+        <link href="https://entertain.v.daum.net/v/20220114184741225"/>
+        <updated>2022-01-14T10:11:52.071Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임시완, 띵언 제조기의 통쾌한 팩폭..명대사 스틸]]></title>
+        <id>https://entertain.v.daum.net/v/20220114182622944</id>
+        <link href="https://entertain.v.daum.net/v/20220114182622944"/>
+        <updated>2022-01-14T10:11:52.071Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 이이담, 의심과 신뢰 넘나드는 다채로운 감정 변주]]></title>
+        <id>https://entertain.v.daum.net/v/20220114182323897</id>
+        <link href="https://entertain.v.daum.net/v/20220114182323897"/>
+        <updated>2022-01-14T10:11:52.072Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 제2막, 이진욱·권나라 관계 변화→천 년 전 비밀 베일 벗는다]]></title>
+        <id>https://entertain.v.daum.net/v/20220114181519781</id>
+        <link href="https://entertain.v.daum.net/v/20220114181519781"/>
+        <updated>2022-01-14T10:11:52.073Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주상욱, 살아 돌아올까..조선 운명 결정할 명나라行]]></title>
         <id>https://entertain.v.daum.net/v/20220114181012708</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220114151348370"/>
         <updated>2022-01-14T07:10:36.162Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X유이, 미묘한 기류..태인호에 분노 폭발]]></title>
-        <id>https://entertain.v.daum.net/v/20220114143445196</id>
-        <link href="https://entertain.v.daum.net/v/20220114143445196"/>
-        <updated>2022-01-14T06:13:22.798Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 한미녀 맞아?..김주령, '공작도시' 서늘한 존재감]]></title>
-        <id>https://entertain.v.daum.net/v/20220114143409169</id>
-        <link href="https://entertain.v.daum.net/v/20220114143409169"/>
-        <updated>2022-01-14T06:13:22.798Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘X이혜영X김성령, '마라맛' 여자들이 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220114143321140</id>
-        <link href="https://entertain.v.daum.net/v/20220114143321140"/>
-        <updated>2022-01-14T06:13:22.801Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학교 2021' 이상준 "첫 지상파, 얄밉다는 母 반응 가장 기억나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220114143309133</id>
-        <link href="https://entertain.v.daum.net/v/20220114143309133"/>
-        <updated>2022-01-14T06:13:22.811Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
