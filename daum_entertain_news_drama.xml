@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-14T16:13:26.828Z</updated>
+    <updated>2022-01-14T17:20:06.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 진선규, "사람의 마음을 분석하는 일"..김남길에 '프로파일러' 제안]]></title>
+        <id>https://entertain.v.daum.net/v/20220115013301916</id>
+        <link href="https://entertain.v.daum.net/v/20220115013301916"/>
+        <updated>2022-01-14T17:19:55.959Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유승호·이혜리→임원희·정영주, 케미 대잔치 비하인드컷]]></title>
         <id>https://entertain.v.daum.net/v/20220115010007835</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220114222129802"/>
         <updated>2022-01-14T14:10:38.597Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["범인의 생각은 무엇일까" 김남길, 경찰로 첫 등장]]></title>
-        <id>https://entertain.v.daum.net/v/20220114221626756</id>
-        <link href="https://entertain.v.daum.net/v/20220114221626756"/>
-        <updated>2022-01-14T13:20:35.839Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
