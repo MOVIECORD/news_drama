@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-14T15:11:03.346Z</updated>
+    <updated>2022-01-14T16:13:26.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유승호·이혜리→임원희·정영주, 케미 대잔치 비하인드컷]]></title>
+        <id>https://entertain.v.daum.net/v/20220115010007835</id>
+        <link href="https://entertain.v.daum.net/v/20220115010007835"/>
+        <updated>2022-01-14T16:13:17.424Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 진선규, "프로파일러가 얼마나 중요한지 아냐" 과학수사 중요성 피력]]></title>
+        <id>https://entertain.v.daum.net/v/20220115005401818</id>
+        <link href="https://entertain.v.daum.net/v/20220115005401818"/>
+        <updated>2022-01-14T16:13:17.424Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배앤크' 이동욱, 과거 기억 떠올랐다 "父 죽인 진범 정윤호"]]></title>
+        <id>https://entertain.v.daum.net/v/20220115002401703</id>
+        <link href="https://entertain.v.daum.net/v/20220115002401703"/>
+        <updated>2022-01-14T16:13:17.426Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '악의 마음' 진선규, 김남길에 프로파일러 제안]]></title>
         <id>https://entertain.v.daum.net/v/20220114235019421</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220114221626756"/>
         <updated>2022-01-14T13:20:35.839Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완, 손현주에 맞서? 대회의실 들이닥치나]]></title>
-        <id>https://entertain.v.daum.net/v/20220114221538753</id>
-        <link href="https://entertain.v.daum.net/v/20220114221538753"/>
-        <updated>2022-01-14T13:20:35.840Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '악의 마음을 읽는 자들' 반드시 봐야하는 이유4]]></title>
-        <id>https://entertain.v.daum.net/v/20220114221513751</id>
-        <link href="https://entertain.v.daum.net/v/20220114221513751"/>
-        <updated>2022-01-14T13:20:35.840Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완, 저돌적인 선전포고..손현주와 불꽃 심리전]]></title>
-        <id>https://entertain.v.daum.net/v/20220114220512664</id>
-        <link href="https://entertain.v.daum.net/v/20220114220512664"/>
-        <updated>2022-01-14T13:20:35.843Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
