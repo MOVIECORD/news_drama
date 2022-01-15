@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-15T07:10:53.582Z</updated>
+    <updated>2022-01-15T08:13:01.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쇼윈도:여왕의집' 송윤아·이성재·전소민·황찬성이 직접 뽑은 명장면 넷]]></title>
+        <id>https://entertain.v.daum.net/v/20220115170134387</id>
+        <link href="https://entertain.v.daum.net/v/20220115170134387"/>
+        <updated>2022-01-15T08:12:52.666Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정공법 택한 '악의 마음', 자극보다 센 공감의 힘이라는 건]]></title>
         <id>https://entertain.v.daum.net/v/20220115160625793</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220115134039479"/>
         <updated>2022-01-15T05:11:56.043Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 유승호X이혜리X변우석, 불붙은 삼각관계 로맨스]]></title>
-        <id>https://entertain.v.daum.net/v/20220115134003471</id>
-        <link href="https://entertain.v.daum.net/v/20220115134003471"/>
-        <updated>2022-01-15T05:11:56.044Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
