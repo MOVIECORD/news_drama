@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-15T09:10:47.673Z</updated>
+    <updated>2022-01-15T10:11:14.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 주상욱vs예지원, 극단적으로 치닫는 갈등]]></title>
+        <id>https://entertain.v.daum.net/v/20220115181807157</id>
+        <link href="https://entertain.v.daum.net/v/20220115181807157"/>
+        <updated>2022-01-15T10:11:05.705Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 예지원, 권력 향한 끝없는 욕망..주상욱과 갈등 최고조]]></title>
+        <id>https://entertain.v.daum.net/v/20220115181128095</id>
+        <link href="https://entertain.v.daum.net/v/20220115181128095"/>
+        <updated>2022-01-15T10:11:05.706Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱→공승연, 폭풍전야 파티..이준, 서슬퍼런 눈빛]]></title>
         <id>https://entertain.v.daum.net/v/20220115174800902</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220115141924808"/>
         <updated>2022-01-15T06:13:01.612Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 달라진 임시완 수상한 움직임, 관계 변화 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220115140705717</id>
-        <link href="https://entertain.v.daum.net/v/20220115140705717"/>
-        <updated>2022-01-15T05:11:56.042Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엉클', 매회 시청률 상승.."오정세 열연 덕분 완벽한 장면 탄생"]]></title>
-        <id>https://entertain.v.daum.net/v/20220115135823634</id>
-        <link href="https://entertain.v.daum.net/v/20220115135823634"/>
-        <updated>2022-01-15T05:11:56.042Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
