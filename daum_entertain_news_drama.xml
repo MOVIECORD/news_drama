@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-16T07:10:53.818Z</updated>
+    <updated>2022-01-16T08:13:08.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 변우석 "능청스러움 안에 담긴 진정성 보여주고 싶어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220116170412571</id>
+        <link href="https://entertain.v.daum.net/v/20220116170412571"/>
+        <updated>2022-01-16T08:13:00.818Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송윤아 "'그 남자 가져' 한 마디, 파국의 시작이었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220116165023325</id>
+        <link href="https://entertain.v.daum.net/v/20220116165023325"/>
+        <updated>2022-01-16T08:13:00.819Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 주상욱, '명나라 파견'에 예지원 향한 분노 증폭]]></title>
+        <id>https://entertain.v.daum.net/v/20220116163326018</id>
+        <link href="https://entertain.v.daum.net/v/20220116163326018"/>
+        <updated>2022-01-16T08:13:00.819Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃달' 변우석 "'난 다 괜찮아'라고 배려해주는 유승호, 감사"]]></title>
         <id>https://entertain.v.daum.net/v/20220116160830608</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220116122801456"/>
         <updated>2022-01-16T04:13:29.933Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소녀의 세계' 한채경 "오마이걸 아린→최예나, 색다른 호흡 재밌어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220116120828280</id>
-        <link href="https://entertain.v.daum.net/v/20220116120828280"/>
-        <updated>2022-01-16T03:13:36.049Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 이용당한 정해인, 장승조와 손잡았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220116114726870</id>
-        <link href="https://entertain.v.daum.net/v/20220116114726870"/>
-        <updated>2022-01-16T03:13:36.050Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엉클' 충격에 빠진 오정세, 최고 시청률 7.9%까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220116112538581</id>
-        <link href="https://entertain.v.daum.net/v/20220116112538581"/>
-        <updated>2022-01-16T03:13:36.054Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
