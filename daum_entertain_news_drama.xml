@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-16T06:12:55.873Z</updated>
+    <updated>2022-01-16T07:10:53.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 변우석 "'난 다 괜찮아'라고 배려해주는 유승호, 감사"]]></title>
+        <id>https://entertain.v.daum.net/v/20220116160830608</id>
+        <link href="https://entertain.v.daum.net/v/20220116160830608"/>
+        <updated>2022-01-16T07:10:45.918Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고' 변우석 "유승호의 배려, '하고 싶은 대로 하라'고"]]></title>
+        <id>https://entertain.v.daum.net/v/20220116155948429</id>
+        <link href="https://entertain.v.daum.net/v/20220116155948429"/>
+        <updated>2022-01-16T07:10:45.919Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혜진 vs 정수영, 격노의 따귀 날렸다..순식간에 아수라장]]></title>
         <id>https://entertain.v.daum.net/v/20220116151233630</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220116112538581"/>
         <updated>2022-01-16T03:13:36.054Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엉클' 전혜진, 엄마라는 이름의 약자..애틋하게 그려낸 감동적인 모성애]]></title>
-        <id>https://entertain.v.daum.net/v/20220116112039505</id>
-        <link href="https://entertain.v.daum.net/v/20220116112039505"/>
-        <updated>2022-01-16T03:13:36.054Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨강구두' 한채경 "첫 악역 연기, 빌런 고민 많이 했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220116111456396</id>
-        <link href="https://entertain.v.daum.net/v/20220116111456396"/>
-        <updated>2022-01-16T03:13:36.054Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
