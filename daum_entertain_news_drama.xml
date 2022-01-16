@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-16T08:13:08.647Z</updated>
+    <updated>2022-01-16T09:10:33.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내가 원하는 속도로.. OTT로 늘어난 '배속 시청']]></title>
+        <id>https://entertain.v.daum.net/v/20220116172235868</id>
+        <link href="https://entertain.v.daum.net/v/20220116172235868"/>
+        <updated>2022-01-16T09:10:24.207Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃달' 변우석 "능청스러움 안에 담긴 진정성 보여주고 싶어"]]></title>
         <id>https://entertain.v.daum.net/v/20220116170412571</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220116131006868"/>
         <updated>2022-01-16T04:13:29.933Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼전임신' 이하늬, 결혼 한달만에 임신 4개월..축하 받는 '39세 엄마']]></title>
-        <id>https://entertain.v.daum.net/v/20220116122801456</id>
-        <link href="https://entertain.v.daum.net/v/20220116122801456"/>
-        <updated>2022-01-16T04:13:29.933Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
