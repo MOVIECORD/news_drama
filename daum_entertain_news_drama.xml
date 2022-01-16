@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-16T15:10:50.307Z</updated>
+    <updated>2022-01-16T16:15:18.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너의밤' 이준영, 정인선 쌍둥이 만났다 '충격'→김종현♥하영 이별]]></title>
+        <id>https://entertain.v.daum.net/v/20220117002200063</id>
+        <link href="https://entertain.v.daum.net/v/20220117002200063"/>
+        <updated>2022-01-16T16:15:06.402Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엉클' 전혜진, 정수영에 분노의 따귀 "네가 그러고도 엄마냐"]]></title>
         <id>https://entertain.v.daum.net/v/20220116235731785</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220116215130935"/>
         <updated>2022-01-16T13:19:01.443Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라, 이진욱 집 밀실에 숨어 이준 따돌렸다]]></title>
-        <id>https://entertain.v.daum.net/v/20220116215121931</id>
-        <link href="https://entertain.v.daum.net/v/20220116215121931"/>
-        <updated>2022-01-16T13:19:01.443Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
