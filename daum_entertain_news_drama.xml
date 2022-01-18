@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-18T12:17:46.930Z</updated>
+    <updated>2022-01-18T13:21:30.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그해 우리는' 최우식, 김다미에 "우리 왜 헤어졌어?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220118221555671</id>
+        <link href="https://entertain.v.daum.net/v/20220118221555671"/>
+        <updated>2022-01-18T13:21:21.207Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃피면' 혜리, 유승호와 키스 "없었던 일로"]]></title>
+        <id>https://entertain.v.daum.net/v/20220118221102642</id>
+        <link href="https://entertain.v.daum.net/v/20220118221102642"/>
+        <updated>2022-01-18T13:21:21.214Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 장세현, 윤다훈X김진엽 유전자 불일치 확인]]></title>
         <id>https://entertain.v.daum.net/v/20220118204957376</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220118175001707</id>
         <link href="https://entertain.v.daum.net/v/20220118175001707"/>
         <updated>2022-01-18T09:11:39.362Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지훈x김범, 드디어 공조 시작 첫 행보는? 착잡한 얼굴→웃음 가득]]></title>
-        <id>https://entertain.v.daum.net/v/20220118174306498</id>
-        <link href="https://entertain.v.daum.net/v/20220118174306498"/>
-        <updated>2022-01-18T09:11:39.363Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숏컷 아닌 긴머리 마녀 시절..송지효, '마녀식당' 입소문 제대로]]></title>
-        <id>https://entertain.v.daum.net/v/20220118174230481</id>
-        <link href="https://entertain.v.daum.net/v/20220118174230481"/>
-        <updated>2022-01-18T09:11:39.363Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
