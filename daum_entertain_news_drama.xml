@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-18T16:16:24.481Z</updated>
+    <updated>2022-01-18T17:22:29.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종영' 송윤아, 이성재·전소민 단죄.."진짜 나를 살 거야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220119014940000</id>
+        <link href="https://entertain.v.daum.net/v/20220119014940000"/>
+        <updated>2022-01-18T17:22:20.631Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '쇼윈도' 송윤아, 전소민 용서..이성재, 죽음으로 죗값 치렀다]]></title>
         <id>https://entertain.v.daum.net/v/20220119001513612</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220118224333913"/>
         <updated>2022-01-18T14:10:24.336Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃피면' 혜리, 서예화에 관비 탈출 약속 지켰다.."어디든 가"]]></title>
-        <id>https://entertain.v.daum.net/v/20220118222830758</id>
-        <link href="https://entertain.v.daum.net/v/20220118222830758"/>
-        <updated>2022-01-18T14:10:24.337Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
