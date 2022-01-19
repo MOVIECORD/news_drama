@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-19T09:10:48.471Z</updated>
+    <updated>2022-01-19T10:10:43.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[woo!ah! 나나, '현실 100%' 연애 세포 자극하는 연기돌]]></title>
+        <id>https://entertain.v.daum.net/v/20220119182223441</id>
+        <link href="https://entertain.v.daum.net/v/20220119182223441"/>
+        <updated>2022-01-19T10:10:34.796Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리지아 소속사 대표 "트리마제 집 1원도 안 보태..허위유포 법적 조치"]]></title>
         <id>https://entertain.v.daum.net/v/20220119180724073</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220119155615963</id>
         <link href="https://entertain.v.daum.net/v/20220119155615963"/>
         <updated>2022-01-19T07:08:17.024Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['주접이 풍년' 장민호 "강수지, 심하게 좋아했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220119154821609</id>
-        <link href="https://entertain.v.daum.net/v/20220119154821609"/>
-        <updated>2022-01-19T07:08:17.034Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
