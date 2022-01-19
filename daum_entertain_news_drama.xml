@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-19T19:08:55.418Z</updated>
+    <updated>2022-01-19T20:12:03.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁, 장민호 결혼 걱정 "나이 마흔, 임영웅 세대 차이 난다고 놀려" 쓴웃음]]></title>
+        <id>https://entertain.v.daum.net/v/20220120050003685</id>
+        <link href="https://entertain.v.daum.net/v/20220120050003685"/>
+        <updated>2022-01-19T20:11:54.526Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강동한 VP "2022 넷플릭스 신작 25편..한국 위상 전과 달라"]]></title>
         <id>https://entertain.v.daum.net/v/20220120040008465</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220119191612582"/>
         <updated>2022-01-19T11:08:58.636Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[woo!ah! 나나, '현실 100%' 연애 세포 자극하는 연기돌]]></title>
-        <id>https://entertain.v.daum.net/v/20220119182223441</id>
-        <link href="https://entertain.v.daum.net/v/20220119182223441"/>
-        <updated>2022-01-19T10:10:34.796Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
