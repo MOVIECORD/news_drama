@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-20T10:10:48.330Z</updated>
+    <updated>2022-01-20T11:09:17.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 살인죄로 경찰서 연행]]></title>
+        <id>https://entertain.v.daum.net/v/20220120200428498</id>
+        <link href="https://entertain.v.daum.net/v/20220120200428498"/>
+        <updated>2022-01-20T11:09:09.126Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본판 '별에서 온 그대' 예고편 공개..누리꾼 "캐스팅 아쉽다"]]></title>
         <id>https://entertain.v.daum.net/v/20220120183913985</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220120154940132"/>
         <updated>2022-01-20T07:10:25.322Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가품 논란' 프리지아, 꼬리에 꼬리를 무는 의혹들]]></title>
-        <id>https://entertain.v.daum.net/v/20220120154115755</id>
-        <link href="https://entertain.v.daum.net/v/20220120154115755"/>
-        <updated>2022-01-20T07:10:25.323Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
