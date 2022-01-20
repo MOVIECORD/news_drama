@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-20T15:10:20.664Z</updated>
+    <updated>2022-01-20T16:14:45.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 수애, 서우진 친모가 이이담..'경악']]></title>
+        <id>https://entertain.v.daum.net/v/20220121001725206</id>
+        <link href="https://entertain.v.daum.net/v/20220121001725206"/>
+        <updated>2022-01-20T16:14:37.006Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 수애, '이이담=子서우진 친모'란 사실 알았다 "경악"]]></title>
         <id>https://entertain.v.daum.net/v/20220120234330901</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220120181324374"/>
         <updated>2022-01-20T10:10:39.805Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS '태종 이방원' 동물학대 논란 사과 "말 1주일 뒤 사망, 재발 방지할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220120181117322</id>
-        <link href="https://entertain.v.daum.net/v/20220120181117322"/>
-        <updated>2022-01-20T10:10:39.805Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
