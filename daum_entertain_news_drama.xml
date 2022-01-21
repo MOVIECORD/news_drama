@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-21T16:14:12.355Z</updated>
+    <updated>2022-01-21T17:13:31.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, "이 자가 범인이다"..프로파일링 토대로 범인 추적]]></title>
+        <id>https://entertain.v.daum.net/v/20220122020901853</id>
+        <link href="https://entertain.v.daum.net/v/20220122020901853"/>
+        <updated>2022-01-21T17:13:22.970Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, "다른 사람을 위해 길을 밝히는 마음"..신입 려운에 조언]]></title>
+        <id>https://entertain.v.daum.net/v/20220122011800671</id>
+        <link href="https://entertain.v.daum.net/v/20220122011800671"/>
+        <updated>2022-01-21T17:13:22.970Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배앤크' 위하준, 살인범 아니었다..드러난 정윤호 정체]]></title>
         <id>https://entertain.v.daum.net/v/20220122003830412</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220121222330391"/>
         <updated>2022-01-21T14:09:27.700Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 박지일, 조세 5국장 박용우 추천..손현주 "책임 질거냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220121222123375</id>
-        <link href="https://entertain.v.daum.net/v/20220121222123375"/>
-        <updated>2022-01-21T14:09:27.700Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 첫 프로파일링 수사.."범죄자들의 심리 연구"]]></title>
-        <id>https://entertain.v.daum.net/v/20220121221948359</id>
-        <link href="https://entertain.v.daum.net/v/20220121221948359"/>
-        <updated>2022-01-21T14:09:27.702Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
