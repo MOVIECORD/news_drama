@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-21T11:09:05.857Z</updated>
+    <updated>2022-01-21T12:16:06.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정·전지현도 못살린 '톱스타' 이름값, 손예진→김희선은 가능할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220121210002410</id>
+        <link href="https://entertain.v.daum.net/v/20220121210002410"/>
+        <updated>2022-01-21T12:15:56.916Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 고아성, 임시완과 또 정의 한 싸움 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220121205113284</id>
+        <link href="https://entertain.v.daum.net/v/20220121205113284"/>
+        <updated>2022-01-21T12:15:56.923Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 함은정, 김진엽에 편지 남겼다.."우리 아이야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220121204653220</id>
+        <link href="https://entertain.v.daum.net/v/20220121204653220"/>
+        <updated>2022-01-21T12:15:56.927Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 함은정 "김진엽 아들 키워도 돼?" 장세현과 결혼]]></title>
         <id>https://entertain.v.daum.net/v/20220121200615668</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220121174602128"/>
         <updated>2022-01-21T09:10:39.208Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 각종 논란 속 30일 앞당겨 종영 "15회·16회 연속 방송"]]></title>
-        <id>https://entertain.v.daum.net/v/20220121173945941</id>
-        <link href="https://entertain.v.daum.net/v/20220121173945941"/>
-        <updated>2022-01-21T09:10:39.216Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['응팔' '극한직업' 패러디..이동휘, 무아지경 웃음 유발]]></title>
-        <id>https://entertain.v.daum.net/v/20220121171449261</id>
-        <link href="https://entertain.v.daum.net/v/20220121171449261"/>
-        <updated>2022-01-21T09:10:39.216Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["동물학대 드라마 배우 아내" 차예련에게도 악플..'태종이방원' 거센 후폭풍]]></title>
-        <id>https://entertain.v.daum.net/v/20220121171408250</id>
-        <link href="https://entertain.v.daum.net/v/20220121171408250"/>
-        <updated>2022-01-21T09:10:39.217Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
