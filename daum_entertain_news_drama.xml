@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-21T07:10:02.259Z</updated>
+    <updated>2022-01-21T08:12:44.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음을 읽는 자들' 막내 려운 등장, 궁금증 UP]]></title>
+        <id>https://entertain.v.daum.net/v/20220121170319954</id>
+        <link href="https://entertain.v.daum.net/v/20220121170319954"/>
+        <updated>2022-01-21T08:12:35.554Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송지효 측 "'런닝맨' 불참..'양약 알러지'로 백신 미접종"]]></title>
+        <id>https://entertain.v.daum.net/v/20220121163544173</id>
+        <link href="https://entertain.v.daum.net/v/20220121163544173"/>
+        <updated>2022-01-21T08:12:35.576Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내 수신료로 말 죽여"..'태종 이방원' 폐지 청원→결방 사면초가]]></title>
+        <id>https://entertain.v.daum.net/v/20220121162031740</id>
+        <link href="https://entertain.v.daum.net/v/20220121162031740"/>
+        <updated>2022-01-21T08:12:35.576Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["죽기 싫다. 죽이고 싶지 않다"..'지금 우리 학교는']]></title>
+        <id>https://entertain.v.daum.net/v/20220121161654625</id>
+        <link href="https://entertain.v.daum.net/v/20220121161654625"/>
+        <updated>2022-01-21T08:12:35.576Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원', 22·23일 결방..동물 학대 논란 여파]]></title>
         <id>https://entertain.v.daum.net/v/20220121155215769</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220121141913053"/>
         <updated>2022-01-21T06:12:18.636Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배드 앤 크레이지' 이동욱, 캐릭터 몰입의 비결 대본X모니터링]]></title>
-        <id>https://entertain.v.daum.net/v/20220121141406930</id>
-        <link href="https://entertain.v.daum.net/v/20220121141406930"/>
-        <updated>2022-01-21T06:12:18.638Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련까지 쏟아진 악플 세례..'태종 이방원' 말 사망 논란 여파]]></title>
-        <id>https://entertain.v.daum.net/v/20220121141003827</id>
-        <link href="https://entertain.v.daum.net/v/20220121141003827"/>
-        <updated>2022-01-21T06:12:18.639Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X김범, 비범 형제의 남다른 케미 빛난 엔딩 BEST3]]></title>
-        <id>https://entertain.v.daum.net/v/20220121140548730</id>
-        <link href="https://entertain.v.daum.net/v/20220121140548730"/>
-        <updated>2022-01-21T05:09:05.871Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동물학대 논란' KBS '태종 이방원', 2주 결방]]></title>
-        <id>https://entertain.v.daum.net/v/20220121135613382</id>
-        <link href="https://entertain.v.daum.net/v/20220121135613382"/>
-        <updated>2022-01-21T05:09:05.873Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
