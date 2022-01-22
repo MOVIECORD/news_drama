@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-22T04:12:29.758Z</updated>
+    <updated>2022-01-22T05:09:16.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깨끗하지 않은 임시완에게 더욱 신뢰가 가는 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220122140803364</id>
+        <link href="https://entertain.v.daum.net/v/20220122140803364"/>
+        <updated>2022-01-22T05:09:08.052Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그 해 우리는' 종영까지 2회, 마지막까지 놓칠 수 없는 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220122134659183</id>
+        <link href="https://entertain.v.daum.net/v/20220122134659183"/>
+        <updated>2022-01-22T05:09:08.053Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배앤크' 위하준, 어린 이동욱 살린 구원자였다..정성일=살인 설계자]]></title>
         <id>https://entertain.v.daum.net/v/20220122130832824</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122104537480"/>
         <updated>2022-01-22T01:48:57.972Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음을 읽는 자들' 김남길X김소진, 역대급 긴장폭발 3회 엔딩 직후 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220122104217427</id>
-        <link href="https://entertain.v.daum.net/v/20220122104217427"/>
-        <updated>2022-01-22T01:48:57.982Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배드 앤 크레이지' 위하준, 어린 이동욱의 구원자..정성일=빌런]]></title>
-        <id>https://entertain.v.daum.net/v/20220122104200421</id>
-        <link href="https://entertain.v.daum.net/v/20220122104200421"/>
-        <updated>2022-01-22T01:48:57.982Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
