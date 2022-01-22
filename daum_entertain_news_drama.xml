@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-22T07:09:38.621Z</updated>
+    <updated>2022-01-22T08:12:46.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['배드 앤 크레이지' 이동욱, 이중인격 밝혀지나?..한지은 입맞춤→갈등]]></title>
+        <id>https://entertain.v.daum.net/v/20220122170453277</id>
+        <link href="https://entertain.v.daum.net/v/20220122170453277"/>
+        <updated>2022-01-22T08:12:37.651Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금 우리 학교는' 예고편 조회수 1000만 돌파, '오징어게임' 열풍 넘을까]]></title>
         <id>https://entertain.v.daum.net/v/20220122160005520</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122111011750"/>
         <updated>2022-01-22T02:24:11.281Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옛 드라마 VS 요즘 드라마 속 임신, 달라진 점은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220122110323699</id>
-        <link href="https://entertain.v.daum.net/v/20220122110323699"/>
-        <updated>2022-01-22T02:24:11.281Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
