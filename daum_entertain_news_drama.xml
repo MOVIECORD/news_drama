@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-22T02:24:20.388Z</updated>
+    <updated>2022-01-22T03:10:01.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주상욱→차예련, '태종 이방원' 동물 학대 논란에 SNS 댓글 테러 '몸살']]></title>
+        <id>https://entertain.v.daum.net/v/20220122115502213</id>
+        <link href="https://entertain.v.daum.net/v/20220122115502213"/>
+        <updated>2022-01-22T03:09:52.923Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['며느라기2' 김지성, 워킹맘 현실적 고민 토로..공감 UP]]></title>
+        <id>https://entertain.v.daum.net/v/20220122112627929</id>
+        <link href="https://entertain.v.daum.net/v/20220122112627929"/>
+        <updated>2022-01-22T03:09:52.924Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쪽 찐 머리에 소복 입은 권유리, 소녀시대 너머 배우로]]></title>
         <id>https://entertain.v.daum.net/v/20220122112022859</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122101331028"/>
         <updated>2022-01-22T01:48:57.993Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경훈 "연기 잘했다는 생각 안 들어..차별 있다면 고쳐야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220122100004838</id>
-        <link href="https://entertain.v.daum.net/v/20220122100004838"/>
-        <updated>2022-01-22T01:48:57.997Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완-고아성, 불꽃 튀는 상극 케미 8.7% 금토극 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220122095035769</id>
-        <link href="https://entertain.v.daum.net/v/20220122095035769"/>
-        <updated>2022-01-22T01:48:58.002Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
