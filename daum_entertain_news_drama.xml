@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-22T08:12:46.331Z</updated>
+    <updated>2022-01-22T09:09:58.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오정세가 박선영 집에 찾아간 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220122172204447</id>
+        <link href="https://entertain.v.daum.net/v/20220122172204447"/>
+        <updated>2022-01-22T09:09:49.604Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배드 앤 크레이지' 이동욱, 이중인격 밝혀지나?..한지은 입맞춤→갈등]]></title>
         <id>https://entertain.v.daum.net/v/20220122170453277</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122112022859"/>
         <updated>2022-01-22T02:24:11.278Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2..ing' 임산부 박하선, 성장일기 리얼해서 더 끌려]]></title>
-        <id>https://entertain.v.daum.net/v/20220122111011750</id>
-        <link href="https://entertain.v.daum.net/v/20220122111011750"/>
-        <updated>2022-01-22T02:24:11.281Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
