@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-22T09:09:58.073Z</updated>
+    <updated>2022-01-22T10:11:01.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음을 읽는 자들' 김남길→김소진, 토막살인사건 진범 잡을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220122181455975</id>
+        <link href="https://entertain.v.daum.net/v/20220122181455975"/>
+        <updated>2022-01-22T10:10:52.876Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오정세가 박선영 집에 찾아간 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220122172204447</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220122112627929"/>
         <updated>2022-01-22T03:09:52.924Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쪽 찐 머리에 소복 입은 권유리, 소녀시대 너머 배우로]]></title>
-        <id>https://entertain.v.daum.net/v/20220122112022859</id>
-        <link href="https://entertain.v.daum.net/v/20220122112022859"/>
-        <updated>2022-01-22T02:24:11.278Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
