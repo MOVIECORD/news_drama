@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-23T01:52:32.301Z</updated>
+    <updated>2022-01-23T02:23:21.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['배앤크' 이동욱, 짜릿한 전율 엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220123111624926</id>
+        <link href="https://entertain.v.daum.net/v/20220123111624926"/>
+        <updated>2022-01-23T02:23:13.368Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['설강화' 지수, 정해인 위해 온몸으로 막았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220123111230852</id>
+        <link href="https://entertain.v.daum.net/v/20220123111230852"/>
+        <updated>2022-01-23T02:23:13.370Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트레이서' 2049시청률 자체 최고 3.4%]]></title>
         <id>https://entertain.v.daum.net/v/20220123104500333</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220123091231077"/>
         <updated>2022-01-23T00:34:57.264Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식-김다미, 겨우 재회했는데.."예상 못한 시련"]]></title>
-        <id>https://entertain.v.daum.net/v/20220123090845035</id>
-        <link href="https://entertain.v.daum.net/v/20220123090845035"/>
-        <updated>2022-01-23T00:34:57.270Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 지수, 총격에 정해인 위해 온몸 던졌다 "사격 중지!"]]></title>
-        <id>https://entertain.v.daum.net/v/20220123090448003</id>
-        <link href="https://entertain.v.daum.net/v/20220123090448003"/>
-        <updated>2022-01-23T00:34:57.271Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
