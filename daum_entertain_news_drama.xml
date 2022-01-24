@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-24T15:10:25.220Z</updated>
+    <updated>2022-01-24T16:14:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한사람만' 안은진X김경남, 살인 용의자 수배]]></title>
+        <id>https://entertain.v.daum.net/v/20220125004156980</id>
+        <link href="https://entertain.v.daum.net/v/20220125004156980"/>
+        <updated>2022-01-24T16:14:36.094Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그해 우리는' 최우식, "넌 아무것도 망치지 않아"..자책하는 김다미 위로]]></title>
+        <id>https://entertain.v.daum.net/v/20220125003601956</id>
+        <link href="https://entertain.v.daum.net/v/20220125003601956"/>
+        <updated>2022-01-24T16:14:36.106Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한사람만' 김경남, 안은진에 "내가 기다렸던 사람" 고백]]></title>
         <id>https://entertain.v.daum.net/v/20220124235913660</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124224509249"/>
         <updated>2022-01-24T14:09:41.580Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃피달' 유승호, 이혜리와 극적으로 재회.. 강미나, 변우석 '왕세자' 정체 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220124224430245</id>
-        <link href="https://entertain.v.daum.net/v/20220124224430245"/>
-        <updated>2022-01-24T14:09:41.580Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 최우식♥김다미, 달달 실내 데이트..극과 극 속내?]]></title>
-        <id>https://entertain.v.daum.net/v/20220124223300148</id>
-        <link href="https://entertain.v.daum.net/v/20220124223300148"/>
-        <updated>2022-01-24T14:09:41.583Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
