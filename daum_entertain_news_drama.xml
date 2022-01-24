@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-24T02:33:17.045Z</updated>
+    <updated>2022-01-24T03:14:45.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승기, '법정 로맨스'로 컴백? "'법대로 사랑하라' 조율 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20220124113715170</id>
+        <link href="https://entertain.v.daum.net/v/20220124113715170"/>
+        <updated>2022-01-24T03:14:36.115Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기', 2막 시작..충격과 반전 관전 포인트]]></title>
         <id>https://entertain.v.daum.net/v/20220124113246994</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124101359235"/>
         <updated>2022-01-24T01:58:57.218Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 손예진-전미도-김지현, 마흔 앞둔 3인방 찐친 텐션]]></title>
-        <id>https://entertain.v.daum.net/v/20220124101209153</id>
-        <link href="https://entertain.v.daum.net/v/20220124101209153"/>
-        <updated>2022-01-24T01:58:57.218Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
