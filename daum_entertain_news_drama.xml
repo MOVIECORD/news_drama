@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-24T20:10:53.310Z</updated>
+    <updated>2022-01-24T21:07:54.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 이혜리, 유승호와 애틋 재회 눈물..입맞춤 예고로 '꽃길' 기대]]></title>
+        <id>https://entertain.v.daum.net/v/20220125060000888</id>
+        <link href="https://entertain.v.daum.net/v/20220125060000888"/>
+        <updated>2022-01-24T21:07:45.697Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최우식 품에서 울음 터진 김다미 "나 진짜 힘들어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220125052006635</id>
+        <link href="https://entertain.v.daum.net/v/20220125052006635"/>
+        <updated>2022-01-24T21:07:45.701Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김다미, 최우식과 평화로운 한때 "이렇게 행복하면 꼭 불안해져"]]></title>
+        <id>https://entertain.v.daum.net/v/20220125051209562</id>
+        <link href="https://entertain.v.daum.net/v/20220125051209562"/>
+        <updated>2022-01-24T21:07:45.701Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한사람만' 안은진X김경남, 살인 용의자 수배]]></title>
         <id>https://entertain.v.daum.net/v/20220125004156980</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220124225242285"/>
         <updated>2022-01-24T14:09:41.579Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해 우리는' 김다미, 최우식 선물에 "예쁘다 고마워" 감동]]></title>
-        <id>https://entertain.v.daum.net/v/20220124225012275</id>
-        <link href="https://entertain.v.daum.net/v/20220124225012275"/>
-        <updated>2022-01-24T14:09:41.579Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 유승호, 죽지 않았다..이혜리와 애틋 재회 "잡았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220124224749264</id>
-        <link href="https://entertain.v.daum.net/v/20220124224749264"/>
-        <updated>2022-01-24T14:09:41.580Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안희연, 특별출연..정지훈과 10년 전 인연]]></title>
-        <id>https://entertain.v.daum.net/v/20220124224509249</id>
-        <link href="https://entertain.v.daum.net/v/20220124224509249"/>
-        <updated>2022-01-24T14:09:41.580Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
