@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-25T08:12:47.277Z</updated>
+    <updated>2022-01-25T09:10:17.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기계적으로 일하고 있다" 느낀 순간, 이준영의 통렬한 자기반성]]></title>
+        <id>https://entertain.v.daum.net/v/20220125175706748</id>
+        <link href="https://entertain.v.daum.net/v/20220125175706748"/>
+        <updated>2022-01-25T09:10:09.148Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터'.. 평균치 인성 정지훈·김범의 티키타카 영웅행보 볼 만]]></title>
         <id>https://entertain.v.daum.net/v/20220125171108039</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220125144303965</id>
         <link href="https://entertain.v.daum.net/v/20220125144303965"/>
         <updated>2022-01-25T06:12:03.428Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지훈·김범·유이에게 닥친 시련..왜?]]></title>
-        <id>https://entertain.v.daum.net/v/20220125144041874</id>
-        <link href="https://entertain.v.daum.net/v/20220125144041874"/>
-        <updated>2022-01-25T06:12:03.429Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
