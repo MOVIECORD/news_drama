@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-25T10:11:22.967Z</updated>
+    <updated>2022-01-25T11:08:24.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 정성모, 엄현경 아들 정민준→한기웅 폭행]]></title>
+        <id>https://entertain.v.daum.net/v/20220125194251811</id>
+        <link href="https://entertain.v.daum.net/v/20220125194251811"/>
+        <updated>2022-01-25T11:08:15.448Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째 남편' 정민준 실종..엄현경X지수원 '혼비백산']]></title>
+        <id>https://entertain.v.daum.net/v/20220125192757627</id>
+        <link href="https://entertain.v.daum.net/v/20220125192757627"/>
+        <updated>2022-01-25T11:08:15.448Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["기계적으로 일하고 있다" 느낀 순간, 이준영의 통렬한 자기반성]]></title>
         <id>https://entertain.v.daum.net/v/20220125175706748</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220125150411813"/>
         <updated>2022-01-25T06:12:03.424Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X김범X유이, 행복과 불행 사이 세 사람]]></title>
-        <id>https://entertain.v.daum.net/v/20220125145721450</id>
-        <link href="https://entertain.v.daum.net/v/20220125145721450"/>
-        <updated>2022-01-25T06:12:03.425Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승호, 심쿵 엔딩 긴 여운]]></title>
-        <id>https://entertain.v.daum.net/v/20220125144303965</id>
-        <link href="https://entertain.v.daum.net/v/20220125144303965"/>
-        <updated>2022-01-25T06:12:03.428Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
