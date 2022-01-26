@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-26T10:11:00.318Z</updated>
+    <updated>2022-01-26T11:10:02.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 子정민준 되찾았다..한기웅 "난 자격 없다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220126195253765</id>
+        <link href="https://entertain.v.daum.net/v/20220126195253765"/>
+        <updated>2022-01-26T11:09:54.273Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째 남편' 정성모 눈물 "오승아, 얼마나 암담했으면.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220126191935265</id>
+        <link href="https://entertain.v.daum.net/v/20220126191935265"/>
+        <updated>2022-01-26T11:09:54.276Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호 길 꿈꾸는 강다니엘..러브콜 거절하더니 연기 시작한 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220126190701109</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220126163357639"/>
         <updated>2022-01-26T08:12:04.180Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안동구 "최우식 너무 좋아하고 존경.. 내 20대 기억날 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20220126162905465</id>
-        <link href="https://entertain.v.daum.net/v/20220126162905465"/>
-        <updated>2022-01-26T08:12:04.193Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그해우리는' 최우식 "10년만 내세울 수 있는 멜로..이제 시작"]]></title>
-        <id>https://entertain.v.daum.net/v/20220126162408297</id>
-        <link href="https://entertain.v.daum.net/v/20220126162408297"/>
-        <updated>2022-01-26T08:12:04.193Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
