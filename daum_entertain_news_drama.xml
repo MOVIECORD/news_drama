@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-27T13:16:30.740Z</updated>
+    <updated>2022-01-27T14:11:13.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 이이담, 돈봉투 내미는 수애에 "그 돈으로 서우진 키울 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220127225330411</id>
+        <link href="https://entertain.v.daum.net/v/20220127225330411"/>
+        <updated>2022-01-27T14:11:03.875Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그해 우리는' 최우식→김다미, 다큐로 전한 속마음.. 최고의 선물이 된 피날레]]></title>
+        <id>https://entertain.v.daum.net/v/20220127222300076</id>
+        <link href="https://entertain.v.daum.net/v/20220127222300076"/>
+        <updated>2022-01-27T14:11:03.875Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[함은정, 유서 찢었다 거짓말.. "절대 내 재산 못 뺏겨"]]></title>
         <id>https://entertain.v.daum.net/v/20220127212958343</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220127175359556"/>
         <updated>2022-01-27T09:11:12.422Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진주 "박서준, '잘한다'고 문자..이런 애 아닌데"]]></title>
-        <id>https://entertain.v.daum.net/v/20220127175023425</id>
-        <link href="https://entertain.v.daum.net/v/20220127175023425"/>
-        <updated>2022-01-27T09:11:12.422Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그 해 우리는' 작가 "최우식♥김다미=캐스팅 1순위..두려움 多"]]></title>
-        <id>https://entertain.v.daum.net/v/20220127175002399</id>
-        <link href="https://entertain.v.daum.net/v/20220127175002399"/>
-        <updated>2022-01-27T09:11:12.430Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
