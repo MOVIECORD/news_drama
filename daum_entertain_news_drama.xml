@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-27T12:16:17.989Z</updated>
+    <updated>2022-01-27T13:16:30.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함은정, 유서 찢었다 거짓말.. "절대 내 재산 못 뺏겨"]]></title>
+        <id>https://entertain.v.daum.net/v/20220127212958343</id>
+        <link href="https://entertain.v.daum.net/v/20220127212958343"/>
+        <updated>2022-01-27T13:16:22.116Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국가대표 와이프' 금보라, 신승환에 "안석환과 남은 생 함께 하고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20220127211832170</id>
+        <link href="https://entertain.v.daum.net/v/20220127211832170"/>
+        <updated>2022-01-27T13:16:22.116Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가대표 와이프' 신승환, 금보라에 "안석환과 결혼 포기해달라"]]></title>
         <id>https://entertain.v.daum.net/v/20220127205951828</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220127175002399"/>
         <updated>2022-01-27T09:11:12.430Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좋좋소' 이과장, 강성훈과 신경전→급발진 분노..살벌한 삼자대면]]></title>
-        <id>https://entertain.v.daum.net/v/20220127173141725</id>
-        <link href="https://entertain.v.daum.net/v/20220127173141725"/>
-        <updated>2022-01-27T09:11:12.431Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴에도 '집콕' 지상파-케이블-OTT 골라보는 재미]]></title>
-        <id>https://entertain.v.daum.net/v/20220127172234339</id>
-        <link href="https://entertain.v.daum.net/v/20220127172234339"/>
-        <updated>2022-01-27T09:11:12.431Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
