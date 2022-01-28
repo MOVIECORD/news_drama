@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T17:13:13.404Z</updated>
+    <updated>2022-01-28T18:11:49.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, "모든 것이 드러 맞아"..연쇄 살인 시작에 '긴장']]></title>
+        <id>https://entertain.v.daum.net/v/20220129030901980</id>
+        <link href="https://entertain.v.daum.net/v/20220129030901980"/>
+        <updated>2022-01-28T18:11:40.020Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배드 앤 크레이지' 이동욱, 위하준과 이별..똘끼 충만 정의 경찰 됐다]]></title>
         <id>https://entertain.v.daum.net/v/20220129010650660</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128222736671"/>
         <updated>2022-01-28T14:09:31.567Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의마음' 김남길X진선규, 죄책감 없는 우정국 심리 파악]]></title>
-        <id>https://entertain.v.daum.net/v/20220128222605645</id>
-        <link href="https://entertain.v.daum.net/v/20220128222605645"/>
-        <updated>2022-01-28T14:09:31.568Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
