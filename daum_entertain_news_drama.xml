@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T10:11:32.067Z</updated>
+    <updated>2022-01-28T11:09:06.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 윤재경, 살아있었다..절대 죽지 않는 여자]]></title>
+        <id>https://entertain.v.daum.net/v/20220128194014481</id>
+        <link href="https://entertain.v.daum.net/v/20220128194014481"/>
+        <updated>2022-01-28T11:08:57.685Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 봉선화, 이상숙에게 지수원 친딸 소식 "설마 내 엄마?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220128192526316</id>
+        <link href="https://entertain.v.daum.net/v/20220128192526316"/>
+        <updated>2022-01-28T11:08:57.685Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하승리, 넷플릭스 '지금 우리 학교는'에서 첫 액션 연기 도전]]></title>
         <id>https://entertain.v.daum.net/v/20220128183235684</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128153001175"/>
         <updated>2022-01-28T07:10:02.552Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 이이담, 고밀도 심리 묘사..극 몰입도 높인다]]></title>
-        <id>https://entertain.v.daum.net/v/20220128152122983</id>
-        <link href="https://entertain.v.daum.net/v/20220128152122983"/>
-        <updated>2022-01-28T07:10:02.552Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경찰수업' 곽시양, 죽음으로 강렬 임팩트..특별출연에도 존재감 입증]]></title>
-        <id>https://entertain.v.daum.net/v/20220128151429819</id>
-        <link href="https://entertain.v.daum.net/v/20220128151429819"/>
-        <updated>2022-01-28T07:10:02.553Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
