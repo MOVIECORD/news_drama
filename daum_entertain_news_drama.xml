@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T03:10:20.867Z</updated>
+    <updated>2022-01-28T04:13:03.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, 멱살잡이..왜 이토록 분노했나]]></title>
+        <id>https://entertain.v.daum.net/v/20220128130610300</id>
+        <link href="https://entertain.v.daum.net/v/20220128130610300"/>
+        <updated>2022-01-28T04:12:54.733Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그 해 우리는' 김다미, 뜨겁게 남긴 청춘기록]]></title>
+        <id>https://entertain.v.daum.net/v/20220128130158187</id>
+        <link href="https://entertain.v.daum.net/v/20220128130158187"/>
+        <updated>2022-01-28T04:12:54.735Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유세윤 "'너목보9' 연출 소름, MC들도 출연자 정체 몰라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220128122647646</id>
+        <link href="https://entertain.v.daum.net/v/20220128122647646"/>
+        <updated>2022-01-28T04:12:54.737Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너목보9' 김종국 "촬영 때 처음으로 뒷목 잡아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220128121631480</id>
+        <link href="https://entertain.v.daum.net/v/20220128121631480"/>
+        <updated>2022-01-28T04:12:54.738Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈주 이특 "노래방에서 '너목보' 오디션 본 적 있어"]]></title>
         <id>https://entertain.v.daum.net/v/20220128120132178</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128102943229"/>
         <updated>2022-01-28T01:53:35.070Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길X진선규, 창의동 사건 진범 대면]]></title>
-        <id>https://entertain.v.daum.net/v/20220128102838194</id>
-        <link href="https://entertain.v.daum.net/v/20220128102838194"/>
-        <updated>2022-01-28T01:53:35.080Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실신한 손예진, 시한부 연기하나..몸부림치는 전미도까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220128102103918</id>
-        <link href="https://entertain.v.daum.net/v/20220128102103918"/>
-        <updated>2022-01-28T01:53:35.080Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 유승호♥이혜리, 첫 입맞춤→입술 도장..애정신 비하인드]]></title>
-        <id>https://entertain.v.daum.net/v/20220128101429673</id>
-        <link href="https://entertain.v.daum.net/v/20220128101429673"/>
-        <updated>2022-01-28T01:53:35.080Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈∙김범, '비범'한 브로맨스]]></title>
-        <id>https://entertain.v.daum.net/v/20220128100729379</id>
-        <link href="https://entertain.v.daum.net/v/20220128100729379"/>
-        <updated>2022-01-28T01:53:35.080Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
