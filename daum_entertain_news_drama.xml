@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T15:10:45.258Z</updated>
+    <updated>2022-01-28T16:14:31.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['배드 앤 크레이지' 이동욱, 위하준과 이별..똘끼 충만 정의 경찰 됐다]]></title>
+        <id>https://entertain.v.daum.net/v/20220129010650660</id>
+        <link href="https://entertain.v.daum.net/v/20220129010650660"/>
+        <updated>2022-01-28T16:14:23.099Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최종회 '배앤크' 이동욱, 정의로운 경찰 변신..위하준과 이별 "고마웠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220129003300502</id>
+        <link href="https://entertain.v.daum.net/v/20220129003300502"/>
+        <updated>2022-01-28T16:14:23.099Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연쇄살인범 등장" 김남길, 둔기+족적 일치.. 잔인한 수법에 '경악']]></title>
         <id>https://entertain.v.daum.net/v/20220129001020340</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['악의마음' 김남길X진선규, 두 번째 연쇄살인 발생]]></title>
+        <title type="html"><![CDATA['악의마음' 김남길X진선규, 연쇄 살인범 등장에 '충격']]></title>
         <id>https://entertain.v.daum.net/v/20220128233731107</id>
         <link href="https://entertain.v.daum.net/v/20220128233731107"/>
         <updated>2022-01-28T15:10:36.549Z</updated>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220128222605645</id>
         <link href="https://entertain.v.daum.net/v/20220128222605645"/>
         <updated>2022-01-28T14:09:31.568Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["걔가 재수가 없었지"..'악의 마음' 김남길·진선규, 살인범 말에 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220128221706565</id>
-        <link href="https://entertain.v.daum.net/v/20220128221706565"/>
-        <updated>2022-01-28T14:09:31.569Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 함은정 집 앞 이사→황신혜 "김진엽 호적에"]]></title>
-        <id>https://entertain.v.daum.net/v/20220128210412813</id>
-        <link href="https://entertain.v.daum.net/v/20220128210412813"/>
-        <updated>2022-01-28T12:15:04.079Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
