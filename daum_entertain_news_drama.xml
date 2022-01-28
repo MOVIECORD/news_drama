@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T05:10:51.376Z</updated>
+    <updated>2022-01-28T06:12:32.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://entertain.v.daum.net/v/20220128135232277"/>
         <updated>2022-01-28T05:10:43.314Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이충주, '썸씽로튼' 코로나19 확진 여파無..'공작도시' 화 피했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220128134842165</id>
+        <link href="https://entertain.v.daum.net/v/20220128134842165"/>
+        <updated>2022-01-28T06:12:23.819Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['배앤크' 이동욱, 인생 최대 위기..'비장한 눈빛']]></title>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220128105430332</id>
         <link href="https://entertain.v.daum.net/v/20220128105430332"/>
         <updated>2022-01-28T02:27:31.819Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손예진, 파리해진 얼굴로 실신.."역사상 신나는 시한부가 되어줘"]]></title>
-        <id>https://entertain.v.daum.net/v/20220128103841676</id>
-        <link href="https://entertain.v.daum.net/v/20220128103841676"/>
-        <updated>2022-01-28T01:53:35.070Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
