@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T09:10:40.154Z</updated>
+    <updated>2022-01-28T10:11:32.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하승리, 넷플릭스 '지금 우리 학교는'에서 첫 액션 연기 도전]]></title>
+        <id>https://entertain.v.daum.net/v/20220128183235684</id>
+        <link href="https://entertain.v.daum.net/v/20220128183235684"/>
+        <updated>2022-01-28T10:11:23.100Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하승리, '지금 우리 학교는' 출연.."양궁단 찾아 훈련"]]></title>
         <id>https://entertain.v.daum.net/v/20220128175837092</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128151429819"/>
         <updated>2022-01-28T07:10:02.553Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 이진욱x권나라, 복수→변화→역전..1천년 서사의 맛]]></title>
-        <id>https://entertain.v.daum.net/v/20220128135232277</id>
-        <link href="https://entertain.v.daum.net/v/20220128135232277"/>
-        <updated>2022-01-28T05:10:43.314Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
