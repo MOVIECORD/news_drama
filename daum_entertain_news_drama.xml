@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-28T07:10:11.232Z</updated>
+    <updated>2022-01-28T08:12:09.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그 해 우리는' 박진주, 용기가 만든 '인간 비타민']]></title>
+        <id>https://entertain.v.daum.net/v/20220128170158806</id>
+        <link href="https://entertain.v.daum.net/v/20220128170158806"/>
+        <updated>2022-01-28T08:12:01.116Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동욱, '배앤크' 종영소감 "제 연기 인생에 소중한 자양분"]]></title>
+        <id>https://entertain.v.daum.net/v/20220128165948707</id>
+        <link href="https://entertain.v.daum.net/v/20220128165948707"/>
+        <updated>2022-01-28T08:12:01.118Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조세호, 코로나19 확진 "부스터샷까지 맞았는데..활동 중단"]]></title>
+        <id>https://entertain.v.daum.net/v/20220128164406253</id>
+        <link href="https://entertain.v.daum.net/v/20220128164406253"/>
+        <updated>2022-01-28T08:12:01.118Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배드 앤 크레이지' 이동욱, 홀로 회의 긴급 소환..비장한 결의 눈빛]]></title>
+        <id>https://entertain.v.daum.net/v/20220128164030161</id>
+        <link href="https://entertain.v.daum.net/v/20220128164030161"/>
+        <updated>2022-01-28T08:12:01.119Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연기로 스토리에 숨통을 틔우는 진선규라는 배우]]></title>
         <id>https://entertain.v.daum.net/v/20220128160921305</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220128130158187"/>
         <updated>2022-01-28T04:12:54.735Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유세윤 "'너목보9' 연출 소름, MC들도 출연자 정체 몰라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220128122647646</id>
-        <link href="https://entertain.v.daum.net/v/20220128122647646"/>
-        <updated>2022-01-28T04:12:54.737Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너목보9' 김종국 "촬영 때 처음으로 뒷목 잡아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220128121631480</id>
-        <link href="https://entertain.v.daum.net/v/20220128121631480"/>
-        <updated>2022-01-28T04:12:54.738Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈주 이특 "노래방에서 '너목보' 오디션 본 적 있어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220128120132178</id>
-        <link href="https://entertain.v.daum.net/v/20220128120132178"/>
-        <updated>2022-01-28T03:10:11.932Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경훈·윤해빈·김하연·고경민·박시완 5人5色 활약]]></title>
-        <id>https://entertain.v.daum.net/v/20220128115605978</id>
-        <link href="https://entertain.v.daum.net/v/20220128115605978"/>
-        <updated>2022-01-28T03:10:11.932Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
