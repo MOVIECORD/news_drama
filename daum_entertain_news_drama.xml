@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-29T05:09:07.427Z</updated>
+    <updated>2022-01-29T06:11:58.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이시원, 마지막까지 오정세 지킬까]]></title>
+        <id>https://entertain.v.daum.net/v/20220129150943257</id>
+        <link href="https://entertain.v.daum.net/v/20220129150943257"/>
+        <updated>2022-01-29T06:11:49.714Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완X고아성 나쁜 돈 추적기, 이대로 실패?]]></title>
+        <id>https://entertain.v.daum.net/v/20220129140939617</id>
+        <link href="https://entertain.v.daum.net/v/20220129140939617"/>
+        <updated>2022-01-29T06:11:49.715Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 김남길X진선규, 연쇄살인 막기 위해 파격제안]]></title>
         <id>https://entertain.v.daum.net/v/20220129140422577</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220129110646919</id>
         <link href="https://entertain.v.daum.net/v/20220129110646919"/>
         <updated>2022-01-29T02:20:36.347Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱X위하준 '배드 앤 크레이지'가 남긴 넷]]></title>
-        <id>https://entertain.v.daum.net/v/20220129110604916</id>
-        <link href="https://entertain.v.daum.net/v/20220129110604916"/>
-        <updated>2022-01-29T02:20:36.347Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배앤크' 김대곤, 이동욱과 '열열' 형제 케미 "사랑해주셔서 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220129105515785</id>
-        <link href="https://entertain.v.daum.net/v/20220129105515785"/>
-        <updated>2022-01-29T02:20:36.348Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
