@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-29T16:13:22.724Z</updated>
+    <updated>2022-01-29T17:14:02.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, 연쇄살인마의 달라진 패턴에 '혼란'  ..새로운 살인범 출현]]></title>
+        <id>https://entertain.v.daum.net/v/20220130020000159</id>
+        <link href="https://entertain.v.daum.net/v/20220130020000159"/>
+        <updated>2022-01-29T17:13:53.326Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 김소진, "동료를 여자로 보는 편협하고 유치한 시각 한결같아"..서동갑에 분노]]></title>
         <id>https://entertain.v.daum.net/v/20220130010000051</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220129215738374</id>
         <link href="https://entertain.v.daum.net/v/20220129215738374"/>
         <updated>2022-01-29T13:11:44.875Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라, 이진욱과 닿으면 전생 떠올라..무슨 관계?]]></title>
-        <id>https://entertain.v.daum.net/v/20220129214925292</id>
-        <link href="https://entertain.v.daum.net/v/20220129214925292"/>
-        <updated>2022-01-29T13:11:44.879Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
