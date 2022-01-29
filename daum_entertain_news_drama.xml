@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-29T15:09:36.903Z</updated>
+    <updated>2022-01-29T16:13:22.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김소진, "동료를 여자로 보는 편협하고 유치한 시각 한결같아"..서동갑에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220130010000051</id>
+        <link href="https://entertain.v.daum.net/v/20220130010000051"/>
+        <updated>2022-01-29T16:13:14.595Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 김남길X진선규 어쩌나..연쇄살인범 검거 난항]]></title>
         <id>https://entertain.v.daum.net/v/20220129234841839</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220129214925292"/>
         <updated>2022-01-29T13:11:44.879Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라, 어깨 상처 생기고 전생기억 찾기 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220129214118216</id>
-        <link href="https://entertain.v.daum.net/v/20220129214118216"/>
-        <updated>2022-01-29T13:11:44.879Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
