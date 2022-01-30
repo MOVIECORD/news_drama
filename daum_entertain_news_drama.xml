@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-30T03:10:09.011Z</updated>
+    <updated>2022-01-30T04:12:37.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시청률이 다는 아냐..'한 사람만', 웰메이드 드라마]]></title>
+        <id>https://entertain.v.daum.net/v/20220130130002175</id>
+        <link href="https://entertain.v.daum.net/v/20220130130002175"/>
+        <updated>2022-01-30T04:12:28.303Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리 또 인생캐 추가하나..'스물다섯 스물하나' 레트로 티저 '대박 냄새']]></title>
         <id>https://entertain.v.daum.net/v/20220130115439488</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130093330664"/>
         <updated>2022-01-30T00:35:55.122Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음'.. 살인 자체가 목적인 살인, 누군가 멈추지 않으면 계속된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220130092000469</id>
-        <link href="https://entertain.v.daum.net/v/20220130092000469"/>
-        <updated>2022-01-30T00:35:55.122Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
