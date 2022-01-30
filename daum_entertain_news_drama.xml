@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-30T02:23:59.618Z</updated>
+    <updated>2022-01-30T03:10:09.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리 또 인생캐 추가하나..'스물다섯 스물하나' 레트로 티저 '대박 냄새']]></title>
+        <id>https://entertain.v.daum.net/v/20220130115439488</id>
+        <link href="https://entertain.v.daum.net/v/20220130115439488"/>
+        <updated>2022-01-30T03:10:00.496Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안은진→박수영, 카메라 꺼지면 어떤 모습? 친자매라 해도 믿겠어]]></title>
+        <id>https://entertain.v.daum.net/v/20220130112711238</id>
+        <link href="https://entertain.v.daum.net/v/20220130112711238"/>
+        <updated>2022-01-30T03:10:00.505Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불후' 최불암, 원어스 '범 내려온다' 무대에 극찬]]></title>
         <id>https://entertain.v.daum.net/v/20220130111609111</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130092000469"/>
         <updated>2022-01-30T00:35:55.122Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' 허준호, 딸 지수 배신..정해인 "인질들과 자폭" 명령에 충격]]></title>
-        <id>https://entertain.v.daum.net/v/20220130091953467</id>
-        <link href="https://entertain.v.daum.net/v/20220130091953467"/>
-        <updated>2022-01-30T00:35:55.123Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지우학' 이재규 감독 "2년 헌신한 결과, 전세계 1위 안 믿겨"]]></title>
-        <id>https://entertain.v.daum.net/v/20220130091645423</id>
-        <link href="https://entertain.v.daum.net/v/20220130091645423"/>
-        <updated>2022-01-30T00:35:55.124Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
