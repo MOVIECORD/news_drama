@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-30T15:09:46.704Z</updated>
+    <updated>2022-01-30T16:13:15.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['설강화' 말도 많고 탈도 많은 1년, '논쟁'만 남았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220131010006705</id>
+        <link href="https://entertain.v.daum.net/v/20220131010006705"/>
+        <updated>2022-01-30T16:13:07.818Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엉클' 오정세, 죽음 위기 딛고 딸바보 됐다..꽉 닫힌 해피엔딩]]></title>
         <id>https://entertain.v.daum.net/v/20220130231330360</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130201540421"/>
         <updated>2022-01-30T12:14:50.024Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와아가씨' 이일화, 이세희♥지현우 결사반대 "이건 아니지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220130201504418</id>
-        <link href="https://entertain.v.daum.net/v/20220130201504418"/>
-        <updated>2022-01-30T12:14:50.025Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
