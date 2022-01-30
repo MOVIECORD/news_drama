@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-30T14:09:05.859Z</updated>
+    <updated>2022-01-30T15:09:46.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엉클' 오정세, 죽음 위기 딛고 딸바보 됐다..꽉 닫힌 해피엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220130231330360</id>
+        <link href="https://entertain.v.daum.net/v/20220130231330360"/>
+        <updated>2022-01-30T15:09:38.897Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 권나라, 이진욱에 "내가 당신을 지켜주겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20220130223507213</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이종원, 탈출한 이세희 뒤쫓다 교통사고 '충격']]></title>
+        <title type="html"><![CDATA['신사와 아가씨' 이종원, 탈출한 이세희 뒤쫓다 오토바이 사고 '충격']]></title>
         <id>https://entertain.v.daum.net/v/20220130215002932</id>
         <link href="https://entertain.v.daum.net/v/20220130215002932"/>
         <updated>2022-01-30T13:11:24.715Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130201504418"/>
         <updated>2022-01-30T12:14:50.025Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이일화, 친모 정체 숨긴 채 이세희♥지현우 반대]]></title>
-        <id>https://entertain.v.daum.net/v/20220130200952366</id>
-        <link href="https://entertain.v.daum.net/v/20220130200952366"/>
-        <updated>2022-01-30T12:14:50.030Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
