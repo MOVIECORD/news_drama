@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-30T13:11:33.051Z</updated>
+    <updated>2022-01-30T14:09:05.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불가살' 권나라, 이진욱에 "내가 당신을 지켜주겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220130223507213</id>
+        <link href="https://entertain.v.daum.net/v/20220130223507213"/>
+        <updated>2022-01-30T14:08:57.809Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 이진욱, 박명신 죽음에 무너졌다 "내 딸이 죽었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220130223410199</id>
+        <link href="https://entertain.v.daum.net/v/20220130223410199"/>
+        <updated>2022-01-30T14:08:57.810Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱, 최재웅에 "전생에 악연..이번엔 그렇게 두지 않아"]]></title>
         <id>https://entertain.v.daum.net/v/20220130215526972</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220130200952366"/>
         <updated>2022-01-30T12:14:50.030Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는', 공개 하루 만에 전 세계 1위..'지옥' 이은 흥행]]></title>
-        <id>https://entertain.v.daum.net/v/20220130195048228</id>
-        <link href="https://entertain.v.daum.net/v/20220130195048228"/>
-        <updated>2022-01-30T11:07:51.360Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강다니엘 동기' 천영민 "설 연휴엔 가족과 함께 부산 바다로"]]></title>
-        <id>https://entertain.v.daum.net/v/20220130185704849</id>
-        <link href="https://entertain.v.daum.net/v/20220130185704849"/>
-        <updated>2022-01-30T10:10:03.768Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
