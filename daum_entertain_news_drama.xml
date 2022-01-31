@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-31T15:09:57.355Z</updated>
+    <updated>2022-01-31T16:14:11.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한 사람만' 김경남, 안은진에 "쓸데없는 희망 주면 안되나"]]></title>
+        <id>https://entertain.v.daum.net/v/20220201002743953</id>
+        <link href="https://entertain.v.daum.net/v/20220201002743953"/>
+        <updated>2022-01-31T16:14:03.423Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한 사람만' 박수영, 결혼 무산 위기? "내 행복 박살나는 것도 모르고"]]></title>
         <id>https://entertain.v.daum.net/v/20220201000011810</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220131154326215"/>
         <updated>2022-01-31T07:10:49.471Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터', 돌발 상황에 당황한 정지훈‧김범 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220131153151142</id>
-        <link href="https://entertain.v.daum.net/v/20220131153151142"/>
-        <updated>2022-01-31T07:10:49.476Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
