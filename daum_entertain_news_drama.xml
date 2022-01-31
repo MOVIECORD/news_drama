@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-31T09:10:26.248Z</updated>
+    <updated>2022-01-31T10:11:05.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 母 김성희에 "엄현경에 살해당했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220131190735007</id>
+        <link href="https://entertain.v.daum.net/v/20220131190735007"/>
+        <updated>2022-01-31T10:10:57.258Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '지금 학교 우리는' 이틀째 정상..오겜·지옥 인기 잇는다]]></title>
         <id>https://entertain.v.daum.net/v/20220131174513315</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220131140201239"/>
         <updated>2022-01-31T05:09:26.443Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어느 날'·'해피니스' 문예원 "신스틸러 칭찬 감사, 열일 하는 새해되길!"]]></title>
-        <id>https://entertain.v.daum.net/v/20220131140001180</id>
-        <link href="https://entertain.v.daum.net/v/20220131140001180"/>
-        <updated>2022-01-31T05:09:26.444Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
