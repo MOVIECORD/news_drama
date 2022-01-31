@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-01-31T14:09:38.889Z</updated>
+    <updated>2022-01-31T15:09:57.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한 사람만' 박수영, 결혼 무산 위기? "내 행복 박살나는 것도 모르고"]]></title>
+        <id>https://entertain.v.daum.net/v/20220201000011810</id>
+        <link href="https://entertain.v.daum.net/v/20220201000011810"/>
+        <updated>2022-01-31T15:09:49.089Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한 사람만' 김경남, 이봉련에 건넨 파일.."한규원과 엮을 유일 증거"]]></title>
+        <id>https://entertain.v.daum.net/v/20220131233159714</id>
+        <link href="https://entertain.v.daum.net/v/20220131233159714"/>
+        <updated>2022-01-31T15:09:49.092Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정지훈·김범, 예상치 못한 상황에 동공 지진]]></title>
         <id>https://entertain.v.daum.net/v/20220131195806365</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220131153151142"/>
         <updated>2022-01-31T07:10:49.476Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노란 리본 등장한 '지금 우리 학교는'에 해외 반응 폭발적이라는 건]]></title>
-        <id>https://entertain.v.daum.net/v/20220131150755963</id>
-        <link href="https://entertain.v.daum.net/v/20220131150755963"/>
-        <updated>2022-01-31T06:12:10.248Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 측 "정지훈x김범, 또 다른 공조..예상 못한 상황 맞는다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220131150327917</id>
-        <link href="https://entertain.v.daum.net/v/20220131150327917"/>
-        <updated>2022-01-31T06:12:10.249Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
