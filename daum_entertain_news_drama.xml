@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-01T05:10:05.283Z</updated>
+    <updated>2022-02-01T06:12:34.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스' 이세영, '옷소매' 이준호 휴대폰 배경화면 설정한 이유는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220201145549369</id>
+        <link href="https://entertain.v.daum.net/v/20220201145549369"/>
+        <updated>2022-02-01T06:12:26.586Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 풍파 가득했던 이이담 서사 완벽 정리]]></title>
         <id>https://entertain.v.daum.net/v/20220201135400737</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220201084732305"/>
         <updated>2022-02-01T00:37:45.904Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한사람만' 박수영, 살인사건 불똥으로 파혼..안은진♥︎김경남 배신?]]></title>
-        <id>https://entertain.v.daum.net/v/20220201084222257</id>
-        <link href="https://entertain.v.daum.net/v/20220201084222257"/>
-        <updated>2022-02-01T00:37:45.914Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>

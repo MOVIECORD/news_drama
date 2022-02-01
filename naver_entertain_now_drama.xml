@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=225</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 드라마</title>
-    <updated>2022-02-01T05:10:05.287Z</updated>
+    <updated>2022-02-01T06:12:34.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는' 46개국서 정상…사흘째 1위 수성]]></title>
+        <id>https://entertain.naver.com/now/read?oid=408&amp;aid=0000145073</id>
+        <link href="https://entertain.naver.com/now/read?oid=408&amp;aid=0000145073"/>
+        <updated>2022-02-01T06:12:34.092Z</updated>
+        <content type="html"><![CDATA['지금 우리 학교는'의 흥행 조짐이 심상치 않다. 1일 OTT 순위 집계 사이트 플릭스패트롤에 따르면 넷플릭스 오리지널 시리즈 '지금 우리 학교는'은 전날 기준 넷플릭스 TV프로그램 부문 전 세계 1위를 수성했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘공작도시’ 풍파 가득했던 이이담 서사 완벽 정리]]></title>
         <id>https://entertain.naver.com/now/read?oid=410&amp;aid=0000846897</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003025303"/>
         <updated>2022-01-31T21:08:40.327Z</updated>
         <content type="html"><![CDATA[-인터뷰①에 이어서 -한복 인터뷰를 한 적이 있더라고요. ▶네. 영화 '개를 훔치는 완벽한 방법' 출연했을 때요. 그때 제가 9살이었던 것 같아요. 빨간 치마를 입고 왔던 것 같아요. 아마 그때 처음 한복을 입었을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지원 "새해 목표? 학업·연기 병행..하고 싶은 게 많아" [한복 인터뷰③]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=108&amp;aid=0003025302</id>
-        <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003025302"/>
-        <updated>2022-01-31T21:08:40.327Z</updated>
-        <content type="html"><![CDATA[-인터뷰②에 이어서 -연기 활동을 계속하고 있으니까 학교생활에만 집중할 수 없는 점은 고민일 것 같아요. ▶그런 고민도 자주 해요. 부모님과 터 넣고 얘기하는 편이라 그런 얘기도 많이 해요. 공부도 좋아하고, 학교생]]></content>
     </entry>
 </feed>
