@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-01T13:14:15.336Z</updated>
+    <updated>2022-02-01T14:09:37.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 김범, 수술 도중 영혼 분리..태인호, 정지훈 정체 알아내]]></title>
+        <id>https://entertain.v.daum.net/v/20220201230737690</id>
+        <link href="https://entertain.v.daum.net/v/20220201230737690"/>
+        <updated>2022-02-01T14:09:28.724Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터'  김범, 사고 후 귀신 보기 시작 "8살 때부터"]]></title>
+        <id>https://entertain.v.daum.net/v/20220201222158475</id>
+        <link href="https://entertain.v.daum.net/v/20220201222158475"/>
+        <updated>2022-02-01T14:09:28.724Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트닥터' 김범 몸 속 정지훈, 태인호에 정체 폭로 "내가 차영민"]]></title>
         <id>https://entertain.v.daum.net/v/20220201221304429</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220201135007686"/>
         <updated>2022-02-01T05:09:57.137Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2' 최윤라 "첫 목표 20만뷰..사랑해주셔서 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220201135002681</id>
-        <link href="https://entertain.v.daum.net/v/20220201135002681"/>
-        <updated>2022-02-01T05:09:57.140Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 수민, '스테이션Z' 막방 소감 "추억 생겨 행복하고 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220201113540584</id>
-        <link href="https://entertain.v.daum.net/v/20220201113540584"/>
-        <updated>2022-02-01T03:10:00.224Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
