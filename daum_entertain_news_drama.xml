@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-01T11:09:14.973Z</updated>
+    <updated>2022-02-01T12:16:06.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비x유이, 하니 콘서트 데이트..김범x손나은은 심각]]></title>
+        <id>https://entertain.v.daum.net/v/20220201205042783</id>
+        <link href="https://entertain.v.daum.net/v/20220201205042783"/>
+        <updated>2022-02-01T12:15:57.378Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 차서원에 "비즈니스 관계" 이별 선언]]></title>
+        <id>https://entertain.v.daum.net/v/20220201203435637</id>
+        <link href="https://entertain.v.daum.net/v/20220201203435637"/>
+        <updated>2022-02-01T12:15:57.379Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 지수원, 엄현경에 무릎 꿇고 사과]]></title>
+        <id>https://entertain.v.daum.net/v/20220201202005498</id>
+        <link href="https://entertain.v.daum.net/v/20220201202005498"/>
+        <updated>2022-02-01T12:15:57.401Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 측 "오늘 9시10분 방송, 축구 중계 여파"]]></title>
         <id>https://entertain.v.daum.net/v/20220201175512459</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220201105217926"/>
         <updated>2022-02-01T01:56:35.245Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연 "'터널→배앤크'까지 피칠갑 등장..청춘물 끌려"]]></title>
-        <id>https://entertain.v.daum.net/v/20220201105015906</id>
-        <link href="https://entertain.v.daum.net/v/20220201105015906"/>
-        <updated>2022-02-01T01:56:35.251Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배앤크' 차학연 "재선♥경태 케미? 호평 감사..이동욱, 조언 多"]]></title>
-        <id>https://entertain.v.daum.net/v/20220201105010905</id>
-        <link href="https://entertain.v.daum.net/v/20220201105010905"/>
-        <updated>2022-02-01T01:56:35.251Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배앤크' 차학연 "무자비한 폭행신, 정신적으로 지쳐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220201105002901</id>
-        <link href="https://entertain.v.daum.net/v/20220201105002901"/>
-        <updated>2022-02-01T01:56:35.253Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
