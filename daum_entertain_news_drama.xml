@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-02T02:24:55.028Z</updated>
+    <updated>2022-02-02T03:10:15.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강다니엘X채수빈, 달콤한 첫 휴가에 무슨 일?..]]></title>
+        <id>https://entertain.v.daum.net/v/20220202113334569</id>
+        <link href="https://entertain.v.daum.net/v/20220202113334569"/>
+        <updated>2022-02-02T03:10:04.448Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["살고 싶어", 안은진 터져버린 마음+눈물]]></title>
         <id>https://entertain.v.daum.net/v/20220202110355069</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220202085003710"/>
         <updated>2022-02-02T00:37:32.290Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 사람만' 안은진♥김경남, 경찰 연행..사면초가 엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20220202082342446</id>
-        <link href="https://entertain.v.daum.net/v/20220202082342446"/>
-        <updated>2022-02-02T00:37:32.291Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
