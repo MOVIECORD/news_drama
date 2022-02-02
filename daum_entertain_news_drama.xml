@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-02T14:09:36.741Z</updated>
+    <updated>2022-02-02T15:10:34.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 김미숙, 이이담 살해하고 이충주에 누명 씌워.. 수애, 다 잃었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220202234431433</id>
+        <link href="https://entertain.v.daum.net/v/20220202234431433"/>
+        <updated>2022-02-02T15:10:26.222Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이학주, 김미숙에 의문의 봉투 공개..불편한 만남]]></title>
         <id>https://entertain.v.daum.net/v/20220202224011172</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220202140528276"/>
         <updated>2022-02-02T05:09:41.000Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삶-죽음 고찰하는 '한 사람만' 인생드라마 꼽히는 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20220202140050201</id>
-        <link href="https://entertain.v.daum.net/v/20220202140050201"/>
-        <updated>2022-02-02T05:09:41.013Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
