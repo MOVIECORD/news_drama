@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-02T03:10:15.143Z</updated>
+    <updated>2022-02-02T04:12:30.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손예진·박민영·김태리 온다! 2월 신작 드라마 대격돌]]></title>
+        <id>https://entertain.v.daum.net/v/20220202130014039</id>
+        <link href="https://entertain.v.daum.net/v/20220202130014039"/>
+        <updated>2022-02-02T04:12:22.015Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막 나가는 '신사와 아가씨', 가정 폭력을 사랑으로 포장]]></title>
+        <id>https://entertain.v.daum.net/v/20220202125101855</id>
+        <link href="https://entertain.v.daum.net/v/20220202125101855"/>
+        <updated>2022-02-02T04:12:22.024Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1억2천 시청시간→54개국 1위..K-좀비 '지우학', '오겜' 넘을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220202122502384</id>
+        <link href="https://entertain.v.daum.net/v/20220202122502384"/>
+        <updated>2022-02-02T04:12:22.024Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강다니엘X채수빈, 달콤한 첫 휴가에 무슨 일?..]]></title>
         <id>https://entertain.v.daum.net/v/20220202113334569</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220202092135173"/>
         <updated>2022-02-02T00:37:32.286Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배드 앤 크레이지' 차학연, 진실된 올곧음으로 쓴 이야기]]></title>
-        <id>https://entertain.v.daum.net/v/20220202090157903</id>
-        <link href="https://entertain.v.daum.net/v/20220202090157903"/>
-        <updated>2022-02-02T00:37:32.287Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진x김경남, 결국 체포됐다..'한사람만'=고구마 엔딩?]]></title>
-        <id>https://entertain.v.daum.net/v/20220202090021839</id>
-        <link href="https://entertain.v.daum.net/v/20220202090021839"/>
-        <updated>2022-02-02T00:37:32.288Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진♥김경남, 경찰 체포 엔딩..연쇄살인범 누명]]></title>
-        <id>https://entertain.v.daum.net/v/20220202085003710</id>
-        <link href="https://entertain.v.daum.net/v/20220202085003710"/>
-        <updated>2022-02-02T00:37:32.290Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
