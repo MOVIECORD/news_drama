@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-02T05:09:50.104Z</updated>
+    <updated>2022-02-02T06:12:37.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 김미숙X이학주, 의미심장 만남..봉투 정체는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220202145135201</id>
+        <link href="https://entertain.v.daum.net/v/20220202145135201"/>
+        <updated>2022-02-02T06:12:29.213Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 김미숙x이학주, 불편한 만남 의문의 봉투 정체는?]]></title>
         <id>https://entertain.v.daum.net/v/20220202140528276</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220202103343517"/>
         <updated>2022-02-02T01:54:09.842Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진♥김경남 체포→박수영, 한규원 정체 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220202102416363</id>
-        <link href="https://entertain.v.daum.net/v/20220202102416363"/>
-        <updated>2022-02-02T01:54:09.845Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
