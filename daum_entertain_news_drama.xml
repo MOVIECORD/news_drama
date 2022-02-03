@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-03T20:10:55.148Z</updated>
+    <updated>2022-02-03T21:09:19.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완X고아성, 시즌2에선 더 끈끈해져요]]></title>
+        <id>https://entertain.v.daum.net/v/20220204060011395</id>
+        <link href="https://entertain.v.daum.net/v/20220204060011395"/>
+        <updated>2022-02-03T21:09:11.063Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 김강우, 수애 추궁 "이이담 살해자 찾고 싶긴 하냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220204055800363</id>
+        <link href="https://entertain.v.daum.net/v/20220204055800363"/>
+        <updated>2022-02-03T21:09:11.063Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['술도녀' 이선빈, 최시원과 입술 충돌 사고 '깜짝']]></title>
         <id>https://entertain.v.daum.net/v/20220204000244143</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220203202730073"/>
         <updated>2022-02-03T12:15:21.503Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 샤론 박이 엄현경? 정체 알아내]]></title>
-        <id>https://entertain.v.daum.net/v/20220203200905787</id>
-        <link href="https://entertain.v.daum.net/v/20220203200905787"/>
-        <updated>2022-02-03T12:15:21.503Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정일우 측 "백신 3차 접종 마쳤는데..코로나19 확진"]]></title>
-        <id>https://entertain.v.daum.net/v/20220203193554254</id>
-        <link href="https://entertain.v.daum.net/v/20220203193554254"/>
-        <updated>2022-02-03T11:08:17.040Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
