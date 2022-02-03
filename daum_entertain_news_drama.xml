@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-03T05:09:46.635Z</updated>
+    <updated>2022-02-03T06:13:00.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현, 군대에 온 '미친 개' 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220203144246578</id>
+        <link href="https://entertain.v.daum.net/v/20220203144246578"/>
+        <updated>2022-02-03T06:12:51.483Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이충주, 코로나19 돌파 감염.."3차 접종 후 재검사서 양성"]]></title>
+        <id>https://entertain.v.daum.net/v/20220203143918447</id>
+        <link href="https://entertain.v.daum.net/v/20220203143918447"/>
+        <updated>2022-02-03T06:12:51.485Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수애, 죽은 이이담 유품 발견..성진가 향한 반란 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220203143331249</id>
+        <link href="https://entertain.v.daum.net/v/20220203143331249"/>
+        <updated>2022-02-03T06:12:51.487Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모럴센스' 서현♥이준영, 상명하복 로맨스..대리 설렘 유발하네]]></title>
         <id>https://entertain.v.daum.net/v/20220203140355140</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220203105700214"/>
         <updated>2022-02-03T02:21:55.134Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정, 직장인-맞선녀 오가는 이중 생활]]></title>
-        <id>https://entertain.v.daum.net/v/20220203105035909</id>
-        <link href="https://entertain.v.daum.net/v/20220203105035909"/>
-        <updated>2022-02-03T02:21:55.136Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3', 2월 26일 첫 방송..예측불가 지옥의 맛 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220203105006873</id>
-        <link href="https://entertain.v.daum.net/v/20220203105006873"/>
-        <updated>2022-02-03T02:21:55.137Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범 지키미' 정지훈 with 김범·유이 촬영장 비하인드]]></title>
-        <id>https://entertain.v.daum.net/v/20220203104320573</id>
-        <link href="https://entertain.v.daum.net/v/20220203104320573"/>
-        <updated>2022-02-03T01:50:17.856Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
