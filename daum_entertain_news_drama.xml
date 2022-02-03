@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-03T08:13:23.701Z</updated>
+    <updated>2022-02-03T09:10:23.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 배우·스태프 코로나19 확진.."전원 검사 진행"]]></title>
+        <id>https://entertain.v.daum.net/v/20220203175647548</id>
+        <link href="https://entertain.v.daum.net/v/20220203175647548"/>
+        <updated>2022-02-03T09:10:14.199Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는' 5일 연속 전세계 1위, 하이틴 K좀비도 통했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220203173139791</id>
+        <link href="https://entertain.v.daum.net/v/20220203173139791"/>
+        <updated>2022-02-03T09:10:14.199Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물 학대 논란 '태종 이방원' 3주 연속 결방 "이후 편성 논의 중"]]></title>
         <id>https://entertain.v.daum.net/v/20220203170836996</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220203135919961"/>
         <updated>2022-02-03T05:09:37.576Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닷새 만에 58개국 점령한 K-좀비..'지금 우리 학교는' 인기 확산]]></title>
-        <id>https://entertain.v.daum.net/v/20220203135238714</id>
-        <link href="https://entertain.v.daum.net/v/20220203135238714"/>
-        <updated>2022-02-03T05:09:37.583Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 수애, 이이담 유품 발견..성진가 향한 반란 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220203133337094</id>
-        <link href="https://entertain.v.daum.net/v/20220203133337094"/>
-        <updated>2022-02-03T05:09:37.583Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
