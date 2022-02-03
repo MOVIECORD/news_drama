@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-03T12:15:29.860Z</updated>
+    <updated>2022-02-03T13:13:57.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박혜진 "윤다훈X김진엽 친자 확인 하겠다" 폭탄 발언]]></title>
+        <id>https://entertain.v.daum.net/v/20220203212340974</id>
+        <link href="https://entertain.v.daum.net/v/20220203212340974"/>
+        <updated>2022-02-03T13:13:49.139Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 박혜진, 김진엽 불러 놓고 "윤다훈과 친자 확인하자"]]></title>
         <id>https://entertain.v.daum.net/v/20220203204621419</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220203163857905"/>
         <updated>2022-02-03T08:13:12.792Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['예능 천재' 김종민, '토밥좋아' 새 고정 멤버 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20220203163635837</id>
-        <link href="https://entertain.v.daum.net/v/20220203163635837"/>
-        <updated>2022-02-03T08:13:12.793Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
