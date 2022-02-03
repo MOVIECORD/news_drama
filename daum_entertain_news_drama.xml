@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-03T10:10:57.072Z</updated>
+    <updated>2022-02-03T11:08:25.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정일우 측 "백신 3차 접종 마쳤는데..코로나19 확진"]]></title>
+        <id>https://entertain.v.daum.net/v/20220203193554254</id>
+        <link href="https://entertain.v.daum.net/v/20220203193554254"/>
+        <updated>2022-02-03T11:08:17.040Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 차서원, 엄현경 이별 선언에 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220203192647176</id>
+        <link href="https://entertain.v.daum.net/v/20220203192647176"/>
+        <updated>2022-02-03T11:08:17.041Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배명진, '기상청 사람들' 합류..권해효와 호흡]]></title>
         <id>https://entertain.v.daum.net/v/20220203181835080</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220203143918447"/>
         <updated>2022-02-03T06:12:51.485Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수애, 죽은 이이담 유품 발견..성진가 향한 반란 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220203143331249</id>
-        <link href="https://entertain.v.daum.net/v/20220203143331249"/>
-        <updated>2022-02-03T06:12:51.487Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모럴센스' 서현♥이준영, 상명하복 로맨스..대리 설렘 유발하네]]></title>
-        <id>https://entertain.v.daum.net/v/20220203140355140</id>
-        <link href="https://entertain.v.daum.net/v/20220203140355140"/>
-        <updated>2022-02-03T05:09:37.576Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
