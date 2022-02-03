@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-03T21:09:19.748Z</updated>
+    <updated>2022-02-03T22:10:02.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현아♥던, 세기의 SNS 프로포즈..열애 6년→결혼 발표까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220204065424991</id>
+        <link href="https://entertain.v.daum.net/v/20220204065424991"/>
+        <updated>2022-02-03T22:09:52.550Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['술꾼도시여자들' 정은지→한선화, 주당 3인방..이선빈X최시원 깜짝 입맞춤]]></title>
+        <id>https://entertain.v.daum.net/v/20220204064502893</id>
+        <link href="https://entertain.v.daum.net/v/20220204064502893"/>
+        <updated>2022-02-03T22:09:52.557Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음주운전' 임성빈 "모든 책임, 비난 달게 받겠다"..여론은 싸늘]]></title>
+        <id>https://entertain.v.daum.net/v/20220204061916715</id>
+        <link href="https://entertain.v.daum.net/v/20220204061916715"/>
+        <updated>2022-02-03T22:09:52.557Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트레이서' 임시완X고아성, 시즌2에선 더 끈끈해져요]]></title>
         <id>https://entertain.v.daum.net/v/20220204060011395</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220203204618416"/>
         <updated>2022-02-03T12:15:21.502Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김진엽 "윤다훈♥황신혜 갈라놓을 거야" 복수 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220203204550398</id>
-        <link href="https://entertain.v.daum.net/v/20220203204550398"/>
-        <updated>2022-02-03T12:15:21.503Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멜로가 체질' 정승길, 티빙 '아직 최선을 다하지 않았을 뿐' 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220203203130135</id>
-        <link href="https://entertain.v.daum.net/v/20220203203130135"/>
-        <updated>2022-02-03T12:15:21.503Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 복수 본격화 "윤다훈·황신혜 헤어지게 할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220203202730073</id>
-        <link href="https://entertain.v.daum.net/v/20220203202730073"/>
-        <updated>2022-02-03T12:15:21.503Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
