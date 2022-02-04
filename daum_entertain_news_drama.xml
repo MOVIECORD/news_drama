@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-04T15:08:57.768Z</updated>
+    <updated>2022-02-04T16:12:28.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너나경' 강다니엘X채수빈, 비하인드컷도 청춘시너지]]></title>
+        <id>https://entertain.v.daum.net/v/20220205010010115</id>
+        <link href="https://entertain.v.daum.net/v/20220205010010115"/>
+        <updated>2022-02-04T16:12:19.986Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이이담, 덤덤한 어투로 담아낸 '묵직한 감정선']]></title>
+        <id>https://entertain.v.daum.net/v/20220205004036066</id>
+        <link href="https://entertain.v.daum.net/v/20220205004036066"/>
+        <updated>2022-02-04T16:12:19.986Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그리드' 이시영, 디저트 좋아하는 유령? 호기심 자극 정체]]></title>
         <id>https://entertain.v.daum.net/v/20220205000010750</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 샤론 박 행세 복수할 것..엄현경 "누워서 침뱉기"]]></title>
+        <title type="html"><![CDATA['두번째남편' 오승아 '샤론박' 엄현경에 경고 "다 갚아줄 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220204193311134</id>
         <link href="https://entertain.v.daum.net/v/20220204193311134"/>
         <updated>2022-02-04T11:06:59.911Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220204173839411"/>
         <updated>2022-02-04T09:09:29.957Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매-지금 우리 학교는' 이은샘, 같은 사람 맞아? 파격 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220204165733351</id>
-        <link href="https://entertain.v.daum.net/v/20220204165733351"/>
-        <updated>2022-02-04T08:10:10.005Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배앤크' 위하준, 이동욱과 케미? "100점 만점 형 덕분"]]></title>
-        <id>https://entertain.v.daum.net/v/20220204162816555</id>
-        <link href="https://entertain.v.daum.net/v/20220204162816555"/>
-        <updated>2022-02-04T08:10:10.006Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
