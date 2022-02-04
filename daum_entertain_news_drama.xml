@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-04T21:08:23.330Z</updated>
+    <updated>2022-02-04T22:09:04.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선, 임산부 성장일기 본격화..공감 100% 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220205070010563</id>
+        <link href="https://entertain.v.daum.net/v/20220205070010563"/>
+        <updated>2022-02-04T22:08:56.102Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다둥이 아빠' 정상훈, 정관수술 고백 "공장문 닫았다"]]></title>
         <id>https://entertain.v.daum.net/v/20220205060005907</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220204181330177"/>
         <updated>2022-02-04T10:09:11.623Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 박지연, 코로나19 확진 "스케줄 취소"]]></title>
-        <id>https://entertain.v.daum.net/v/20220204175643830</id>
-        <link href="https://entertain.v.daum.net/v/20220204175643830"/>
-        <updated>2022-02-04T09:09:29.952Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
