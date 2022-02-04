@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-04T09:09:38.140Z</updated>
+    <updated>2022-02-04T10:09:19.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 안에 똘끼 있다" 위하준, "K처럼 불의 못 참아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220204190101825</id>
+        <link href="https://entertain.v.daum.net/v/20220204190101825"/>
+        <updated>2022-02-04T10:09:11.619Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지우학'부터 '학교2021'까지..OTT 드라마 정주행 '뭐 볼까?']]></title>
+        <id>https://entertain.v.daum.net/v/20220204182036302</id>
+        <link href="https://entertain.v.daum.net/v/20220204182036302"/>
+        <updated>2022-02-04T10:09:11.620Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 윤서아, 연예계 돌파 감염 비상..코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20220204181406187</id>
+        <link href="https://entertain.v.daum.net/v/20220204181406187"/>
+        <updated>2022-02-04T10:09:11.622Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트 닥터' 김범·정지훈, 비범한 호흡→균열 조짐..공조 순간 #3]]></title>
+        <id>https://entertain.v.daum.net/v/20220204181330177</id>
+        <link href="https://entertain.v.daum.net/v/20220204181330177"/>
+        <updated>2022-02-04T10:09:11.623Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 박지연, 코로나19 확진 "스케줄 취소"]]></title>
         <id>https://entertain.v.daum.net/v/20220204175643830</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220204152600536"/>
         <updated>2022-02-04T07:08:58.185Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그리드' 이시영, 구원자냐 살인자냐..극과 극 스틸 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220204152034389</id>
-        <link href="https://entertain.v.daum.net/v/20220204152034389"/>
-        <updated>2022-02-04T07:08:58.187Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이시영, 베일에 싸인 미스터리의 중심..호기심 자극하는 비주얼]]></title>
-        <id>https://entertain.v.daum.net/v/20220204151818328</id>
-        <link href="https://entertain.v.daum.net/v/20220204151818328"/>
-        <updated>2022-02-04T07:08:58.187Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배앤크' 위하준 "거부감 있던 멜로, 이젠 욕심 나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220204151722301</id>
-        <link href="https://entertain.v.daum.net/v/20220204151722301"/>
-        <updated>2022-02-04T07:08:58.187Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 귀신들린 박주미 딸..'임성한 월드 결정판' 티저 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220204151535252</id>
-        <link href="https://entertain.v.daum.net/v/20220204151535252"/>
-        <updated>2022-02-04T07:08:58.188Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
