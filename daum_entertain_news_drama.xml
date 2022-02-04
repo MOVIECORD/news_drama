@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-04T08:10:18.287Z</updated>
+    <updated>2022-02-04T09:09:38.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 박지연, 코로나19 확진 "스케줄 취소"]]></title>
+        <id>https://entertain.v.daum.net/v/20220204175643830</id>
+        <link href="https://entertain.v.daum.net/v/20220204175643830"/>
+        <updated>2022-02-04T09:09:29.952Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배앤크' 위하준 "인생캐란 반응 좋아..이동욱과 호흡 최고"]]></title>
+        <id>https://entertain.v.daum.net/v/20220204175006697</id>
+        <link href="https://entertain.v.daum.net/v/20220204175006697"/>
+        <updated>2022-02-04T09:09:29.955Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배드 앤 크레이지' 위하준 "K 연기하려 제 안의 '똘기' 꺼냈죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220204173839411</id>
+        <link href="https://entertain.v.daum.net/v/20220204173839411"/>
+        <updated>2022-02-04T09:09:29.957Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옷소매-지금 우리 학교는' 이은샘, 같은 사람 맞아? 파격 변신]]></title>
         <id>https://entertain.v.daum.net/v/20220204165733351</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220204151535252"/>
         <updated>2022-02-04T07:08:58.188Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음을 읽는 자들', 파트2 기대되는 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20220204151400187</id>
-        <link href="https://entertain.v.daum.net/v/20220204151400187"/>
-        <updated>2022-02-04T07:08:58.189Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 3주간 못 본다..올림픽 중계로 결방]]></title>
-        <id>https://entertain.v.daum.net/v/20220204145516556</id>
-        <link href="https://entertain.v.daum.net/v/20220204145516556"/>
-        <updated>2022-02-04T06:10:36.575Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈X김범, '비범'한 호흡의 순간..공조 BEST 3]]></title>
-        <id>https://entertain.v.daum.net/v/20220204142214462</id>
-        <link href="https://entertain.v.daum.net/v/20220204142214462"/>
-        <updated>2022-02-04T06:10:36.577Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
