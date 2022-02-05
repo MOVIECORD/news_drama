@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T10:09:15.559Z</updated>
+    <updated>2022-02-05T11:08:52.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨', 베이징 동계올림픽 중계로 5일 결방]]></title>
+        <id>https://entertain.v.daum.net/v/20220205200459048</id>
+        <link href="https://entertain.v.daum.net/v/20220205200459048"/>
+        <updated>2022-02-05T11:08:44.143Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱 VS 이준, 정진영의 총구가 향한 곳은 어디?]]></title>
         <id>https://entertain.v.daum.net/v/20220205175030800</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205131215021"/>
         <updated>2022-02-05T05:08:54.739Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 지민, 코로나 음성·충수염 거의 완치 "퇴원 후 휴식 중"]]></title>
-        <id>https://entertain.v.daum.net/v/20220205115417373</id>
-        <link href="https://entertain.v.daum.net/v/20220205115417373"/>
-        <updated>2022-02-05T03:09:50.814Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
