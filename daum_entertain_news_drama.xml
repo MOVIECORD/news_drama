@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T12:12:27.406Z</updated>
+    <updated>2022-02-05T13:09:00.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불가살' 공승연, 권나라X이진욱에 설움 폭발 "제발 같이 살자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220205214912258</id>
+        <link href="https://entertain.v.daum.net/v/20220205214912258"/>
+        <updated>2022-02-05T13:08:51.076Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 권나라, 이진욱에 "당신이 없으면 내 절반 사라지는 것 같아" 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220205213837104</id>
+        <link href="https://entertain.v.daum.net/v/20220205213837104"/>
+        <updated>2022-02-05T13:08:51.078Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 권나라, 이진욱에 절절 고백 "당신 없으면 안 돼"]]></title>
+        <id>https://entertain.v.daum.net/v/20220205213246036</id>
+        <link href="https://entertain.v.daum.net/v/20220205213246036"/>
+        <updated>2022-02-05T13:08:51.079Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 권나라, 이진욱에 "공승연·김우석, 전생에 가족이었죠?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220205213039021</id>
+        <link href="https://entertain.v.daum.net/v/20220205213039021"/>
+        <updated>2022-02-05T13:08:51.085Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와 아가씨', 베이징 동계올림픽 중계로 5일 결방]]></title>
         <id>https://entertain.v.daum.net/v/20220205200459048</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205141047656"/>
         <updated>2022-02-05T06:10:25.249Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 이진욱vs이준, 피의 혈투 벌인다..최종장 향한 선택]]></title>
-        <id>https://entertain.v.daum.net/v/20220205133427224</id>
-        <link href="https://entertain.v.daum.net/v/20220205133427224"/>
-        <updated>2022-02-05T05:08:54.737Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 이진욱vs이준, 정진영 총구는 어디로]]></title>
-        <id>https://entertain.v.daum.net/v/20220205133402218</id>
-        <link href="https://entertain.v.daum.net/v/20220205133402218"/>
-        <updated>2022-02-05T05:08:54.737Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는' 넷플릭스 본진 미국서도 1위 등극]]></title>
-        <id>https://entertain.v.daum.net/v/20220205132008098</id>
-        <link href="https://entertain.v.daum.net/v/20220205132008098"/>
-        <updated>2022-02-05T05:08:54.738Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃 피면 달 생각하고', 7일 결방..8일 2회 연속 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20220205131215021</id>
-        <link href="https://entertain.v.daum.net/v/20220205131215021"/>
-        <updated>2022-02-05T05:08:54.739Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
