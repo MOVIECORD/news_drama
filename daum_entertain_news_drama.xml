@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T13:09:00.082Z</updated>
+    <updated>2022-02-05T14:08:16.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불가살' 이진욱, 정진영 피먹고 부활.. 1천년 전 과거사 드러났다]]></title>
+        <id>https://entertain.v.daum.net/v/20220205223248762</id>
+        <link href="https://entertain.v.daum.net/v/20220205223248762"/>
+        <updated>2022-02-05T14:08:07.956Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 이진욱, 전생父 정진영 피 마시고 기사회생]]></title>
+        <id>https://entertain.v.daum.net/v/20220205223009722</id>
+        <link href="https://entertain.v.daum.net/v/20220205223009722"/>
+        <updated>2022-02-05T14:08:07.963Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 공승연, 권나라X이진욱에 설움 폭발 "제발 같이 살자"]]></title>
         <id>https://entertain.v.daum.net/v/20220205214912258</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205142813836"/>
         <updated>2022-02-05T06:10:25.247Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이서진, 364일 야간진료 도입..짠내 개원의 서글픈 현실]]></title>
-        <id>https://entertain.v.daum.net/v/20220205142004760</id>
-        <link href="https://entertain.v.daum.net/v/20220205142004760"/>
-        <updated>2022-02-05T06:10:25.248Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화' OST 온라인 컴필레이션 앨범 발매..40개 트랙 전할 감동]]></title>
-        <id>https://entertain.v.daum.net/v/20220205141047656</id>
-        <link href="https://entertain.v.daum.net/v/20220205141047656"/>
-        <updated>2022-02-05T06:10:25.249Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
