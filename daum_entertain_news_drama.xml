@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T14:08:16.676Z</updated>
+    <updated>2022-02-05T15:09:02.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불가살' 정진영, 이진욱 위해 희생.."이준 이길 수 있는 방법"]]></title>
+        <id>https://entertain.v.daum.net/v/20220205235014354</id>
+        <link href="https://entertain.v.daum.net/v/20220205235014354"/>
+        <updated>2022-02-05T15:08:54.377Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 이진욱, 정진영 피먹고 부활.. 1천년 전 과거사 드러났다]]></title>
         <id>https://entertain.v.daum.net/v/20220205223248762</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205143032861"/>
         <updated>2022-02-05T06:10:25.243Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 인성 3월 군악대 입대.."비공개 현장, 팬 방문 금지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220205142813836</id>
-        <link href="https://entertain.v.daum.net/v/20220205142813836"/>
-        <updated>2022-02-05T06:10:25.247Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
