@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T06:10:33.221Z</updated>
+    <updated>2022-02-05T07:08:58.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식・한소희 '사운드트랙#1', 3월 디즈니+ 전격 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220205160240798</id>
+        <link href="https://entertain.v.daum.net/v/20220205160240798"/>
+        <updated>2022-02-05T07:08:49.874Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아파트 이웃들이 수상해' 무삭제 클립 공개..비공식 탐정단의 추리 본능]]></title>
+        <id>https://entertain.v.daum.net/v/20220205153931568</id>
+        <link href="https://entertain.v.daum.net/v/20220205153931568"/>
+        <updated>2022-02-05T07:08:49.876Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의사 수입이 정말 이 정도야? 이서진이 꼬집는 개업의 현실]]></title>
+        <id>https://entertain.v.daum.net/v/20220205152006416</id>
+        <link href="https://entertain.v.daum.net/v/20220205152006416"/>
+        <updated>2022-02-05T07:08:49.876Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유승호·이혜리 '꽃달', 7일 올림픽 결방.."8일 연속 방송"]]></title>
         <id>https://entertain.v.daum.net/v/20220205150125224</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205112004073"/>
         <updated>2022-02-05T03:09:50.816Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위하준 "'배앤크'로 강박에서 벗어나, 내려놓는 법 알았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220205110001844</id>
-        <link href="https://entertain.v.daum.net/v/20220205110001844"/>
-        <updated>2022-02-05T02:11:06.682Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김지연-최현욱, 콩닥콩닥 '악수 고백']]></title>
-        <id>https://entertain.v.daum.net/v/20220205100419225</id>
-        <link href="https://entertain.v.daum.net/v/20220205100419225"/>
-        <updated>2022-02-05T01:34:51.783Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김지연X최현욱, 눈부신 청춘의 싱그러움]]></title>
-        <id>https://entertain.v.daum.net/v/20220205095544069</id>
-        <link href="https://entertain.v.daum.net/v/20220205095544069"/>
-        <updated>2022-02-05T01:34:51.785Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
