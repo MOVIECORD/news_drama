@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-05T07:08:58.205Z</updated>
+    <updated>2022-02-05T08:10:11.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는', 미국→영국까지 뚫고 1위..일주일째 최정상]]></title>
+        <id>https://entertain.v.daum.net/v/20220205164933198</id>
+        <link href="https://entertain.v.daum.net/v/20220205164933198"/>
+        <updated>2022-02-05T08:10:02.853Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형식・한소희 '사운드트랙#1', 3월 디즈니+ 전격 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220205160240798</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220205114356264"/>
         <updated>2022-02-05T03:09:50.815Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현정화·이만기 '국대는 국대다' 첫방 D-0..관전포인트 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220205112004073</id>
-        <link href="https://entertain.v.daum.net/v/20220205112004073"/>
-        <updated>2022-02-05T03:09:50.816Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
