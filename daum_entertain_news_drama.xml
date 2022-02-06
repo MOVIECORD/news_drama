@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-06T12:14:41.079Z</updated>
+    <updated>2022-02-06T13:11:41.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불가살' 1천년 전, 동생 죽인 이준 거짓말 탓 모두 죽었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220206220504692</id>
+        <link href="https://entertain.v.daum.net/v/20220206220504692"/>
+        <updated>2022-02-06T13:11:33.687Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가살' 이진욱, 천년 전 권나라에 "날 버리고 인간에게 갔어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220206214335366</id>
+        <link href="https://entertain.v.daum.net/v/20220206214335366"/>
+        <updated>2022-02-06T13:11:33.689Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이세희, ♥지현우에 애틋 약속 "절대 안 흔들려"]]></title>
         <id>https://entertain.v.daum.net/v/20220206211041072</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220206170610149"/>
         <updated>2022-02-06T08:11:12.305Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승호·이혜리·변우석·강미나, 조선의 남친짤·여친짤 제조기였네]]></title>
-        <id>https://entertain.v.daum.net/v/20220206164903734</id>
-        <link href="https://entertain.v.daum.net/v/20220206164903734"/>
-        <updated>2022-02-06T08:11:12.306Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 이진욱 결국 흑화하나..마지막회 관전포인트]]></title>
-        <id>https://entertain.v.daum.net/v/20220206144816755</id>
-        <link href="https://entertain.v.daum.net/v/20220206144816755"/>
-        <updated>2022-02-06T06:11:33.124Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
