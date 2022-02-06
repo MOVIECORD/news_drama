@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-06T00:45:17.233Z</updated>
+    <updated>2022-02-06T02:05:59.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜은 앞, 무릎 꿇은 김태리..무슨 일?]]></title>
+        <id>https://entertain.v.daum.net/v/20220206101256157</id>
+        <link href="https://entertain.v.daum.net/v/20220206101256157"/>
+        <updated>2022-02-06T02:05:51.171Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리, 운명 뒤바꿀 펜싱 코치 김혜은 만났다..무릎 꿇고 애원]]></title>
+        <id>https://entertain.v.daum.net/v/20220206095124807</id>
+        <link href="https://entertain.v.daum.net/v/20220206095124807"/>
+        <updated>2022-02-06T02:05:51.172Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는', 본진 미국도 삼키더니 8일 연속 전세계 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220206094804756</id>
+        <link href="https://entertain.v.daum.net/v/20220206094804756"/>
+        <updated>2022-02-06T02:05:51.183Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 붉은 눈 이진욱, 다시 잔혹한 불가살 되나]]></title>
         <id>https://entertain.v.daum.net/v/20220206094419680</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220206070034162"/>
         <updated>2022-02-05T22:10:10.315Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터', 촬영 끝→함구령..'정지훈X김범 결말은?']]></title>
-        <id>https://entertain.v.daum.net/v/20220206070008126</id>
-        <link href="https://entertain.v.daum.net/v/20220206070008126"/>
-        <updated>2022-02-05T22:10:10.316Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 권나라, 이진욱에 애틋 철철 "다음 생엔 내가 찾아갈게"]]></title>
-        <id>https://entertain.v.daum.net/v/20220206064001948</id>
-        <link href="https://entertain.v.daum.net/v/20220206064001948"/>
-        <updated>2022-02-05T22:10:10.317Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 이진욱 예언 실현, 정진영 피 마시고 부활 '소름']]></title>
-        <id>https://entertain.v.daum.net/v/20220206055627513</id>
-        <link href="https://entertain.v.daum.net/v/20220206055627513"/>
-        <updated>2022-02-05T21:08:37.499Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
