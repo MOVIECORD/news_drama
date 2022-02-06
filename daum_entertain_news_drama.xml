@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-06T03:09:51.389Z</updated>
+    <updated>2022-02-06T04:12:50.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안은진x강예원x박수영→살인청부업자 김경남..'한사람만' 주목할 엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220206125053648</id>
+        <link href="https://entertain.v.daum.net/v/20220206125053648"/>
+        <updated>2022-02-06T04:12:42.488Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가살' 권나라, 몸 사리지 않는 열연 극강의 몰입]]></title>
         <id>https://entertain.v.daum.net/v/20220206111400208</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220206080356635"/>
         <updated>2022-02-06T00:45:09.392Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불가살' 정진영, 단활 위한 희생..이진욱♥권나라 "평생 생각해왔어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220206070445218</id>
-        <link href="https://entertain.v.daum.net/v/20220206070445218"/>
-        <updated>2022-02-05T22:10:10.312Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
