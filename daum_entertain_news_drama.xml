@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-07T14:10:02.937Z</updated>
+    <updated>2022-02-07T15:10:14.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트 닥터' 김범, 유이에 고스트 정지훈 존재 알렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20220207235030327</id>
+        <link href="https://entertain.v.daum.net/v/20220207235030327"/>
+        <updated>2022-02-07T15:10:06.095Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 정지훈, 자신 지키는 유이..신세한탄 '오열']]></title>
+        <id>https://entertain.v.daum.net/v/20220207233305133</id>
+        <link href="https://entertain.v.daum.net/v/20220207233305133"/>
+        <updated>2022-02-07T15:10:06.097Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 정지훈, 몸 관리 못하는 김범에 "난 투명인간" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220207232522052</id>
+        <link href="https://entertain.v.daum.net/v/20220207232522052"/>
+        <updated>2022-02-07T15:10:06.099Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가대표 와이프' 엄수정, 오유나에 협박 "돈 가져와라"]]></title>
         <id>https://entertain.v.daum.net/v/20220207211458786</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220207154143078"/>
         <updated>2022-02-07T07:10:05.731Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는' 감독 "좀비 통해 사람에 대한 희망 이야기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220207152731316</id>
-        <link href="https://entertain.v.daum.net/v/20220207152731316"/>
-        <updated>2022-02-07T07:10:05.735Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 넋이 나간 정지훈-김범, 긴급상황 발생]]></title>
-        <id>https://entertain.v.daum.net/v/20220207151245695</id>
-        <link href="https://entertain.v.daum.net/v/20220207151245695"/>
-        <updated>2022-02-07T07:10:05.737Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는'이 발견한 내일의 스타]]></title>
-        <id>https://entertain.v.daum.net/v/20220207150146288</id>
-        <link href="https://entertain.v.daum.net/v/20220207150146288"/>
-        <updated>2022-02-07T06:12:39.777Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
