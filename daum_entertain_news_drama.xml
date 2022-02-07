@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-07T06:12:47.901Z</updated>
+    <updated>2022-02-07T07:10:14.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재규 감독 "좀비물 속 러브라인? 10대 이야기에 필연적"]]></title>
+        <id>https://entertain.v.daum.net/v/20220207155003462</id>
+        <link href="https://entertain.v.daum.net/v/20220207155003462"/>
+        <updated>2022-02-07T07:10:05.731Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 김미숙의 '조소 띤 가늠하는 시선의 악녀 서한숙' 발군]]></title>
+        <id>https://entertain.v.daum.net/v/20220207154143078</id>
+        <link href="https://entertain.v.daum.net/v/20220207154143078"/>
+        <updated>2022-02-07T07:10:05.731Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는' 감독 "좀비 통해 사람에 대한 희망 이야기"]]></title>
+        <id>https://entertain.v.daum.net/v/20220207152731316</id>
+        <link href="https://entertain.v.daum.net/v/20220207152731316"/>
+        <updated>2022-02-07T07:10:05.735Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트 닥터' 넋이 나간 정지훈-김범, 긴급상황 발생]]></title>
+        <id>https://entertain.v.daum.net/v/20220207151245695</id>
+        <link href="https://entertain.v.daum.net/v/20220207151245695"/>
+        <updated>2022-02-07T07:10:05.737Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금 우리 학교는'이 발견한 내일의 스타]]></title>
         <id>https://entertain.v.daum.net/v/20220207150146288</id>
@@ -48,13 +76,6 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['결사곡3' 퇴장 배우 바통 강신효 지영산 이혜숙 新배우]]></title>
-        <id>https://entertain.v.daum.net/v/20220207144128354</id>
-        <link href="https://entertain.v.daum.net/v/20220207144128354"/>
-        <updated>2022-02-07T06:12:39.778Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['결사곡3' 성훈→강신효·이태곤→지영산 '대체 배우' 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220207143837245</id>
         <link href="https://entertain.v.daum.net/v/20220207143837245"/>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220207135206195"/>
         <updated>2022-02-07T05:09:42.743Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀는 살아있다' 이유리X이민영X윤소이, 출연 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220207134040834</id>
-        <link href="https://entertain.v.daum.net/v/20220207134040834"/>
-        <updated>2022-02-07T05:09:42.744Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 얼굴 투입된 '결혼작사 이혼작곡', 시즌3도 사랑받을까]]></title>
-        <id>https://entertain.v.daum.net/v/20220207133601667</id>
-        <link href="https://entertain.v.daum.net/v/20220207133601667"/>
-        <updated>2022-02-07T05:09:42.750Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는' 감독 "좀비 통해 사람에 대한 희망 이야기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220207133557661</id>
-        <link href="https://entertain.v.daum.net/v/20220207133557661"/>
-        <updated>2022-02-07T05:09:42.752Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
