@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-07T09:10:47.319Z</updated>
+    <updated>2022-02-07T10:10:54.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불가살' 공승연 "다음 생의 시호 아픔 없이 행복하기를"]]></title>
+        <id>https://entertain.v.daum.net/v/20220207182434850</id>
+        <link href="https://entertain.v.daum.net/v/20220207182434850"/>
+        <updated>2022-02-07T10:10:46.095Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이세희, 가슴 먹먹한 '순도 100% 눈물 연기]]></title>
         <id>https://entertain.v.daum.net/v/20220207173401398</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220207145530976"/>
         <updated>2022-02-07T06:12:39.778Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금부터 쇼타임!' 박해진→진기주, 예고부터 종합선물세트 예감]]></title>
-        <id>https://entertain.v.daum.net/v/20220207144507513</id>
-        <link href="https://entertain.v.daum.net/v/20220207144507513"/>
-        <updated>2022-02-07T06:12:39.778Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
