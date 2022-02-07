@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-07T12:15:56.935Z</updated>
+    <updated>2022-02-07T13:14:04.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국가대표 와이프' 엄수정, 오유나에 협박 "돈 가져와라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220207211458786</id>
+        <link href="https://entertain.v.daum.net/v/20220207211458786"/>
+        <updated>2022-02-07T13:13:55.145Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오나미♡박민, 결혼 전 사위 자격 테스트]]></title>
         <id>https://entertain.v.daum.net/v/20220207200916581</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220207150146288"/>
         <updated>2022-02-07T06:12:39.777Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지훈·김범·유이, 중환자실 혼비백산 긴급 상황에 위기]]></title>
-        <id>https://entertain.v.daum.net/v/20220207145742067</id>
-        <link href="https://entertain.v.daum.net/v/20220207145742067"/>
-        <updated>2022-02-07T06:12:39.778Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
