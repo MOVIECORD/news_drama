@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-07T08:12:30.639Z</updated>
+    <updated>2022-02-07T09:10:47.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세희, 가슴 먹먹한 '순도 100% 눈물 연기]]></title>
+        <id>https://entertain.v.daum.net/v/20220207173401398</id>
+        <link href="https://entertain.v.daum.net/v/20220207173401398"/>
+        <updated>2022-02-07T09:10:38.289Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SNL 코리아2' "음성 출연진·제작진 한해 오늘 촬영 재개"]]></title>
+        <id>https://entertain.v.daum.net/v/20220207171613769</id>
+        <link href="https://entertain.v.daum.net/v/20220207171613769"/>
+        <updated>2022-02-07T09:10:38.289Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그해 우리는' 김다미, 스펙트럼을 확장하다]]></title>
+        <id>https://entertain.v.daum.net/v/20220207171334682</id>
+        <link href="https://entertain.v.daum.net/v/20220207171334682"/>
+        <updated>2022-02-07T09:10:38.290Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민재, '조선 정신과 의사 유세풍' 주인공 낙점]]></title>
         <id>https://entertain.v.daum.net/v/20220207170901549</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220207144507513"/>
         <updated>2022-02-07T06:12:39.778Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["성착취물 장면 죄송"..'지우학' 감독 밝힌 #오징어게임 비교 #시즌2 #절비]]></title>
-        <id>https://entertain.v.daum.net/v/20220207144448491</id>
-        <link href="https://entertain.v.daum.net/v/20220207144448491"/>
-        <updated>2022-02-07T06:12:39.778Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈x김범, '코드 블루' 긴급 상황 발생]]></title>
-        <id>https://entertain.v.daum.net/v/20220207144145366</id>
-        <link href="https://entertain.v.daum.net/v/20220207144145366"/>
-        <updated>2022-02-07T06:12:39.778Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 성훈→강신효·이태곤→지영산 '대체 배우' 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220207143837245</id>
-        <link href="https://entertain.v.daum.net/v/20220207143837245"/>
-        <updated>2022-02-07T06:12:39.778Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
