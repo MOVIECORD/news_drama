@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-08T12:15:05.021Z</updated>
+    <updated>2022-02-08T13:13:39.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고' 이혜리, 유승호·변우석과 삼각 대치..무슨 일?]]></title>
+        <id>https://entertain.v.daum.net/v/20220208220304768</id>
+        <link href="https://entertain.v.daum.net/v/20220208220304768"/>
+        <updated>2022-02-08T13:13:30.404Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지우학' 박지후 "한양대 '에타' 등판? '지우학'·학교 애정 때문" ②]]></title>
         <id>https://entertain.v.daum.net/v/20220208210251279</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220208162252780"/>
         <updated>2022-02-08T08:12:11.146Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연애경험無, 수혁보다 ♥청산이 더 좋아"..'지우학' 박지후, 팔로워 80배 급등 "실감 안나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220208155147520</id>
-        <link href="https://entertain.v.daum.net/v/20220208155147520"/>
-        <updated>2022-02-08T07:10:12.861Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
