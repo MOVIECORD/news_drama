@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-09T10:11:14.639Z</updated>
+    <updated>2022-02-09T11:09:08.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수애, 김미숙 타격 줄 수 있을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220209195121611</id>
+        <link href="https://entertain.v.daum.net/v/20220209195121611"/>
+        <updated>2022-02-09T11:09:00.351Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수애·김강우 쇼윈도 부부도 끝, 파국 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220209190943006</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209165011836"/>
         <updated>2022-02-09T08:12:58.600Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리X남주혁, 기억 조작 불러올 청춘의 얼굴]]></title>
-        <id>https://entertain.v.daum.net/v/20220209163726411</id>
-        <link href="https://entertain.v.daum.net/v/20220209163726411"/>
-        <updated>2022-02-09T08:12:58.601Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
