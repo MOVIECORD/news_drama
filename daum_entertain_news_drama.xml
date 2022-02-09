@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-09T03:10:08.678Z</updated>
+    <updated>2022-02-09T04:12:53.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지우학' 10일만 넷플릭스 TV 비영어 부문 역대 시청 시간 5위]]></title>
+        <id>https://entertain.v.daum.net/v/20220209122629869</id>
+        <link href="https://entertain.v.daum.net/v/20220209122629869"/>
+        <updated>2022-02-09T04:12:40.864Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["시청자도 반했다" '꽃달' 변우석 몰입 끌어낸 하드캐리 감정 열연]]></title>
         <id>https://entertain.v.daum.net/v/20220209115356805</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209104753176"/>
         <updated>2022-02-09T02:00:11.089Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진과 김경남은 그렇게 서로를 향한 한 사람이 되었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220209104218983</id>
-        <link href="https://entertain.v.daum.net/v/20220209104218983"/>
-        <updated>2022-02-09T02:00:11.095Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
