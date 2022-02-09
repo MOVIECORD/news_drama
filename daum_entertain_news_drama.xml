@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-09T09:10:15.919Z</updated>
+    <updated>2022-02-09T10:11:14.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수애·김강우 쇼윈도 부부도 끝, 파국 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220209190943006</id>
+        <link href="https://entertain.v.daum.net/v/20220209190943006"/>
+        <updated>2022-02-09T10:11:05.921Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리 "고등학생이라..앞머리 잘랐다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220209185008688</id>
+        <link href="https://entertain.v.daum.net/v/20220209185008688"/>
+        <updated>2022-02-09T10:11:05.925Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남윤수, 카카오TV '빌린 몸' 출연..'아싸' 이상유 役]]></title>
+        <id>https://entertain.v.daum.net/v/20220209184942675</id>
+        <link href="https://entertain.v.daum.net/v/20220209184942675"/>
+        <updated>2022-02-09T10:11:05.926Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원', 말 사망 3번 사과하고 방송 재개..42일 만]]></title>
+        <id>https://entertain.v.daum.net/v/20220209183218336</id>
+        <link href="https://entertain.v.daum.net/v/20220209183218336"/>
+        <updated>2022-02-09T10:11:05.928Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS, '태종 이방원' 말 학대 논란에 "동물연기 줄이고 CG 활용"]]></title>
+        <id>https://entertain.v.daum.net/v/20220209181709028</id>
+        <link href="https://entertain.v.daum.net/v/20220209181709028"/>
+        <updated>2022-02-09T10:11:05.928Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["수애와 연기, 감사X영광"..이충주, '공작도시'로 채운 첫 드라마 연기]]></title>
         <id>https://entertain.v.daum.net/v/20220209174410851</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220209163726411"/>
         <updated>2022-02-09T08:12:58.601Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS "'태종 이방원' 재정비, 동물 안전 보장 가이드라인 마련"]]></title>
-        <id>https://entertain.v.daum.net/v/20220209163058116</id>
-        <link href="https://entertain.v.daum.net/v/20220209163058116"/>
-        <updated>2022-02-09T08:12:58.602Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS, '태종 이방원' 말 죽음 사과.."동물 안전 위한 제작 가이드라인 신설"]]></title>
-        <id>https://entertain.v.daum.net/v/20220209161522443</id>
-        <link href="https://entertain.v.daum.net/v/20220209161522443"/>
-        <updated>2022-02-09T08:12:58.602Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말 사망한 '태종 이방원', 26일부터 방송 재개]]></title>
-        <id>https://entertain.v.daum.net/v/20220209161131272</id>
-        <link href="https://entertain.v.daum.net/v/20220209161131272"/>
-        <updated>2022-02-09T08:12:58.603Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜대 든 남주혁, 칼 쥔 김태리의 청춘 비망록]]></title>
-        <id>https://entertain.v.daum.net/v/20220209160915158</id>
-        <link href="https://entertain.v.daum.net/v/20220209160915158"/>
-        <updated>2022-02-09T07:10:44.882Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 말 죽인 KBS, 가이드라인 마련.."위험 장면 최대한 CG로"]]></title>
-        <id>https://entertain.v.daum.net/v/20220209160819118</id>
-        <link href="https://entertain.v.daum.net/v/20220209160819118"/>
-        <updated>2022-02-09T07:10:44.882Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
