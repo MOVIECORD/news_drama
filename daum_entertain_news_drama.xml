@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-10T15:10:58.236Z</updated>
+    <updated>2022-02-10T16:14:24.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 수애, 이이담과 환상 속 재회→김미숙에 굴복]]></title>
+        <id>https://entertain.v.daum.net/v/20220211002211066</id>
+        <link href="https://entertain.v.daum.net/v/20220211002211066"/>
+        <updated>2022-02-10T16:14:15.788Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 수애, 거대권력에 완패.. 다 잃고 새 출발→김강우 승승장구 "현실엔딩"]]></title>
         <id>https://entertain.v.daum.net/v/20220210235230751</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210200040965"/>
         <updated>2022-02-10T11:08:37.937Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로몬 "조이현과 키스신 NG? 배려..롤모델=이병헌"]]></title>
-        <id>https://entertain.v.daum.net/v/20220210195006723</id>
-        <link href="https://entertain.v.daum.net/v/20220210195006723"/>
-        <updated>2022-02-10T11:08:37.939Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
