@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-10T14:09:44.927Z</updated>
+    <updated>2022-02-10T15:10:58.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공작도시' 수애, 거대권력에 완패.. 다 잃고 새 출발→김강우 승승장구 "현실엔딩"]]></title>
+        <id>https://entertain.v.daum.net/v/20220210235230751</id>
+        <link href="https://entertain.v.daum.net/v/20220210235230751"/>
+        <updated>2022-02-10T15:10:48.679Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 안착' 성공한 현빈-손예진..만남부터 결혼까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220210233200526</id>
+        <link href="https://entertain.v.daum.net/v/20220210233200526"/>
+        <updated>2022-02-10T15:10:48.679Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지석진, 코로나19 확진..PCR 검사 결과 양성]]></title>
+        <id>https://entertain.v.daum.net/v/20220210231324356</id>
+        <link href="https://entertain.v.daum.net/v/20220210231324356"/>
+        <updated>2022-02-10T15:10:48.679Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진구 폭주, 납치된 딸 구해야 한다]]></title>
+        <id>https://entertain.v.daum.net/v/20220210231011320</id>
+        <link href="https://entertain.v.daum.net/v/20220210231011320"/>
+        <updated>2022-02-10T15:10:48.679Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공작도시' 수애, 김미숙에 "많이 힘드실 거다"]]></title>
         <id>https://entertain.v.daum.net/v/20220210225550119</id>
@@ -18,13 +46,6 @@
         <link href="https://entertain.v.daum.net/v/20220210224143931"/>
         <updated>2022-02-10T14:09:36.882Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하하 "병약한 창근이 형 부탁"..환장의 케미 폭발]]></title>
-        <id>https://entertain.v.daum.net/v/20220210222904746</id>
-        <link href="https://entertain.v.daum.net/v/20220210222904746"/>
-        <updated>2022-02-10T14:09:36.882Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손예진♥현빈, 3번 열애설 부인→공개 열애 1년 만에 결혼까지]]></title>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210195006723"/>
         <updated>2022-02-10T11:08:37.939Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국·양세찬 코로나19 확진+지석진 "대기"..'런닝맨' 어쩌나]]></title>
-        <id>https://entertain.v.daum.net/v/20220210192048129</id>
-        <link href="https://entertain.v.daum.net/v/20220210192048129"/>
-        <updated>2022-02-10T11:08:37.940Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["송중기 '빈센조'→신민아·김선호 '갯마을' 덕" 스튜디오드래곤 매출↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220210190855950</id>
-        <link href="https://entertain.v.daum.net/v/20220210190855950"/>
-        <updated>2022-02-10T10:11:48.467Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김원훈·조진세 "'개콘' 폐지 후 우울증, 코미디 무대 많아졌으면"③]]></title>
-        <id>https://entertain.v.daum.net/v/20220210190009812</id>
-        <link href="https://entertain.v.daum.net/v/20220210190009812"/>
-        <updated>2022-02-10T10:11:48.467Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
