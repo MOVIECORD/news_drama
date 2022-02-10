@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-10T11:08:46.776Z</updated>
+    <updated>2022-02-10T12:17:41.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리♥남주혁→최현욱, 그시절 청춘美]]></title>
+        <id>https://entertain.v.daum.net/v/20220210211512364</id>
+        <link href="https://entertain.v.daum.net/v/20220210211512364"/>
+        <updated>2022-02-10T12:17:32.462Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열애도 몰랐는데..티아라 지연♥KT 황재균 깜짝 결혼 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220210203200579</id>
+        <link href="https://entertain.v.daum.net/v/20220210203200579"/>
+        <updated>2022-02-10T12:17:32.468Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지연 측 "황재균과 6개월 열애→12월 결혼식..속도위반 NO"]]></title>
+        <id>https://entertain.v.daum.net/v/20220210201803332</id>
+        <link href="https://entertain.v.daum.net/v/20220210201803332"/>
+        <updated>2022-02-10T12:17:32.469Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT 황재균, 티아라 지연과 결혼 "팀 위해 시즌 전 발표"]]></title>
         <id>https://entertain.v.daum.net/v/20220210200537076</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220210175001043"/>
         <updated>2022-02-10T09:10:11.972Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박희순, '무빙' 출연 확정..류승룡·한효주·조인성과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220210173552543</id>
-        <link href="https://entertain.v.daum.net/v/20220210173552543"/>
-        <updated>2022-02-10T09:10:11.973Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 우리 학교는' 조이현·로몬 "'라이징 스타' 실감 안 나요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220210171602791</id>
-        <link href="https://entertain.v.daum.net/v/20220210171602791"/>
-        <updated>2022-02-10T09:10:11.973Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석·전소민 "자가진단키트 결과 음성"..하하 "PCR 음성"]]></title>
-        <id>https://entertain.v.daum.net/v/20220210170844482</id>
-        <link href="https://entertain.v.daum.net/v/20220210170844482"/>
-        <updated>2022-02-10T08:13:20.206Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
