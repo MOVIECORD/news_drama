@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-11T11:09:01.058Z</updated>
+    <updated>2022-02-11T12:15:17.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동욱 섬뜩한 분위기, 티저포스터]]></title>
+        <id>https://entertain.v.daum.net/v/20220211211010919</id>
+        <link href="https://entertain.v.daum.net/v/20220211211010919"/>
+        <updated>2022-02-11T12:15:09.086Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 진선규, 2049 시청자 열광하게 만든 리더십]]></title>
+        <id>https://entertain.v.daum.net/v/20220211210134750</id>
+        <link href="https://entertain.v.daum.net/v/20220211210134750"/>
+        <updated>2022-02-11T12:15:09.093Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['산꾼도시여자들' 한선화 "막걸리 아니면 산 탈 이유 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220211205119540</id>
+        <link href="https://entertain.v.daum.net/v/20220211205119540"/>
+        <updated>2022-02-11T12:15:09.094Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["꼭 잡은 두 손"..현빈♥손예진 결혼, 비하인드 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220211184516343</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220211160027420"/>
         <updated>2022-02-11T07:09:39.415Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 김강우 "미움받을 수 있는 캐릭터, 몰입시키고 싶었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220211155326241</id>
-        <link href="https://entertain.v.daum.net/v/20220211155326241"/>
-        <updated>2022-02-11T07:09:39.416Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공작도시' 수애X김강우X김미숙X이이담, 아쉬운 가득 담은 종영 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220211154959148</id>
-        <link href="https://entertain.v.daum.net/v/20220211154959148"/>
-        <updated>2022-02-11T07:09:39.417Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재미있으면 됐다"..이서진, 이렇게 코미디에 진심이었다니]]></title>
-        <id>https://entertain.v.daum.net/v/20220211154804106</id>
-        <link href="https://entertain.v.daum.net/v/20220211154804106"/>
-        <updated>2022-02-11T07:09:39.418Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
