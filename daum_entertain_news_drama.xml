@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-12T06:12:05.075Z</updated>
+    <updated>2022-02-12T07:09:29.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스폰서' 한채영 "눈빛-강렬한 인상 표현" 캐릭터에 완벽 몰입]]></title>
+        <id>https://entertain.v.daum.net/v/20220212152223850</id>
+        <link href="https://entertain.v.daum.net/v/20220212152223850"/>
+        <updated>2022-02-12T07:09:20.340Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기상청 사람들' 박민영, 송강과 전화통화만으로 격렬한 불꽃]]></title>
         <id>https://entertain.v.daum.net/v/20220212142312190</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220212100309738"/>
         <updated>2022-02-12T01:59:14.717Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연기·예능 다 잡을래요"..'픽고' 박은우, 성대모사 레전드 등극한 '웹드 스틸러']]></title>
-        <id>https://entertain.v.daum.net/v/20220212100102692</id>
-        <link href="https://entertain.v.daum.net/v/20220212100102692"/>
-        <updated>2022-02-12T01:59:14.720Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
