@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-12T04:13:05.089Z</updated>
+    <updated>2022-02-12T05:08:59.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나', 김태리→남주혁 청춘 포텐 폭발..관전 포인트 #3]]></title>
+        <id>https://entertain.v.daum.net/v/20220212133231390</id>
+        <link href="https://entertain.v.daum.net/v/20220212133231390"/>
+        <updated>2022-02-12T05:08:50.858Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤찬영, '라라랜드' 감독 향한 구애 "혹시 '지우학' 보셨을까요?"]]></title>
         <id>https://entertain.v.daum.net/v/20220212120204222</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220212094053422"/>
         <updated>2022-02-12T01:59:14.720Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 오늘 첫방송, 청춘감성 돋울 관전포인트 셋]]></title>
-        <id>https://entertain.v.daum.net/v/20220212093405348</id>
-        <link href="https://entertain.v.daum.net/v/20220212093405348"/>
-        <updated>2022-02-12T00:40:06.940Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
