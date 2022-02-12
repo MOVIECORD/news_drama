@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-12T07:09:29.544Z</updated>
+    <updated>2022-02-12T08:12:14.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤찬영 "손흥민의 파워+스피드+결정력에 영감 얻어 연기했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220212170159964</id>
+        <link href="https://entertain.v.daum.net/v/20220212170159964"/>
+        <updated>2022-02-12T08:12:05.231Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리, '뉴스 메인앵커' 엄마 서재희와 말싸움..날 선 눈빛]]></title>
+        <id>https://entertain.v.daum.net/v/20220212162818577</id>
+        <link href="https://entertain.v.daum.net/v/20220212162818577"/>
+        <updated>2022-02-12T08:12:05.231Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 김태리-서재희, 母女 극강 대치 '팽팽한 설전']]></title>
+        <id>https://entertain.v.daum.net/v/20220212161050445</id>
+        <link href="https://entertain.v.daum.net/v/20220212161050445"/>
+        <updated>2022-02-12T08:12:05.240Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스폰서' 한채영 "눈빛-강렬한 인상 표현" 캐릭터에 완벽 몰입]]></title>
         <id>https://entertain.v.daum.net/v/20220212152223850</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220212100813802"/>
         <updated>2022-02-12T01:59:14.716Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['산꾼' 한선화 "등산 후 막걸리 꼭 마셔"]]></title>
-        <id>https://entertain.v.daum.net/v/20220212100608784</id>
-        <link href="https://entertain.v.daum.net/v/20220212100608784"/>
-        <updated>2022-02-12T01:59:14.716Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영X송강, 설레고도 잔혹한 러브 시그널]]></title>
-        <id>https://entertain.v.daum.net/v/20220212100551774</id>
-        <link href="https://entertain.v.daum.net/v/20220212100551774"/>
-        <updated>2022-02-12T01:59:14.717Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영 송강 '기상청 사람들' 오늘 첫방송, 흥행주의보 발령되나]]></title>
-        <id>https://entertain.v.daum.net/v/20220212100309738</id>
-        <link href="https://entertain.v.daum.net/v/20220212100309738"/>
-        <updated>2022-02-12T01:59:14.717Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
