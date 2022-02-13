@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-13T15:10:40.459Z</updated>
+    <updated>2022-02-13T16:13:30.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박민영, 술김에 송강과 키스 후 하룻밤..새로운 사내연애 시작?]]></title>
+        <id>https://entertain.v.daum.net/v/20220214003645396</id>
+        <link href="https://entertain.v.daum.net/v/20220214003645396"/>
+        <updated>2022-02-13T16:13:21.722Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 박민영, 송강과 로맨스 급물살→쿨한 이별 선언 "어른답게 잊자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220214001400193</id>
+        <link href="https://entertain.v.daum.net/v/20220214001400193"/>
+        <updated>2022-02-13T16:13:21.722Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기상청 사람들' 박민영, 윤박과 혼수 '반반' 다툼..유라, 송강 알아볼까 '식겁']]></title>
         <id>https://entertain.v.daum.net/v/20220213235809823</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220213220202427"/>
         <updated>2022-02-13T13:11:09.347Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯' 남주혁, 김태리에 "숨어서 우는 애가 아니라서 좋았어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220213215108240</id>
-        <link href="https://entertain.v.daum.net/v/20220213215108240"/>
-        <updated>2022-02-13T13:11:09.352Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 남주혁에 "보나와 사귀는 사이?" 질투]]></title>
-        <id>https://entertain.v.daum.net/v/20220213214712195</id>
-        <link href="https://entertain.v.daum.net/v/20220213214712195"/>
-        <updated>2022-02-13T13:11:09.353Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
