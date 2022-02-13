@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-13T14:09:22.215Z</updated>
+    <updated>2022-02-13T15:10:40.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 박민영, 윤박과 혼수 '반반' 다툼..유라, 송강 알아볼까 '식겁']]></title>
+        <id>https://entertain.v.daum.net/v/20220213235809823</id>
+        <link href="https://entertain.v.daum.net/v/20220213235809823"/>
+        <updated>2022-02-13T15:10:30.837Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 박민영, 윤박 정리→송강과 술김에 하룻밤]]></title>
+        <id>https://entertain.v.daum.net/v/20220213235135757</id>
+        <link href="https://entertain.v.daum.net/v/20220213235135757"/>
+        <updated>2022-02-13T15:10:30.837Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유라, 윤박에 결혼 전 송강과 동거 사실 숨겼다]]></title>
+        <id>https://entertain.v.daum.net/v/20220213234234656</id>
+        <link href="https://entertain.v.daum.net/v/20220213234234656"/>
+        <updated>2022-02-13T15:10:30.838Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기상청 사람들' 유라, 박민영 버린 윤박과 결혼 "너무 다정해"]]></title>
         <id>https://entertain.v.daum.net/v/20220213230414240</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220213214712195"/>
         <updated>2022-02-13T13:11:09.353Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김지연, 전학생 김태리에 "너는 1인분의 예산일뿐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220213213852994</id>
-        <link href="https://entertain.v.daum.net/v/20220213213852994"/>
-        <updated>2022-02-13T13:11:09.354Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리vs보나, 치열한 펜싱 연습 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220213200305076</id>
-        <link href="https://entertain.v.daum.net/v/20220213200305076"/>
-        <updated>2022-02-13T11:08:41.158Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜은, 걸크러시 펜싱 코치 완벽 변신..김태리와 사제 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220213191314423</id>
-        <link href="https://entertain.v.daum.net/v/20220213191314423"/>
-        <updated>2022-02-13T11:08:41.159Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
