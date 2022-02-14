@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-14T01:51:51.857Z</updated>
+    <updated>2022-02-14T02:21:29.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 이주명, 똑쟁이 반장 첫 등장 '김태리 절친' 눈도장 꾹]]></title>
+        <id>https://entertain.v.daum.net/v/20220214110332020</id>
+        <link href="https://entertain.v.daum.net/v/20220214110332020"/>
+        <updated>2022-02-14T02:21:20.420Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭♥김세정, 밸런타인데이 열애설 나도 믿겠어]]></title>
         <id>https://entertain.v.daum.net/v/20220214104638335</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220214091217288"/>
         <updated>2022-02-14T00:36:23.727Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 군대 썩은 악은 누구인가, 베일 벗기 시작한 빌런들 정체]]></title>
-        <id>https://entertain.v.daum.net/v/20220214091143260</id>
-        <link href="https://entertain.v.daum.net/v/20220214091143260"/>
-        <updated>2022-02-14T00:36:23.728Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
