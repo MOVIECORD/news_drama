@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-14T09:10:23.805Z</updated>
+    <updated>2022-02-14T10:11:09.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웹드라마 '첫사랑만 세번째', 日 라쿠텐TV 1위 석권]]></title>
+        <id>https://entertain.v.daum.net/v/20220214185538669</id>
+        <link href="https://entertain.v.daum.net/v/20220214185538669"/>
+        <updated>2022-02-14T10:11:01.544Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문세윤 코로나 확진.. 방송가 비상]]></title>
+        <id>https://entertain.v.daum.net/v/20220214182146052</id>
+        <link href="https://entertain.v.daum.net/v/20220214182146052"/>
+        <updated>2022-02-14T10:11:01.545Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 김범 X손나은, 썸과 쌈의 마침표?..댕냥 커플의 묘한 기류]]></title>
         <id>https://entertain.v.daum.net/v/20220214171859991</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220214134928002"/>
         <updated>2022-02-14T05:10:14.502Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["손예진, 강남 피부과 원장 차미조 그 자체"]]></title>
-        <id>https://entertain.v.daum.net/v/20220214134357808</id>
-        <link href="https://entertain.v.daum.net/v/20220214134357808"/>
-        <updated>2022-02-14T05:10:14.504Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 김상호 감독 "손예진, 모든 면에서 미조 그 자체"]]></title>
-        <id>https://entertain.v.daum.net/v/20220214133843686</id>
-        <link href="https://entertain.v.daum.net/v/20220214133843686"/>
-        <updated>2022-02-14T05:10:14.506Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
