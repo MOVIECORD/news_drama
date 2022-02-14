@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-14T10:11:09.934Z</updated>
+    <updated>2022-02-14T11:09:11.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트 닥터' 김범-손나은, '댕냥 커플'의 미묘한 기류]]></title>
+        <id>https://entertain.v.daum.net/v/20220214195549551</id>
+        <link href="https://entertain.v.daum.net/v/20220214195549551"/>
+        <updated>2022-02-14T11:09:02.177Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹드라마 '첫사랑만 세번째', 日 라쿠텐TV 1위 석권]]></title>
         <id>https://entertain.v.daum.net/v/20220214185538669</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220214140203439"/>
         <updated>2022-02-14T05:10:14.502Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 감독 "손예진은 모든 면에서 차미조 그 자체"]]></title>
-        <id>https://entertain.v.daum.net/v/20220214134928002</id>
-        <link href="https://entertain.v.daum.net/v/20220214134928002"/>
-        <updated>2022-02-14T05:10:14.502Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
