@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-15T10:11:33.063Z</updated>
+    <updated>2022-02-15T11:08:43.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이런 연기 처음"..'킬힐' 김하늘의 도전]]></title>
+        <id>https://entertain.v.daum.net/v/20220215195003743</id>
+        <link href="https://entertain.v.daum.net/v/20220215195003743"/>
+        <updated>2022-02-15T11:08:34.438Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트레이서' 임시완-고아성-손현주-박용우, 전반부 명장면 살펴보니]]></title>
         <id>https://entertain.v.daum.net/v/20220215185612601</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220215154845130"/>
         <updated>2022-02-15T07:10:09.461Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘 "모든 장면 어려웠지만 처음 하는 연기에 희열"]]></title>
-        <id>https://entertain.v.daum.net/v/20220215154537981</id>
-        <link href="https://entertain.v.daum.net/v/20220215154537981"/>
-        <updated>2022-02-15T07:10:09.462Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
