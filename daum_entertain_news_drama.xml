@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-15T13:13:35.739Z</updated>
+    <updated>2022-02-15T14:10:10.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 김범, 정지훈에 "나 의사로 만들어 달라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220215224328065</id>
+        <link href="https://entertain.v.daum.net/v/20220215224328065"/>
+        <updated>2022-02-15T14:10:01.539Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국가대표 와이프' 심지호, 엄수정 폭로에 충격→오유나 지킬 것]]></title>
         <id>https://entertain.v.daum.net/v/20220215212634518</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220215160738051"/>
         <updated>2022-02-15T07:10:09.459Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 사람만' OST 음반 예판 시작..레드벨벳 조이→양파 참여]]></title>
-        <id>https://entertain.v.daum.net/v/20220215155854559</id>
-        <link href="https://entertain.v.daum.net/v/20220215155854559"/>
-        <updated>2022-02-15T07:10:09.459Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
