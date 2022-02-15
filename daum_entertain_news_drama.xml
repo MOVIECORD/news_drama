@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-15T20:10:53.809Z</updated>
+    <updated>2022-02-15T21:09:12.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대박' 없이도 시즌제 OK..코로나19 장기화로 달라진 예능가]]></title>
+        <id>https://entertain.v.daum.net/v/20220216060015510</id>
+        <link href="https://entertain.v.daum.net/v/20220216060015510"/>
+        <updated>2022-02-15T21:09:02.893Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트닥터' 유이, 정지훈 빙의된 김범 알고 "내 곁에 있었어" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220216054300263</id>
+        <link href="https://entertain.v.daum.net/v/20220216054300263"/>
+        <updated>2022-02-15T21:09:02.896Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유이, 정지훈X김범 빙의 깨달았다.. "계속 내 옆에 있었구나" 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220216052508082</id>
+        <link href="https://entertain.v.daum.net/v/20220216052508082"/>
+        <updated>2022-02-15T21:09:02.898Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 결혼 앞둔 손예진, 싱글 마지막 작품도 성공할까]]></title>
         <id>https://entertain.v.daum.net/v/20220216043113530</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220215195003743"/>
         <updated>2022-02-15T11:08:34.438Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완-고아성-손현주-박용우, 전반부 명장면 살펴보니]]></title>
-        <id>https://entertain.v.daum.net/v/20220215185612601</id>
-        <link href="https://entertain.v.daum.net/v/20220215185612601"/>
-        <updated>2022-02-15T10:11:24.561Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜영, '킬힐' 3번 거절한 이유는?.."발목·허리 안 좋아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220215185002426</id>
-        <link href="https://entertain.v.daum.net/v/20220215185002426"/>
-        <updated>2022-02-15T10:11:24.564Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 안보현X조보아, 1분 순삭 하이라이트 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220215184415253</id>
-        <link href="https://entertain.v.daum.net/v/20220215184415253"/>
-        <updated>2022-02-15T10:11:24.567Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
