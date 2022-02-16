@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-16T12:15:58.398Z</updated>
+    <updated>2022-02-16T13:13:22.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김시은 '인사이더' 출연확정, 강하늘·이유영과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220216214139160</id>
+        <link href="https://entertain.v.daum.net/v/20220216214139160"/>
+        <updated>2022-02-16T13:13:13.687Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이원근 '사이코패스 연쇄살인마' 변신]]></title>
         <id>https://entertain.v.daum.net/v/20220216195008049</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220216165014321"/>
         <updated>2022-02-16T08:12:05.668Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균X한지민 '욘더', 파라마운트 플러스 통해 해외 진출]]></title>
-        <id>https://entertain.v.daum.net/v/20220216163404724</id>
-        <link href="https://entertain.v.daum.net/v/20220216163404724"/>
-        <updated>2022-02-16T08:12:05.668Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
