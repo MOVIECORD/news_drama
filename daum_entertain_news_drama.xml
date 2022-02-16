@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-16T10:12:11.087Z</updated>
+    <updated>2022-02-16T11:09:57.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이원근 '사이코패스 연쇄살인마' 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220216195008049</id>
+        <link href="https://entertain.v.daum.net/v/20220216195008049"/>
+        <updated>2022-02-16T11:09:49.356Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상승세 탄 김태리♥남주혁 98년도 청춘 케미]]></title>
+        <id>https://entertain.v.daum.net/v/20220216193011666</id>
+        <link href="https://entertain.v.daum.net/v/20220216193011666"/>
+        <updated>2022-02-16T11:09:49.356Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["♥현빈으로 현실만족"..'결혼' 손예진, 예비신랑 언급에 활짝]]></title>
+        <id>https://entertain.v.daum.net/v/20220216193002657</id>
+        <link href="https://entertain.v.daum.net/v/20220216193002657"/>
+        <updated>2022-02-16T11:09:49.356Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이이담, '공작도시'로 알린 쾌조의 출발]]></title>
         <id>https://entertain.v.daum.net/v/20220216190148163</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220216163404724"/>
         <updated>2022-02-16T08:12:05.668Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아직 최선' 김갑수 박지영, 쌈 or 썸 알쏭달쏭 핑크빛 기류]]></title>
-        <id>https://entertain.v.daum.net/v/20220216162105253</id>
-        <link href="https://entertain.v.daum.net/v/20220216162105253"/>
-        <updated>2022-02-16T08:12:05.670Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["운명 같아" 손예진, ♥현빈 예비신부의 '사랑한 티' 난 순간]]></title>
-        <id>https://entertain.v.daum.net/v/20220216160800760</id>
-        <link href="https://entertain.v.daum.net/v/20220216160800760"/>
-        <updated>2022-02-16T07:09:54.265Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 손예진 "예쁜 누나, 살짝 나이 들어 돌아왔어요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220216160342594</id>
-        <link href="https://entertain.v.daum.net/v/20220216160342594"/>
-        <updated>2022-02-16T07:09:54.266Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
