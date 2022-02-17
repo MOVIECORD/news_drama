@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-17T07:11:03.091Z</updated>
+    <updated>2022-02-17T08:12:01.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경찰수업' 박연우, 채수빈도 짝사랑하는 완벽남..반할 수밖에 없어]]></title>
+        <id>https://entertain.v.daum.net/v/20220217171025939</id>
+        <link href="https://entertain.v.daum.net/v/20220217171025939"/>
+        <updated>2022-02-17T08:11:52.064Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그리드' 이수연 작가의 압도적 몰입감, 공개 방식 바꿨으면 어땠을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220217161126379</id>
+        <link href="https://entertain.v.daum.net/v/20220217161126379"/>
+        <updated>2022-02-17T08:11:52.068Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베테랑 부모 박미선·하하·인교진, MBN '고딩엄빠' MC 발탁]]></title>
         <id>https://entertain.v.daum.net/v/20220217151405665</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220217133435100"/>
         <updated>2022-02-17T05:09:36.967Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 정수정, 러블리→살기 반전..美친 변신 '달콤살벌 쇼']]></title>
-        <id>https://entertain.v.daum.net/v/20220217122141298</id>
-        <link href="https://entertain.v.daum.net/v/20220217122141298"/>
-        <updated>2022-02-17T04:13:16.402Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복무하라' 연우진 "내가 꼭 하고 싶었다..다른 배우가 하면 배아플 것 같아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220217121629176</id>
-        <link href="https://entertain.v.daum.net/v/20220217121629176"/>
-        <updated>2022-02-17T04:13:16.403Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
