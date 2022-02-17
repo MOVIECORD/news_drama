@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-17T15:11:12.481Z</updated>
+    <updated>2022-02-17T16:14:08.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전미도 시한부 안 손예진, 이무생 원망 "너 죽일거야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220218010102833</id>
+        <link href="https://entertain.v.daum.net/v/20220218010102833"/>
+        <updated>2022-02-17T16:13:59.379Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 영정사진 전미도였다. 폐암 4기 진단에 손예진 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220218002937478</id>
+        <link href="https://entertain.v.daum.net/v/20220218002937478"/>
+        <updated>2022-02-17T16:13:59.380Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사고 아니에요" 손예진, 연우진 재회·하룻밤 선긋기 번복]]></title>
+        <id>https://entertain.v.daum.net/v/20220218001753388</id>
+        <link href="https://entertain.v.daum.net/v/20220218001753388"/>
+        <updated>2022-02-17T16:13:59.387Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른아홉' 손예진, 전미도 시한부 선고에 "이무생 너 때문이다" 오열]]></title>
         <id>https://entertain.v.daum.net/v/20220218000647194</id>
@@ -69,6 +90,13 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['서른아홉' 연우진, 손예진에 "하룻밤..사고 아니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220217223919562</id>
+        <link href="https://entertain.v.daum.net/v/20220217223919562"/>
+        <updated>2022-02-17T16:13:59.406Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[손예진·전미도, 김지현이 꽂힌 이태환 염탐]]></title>
         <id>https://entertain.v.daum.net/v/20220217222806258</id>
         <link href="https://entertain.v.daum.net/v/20220217222806258"/>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220217214605264"/>
         <updated>2022-02-17T13:13:34.698Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함병선, '아직 최선을 다하지 않았을 뿐' OST 오늘 발매]]></title>
-        <id>https://entertain.v.daum.net/v/20220217194626258</id>
-        <link href="https://entertain.v.daum.net/v/20220217194626258"/>
-        <updated>2022-02-17T11:08:27.731Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김풍 특별출연 "박해준 능청 연기 GOOD"]]></title>
-        <id>https://entertain.v.daum.net/v/20220217190110361</id>
-        <link href="https://entertain.v.daum.net/v/20220217190110361"/>
-        <updated>2022-02-17T10:12:16.982Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강재준, 백신 3차 맞았는데.. 돌파 감염]]></title>
-        <id>https://entertain.v.daum.net/v/20220217184504055</id>
-        <link href="https://entertain.v.daum.net/v/20220217184504055"/>
-        <updated>2022-02-17T10:12:16.984Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너와 나의 경찰수업' 김우석, 범생이의 화려한 일탈..경찰대 아이돌 됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20220217180150728</id>
-        <link href="https://entertain.v.daum.net/v/20220217180150728"/>
-        <updated>2022-02-17T09:11:11.148Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
