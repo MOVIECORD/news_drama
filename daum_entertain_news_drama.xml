@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-17T01:49:09.232Z</updated>
+    <updated>2022-02-17T02:20:16.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손예진·전미도에게 누구나 흠뻑 빠져들 수밖에 없는 시간]]></title>
+        <id>https://entertain.v.daum.net/v/20220217111045392</id>
+        <link href="https://entertain.v.daum.net/v/20220217111045392"/>
+        <updated>2022-02-17T02:20:08.374Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤아정, MBC '비밀의 집' 출연..서하준과 남매 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220217110649183</id>
+        <link href="https://entertain.v.daum.net/v/20220217110649183"/>
+        <updated>2022-02-17T02:20:08.377Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그리드' 서강준, 군백기가 뭐예요?..압도적인 존재감]]></title>
+        <id>https://entertain.v.daum.net/v/20220217105723727</id>
+        <link href="https://entertain.v.daum.net/v/20220217105723727"/>
+        <updated>2022-02-17T02:20:08.377Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그리드' 서강준, 군백기 지울 강렬한 존재감..단 1회면 충분했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220217105521631</id>
+        <link href="https://entertain.v.daum.net/v/20220217105521631"/>
+        <updated>2022-02-17T02:20:08.379Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시맨틱 에러' 빨간색 무장 박서함, 박재찬 향한 새빨간 복수]]></title>
         <id>https://entertain.v.daum.net/v/20220217103853820</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220217095818199"/>
         <updated>2022-02-17T01:49:01.205Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '서른, 아홉' 손예진→전미도, 훌륭한 조합 속 아쉬운 전개]]></title>
-        <id>https://entertain.v.daum.net/v/20220217095007856</id>
-        <link href="https://entertain.v.daum.net/v/20220217095007856"/>
-        <updated>2022-02-17T01:49:01.207Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내과박원장' 이서진, 소름끼치는 비밀 공개..점집에서 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220217094156538</id>
-        <link href="https://entertain.v.daum.net/v/20220217094156538"/>
-        <updated>2022-02-17T01:49:01.207Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의아저씨' 작가 차기작 '나의 해방일지'..이민기X김지원의 위로극]]></title>
-        <id>https://entertain.v.daum.net/v/20220217094131517</id>
-        <link href="https://entertain.v.daum.net/v/20220217094131517"/>
-        <updated>2022-02-17T01:49:01.208Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 파도파도 끝없는 송강 매력, 날씨 요정→폭스 연하]]></title>
-        <id>https://entertain.v.daum.net/v/20220217093750371</id>
-        <link href="https://entertain.v.daum.net/v/20220217093750371"/>
-        <updated>2022-02-17T01:49:01.210Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
