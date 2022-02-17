@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-17T10:12:25.591Z</updated>
+    <updated>2022-02-17T11:08:35.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함병선, '아직 최선을 다하지 않았을 뿐' OST 오늘 발매]]></title>
+        <id>https://entertain.v.daum.net/v/20220217194626258</id>
+        <link href="https://entertain.v.daum.net/v/20220217194626258"/>
+        <updated>2022-02-17T11:08:27.731Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김풍 특별출연 "박해준 능청 연기 GOOD"]]></title>
         <id>https://entertain.v.daum.net/v/20220217190110361</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220217141103722"/>
         <updated>2022-02-17T06:13:28.570Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전미도 불륜, 애틋한 사랑으로 포장..내로남불로 지워낸 '슬의생']]></title>
-        <id>https://entertain.v.daum.net/v/20220217140902635</id>
-        <link href="https://entertain.v.daum.net/v/20220217140902635"/>
-        <updated>2022-02-17T05:09:36.962Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
