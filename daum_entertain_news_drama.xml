@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-17T02:20:16.406Z</updated>
+    <updated>2022-02-17T03:11:45.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지우학' 박지후 "MZ세대, 고백보다 썸이 좋다'"]]></title>
+        <id>https://entertain.v.daum.net/v/20220217120153771</id>
+        <link href="https://entertain.v.daum.net/v/20220217120153771"/>
+        <updated>2022-02-17T03:11:36.640Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역시, 손예진! '유퀴즈'·'서른, 아홉' 안방 완벽 점령]]></title>
+        <id>https://entertain.v.daum.net/v/20220217115625439</id>
+        <link href="https://entertain.v.daum.net/v/20220217115625439"/>
+        <updated>2022-02-17T03:11:36.640Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손예진·전미도에게 누구나 흠뻑 빠져들 수밖에 없는 시간]]></title>
         <id>https://entertain.v.daum.net/v/20220217111045392</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220217100312420"/>
         <updated>2022-02-17T01:49:01.205Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리X남주혁, 둘만의 비밀 생겼다..어깨동무 투샷]]></title>
-        <id>https://entertain.v.daum.net/v/20220217095819200</id>
-        <link href="https://entertain.v.daum.net/v/20220217095819200"/>
-        <updated>2022-02-17T01:49:01.205Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마냥 설레는 김태리x남주혁, 다리 묶고 어깨동무 '찐 케미']]></title>
-        <id>https://entertain.v.daum.net/v/20220217095818199</id>
-        <link href="https://entertain.v.daum.net/v/20220217095818199"/>
-        <updated>2022-02-17T01:49:01.205Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
