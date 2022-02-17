@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-17T06:13:38.246Z</updated>
+    <updated>2022-02-17T07:11:03.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베테랑 부모 박미선·하하·인교진, MBN '고딩엄빠' MC 발탁]]></title>
+        <id>https://entertain.v.daum.net/v/20220217151405665</id>
+        <link href="https://entertain.v.daum.net/v/20220217151405665"/>
+        <updated>2022-02-17T07:10:54.575Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭x김세정, 웹툰 찢고 나왔네..원작자 "드라마화 기뻐"]]></title>
         <id>https://entertain.v.daum.net/v/20220217151203551</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220217121629176"/>
         <updated>2022-02-17T04:13:16.403Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너나경' 채수빈, 고은강 완성 시킨 남다른 대본 사랑]]></title>
-        <id>https://entertain.v.daum.net/v/20220217121300071</id>
-        <link href="https://entertain.v.daum.net/v/20220217121300071"/>
-        <updated>2022-02-17T04:13:16.404Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
