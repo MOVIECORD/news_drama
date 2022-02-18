@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T22:11:21.246Z</updated>
+    <updated>2022-02-18T23:10:28.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃피달' 측 "사건의 연결고리→출생의 비밀, 마지막까지 쫄깃할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220219080529472</id>
+        <link href="https://entertain.v.daum.net/v/20220219080529472"/>
+        <updated>2022-02-18T23:10:20.623Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지우학' 과한 욕심이 만든 납작한 세계]]></title>
         <id>https://entertain.v.daum.net/v/20220219064805735</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218154636182"/>
         <updated>2022-02-18T07:11:00.744Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완, 나쁜 돈 추적→날 선 복수극 '짜릿한 후반부']]></title>
-        <id>https://entertain.v.daum.net/v/20220218153358721</id>
-        <link href="https://entertain.v.daum.net/v/20220218153358721"/>
-        <updated>2022-02-18T07:11:00.744Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
