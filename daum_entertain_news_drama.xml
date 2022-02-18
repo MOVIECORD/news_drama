@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T08:12:28.501Z</updated>
+    <updated>2022-02-18T09:11:28.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 김하늘→김성령, 대본 초밀착 모드..'멋쁨' 폭발 현장]]></title>
+        <id>https://entertain.v.daum.net/v/20220218180027155</id>
+        <link href="https://entertain.v.daum.net/v/20220218180027155"/>
+        <updated>2022-02-18T09:11:19.190Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희철X김민아 '힛트쏭', 서태지 소환하고 1000회까지 가나]]></title>
+        <id>https://entertain.v.daum.net/v/20220218173641505</id>
+        <link href="https://entertain.v.daum.net/v/20220218173641505"/>
+        <updated>2022-02-18T09:11:19.192Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완, '나쁜 돈' 추적 성공할까 후반부 하이라이트 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220218173015310</id>
+        <link href="https://entertain.v.daum.net/v/20220218173015310"/>
+        <updated>2022-02-18T09:11:19.192Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우월한 하루' 스페셜 웹툰 포스터, 비슷한 듯 다른 톤앤무드]]></title>
         <id>https://entertain.v.daum.net/v/20220218165201225</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218143415523"/>
         <updated>2022-02-18T06:13:29.234Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 측 "코로나 확진자 발생, 첫방 2주 연기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220218143404515</id>
-        <link href="https://entertain.v.daum.net/v/20220218143404515"/>
-        <updated>2022-02-18T06:13:29.239Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉', 모든 면에서 강약 조절이 굿!]]></title>
-        <id>https://entertain.v.daum.net/v/20220218142636191</id>
-        <link href="https://entertain.v.daum.net/v/20220218142636191"/>
-        <updated>2022-02-18T06:13:29.240Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 25일 대선 토론회로 결방.. 26일 2회 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20220218142343083</id>
-        <link href="https://entertain.v.daum.net/v/20220218142343083"/>
-        <updated>2022-02-18T06:13:29.240Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
