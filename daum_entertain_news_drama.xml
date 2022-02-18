@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T02:35:15.017Z</updated>
+    <updated>2022-02-18T03:11:15.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조이현 "'온조'로 오디션, 텐션 올려달라는 감독 말에 탈락한줄"]]></title>
+        <id>https://entertain.v.daum.net/v/20220218120107638</id>
+        <link href="https://entertain.v.daum.net/v/20220218120107638"/>
+        <updated>2022-02-18T03:11:07.001Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른. 아홉' 마흔은 민망한 세 여자의 우정·사랑·이별 '눈길']]></title>
         <id>https://entertain.v.daum.net/v/20220218110507503</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218090754316"/>
         <updated>2022-02-18T00:41:42.147Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 김응수-이종남, 순산 기도 현장 공개 "하느님 부처님"]]></title>
-        <id>https://entertain.v.daum.net/v/20220218090744312</id>
-        <link href="https://entertain.v.daum.net/v/20220218090744312"/>
-        <updated>2022-02-18T00:41:42.147Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
