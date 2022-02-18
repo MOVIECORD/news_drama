@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T07:11:09.623Z</updated>
+    <updated>2022-02-18T08:12:28.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우월한 하루' 스페셜 웹툰 포스터, 비슷한 듯 다른 톤앤무드]]></title>
+        <id>https://entertain.v.daum.net/v/20220218165201225</id>
+        <link href="https://entertain.v.daum.net/v/20220218165201225"/>
+        <updated>2022-02-18T08:12:19.868Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김권, '너와 나의 경찰수업' 합류..강다니엘X채수빈과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220218164223925</id>
+        <link href="https://entertain.v.daum.net/v/20220218164223925"/>
+        <updated>2022-02-18T08:12:19.873Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tvN "'킬힐', 코로나19 확진자 발생..첫방 3월9일로 연기"]]></title>
         <id>https://entertain.v.daum.net/v/20220218160208698</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218142343083"/>
         <updated>2022-02-18T06:13:29.240Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 측 "코로나19 확진자 발생..첫 방송 연기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220218141451750</id>
-        <link href="https://entertain.v.daum.net/v/20220218141451750"/>
-        <updated>2022-02-18T06:13:29.241Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정-설인아, 실제 동갑내기의 찐친 바이브]]></title>
-        <id>https://entertain.v.daum.net/v/20220218134008705</id>
-        <link href="https://entertain.v.daum.net/v/20220218134008705"/>
-        <updated>2022-02-18T05:09:55.177Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
