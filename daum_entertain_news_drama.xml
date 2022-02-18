@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T09:11:28.056Z</updated>
+    <updated>2022-02-18T10:12:13.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남길·진선규·김소진, 과몰입 유발 연기 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220218185009282</id>
+        <link href="https://entertain.v.daum.net/v/20220218185009282"/>
+        <updated>2022-02-18T10:12:05.366Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진구·하도권·이원근 24시간 뒤엔? 스페셜 포스터]]></title>
+        <id>https://entertain.v.daum.net/v/20220218182011691</id>
+        <link href="https://entertain.v.daum.net/v/20220218182011691"/>
+        <updated>2022-02-18T10:12:05.366Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킬힐' 김하늘→김성령, 대본 초밀착 모드..'멋쁨' 폭발 현장]]></title>
         <id>https://entertain.v.daum.net/v/20220218180027155</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220218145340159</id>
         <link href="https://entertain.v.daum.net/v/20220218145340159"/>
         <updated>2022-02-18T06:13:29.229Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 김아중, 센스 만점 '그리드' 홍보 요정..반전 매력까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220218144301824</id>
-        <link href="https://entertain.v.daum.net/v/20220218144301824"/>
-        <updated>2022-02-18T06:13:29.230Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 첫방송 2주 연기 "촬영 현장 코로나 확진자 발생 여파"]]></title>
-        <id>https://entertain.v.daum.net/v/20220218143415523</id>
-        <link href="https://entertain.v.daum.net/v/20220218143415523"/>
-        <updated>2022-02-18T06:13:29.234Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
