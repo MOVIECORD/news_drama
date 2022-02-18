@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T04:13:47.129Z</updated>
+    <updated>2022-02-18T05:10:03.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 김세정-설인아, 실제 동갑내기의 찐친 바이브]]></title>
+        <id>https://entertain.v.daum.net/v/20220218134008705</id>
+        <link href="https://entertain.v.daum.net/v/20220218134008705"/>
+        <updated>2022-02-18T05:09:55.177Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["나야 쟤야?"..김태리x남주혁x보나, '심쿵' 삼자대면]]></title>
+        <id>https://entertain.v.daum.net/v/20220218132331359</id>
+        <link href="https://entertain.v.daum.net/v/20220218132331359"/>
+        <updated>2022-02-18T05:09:55.188Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스물다섯→기상청'에 '결사곡3' 가세..피 튀기는 토일극 전쟁]]></title>
         <id>https://entertain.v.daum.net/v/20220218124139531</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218092853991"/>
         <updated>2022-02-18T00:41:42.126Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김응수·이종남, 이민영 출산 임박에 순산 기도]]></title>
-        <id>https://entertain.v.daum.net/v/20220218092005743</id>
-        <link href="https://entertain.v.daum.net/v/20220218092005743"/>
-        <updated>2022-02-18T00:41:42.129Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금부터, 쇼타임!' 대본 리딩 현장 공개, 박해진X진기주 호흡 어땠나]]></title>
-        <id>https://entertain.v.daum.net/v/20220218091502581</id>
-        <link href="https://entertain.v.daum.net/v/20220218091502581"/>
-        <updated>2022-02-18T00:41:42.132Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
