@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-19T06:14:51.489Z</updated>
+    <updated>2022-02-19T07:10:05.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그 드라마 아직도 해? 올림픽 여파 직격탄 맞은 지상파 드라마]]></title>
+        <id>https://entertain.v.daum.net/v/20220219154045495</id>
+        <link href="https://entertain.v.daum.net/v/20220219154045495"/>
+        <updated>2022-02-19T07:09:57.189Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남주혁♥︎' 김태리, '스물다섯 스물하나' 2주차에도 청춘 소환 '대체불가']]></title>
+        <id>https://entertain.v.daum.net/v/20220219154006485</id>
+        <link href="https://entertain.v.daum.net/v/20220219154006485"/>
+        <updated>2022-02-19T07:09:57.191Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은재, "많은 사랑 덕에 많이 배워. 감사함 항상 잊지 않을 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220219151735290</id>
+        <link href="https://entertain.v.daum.net/v/20220219151735290"/>
+        <updated>2022-02-19T07:09:57.192Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원필, "내게 첫 작품이었던 작품. 계속 마음에 남을 것 같아"]]></title>
         <id>https://entertain.v.daum.net/v/20220219150500114</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219112559617"/>
         <updated>2022-02-19T02:27:40.682Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 스포 사진 풀렸다..남주혁에 삐친 김태리?]]></title>
-        <id>https://entertain.v.daum.net/v/20220219111726474</id>
-        <link href="https://entertain.v.daum.net/v/20220219111726474"/>
-        <updated>2022-02-19T02:27:40.683Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리·남주혁·보나·최현욱·이주명, 미리 보는 스틸 대방출]]></title>
-        <id>https://entertain.v.daum.net/v/20220219111155383</id>
-        <link href="https://entertain.v.daum.net/v/20220219111155383"/>
-        <updated>2022-02-19T02:27:40.696Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 20년차' 박명신 "'불가살'=터닝포인트..초심 잃지 않을 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220219105010073</id>
-        <link href="https://entertain.v.daum.net/v/20220219105010073"/>
-        <updated>2022-02-19T01:56:16.870Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
