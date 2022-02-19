@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-19T21:10:02.371Z</updated>
+    <updated>2022-02-19T22:13:14.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 보나, 남주혁에 "김태리 싫어, 친하게 지내지 마"]]></title>
+        <id>https://entertain.v.daum.net/v/20220220070021329</id>
+        <link href="https://entertain.v.daum.net/v/20220220070021329"/>
+        <updated>2022-02-19T22:13:06.420Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세희, 유전자 검사로 이일화 친모 확인→지현우 "이세희에게 말할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220220065809286</id>
+        <link href="https://entertain.v.daum.net/v/20220220065809286"/>
+        <updated>2022-02-19T22:13:06.432Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스물다섯 스물하나' 김태리 채팅친구=보나 반전, 워맨스 맛집이었네]]></title>
         <id>https://entertain.v.daum.net/v/20220220060144048</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219235024853"/>
         <updated>2022-02-19T15:10:38.595Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 송강, 박민영 걱정.."약은 먹었어요?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220219233423799</id>
-        <link href="https://entertain.v.daum.net/v/20220219233423799"/>
-        <updated>2022-02-19T15:10:38.598Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 송강, 박민영과의 동침 회상하며 "추웠냐고? 더웠는데.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220219230026686</id>
-        <link href="https://entertain.v.daum.net/v/20220219230026686"/>
-        <updated>2022-02-19T14:09:54.547Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
