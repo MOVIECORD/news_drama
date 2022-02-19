@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-18T23:10:28.716Z</updated>
+    <updated>2022-02-19T00:42:16.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미, '오징어게임'→'지우학' 빌드업 열연..월드 클래스 우뚝]]></title>
+        <id>https://entertain.v.daum.net/v/20220219092551151</id>
+        <link href="https://entertain.v.daum.net/v/20220219092551151"/>
+        <updated>2022-02-19T00:42:07.876Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 유승호X이혜리, '잔나비' 최원영 죄 밝힐까]]></title>
+        <id>https://entertain.v.daum.net/v/20220219092200109</id>
+        <link href="https://entertain.v.daum.net/v/20220219092200109"/>
+        <updated>2022-02-19T00:42:07.877Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임성한이 또! #삼색 불륜 #신기림 의문사 #시즌2 충격 웨딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220219091005023</id>
+        <link href="https://entertain.v.daum.net/v/20220219091005023"/>
+        <updated>2022-02-19T00:42:07.879Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소현, '스물다섯 스물하나' 김태리 성인 役 깜짝 등장]]></title>
+        <id>https://entertain.v.daum.net/v/20220219084540748</id>
+        <link href="https://entertain.v.daum.net/v/20220219084540748"/>
+        <updated>2022-02-19T00:42:07.882Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 아성 누가 위협하나? OTT 톱4사 치열한 경쟁]]></title>
+        <id>https://entertain.v.daum.net/v/20220219083838692</id>
+        <link href="https://entertain.v.daum.net/v/20220219083838692"/>
+        <updated>2022-02-19T00:42:07.885Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃피달' 측 "사건의 연결고리→출생의 비밀, 마지막까지 쫄깃할 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220219080529472</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220218173015310"/>
         <updated>2022-02-18T09:11:19.192Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우월한 하루' 스페셜 웹툰 포스터, 비슷한 듯 다른 톤앤무드]]></title>
-        <id>https://entertain.v.daum.net/v/20220218165201225</id>
-        <link href="https://entertain.v.daum.net/v/20220218165201225"/>
-        <updated>2022-02-18T08:12:19.868Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김권, '너와 나의 경찰수업' 합류..강다니엘X채수빈과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220218164223925</id>
-        <link href="https://entertain.v.daum.net/v/20220218164223925"/>
-        <updated>2022-02-18T08:12:19.873Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tvN "'킬힐', 코로나19 확진자 발생..첫방 3월9일로 연기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220218160208698</id>
-        <link href="https://entertain.v.daum.net/v/20220218160208698"/>
-        <updated>2022-02-18T07:11:00.742Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스의 좀비사랑이 빚은  글로벌 '지우학' 열풍]]></title>
-        <id>https://entertain.v.daum.net/v/20220218155248378</id>
-        <link href="https://entertain.v.daum.net/v/20220218155248378"/>
-        <updated>2022-02-18T07:11:00.743Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거침없는 대시 후 배려, 손예진이 그리는 어른들의 사랑]]></title>
-        <id>https://entertain.v.daum.net/v/20220218154636182</id>
-        <link href="https://entertain.v.daum.net/v/20220218154636182"/>
-        <updated>2022-02-18T07:11:00.744Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
