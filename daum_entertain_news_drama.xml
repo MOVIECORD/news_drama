@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-19T04:13:19.308Z</updated>
+    <updated>2022-02-19T05:09:46.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시종일관 찡그린 박하선이 임산부라고 챙기는 오지랖들에게]]></title>
+        <id>https://entertain.v.daum.net/v/20220219140619412</id>
+        <link href="https://entertain.v.daum.net/v/20220219140619412"/>
+        <updated>2022-02-19T05:09:37.016Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['영민 앓이'하게 만든 '고닥' 속 정지훈의 입덕 포인트는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220219135629249</id>
+        <link href="https://entertain.v.daum.net/v/20220219135629249"/>
+        <updated>2022-02-19T05:09:37.020Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결사곡' 핵심 서사 #삼색 불륜 #신기림 의문사 #시즌2 충격웨딩]]></title>
         <id>https://entertain.v.daum.net/v/20220219121426216</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220219104009986"/>
         <updated>2022-02-19T01:56:16.874Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청' 박민영 송강, 아찔한 하룻밤 후 사내 위기..빈틈..걱정]]></title>
-        <id>https://entertain.v.daum.net/v/20220219102744861</id>
-        <link href="https://entertain.v.daum.net/v/20220219102744861"/>
-        <updated>2022-02-19T01:56:16.874Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승호♥이혜리 '꽃달', 종영까지 2회..마지막 관전포인트 셋]]></title>
-        <id>https://entertain.v.daum.net/v/20220219101409701</id>
-        <link href="https://entertain.v.daum.net/v/20220219101409701"/>
-        <updated>2022-02-19T01:56:16.875Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
