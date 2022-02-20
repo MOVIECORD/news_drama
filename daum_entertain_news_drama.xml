@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-20T02:35:14.521Z</updated>
+    <updated>2022-02-20T03:11:20.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구원투수' 나인우를 만나다 "이제 '탕' 소리, 출발!"]]></title>
+        <id>https://entertain.v.daum.net/v/20220220120006933</id>
+        <link href="https://entertain.v.daum.net/v/20220220120006933"/>
+        <updated>2022-02-20T03:11:12.579Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범, 손나은과 핑크빛..음료∙디저트 건넨 이유는?]]></title>
         <id>https://entertain.v.daum.net/v/20220220112425373</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220220084334996</id>
         <link href="https://entertain.v.daum.net/v/20220220084334996"/>
         <updated>2022-02-20T00:44:49.417Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 이세희, 이일화 친모 확인→이종원 "이세희 지현우 헤어지게 해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220220082830899</id>
-        <link href="https://entertain.v.daum.net/v/20220220082830899"/>
-        <updated>2022-02-20T00:44:49.419Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
