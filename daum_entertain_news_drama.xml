@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-20T02:01:05.712Z</updated>
+    <updated>2022-02-20T02:35:14.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김범, 손나은과 핑크빛..음료∙디저트 건넨 이유는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220220112425373</id>
+        <link href="https://entertain.v.daum.net/v/20220220112425373"/>
+        <updated>2022-02-20T02:35:05.374Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 송강, 일+비주얼+매력 갖춘 NEW 국민 연하남]]></title>
+        <id>https://entertain.v.daum.net/v/20220220112337365</id>
+        <link href="https://entertain.v.daum.net/v/20220220112337365"/>
+        <updated>2022-02-20T02:35:05.374Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 김세정, 본캐↔부캐 이중생활..'경이로운 소문' 흥행 이을까?]]></title>
         <id>https://entertain.v.daum.net/v/20220220105523854</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220220082830899"/>
         <updated>2022-02-20T00:44:49.419Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강, ♥박민영에 직진 고백 "잤다고 사귀자 안 해"→"사귀어요 우리"]]></title>
-        <id>https://entertain.v.daum.net/v/20220220082701884</id>
-        <link href="https://entertain.v.daum.net/v/20220220082701884"/>
-        <updated>2022-02-20T00:44:49.420Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 송강, 거부할 수 없는 댕댕이 연하남 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20220220080457775</id>
-        <link href="https://entertain.v.daum.net/v/20220220080457775"/>
-        <updated>2022-02-19T23:10:32.980Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
