@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-20T03:11:20.966Z</updated>
+    <updated>2022-02-20T04:13:13.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 송강 바라보는 박민영 사랑스러운 눈빛→두번째 사내연애 시그널]]></title>
+        <id>https://entertain.v.daum.net/v/20220220131041980</id>
+        <link href="https://entertain.v.daum.net/v/20220220131041980"/>
+        <updated>2022-02-20T04:13:05.281Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 유승호♥︎이혜리 보내기 아쉬운 밀감 커플..애틋한 포옹]]></title>
+        <id>https://entertain.v.daum.net/v/20220220130537895</id>
+        <link href="https://entertain.v.daum.net/v/20220220130537895"/>
+        <updated>2022-02-20T04:13:05.282Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구원투수' 나인우를 만나다 "이제 '탕' 소리, 출발!"]]></title>
         <id>https://entertain.v.daum.net/v/20220220120006933</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220220085415084"/>
         <updated>2022-02-20T00:44:49.407Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["난 항상 네 편" 김태리, 남주혁과 균열..최고 10.9%]]></title>
-        <id>https://entertain.v.daum.net/v/20220220085009048</id>
-        <link href="https://entertain.v.daum.net/v/20220220085009048"/>
-        <updated>2022-02-20T00:44:49.412Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["PC통신 속 절친 보나였다"..'스물다섯 스물하나' 반전 엔딩..최고 10.9%]]></title>
-        <id>https://entertain.v.daum.net/v/20220220084334996</id>
-        <link href="https://entertain.v.daum.net/v/20220220084334996"/>
-        <updated>2022-02-20T00:44:49.417Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
