@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-20T19:09:41.956Z</updated>
+    <updated>2022-02-20T20:12:05.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정, 인생캐 추가? 이번엔 로코 도전]]></title>
+        <id>https://entertain.v.daum.net/v/20220221050008201</id>
+        <link href="https://entertain.v.daum.net/v/20220221050008201"/>
+        <updated>2022-02-20T20:11:57.654Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결사곡3' 측 "배우들 역할에 찰떡, 파격 업그레이드"]]></title>
         <id>https://entertain.v.daum.net/v/20220221030006576</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220220220649653"/>
         <updated>2022-02-20T13:12:18.552Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 펜싱부 선배들 한방 먹였다 "등신 만들기 싫어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220220215706501</id>
-        <link href="https://entertain.v.daum.net/v/20220220215706501"/>
-        <updated>2022-02-20T13:12:18.555Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
