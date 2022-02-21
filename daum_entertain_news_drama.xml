@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-21T19:09:00.878Z</updated>
+    <updated>2022-02-21T20:11:49.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강미나, 변우석 빰 때리고 "얼굴값 좀 하십시오" 무슨 일?]]></title>
+        <id>https://entertain.v.daum.net/v/20220222051004419</id>
+        <link href="https://entertain.v.daum.net/v/20220222051004419"/>
+        <updated>2022-02-21T20:11:41.069Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변우석, 유승호 목에 칼 겨눴다 "이걸 밝히고자 하면 너와 낭자 모두 죽어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220222050503296</id>
+        <link href="https://entertain.v.daum.net/v/20220222050503296"/>
+        <updated>2022-02-21T20:11:41.076Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내과 박원장' 이서진 "이산은 이제 이준호죠, 전 박원장이고요"]]></title>
         <id>https://entertain.v.daum.net/v/20220222000150882</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221183603824"/>
         <updated>2022-02-21T10:12:22.364Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SNL코리아2' 측, 수어 비하 논란 사과.."주의 기울일 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221180924359</id>
-        <link href="https://entertain.v.daum.net/v/20220221180924359"/>
-        <updated>2022-02-21T09:11:35.470Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방송계 큰 별' 성우 오승룡 21일 사망..향년 88세]]></title>
-        <id>https://entertain.v.daum.net/v/20220221174152546</id>
-        <link href="https://entertain.v.daum.net/v/20220221174152546"/>
-        <updated>2022-02-21T09:11:35.470Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
