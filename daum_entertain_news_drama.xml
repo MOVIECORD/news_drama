@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-21T12:17:37.627Z</updated>
+    <updated>2022-02-21T13:15:17.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 유승호, 이혜리父 죽음 진실 두고 변우석과 대립..추포 당해]]></title>
+        <id>https://entertain.v.daum.net/v/20220221220338716</id>
+        <link href="https://entertain.v.daum.net/v/20220221220338716"/>
+        <updated>2022-02-21T13:15:08.628Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변우석, 유승호에게 칼 겨눠..우정 변하나]]></title>
+        <id>https://entertain.v.daum.net/v/20220221214507451</id>
+        <link href="https://entertain.v.daum.net/v/20220221214507451"/>
+        <updated>2022-02-21T13:15:08.629Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고' 유승호, 칼 겨눈 친구 변우석에 '움찔']]></title>
+        <id>https://entertain.v.daum.net/v/20220221213302298</id>
+        <link href="https://entertain.v.daum.net/v/20220221213302298"/>
+        <updated>2022-02-21T13:15:08.631Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 함은정, 김진엽에 "만족해?"→박혜진, 황신혜에 "악귀다"]]></title>
         <id>https://entertain.v.daum.net/v/20220221204156464</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221152737651"/>
         <updated>2022-02-21T07:10:25.355Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실종설' 中 판빙빙, 강하늘 주연작 JTBC '인사이더' 특별출연]]></title>
-        <id>https://entertain.v.daum.net/v/20220221150227573</id>
-        <link href="https://entertain.v.daum.net/v/20220221150227573"/>
-        <updated>2022-02-21T06:14:21.218Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아스달 연대기' 시즌2, 올해 크랭크인.."캐스팅 미정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221145359178</id>
-        <link href="https://entertain.v.daum.net/v/20220221145359178"/>
-        <updated>2022-02-21T06:14:21.218Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 유이VS손나은, 두 여자의 불꽃 튀는 신경전]]></title>
-        <id>https://entertain.v.daum.net/v/20220221144156728</id>
-        <link href="https://entertain.v.daum.net/v/20220221144156728"/>
-        <updated>2022-02-21T06:14:21.221Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
