@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-21T02:24:55.010Z</updated>
+    <updated>2022-02-21T03:11:54.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄지원, '작은 아씨들→잔혹한 인턴' 출연 확정..안방극장 접수]]></title>
+        <id>https://entertain.v.daum.net/v/20220221114034492</id>
+        <link href="https://entertain.v.daum.net/v/20220221114034492"/>
+        <updated>2022-02-21T03:11:45.728Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제트기류 탄 '기상청 사람들', JTBC 드라마의 화려한 부활]]></title>
+        <id>https://entertain.v.daum.net/v/20220221113729367</id>
+        <link href="https://entertain.v.daum.net/v/20220221113729367"/>
+        <updated>2022-02-21T03:11:45.732Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지영산·이혜숙·송지인, 착잡 VS 분노 VS 당돌]]></title>
+        <id>https://entertain.v.daum.net/v/20220221113714360</id>
+        <link href="https://entertain.v.daum.net/v/20220221113714360"/>
+        <updated>2022-02-21T03:11:45.733Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나', 98년의 청춘이 지금 소환된 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220221113606321</id>
+        <link href="https://entertain.v.daum.net/v/20220221113606321"/>
+        <updated>2022-02-21T03:11:45.734Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['탈세→실종설' 中 스타 판빙빙, '인사이더' 카메오 출연.."촬영 완료"]]></title>
+        <id>https://entertain.v.daum.net/v/20220221112611878</id>
+        <link href="https://entertain.v.daum.net/v/20220221112611878"/>
+        <updated>2022-02-21T03:11:45.737Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤남기♥이다은 그 후..'돌싱글즈 외전' 3월 14일 첫방송]]></title>
         <id>https://entertain.v.daum.net/v/20220221111146115</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221103308200"/>
         <updated>2022-02-21T01:55:18.629Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 윤박, 과몰입 부른 열연..바람 잘 날 없는 모먼트]]></title>
-        <id>https://entertain.v.daum.net/v/20220221102843024</id>
-        <link href="https://entertain.v.daum.net/v/20220221102843024"/>
-        <updated>2022-02-21T01:55:18.630Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범♥손나은, 쌈 아닌 썸?..본격 로맨스 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220221102356803</id>
-        <link href="https://entertain.v.daum.net/v/20220221102356803"/>
-        <updated>2022-02-21T01:55:18.631Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영♥송강, 비밀 연애 시작 '시청률↑']]></title>
-        <id>https://entertain.v.daum.net/v/20220221101900604</id>
-        <link href="https://entertain.v.daum.net/v/20220221101900604"/>
-        <updated>2022-02-21T01:55:18.632Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내과 박원장' 라미란 "시즌2 제작된다면 꼭 함께하고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221101713536</id>
-        <link href="https://entertain.v.daum.net/v/20220221101713536"/>
-        <updated>2022-02-21T01:55:18.633Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만', 아낌없이 턴 韓 첫 군법정 법정물]]></title>
-        <id>https://entertain.v.daum.net/v/20220221101705529</id>
-        <link href="https://entertain.v.daum.net/v/20220221101705529"/>
-        <updated>2022-02-21T01:55:18.634Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
