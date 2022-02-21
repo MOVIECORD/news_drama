@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-21T14:11:12.601Z</updated>
+    <updated>2022-02-21T15:12:34.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내과 박원장' 이서진 "이산은 이제 이준호죠, 전 박원장이고요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220222000150882</id>
+        <link href="https://entertain.v.daum.net/v/20220222000150882"/>
+        <updated>2022-02-21T15:12:26.230Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고스트 닥터' 정지훈, 본체 살리고자 직접 집도.. 유이·김범, 간절한 마음]]></title>
+        <id>https://entertain.v.daum.net/v/20220221235030780</id>
+        <link href="https://entertain.v.daum.net/v/20220221235030780"/>
+        <updated>2022-02-21T15:12:26.232Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃달' 유승호·이혜리, 최원영 손아귀에서 탈출.."이제 진짜 싸움"]]></title>
         <id>https://entertain.v.daum.net/v/20220221225229218</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221174152546"/>
         <updated>2022-02-21T09:11:35.470Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 유승호, 칼 겨눈 벗 변우석에 움찔..믿는 도끼에 발등 찍힌다?]]></title>
-        <id>https://entertain.v.daum.net/v/20220221171436636</id>
-        <link href="https://entertain.v.daum.net/v/20220221171436636"/>
-        <updated>2022-02-21T09:11:35.470Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 유이vs손나은, 불꽃 튀는 신경전..폭소 만발]]></title>
-        <id>https://entertain.v.daum.net/v/20220221164817744</id>
-        <link href="https://entertain.v.daum.net/v/20220221164817744"/>
-        <updated>2022-02-21T08:13:19.731Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
