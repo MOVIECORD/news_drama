@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-21T21:09:48.294Z</updated>
+    <updated>2022-02-21T22:13:10.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지영산·이혜숙·송지인, 만나기만 하면 갈등]]></title>
+        <id>https://entertain.v.daum.net/v/20220222070009499</id>
+        <link href="https://entertain.v.daum.net/v/20220222070009499"/>
+        <updated>2022-02-21T22:13:02.322Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2030세대 취향 저격 '좋좋소'시즌4 "미생보다 더 리얼"..왓챠 1위 질주]]></title>
+        <id>https://entertain.v.daum.net/v/20220222065727468</id>
+        <link href="https://entertain.v.daum.net/v/20220222065727468"/>
+        <updated>2022-02-21T22:13:02.325Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀 호강할 준비 되셨나요?]]></title>
+        <id>https://entertain.v.daum.net/v/20220222065721464</id>
+        <link href="https://entertain.v.daum.net/v/20220222065721464"/>
+        <updated>2022-02-21T22:13:02.328Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유이 "당신 수술, 당신이 하는 거지?" 정지훈.. 직접 수술 나섰다]]></title>
         <id>https://entertain.v.daum.net/v/20220222052005474</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220221214507451"/>
         <updated>2022-02-21T13:15:08.629Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃 피면 달 생각하고' 유승호, 칼 겨눈 친구 변우석에 '움찔']]></title>
-        <id>https://entertain.v.daum.net/v/20220221213302298</id>
-        <link href="https://entertain.v.daum.net/v/20220221213302298"/>
-        <updated>2022-02-21T13:15:08.631Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 함은정, 김진엽에 "만족해?"→박혜진, 황신혜에 "악귀다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221204156464</id>
-        <link href="https://entertain.v.daum.net/v/20220221204156464"/>
-        <updated>2022-02-21T12:17:29.226Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 황신혜, 악행 들통 나고도 당당 "윤다훈과 절대 못 헤어져"]]></title>
-        <id>https://entertain.v.daum.net/v/20220221203301376</id>
-        <link href="https://entertain.v.daum.net/v/20220221203301376"/>
-        <updated>2022-02-21T12:17:29.226Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
