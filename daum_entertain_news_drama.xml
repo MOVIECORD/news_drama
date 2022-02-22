@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-22T09:11:34.354Z</updated>
+    <updated>2022-02-22T10:12:14.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권아름, '나를 사랑하지 않는 X에게' 주연 발탁..NCT 도영과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220222182726397</id>
+        <link href="https://entertain.v.daum.net/v/20220222182726397"/>
+        <updated>2022-02-22T10:12:06.508Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권아름, '나를 사랑하지 않는 X에게' 캐스팅..NCT 도영에 직진 알바생]]></title>
         <id>https://entertain.v.daum.net/v/20220222174526086</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220222155926950"/>
         <updated>2022-02-22T07:09:21.586Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃달' 청춘4인방 종영소감 "아름다웠던 작품으로 기억되길"]]></title>
-        <id>https://entertain.v.daum.net/v/20220222155230639</id>
-        <link href="https://entertain.v.daum.net/v/20220222155230639"/>
-        <updated>2022-02-22T07:09:21.596Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
