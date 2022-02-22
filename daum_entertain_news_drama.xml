@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-22T12:19:04.318Z</updated>
+    <updated>2022-02-22T13:16:10.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃피면' 유승호, 이혜리 아버지가 남긴 서찰 발견 "정성일 위험하다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220222215804193</id>
+        <link href="https://entertain.v.daum.net/v/20220222215804193"/>
+        <updated>2022-02-22T13:16:01.483Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유승호·이혜리, 최원영과 최후의 싸움..망월사 수색]]></title>
+        <id>https://entertain.v.daum.net/v/20220222214506002</id>
+        <link href="https://entertain.v.daum.net/v/20220222214506002"/>
+        <updated>2022-02-22T13:16:01.486Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃 피면 달 생각하고' 유승호·이혜리, 망월사에서 마주할 진실은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220222213301850</id>
+        <link href="https://entertain.v.daum.net/v/20220222213301850"/>
+        <updated>2022-02-22T13:16:01.488Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 윤다훈 "김진엽, 복수하러 온 것"→동방 새 이사 됐다]]></title>
         <id>https://entertain.v.daum.net/v/20220222203829048</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220222171733141"/>
         <updated>2022-02-22T09:11:26.109Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권아름 '나를 사랑하지 않는 X에게' 주연 발탁..NCT 도영과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220222170412607</id>
-        <link href="https://entertain.v.daum.net/v/20220222170412607"/>
-        <updated>2022-02-22T08:13:19.640Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 박근형-김정태-이윤미, 어디서도 못 본 가족 관계]]></title>
-        <id>https://entertain.v.daum.net/v/20220222165622325</id>
-        <link href="https://entertain.v.daum.net/v/20220222165622325"/>
-        <updated>2022-02-22T08:13:19.646Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전미도 시한부, 손예진의 슬픔과 고민..'서른, 아홉' 관전포인트 #3]]></title>
-        <id>https://entertain.v.daum.net/v/20220222165003087</id>
-        <link href="https://entertain.v.daum.net/v/20220222165003087"/>
-        <updated>2022-02-22T08:13:19.648Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
