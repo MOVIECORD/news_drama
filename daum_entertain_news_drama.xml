@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-23T10:11:57.499Z</updated>
+    <updated>2022-02-23T11:09:06.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 동방 이사로 온 이유 "윤다훈X황신혜 걱정돼서"]]></title>
+        <id>https://entertain.v.daum.net/v/20220223200348078</id>
+        <link href="https://entertain.v.daum.net/v/20220223200348078"/>
+        <updated>2022-02-23T11:08:57.171Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크레이지 러브' 김재욱X정수정X하준, 얼굴 맞대고 "쉿!"..비밀 포스터 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220223191043081</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220223163923268"/>
         <updated>2022-02-23T08:13:17.481Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유혜인 '군검사 도베르만' 캐스팅, 박상남 '성덕' 된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220223163504092</id>
-        <link href="https://entertain.v.daum.net/v/20220223163504092"/>
-        <updated>2022-02-23T08:13:17.481Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
