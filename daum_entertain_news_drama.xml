@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-23T13:15:48.638Z</updated>
+    <updated>2022-02-23T14:10:12.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그 입 다물어" 손예진, 이무생 아내 '따귀+머리채 잡고' 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220223230122380</id>
+        <link href="https://entertain.v.daum.net/v/20220223230122380"/>
+        <updated>2022-02-23T14:09:59.957Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진, 전미도 시한부 알고 충격→송민지 폭행]]></title>
+        <id>https://entertain.v.daum.net/v/20220223224808275</id>
+        <link href="https://entertain.v.daum.net/v/20220223224808275"/>
+        <updated>2022-02-23T14:09:59.962Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜리의 '꽃피달' 작별 방법, "올해부터 금기 깨, 일기장 덮었다"]]></title>
         <id>https://entertain.v.daum.net/v/20220223220101717</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220223175715329"/>
         <updated>2022-02-23T09:10:17.078Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이윤미 "♥주영훈, 연기 욕망 있어..카메오로만 추천"]]></title>
-        <id>https://entertain.v.daum.net/v/20220223175005070</id>
-        <link href="https://entertain.v.daum.net/v/20220223175005070"/>
-        <updated>2022-02-23T09:10:17.078Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["무조건 안보현!"..'태후'→'도베르만', 안보현 군복필패 이루나]]></title>
-        <id>https://entertain.v.daum.net/v/20220223174925052</id>
-        <link href="https://entertain.v.daum.net/v/20220223174925052"/>
-        <updated>2022-02-23T09:10:17.084Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
