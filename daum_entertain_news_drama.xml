@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-24T20:12:25.267Z</updated>
+    <updated>2022-02-24T21:10:07.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년심판' 혐오냐 면죄부냐, 소년범죄 어떻게 볼 것인가]]></title>
+        <id>https://entertain.v.daum.net/v/20220225060105312</id>
+        <link href="https://entertain.v.daum.net/v/20220225060105312"/>
+        <updated>2022-02-24T21:09:56.516Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제발 이혼 하지마" 이무생에 무릎 꿇고 시한부 고백한 전미도]]></title>
         <id>https://entertain.v.daum.net/v/20220225005524005</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220224215909639"/>
         <updated>2022-02-24T13:16:16.397Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트 닥터' 정지훈 "의사 역할, 다신 자신없다"①]]></title>
-        <id>https://entertain.v.daum.net/v/20220224210013009</id>
-        <link href="https://entertain.v.daum.net/v/20220224210013009"/>
-        <updated>2022-02-24T12:17:57.407Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
