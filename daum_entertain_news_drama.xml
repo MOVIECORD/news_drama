@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-24T12:18:05.501Z</updated>
+    <updated>2022-02-24T13:16:24.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스폰서' 한채영·구자성, 위태로운 케미 시작.."짜릿한 방식으로 욕망 실현]]></title>
+        <id>https://entertain.v.daum.net/v/20220224220001658</id>
+        <link href="https://entertain.v.daum.net/v/20220224220001658"/>
+        <updated>2022-02-24T13:16:16.397Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진구·하도권·이원근 숨 막히는 추격..왜?]]></title>
+        <id>https://entertain.v.daum.net/v/20220224215909639</id>
+        <link href="https://entertain.v.daum.net/v/20220224215909639"/>
+        <updated>2022-02-24T13:16:16.397Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 정지훈 "의사 역할, 다신 자신없다"①]]></title>
         <id>https://entertain.v.daum.net/v/20220224210013009</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220224175012147"/>
         <updated>2022-02-24T09:11:24.893Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강미나 "'꽃달'은 시작점, 2022년 꽉 채우고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20220224173423558</id>
-        <link href="https://entertain.v.daum.net/v/20220224173423558"/>
-        <updated>2022-02-24T09:11:24.894Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영·박근형, 한밤중 은밀한 밀회..어두운 방안서 밀착 스킨십]]></title>
-        <id>https://entertain.v.daum.net/v/20220224172806273</id>
-        <link href="https://entertain.v.daum.net/v/20220224172806273"/>
-        <updated>2022-02-24T09:11:24.895Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
