@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-24T09:11:33.114Z</updated>
+    <updated>2022-02-24T10:11:56.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜숙 "60대에 수영복 촬영은 처음..신경쓰고 있다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220224185009834</id>
+        <link href="https://entertain.v.daum.net/v/20220224185009834"/>
+        <updated>2022-02-24T10:11:48.251Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃달' 강미나, 술에 진심이네.."좋아하고 즐겨 마셔, 조주기능사 자격증 有"]]></title>
+        <id>https://entertain.v.daum.net/v/20220224183402405</id>
+        <link href="https://entertain.v.daum.net/v/20220224183402405"/>
+        <updated>2022-02-24T10:11:48.252Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손예진 오직 전미도 위한 '인생 플랜B']]></title>
         <id>https://entertain.v.daum.net/v/20220224180010587</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220224163621412"/>
         <updated>2022-02-24T08:13:14.694Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 김범 "20대 불안하고 위태로웠다..이민호・정일우와 고민 나눠"]]></title>
-        <id>https://entertain.v.daum.net/v/20220224162414931</id>
-        <link href="https://entertain.v.daum.net/v/20220224162414931"/>
-        <updated>2022-02-24T08:13:14.698Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고스트닥터' 김범 "정지훈 형 덕분 많이 웃으며 촬영"]]></title>
-        <id>https://entertain.v.daum.net/v/20220224160338970</id>
-        <link href="https://entertain.v.daum.net/v/20220224160338970"/>
-        <updated>2022-02-24T07:10:56.644Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
