@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-25T10:11:50.543Z</updated>
+    <updated>2022-02-25T11:09:32.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 황신혜에 "자기 부모도 못 모시면서 요양원?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220225200119661</id>
+        <link href="https://entertain.v.daum.net/v/20220225200119661"/>
+        <updated>2022-02-25T11:09:22.456Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아, 김성희에 "내 출생의 비밀?" 의심]]></title>
+        <id>https://entertain.v.daum.net/v/20220225195227532</id>
+        <link href="https://entertain.v.daum.net/v/20220225195227532"/>
+        <updated>2022-02-25T11:09:22.468Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 엄현경, 자신 대신 사고 난 지수원에 "엄마" 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220225191929046</id>
+        <link href="https://entertain.v.daum.net/v/20220225191929046"/>
+        <updated>2022-02-25T11:09:22.468Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스폰서' 한채영 "우리 잘래?" 역대급 엔딩, 전무후무 치명캐 탄생]]></title>
         <id>https://entertain.v.daum.net/v/20220225180323681</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220225153141261"/>
         <updated>2022-02-25T07:10:51.757Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김승우, 정약용 연기 위해 모든 스케줄 정리했다]]></title>
-        <id>https://entertain.v.daum.net/v/20220225152602050</id>
-        <link href="https://entertain.v.daum.net/v/20220225152602050"/>
-        <updated>2022-02-25T07:10:51.758Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭 "내 정신건강을 위해, 유쾌하고 재밌는 '사내맞선' 선택"]]></title>
-        <id>https://entertain.v.daum.net/v/20220225152405998</id>
-        <link href="https://entertain.v.daum.net/v/20220225152405998"/>
-        <updated>2022-02-25T07:10:51.758Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, '나르시시즘'에 빠지다..'사내맞선', 대환장 맞선 프로젝트]]></title>
-        <id>https://entertain.v.daum.net/v/20220225152009878</id>
-        <link href="https://entertain.v.daum.net/v/20220225152009878"/>
-        <updated>2022-02-25T07:10:51.761Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
