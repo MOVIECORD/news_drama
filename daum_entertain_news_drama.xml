@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-25T21:09:42.392Z</updated>
+    <updated>2022-02-25T22:11:24.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 두번째 연쇄살인범 등장..김남길 "일부러 돌려세워 찔러"]]></title>
+        <id>https://entertain.v.daum.net/v/20220226070048464</id>
+        <link href="https://entertain.v.daum.net/v/20220226070048464"/>
+        <updated>2022-02-25T22:11:14.294Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["찾아야 한다" 김남길, 연쇄살인마 두 명.. 유영철X정남규 모티브]]></title>
+        <id>https://entertain.v.daum.net/v/20220226065529386</id>
+        <link href="https://entertain.v.daum.net/v/20220226065529386"/>
+        <updated>2022-02-25T22:11:14.301Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결사곡3' 얼굴 바뀐 신유신-판사현-김동미, 시청자 적응할 수 있을까]]></title>
         <id>https://entertain.v.daum.net/v/20220226060106854</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220225222636691"/>
         <updated>2022-02-25T14:10:27.957Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길VS김소진, 다른 접근법으로 연쇄살인마 추적]]></title>
-        <id>https://entertain.v.daum.net/v/20220225220301384</id>
-        <link href="https://entertain.v.daum.net/v/20220225220301384"/>
-        <updated>2022-02-25T13:15:06.040Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 함은정, 투자 유치..김진엽 "언제 망할지 몰라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220225202331995</id>
-        <link href="https://entertain.v.daum.net/v/20220225202331995"/>
-        <updated>2022-02-25T12:17:10.993Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
