@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-25T12:17:19.254Z</updated>
+    <updated>2022-02-25T13:15:14.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길VS김소진, 다른 접근법으로 연쇄살인마 추적]]></title>
+        <id>https://entertain.v.daum.net/v/20220225220301384</id>
+        <link href="https://entertain.v.daum.net/v/20220225220301384"/>
+        <updated>2022-02-25T13:15:06.040Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 함은정, 투자 유치..김진엽 "언제 망할지 몰라"]]></title>
         <id>https://entertain.v.daum.net/v/20220225202331995</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220225160312317"/>
         <updated>2022-02-25T07:10:51.757Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭X김세정, 비주얼+케미 '로코 요정'들이 따로 없네]]></title>
-        <id>https://entertain.v.daum.net/v/20220225153520388</id>
-        <link href="https://entertain.v.daum.net/v/20220225153520388"/>
-        <updated>2022-02-25T07:10:51.757Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
