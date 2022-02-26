@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-26T19:09:09.923Z</updated>
+    <updated>2022-02-26T20:10:53.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, "넌 그저 지질한 살인자"..살인 정당화하는 한준우에 일침]]></title>
+        <id>https://entertain.v.daum.net/v/20220227045101894</id>
+        <link href="https://entertain.v.daum.net/v/20220227045101894"/>
+        <updated>2022-02-26T20:10:43.965Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길, 한준우 경멸하며 "넌 그냥 지질한 살인자"]]></title>
         <id>https://entertain.v.daum.net/v/20220227021044450</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220226225002424"/>
         <updated>2022-02-26T14:12:13.574Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯' 남주혁 빚쟁이 탓 야반도주, 김태리와 생이별]]></title>
-        <id>https://entertain.v.daum.net/v/20220226224245368</id>
-        <link href="https://entertain.v.daum.net/v/20220226224245368"/>
-        <updated>2022-02-26T14:12:13.581Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
