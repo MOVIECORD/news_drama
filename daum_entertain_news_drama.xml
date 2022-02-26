@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-26T15:10:49.987Z</updated>
+    <updated>2022-02-26T16:13:32.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나, 지현우에 "회장님 아이 임신했다", 강은탁 아이로 거짓 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220227005522177</id>
+        <link href="https://entertain.v.daum.net/v/20220227005522177"/>
+        <updated>2022-02-26T16:13:23.874Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길, 진선규에 "왜 하필 저였어요?"..'프로파일러'로서 깊은 고민]]></title>
+        <id>https://entertain.v.daum.net/v/20220227004801138</id>
+        <link href="https://entertain.v.daum.net/v/20220227004801138"/>
+        <updated>2022-02-26T16:13:23.880Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결사곡3' 끝까지 못난 전노민, 구안와사 걸리고 전부인에 '징징']]></title>
         <id>https://entertain.v.daum.net/v/20220227001005987</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220226224150364</id>
         <link href="https://entertain.v.daum.net/v/20220226224150364"/>
         <updated>2022-02-26T14:12:13.581Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱, 7년 만에 왕좌 탈환 모색..예지원은 사망]]></title>
-        <id>https://entertain.v.daum.net/v/20220226223337317</id>
-        <link href="https://entertain.v.daum.net/v/20220226223337317"/>
-        <updated>2022-02-26T14:12:13.582Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 연쇄살인범 한준우 검거..암매장 시신 11구]]></title>
-        <id>https://entertain.v.daum.net/v/20220226222444249</id>
-        <link href="https://entertain.v.daum.net/v/20220226222444249"/>
-        <updated>2022-02-26T14:12:13.583Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
