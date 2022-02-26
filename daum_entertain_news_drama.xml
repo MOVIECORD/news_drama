@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-26T06:13:27.129Z</updated>
+    <updated>2022-02-26T07:10:17.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기상청에서 하는 사내연애가 이토록 짜릿할 줄이야]]></title>
+        <id>https://entertain.v.daum.net/v/20220226154319997</id>
+        <link href="https://entertain.v.daum.net/v/20220226154319997"/>
+        <updated>2022-02-26T07:10:09.096Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리, 보나 앞 무릎까지 꿇었다 '아연실색']]></title>
         <id>https://entertain.v.daum.net/v/20220226145133335</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220226120538629"/>
         <updated>2022-02-26T03:11:22.581Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범, '고스트 닥터'로 찾은 내면의 밝음]]></title>
-        <id>https://entertain.v.daum.net/v/20220226120145586</id>
-        <link href="https://entertain.v.daum.net/v/20220226120145586"/>
-        <updated>2022-02-26T03:11:22.581Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
