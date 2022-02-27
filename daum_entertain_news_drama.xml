@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-27T10:13:02.765Z</updated>
+    <updated>2022-02-27T11:09:55.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 박하나, 지현우 협박 "회장님 아이 임신했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220227200542059</id>
+        <link href="https://entertain.v.daum.net/v/20220227200542059"/>
+        <updated>2022-02-27T11:09:46.448Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진선규, 김남길 고뇌에 고뇌..빛나는 열연]]></title>
+        <id>https://entertain.v.daum.net/v/20220227195637972</id>
+        <link href="https://entertain.v.daum.net/v/20220227195637972"/>
+        <updated>2022-02-27T11:09:46.460Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주미, 설득력 더한 '감정의 진폭']]></title>
         <id>https://entertain.v.daum.net/v/20220227190722517</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220227133757536"/>
         <updated>2022-02-27T05:09:56.590Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영 "구자성과 키스신서 격정적인 '발연기'"]]></title>
-        <id>https://entertain.v.daum.net/v/20220227130406856</id>
-        <link href="https://entertain.v.daum.net/v/20220227130406856"/>
-        <updated>2022-02-27T04:13:16.113Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다시 생각해보자" 박민영, 모텔 사건 이후 송강에 '싸늘']]></title>
-        <id>https://entertain.v.daum.net/v/20220227125802780</id>
-        <link href="https://entertain.v.daum.net/v/20220227125802780"/>
-        <updated>2022-02-27T04:13:16.113Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
