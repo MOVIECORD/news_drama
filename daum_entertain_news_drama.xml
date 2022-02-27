@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-27T06:12:50.277Z</updated>
+    <updated>2022-02-27T07:10:33.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 김태리 vs 보나, 머리채 잡았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220227160831432</id>
+        <link href="https://entertain.v.daum.net/v/20220227160831432"/>
+        <updated>2022-02-27T07:10:24.872Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미디어의 긍정적 영향력이 발휘되어야 할 때 '소년심판']]></title>
+        <id>https://entertain.v.daum.net/v/20220227152757849</id>
+        <link href="https://entertain.v.daum.net/v/20220227152757849"/>
+        <updated>2022-02-27T07:10:24.872Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리-보나, 결국 머리채 잡고..철천지 원수됐다]]></title>
         <id>https://entertain.v.daum.net/v/20220227151155495</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220227112308250"/>
         <updated>2022-02-27T03:11:12.093Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱, 왕위 향한 본격적 움직임 시작..비밀에 관심 집중]]></title>
-        <id>https://entertain.v.daum.net/v/20220227112017187</id>
-        <link href="https://entertain.v.daum.net/v/20220227112017187"/>
-        <updated>2022-02-27T03:11:12.096Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱, 상투 잘린 굴욕 딛고 왕좌로 가는 발걸음 떼다]]></title>
-        <id>https://entertain.v.daum.net/v/20220227111502046</id>
-        <link href="https://entertain.v.daum.net/v/20220227111502046"/>
-        <updated>2022-02-27T03:11:12.096Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
