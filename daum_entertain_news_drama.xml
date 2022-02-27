@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-27T09:10:41.508Z</updated>
+    <updated>2022-02-27T10:13:02.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[김혜수가 묻는다, 소년범죄 이대로 괜찮나]]></title>
-        <id>https://entertain.v.daum.net/v/20220227175403214</id>
-        <link href="https://entertain.v.daum.net/v/20220227175403214"/>
-        <updated>2022-02-27T09:10:32.998Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[박주미, 설득력 더한 '감정의 진폭']]></title>
+        <id>https://entertain.v.daum.net/v/20220227190722517</id>
+        <link href="https://entertain.v.daum.net/v/20220227190722517"/>
+        <updated>2022-02-27T10:12:54.391Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주미·전수경·이가령, 현실 리액션.."매회가 떡밥"]]></title>
+        <id>https://entertain.v.daum.net/v/20220227190232444</id>
+        <link href="https://entertain.v.daum.net/v/20220227190232444"/>
+        <updated>2022-02-27T10:12:54.392Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수, 손예진에게 밀렸다..넷플릭스서 힘 못 쓰는 '소년심판']]></title>
+        <id>https://entertain.v.daum.net/v/20220227185402294</id>
+        <link href="https://entertain.v.daum.net/v/20220227185402294"/>
+        <updated>2022-02-27T10:12:54.394Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남길,  촘촘하게 그려낸 인물의 내면 '믿보배']]></title>
+        <id>https://entertain.v.daum.net/v/20220227185317288</id>
+        <link href="https://entertain.v.daum.net/v/20220227185317288"/>
+        <updated>2022-02-27T10:12:54.394Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["착붙 캐릭터 소름"..'사과→복귀' 서예지 바라보는 업계 시선은?]]></title>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220227125802780"/>
         <updated>2022-02-27T04:13:16.113Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 섬세한 감정 연기..여과 없이 드러난 '믿보배' 진가]]></title>
-        <id>https://entertain.v.daum.net/v/20220227124504579</id>
-        <link href="https://entertain.v.daum.net/v/20220227124504579"/>
-        <updated>2022-02-27T04:13:16.113Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리X남주혁이 주는 위로 '최고 10.1%']]></title>
-        <id>https://entertain.v.daum.net/v/20220227124230552</id>
-        <link href="https://entertain.v.daum.net/v/20220227124230552"/>
-        <updated>2022-02-27T04:13:16.113Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃피달' 강미나, 갓 피워낸 배우라는 꽃]]></title>
-        <id>https://entertain.v.daum.net/v/20220227120156044</id>
-        <link href="https://entertain.v.daum.net/v/20220227120156044"/>
-        <updated>2022-02-27T03:11:12.091Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
