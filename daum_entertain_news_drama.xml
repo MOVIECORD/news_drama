@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-27T08:12:32.818Z</updated>
+    <updated>2022-02-27T09:10:41.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜수가 묻는다, 소년범죄 이대로 괜찮나]]></title>
+        <id>https://entertain.v.daum.net/v/20220227175403214</id>
+        <link href="https://entertain.v.daum.net/v/20220227175403214"/>
+        <updated>2022-02-27T09:10:32.998Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["착붙 캐릭터 소름"..'사과→복귀' 서예지 바라보는 업계 시선은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220227172934853</id>
+        <link href="https://entertain.v.daum.net/v/20220227172934853"/>
+        <updated>2022-02-27T09:10:33.008Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스물다섯 스물하나' 김태리 vs 보나, 머리채 잡았다]]></title>
         <id>https://entertain.v.daum.net/v/20220227160831432</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220227120156044"/>
         <updated>2022-02-27T03:11:12.091Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정, 재벌가 설인아 대신 맞선 깽판]]></title>
-        <id>https://entertain.v.daum.net/v/20220227112848344</id>
-        <link href="https://entertain.v.daum.net/v/20220227112848344"/>
-        <updated>2022-02-27T03:11:12.091Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 여과 없이 드러난 '믿보배' 진가]]></title>
-        <id>https://entertain.v.daum.net/v/20220227112308250</id>
-        <link href="https://entertain.v.daum.net/v/20220227112308250"/>
-        <updated>2022-02-27T03:11:12.093Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
