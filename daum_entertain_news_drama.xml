@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-28T05:10:40.531Z</updated>
+    <updated>2022-02-28T06:13:56.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미, 작은 떨림까지 놓치지 않는 섬세함]]></title>
+        <id>https://entertain.v.daum.net/v/20220228150137515</id>
+        <link href="https://entertain.v.daum.net/v/20220228150137515"/>
+        <updated>2022-02-28T06:13:47.701Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손현주, 코로나19 확진 판정.."'모범형사2' 촬영 취소"]]></title>
+        <id>https://entertain.v.daum.net/v/20220228145354104</id>
+        <link href="https://entertain.v.daum.net/v/20220228145354104"/>
+        <updated>2022-02-28T06:13:47.701Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김예령, '현재는 아름다워' 캐스팅..윤시윤 당숙모 役]]></title>
+        <id>https://entertain.v.daum.net/v/20220228143537272</id>
+        <link href="https://entertain.v.daum.net/v/20220228143537272"/>
+        <updated>2022-02-28T06:13:47.701Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불륜녀→시한부, 전미도 연기 변신 새롭다]]></title>
+        <id>https://entertain.v.daum.net/v/20220228141115263</id>
+        <link href="https://entertain.v.daum.net/v/20220228141115263"/>
+        <updated>2022-02-28T06:13:47.702Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박민영의 멜로는 확실히 무르익었다]]></title>
         <id>https://entertain.v.daum.net/v/20220228141012213</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220228122103173"/>
         <updated>2022-02-28T04:13:47.954Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['징크스의 연인' 서현X나인우 KBS 편성 확정..운명 넘어 필연 될까]]></title>
-        <id>https://entertain.v.daum.net/v/20220228120533745</id>
-        <link href="https://entertain.v.daum.net/v/20220228120533745"/>
-        <updated>2022-02-28T03:11:44.214Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 백성철, 손현주와 대립한 '악의 축']]></title>
-        <id>https://entertain.v.daum.net/v/20220228114602106</id>
-        <link href="https://entertain.v.daum.net/v/20220228114602106"/>
-        <updated>2022-02-28T03:11:44.214Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아직 최선' 박해준, 실패의 한복판에서 최선을 외치다]]></title>
-        <id>https://entertain.v.daum.net/v/20220228114415043</id>
-        <link href="https://entertain.v.daum.net/v/20220228114415043"/>
-        <updated>2022-02-28T03:11:44.216Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 이병헌·신민아·김우빈, 역대급 배우 라인업]]></title>
-        <id>https://entertain.v.daum.net/v/20220228114309991</id>
-        <link href="https://entertain.v.daum.net/v/20220228114309991"/>
-        <updated>2022-02-28T03:11:44.220Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
