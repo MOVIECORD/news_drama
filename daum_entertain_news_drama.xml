@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-28T07:11:16.130Z</updated>
+    <updated>2022-02-28T08:13:30.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지상파 드라마 굴욕, '결사곡3' 등판→'스물다섯'·'기상청' 강세에 시청률 뚝]]></title>
+        <id>https://entertain.v.daum.net/v/20220228170102498</id>
+        <link href="https://entertain.v.daum.net/v/20220228170102498"/>
+        <updated>2022-02-28T08:13:21.841Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 악의 축 백성철, 손현주와 팽팽한 대립 '일촉즉발 긴장감']]></title>
+        <id>https://entertain.v.daum.net/v/20220228161514465</id>
+        <link href="https://entertain.v.daum.net/v/20220228161514465"/>
+        <updated>2022-02-28T08:13:21.841Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우월한 하루' 조남형 감독 "진구-하도권-이원근, 꼭 다시 작업하고 싶다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220228161135291</id>
+        <link href="https://entertain.v.daum.net/v/20220228161135291"/>
+        <updated>2022-02-28T08:13:21.842Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 군검사 안보현X조보아, 불꽃 튀는 첫만남]]></title>
         <id>https://entertain.v.daum.net/v/20220228160603067</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220228135521663"/>
         <updated>2022-02-28T05:10:32.445Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 서지후, '크레이지 러브' 캐스팅..김재욱·유인영과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220228134529350</id>
-        <link href="https://entertain.v.daum.net/v/20220228134529350"/>
-        <updated>2022-02-28T05:10:32.446Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭, 이런 맞선은 처음이지?]]></title>
-        <id>https://entertain.v.daum.net/v/20220228133521035</id>
-        <link href="https://entertain.v.daum.net/v/20220228133521035"/>
-        <updated>2022-02-28T05:10:32.447Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인우, KBS 아들 맞네..'징크스의 연인' 상반기 KBS 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20220228132442641</id>
-        <link href="https://entertain.v.daum.net/v/20220228132442641"/>
-        <updated>2022-02-28T05:10:32.447Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
