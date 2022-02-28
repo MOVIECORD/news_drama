@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-28T10:12:22.361Z</updated>
+    <updated>2022-02-28T11:09:45.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 정성모, 사이코 패스 성향 "죽여서라도 옆에 둘 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220228195722763</id>
+        <link href="https://entertain.v.daum.net/v/20220228195722763"/>
+        <updated>2022-02-28T11:09:37.572Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째남편' 오승아X한기웅, 이혼 후 각자도생 "후회할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220228193441269</id>
+        <link href="https://entertain.v.daum.net/v/20220228193441269"/>
+        <updated>2022-02-28T11:09:37.575Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듬직한 오빠' 남주혁·'직진 연하남' 송강, 무장 해제 '주말 남친']]></title>
         <id>https://entertain.v.daum.net/v/20220228190106750</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220228145354104"/>
         <updated>2022-02-28T06:13:47.701Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김예령, '현재는 아름다워' 캐스팅..윤시윤 당숙모 役]]></title>
-        <id>https://entertain.v.daum.net/v/20220228143537272</id>
-        <link href="https://entertain.v.daum.net/v/20220228143537272"/>
-        <updated>2022-02-28T06:13:47.701Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불륜녀→시한부, 전미도 연기 변신 새롭다]]></title>
-        <id>https://entertain.v.daum.net/v/20220228141115263</id>
-        <link href="https://entertain.v.daum.net/v/20220228141115263"/>
-        <updated>2022-02-28T06:13:47.702Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
