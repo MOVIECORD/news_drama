@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-02-28T21:09:46.495Z</updated>
+    <updated>2022-02-28T22:11:19.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '사내맞선' 김세정, 신들린 연기 합격..어설픈 개연성 물음표]]></title>
+        <id>https://entertain.v.daum.net/v/20220301065606269</id>
+        <link href="https://entertain.v.daum.net/v/20220301065606269"/>
+        <updated>2022-02-28T22:11:11.250Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭X김세정, 첫 만남에 결혼직행?..만찢로맨스 START!]]></title>
+        <id>https://entertain.v.daum.net/v/20220301063717135</id>
+        <link href="https://entertain.v.daum.net/v/20220301063717135"/>
+        <updated>2022-02-28T22:11:11.250Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도베르만' 안보현, 김영민 제안..중졸 출신 변호사 →'복수' 군 검사]]></title>
+        <id>https://entertain.v.daum.net/v/20220301062002982</id>
+        <link href="https://entertain.v.daum.net/v/20220301062002982"/>
+        <updated>2022-02-28T22:11:11.253Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도베르만' 조보아 뒤캐는 안보현 "스탠퍼드 로스쿨 후 기록 없어"]]></title>
         <id>https://entertain.v.daum.net/v/20220301004648738</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220228223302382"/>
         <updated>2022-02-28T14:10:26.901Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '사내맞선' 김세정, 짝사랑 송원석에 외면 '속상']]></title>
-        <id>https://entertain.v.daum.net/v/20220228222429288</id>
-        <link href="https://entertain.v.daum.net/v/20220228222429288"/>
-        <updated>2022-02-28T14:10:26.902Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭, 선 자리 제안하는 이덕화에 "맞선 같은거 안본다" 거절]]></title>
-        <id>https://entertain.v.daum.net/v/20220228222413280</id>
-        <link href="https://entertain.v.daum.net/v/20220228222413280"/>
-        <updated>2022-02-28T14:10:26.902Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태준, 설렘→긴장 '틈새 유발'.. 완벽 '특별출연']]></title>
-        <id>https://entertain.v.daum.net/v/20220228214221621</id>
-        <link href="https://entertain.v.daum.net/v/20220228214221621"/>
-        <updated>2022-02-28T13:16:12.242Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
