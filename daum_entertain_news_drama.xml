@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-01T13:17:27.060Z</updated>
+    <updated>2022-03-01T14:10:55.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭, 김세정에 계약연애 제안→두근두근 첫키스 해프닝]]></title>
+        <id>https://entertain.v.daum.net/v/20220301230701010</id>
+        <link href="https://entertain.v.daum.net/v/20220301230701010"/>
+        <updated>2022-03-01T14:10:46.795Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭, 김세정에 "왜 나랑 결혼 안 하나" 직진]]></title>
+        <id>https://entertain.v.daum.net/v/20220301224313857</id>
+        <link href="https://entertain.v.daum.net/v/20220301224313857"/>
+        <updated>2022-03-01T14:10:46.797Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현x조보아, 도로 점령 新빌런과 대치..액션 본능 깨어난다]]></title>
         <id>https://entertain.v.daum.net/v/20220301214046205</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220301145010823"/>
         <updated>2022-03-01T06:14:29.961Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 미친자들의 대환장 프롤로그 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20220301143927610</id>
-        <link href="https://entertain.v.daum.net/v/20220301143927610"/>
-        <updated>2022-03-01T06:14:29.965Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭vs김세정, 쫓고 쫓기는 직장 내 추격전]]></title>
-        <id>https://entertain.v.daum.net/v/20220301142727302</id>
-        <link href="https://entertain.v.daum.net/v/20220301142727302"/>
-        <updated>2022-03-01T06:14:29.965Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
