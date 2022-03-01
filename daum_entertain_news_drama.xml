@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-01T06:14:38.162Z</updated>
+    <updated>2022-03-01T07:10:35.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의아저씨'→'부부의세계'→'도베르만'..김영민, 존재감 또 美쳤다]]></title>
+        <id>https://entertain.v.daum.net/v/20220301154745095</id>
+        <link href="https://entertain.v.daum.net/v/20220301154745095"/>
+        <updated>2022-03-01T07:10:26.425Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['변호인'→'도베르만' 작가 "안보현x조보아, 어려운 군검사 연기 완성해줘"]]></title>
         <id>https://entertain.v.daum.net/v/20220301151401452</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220301121209707"/>
         <updated>2022-03-01T03:14:57.759Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극복의 드라마를 완성한 '싱어게인2' 톱3 김기태·김소연·윤성]]></title>
-        <id>https://entertain.v.daum.net/v/20220301114337132</id>
-        <link href="https://entertain.v.daum.net/v/20220301114337132"/>
-        <updated>2022-03-01T03:14:57.759Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
