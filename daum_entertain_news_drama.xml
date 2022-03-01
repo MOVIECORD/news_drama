@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-01T02:13:41.116Z</updated>
+    <updated>2022-03-01T03:15:06.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭, '가짜 맞선녀' 김세정과 재회.."'완벽남'의 귀여운 뒤끝"]]></title>
+        <id>https://entertain.v.daum.net/v/20220301121209707</id>
+        <link href="https://entertain.v.daum.net/v/20220301121209707"/>
+        <updated>2022-03-01T03:14:57.759Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극복의 드라마를 완성한 '싱어게인2' 톱3 김기태·김소연·윤성]]></title>
+        <id>https://entertain.v.daum.net/v/20220301114337132</id>
+        <link href="https://entertain.v.daum.net/v/20220301114337132"/>
+        <updated>2022-03-01T03:14:57.759Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭, 가짜 맞선녀 김세정 재회 '뒤끝 작렬 살벌']]></title>
+        <id>https://entertain.v.daum.net/v/20220301113213952</id>
+        <link href="https://entertain.v.daum.net/v/20220301113213952"/>
+        <updated>2022-03-01T03:14:57.763Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 측 "안효섭 귀여운 뒤끝, 김세정 임기응변 빛날 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220301110334323</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220301093828322"/>
         <updated>2022-03-01T00:49:25.175Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭X김세정, 첫방부터 로코 케미 터졌다? 분당 최고 시청률 6.8%]]></title>
-        <id>https://entertain.v.daum.net/v/20220301092342091</id>
-        <link href="https://entertain.v.daum.net/v/20220301092342091"/>
-        <updated>2022-03-01T00:49:25.177Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사' 안보현X조보아, 군검사가 된 이유+통쾌한 액션으로 시선 압도]]></title>
-        <id>https://entertain.v.daum.net/v/20220301092314081</id>
-        <link href="https://entertain.v.daum.net/v/20220301092314081"/>
-        <updated>2022-03-01T00:49:25.178Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜옥, 현실감 더한 모성애 열연]]></title>
-        <id>https://entertain.v.daum.net/v/20220301085539516</id>
-        <link href="https://entertain.v.daum.net/v/20220301085539516"/>
-        <updated>2022-03-01T00:49:25.179Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
