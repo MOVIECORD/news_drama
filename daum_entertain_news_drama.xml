@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-01T04:13:54.902Z</updated>
+    <updated>2022-03-01T05:10:30.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조보아, '군검사 도베르만' 첫방부터 연기 변신..화끈하게 눈도장 '쾅']]></title>
+        <id>https://entertain.v.daum.net/v/20220301135847615</id>
+        <link href="https://entertain.v.daum.net/v/20220301135847615"/>
+        <updated>2022-03-01T05:10:21.729Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고스트 닥터' 고상호 "수술실 익숙해..'김사부2' 큰 도움"]]></title>
         <id>https://entertain.v.daum.net/v/20220301130139475</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220301101133055"/>
         <updated>2022-03-01T02:13:33.185Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 이태리 출연확정, 장혁과 부자 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220301100203878</id>
-        <link href="https://entertain.v.daum.net/v/20220301100203878"/>
-        <updated>2022-03-01T02:13:33.190Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
