@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-02T09:11:05.528Z</updated>
+    <updated>2022-03-02T10:11:58.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정, '걸크러쉬→국민 로코녀' 두번째 인생캐]]></title>
+        <id>https://entertain.v.daum.net/v/20220302185743468</id>
+        <link href="https://entertain.v.daum.net/v/20220302185743468"/>
+        <updated>2022-03-02T10:11:50.337Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게리 올드만 주연 '슬로 호시스' 4월 1일 전 세계 공개 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20220302185636441</id>
+        <link href="https://entertain.v.daum.net/v/20220302185636441"/>
+        <updated>2022-03-02T10:11:50.338Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류성록, 탄탄한 연기력 시청자 소름 유발 '大반전캐']]></title>
+        <id>https://entertain.v.daum.net/v/20220302183438013</id>
+        <link href="https://entertain.v.daum.net/v/20220302183438013"/>
+        <updated>2022-03-02T10:11:50.347Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소년 심판' 그 나이에 감히 죄짓지 못하는 사회를 위하여]]></title>
+        <id>https://entertain.v.daum.net/v/20220302182640864</id>
+        <link href="https://entertain.v.daum.net/v/20220302182640864"/>
+        <updated>2022-03-02T10:11:50.347Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 감지 못한 채 죽은 이민영..이래서 '임성한' 하는구나]]></title>
         <id>https://entertain.v.daum.net/v/20220302170200074</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220302152407151"/>
         <updated>2022-03-02T07:11:03.870Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 김정태-이윤미, 박근형 재산 노리는 빌런 부부]]></title>
-        <id>https://entertain.v.daum.net/v/20220302151029521</id>
-        <link href="https://entertain.v.daum.net/v/20220302151029521"/>
-        <updated>2022-03-02T06:14:50.899Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만화서 튀어나온 '사내맞선' 연출, 원작 매력 살리고 신선함 잡고]]></title>
-        <id>https://entertain.v.daum.net/v/20220302145846931</id>
-        <link href="https://entertain.v.daum.net/v/20220302145846931"/>
-        <updated>2022-03-02T06:14:50.900Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우희, '신사와 아가씨' 후속 '현재는 아름다워' 캐스팅 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220302144528361</id>
-        <link href="https://entertain.v.daum.net/v/20220302144528361"/>
-        <updated>2022-03-02T06:14:50.902Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼 부부' 김정태∙이윤미, 재산 독차지하기 위해 '무모한 행동']]></title>
-        <id>https://entertain.v.daum.net/v/20220302143207796</id>
-        <link href="https://entertain.v.daum.net/v/20220302143207796"/>
-        <updated>2022-03-02T06:14:50.905Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
