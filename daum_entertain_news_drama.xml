@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-02T03:11:44.318Z</updated>
+    <updated>2022-03-02T04:13:53.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭, 쪼잔+잔망美 폭발..김세정 향해 직진!]]></title>
+        <id>https://entertain.v.daum.net/v/20220302130755563</id>
+        <link href="https://entertain.v.daum.net/v/20220302130755563"/>
+        <updated>2022-03-02T04:13:44.658Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소년심판' 스페셜 포스터 공개, 쏟아지는 극찬 속 의미 있는 고민]]></title>
+        <id>https://entertain.v.daum.net/v/20220302122037318</id>
+        <link href="https://entertain.v.daum.net/v/20220302122037318"/>
+        <updated>2022-03-02T04:13:44.659Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 김남길이 맞닥뜨린 두 연쇄살인범..'긴장감 최고조']]></title>
         <id>https://entertain.v.daum.net/v/20220302114916080</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220302110256555"/>
         <updated>2022-03-02T02:13:09.603Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 이성욱→윤사봉, 현실 공감 일으키는 직장 이야기]]></title>
-        <id>https://entertain.v.daum.net/v/20220302105827254</id>
-        <link href="https://entertain.v.daum.net/v/20220302105827254"/>
-        <updated>2022-03-02T02:13:09.606Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오겜' CG 작업 걸리버 스튜디오, 美 VES 시상식 노미네이트]]></title>
-        <id>https://entertain.v.daum.net/v/20220302105654167</id>
-        <link href="https://entertain.v.daum.net/v/20220302105654167"/>
-        <updated>2022-03-02T02:13:09.607Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
