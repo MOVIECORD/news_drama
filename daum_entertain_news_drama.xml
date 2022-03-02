@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-02T20:13:57.735Z</updated>
+    <updated>2022-03-02T21:09:23.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스물다섯 스물하나, 스토리와 캐릭터가 사랑받는 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220303060035202</id>
+        <link href="https://entertain.v.daum.net/v/20220303060035202"/>
+        <updated>2022-03-02T21:09:14.721Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른,아홉' 손예진의 과거와 현재..'고아와 의사']]></title>
+        <id>https://entertain.v.daum.net/v/20220303054000951</id>
+        <link href="https://entertain.v.daum.net/v/20220303054000951"/>
+        <updated>2022-03-02T21:09:14.723Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손예진 "말이 없어서, 차가워서 두 번 파양됐다"]]></title>
         <id>https://entertain.v.daum.net/v/20220303002315789</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220302202830251"/>
         <updated>2022-03-02T12:17:03.465Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 함은정에 투자한 '진짜 이유' 숨겼다]]></title>
-        <id>https://entertain.v.daum.net/v/20220302200644825</id>
-        <link href="https://entertain.v.daum.net/v/20220302200644825"/>
-        <updated>2022-03-02T11:09:39.975Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박근형 재산을 노리는 김정태·이윤미, '빌런'의 앞날은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220302200001702</id>
-        <link href="https://entertain.v.daum.net/v/20220302200001702"/>
-        <updated>2022-03-02T11:09:39.976Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
