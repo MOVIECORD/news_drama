@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-02T14:10:37.908Z</updated>
+    <updated>2022-03-02T15:11:43.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손에진♥연우진 연애 시작..전미도, 죽음 준비]]></title>
+        <id>https://entertain.v.daum.net/v/20220303001003619</id>
+        <link href="https://entertain.v.daum.net/v/20220303001003619"/>
+        <updated>2022-03-02T15:11:35.523Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진구 "계산된 연기 보여드릴 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220303000201490</id>
+        <link href="https://entertain.v.daum.net/v/20220303000201490"/>
+        <updated>2022-03-02T15:11:35.524Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른,아홉' 손예진, 안소희의 '라흐마니노프' 될 것 "고아 시절 내 모습"]]></title>
+        <id>https://entertain.v.daum.net/v/20220302235014376</id>
+        <link href="https://entertain.v.daum.net/v/20220302235014376"/>
+        <updated>2022-03-02T15:11:35.525Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른,아홉' 연우진, 이복 동생 안소희 무시하는 父에 '분노']]></title>
+        <id>https://entertain.v.daum.net/v/20220302232436187</id>
+        <link href="https://entertain.v.daum.net/v/20220302232436187"/>
+        <updated>2022-03-02T15:11:35.526Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 시한부 전미도, 손예진에 속 터놨다 "나 무서워" 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220302232030140</id>
+        <link href="https://entertain.v.daum.net/v/20220302232030140"/>
+        <updated>2022-03-02T15:11:35.526Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 죽음 앞둔 전미도, 손예진에 "무서워" 눈물]]></title>
         <id>https://entertain.v.daum.net/v/20220302230747001</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220302195337581"/>
         <updated>2022-03-02T11:09:39.986Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 범죄자 딸? "이 사실 절대 비밀"]]></title>
-        <id>https://entertain.v.daum.net/v/20220302194611420</id>
-        <link href="https://entertain.v.daum.net/v/20220302194611420"/>
-        <updated>2022-03-02T11:09:39.986Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 측 "26일 코로나 최종 확진→현재 회복단계"]]></title>
-        <id>https://entertain.v.daum.net/v/20220302194411364</id>
-        <link href="https://entertain.v.daum.net/v/20220302194411364"/>
-        <updated>2022-03-02T11:09:39.986Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래 확진 불똥?..'코빅' "녹화 불참"→'놀토' "일정 無"]]></title>
-        <id>https://entertain.v.daum.net/v/20220302193642198</id>
-        <link href="https://entertain.v.daum.net/v/20220302193642198"/>
-        <updated>2022-03-02T11:09:39.989Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 정성모 친딸 아니었다 "그냥 죽을까"]]></title>
-        <id>https://entertain.v.daum.net/v/20220302192556988</id>
-        <link href="https://entertain.v.daum.net/v/20220302192556988"/>
-        <updated>2022-03-02T11:09:39.993Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, '걸크러쉬→국민 로코녀' 두번째 인생캐]]></title>
-        <id>https://entertain.v.daum.net/v/20220302185743468</id>
-        <link href="https://entertain.v.daum.net/v/20220302185743468"/>
-        <updated>2022-03-02T10:11:50.337Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
