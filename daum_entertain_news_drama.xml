@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-03T15:11:25.171Z</updated>
+    <updated>2022-03-03T16:15:53.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손예진, '시한부' 전미도 위해 불륜 덮었다..송민지에 무릎 꿇고 애원 "제발 가주세요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220304005552948</id>
+        <link href="https://entertain.v.daum.net/v/20220304005552948"/>
+        <updated>2022-03-03T16:15:45.082Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 손예진, 이무생 아내에 무릎 꿇었다 "전미도 지켜야 해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220304002946851</id>
+        <link href="https://entertain.v.daum.net/v/20220304002946851"/>
+        <updated>2022-03-03T16:15:45.082Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 손예진, 전미도 불륜 감싸려 송민지에 무릎 꿇었다]]></title>
         <id>https://entertain.v.daum.net/v/20220304000927634</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220303203823194"/>
         <updated>2022-03-03T12:18:23.186Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 심혜진, 복수시동.. 황신혜X윤다훈과 한 집 살이 선언]]></title>
-        <id>https://entertain.v.daum.net/v/20220303203030092</id>
-        <link href="https://entertain.v.daum.net/v/20220303203030092"/>
-        <updated>2022-03-03T12:18:23.188Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플렌즈 서연대 22학번 편' 4일 유튜브 공개.."알바생 보러 오세요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220303201944896</id>
-        <link href="https://entertain.v.daum.net/v/20220303201944896"/>
-        <updated>2022-03-03T12:18:23.189Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
