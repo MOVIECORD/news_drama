@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-03T08:13:09.613Z</updated>
+    <updated>2022-03-03T09:11:14.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아직 최선을 다하지 않았을뿐' 박해준 "위안 주는 드라마"]]></title>
+        <id>https://entertain.v.daum.net/v/20220303180834488</id>
+        <link href="https://entertain.v.daum.net/v/20220303180834488"/>
+        <updated>2022-03-03T09:11:05.251Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스폰서' 구자성-김정태-이지훈, 매서운 기류 오가는 대치]]></title>
+        <id>https://entertain.v.daum.net/v/20220303180517377</id>
+        <link href="https://entertain.v.daum.net/v/20220303180517377"/>
+        <updated>2022-03-03T09:11:05.264Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해준 "첫 단독 주연? 솔직히 좀 힘들었죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220303175017931</id>
+        <link href="https://entertain.v.daum.net/v/20220303175017931"/>
+        <updated>2022-03-03T09:11:05.264Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손현주 VS 추상미, 숨막히는 대립]]></title>
         <id>https://entertain.v.daum.net/v/20220303170102163</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220303151517515"/>
         <updated>2022-03-03T07:10:49.776Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길, 프로파일러 역할 확대→진선규x김소진 대대적 변화]]></title>
-        <id>https://entertain.v.daum.net/v/20220303151105289</id>
-        <link href="https://entertain.v.daum.net/v/20220303151105289"/>
-        <updated>2022-03-03T06:13:46.256Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTBC, 故 이어령 선생 애도 다큐멘터리 특별 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20220303145412376</id>
-        <link href="https://entertain.v.daum.net/v/20220303145412376"/>
-        <updated>2022-03-03T06:13:46.256Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신승호, '환혼' 주연 캐스팅..'라이징 스타' 행보]]></title>
-        <id>https://entertain.v.daum.net/v/20220303144037754</id>
-        <link href="https://entertain.v.daum.net/v/20220303144037754"/>
-        <updated>2022-03-03T06:13:46.256Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
