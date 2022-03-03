@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-03T07:10:58.188Z</updated>
+    <updated>2022-03-03T08:13:09.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손현주 VS 추상미, 숨막히는 대립]]></title>
+        <id>https://entertain.v.daum.net/v/20220303170102163</id>
+        <link href="https://entertain.v.daum.net/v/20220303170102163"/>
+        <updated>2022-03-03T08:13:00.371Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아직 최선' 박해준 "망가지려면 확실히 망가져야..위안 받길"]]></title>
+        <id>https://entertain.v.daum.net/v/20220303163557175</id>
+        <link href="https://entertain.v.daum.net/v/20220303163557175"/>
+        <updated>2022-03-03T08:13:00.372Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전수경·문성호, 중년 로맨스 시동]]></title>
+        <id>https://entertain.v.daum.net/v/20220303163100970</id>
+        <link href="https://entertain.v.daum.net/v/20220303163100970"/>
+        <updated>2022-03-03T08:13:00.374Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영, 호의 미소→서늘한 눈빛 '온도차 연기']]></title>
         <id>https://entertain.v.daum.net/v/20220303160833049</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220303144037754"/>
         <updated>2022-03-03T06:13:46.256Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이방원' 주상욱, '정도전 '이광기에 외면 당했다]]></title>
-        <id>https://entertain.v.daum.net/v/20220303143403485</id>
-        <link href="https://entertain.v.daum.net/v/20220303143403485"/>
-        <updated>2022-03-03T06:13:46.256Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 한채영, 구자성 향한 매서운 눈빛..폭풍 전야]]></title>
-        <id>https://entertain.v.daum.net/v/20220303141104555</id>
-        <link href="https://entertain.v.daum.net/v/20220303141104555"/>
-        <updated>2022-03-03T06:13:46.257Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음을 읽는 자들' 김남길X진선규X김소진, 경찰 내 대대적 변화 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220303140832459</id>
-        <link href="https://entertain.v.daum.net/v/20220303140832459"/>
-        <updated>2022-03-03T05:10:32.793Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
