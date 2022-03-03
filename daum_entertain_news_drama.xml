@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-03T14:15:34.233Z</updated>
+    <updated>2022-03-03T15:11:25.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진, 전미도 불륜 감싸려 송민지에 무릎 꿇었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220304000927634</id>
+        <link href="https://entertain.v.daum.net/v/20220304000927634"/>
+        <updated>2022-03-03T15:11:16.060Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 전미도, 이무생에 "우린 악연".. 손예진, 송민지에 무릎 꿇었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220304000549604</id>
+        <link href="https://entertain.v.daum.net/v/20220304000549604"/>
+        <updated>2022-03-03T15:11:16.063Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['안소희 동지' 손예진, 연우진父에 일침 "나도 고아라서 마음 알아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220303235914457</id>
+        <link href="https://entertain.v.daum.net/v/20220303235914457"/>
+        <updated>2022-03-03T15:11:16.065Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 김지현 母 남기애, 손예진 친모일까]]></title>
+        <id>https://entertain.v.daum.net/v/20220303234700389</id>
+        <link href="https://entertain.v.daum.net/v/20220303234700389"/>
+        <updated>2022-03-03T15:11:16.066Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진, 전미도 위해 송민지 앞에 무릎 꿇었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220303234500372</id>
+        <link href="https://entertain.v.daum.net/v/20220303234500372"/>
+        <updated>2022-03-03T15:11:16.067Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 손예진, 전미도 완벽 케어 "우정으로 백숙 먹는다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220303232957267</id>
+        <link href="https://entertain.v.daum.net/v/20220303232957267"/>
+        <updated>2022-03-03T15:11:16.069Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손예진-안소희, 알고 보니 같은 고아원 출신]]></title>
         <id>https://entertain.v.daum.net/v/20220303230648123</id>
@@ -13,7 +55,7 @@
         <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['서른아홉' 연우진, 김소희X손예진 모습에 흐뭇 "함께 고아원 가자"]]></title>
+        <title type="html"><![CDATA['서른아홉' 연우진, 손예진X안소희 모습에 흐뭇 "함께 고아원 가자"]]></title>
         <id>https://entertain.v.daum.net/v/20220303230035085</id>
         <link href="https://entertain.v.daum.net/v/20220303230035085"/>
         <updated>2022-03-03T14:15:25.647Z</updated>
@@ -41,7 +83,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 황신혜X심혜진, 윤다훈 쟁탈전 "죽여 버릴 거야"]]></title>
+        <title type="html"><![CDATA['사랑의꽈배기' 황신혜vs심혜진, 윤다훈 쟁탈전 "죽여 버릴 거야"]]></title>
         <id>https://entertain.v.daum.net/v/20220303204038223</id>
         <link href="https://entertain.v.daum.net/v/20220303204038223"/>
         <updated>2022-03-03T12:18:23.185Z</updated>
@@ -67,47 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220303201944896"/>
         <updated>2022-03-03T12:18:23.189Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 윤다훈, 심혜진 찜닭집 또 찾아..황신혜 경고 무시]]></title>
-        <id>https://entertain.v.daum.net/v/20220303201158783</id>
-        <link href="https://entertain.v.daum.net/v/20220303201158783"/>
-        <updated>2022-03-03T12:18:23.190Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 오승아, 엄현경 몰아내려 또다시 '계략']]></title>
-        <id>https://entertain.v.daum.net/v/20220303195944580</id>
-        <link href="https://entertain.v.daum.net/v/20220303195944580"/>
-        <updated>2022-03-03T11:09:14.741Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어쩌다 사장2' 업그레이드 된 영업 2일차..임주완표 신메뉴 관심]]></title>
-        <id>https://entertain.v.daum.net/v/20220303194251319</id>
-        <link href="https://entertain.v.daum.net/v/20220303194251319"/>
-        <updated>2022-03-03T11:09:14.741Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우크라, 희망·용기 잃지 말길"..이영애→나르샤 ★들도 기부 행렬]]></title>
-        <id>https://entertain.v.daum.net/v/20220303193757233</id>
-        <link href="https://entertain.v.daum.net/v/20220303193757233"/>
-        <updated>2022-03-03T11:09:14.744Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째남편' 엄현경, "자백하면 오승아 출생 비밀 지켜주겠다" 제안]]></title>
-        <id>https://entertain.v.daum.net/v/20220303193508179</id>
-        <link href="https://entertain.v.daum.net/v/20220303193508179"/>
-        <updated>2022-03-03T11:09:14.745Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리VS보나, 금메달 결승전..불꽃 승부]]></title>
-        <id>https://entertain.v.daum.net/v/20220303183105062</id>
-        <link href="https://entertain.v.daum.net/v/20220303183105062"/>
-        <updated>2022-03-03T10:11:45.559Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
