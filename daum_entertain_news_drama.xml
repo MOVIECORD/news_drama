@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-04T06:14:01.623Z</updated>
+    <updated>2022-03-04T07:11:04.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS, 이세희 코로나19 확진 '신사와 아가씨'.."신속하게 촬영 중단"]]></title>
+        <id>https://entertain.v.daum.net/v/20220304152859642</id>
+        <link href="https://entertain.v.daum.net/v/20220304152859642"/>
+        <updated>2022-03-04T07:10:56.041Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와아가씨' 오현경, 코로나19 감염 의심..자기진단 '양성']]></title>
+        <id>https://entertain.v.daum.net/v/20220304152602552</id>
+        <link href="https://entertain.v.daum.net/v/20220304152602552"/>
+        <updated>2022-03-04T07:10:56.058Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와아가씨' 지현우, 코로나19 음성 "방역 지침 준수하며 활동"]]></title>
         <id>https://entertain.v.daum.net/v/20220304150859917</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220304123930735"/>
         <updated>2022-03-04T04:13:32.090Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['송강♥︎' 박민영, 사내연애 만큼 짜릿해..기상청 최연소 과장의 성장사]]></title>
-        <id>https://entertain.v.daum.net/v/20220304121505244</id>
-        <link href="https://entertain.v.daum.net/v/20220304121505244"/>
-        <updated>2022-03-04T04:13:32.091Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년심판' 김혜수 "김무열, 스마트한 배우..많이 배웠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220304120910076</id>
-        <link href="https://entertain.v.daum.net/v/20220304120910076"/>
-        <updated>2022-03-04T03:14:09.208Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
