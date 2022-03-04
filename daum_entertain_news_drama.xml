@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-04T04:13:40.655Z</updated>
+    <updated>2022-03-04T05:10:42.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서예화 "항상 쫓기며 연기, 여유 찾고 시야 넓어져"①]]></title>
+        <id>https://entertain.v.daum.net/v/20220304141007439</id>
+        <link href="https://entertain.v.daum.net/v/20220304141007439"/>
+        <updated>2022-03-04T05:10:33.981Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로파일러 김남길, 한밤중 왜 칼을 들었나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220304140625302</id>
+        <link href="https://entertain.v.daum.net/v/20220304140625302"/>
+        <updated>2022-03-04T05:10:33.984Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 프로파일러 김남길, 왜 칼 들었나 '궁금증 증폭']]></title>
+        <id>https://entertain.v.daum.net/v/20220304135623902</id>
+        <link href="https://entertain.v.daum.net/v/20220304135623902"/>
+        <updated>2022-03-04T05:10:33.985Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진구X하도권X이원근, 웹툰 싱크로율 120%..시너지 '기대 UP']]></title>
+        <id>https://entertain.v.daum.net/v/20220304135427836</id>
+        <link href="https://entertain.v.daum.net/v/20220304135427836"/>
+        <updated>2022-03-04T05:10:33.986Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소년심판' 김혜수, "53세 나이에 비해 어른스럽지 않아..성숙해지길 바라"]]></title>
         <id>https://entertain.v.daum.net/v/20220304124240798</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220304115034393"/>
         <updated>2022-03-04T03:14:09.210Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임'의 최종 결승선은  '에미상'일까?]]></title>
-        <id>https://entertain.v.daum.net/v/20220304114105070</id>
-        <link href="https://entertain.v.daum.net/v/20220304114105070"/>
-        <updated>2022-03-04T03:14:09.210Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 이민기X김지원X이엘, 평범해서 더 공감되네]]></title>
-        <id>https://entertain.v.daum.net/v/20220304110620420</id>
-        <link href="https://entertain.v.daum.net/v/20220304110620420"/>
-        <updated>2022-03-04T02:14:43.148Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱, 정도전 이광기에 칼 겨눴다]]></title>
-        <id>https://entertain.v.daum.net/v/20220304105800014</id>
-        <link href="https://entertain.v.daum.net/v/20220304105800014"/>
-        <updated>2022-03-04T02:14:43.160Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["몰래 행복해지자"..김태리, 청춘요정의 인간화]]></title>
-        <id>https://entertain.v.daum.net/v/20220304105638945</id>
-        <link href="https://entertain.v.daum.net/v/20220304105638945"/>
-        <updated>2022-03-04T02:14:43.162Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
