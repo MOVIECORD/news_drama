@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-04T21:10:31.422Z</updated>
+    <updated>2022-03-04T22:10:56.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그 화 되기"..'악의 마음' 김남길, 칼 들고 살해 현장 찾았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220305071003102</id>
+        <link href="https://entertain.v.daum.net/v/20220305071003102"/>
+        <updated>2022-03-04T22:10:47.619Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 서동갑, 좌천 당해도 적폐..언론사에 김남길 사진 제공 '분노']]></title>
         <id>https://entertain.v.daum.net/v/20220305060125784</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220304223327280</id>
         <link href="https://entertain.v.daum.net/v/20220304223327280"/>
         <updated>2022-03-04T14:12:57.242Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길 "연쇄살인마, 지옥도 사치"]]></title>
-        <id>https://entertain.v.daum.net/v/20220304222020141</id>
-        <link href="https://entertain.v.daum.net/v/20220304222020141"/>
-        <updated>2022-03-04T14:12:57.246Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
