@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-04T09:10:51.099Z</updated>
+    <updated>2022-03-04T10:13:07.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불륜녀 위해 무릎 꿇은 손예진..입양 편견 주입→불륜 미화 '서른 아홉' 시청률 오르락내리락]]></title>
+        <id>https://entertain.v.daum.net/v/20220304190101861</id>
+        <link href="https://entertain.v.daum.net/v/20220304190101861"/>
+        <updated>2022-03-04T10:12:58.737Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멍냥멍냥', 윤채경X차훈 OST '좋아' MV 오픈]]></title>
+        <id>https://entertain.v.daum.net/v/20220304182601054</id>
+        <link href="https://entertain.v.daum.net/v/20220304182601054"/>
+        <updated>2022-03-04T10:12:58.739Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와 아가씨', 박단단 역 이세희 확진에 촬영 중단]]></title>
         <id>https://entertain.v.daum.net/v/20220304173848836</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220304143428536"/>
         <updated>2022-03-04T06:13:53.076Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세희 코로나19 확진→오현경 자가키트 양성에 '신사와 아가씨' 촬영 중단]]></title>
-        <id>https://entertain.v.daum.net/v/20220304142955308</id>
-        <link href="https://entertain.v.daum.net/v/20220304142955308"/>
-        <updated>2022-03-04T06:13:53.076Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서예화 "'인간수업'처럼 배역으로 기억되고파"②]]></title>
-        <id>https://entertain.v.daum.net/v/20220304142014855</id>
-        <link href="https://entertain.v.daum.net/v/20220304142014855"/>
-        <updated>2022-03-04T06:13:53.077Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
