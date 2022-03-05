@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-05T06:13:12.268Z</updated>
+    <updated>2022-03-05T07:11:07.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌·신민아, 제주서 다시 만났다..아련 눈빛]]></title>
+        <id>https://entertain.v.daum.net/v/20220305155557763</id>
+        <link href="https://entertain.v.daum.net/v/20220305155557763"/>
+        <updated>2022-03-05T07:10:59.259Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 김남길vs김중희, 숨막히는 면담]]></title>
+        <id>https://entertain.v.daum.net/v/20220305152324146</id>
+        <link href="https://entertain.v.daum.net/v/20220305152324146"/>
+        <updated>2022-03-05T07:10:59.260Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱어게인2' 이주혁 인후통→최종 확진.."다른 톱6 이상 無"]]></title>
         <id>https://entertain.v.daum.net/v/20220305150121751</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220305111423358</id>
         <link href="https://entertain.v.daum.net/v/20220305111423358"/>
         <updated>2022-03-05T03:10:48.972Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 오열→남주혁 포대기, 미리보는 포인트3]]></title>
-        <id>https://entertain.v.daum.net/v/20220305111044321</id>
-        <link href="https://entertain.v.daum.net/v/20220305111044321"/>
-        <updated>2022-03-05T03:10:48.972Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울고있는 김태리→포대기 한 남주혁?..'스물다섯 스물하나'의 희로애락]]></title>
-        <id>https://entertain.v.daum.net/v/20220305105910144</id>
-        <link href="https://entertain.v.daum.net/v/20220305105910144"/>
-        <updated>2022-03-05T02:04:24.992Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
