@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-05T07:11:07.582Z</updated>
+    <updated>2022-03-05T08:14:21.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 괴물의 탈을 쓴 '비겁한 찌질이'들이 남긴 후유증]]></title>
+        <id>https://entertain.v.daum.net/v/20220305171333115</id>
+        <link href="https://entertain.v.daum.net/v/20220305171333115"/>
+        <updated>2022-03-05T08:14:13.120Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌·신민아, 제주서 다시 만났다..아련 눈빛]]></title>
         <id>https://entertain.v.daum.net/v/20220305155557763</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305111744392"/>
         <updated>2022-03-05T03:10:48.972Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 보나, 날카롭고 부드러운 칼]]></title>
-        <id>https://entertain.v.daum.net/v/20220305111423358</id>
-        <link href="https://entertain.v.daum.net/v/20220305111423358"/>
-        <updated>2022-03-05T03:10:48.972Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
