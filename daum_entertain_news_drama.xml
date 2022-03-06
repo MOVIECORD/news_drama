@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-06T05:10:20.550Z</updated>
+    <updated>2022-03-06T06:13:13.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한 작가가 잔혹한 천벌을 내리기 시작했다는 건]]></title>
+        <id>https://entertain.v.daum.net/v/20220306150505986</id>
+        <link href="https://entertain.v.daum.net/v/20220306150505986"/>
+        <updated>2022-03-06T06:13:02.824Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플렌즈 서연대 22학번 편' 최희승, 대학 시절 짝사랑 스토리 대방출]]></title>
+        <id>https://entertain.v.daum.net/v/20220306144105381</id>
+        <link href="https://entertain.v.daum.net/v/20220306144105381"/>
+        <updated>2022-03-06T06:13:02.826Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주미, 눈빛 발성으로 완성한 입체적 캐릭터..몰입 극대화]]></title>
+        <id>https://entertain.v.daum.net/v/20220306141742981</id>
+        <link href="https://entertain.v.daum.net/v/20220306141742981"/>
+        <updated>2022-03-06T06:13:02.826Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기상청 사람들' 박민영X송강vs윤박X유라 살벌한 4자 대면..폭발 1초전]]></title>
         <id>https://entertain.v.daum.net/v/20220306133558101</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220306113600993"/>
         <updated>2022-03-06T03:11:19.813Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '크레이지 러브' 김재욱X정수정X하준, 연기에 美친자들의 연기 배틀 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220306112256735</id>
-        <link href="https://entertain.v.daum.net/v/20220306112256735"/>
-        <updated>2022-03-06T03:11:19.814Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 김재욱X정수정X하준, 연기 전쟁 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220306111309472</id>
-        <link href="https://entertain.v.daum.net/v/20220306111309472"/>
-        <updated>2022-03-06T03:11:19.816Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 멜로망스 특별 출연..안효섭X김세정 콘서트 데이트 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220306104600866</id>
-        <link href="https://entertain.v.daum.net/v/20220306104600866"/>
-        <updated>2022-03-06T02:03:52.054Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
