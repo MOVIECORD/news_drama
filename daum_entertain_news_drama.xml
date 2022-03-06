@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-06T04:13:24.804Z</updated>
+    <updated>2022-03-06T05:10:20.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 박민영X송강vs윤박X유라 살벌한 4자 대면..폭발 1초전]]></title>
+        <id>https://entertain.v.daum.net/v/20220306133558101</id>
+        <link href="https://entertain.v.daum.net/v/20220306133558101"/>
+        <updated>2022-03-06T05:10:12.185Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최강 빌런' 오연수 뜬다, 카리스마 사단장 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220306133450087</id>
+        <link href="https://entertain.v.daum.net/v/20220306133450087"/>
+        <updated>2022-03-06T05:10:12.186Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기상청' 박민영♥송강vs윤박♥유라 살벌한 4자대면, 몸싸움까지]]></title>
         <id>https://entertain.v.daum.net/v/20220306130833673</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220306104600866"/>
         <updated>2022-03-06T02:03:52.054Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 오연수 최강 빌런 등판 임박..사단장 취임 현장 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220306103444692</id>
-        <link href="https://entertain.v.daum.net/v/20220306103444692"/>
-        <updated>2022-03-06T02:03:52.060Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 보나와 판정시비로 얼룩진 금메달 논란]]></title>
-        <id>https://entertain.v.daum.net/v/20220306102401451</id>
-        <link href="https://entertain.v.daum.net/v/20220306102401451"/>
-        <updated>2022-03-06T02:03:52.066Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
