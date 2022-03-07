@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-07T09:11:17.870Z</updated>
+    <updated>2022-03-07T10:13:01.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인연인가"..'크레이지 러브' 김재욱X정수정, '우결' 언급한 10년 전 이상형과 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20220307185002605</id>
+        <link href="https://entertain.v.daum.net/v/20220307185002605"/>
+        <updated>2022-03-07T10:12:53.080Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황광희, 코로나19 확진]]></title>
         <id>https://entertain.v.daum.net/v/20220307180856508</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220307155021884"/>
         <updated>2022-03-07T07:11:40.073Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["콧물 뽀뽀 기대해"..김재욱♥정수정 '크레이지 러브', 대환장 로맨스로 웃음 노린다]]></title>
-        <id>https://entertain.v.daum.net/v/20220307155008874</id>
-        <link href="https://entertain.v.daum.net/v/20220307155008874"/>
-        <updated>2022-03-07T07:11:40.073Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
