@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-07T21:09:53.811Z</updated>
+    <updated>2022-03-07T22:11:04.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상승세 탄 '사내맞선' 3회만 8.1% 자체 최고 시청률]]></title>
+        <id>https://entertain.v.daum.net/v/20220308070456628</id>
+        <link href="https://entertain.v.daum.net/v/20220308070456628"/>
+        <updated>2022-03-07T22:10:56.610Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['첫방' 크레이지 러브, 김재욱X정수정 뭉쳤다..美친 자들의 달콤살벌한 케미!]]></title>
+        <id>https://entertain.v.daum.net/v/20220308065816538</id>
+        <link href="https://entertain.v.daum.net/v/20220308065816538"/>
+        <updated>2022-03-07T22:10:56.610Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 정수정' "콧물 범벅 첫 키스신, 얼마나 웃기던지.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220308065719527</id>
+        <link href="https://entertain.v.daum.net/v/20220308065719527"/>
+        <updated>2022-03-07T22:10:56.615Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 오연수 "안보현, 김우석 軍 면제 돕는 거 알았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220308064401325</id>
+        <link href="https://entertain.v.daum.net/v/20220308064401325"/>
+        <updated>2022-03-07T22:10:56.622Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부배, 예측불허 흔들리는 男心의 향방은?]]></title>
         <id>https://entertain.v.daum.net/v/20220308050501103</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220307225631683"/>
         <updated>2022-03-07T14:12:51.765Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정, 안효섭에 정체 들킬뻔.. "제가 감기에 걸려서요" 기지 발휘]]></title>
-        <id>https://entertain.v.daum.net/v/20220307224757598</id>
-        <link href="https://entertain.v.daum.net/v/20220307224757598"/>
-        <updated>2022-03-07T14:12:51.765Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 일타강사 김재욱X비서 정수정, 다급한 출근]]></title>
-        <id>https://entertain.v.daum.net/v/20220307222041329</id>
-        <link href="https://entertain.v.daum.net/v/20220307222041329"/>
-        <updated>2022-03-07T14:12:51.765Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 돈만 갉아먹는 기생충" 김재욱, 실수한 비서 '정수정'에 막말ing]]></title>
-        <id>https://entertain.v.daum.net/v/20220307220050963</id>
-        <link href="https://entertain.v.daum.net/v/20220307220050963"/>
-        <updated>2022-03-07T13:17:18.413Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 안보현, 뜻밖에 추격전..일촉즉발 위기 봉착]]></title>
-        <id>https://entertain.v.daum.net/v/20220307214245644</id>
-        <link href="https://entertain.v.daum.net/v/20220307214245644"/>
-        <updated>2022-03-07T13:17:18.418Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
