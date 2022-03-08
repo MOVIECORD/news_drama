@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-08T09:10:55.928Z</updated>
+    <updated>2022-03-08T10:12:00.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['절친' 이정재·정우성, 선행도 사이좋게..산불 성금 각 1억원씩 기부]]></title>
+        <id>https://entertain.v.daum.net/v/20220308184038438</id>
+        <link href="https://entertain.v.daum.net/v/20220308184038438"/>
+        <updated>2022-03-08T10:11:52.392Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조보아·강영석, 비밀스러운 만남 포착]]></title>
         <id>https://entertain.v.daum.net/v/20220308175957394</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220308151930245"/>
         <updated>2022-03-08T07:11:37.909Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, 母 빚 갚으려 주6일 알바했는데..쏟아지는 응원]]></title>
-        <id>https://entertain.v.daum.net/v/20220308151344008</id>
-        <link href="https://entertain.v.daum.net/v/20220308151344008"/>
-        <updated>2022-03-08T07:11:37.909Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
