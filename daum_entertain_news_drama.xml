@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-08T08:14:04.683Z</updated>
+    <updated>2022-03-08T09:10:55.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조보아·강영석, 비밀스러운 만남 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220308175957394</id>
+        <link href="https://entertain.v.daum.net/v/20220308175957394"/>
+        <updated>2022-03-08T09:10:47.944Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 전반부 되짚어보기..주요 사건 넷]]></title>
+        <id>https://entertain.v.daum.net/v/20220308174811130</id>
+        <link href="https://entertain.v.daum.net/v/20220308174811130"/>
+        <updated>2022-03-08T09:10:47.958Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차지연, 코로나19 증상→'잃어버린얼굴 1895' 캐스팅 변경]]></title>
         <id>https://entertain.v.daum.net/v/20220308170924903</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220308151344008"/>
         <updated>2022-03-08T07:11:37.909Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭♥김세정, 연기야? 진심이야? '1주년 데이트 포착']]></title>
-        <id>https://entertain.v.daum.net/v/20220308144856007</id>
-        <link href="https://entertain.v.daum.net/v/20220308144856007"/>
-        <updated>2022-03-08T06:13:26.242Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱, 왕좌 차지하기 위한 본격 행보..전반부 되짚어보기]]></title>
-        <id>https://entertain.v.daum.net/v/20220308144619904</id>
-        <link href="https://entertain.v.daum.net/v/20220308144619904"/>
-        <updated>2022-03-08T06:13:26.244Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
