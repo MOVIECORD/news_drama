@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-09T14:10:15.121Z</updated>
+    <updated>2022-03-09T15:11:26.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '킬힐' 무너진 김하늘, 이혜영 손 잡았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220309234230485</id>
+        <link href="https://entertain.v.daum.net/v/20220309234230485"/>
+        <updated>2022-03-09T15:11:17.775Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 김하늘, 자신 뒷담화하는 신주아 "주제도 모르고" 돌직구]]></title>
+        <id>https://entertain.v.daum.net/v/20220309234031460</id>
+        <link href="https://entertain.v.daum.net/v/20220309234031460"/>
+        <updated>2022-03-09T15:11:17.778Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 김하늘, 김성령에 밀려 '휴지 홈쇼핑' 과거 회상]]></title>
+        <id>https://entertain.v.daum.net/v/20220309233305402</id>
+        <link href="https://entertain.v.daum.net/v/20220309233305402"/>
+        <updated>2022-03-09T15:11:17.780Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킬힐' 첫방, 위기의 김하늘..분노 폭발?]]></title>
         <id>https://entertain.v.daum.net/v/20220309223301777</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220309171421259"/>
         <updated>2022-03-09T09:11:01.525Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송원석, 안효섭과 첫 대면..훈훈함이 두 배]]></title>
-        <id>https://entertain.v.daum.net/v/20220309164626797</id>
-        <link href="https://entertain.v.daum.net/v/20220309164626797"/>
-        <updated>2022-03-09T08:13:26.200Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 김재욱X정수정 앞세우고 시청률 2%]]></title>
-        <id>https://entertain.v.daum.net/v/20220309163818679</id>
-        <link href="https://entertain.v.daum.net/v/20220309163818679"/>
-        <updated>2022-03-09T08:13:26.200Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리-남주혁, 관계성 거리 키워드 3단계]]></title>
-        <id>https://entertain.v.daum.net/v/20220309163030535</id>
-        <link href="https://entertain.v.daum.net/v/20220309163030535"/>
-        <updated>2022-03-09T08:13:26.200Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
