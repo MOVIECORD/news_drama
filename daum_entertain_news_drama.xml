@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-09T07:11:06.158Z</updated>
+    <updated>2022-03-09T08:13:34.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송원석, 안효섭과 첫 대면..훈훈함이 두 배]]></title>
+        <id>https://entertain.v.daum.net/v/20220309164626797</id>
+        <link href="https://entertain.v.daum.net/v/20220309164626797"/>
+        <updated>2022-03-09T08:13:26.200Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 김재욱X정수정 앞세우고 시청률 2%]]></title>
+        <id>https://entertain.v.daum.net/v/20220309163818679</id>
+        <link href="https://entertain.v.daum.net/v/20220309163818679"/>
+        <updated>2022-03-09T08:13:26.200Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 김태리-남주혁, 관계성 거리 키워드 3단계]]></title>
+        <id>https://entertain.v.daum.net/v/20220309163030535</id>
+        <link href="https://entertain.v.daum.net/v/20220309163030535"/>
+        <updated>2022-03-09T08:13:26.200Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭·김세정, 비주얼이든 연기든 계산이 선다는 건]]></title>
         <id>https://entertain.v.daum.net/v/20220309153814492</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220309131928266"/>
         <updated>2022-03-09T05:11:44.013Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구자성·정민규, 한채영을 둘러싼 두 남자의 갈등]]></title>
-        <id>https://entertain.v.daum.net/v/20220309131641209</id>
-        <link href="https://entertain.v.daum.net/v/20220309131641209"/>
-        <updated>2022-03-09T05:11:44.014Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯' 김태리♥남주혁 언제 연애 시작하나 "관전포인트=관계성 변화"]]></title>
-        <id>https://entertain.v.daum.net/v/20220309131208152</id>
-        <link href="https://entertain.v.daum.net/v/20220309131208152"/>
-        <updated>2022-03-09T04:13:56.612Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, '환상의 짝꿍' 자석 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20220309130714060</id>
-        <link href="https://entertain.v.daum.net/v/20220309130714060"/>
-        <updated>2022-03-09T04:13:56.618Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
