@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-10T10:11:57.835Z</updated>
+    <updated>2022-03-10T11:11:08.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 함은정, 김주리와 헤어진다는 장세현에 이혼 요구]]></title>
+        <id>https://entertain.v.daum.net/v/20220310200927567</id>
+        <link href="https://entertain.v.daum.net/v/20220310200927567"/>
+        <updated>2022-03-10T11:10:57.632Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영·이지훈, 악연으로 얽혔다..본격 심리 싸움]]></title>
         <id>https://entertain.v.daum.net/v/20220310184637331</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220310155422894"/>
         <updated>2022-03-10T07:10:47.037Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영, 이지훈과 함께한 낮과 밤.. 은밀한 욕망 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220310155109753</id>
-        <link href="https://entertain.v.daum.net/v/20220310155109753"/>
-        <updated>2022-03-10T07:10:47.037Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
