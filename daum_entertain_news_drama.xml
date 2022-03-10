@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-10T18:13:39.169Z</updated>
+    <updated>2022-03-10T19:09:12.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전수경 공개 연애에 박주미·이가령 극과 극 반응]]></title>
+        <id>https://entertain.v.daum.net/v/20220311040007065</id>
+        <link href="https://entertain.v.daum.net/v/20220311040007065"/>
+        <updated>2022-03-10T19:09:03.862Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주상욱·조순창·홍경인, 이씨 가문 칼바람 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220311010012368</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220310202830814"/>
         <updated>2022-03-10T12:18:14.174Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘, 트라우마로 흔들리는 눈빛→ 방송사고 1초전]]></title>
-        <id>https://entertain.v.daum.net/v/20220310202718804</id>
-        <link href="https://entertain.v.daum.net/v/20220310202718804"/>
-        <updated>2022-03-10T12:18:14.186Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
