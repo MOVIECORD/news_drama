@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-10T05:10:37.831Z</updated>
+    <updated>2022-03-10T06:14:01.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김하늘·이혜영·김성령 캐스팅에도 시청자 마음은 오락가락]]></title>
+        <id>https://entertain.v.daum.net/v/20220310145415210</id>
+        <link href="https://entertain.v.daum.net/v/20220310145415210"/>
+        <updated>2022-03-10T06:13:52.843Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시맨틱 에러' 박재찬 "다음 작품서 송강과 만났으면..악역도 하고 싶어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220310143410530</id>
+        <link href="https://entertain.v.daum.net/v/20220310143410530"/>
+        <updated>2022-03-10T06:13:52.844Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["좋은 남편 될게요"..붐, 직접 남긴 결혼 소감은]]></title>
+        <id>https://entertain.v.daum.net/v/20220310141918955</id>
+        <link href="https://entertain.v.daum.net/v/20220310141918955"/>
+        <updated>2022-03-10T06:13:52.844Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지, 은퇴 아이돌 되나 "웹툰 원작 '이두나!' 출연 검토 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20220310141134669</id>
+        <link href="https://entertain.v.daum.net/v/20220310141134669"/>
+        <updated>2022-03-10T06:13:52.846Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지우학' 조이현, 차기작은 '뱀파이어 셰프']]></title>
         <id>https://entertain.v.daum.net/v/20220310140852540</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220310120203233"/>
         <updated>2022-03-10T03:16:05.653Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진 '돼지의 왕' 캐스팅..김동욱X김성규X채정안과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220310120011048</id>
-        <link href="https://entertain.v.daum.net/v/20220310120011048"/>
-        <updated>2022-03-10T03:16:05.656Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘→김성령 흥미진진 욕망의 얼굴들..절반의 성공,재미는 글쎄]]></title>
-        <id>https://entertain.v.daum.net/v/20220310113934270</id>
-        <link href="https://entertain.v.daum.net/v/20220310113934270"/>
-        <updated>2022-03-10T03:16:05.657Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너에게 가는 속도 493km' 박주현X채종협, 살짝 닿은 손가락 '심쿵']]></title>
-        <id>https://entertain.v.daum.net/v/20220310113931268</id>
-        <link href="https://entertain.v.daum.net/v/20220310113931268"/>
-        <updated>2022-03-10T03:16:05.658Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카더가든, '서른, 아홉' 손예진♥연우진 테마송 오늘 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220310113540096</id>
-        <link href="https://entertain.v.daum.net/v/20220310113540096"/>
-        <updated>2022-03-10T03:16:05.659Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
