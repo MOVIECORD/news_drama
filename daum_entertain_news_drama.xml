@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-11T09:11:36.889Z</updated>
+    <updated>2022-03-11T10:12:40.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['첫 악역' 이원근 "원래 말랐는데 더 뺐다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220311183007951</id>
+        <link href="https://entertain.v.daum.net/v/20220311183007951"/>
+        <updated>2022-03-11T10:12:31.603Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그리드' 한 번 시작하면 계속 보게 되는 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220311182359833</id>
+        <link href="https://entertain.v.daum.net/v/20220311182359833"/>
+        <updated>2022-03-11T10:12:31.603Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정재형→이무진, 어린이들과 깜짝 컬래버..KBS '아기싱어']]></title>
         <id>https://entertain.v.daum.net/v/20220311173207767</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220311152006023"/>
         <updated>2022-03-11T07:11:11.064Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역대급 처절함"..'우월한 하루' 진구·이원근의 '폭주' 스릴러]]></title>
-        <id>https://entertain.v.daum.net/v/20220311151719933</id>
-        <link href="https://entertain.v.daum.net/v/20220311151719933"/>
-        <updated>2022-03-11T07:11:11.069Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인기 웹툰 원작 부담되지만" 영상화된 '우월한 하루' 어떨까]]></title>
-        <id>https://entertain.v.daum.net/v/20220311151425822</id>
-        <link href="https://entertain.v.daum.net/v/20220311151425822"/>
-        <updated>2022-03-11T07:11:11.069Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
