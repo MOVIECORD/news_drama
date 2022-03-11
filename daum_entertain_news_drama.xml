@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-11T02:12:44.514Z</updated>
+    <updated>2022-03-11T03:13:11.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["널 가져야겠어"..김태리♥남주혁, 드디어 쌍방 로맨스?]]></title>
+        <id>https://entertain.v.daum.net/v/20220311120643132</id>
+        <link href="https://entertain.v.daum.net/v/20220311120643132"/>
+        <updated>2022-03-11T03:13:01.826Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬힐', 진부한 것 같지만 새롭다?]]></title>
+        <id>https://entertain.v.daum.net/v/20220311114934567</id>
+        <link href="https://entertain.v.daum.net/v/20220311114934567"/>
+        <updated>2022-03-11T03:13:01.826Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안보현·조보아 군검사 VS 오연수·김영민 빌런 본격 대결]]></title>
+        <id>https://entertain.v.daum.net/v/20220311112140571</id>
+        <link href="https://entertain.v.daum.net/v/20220311112140571"/>
+        <updated>2022-03-11T03:13:01.826Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리·남주혁·보나·최현욱·이주명 '스물다섯' OST 부른다 "수익 기부"]]></title>
         <id>https://entertain.v.daum.net/v/20220311111208215</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220311101540175"/>
         <updated>2022-03-11T02:12:36.011Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['써클하우스' 한가인 "또래 배우들과 경쟁 싫어 빨리 결혼"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311101354089</id>
-        <link href="https://entertain.v.daum.net/v/20220311101354089"/>
-        <updated>2022-03-11T02:12:36.012Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성경·김영대·윤종훈 '별똥별' 4월 22일 첫방 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220311100635837</id>
-        <link href="https://entertain.v.daum.net/v/20220311100635837"/>
-        <updated>2022-03-11T02:12:36.013Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리 이혼했어요' 시즌2 확정..4월 8일 첫방송]]></title>
-        <id>https://entertain.v.daum.net/v/20220311100540802</id>
-        <link href="https://entertain.v.daum.net/v/20220311100540802"/>
-        <updated>2022-03-11T02:12:36.015Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
