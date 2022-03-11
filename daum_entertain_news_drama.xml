@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-11T08:13:39.241Z</updated>
+    <updated>2022-03-11T09:11:36.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정재형→이무진, 어린이들과 깜짝 컬래버..KBS '아기싱어']]></title>
+        <id>https://entertain.v.daum.net/v/20220311173207767</id>
+        <link href="https://entertain.v.daum.net/v/20220311173207767"/>
+        <updated>2022-03-11T09:11:28.187Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아기싱어' 이무진 "신호등 떼창 영상, 하루에 수십개씩 받아"]]></title>
         <id>https://entertain.v.daum.net/v/20220311165631917</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220311151425822"/>
         <updated>2022-03-11T07:11:11.069Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역대급 고생" '우월한 하루' 딸바보 진구 VS 살인마 이원근, 고어 추격전]]></title>
-        <id>https://entertain.v.daum.net/v/20220311151401801</id>
-        <link href="https://entertain.v.daum.net/v/20220311151401801"/>
-        <updated>2022-03-11T06:14:19.382Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
