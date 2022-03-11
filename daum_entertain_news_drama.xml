@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-11T15:13:27.186Z</updated>
+    <updated>2022-03-11T16:17:31.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로시, 12일 '기상청 사람들' OST 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220312010006670</id>
+        <link href="https://entertain.v.daum.net/v/20220312010006670"/>
+        <updated>2022-03-11T16:17:23.368Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김진우, 감정이입 부르는 연기.. 몰입도 상승 눈빛]]></title>
+        <id>https://entertain.v.daum.net/v/20220312003302562</id>
+        <link href="https://entertain.v.daum.net/v/20220312003302562"/>
+        <updated>2022-03-11T16:17:23.368Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의마음' 김남길, 피해자母 위로에 눈물..결국 분석팀 복귀]]></title>
         <id>https://entertain.v.daum.net/v/20220312000019329</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220311220510646"/>
         <updated>2022-03-11T13:17:26.107Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완, 손현주 끌어내리나..박용우에 "조사하겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311215832559</id>
-        <link href="https://entertain.v.daum.net/v/20220311215832559"/>
-        <updated>2022-03-11T13:17:26.108Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장세현, 함은정에 子로 협박하며 이혼 거부]]></title>
-        <id>https://entertain.v.daum.net/v/20220311205047767</id>
-        <link href="https://entertain.v.daum.net/v/20220311205047767"/>
-        <updated>2022-03-11T12:17:45.852Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
