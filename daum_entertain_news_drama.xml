@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-11T20:12:20.359Z</updated>
+    <updated>2022-03-11T21:09:54.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식♥한소희, 자연스러운 스킨십? 사랑과 우정사이 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220312060010720</id>
+        <link href="https://entertain.v.daum.net/v/20220312060010720"/>
+        <updated>2022-03-11T21:09:45.087Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 정만식 재등장, 김남길에 프로파일링 요청 '개과천선']]></title>
+        <id>https://entertain.v.daum.net/v/20220312052722510</id>
+        <link href="https://entertain.v.daum.net/v/20220312052722510"/>
+        <updated>2022-03-11T21:09:45.088Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남길 울린 유가족, 프로파일러 사직 막았다 "소중한 사람 잃지 않게"]]></title>
+        <id>https://entertain.v.daum.net/v/20220312052636505</id>
+        <link href="https://entertain.v.daum.net/v/20220312052636505"/>
+        <updated>2022-03-11T21:09:45.093Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음' 강호순 모티브 연쇄살인범, 호의 동승→살인 본색 '소름']]></title>
+        <id>https://entertain.v.daum.net/v/20220312052314486</id>
+        <link href="https://entertain.v.daum.net/v/20220312052314486"/>
+        <updated>2022-03-11T21:09:45.093Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가단 김동현, 12일 '결사곡3' OST 발표]]></title>
         <id>https://entertain.v.daum.net/v/20220312040007210</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220311230501035"/>
         <updated>2022-03-11T14:10:15.913Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 김소진 병문안에도.."돌아갈 생각 없어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311225136956</id>
-        <link href="https://entertain.v.daum.net/v/20220311225136956"/>
-        <updated>2022-03-11T14:10:15.915Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 교통사고 후 재활치료.."분석팀 돌아갈 생각 없다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311223853890</id>
-        <link href="https://entertain.v.daum.net/v/20220311223853890"/>
-        <updated>2022-03-11T14:10:15.925Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음' 김남길, 교통사고로 신경마비 재활 치료→"분석팀 돌아갈 생각 없어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311222431811</id>
-        <link href="https://entertain.v.daum.net/v/20220311222431811"/>
-        <updated>2022-03-11T14:10:15.928Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 고아성, 임시완 밀어붙였다 "후회 남기지마"]]></title>
-        <id>https://entertain.v.daum.net/v/20220311222133803</id>
-        <link href="https://entertain.v.daum.net/v/20220311222133803"/>
-        <updated>2022-03-11T14:10:15.930Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
