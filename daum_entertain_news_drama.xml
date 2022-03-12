@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-12T03:11:44.757Z</updated>
+    <updated>2022-03-12T04:14:42.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악의 마음', 다 아는 얘기인데도 벌써 시즌2 요청 봇물인 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220312131010806</id>
+        <link href="https://entertain.v.daum.net/v/20220312131010806"/>
+        <updated>2022-03-12T04:14:33.847Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악의 마음', 오늘 종영..연쇄살인마 나철과 치열한 사투]]></title>
+        <id>https://entertain.v.daum.net/v/20220312123305458</id>
+        <link href="https://entertain.v.daum.net/v/20220312123305458"/>
+        <updated>2022-03-12T04:14:33.857Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 해녀 한지민♥선장 김우빈, 설렘 유발 로맨스]]></title>
         <id>https://entertain.v.daum.net/v/20220312120611256</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220312100747051"/>
         <updated>2022-03-12T01:58:33.458Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생·전노민·윤박..쿨하지 못한 '질척맨']]></title>
-        <id>https://entertain.v.daum.net/v/20220312100000909</id>
-        <link href="https://entertain.v.daum.net/v/20220312100000909"/>
-        <updated>2022-03-12T01:58:33.459Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 주먹다짐까지 했던 송강 윤박, 말발로 핏대 세운 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20220312095826896</id>
-        <link href="https://entertain.v.daum.net/v/20220312095826896"/>
-        <updated>2022-03-12T01:58:33.460Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
