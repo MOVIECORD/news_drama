@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-12T08:13:21.405Z</updated>
+    <updated>2022-03-12T09:11:00.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 남주혁에 폭탄 고백 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220312180819852</id>
+        <link href="https://entertain.v.daum.net/v/20220312180819852"/>
+        <updated>2022-03-12T09:10:51.402Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 주상욱, 김진성에 "내가 왕이 되고 싶어서다" 선언]]></title>
         <id>https://entertain.v.daum.net/v/20220312165312350</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220312135138246"/>
         <updated>2022-03-12T05:09:40.688Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음을' 오늘 종영, 김남길 진선규 김소진 계속될 사투]]></title>
-        <id>https://entertain.v.daum.net/v/20220312134926197</id>
-        <link href="https://entertain.v.daum.net/v/20220312134926197"/>
-        <updated>2022-03-12T05:09:40.689Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
