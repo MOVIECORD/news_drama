@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-12T09:11:00.263Z</updated>
+    <updated>2022-03-12T10:11:36.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 주상욱, 형 조순창과 대립각..이씨 형제의 균열]]></title>
+        <id>https://entertain.v.daum.net/v/20220312181549896</id>
+        <link href="https://entertain.v.daum.net/v/20220312181549896"/>
+        <updated>2022-03-12T10:11:28.274Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 남주혁에 폭탄 고백 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220312180819852</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220312135706333"/>
         <updated>2022-03-12T05:09:40.682Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이가령, 전수경에 문성호 뺏기고 부배로 타깃 변경? 재혼하려 고군분투]]></title>
-        <id>https://entertain.v.daum.net/v/20220312135138246</id>
-        <link href="https://entertain.v.daum.net/v/20220312135138246"/>
-        <updated>2022-03-12T05:09:40.688Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
