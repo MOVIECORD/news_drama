@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-12T07:10:43.313Z</updated>
+    <updated>2022-03-12T08:13:21.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 주상욱, 김진성에 "내가 왕이 되고 싶어서다" 선언]]></title>
+        <id>https://entertain.v.daum.net/v/20220312165312350</id>
+        <link href="https://entertain.v.daum.net/v/20220312165312350"/>
+        <updated>2022-03-12T08:13:12.992Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 결혼 관심없는 윤시윤 오민석 서범준의 결혼 분투기]]></title>
+        <id>https://entertain.v.daum.net/v/20220312164343271</id>
+        <link href="https://entertain.v.daum.net/v/20220312164343271"/>
+        <updated>2022-03-12T08:13:12.993Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악의 마음' 려운 "우주의 성장 응원해준 모든 분께 감사" 종영소감]]></title>
         <id>https://entertain.v.daum.net/v/20220312160407847</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220312134926197"/>
         <updated>2022-03-12T05:09:40.689Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길 '악의 마음을 읽는 자들', 최종회 관전 포인트 셋]]></title>
-        <id>https://entertain.v.daum.net/v/20220312134504151</id>
-        <link href="https://entertain.v.daum.net/v/20220312134504151"/>
-        <updated>2022-03-12T05:09:40.691Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악의 마음', 다 아는 얘기인데도 벌써 시즌2 요청 봇물인 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20220312131010806</id>
-        <link href="https://entertain.v.daum.net/v/20220312131010806"/>
-        <updated>2022-03-12T04:14:33.847Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
