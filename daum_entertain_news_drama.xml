@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-13T10:11:27.585Z</updated>
+    <updated>2022-03-13T11:09:19.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빛 못 보던' 남주혁, '스물다섯 스물하나'로 인생캐 썼다]]></title>
+        <id>https://entertain.v.daum.net/v/20220313195402601</id>
+        <link href="https://entertain.v.daum.net/v/20220313195402601"/>
+        <updated>2022-03-13T11:09:11.858Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭 뒤끝 유치하네..복수전 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220313184522006</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220313140955623"/>
         <updated>2022-03-13T05:13:56.920Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우월한 하루' 딸 잃어버린 진구, 평범한 가장의 폭주 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220313135658413</id>
-        <link href="https://entertain.v.daum.net/v/20220313135658413"/>
-        <updated>2022-03-13T05:13:56.920Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
