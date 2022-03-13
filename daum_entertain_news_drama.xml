@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-13T06:16:53.317Z</updated>
+    <updated>2022-03-13T07:10:44.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영철, 최다혜 지키기 위한 묘책..눈물겨운 부성애]]></title>
+        <id>https://entertain.v.daum.net/v/20220313151805051</id>
+        <link href="https://entertain.v.daum.net/v/20220313151805051"/>
+        <updated>2022-03-13T07:10:36.488Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['월화극 강자' 도베르만..제작진이 밝힌 관전 포인트]]></title>
         <id>https://entertain.v.daum.net/v/20220313150000667</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220313131656598</id>
         <link href="https://entertain.v.daum.net/v/20220313131656598"/>
         <updated>2022-03-13T05:13:56.925Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영♥송강, 사내연애 빨간불.."주변 사람 냄새 맡아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220313130818486</id>
-        <link href="https://entertain.v.daum.net/v/20220313130818486"/>
-        <updated>2022-03-13T04:14:14.890Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
