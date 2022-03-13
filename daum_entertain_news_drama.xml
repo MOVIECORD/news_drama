@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-13T19:09:14.263Z</updated>
+    <updated>2022-03-13T20:11:39.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유라, 윤박에 별거 통보 후 찜질방 하룻밤 "왜 나랑 결혼했냐?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220314050210477</id>
+        <link href="https://entertain.v.daum.net/v/20220314050210477"/>
+        <updated>2022-03-13T20:11:31.112Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송강, 실명 위기? 제주서 사고당해 눈 부상 충격]]></title>
+        <id>https://entertain.v.daum.net/v/20220314050006338</id>
+        <link href="https://entertain.v.daum.net/v/20220314050006338"/>
+        <updated>2022-03-13T20:11:31.113Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우월한하루' 진구, 딸 납치에 '충격'..하도권, "24시간내로 살인범 잡아"]]></title>
         <id>https://entertain.v.daum.net/v/20220314000128944</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220313225602511"/>
         <updated>2022-03-13T14:10:22.996Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["♥지현우 꼼짝마! 너는 내 운명" 이세희, 지치지 않는 직진愛]]></title>
-        <id>https://entertain.v.daum.net/v/20220313225434499</id>
-        <link href="https://entertain.v.daum.net/v/20220313225434499"/>
-        <updated>2022-03-13T14:10:22.996Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 순간이 영원하길".. '스물다섯' 김태리X남주혁, 바다여행 중 설렘 나눴다]]></title>
-        <id>https://entertain.v.daum.net/v/20220313224100394</id>
-        <link href="https://entertain.v.daum.net/v/20220313224100394"/>
-        <updated>2022-03-13T14:10:22.996Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
