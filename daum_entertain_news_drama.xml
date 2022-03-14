@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-14T12:18:11.524Z</updated>
+    <updated>2022-03-14T13:18:01.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현·조보아, 드디어 뭉친다..본격 공조 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220314212857606</id>
+        <link href="https://entertain.v.daum.net/v/20220314212857606"/>
+        <updated>2022-03-14T13:17:53.704Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김진엽, 함은정에 "장세현이 속 썩이냐" 걱정]]></title>
         <id>https://entertain.v.daum.net/v/20220314211007408</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220314171434388"/>
         <updated>2022-03-14T09:11:44.291Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손예진 파워?  '서른, 아홉' NFT 완판→"수익금 기부"]]></title>
-        <id>https://entertain.v.daum.net/v/20220314170014916</id>
-        <link href="https://entertain.v.daum.net/v/20220314170014916"/>
-        <updated>2022-03-14T08:13:58.739Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
