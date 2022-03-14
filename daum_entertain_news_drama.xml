@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-14T06:14:26.212Z</updated>
+    <updated>2022-03-14T07:11:26.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김성규가 곧 장르"..김성규, '돼지의 왕'으로 컴백]]></title>
+        <id>https://entertain.v.daum.net/v/20220314160135860</id>
+        <link href="https://entertain.v.daum.net/v/20220314160135860"/>
+        <updated>2022-03-14T07:11:17.510Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시청자들 오감 요동치게 한 '스폰서'의 엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220314152919624</id>
+        <link href="https://entertain.v.daum.net/v/20220314152919624"/>
+        <updated>2022-03-14T07:11:17.510Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현, 위기일발 폭풍 수난 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220314152905615</id>
+        <link href="https://entertain.v.daum.net/v/20220314152905615"/>
+        <updated>2022-03-14T07:11:17.510Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현에 닥친 폭풍 수난 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220314152833597</id>
+        <link href="https://entertain.v.daum.net/v/20220314152833597"/>
+        <updated>2022-03-14T07:11:17.511Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신사와 아가씨' 오현경, 유쾌와 진지 넘나드는 폭넓은 스펙트럼]]></title>
         <id>https://entertain.v.daum.net/v/20220314151241947</id>
@@ -41,7 +69,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['결사곡3' 문성호, 전수경과 엘리베이터 박력 키스..중년의 순애보]]></title>
+        <title type="html"><![CDATA[문성호, 전수경과 엘리베이터 박력 키스..중년의 순애보 '결사곡3']]></title>
         <id>https://entertain.v.daum.net/v/20220314143502219</id>
         <link href="https://entertain.v.daum.net/v/20220314143502219"/>
         <updated>2022-03-14T06:14:18.001Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220314134226794"/>
         <updated>2022-03-14T05:32:47.375Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 박주미-부배, 격정의 허리꺾기 키스 엔딩..최고 8.2%]]></title>
-        <id>https://entertain.v.daum.net/v/20220314134101727</id>
-        <link href="https://entertain.v.daum.net/v/20220314134101727"/>
-        <updated>2022-03-14T05:32:47.376Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른 아홉' NFT 8분 만에 완판..수익금 390만원 전액 기부]]></title>
-        <id>https://entertain.v.daum.net/v/20220314133528546</id>
-        <link href="https://entertain.v.daum.net/v/20220314133528546"/>
-        <updated>2022-03-14T05:32:47.380Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오 마이 갓!" 이정재, 美CCA 남우주연상 쾌거..'오징어게임' 에미상 노린다]]></title>
-        <id>https://entertain.v.daum.net/v/20220314132602271</id>
-        <link href="https://entertain.v.daum.net/v/20220314132602271"/>
-        <updated>2022-03-14T05:32:47.381Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 김명수, 결국 김영철 선택..주상욱 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220314132423221</id>
-        <link href="https://entertain.v.daum.net/v/20220314132423221"/>
-        <updated>2022-03-14T05:32:47.389Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
