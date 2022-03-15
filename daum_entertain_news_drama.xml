@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-15T07:11:46.895Z</updated>
+    <updated>2022-03-15T08:13:59.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채정안 "싱크로율 120%"..연상호 감탄한 자신감]]></title>
+        <id>https://entertain.v.daum.net/v/20220315171001128</id>
+        <link href="https://entertain.v.daum.net/v/20220315171001128"/>
+        <updated>2022-03-15T08:13:50.816Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황다슬 감독 신작 '블루밍' 설렘가득 캠퍼스 로맨스..31일 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220315170900094</id>
+        <link href="https://entertain.v.daum.net/v/20220315170900094"/>
+        <updated>2022-03-15T08:13:50.818Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연상호 애니메이션 '돼지의 왕'이 드라마로.."추적스릴러 가미"]]></title>
+        <id>https://entertain.v.daum.net/v/20220315165753724</id>
+        <link href="https://entertain.v.daum.net/v/20220315165753724"/>
+        <updated>2022-03-15T08:13:50.819Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완, 또 손현주에 선전포고..마지막 승부 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220315161536341</id>
+        <link href="https://entertain.v.daum.net/v/20220315161536341"/>
+        <updated>2022-03-15T08:13:50.819Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱X김성규X채정안 티빙 '돼지의 왕', 애니→드라마로 '시선집중']]></title>
         <id>https://entertain.v.daum.net/v/20220315160101727</id>
@@ -20,7 +48,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["원작 팬 배신 NO"..티빙 '돼지의 왕' 김동욱x김성규x채정안, 문제작 탄생]]></title>
+        <title type="html"><![CDATA["원작 팬 배신 NO"..'돼지의 왕' 김동욱x김성규x채정안, 문제작 탄생]]></title>
         <id>https://entertain.v.daum.net/v/20220315154900257</id>
         <link href="https://entertain.v.daum.net/v/20220315154900257"/>
         <updated>2022-03-15T07:11:38.625Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220315152059196"/>
         <updated>2022-03-15T07:11:38.634Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처연하거나 혹은 사납거나..'킬힐' 김하늘, 욕망으로 빛나는 두 얼굴]]></title>
-        <id>https://entertain.v.daum.net/v/20220315150834569</id>
-        <link href="https://entertain.v.daum.net/v/20220315150834569"/>
-        <updated>2022-03-15T06:14:05.438Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 태인호 특별출연 "비밀 열쇠 쥔 인물로"]]></title>
-        <id>https://entertain.v.daum.net/v/20220315150253272</id>
-        <link href="https://entertain.v.daum.net/v/20220315150253272"/>
-        <updated>2022-03-15T06:14:05.440Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원작 팬 배신하지 않을 것" 12부작 드라마 재탄생된 '돼지의왕']]></title>
-        <id>https://entertain.v.daum.net/v/20220315150140235</id>
-        <link href="https://entertain.v.daum.net/v/20220315150140235"/>
-        <updated>2022-03-15T06:14:05.441Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년심판' 김민석 작가 "대부분 소년범죄 가난+가정폭력+가출때문"]]></title>
-        <id>https://entertain.v.daum.net/v/20220315145546958</id>
-        <link href="https://entertain.v.daum.net/v/20220315145546958"/>
-        <updated>2022-03-15T06:14:05.441Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
