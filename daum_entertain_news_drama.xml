@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-15T12:18:24.126Z</updated>
+    <updated>2022-03-15T13:19:25.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭, 김세정 위해 몰카범 응징..프러포즈 계획]]></title>
+        <id>https://entertain.v.daum.net/v/20220315221410010</id>
+        <link href="https://entertain.v.daum.net/v/20220315221410010"/>
+        <updated>2022-03-15T13:19:17.009Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 정수정, 김재욱 약혼녀 행세하며 집 입성.. 유인영 "재결합 하고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20220315220530921</id>
+        <link href="https://entertain.v.daum.net/v/20220315220530921"/>
+        <updated>2022-03-15T13:19:17.011Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현·조보아, 육해공 넘나드는 본격 빌런 응징]]></title>
+        <id>https://entertain.v.daum.net/v/20220315213635484</id>
+        <link href="https://entertain.v.daum.net/v/20220315213635484"/>
+        <updated>2022-03-15T13:19:17.012Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 장세현, 함은정과 이혼 막기 위해 '끝도 없는 거짓말']]></title>
         <id>https://entertain.v.daum.net/v/20220315205015678</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220315180145586"/>
         <updated>2022-03-15T09:11:51.214Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대상 배우' 김동욱x'장르물 장인' 김성규..'돼지의 왕' 안 볼 수 없지]]></title>
-        <id>https://entertain.v.daum.net/v/20220315175307317</id>
-        <link href="https://entertain.v.daum.net/v/20220315175307317"/>
-        <updated>2022-03-15T09:11:51.222Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모델급 신예' 김현욱, '킬힐' 이혜영 아들 된다..제임스 役]]></title>
-        <id>https://entertain.v.daum.net/v/20220315175206298</id>
-        <link href="https://entertain.v.daum.net/v/20220315175206298"/>
-        <updated>2022-03-15T09:11:51.223Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혼전문 변호사 윤시윤vs혼인 무효소송 배다빈..'신사' 후속 스틸 첫공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220315174834191</id>
-        <link href="https://entertain.v.daum.net/v/20220315174834191"/>
-        <updated>2022-03-15T09:11:51.224Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
