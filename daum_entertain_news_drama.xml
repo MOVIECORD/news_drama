@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-15T03:13:07.960Z</updated>
+    <updated>2022-03-15T04:14:30.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 작가 공개한 손예진-전미도-김지현 캐릭터 키워드]]></title>
+        <id>https://entertain.v.daum.net/v/20220315122230560</id>
+        <link href="https://entertain.v.daum.net/v/20220315122230560"/>
+        <updated>2022-03-15T04:14:21.254Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도베르만' 안보현X조보아, 빌런 응징 위해 각개전투 모드 돌입]]></title>
         <id>https://entertain.v.daum.net/v/20220315120852277</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220315105403997"/>
         <updated>2022-03-15T02:12:45.184Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년비행' 원지안→윤찬영, 메인 예고편 공개..대마밭에 뛰어든 청춘들]]></title>
-        <id>https://entertain.v.daum.net/v/20220315105005820</id>
-        <link href="https://entertain.v.daum.net/v/20220315105005820"/>
-        <updated>2022-03-15T02:12:45.184Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
