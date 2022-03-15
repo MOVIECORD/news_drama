@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-15T19:11:11.451Z</updated>
+    <updated>2022-03-15T21:08:53.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민식, '돼지의 왕' 강력계 형사 연기 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220316060001715</id>
+        <link href="https://entertain.v.daum.net/v/20220316060001715"/>
+        <updated>2022-03-15T21:08:45.975Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조보아, 안도현 선택 이유 밝혔다→흑막 오연수 등장]]></title>
         <id>https://entertain.v.daum.net/v/20220316022256852</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220315225212395"/>
         <updated>2022-03-15T14:11:23.597Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭, 김세정 위해 몰카범 응징..프러포즈 계획]]></title>
-        <id>https://entertain.v.daum.net/v/20220315221410010</id>
-        <link href="https://entertain.v.daum.net/v/20220315221410010"/>
-        <updated>2022-03-15T13:19:17.009Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
