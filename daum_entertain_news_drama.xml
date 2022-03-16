@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-16T09:11:24.522Z</updated>
+    <updated>2022-03-16T10:12:12.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스폰서' 시름 빠진 한채영, 무릎 꿇은 이지훈..아슬아슬 악연 뒤바뀌나]]></title>
+        <id>https://entertain.v.daum.net/v/20220316181840699</id>
+        <link href="https://entertain.v.daum.net/v/20220316181840699"/>
+        <updated>2022-03-16T10:12:04.530Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김하늘, 파격 단발로 화려하게 컴백..흑화 시작?]]></title>
         <id>https://entertain.v.daum.net/v/20220316175402978</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220316145521536"/>
         <updated>2022-03-16T06:13:42.404Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김규리 "아직 혼자라 '엄마' 연기 힘들었다" '그린마더스클럽']]></title>
-        <id>https://entertain.v.daum.net/v/20220316143455706</id>
-        <link href="https://entertain.v.daum.net/v/20220316143455706"/>
-        <updated>2022-03-16T06:13:42.410Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
