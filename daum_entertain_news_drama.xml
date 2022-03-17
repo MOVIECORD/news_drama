@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-17T20:12:17.061Z</updated>
+    <updated>2022-03-17T21:10:00.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신선한 소재에 다른 몰입도, '군검사 도베르만'VS '킬힐']]></title>
+        <id>https://entertain.v.daum.net/v/20220318060104009</id>
+        <link href="https://entertain.v.daum.net/v/20220318060104009"/>
+        <updated>2022-03-17T21:09:51.746Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국대는 국대다', 전설들의 도전이 소환해낸 인생의 화양연화]]></title>
+        <id>https://entertain.v.daum.net/v/20220318060009911</id>
+        <link href="https://entertain.v.daum.net/v/20220318060009911"/>
+        <updated>2022-03-17T21:09:51.746Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대탈출'→'여고추리반' 정종연 PD "새 도전에 대한 고민 有"]]></title>
+        <id>https://entertain.v.daum.net/v/20220318060003896</id>
+        <link href="https://entertain.v.daum.net/v/20220318060003896"/>
+        <updated>2022-03-17T21:09:51.747Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱X채정안, 15년만 '돼지의 왕'서 만난 '커프' 인연]]></title>
         <id>https://entertain.v.daum.net/v/20220318050505272</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220317230207257"/>
         <updated>2022-03-17T16:14:50.521Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 이혜영, 이 구역의 미친 여자 포스.. 김하늘과 괴롭힌 김효선 쥐락펴락]]></title>
-        <id>https://entertain.v.daum.net/v/20220317230001203</id>
-        <link href="https://entertain.v.daum.net/v/20220317230001203"/>
-        <updated>2022-03-17T16:14:50.524Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 손예진, 양엄마에 '뱃속아이 교감' 질문 "마음으로 품었지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220317225413183</id>
-        <link href="https://entertain.v.daum.net/v/20220317225413183"/>
-        <updated>2022-03-17T16:14:50.531Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 손예진, 전미도에 친모 찾을 단서 숨겼다]]></title>
-        <id>https://entertain.v.daum.net/v/20220317224256100</id>
-        <link href="https://entertain.v.daum.net/v/20220317224256100"/>
-        <updated>2022-03-17T16:14:50.531Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
