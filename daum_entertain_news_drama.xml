@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-17T19:10:32.133Z</updated>
+    <updated>2022-03-17T20:12:17.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동욱X채정안, 15년만 '돼지의 왕'서 만난 '커프' 인연]]></title>
+        <id>https://entertain.v.daum.net/v/20220318050505272</id>
+        <link href="https://entertain.v.daum.net/v/20220318050505272"/>
+        <updated>2022-03-17T20:12:08.245Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른 아홉' 손예진, 사기전과 7범 생모 찾아 교도소행..전미도 품서 오열 '무슨 일?']]></title>
+        <id>https://entertain.v.daum.net/v/20220318042706051</id>
+        <link href="https://entertain.v.daum.net/v/20220318042706051"/>
+        <updated>2022-03-17T20:12:08.245Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 연우진 "내 장래희망은 차미조 남편" 사기 7범 친모 정체 안 손예진에 청혼]]></title>
         <id>https://entertain.v.daum.net/v/20220318001533977</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220317224256100"/>
         <updated>2022-03-17T16:14:50.531Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 손성윤, 함은정에 진실 고백.."내 가정까지 무너뜨리지 마"]]></title>
-        <id>https://entertain.v.daum.net/v/20220317203102490</id>
-        <link href="https://entertain.v.daum.net/v/20220317203102490"/>
-        <updated>2022-03-17T12:19:19.866Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 손성윤, 함은정에 "김진엽, 너 때문에 나와 결혼" 진실 밝혔다]]></title>
-        <id>https://entertain.v.daum.net/v/20220317202930469</id>
-        <link href="https://entertain.v.daum.net/v/20220317202930469"/>
-        <updated>2022-03-17T12:19:19.883Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
