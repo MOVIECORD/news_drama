@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-17T09:11:19.026Z</updated>
+    <updated>2022-03-17T10:12:20.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박경림·정준하·김현숙, 코로나19 확진]]></title>
+        <id>https://entertain.v.daum.net/v/20220317185815237</id>
+        <link href="https://entertain.v.daum.net/v/20220317185815237"/>
+        <updated>2022-03-17T10:12:11.275Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스폰서' 한채영-구자성 사이서 소란, 박준금 진짜 속내 뭐길래]]></title>
+        <id>https://entertain.v.daum.net/v/20220317185311167</id>
+        <link href="https://entertain.v.daum.net/v/20220317185311167"/>
+        <updated>2022-03-17T10:12:11.278Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너와 나의 경찰수업' 두 얼굴의 김권, 명품 신스틸러란 이런 것]]></title>
         <id>https://entertain.v.daum.net/v/20220317174113592</id>
         <link href="https://entertain.v.daum.net/v/20220317174113592"/>
-        <updated>2022-03-17T09:11:10.678Z</updated>
+        <updated>2022-03-17T10:12:11.278Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220317153453096"/>
         <updated>2022-03-17T08:13:37.094Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아직 최선' 박해준, 답답한 내 인생 위로한 명대사]]></title>
-        <id>https://entertain.v.daum.net/v/20220317153042920</id>
-        <link href="https://entertain.v.daum.net/v/20220317153042920"/>
-        <updated>2022-03-17T08:13:37.095Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댕댕이 남주혁 다시보자..'역도요정 김복주' 전편 연속 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20220317152712779</id>
-        <link href="https://entertain.v.daum.net/v/20220317152712779"/>
-        <updated>2022-03-17T08:13:37.095Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
