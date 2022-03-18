@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-18T12:18:00.793Z</updated>
+    <updated>2022-03-18T13:18:04.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 손현주 "임시완, 너희 머리 위에서 놀 놈이다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220318221511659</id>
+        <link href="https://entertain.v.daum.net/v/20220318221511659"/>
+        <updated>2022-03-18T13:17:55.346Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 전배수, 임시완에 "내 그물 안에 들어왔네" 코웃음]]></title>
+        <id>https://entertain.v.daum.net/v/20220318220254533</id>
+        <link href="https://entertain.v.daum.net/v/20220318220254533"/>
+        <updated>2022-03-18T13:17:55.360Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 손성윤, 샛별 친父 이수용 마주쳤다..'패닉']]></title>
         <id>https://entertain.v.daum.net/v/20220318203230533</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220318175010339"/>
         <updated>2022-03-18T09:11:44.586Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파친코' 김민하 "이민호, 캐스팅 납득 바로 몰입..감정적으로 의지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220318173612066</id>
-        <link href="https://entertain.v.daum.net/v/20220318173612066"/>
-        <updated>2022-03-18T09:11:44.591Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤여정 "'미나리'와 '파친코'의 할머니 연기? 구분 안되면 연기를 때려 쳐야지"]]></title>
-        <id>https://entertain.v.daum.net/v/20220318173227962</id>
-        <link href="https://entertain.v.daum.net/v/20220318173227962"/>
-        <updated>2022-03-18T09:11:44.595Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
