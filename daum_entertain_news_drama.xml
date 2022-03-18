@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-18T03:14:54.939Z</updated>
+    <updated>2022-03-18T04:14:16.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파친코' 윤여정 "나이 들어 상 받아 감사..달라진 건 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220318130738410</id>
+        <link href="https://entertain.v.daum.net/v/20220318130738410"/>
+        <updated>2022-03-18T04:13:54.461Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쥬얼리 이지현 아들, 엄마 무차별 폭행.."XXX야" 화풀이까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220318130409350</id>
+        <link href="https://entertain.v.daum.net/v/20220318130409350"/>
+        <updated>2022-03-18T04:13:54.462Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코' 진하 "'마스터' 윤여정과 호흡, 영광"..윤여정 "진하, 연기 잘해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220318125602216</id>
+        <link href="https://entertain.v.daum.net/v/20220318125602216"/>
+        <updated>2022-03-18T04:13:54.462Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코' 이민호 "K콘텐츠 글로벌 관심..이정재 자랑스러워" ③]]></title>
+        <id>https://entertain.v.daum.net/v/20220318124817128</id>
+        <link href="https://entertain.v.daum.net/v/20220318124817128"/>
+        <updated>2022-03-18T04:13:54.462Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코' 이민호의 초심"'꽃보다 남자' 이후 13년 만에 오디션" ②]]></title>
+        <id>https://entertain.v.daum.net/v/20220318124812127</id>
+        <link href="https://entertain.v.daum.net/v/20220318124812127"/>
+        <updated>2022-03-18T04:13:54.463Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코' 이민호·김민하 "해외 인터뷰, 좋은 평가만 있어 놀랐다" ①]]></title>
+        <id>https://entertain.v.daum.net/v/20220318124750123</id>
+        <link href="https://entertain.v.daum.net/v/20220318124750123"/>
+        <updated>2022-03-18T04:13:54.463Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 베이고 피 흘린 가슴들의 새로운 시작 기대]]></title>
+        <id>https://entertain.v.daum.net/v/20220318123501961</id>
+        <link href="https://entertain.v.daum.net/v/20220318123501961"/>
+        <updated>2022-03-18T04:13:54.466Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코' 김민하 "4개월간 오디션 부담감 보다 책임감 컸다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220318123235945</id>
+        <link href="https://entertain.v.daum.net/v/20220318123235945"/>
+        <updated>2022-03-18T04:13:54.472Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코' 진하 "'마스터' 윤여정과 호흡, 운 좋았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220318121440642</id>
+        <link href="https://entertain.v.daum.net/v/20220318121440642"/>
+        <updated>2022-03-18T04:13:54.472Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤여정→이민호 '파친코', 심상치 않다..글로벌 수작 탄생 예감]]></title>
         <id>https://entertain.v.daum.net/v/20220318120938533</id>
@@ -13,7 +76,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영X윤박, 구연인→친구로? 쿨하다 못해 추워]]></title>
+        <title type="html"><![CDATA['기상청' 박민영X윤박, 구 연인→친구로? 쿨하다 못해 추워]]></title>
         <id>https://entertain.v.daum.net/v/20220318120308402</id>
         <link href="https://entertain.v.daum.net/v/20220318120308402"/>
         <updated>2022-03-18T03:14:46.324Z</updated>
@@ -46,68 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220318114205759"/>
         <updated>2022-03-18T03:14:46.339Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영-윤박, 구연인→조언 주고 받는 친구?]]></title>
-        <id>https://entertain.v.daum.net/v/20220318113526488</id>
-        <link href="https://entertain.v.daum.net/v/20220318113526488"/>
-        <updated>2022-03-18T03:14:46.344Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 강신효, 코로나19 확진]]></title>
-        <id>https://entertain.v.daum.net/v/20220318113018291</id>
-        <link href="https://entertain.v.daum.net/v/20220318113018291"/>
-        <updated>2022-03-18T03:14:46.344Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 생모 만난 손예진 오열..시청률 소폭 상승 8.1%]]></title>
-        <id>https://entertain.v.daum.net/v/20220318112210018</id>
-        <link href="https://entertain.v.daum.net/v/20220318112210018"/>
-        <updated>2022-03-18T03:14:46.344Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 이가령, 매운기 쏙 빠졌다..제작진 "임성한표 기묘한 코믹함"]]></title>
-        <id>https://entertain.v.daum.net/v/20220318111930886</id>
-        <link href="https://entertain.v.daum.net/v/20220318111930886"/>
-        <updated>2022-03-18T03:14:46.344Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인교진, '너에게 가는 속도 493km' 출연..채종협과 사제 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20220318111726803</id>
-        <link href="https://entertain.v.daum.net/v/20220318111726803"/>
-        <updated>2022-03-18T03:14:46.345Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘, 이혜영 통제 벗어나 날 선 신경전 폭발 '짜릿']]></title>
-        <id>https://entertain.v.daum.net/v/20220318111535710</id>
-        <link href="https://entertain.v.daum.net/v/20220318111535710"/>
-        <updated>2022-03-18T02:17:21.854Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤여정 "내 연기 보기 어려워"..감독 "윤여정 얼굴, 韓 삶의 지도"]]></title>
-        <id>https://entertain.v.daum.net/v/20220318111004429</id>
-        <link href="https://entertain.v.daum.net/v/20220318111004429"/>
-        <updated>2022-03-18T02:17:21.856Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 이민기X김지원X손석구X이엘, 공감 드라마 탄생 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220318110840377</id>
-        <link href="https://entertain.v.daum.net/v/20220318110840377"/>
-        <updated>2022-03-18T02:17:21.857Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파친코' 수식조차 필요없는 역작의 탄생]]></title>
-        <id>https://entertain.v.daum.net/v/20220318110412182</id>
-        <link href="https://entertain.v.daum.net/v/20220318110412182"/>
-        <updated>2022-03-18T02:17:21.867Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
