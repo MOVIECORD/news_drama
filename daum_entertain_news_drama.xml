@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-20T02:10:09.236Z</updated>
+    <updated>2022-03-20T03:11:18.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년심판' 김보영 "춤추다 연기한 지 열달 만에 '파란머리 걔' 됐어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220320113934643</id>
+        <link href="https://entertain.v.daum.net/v/20220320113934643"/>
+        <updated>2022-03-20T03:11:09.458Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재욱♥정수정, 슈퍼갑을→관계역전..드디어 로맨스길 걷나]]></title>
+        <id>https://entertain.v.daum.net/v/20220320111927196</id>
+        <link href="https://entertain.v.daum.net/v/20220320111927196"/>
+        <updated>2022-03-20T03:11:09.464Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애정·우정에 모정까지 담은 김태리, 이런 매력덩어리를 봤나]]></title>
+        <id>https://entertain.v.daum.net/v/20220320111342048</id>
+        <link href="https://entertain.v.daum.net/v/20220320111342048"/>
+        <updated>2022-03-20T03:11:09.465Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자아도취 금물" 이도현, 믿고 보는 '성장형 배우']]></title>
         <id>https://entertain.v.daum.net/v/20220320110002692</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220320090804091"/>
         <updated>2022-03-20T00:44:13.376Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주혁♥김태리, 위로하고 위로 받는 '스물다섯 스물하나'..최고시청률 14.1%]]></title>
-        <id>https://entertain.v.daum.net/v/20220320085927928</id>
-        <link href="https://entertain.v.daum.net/v/20220320085927928"/>
-        <updated>2022-03-20T00:44:13.378Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청자 울린 김태리 모녀 오열..'스물다섯' 최고 시청률 14.1%까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220320084436822</id>
-        <link href="https://entertain.v.daum.net/v/20220320084436822"/>
-        <updated>2022-03-20T00:44:13.379Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 남주혁과 각별한 추억 쌓기..순간 최고 14.1%]]></title>
-        <id>https://entertain.v.daum.net/v/20220320084401815</id>
-        <link href="https://entertain.v.daum.net/v/20220320084401815"/>
-        <updated>2022-03-20T00:44:13.380Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
