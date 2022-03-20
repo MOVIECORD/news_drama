@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-20T06:13:52.801Z</updated>
+    <updated>2022-03-20T07:10:31.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정, 망가져도 사랑스럽네..'新 로코 요정' 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20220320152603563</id>
+        <link href="https://entertain.v.daum.net/v/20220320152603563"/>
+        <updated>2022-03-20T07:10:22.440Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 8회 킬링포인트 공개..이혜숙 복귀→한찬희 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220320152316511</id>
+        <link href="https://entertain.v.daum.net/v/20220320152316511"/>
+        <updated>2022-03-20T07:10:22.447Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주미, 캐릭터에 빈틈 없이 녹아들었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220320151341358</id>
+        <link href="https://entertain.v.daum.net/v/20220320151341358"/>
+        <updated>2022-03-20T07:10:22.449Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나철 "'빈센조'=나를 있게 한 작품..초심 잃지 않을 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220320145015881</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220320111927196"/>
         <updated>2022-03-20T03:11:09.464Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애정·우정에 모정까지 담은 김태리, 이런 매력덩어리를 봤나]]></title>
-        <id>https://entertain.v.daum.net/v/20220320111342048</id>
-        <link href="https://entertain.v.daum.net/v/20220320111342048"/>
-        <updated>2022-03-20T03:11:09.465Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자아도취 금물" 이도현, 믿고 보는 '성장형 배우']]></title>
-        <id>https://entertain.v.daum.net/v/20220320110002692</id>
-        <link href="https://entertain.v.daum.net/v/20220320110002692"/>
-        <updated>2022-03-20T02:09:59.881Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭, ♥김세정 기살리기 나선다..재벌 남친 'FLEX']]></title>
-        <id>https://entertain.v.daum.net/v/20220320105449619</id>
-        <link href="https://entertain.v.daum.net/v/20220320105449619"/>
-        <updated>2022-03-20T02:09:59.882Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
