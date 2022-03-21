@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-21T15:12:21.484Z</updated>
+    <updated>2022-03-21T16:26:02.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['군검사' 조보아X안보현, 오연수 복수 실패할까..덫에 걸렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20220322012031179</id>
+        <link href="https://entertain.v.daum.net/v/20220322012031179"/>
+        <updated>2022-03-21T16:25:53.108Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 안보현X조보아, 오연수에 당했다.. 상대는 상상 이상의 괴물]]></title>
         <id>https://entertain.v.daum.net/v/20220321235700239</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220321215900283"/>
         <updated>2022-03-21T13:21:11.240Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 김재욱, 이시언 낚시 성공 "누가 시켰냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220321214609131</id>
-        <link href="https://entertain.v.daum.net/v/20220321214609131"/>
-        <updated>2022-03-21T13:21:11.240Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
