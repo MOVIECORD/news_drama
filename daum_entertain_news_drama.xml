@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-23T11:09:30.391Z</updated>
+    <updated>2022-03-23T12:19:28.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 윤다훈, 장세현 불륜 알고 '납치']]></title>
+        <id>https://entertain.v.daum.net/v/20220323204415711</id>
+        <link href="https://entertain.v.daum.net/v/20220323204415711"/>
+        <updated>2022-03-23T12:19:19.812Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["감히 내 딸을".. '사랑의 꽈배기' 윤다훈, 함은정 두고 두 집 살림한 장세현 납치]]></title>
+        <id>https://entertain.v.daum.net/v/20220323202931439</id>
+        <link href="https://entertain.v.daum.net/v/20220323202931439"/>
+        <updated>2022-03-23T12:19:19.813Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 윤다훈에 "장세현 차기 회장 철회해라"]]></title>
         <id>https://entertain.v.daum.net/v/20220323200257979</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220323155718444"/>
         <updated>2022-03-23T07:11:42.896Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['며느라기2', 26일 종영..격공 부른 "임신 초기 시댁 장례식 가야 하나?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220323155031093</id>
-        <link href="https://entertain.v.daum.net/v/20220323155031093"/>
-        <updated>2022-03-23T07:11:42.898Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['32세' 박형식·'29세' 한소희 "교복, 이번이 마지막"]]></title>
-        <id>https://entertain.v.daum.net/v/20220323155001070</id>
-        <link href="https://entertain.v.daum.net/v/20220323155001070"/>
-        <updated>2022-03-23T07:11:42.899Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
