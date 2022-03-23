@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-23T07:11:53.335Z</updated>
+    <updated>2022-03-23T08:14:32.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 카리스마 주상욱, 카메라 뒤에선 장난꾸러기]]></title>
+        <id>https://entertain.v.daum.net/v/20220323165629639</id>
+        <link href="https://entertain.v.daum.net/v/20220323165629639"/>
+        <updated>2022-03-23T08:14:23.582Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["잘봐 언니들 싸움이다"..김아중vs이시영vs장소연 女女케미 시너지]]></title>
+        <id>https://entertain.v.daum.net/v/20220323162256520</id>
+        <link href="https://entertain.v.daum.net/v/20220323162256520"/>
+        <updated>2022-03-23T08:14:23.583Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류성록, 소름 유발자 '냉온 호연']]></title>
+        <id>https://entertain.v.daum.net/v/20220323161425223</id>
+        <link href="https://entertain.v.daum.net/v/20220323161425223"/>
+        <updated>2022-03-23T08:14:23.583Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 류성록, 온화함 속 서늘함 담았다..'소름 유발자']]></title>
         <id>https://entertain.v.daum.net/v/20220323160806000</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220323141148787"/>
         <updated>2022-03-23T06:14:45.292Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그리드' 서강준vs김아중 긴장감 폭발, 일촉즉발 팽팽한 대치]]></title>
-        <id>https://entertain.v.daum.net/v/20220323140339556</id>
-        <link href="https://entertain.v.daum.net/v/20220323140339556"/>
-        <updated>2022-03-23T05:10:29.101Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 임원희x정성호x박한솔, 박장대소 코믹 열전 퍼레이드]]></title>
-        <id>https://entertain.v.daum.net/v/20220323140006364</id>
-        <link href="https://entertain.v.daum.net/v/20220323140006364"/>
-        <updated>2022-03-23T05:10:29.101Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 일일 '으라차차 내인생' 남상지·양병렬 등 루키들의 파란만장 분투기..내달 11일 첫방]]></title>
-        <id>https://entertain.v.daum.net/v/20220323135500191</id>
-        <link href="https://entertain.v.daum.net/v/20220323135500191"/>
-        <updated>2022-03-23T05:10:29.101Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
