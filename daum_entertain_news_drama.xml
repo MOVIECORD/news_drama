@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-23T15:12:12.777Z</updated>
+    <updated>2022-03-23T16:14:49.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전미도, 이무생 눈물에 "이혼해. 나랑 같이 있어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220324005456561</id>
+        <link href="https://entertain.v.daum.net/v/20220324005456561"/>
+        <updated>2022-03-23T16:14:41.452Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 손예진X전미도X김지현, 뜨거운 우정 뒤의 씁쓸함]]></title>
+        <id>https://entertain.v.daum.net/v/20220324001811299</id>
+        <link href="https://entertain.v.daum.net/v/20220324001811299"/>
+        <updated>2022-03-23T16:14:41.466Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 연우진, 손예진 반대하는 父에 독설..청혼 강행]]></title>
         <id>https://entertain.v.daum.net/v/20220324001009165</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220323195339756"/>
         <updated>2022-03-23T11:09:21.982Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진희, 아들 보며 '꿀 뚝뚝' 특급 모자 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20220323190936000</id>
-        <link href="https://entertain.v.daum.net/v/20220323190936000"/>
-        <updated>2022-03-23T10:12:26.655Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우정보다 사랑" 선택한 박형식♥한소희, 현실서도 로맨스 케미 폭발]]></title>
-        <id>https://entertain.v.daum.net/v/20220323190102874</id>
-        <link href="https://entertain.v.daum.net/v/20220323190102874"/>
-        <updated>2022-03-23T10:12:26.656Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
