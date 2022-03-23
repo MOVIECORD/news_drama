@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-23T16:14:49.878Z</updated>
+    <updated>2022-03-23T17:13:26.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른 아홉' 전미도, 우는 이무생에 "이혼하고 같이 살자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220324015459892</id>
+        <link href="https://entertain.v.daum.net/v/20220324015459892"/>
+        <updated>2022-03-23T17:13:17.877Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전미도, 이무생 눈물에 "이혼해. 나랑 같이 있어"]]></title>
         <id>https://entertain.v.daum.net/v/20220324005456561</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220323200257979</id>
         <link href="https://entertain.v.daum.net/v/20220323200257979"/>
         <updated>2022-03-23T11:09:21.981Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두번째 남편' 엄현경, 한기웅에게 복수.."이젠 내가 널 버리는 거야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220323195339756</id>
-        <link href="https://entertain.v.daum.net/v/20220323195339756"/>
-        <updated>2022-03-23T11:09:21.982Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
