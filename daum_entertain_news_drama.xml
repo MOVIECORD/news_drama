@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-23T12:19:28.912Z</updated>
+    <updated>2022-03-23T13:21:12.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두번째 남편' 오승아, 차서원 비밀 폭로..정성모 '기절']]></title>
+        <id>https://entertain.v.daum.net/v/20220323215812796</id>
+        <link href="https://entertain.v.daum.net/v/20220323215812796"/>
+        <updated>2022-03-23T13:21:03.811Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 윤다훈, 장세현 불륜 알고 '납치']]></title>
         <id>https://entertain.v.daum.net/v/20220323204415711</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220323160806000</id>
         <link href="https://entertain.v.daum.net/v/20220323160806000"/>
         <updated>2022-03-23T07:11:42.894Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년비행' 윤지민X김예은X최대철X이규성, 극에 무게감 더하는 어른들의 세계]]></title>
-        <id>https://entertain.v.daum.net/v/20220323155718444</id>
-        <link href="https://entertain.v.daum.net/v/20220323155718444"/>
-        <updated>2022-03-23T07:11:42.896Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
