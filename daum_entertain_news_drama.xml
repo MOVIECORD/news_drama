@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-23T10:12:34.552Z</updated>
+    <updated>2022-03-23T11:09:30.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 윤다훈에 "장세현 차기 회장 철회해라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220323200257979</id>
+        <link href="https://entertain.v.daum.net/v/20220323200257979"/>
+        <updated>2022-03-23T11:09:21.981Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두번째 남편' 엄현경, 한기웅에게 복수.."이젠 내가 널 버리는 거야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220323195339756</id>
+        <link href="https://entertain.v.daum.net/v/20220323195339756"/>
+        <updated>2022-03-23T11:09:21.982Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진희, 아들 보며 '꿀 뚝뚝' 특급 모자 케미]]></title>
         <id>https://entertain.v.daum.net/v/20220323190936000</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220323155001070"/>
         <updated>2022-03-23T07:11:42.899Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 직진 고백+애틋 로맨스..설렘지수 수직상승]]></title>
-        <id>https://entertain.v.daum.net/v/20220323153820547</id>
-        <link href="https://entertain.v.daum.net/v/20220323153820547"/>
-        <updated>2022-03-23T07:11:42.900Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남상지·양병열·이시강·차민지, '으라차차 내 인생' 4인 4색 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20220323153533386</id>
-        <link href="https://entertain.v.daum.net/v/20220323153533386"/>
-        <updated>2022-03-23T07:11:42.935Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
