@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-24T10:12:38.862Z</updated>
+    <updated>2022-03-24T11:09:52.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두 번째 남편' 정성모, 지수원 꿍꿍이 알았다..숨 막히는 사투 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220324194858752</id>
+        <link href="https://entertain.v.daum.net/v/20220324194858752"/>
+        <updated>2022-03-24T11:09:44.281Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두 번째 남편' 지수원 "정성모 끌어내리려면 결정적 한방 필요해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220324192220313</id>
+        <link href="https://entertain.v.daum.net/v/20220324192220313"/>
+        <updated>2022-03-24T11:09:44.281Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민석, 김동욱에게 무자비한 학폭 행한 가해학생]]></title>
         <id>https://entertain.v.daum.net/v/20220324185618812</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220324161604683"/>
         <updated>2022-03-24T08:13:51.962Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조미령, '으라차차 내 인생'서 중년 삼각 로맨스 주인공]]></title>
-        <id>https://entertain.v.daum.net/v/20220324161557679</id>
-        <link href="https://entertain.v.daum.net/v/20220324161557679"/>
-        <updated>2022-03-24T08:13:51.963Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준VS정헌, 일일극 맞아? 누아르급 스페셜 포스터 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220324154756504</id>
-        <link href="https://entertain.v.daum.net/v/20220324154756504"/>
-        <updated>2022-03-24T07:11:14.299Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
