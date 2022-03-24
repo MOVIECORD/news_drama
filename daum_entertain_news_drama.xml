@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-24T15:12:54.280Z</updated>
+    <updated>2022-03-24T16:15:02.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진, 빚쟁이 찾아오자 친모와 관계 정리 결심]]></title>
+        <id>https://entertain.v.daum.net/v/20220325005001606</id>
+        <link href="https://entertain.v.daum.net/v/20220325005001606"/>
+        <updated>2022-03-24T16:14:54.372Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진, 친母 빚 탕감 요구에 눈물→전미도, 직접 추모원 예약]]></title>
+        <id>https://entertain.v.daum.net/v/20220325004213559</id>
+        <link href="https://entertain.v.daum.net/v/20220325004213559"/>
+        <updated>2022-03-24T16:14:54.374Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른아홉' 죽음 앞둔 전미도, ♥이무생 데리고 직접 추모원 예약]]></title>
         <id>https://entertain.v.daum.net/v/20220325000553998</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220324223300714"/>
         <updated>2022-03-24T14:11:42.127Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘VS김효선 다시 충돌? 아슬아슬 기싸움]]></title>
-        <id>https://entertain.v.daum.net/v/20220324221201115</id>
-        <link href="https://entertain.v.daum.net/v/20220324221201115"/>
-        <updated>2022-03-24T13:20:30.092Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함은정, 장세현X김주리 의심.."절대 용서 못 해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220324204612960</id>
-        <link href="https://entertain.v.daum.net/v/20220324204612960"/>
-        <updated>2022-03-24T12:19:02.945Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
