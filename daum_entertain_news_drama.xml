@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-25T08:13:49.196Z</updated>
+    <updated>2022-03-25T09:12:16.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전수경, 웨딩드레스 자태..문성호와 재혼→SF전자 맏며느리 되나]]></title>
+        <id>https://entertain.v.daum.net/v/20220325175502651</id>
+        <link href="https://entertain.v.daum.net/v/20220325175502651"/>
+        <updated>2022-03-25T09:12:08.353Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하선 "'며느라기'는 나의 이야기이자 여러분의 이야기" 종영 소감]]></title>
         <id>https://entertain.v.daum.net/v/20220325170754467</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220325144924316"/>
         <updated>2022-03-25T06:14:37.754Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김민규♥설인아, 운명적 만남→뜨밤..화끈한 '어른 케미']]></title>
-        <id>https://entertain.v.daum.net/v/20220325142400603</id>
-        <link href="https://entertain.v.daum.net/v/20220325142400603"/>
-        <updated>2022-03-25T06:14:37.755Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
