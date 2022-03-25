@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-25T12:38:56.065Z</updated>
+    <updated>2022-03-25T13:44:31.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완, 손현주에 "잘못 고백해라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220325221919401</id>
+        <link href="https://entertain.v.daum.net/v/20220325221919401"/>
+        <updated>2022-03-25T13:44:23.414Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 박용우, 손현주에 분노 "당신 살인자다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220325220344258</id>
+        <link href="https://entertain.v.daum.net/v/20220325220344258"/>
+        <updated>2022-03-25T13:44:23.428Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장세현, 정체 밝혀질까 조마조마..김진엽, 친子 알게 되나]]></title>
         <id>https://entertain.v.daum.net/v/20220325205614320</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220325155503634"/>
         <updated>2022-03-25T07:11:32.108Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭, 비주얼의 향연..확신의 만찢남]]></title>
-        <id>https://entertain.v.daum.net/v/20220325154701201</id>
-        <link href="https://entertain.v.daum.net/v/20220325154701201"/>
-        <updated>2022-03-25T07:11:32.108Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 김우석, 빌런과 단순함 사이 간극을 메우다]]></title>
-        <id>https://entertain.v.daum.net/v/20220325154444073</id>
-        <link href="https://entertain.v.daum.net/v/20220325154444073"/>
-        <updated>2022-03-25T07:11:32.114Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
