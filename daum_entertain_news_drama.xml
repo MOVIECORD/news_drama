@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-26T15:11:39.743Z</updated>
+    <updated>2022-03-26T16:14:21.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['기상청 사람들' 박민영X송강, 이별 결심→사내연애 '발각']]></title>
+        <title type="html"><![CDATA["다 잃을 각오해" ♥김태리 눈물에 남주혁 폭발 "미치겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220327005652983</id>
+        <link href="https://entertain.v.daum.net/v/20220327005652983"/>
+        <updated>2022-03-26T16:14:12.176Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신사와 아가씨' 이세희, 죽어가는 친모 이일화에게 "엄마"라 불러]]></title>
+        <id>https://entertain.v.daum.net/v/20220327005448977</id>
+        <link href="https://entertain.v.daum.net/v/20220327005448977"/>
+        <updated>2022-03-26T16:14:12.179Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남주혁, ♥김태리 "못 잃겠어" 외침에 키스 "미치겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220327005008952</id>
+        <link href="https://entertain.v.daum.net/v/20220327005008952"/>
+        <updated>2022-03-26T16:14:12.184Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 박민영X송강, 이별 결심→주변에 사내연애 들켜]]></title>
         <id>https://entertain.v.daum.net/v/20220327001003866</id>
         <link href="https://entertain.v.daum.net/v/20220327001003866"/>
         <updated>2022-03-26T15:11:31.919Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["각오해, 나희도"..김태리♥남주혁, 눈물 입맞춤→연애 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220327000043810</id>
+        <link href="https://entertain.v.daum.net/v/20220327000043810"/>
+        <updated>2022-03-26T16:14:12.188Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['기상청 사람들' 문태유♥정운선, 마음 확인.."나도 좋아해요"]]></title>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220326225003540"/>
         <updated>2022-03-26T14:09:34.684Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯' 남주혁♥김태리, 두 번째 키스 연인 됐다 "이런 사랑도 해보자"]]></title>
-        <id>https://entertain.v.daum.net/v/20220326224714528</id>
-        <link href="https://entertain.v.daum.net/v/20220326224714528"/>
-        <updated>2022-03-26T14:09:34.685Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주혁, 김태리 옆 '오빠' 견제..질투 가득 쪽지 봤더니]]></title>
-        <id>https://entertain.v.daum.net/v/20220326223753483</id>
-        <link href="https://entertain.v.daum.net/v/20220326223753483"/>
-        <updated>2022-03-26T14:09:34.686Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 박주미♥부배, 결혼 추진→이민영, 이가령에 빙의]]></title>
-        <id>https://entertain.v.daum.net/v/20220326223044441</id>
-        <link href="https://entertain.v.daum.net/v/20220326223044441"/>
-        <updated>2022-03-26T14:09:34.688Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 전노민, 전수경 찾아가 깽판.."문성호 아빠라 부를거냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220326220733314</id>
-        <link href="https://entertain.v.daum.net/v/20220326220733314"/>
-        <updated>2022-03-26T13:15:59.910Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
