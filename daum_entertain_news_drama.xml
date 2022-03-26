@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-26T06:13:33.682Z</updated>
+    <updated>2022-03-26T07:11:29.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영철 VS 김법래, 배신 후 '일촉즉발 독대']]></title>
+        <id>https://entertain.v.daum.net/v/20220326152705231</id>
+        <link href="https://entertain.v.daum.net/v/20220326152705231"/>
+        <updated>2022-03-26T07:11:19.810Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 김영철, 김법래 배신으로 분노 폭발..날카로운 경고]]></title>
+        <id>https://entertain.v.daum.net/v/20220326151913140</id>
+        <link href="https://entertain.v.daum.net/v/20220326151913140"/>
+        <updated>2022-03-26T07:11:19.818Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["못된 것도 좋아" 직진 부배, 박주미에 손키스♥]]></title>
         <id>https://entertain.v.daum.net/v/20220326150344007</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220326131549940"/>
         <updated>2022-03-26T05:10:39.021Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤라 "무미영으로 살 수 있어서 행복" '며느라기2..ing' 종영 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220326124145740</id>
-        <link href="https://entertain.v.daum.net/v/20220326124145740"/>
-        <updated>2022-03-26T04:13:48.625Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤여정의 깊게 패인 주름에 담겨있는 한국인의 저력]]></title>
-        <id>https://entertain.v.daum.net/v/20220326120807486</id>
-        <link href="https://entertain.v.daum.net/v/20220326120807486"/>
-        <updated>2022-03-26T03:17:07.209Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
