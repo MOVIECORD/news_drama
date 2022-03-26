@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-26T03:17:14.851Z</updated>
+    <updated>2022-03-26T04:13:57.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤라 "무미영으로 살 수 있어서 행복" '며느라기2..ing' 종영 소감]]></title>
+        <id>https://entertain.v.daum.net/v/20220326124145740</id>
+        <link href="https://entertain.v.daum.net/v/20220326124145740"/>
+        <updated>2022-03-26T04:13:48.625Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤여정의 깊게 패인 주름에 담겨있는 한국인의 저력]]></title>
         <id>https://entertain.v.daum.net/v/20220326120807486</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220326101358283"/>
         <updated>2022-03-26T02:17:55.417Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유니콘 남편' 권율 "'며느라기' 화합의 드라마 됐길"]]></title>
-        <id>https://entertain.v.daum.net/v/20220326101317279</id>
-        <link href="https://entertain.v.daum.net/v/20220326101317279"/>
-        <updated>2022-03-26T02:17:55.420Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
