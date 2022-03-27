@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-27T02:19:46.576Z</updated>
+    <updated>2022-03-27T03:16:42.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 정수정, 분노→복수→체념의 눈물 다음은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220327114119744</id>
+        <link href="https://entertain.v.daum.net/v/20220327114119744"/>
+        <updated>2022-03-27T03:16:33.036Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 이민영 영혼 마주친 이가령, 충격의 빙의 엔딩..최고 10.4%]]></title>
+        <id>https://entertain.v.daum.net/v/20220327112730557</id>
+        <link href="https://entertain.v.daum.net/v/20220327112730557"/>
+        <updated>2022-03-27T03:16:33.036Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭♥김세정, 스릴 만점 짜릿한 사내 비밀 연애 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220327105133933</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김태리♥︎남주혁, 눈물로 딥키스..연인 됐다]]></title>
+        <title type="html"><![CDATA[김태리♥︎남주혁, 모자 벗기고 진한 키스..연인 됐다]]></title>
         <id>https://entertain.v.daum.net/v/20220327094435822</id>
         <link href="https://entertain.v.daum.net/v/20220327094435822"/>
         <updated>2022-03-27T00:51:06.529Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327085941129"/>
         <updated>2022-03-27T00:51:06.542Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이런 사랑도 해보자"..'스물다섯 스물하나' 김태리·남주혁 키스]]></title>
-        <id>https://entertain.v.daum.net/v/20220327084839028</id>
-        <link href="https://entertain.v.daum.net/v/20220327084839028"/>
-        <updated>2022-03-27T00:51:06.542Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이런 사랑, 해보자" 모두가 숨죽인 남주혁♥김태리 키스]]></title>
-        <id>https://entertain.v.daum.net/v/20220327084549005</id>
-        <link href="https://entertain.v.daum.net/v/20220327084549005"/>
-        <updated>2022-03-27T00:51:06.542Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
