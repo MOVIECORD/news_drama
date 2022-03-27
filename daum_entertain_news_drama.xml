@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-27T06:14:06.691Z</updated>
+    <updated>2022-03-27T07:10:53.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑을 택한 남주혁, 김태리와 키스 후 뜨거운 눈물..극한의 딜레마]]></title>
+        <id>https://entertain.v.daum.net/v/20220327153647734</id>
+        <link href="https://entertain.v.daum.net/v/20220327153647734"/>
+        <updated>2022-03-27T07:10:44.787Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주미, 촘촘하게 빚어낸 감정선]]></title>
+        <id>https://entertain.v.daum.net/v/20220327151605354</id>
+        <link href="https://entertain.v.daum.net/v/20220327151605354"/>
+        <updated>2022-03-27T07:10:44.791Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정운선, '♥︎문태유'에 직진 고백→쾌속 키스..본격 로맨스 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220327151316284</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327124439591"/>
         <updated>2022-03-27T04:14:04.190Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 정수정, 분노→복수→체념의 눈물 다음은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220327114119744</id>
-        <link href="https://entertain.v.daum.net/v/20220327114119744"/>
-        <updated>2022-03-27T03:16:33.036Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 이민영 영혼 마주친 이가령, 충격의 빙의 엔딩..최고 10.4%]]></title>
-        <id>https://entertain.v.daum.net/v/20220327112730557</id>
-        <link href="https://entertain.v.daum.net/v/20220327112730557"/>
-        <updated>2022-03-27T03:16:33.036Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
