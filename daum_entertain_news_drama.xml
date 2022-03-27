@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-27T00:51:14.202Z</updated>
+    <updated>2022-03-27T02:19:46.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭♥김세정, 스릴 만점 짜릿한 사내 비밀 연애 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220327105133933</id>
+        <link href="https://entertain.v.daum.net/v/20220327105133933"/>
+        <updated>2022-03-27T02:19:38.186Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑꾼 안효섭 발연기?..♥김세정 사내연애 너무 티나네]]></title>
+        <id>https://entertain.v.daum.net/v/20220327104119793</id>
+        <link href="https://entertain.v.daum.net/v/20220327104119793"/>
+        <updated>2022-03-27T02:19:38.187Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리♥남주혁 키스엔딩 "다 해보자"]]></title>
         <id>https://entertain.v.daum.net/v/20220327095027907</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김태리♥︎남주혁, 눈물로 진한 키스..연인 됐다]]></title>
+        <title type="html"><![CDATA[김태리♥︎남주혁, 눈물로 딥키스..연인 됐다]]></title>
         <id>https://entertain.v.daum.net/v/20220327094435822</id>
         <link href="https://entertain.v.daum.net/v/20220327094435822"/>
         <updated>2022-03-27T00:51:06.529Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327084549005"/>
         <updated>2022-03-27T00:51:06.542Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 주상욱 즉위, 박진희 조력자→정적 되나 "역적이 되겠습니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220327084511002</id>
-        <link href="https://entertain.v.daum.net/v/20220327084511002"/>
-        <updated>2022-03-27T00:51:06.543Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이가령, 불륜녀 이민영 원혼 빙의에 소름 쫙 '온화 미소']]></title>
-        <id>https://entertain.v.daum.net/v/20220327083423932</id>
-        <link href="https://entertain.v.daum.net/v/20220327083423932"/>
-        <updated>2022-03-27T00:51:06.544Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
