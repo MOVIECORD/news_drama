@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-27T07:10:53.093Z</updated>
+    <updated>2022-03-27T08:13:15.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파친코' 이민호·김민하 "단순 로맨스신 아닌 원초적 사랑 그려야 했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220327170814454</id>
+        <link href="https://entertain.v.daum.net/v/20220327170814454"/>
+        <updated>2022-03-27T08:13:07.750Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베일 벗은 '파친코' 호평 계속, 진하 논란 극복할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220327164133045</id>
+        <link href="https://entertain.v.daum.net/v/20220327164133045"/>
+        <updated>2022-03-27T08:13:07.756Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑을 택한 남주혁, 김태리와 키스 후 뜨거운 눈물..극한의 딜레마]]></title>
         <id>https://entertain.v.daum.net/v/20220327153647734</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327130445801"/>
         <updated>2022-03-27T04:14:04.187Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왕위에 오른' 주상욱, 이방원x민씨 가문에 휘몰아칠 파란 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220327124620626</id>
-        <link href="https://entertain.v.daum.net/v/20220327124620626"/>
-        <updated>2022-03-27T04:14:04.190Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전노민 뻔뻔함 넘어 정신나간..자식들도 등 돌려]]></title>
-        <id>https://entertain.v.daum.net/v/20220327124439591</id>
-        <link href="https://entertain.v.daum.net/v/20220327124439591"/>
-        <updated>2022-03-27T04:14:04.190Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
