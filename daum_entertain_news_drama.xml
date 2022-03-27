@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-27T05:10:56.148Z</updated>
+    <updated>2022-03-27T06:14:06.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정운선, '♥︎문태유'에 직진 고백→쾌속 키스..본격 로맨스 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220327151316284</id>
+        <link href="https://entertain.v.daum.net/v/20220327151316284"/>
+        <updated>2022-03-27T06:13:58.417Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진구, 딸 찾기 위한 새로운 미션..연쇄 살인마 얼굴 찾기]]></title>
+        <id>https://entertain.v.daum.net/v/20220327143411478</id>
+        <link href="https://entertain.v.daum.net/v/20220327143411478"/>
+        <updated>2022-03-27T06:13:58.417Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트레이서' 박용우 "내 목소리 싫어 변조까지, 연기하는 게 괴로웠죠"]]></title>
         <id>https://entertain.v.daum.net/v/20220327140601919</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220327112730557"/>
         <updated>2022-03-27T03:16:33.036Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 안효섭♥김세정, 스릴 만점 짜릿한 사내 비밀 연애 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220327105133933</id>
-        <link href="https://entertain.v.daum.net/v/20220327105133933"/>
-        <updated>2022-03-27T02:19:38.186Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑꾼 안효섭 발연기?..♥김세정 사내연애 너무 티나네]]></title>
-        <id>https://entertain.v.daum.net/v/20220327104119793</id>
-        <link href="https://entertain.v.daum.net/v/20220327104119793"/>
-        <updated>2022-03-27T02:19:38.187Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
