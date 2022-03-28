@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-28T05:11:00.021Z</updated>
+    <updated>2022-03-28T06:14:38.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진·전미도·김지현, 시청자 마음 관통한 순간4]]></title>
+        <id>https://entertain.v.daum.net/v/20220328144700386</id>
+        <link href="https://entertain.v.daum.net/v/20220328144700386"/>
+        <updated>2022-03-28T06:14:30.615Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임현주, 현실감 넘치는 연기에 '공포감 극대화']]></title>
+        <id>https://entertain.v.daum.net/v/20220328144153176</id>
+        <link href="https://entertain.v.daum.net/v/20220328144153176"/>
+        <updated>2022-03-28T06:14:30.619Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 김세정, ♥안효섭 할아버지 이덕화에 재회..코믹 케미 터질까]]></title>
+        <id>https://entertain.v.daum.net/v/20220328143533888</id>
+        <link href="https://entertain.v.daum.net/v/20220328143533888"/>
+        <updated>2022-03-28T06:14:30.620Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한채영·구자성·이지훈·지이수, 엇갈린 네 남녀..막바지 관전 포인트]]></title>
+        <id>https://entertain.v.daum.net/v/20220328142719562</id>
+        <link href="https://entertain.v.daum.net/v/20220328142719562"/>
+        <updated>2022-03-28T06:14:30.621Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 이덕화, 안효섭♥김세정 큐피드에서 걸림돌 되나]]></title>
+        <id>https://entertain.v.daum.net/v/20220328141804131</id>
+        <link href="https://entertain.v.daum.net/v/20220328141804131"/>
+        <updated>2022-03-28T06:14:30.623Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스물다섯 스물하나'가 발견한 '내일의 스타']]></title>
         <id>https://entertain.v.daum.net/v/20220328140641598</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220328131100806"/>
         <updated>2022-03-28T04:16:48.455Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영♥︎송강, 연애 온도 다시 상승할까?]]></title>
-        <id>https://entertain.v.daum.net/v/20220328130022534</id>
-        <link href="https://entertain.v.daum.net/v/20220328130022534"/>
-        <updated>2022-03-28T04:16:48.456Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 반환점 앞둔 욕망 전쟁, 예측불가 변수 5인 집중 분석]]></title>
-        <id>https://entertain.v.daum.net/v/20220328122023661</id>
-        <link href="https://entertain.v.daum.net/v/20220328122023661"/>
-        <updated>2022-03-28T03:28:04.534Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 지현우, 직접 부른 프러포즈송까지 하드캐리 열연]]></title>
-        <id>https://entertain.v.daum.net/v/20220328114835442</id>
-        <link href="https://entertain.v.daum.net/v/20220328114835442"/>
-        <updated>2022-03-28T03:28:04.535Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, ♥︎김세정 따라 회식 참석..사내 연애 들키나]]></title>
-        <id>https://entertain.v.daum.net/v/20220328114747413</id>
-        <link href="https://entertain.v.daum.net/v/20220328114747413"/>
-        <updated>2022-03-28T03:28:04.536Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너가속' 측 "박주현, 배드민턴 선수 싱크로율 100%..재능+노력 갖춰"]]></title>
-        <id>https://entertain.v.daum.net/v/20220328114713402</id>
-        <link href="https://entertain.v.daum.net/v/20220328114713402"/>
-        <updated>2022-03-28T03:28:04.537Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
