@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-28T07:11:42.929Z</updated>
+    <updated>2022-03-28T08:15:02.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가해자들 보고 있나? '돼지의 왕' 김동욱의 아슬아슬한 복수극]]></title>
+        <id>https://entertain.v.daum.net/v/20220328161320214</id>
+        <link href="https://entertain.v.daum.net/v/20220328161320214"/>
+        <updated>2022-03-28T08:14:54.634Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이비복스 출신 배우 이희진, 케이원엔터와 전속계약]]></title>
         <id>https://entertain.v.daum.net/v/20220328155504418</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220328135430129</id>
         <link href="https://entertain.v.daum.net/v/20220328135430129"/>
         <updated>2022-03-28T05:10:50.884Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백이진 자극한 '오빠' 김준호.."김태리x남주혁 고마워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220328134504813</id>
-        <link href="https://entertain.v.daum.net/v/20220328134504813"/>
-        <updated>2022-03-28T05:10:50.891Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
