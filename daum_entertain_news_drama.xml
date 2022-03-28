@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-28T09:12:32.995Z</updated>
+    <updated>2022-03-28T10:12:47.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트레이서' 임시완, 단단한 신념이 아름다운 배우]]></title>
+        <id>https://entertain.v.daum.net/v/20220328190159562</id>
+        <link href="https://entertain.v.daum.net/v/20220328190159562"/>
+        <updated>2022-03-28T10:12:38.435Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재욱X정수정, 진짜 사랑 시작될까?]]></title>
+        <id>https://entertain.v.daum.net/v/20220328182756689</id>
+        <link href="https://entertain.v.daum.net/v/20220328182756689"/>
+        <updated>2022-03-28T10:12:38.447Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["니는 영원히 내 제자!"..김혜은, 귀화한 보나 감싼 참 스승]]></title>
         <id>https://entertain.v.daum.net/v/20220328180020886</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220328140641598"/>
         <updated>2022-03-28T05:10:50.869Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정, 안효섭 할아버지 이덕화와 또 악연]]></title>
-        <id>https://entertain.v.daum.net/v/20220328140602565</id>
-        <link href="https://entertain.v.daum.net/v/20220328140602565"/>
-        <updated>2022-03-28T05:10:50.871Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜은, 캐릭터 희로애락 서사]]></title>
-        <id>https://entertain.v.daum.net/v/20220328140541541</id>
-        <link href="https://entertain.v.daum.net/v/20220328140541541"/>
-        <updated>2022-03-28T05:10:50.871Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
