@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-28T06:14:38.556Z</updated>
+    <updated>2022-03-28T07:11:42.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이비복스 출신 배우 이희진, 케이원엔터와 전속계약]]></title>
+        <id>https://entertain.v.daum.net/v/20220328155504418</id>
+        <link href="https://entertain.v.daum.net/v/20220328155504418"/>
+        <updated>2022-03-28T07:11:35.000Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 김재욱X정수정 상황극, 현실극으로 변한다?]]></title>
+        <id>https://entertain.v.daum.net/v/20220328153533537</id>
+        <link href="https://entertain.v.daum.net/v/20220328153533537"/>
+        <updated>2022-03-28T07:11:35.003Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오현경, '감정X연기X케미' 완벽 3박자 '전천후 배우']]></title>
+        <id>https://entertain.v.daum.net/v/20220328152433078</id>
+        <link href="https://entertain.v.daum.net/v/20220328152433078"/>
+        <updated>2022-03-28T07:11:35.003Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 손예진·전미도·김지현, 시청자 마음 관통한 순간4]]></title>
         <id>https://entertain.v.daum.net/v/20220328144700386</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220328134504813"/>
         <updated>2022-03-28T05:10:50.891Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우월한 하루' 진구, 연쇄살인마 향한 필사 추척..흡인력↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220328133758599</id>
-        <link href="https://entertain.v.daum.net/v/20220328133758599"/>
-        <updated>2022-03-28T05:10:50.891Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 물 공포증 극복→제주 1년차 해녀 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220328133707553</id>
-        <link href="https://entertain.v.daum.net/v/20220328133707553"/>
-        <updated>2022-03-28T05:10:50.892Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파친코', 압도적 열연으로 탄생한 명장면 베스트 3]]></title>
-        <id>https://entertain.v.daum.net/v/20220328131100806</id>
-        <link href="https://entertain.v.daum.net/v/20220328131100806"/>
-        <updated>2022-03-28T04:16:48.455Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
