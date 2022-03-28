@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-28T14:11:22.400Z</updated>
+    <updated>2022-03-28T15:11:52.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 안효섭♥김세정, 비밀 연애 ing..이덕화에 '발각 위기']]></title>
+        <id>https://entertain.v.daum.net/v/20220328235700308</id>
+        <link href="https://entertain.v.daum.net/v/20220328235700308"/>
+        <updated>2022-03-28T15:11:44.154Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 이덕화, 김세정X안효섭 교제 눈치 채나..위기 봉착]]></title>
+        <id>https://entertain.v.daum.net/v/20220328231316049</id>
+        <link href="https://entertain.v.daum.net/v/20220328231316049"/>
+        <updated>2022-03-28T15:11:44.154Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭♥김세정, 애정행각 딱 걸렸다.. 사내 비밀연애 들통?]]></title>
         <id>https://entertain.v.daum.net/v/20220328230830010</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220328190159562"/>
         <updated>2022-03-28T10:12:38.435Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재욱X정수정, 진짜 사랑 시작될까?]]></title>
-        <id>https://entertain.v.daum.net/v/20220328182756689</id>
-        <link href="https://entertain.v.daum.net/v/20220328182756689"/>
-        <updated>2022-03-28T10:12:38.447Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["니는 영원히 내 제자!"..김혜은, 귀화한 보나 감싼 참 스승]]></title>
-        <id>https://entertain.v.daum.net/v/20220328180020886</id>
-        <link href="https://entertain.v.daum.net/v/20220328180020886"/>
-        <updated>2022-03-28T09:12:25.297Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
