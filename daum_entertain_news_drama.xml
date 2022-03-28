@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-28T11:10:17.320Z</updated>
+    <updated>2022-03-28T12:19:25.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 함은정과 5년 만에 재결합? 친자 진실 알았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220328202800962</id>
+        <link href="https://entertain.v.daum.net/v/20220328202800962"/>
+        <updated>2022-03-28T12:19:17.000Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 함은정 아들 비밀 알고 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220328201623838</id>
+        <link href="https://entertain.v.daum.net/v/20220328201623838"/>
+        <updated>2022-03-28T12:19:17.001Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 김민규·설인아, 화제 모은 안경 키스..텐션↑'어른 케미']]></title>
         <id>https://entertain.v.daum.net/v/20220328200003642</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220328144700386"/>
         <updated>2022-03-28T06:14:30.615Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임현주, 현실감 넘치는 연기에 '공포감 극대화']]></title>
-        <id>https://entertain.v.daum.net/v/20220328144153176</id>
-        <link href="https://entertain.v.daum.net/v/20220328144153176"/>
-        <updated>2022-03-28T06:14:30.619Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정, ♥안효섭 할아버지 이덕화에 재회..코믹 케미 터질까]]></title>
-        <id>https://entertain.v.daum.net/v/20220328143533888</id>
-        <link href="https://entertain.v.daum.net/v/20220328143533888"/>
-        <updated>2022-03-28T06:14:30.620Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
