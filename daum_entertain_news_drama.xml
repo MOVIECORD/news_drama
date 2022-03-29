@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-29T14:10:58.431Z</updated>
+    <updated>2022-03-29T15:12:24.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이덕화, 김세정에 이별 종용→안효섭은 교통 사고]]></title>
+        <id>https://entertain.v.daum.net/v/20220330001002077</id>
+        <link href="https://entertain.v.daum.net/v/20220330001002077"/>
+        <updated>2022-03-29T15:12:12.749Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 이덕화, 김세정에 "안효섭과 만나지마"→안효섭, 교통사고]]></title>
+        <id>https://entertain.v.daum.net/v/20220329231701471</id>
+        <link href="https://entertain.v.daum.net/v/20220329231701471"/>
+        <updated>2022-03-29T15:12:12.749Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 이덕화, 안효섭♥김세정 관계 알았다 "다신 만나지 마"]]></title>
         <id>https://entertain.v.daum.net/v/20220329230730431</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329193914693"/>
         <updated>2022-03-29T11:26:21.176Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나희도♥백이진, 의미있는 결말"..'스물다섯' 스태프 글]]></title>
-        <id>https://entertain.v.daum.net/v/20220329193004557</id>
-        <link href="https://entertain.v.daum.net/v/20220329193004557"/>
-        <updated>2022-03-29T11:26:21.178Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두 번째 남편' 오승아, 남기택 살인 용의자로 체포→도망]]></title>
-        <id>https://entertain.v.daum.net/v/20220329192013409</id>
-        <link href="https://entertain.v.daum.net/v/20220329192013409"/>
-        <updated>2022-03-29T11:26:21.179Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
