@@ -2,42 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-29T12:20:35.370Z</updated>
+    <updated>2022-03-29T13:22:43.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 이덕화, 김세정X안효섭 목격→위기 모면]]></title>
+        <id>https://entertain.v.daum.net/v/20220329221344004</id>
+        <link href="https://entertain.v.daum.net/v/20220329221344004"/>
+        <updated>2022-03-29T13:22:34.736Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 정수정, 김재욱과 '인질계약' 맺었다.. "굴욕적"]]></title>
+        <id>https://entertain.v.daum.net/v/20220329215530709</id>
+        <link href="https://entertain.v.daum.net/v/20220329215530709"/>
+        <updated>2022-03-29T13:22:34.753Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭·김세정, 김민규·설인아 커플과 더블데이트 포착]]></title>
         <id>https://entertain.v.daum.net/v/20220329210254002</id>
         <link href="https://entertain.v.daum.net/v/20220329210254002"/>
-        <updated>2022-03-29T12:20:26.795Z</updated>
+        <updated>2022-03-29T13:22:34.753Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 손성윤의 비밀 고백에 분노.."왜 다 거짓말만"]]></title>
         <id>https://entertain.v.daum.net/v/20220329204740753</id>
         <link href="https://entertain.v.daum.net/v/20220329204740753"/>
-        <updated>2022-03-29T12:20:26.803Z</updated>
+        <updated>2022-03-29T13:22:34.753Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 함은정, 또다시 김진엽 밀어냈다.."달라지는 거 없어"]]></title>
         <id>https://entertain.v.daum.net/v/20220329204617742</id>
         <link href="https://entertain.v.daum.net/v/20220329204617742"/>
-        <updated>2022-03-29T12:20:26.805Z</updated>
+        <updated>2022-03-29T13:22:34.753Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김태리♥남주혁, 이별 확정..'스물다섯 스물하나' 새드 엔딩? "의미 있는 결말"]]></title>
         <id>https://entertain.v.daum.net/v/20220329204508730</id>
         <link href="https://entertain.v.daum.net/v/20220329204508730"/>
-        <updated>2022-03-29T12:20:26.807Z</updated>
+        <updated>2022-03-29T13:22:34.753Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 함은정, 子 출생의 비밀 직접 밝혔다 "장세현 아들 아니야"]]></title>
         <id>https://entertain.v.daum.net/v/20220329202930480</id>
         <link href="https://entertain.v.daum.net/v/20220329202930480"/>
-        <updated>2022-03-29T12:20:26.808Z</updated>
+        <updated>2022-03-29T13:22:34.753Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329181328164"/>
         <updated>2022-03-29T10:12:34.955Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돼지의 왕' 연상호 "김동욱·김성규 연기 만족..앞으로가 더 재밌어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329175018399</id>
-        <link href="https://entertain.v.daum.net/v/20220329175018399"/>
-        <updated>2022-03-29T09:11:33.417Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반듯한 임시완, '똘끼'가 잘 어울릴 줄이야]]></title>
-        <id>https://entertain.v.daum.net/v/20220329172704700</id>
-        <link href="https://entertain.v.daum.net/v/20220329172704700"/>
-        <updated>2022-03-29T09:11:33.418Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
