@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-29T09:11:41.553Z</updated>
+    <updated>2022-03-29T10:12:43.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 김혜은, 인생코치로 시청자 홀릭..가슴 뭉클 어록]]></title>
+        <id>https://entertain.v.daum.net/v/20220329181720269</id>
+        <link href="https://entertain.v.daum.net/v/20220329181720269"/>
+        <updated>2022-03-29T10:12:34.954Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서인국, 코로나19 확진→'미남당' 촬영 중단 "격리 치료"]]></title>
+        <id>https://entertain.v.daum.net/v/20220329181531221</id>
+        <link href="https://entertain.v.daum.net/v/20220329181531221"/>
+        <updated>2022-03-29T10:12:34.954Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김예은, 대마 다룬 '소년비행'서 소름 열연..걸크러쉬 흑장미 완벽 소화]]></title>
+        <id>https://entertain.v.daum.net/v/20220329181328164</id>
+        <link href="https://entertain.v.daum.net/v/20220329181328164"/>
+        <updated>2022-03-29T10:12:34.955Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돼지의 왕' 연상호 "김동욱·김성규 연기 만족..앞으로가 더 재밌어"]]></title>
         <id>https://entertain.v.daum.net/v/20220329175018399</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329142337837"/>
         <updated>2022-03-29T06:14:28.582Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정, 비 트라우마 안효섭 위해 깜짝 작전 준비]]></title>
-        <id>https://entertain.v.daum.net/v/20220329141904642</id>
-        <link href="https://entertain.v.daum.net/v/20220329141904642"/>
-        <updated>2022-03-29T06:14:28.583Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 김재욱X정수정, 입술 닿기 3초 전 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220329141753591</id>
-        <link href="https://entertain.v.daum.net/v/20220329141753591"/>
-        <updated>2022-03-29T06:14:28.587Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돼지의 왕' 연상호·탁재영 "학교폭력·복수에 대한 고민 담아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329141727582</id>
-        <link href="https://entertain.v.daum.net/v/20220329141727582"/>
-        <updated>2022-03-29T06:14:28.588Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
