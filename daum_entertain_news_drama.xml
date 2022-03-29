@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-29T08:14:39.060Z</updated>
+    <updated>2022-03-29T09:11:41.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돼지의 왕' 연상호 "김동욱·김성규 연기 만족..앞으로가 더 재밌어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220329175018399</id>
+        <link href="https://entertain.v.daum.net/v/20220329175018399"/>
+        <updated>2022-03-29T09:11:33.417Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반듯한 임시완, '똘끼'가 잘 어울릴 줄이야]]></title>
+        <id>https://entertain.v.daum.net/v/20220329172704700</id>
+        <link href="https://entertain.v.daum.net/v/20220329172704700"/>
+        <updated>2022-03-29T09:11:33.418Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돼지의왕' 연상호 감독X탁재영 작가 밝힌 #연기력 #메시지 #학교폭력]]></title>
         <id>https://entertain.v.daum.net/v/20220329161920215</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329141727582"/>
         <updated>2022-03-29T06:14:28.588Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지현우 "연기대상 전혀 예상 못해..'지리둥절' 재밌어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329141518485</id>
-        <link href="https://entertain.v.daum.net/v/20220329141518485"/>
-        <updated>2022-03-29T06:14:28.592Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돼지의왕' 연상호 감독 "김동욱 연기 감탄..카타르시스와 죄의식도 표현"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329140526048</id>
-        <link href="https://entertain.v.daum.net/v/20220329140526048"/>
-        <updated>2022-03-29T05:12:15.924Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
