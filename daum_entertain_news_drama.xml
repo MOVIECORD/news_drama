@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-29T18:13:42.425Z</updated>
+    <updated>2022-03-29T19:09:36.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["스태프 펑펑 울었다"..탁재영 작가X연상호 감독, '돼지의 왕' 달라질 전개 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220330040101278</id>
+        <link href="https://entertain.v.daum.net/v/20220330040101278"/>
+        <updated>2022-03-29T19:09:28.170Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크레이지 러브' 김재욱, 유인영 앞에서 정수정과 '키스']]></title>
         <id>https://entertain.v.daum.net/v/20220330010155496</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220329204508730"/>
         <updated>2022-03-29T13:22:34.753Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 함은정, 子 출생의 비밀 직접 밝혔다 "장세현 아들 아니야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220329202930480</id>
-        <link href="https://entertain.v.daum.net/v/20220329202930480"/>
-        <updated>2022-03-29T13:22:34.753Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
