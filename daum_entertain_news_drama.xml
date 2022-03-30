@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-30T08:15:02.312Z</updated>
+    <updated>2022-03-30T09:11:36.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성규, 선-악 자유자재로 넘나드네]]></title>
+        <id>https://entertain.v.daum.net/v/20220330180034146</id>
+        <link href="https://entertain.v.daum.net/v/20220330180034146"/>
+        <updated>2022-03-30T09:11:28.736Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형식♥한소희 '사운드트랙 #1', 케미가 다했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220330180022137</id>
+        <link href="https://entertain.v.daum.net/v/20220330180022137"/>
+        <updated>2022-03-30T09:11:28.737Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곽도원·윤두준 '구필수는 없다', 이 치맥 같은 드라마]]></title>
+        <id>https://entertain.v.daum.net/v/20220330174008566</id>
+        <link href="https://entertain.v.daum.net/v/20220330174008566"/>
+        <updated>2022-03-30T09:11:28.737Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화=제주도의 첫사랑..이정은과 라이벌 절친 케미?]]></title>
+        <id>https://entertain.v.daum.net/v/20220330171628766</id>
+        <link href="https://entertain.v.daum.net/v/20220330171628766"/>
+        <updated>2022-03-30T09:11:28.737Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스폰서' 한채영·이지훈 둘러싼 비밀 밝혀지나.. 충격 전개 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220330171324668</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220330152952236"/>
         <updated>2022-03-30T07:12:11.684Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 이기우→박수영, 명품 신스틸러 활약 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220330151222540</id>
-        <link href="https://entertain.v.daum.net/v/20220330151222540"/>
-        <updated>2022-03-30T06:14:35.206Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 얼굴의 장혁]]></title>
-        <id>https://entertain.v.daum.net/v/20220330150713327</id>
-        <link href="https://entertain.v.daum.net/v/20220330150713327"/>
-        <updated>2022-03-30T06:14:35.208Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 손예진, 노래 실력 뽐낸다..전미도→김지현과 뭉친 이유는?]]></title>
-        <id>https://entertain.v.daum.net/v/20220330150241101</id>
-        <link href="https://entertain.v.daum.net/v/20220330150241101"/>
-        <updated>2022-03-30T06:14:35.211Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어게인 마이 라이프' 원작자 "이준기 싱크로율, 완벽 그 자체"]]></title>
-        <id>https://entertain.v.daum.net/v/20220330142112458</id>
-        <link href="https://entertain.v.daum.net/v/20220330142112458"/>
-        <updated>2022-03-30T06:14:35.212Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
