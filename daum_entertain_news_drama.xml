@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-30T03:27:04.932Z</updated>
+    <updated>2022-03-30T04:14:02.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일' 로운, 코마 상태로 저승사자 김희선 대면 '영혼 분리']]></title>
+        <id>https://entertain.v.daum.net/v/20220330130359717</id>
+        <link href="https://entertain.v.daum.net/v/20220330130359717"/>
+        <updated>2022-03-30T04:13:54.649Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곽도원→윤두준 '구필수는 없다' 1차 포스터, 보드게임 속 인생 한 판]]></title>
+        <id>https://entertain.v.daum.net/v/20220330124529336</id>
+        <link href="https://entertain.v.daum.net/v/20220330124529336"/>
+        <updated>2022-03-30T04:13:54.649Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박인환, '현재는 아름다워'로 12년 만 주말드라마 복귀]]></title>
         <id>https://entertain.v.daum.net/v/20220330115818829</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220330101757083"/>
         <updated>2022-03-30T02:29:18.809Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박인환, '현재는 아름다워' 출연..12년만 주말드라마 복귀]]></title>
-        <id>https://entertain.v.daum.net/v/20220330100832639</id>
-        <link href="https://entertain.v.daum.net/v/20220330100832639"/>
-        <updated>2022-03-30T02:29:18.810Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박인환 12년만에 특별한 주말극 복귀]]></title>
-        <id>https://entertain.v.daum.net/v/20220330100750603</id>
-        <link href="https://entertain.v.daum.net/v/20220330100750603"/>
-        <updated>2022-03-30T02:29:18.813Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
