@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-30T11:10:01.030Z</updated>
+    <updated>2022-03-30T12:21:16.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 벼랑 끝 장세현, 윤다훈 협박.. 김진엽 "손성윤과 결혼 후회"]]></title>
+        <id>https://entertain.v.daum.net/v/20220330203100991</id>
+        <link href="https://entertain.v.daum.net/v/20220330203100991"/>
+        <updated>2022-03-30T12:21:06.912Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한기웅, 공금횡령으로 체포→오승아, 해외 도주 계획]]></title>
+        <id>https://entertain.v.daum.net/v/20220330202008875</id>
+        <link href="https://entertain.v.daum.net/v/20220330202008875"/>
+        <updated>2022-03-30T12:21:06.938Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 함은정, 시부모에 "박재준, 장세현 친자식 아냐"]]></title>
         <id>https://entertain.v.daum.net/v/20220330200249590</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220330160600026"/>
         <updated>2022-03-30T07:12:11.674Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 남은 2회=김태리♥남주혁 이별 과정..역시 첫사랑은 안 이뤄져]]></title>
-        <id>https://entertain.v.daum.net/v/20220330160517991</id>
-        <link href="https://entertain.v.daum.net/v/20220330160517991"/>
-        <updated>2022-03-30T07:12:11.675Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리X남주혁, 결국 이별 맞이?..'첫사랑'의 의미]]></title>
-        <id>https://entertain.v.daum.net/v/20220330154633062</id>
-        <link href="https://entertain.v.daum.net/v/20220330154633062"/>
-        <updated>2022-03-30T07:12:11.679Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
