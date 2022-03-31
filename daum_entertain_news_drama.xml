@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-31T20:12:23.904Z</updated>
+    <updated>2022-03-31T21:10:50.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일' 핑크 탈색+20년만 단발까지, 이런 김희선 처음이야]]></title>
+        <id>https://entertain.v.daum.net/v/20220401060109466</id>
+        <link href="https://entertain.v.daum.net/v/20220401060109466"/>
+        <updated>2022-03-31T21:10:41.559Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아직 익숙하지 않아"..종영 '서른, 아홉' 손예진, 전미도 향한 먹먹한 그리움]]></title>
+        <id>https://entertain.v.daum.net/v/20220401053307189</id>
+        <link href="https://entertain.v.daum.net/v/20220401053307189"/>
+        <updated>2022-03-31T21:10:41.559Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른, 아홉' 손예진→전미도 빛났던 찐친 케미, 불륜 미화는 글쎄]]></title>
+        <id>https://entertain.v.daum.net/v/20220401052704132</id>
+        <link href="https://entertain.v.daum.net/v/20220401052704132"/>
+        <updated>2022-03-31T21:10:41.561Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '서른, 아홉' 손예진, 죽은 전미도 생전 영상에 오열 "친애한다"]]></title>
         <id>https://entertain.v.daum.net/v/20220401011015616</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220331230846777"/>
         <updated>2022-03-31T14:11:38.501Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김하늘, 남편 김진우에게 김재철과 관계 알린 이혜영에 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220331230230742</id>
-        <link href="https://entertain.v.daum.net/v/20220331230230742"/>
-        <updated>2022-03-31T14:11:38.506Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 손예진, 부고 리스트 전하는 전미도에게 "너무 소중하다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220331230010720</id>
-        <link href="https://entertain.v.daum.net/v/20220331230010720"/>
-        <updated>2022-03-31T14:11:38.506Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른, 아홉' 전미도, 손예진에 부고 리스트 남겼다 '애틋']]></title>
-        <id>https://entertain.v.daum.net/v/20220331224834660</id>
-        <link href="https://entertain.v.daum.net/v/20220331224834660"/>
-        <updated>2022-03-31T14:11:38.506Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
