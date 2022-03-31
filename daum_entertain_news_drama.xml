@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-31T03:24:38.745Z</updated>
+    <updated>2022-03-31T04:14:11.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정준하, 김희선 드라마 '내일' 특별출연.. 부캐 '정과장' 소환]]></title>
+        <id>https://entertain.v.daum.net/v/20220331130808122</id>
+        <link href="https://entertain.v.daum.net/v/20220331130808122"/>
+        <updated>2022-03-31T04:14:02.920Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광수x김설현, 괴짜와 돌+아이라니..너무 잘 만났네]]></title>
+        <id>https://entertain.v.daum.net/v/20220331123507562</id>
+        <link href="https://entertain.v.daum.net/v/20220331123507562"/>
+        <updated>2022-03-31T04:14:02.934Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 이민기 김지원 손석구 이엘 '찐가족' 바이브 비하인드]]></title>
+        <id>https://entertain.v.daum.net/v/20220331123315546</id>
+        <link href="https://entertain.v.daum.net/v/20220331123315546"/>
+        <updated>2022-03-31T04:14:02.936Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돼지의 왕' 김성규 "형사 역할 도전, 계속 고민했다"]]></title>
         <id>https://entertain.v.daum.net/v/20220331121718283</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220331110423088"/>
         <updated>2022-03-31T02:25:45.215Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전여빈, '상견니' 리메이크작 1인 2역 연기..대세배우의 열일]]></title>
-        <id>https://entertain.v.daum.net/v/20220331110412076</id>
-        <link href="https://entertain.v.daum.net/v/20220331110412076"/>
-        <updated>2022-03-31T02:25:45.229Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 이지훈, 한채영 앞 오열 '위태로운 로맨스 기류']]></title>
-        <id>https://entertain.v.daum.net/v/20220331104214792</id>
-        <link href="https://entertain.v.daum.net/v/20220331104214792"/>
-        <updated>2022-03-31T02:25:45.230Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현진·연민지·이중문, KBS2 새 일일 '황금가면' 합류]]></title>
-        <id>https://entertain.v.daum.net/v/20220331103853635</id>
-        <link href="https://entertain.v.daum.net/v/20220331103853635"/>
-        <updated>2022-03-31T02:25:45.230Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
