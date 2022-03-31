@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-31T15:13:05.619Z</updated>
+    <updated>2022-03-31T16:15:20.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '서른, 아홉' 손예진, 죽은 전미도 생전 영상에 오열 "친애한다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220401011015616</id>
+        <link href="https://entertain.v.daum.net/v/20220401011015616"/>
+        <updated>2022-03-31T16:15:11.787Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손예진, 전미도 마지막 고백에 오열 "나도 너를 친애해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220401005633502</id>
+        <link href="https://entertain.v.daum.net/v/20220401005633502"/>
+        <updated>2022-03-31T16:15:11.787Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 전미도 떠난 자리..우정과 사랑은 여전히ING]]></title>
+        <id>https://entertain.v.daum.net/v/20220401002945390</id>
+        <link href="https://entertain.v.daum.net/v/20220401002945390"/>
+        <updated>2022-03-31T16:15:11.788Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른아홉' 손예진, ♥연우진과 결혼..세상 떠난 전미도에 "보고 싶다"]]></title>
         <id>https://entertain.v.daum.net/v/20220401000443186</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220331224834660"/>
         <updated>2022-03-31T14:11:38.506Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김성령, 이혜영에 목 조르며 "남편 전노민 홀린 거 참아줬다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220331224557646</id>
-        <link href="https://entertain.v.daum.net/v/20220331224557646"/>
-        <updated>2022-03-31T14:11:38.506Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서른 아홉' 손예진·김지현, 전미도 위한 특별한 이벤트 준비]]></title>
-        <id>https://entertain.v.daum.net/v/20220331223301559</id>
-        <link href="https://entertain.v.daum.net/v/20220331223301559"/>
-        <updated>2022-03-31T14:11:38.508Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 김재철X김성령, 김하늘 앞에 펼쳐진 뜻밖의 조합]]></title>
-        <id>https://entertain.v.daum.net/v/20220331222402480</id>
-        <link href="https://entertain.v.daum.net/v/20220331222402480"/>
-        <updated>2022-03-31T14:11:38.508Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
