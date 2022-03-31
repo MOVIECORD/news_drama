@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-03-31T11:10:07.680Z</updated>
+    <updated>2022-03-31T12:20:02.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김하늘 놀란 토끼눈 왜?]]></title>
+        <id>https://entertain.v.daum.net/v/20220331204947240</id>
+        <link href="https://entertain.v.daum.net/v/20220331204947240"/>
+        <updated>2022-03-31T12:19:53.873Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 5년 전 진실 다 알았다.. 함은정 임신 감춘 손성윤에 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220331203000979</id>
+        <link href="https://entertain.v.daum.net/v/20220331203000979"/>
+        <updated>2022-03-31T12:19:53.879Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공블리 받아라"..공효진, 현빈♥손예진 결혼식 부케 주인공]]></title>
+        <id>https://entertain.v.daum.net/v/20220331201654765</id>
+        <link href="https://entertain.v.daum.net/v/20220331201654765"/>
+        <updated>2022-03-31T12:19:53.879Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두 번째 남편' 정성모, 압수수색 당해..엄현경에 총 겨누나?]]></title>
         <id>https://entertain.v.daum.net/v/20220331195849469</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220331163303312"/>
         <updated>2022-03-31T08:15:39.043Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지훈 "소송 없던 일로 해주세요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220331162854110</id>
-        <link href="https://entertain.v.daum.net/v/20220331162854110"/>
-        <updated>2022-03-31T08:15:39.043Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지훈 "소송 없던 일로 해주세요"..지이수 회유할까]]></title>
-        <id>https://entertain.v.daum.net/v/20220331162322861</id>
-        <link href="https://entertain.v.daum.net/v/20220331162322861"/>
-        <updated>2022-03-31T08:15:39.043Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스폰서' 한채영, 예측불가 전개 속 빛나는 진가]]></title>
-        <id>https://entertain.v.daum.net/v/20220331162009676</id>
-        <link href="https://entertain.v.daum.net/v/20220331162009676"/>
-        <updated>2022-03-31T08:15:39.044Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
