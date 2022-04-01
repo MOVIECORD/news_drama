@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-01T13:30:19.726Z</updated>
+    <updated>2022-04-01T14:12:13.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '내일' 코마 빠진 로운, 사람 살리는 저승사자 김희선 팀 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220401225827169</id>
+        <link href="https://entertain.v.daum.net/v/20220401225827169"/>
+        <updated>2022-04-01T14:12:05.269Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내일' 로운, 김희선과 첫 만남..만나자마자 한강에 빠졌다]]></title>
+        <id>https://entertain.v.daum.net/v/20220401223059974</id>
+        <link href="https://entertain.v.daum.net/v/20220401223059974"/>
+        <updated>2022-04-01T14:12:05.272Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내일' 로운, 저승사자 김희선 실수로 코마상태→유체 이탈 "3년 후 깨어나"]]></title>
         <id>https://entertain.v.daum.net/v/20220401222107911</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220401162556275"/>
         <updated>2022-04-01T08:15:43.316Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 설인아X김민규, '컬투쇼' 출연..로맨스 케미 뽐낸다]]></title>
-        <id>https://entertain.v.daum.net/v/20220401161254948</id>
-        <link href="https://entertain.v.daum.net/v/20220401161254948"/>
-        <updated>2022-04-01T08:15:43.330Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희선, '내일'로 N번차 재발견 도전]]></title>
-        <id>https://entertain.v.daum.net/v/20220401161048893</id>
-        <link href="https://entertain.v.daum.net/v/20220401161048893"/>
-        <updated>2022-04-01T07:12:53.342Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
