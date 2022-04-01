@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-01T10:13:33.758Z</updated>
+    <updated>2022-04-01T11:13:04.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공효진 측 "10살 연하 케빈오와 열애 맞다"..결혼 여부 함구]]></title>
+        <id>https://entertain.v.daum.net/v/20220401194803856</id>
+        <link href="https://entertain.v.daum.net/v/20220401194803856"/>
+        <updated>2022-04-01T11:12:56.143Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두 번째 남편' 정성모, 엄현경에 총 쐈지만 차서원 대신 맞았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220401194717841</id>
+        <link href="https://entertain.v.daum.net/v/20220401194717841"/>
+        <updated>2022-04-01T11:12:56.143Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두 번째 남편' 정성모, 반성은 없었다..차서원 '씁쓸']]></title>
+        <id>https://entertain.v.daum.net/v/20220401192102510</id>
+        <link href="https://entertain.v.daum.net/v/20220401192102510"/>
+        <updated>2022-04-01T11:12:56.144Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 윤시윤 "첫 KBS 주말극, 기회 자체가 영광"]]></title>
         <id>https://entertain.v.daum.net/v/20220401185011186</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220401160032625"/>
         <updated>2022-04-01T07:12:53.345Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC 금토극 '내일' 김희선 "사람 살리는 저승사자 신선하죠?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220401154939329</id>
-        <link href="https://entertain.v.daum.net/v/20220401154939329"/>
-        <updated>2022-04-01T07:12:53.346Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['저승사자+핑크단발'..'내일' 김희선의 이유있는 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220401153639911</id>
-        <link href="https://entertain.v.daum.net/v/20220401153639911"/>
-        <updated>2022-04-01T07:12:53.346Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 찢고 나온 김희선→로운, '내일'에 담은 희망]]></title>
-        <id>https://entertain.v.daum.net/v/20220401153352815</id>
-        <link href="https://entertain.v.daum.net/v/20220401153352815"/>
-        <updated>2022-04-01T07:12:53.346Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
