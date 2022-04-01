@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-01T11:13:04.312Z</updated>
+    <updated>2022-04-01T12:21:54.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 함은정에 사과 "원하는 대로 다 할게"]]></title>
+        <id>https://entertain.v.daum.net/v/20220401203633650</id>
+        <link href="https://entertain.v.daum.net/v/20220401203633650"/>
+        <updated>2022-04-01T12:21:46.332Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 김진엽, 함은정 임신 사실 알았던 손성윤에 '배신감']]></title>
+        <id>https://entertain.v.daum.net/v/20220401202158432</id>
+        <link href="https://entertain.v.daum.net/v/20220401202158432"/>
+        <updated>2022-04-01T12:21:46.332Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공효진 측 "10살 연하 케빈오와 열애 맞다"..결혼 여부 함구]]></title>
         <id>https://entertain.v.daum.net/v/20220401194803856</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220401160817832"/>
         <updated>2022-04-01T07:12:53.345Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핑크 머리' 김희선→'다크서클' 이수혁..'내일', 사람 냄새나는 저승사자 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220401160301684</id>
-        <link href="https://entertain.v.daum.net/v/20220401160301684"/>
-        <updated>2022-04-01T07:12:53.345Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결혼하면 아파트 줄게"..KBS 새 주말극 '현재는 아름다워']]></title>
-        <id>https://entertain.v.daum.net/v/20220401160032625</id>
-        <link href="https://entertain.v.daum.net/v/20220401160032625"/>
-        <updated>2022-04-01T07:12:53.345Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
