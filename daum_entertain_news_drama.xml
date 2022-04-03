@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-03T15:11:37.326Z</updated>
+    <updated>2022-04-03T16:14:43.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남주혁, 김태리 남편 아니었다.."온 마음 다해 사랑했으니 괜찮다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220404005014789</id>
+        <link href="https://entertain.v.daum.net/v/20220404005014789"/>
+        <updated>2022-04-03T16:14:34.866Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유라, 배우로 자리매김..연기 성장ing]]></title>
+        <id>https://entertain.v.daum.net/v/20220404003010708</id>
+        <link href="https://entertain.v.daum.net/v/20220404003010708"/>
+        <updated>2022-04-03T16:14:34.873Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '기상청 사람들' 박민영X송강 첫눈 속 사랑확인 키스 '해피엔딩']]></title>
+        <id>https://entertain.v.daum.net/v/20220404001130624</id>
+        <link href="https://entertain.v.daum.net/v/20220404001130624"/>
+        <updated>2022-04-03T16:14:34.875Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '기상청 사람들' 박민영♥송강, 첫눈 속 재회.."너의 비바람을 원망하지 마"]]></title>
         <id>https://entertain.v.daum.net/v/20220404000200393</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220403220319741"/>
         <updated>2022-04-03T13:17:42.983Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 김태리, 팀훈련 중 쓰러져..서재희에 이별 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220403215236652</id>
-        <link href="https://entertain.v.daum.net/v/20220403215236652"/>
-        <updated>2022-04-03T13:17:42.984Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯' 김태리, 남주혁에 "그만하고 싶어" 이별통보 '오열']]></title>
-        <id>https://entertain.v.daum.net/v/20220403215126645</id>
-        <link href="https://entertain.v.daum.net/v/20220403215126645"/>
-        <updated>2022-04-03T13:17:42.984Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 오민석X윤시윤 결혼 프로젝트.."상대 데려오면 아파트"]]></title>
-        <id>https://entertain.v.daum.net/v/20220403215010634</id>
-        <link href="https://entertain.v.daum.net/v/20220403215010634"/>
-        <updated>2022-04-03T13:17:42.984Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
