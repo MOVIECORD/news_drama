@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-04T20:12:20.599Z</updated>
+    <updated>2022-04-04T21:10:32.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기상청 사람들' 윤박, 이유있는 밉상 '한기준' 속 솔직함을 닮았다.]]></title>
+        <id>https://entertain.v.daum.net/v/20220405060112344</id>
+        <link href="https://entertain.v.daum.net/v/20220405060112344"/>
+        <updated>2022-04-04T21:10:24.532Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정, 한소희, 김태리..아프리카에 부는 新한류 바람]]></title>
+        <id>https://entertain.v.daum.net/v/20220405060103327</id>
+        <link href="https://entertain.v.daum.net/v/20220405060103327"/>
+        <updated>2022-04-04T21:10:24.539Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서른아홉' 이무생 "불륜 미화 논란 예상, 크게 중요하지 않았죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220405054201999</id>
+        <link href="https://entertain.v.daum.net/v/20220405054201999"/>
+        <updated>2022-04-04T21:10:24.539Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 안효섭, 김세정에 "다시는 사라지지 마라"..사랑 확인하며 '뜨거운 밤']]></title>
         <id>https://entertain.v.daum.net/v/20220405043002204</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220404213103680"/>
         <updated>2022-04-04T13:22:12.703Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람 피워 파혼한 윤박, 솔직 고백.."공감 하나도 안 됐다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220404210003325</id>
-        <link href="https://entertain.v.daum.net/v/20220404210003325"/>
-        <updated>2022-04-04T12:19:16.269Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 장세현X손성윤, 김진엽 끌어내리려 '해임 요구']]></title>
-        <id>https://entertain.v.daum.net/v/20220404204725169</id>
-        <link href="https://entertain.v.daum.net/v/20220404204725169"/>
-        <updated>2022-04-04T12:19:16.269Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 김진엽, 뻔뻔한 손성윤에 이혼 요구 "소름 끼쳐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220404203412008</id>
-        <link href="https://entertain.v.daum.net/v/20220404203412008"/>
-        <updated>2022-04-04T12:19:16.270Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
