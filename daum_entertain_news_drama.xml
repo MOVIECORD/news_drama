@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-05T19:09:51.637Z</updated>
+    <updated>2022-04-05T20:14:05.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인생로코!"..'사내맞선' 안효섭♥김세정, 만찢 드라마의 좋은 예]]></title>
+        <id>https://entertain.v.daum.net/v/20220406050005518</id>
+        <link href="https://entertain.v.daum.net/v/20220406050005518"/>
+        <updated>2022-04-05T20:13:56.557Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '사내맞선' 안효섭, 김세정에 "우리 그만 결혼해요" 꽉 닫힌 해피엔딩]]></title>
         <id>https://entertain.v.daum.net/v/20220406014023798</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220405230334614"/>
         <updated>2022-04-05T14:11:28.855Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지러브' 유인영, 밀어내는 김재욱에게 "10번만 밥 먹자"]]></title>
-        <id>https://entertain.v.daum.net/v/20220405224504468</id>
-        <link href="https://entertain.v.daum.net/v/20220405224504468"/>
-        <updated>2022-04-05T14:11:28.860Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
