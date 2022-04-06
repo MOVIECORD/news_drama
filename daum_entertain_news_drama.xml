@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-06T10:13:53.712Z</updated>
+    <updated>2022-04-06T11:10:42.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 심혜진, 손성윤 머리채 잡았다 "김진엽과 이혼해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220406200648532</id>
+        <link href="https://entertain.v.daum.net/v/20220406200648532"/>
+        <updated>2022-04-06T11:10:32.452Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 김영민, 극과 극 이면 오가는 철두철미 전략킹]]></title>
         <id>https://entertain.v.daum.net/v/20220406182708353</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220406161019259"/>
         <updated>2022-04-06T07:11:39.017Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 비주얼+매력+연기+영어까지..스타성 제대로 입증]]></title>
-        <id>https://entertain.v.daum.net/v/20220406160930217</id>
-        <link href="https://entertain.v.daum.net/v/20220406160930217"/>
-        <updated>2022-04-06T07:11:39.034Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
