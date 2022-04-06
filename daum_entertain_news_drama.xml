@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-06T18:14:05.765Z</updated>
+    <updated>2022-04-06T19:08:18.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤도현, 이준기 '어게인 마이 라이프' OST 첫 주자]]></title>
+        <id>https://entertain.v.daum.net/v/20220407040008110</id>
+        <link href="https://entertain.v.daum.net/v/20220407040008110"/>
+        <updated>2022-04-06T19:08:09.079Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '그린마더스클럽' 이요원, 김규리 남편이자 옛연인 로이와 애틋한 재회]]></title>
         <id>https://entertain.v.daum.net/v/20220407015333734</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220406224559452"/>
         <updated>2022-04-06T14:10:52.253Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영 분노하게 한 지이수]]></title>
-        <id>https://entertain.v.daum.net/v/20220406224521449</id>
-        <link href="https://entertain.v.daum.net/v/20220406224521449"/>
-        <updated>2022-04-06T14:10:52.253Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
