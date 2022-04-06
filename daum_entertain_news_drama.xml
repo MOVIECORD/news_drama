@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-06T16:15:18.798Z</updated>
+    <updated>2022-04-06T17:13:30.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '그린마더스클럽' 이요원, 김규리 남편이자 옛연인 로이와 애틋한 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20220407015333734</id>
+        <link href="https://entertain.v.daum.net/v/20220407015333734"/>
+        <updated>2022-04-06T17:13:21.163Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['첫방' 이요원, 김규리 남편 로이 품으로 쓰러지다]]></title>
         <id>https://entertain.v.daum.net/v/20220407005625525</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220406224521449"/>
         <updated>2022-04-06T14:10:52.253Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국 곽시양 오연서 '미남당' 시너지 폭발 대본 리딩 현장]]></title>
-        <id>https://entertain.v.daum.net/v/20220406211101803</id>
-        <link href="https://entertain.v.daum.net/v/20220406211101803"/>
-        <updated>2022-04-06T12:20:31.539Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
