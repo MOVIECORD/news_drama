@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-07T12:20:06.671Z</updated>
+    <updated>2022-04-07T13:23:58.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이요원, 악연 김규리 바라보는 미묘한 눈빛]]></title>
+        <id>https://entertain.v.daum.net/v/20220407221523127</id>
+        <link href="https://entertain.v.daum.net/v/20220407221523127"/>
+        <updated>2022-04-07T13:23:49.438Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정 "20대 초반의 봄은 I.O.I·구구단..'사내맞선', 20대 후반의 봄"]]></title>
         <id>https://entertain.v.daum.net/v/20220407205339262</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220407175013019"/>
         <updated>2022-04-07T09:11:51.671Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 노희경 작가 "신민아♥︎김우빈, 서로 다른 러브라인 괜찮다고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220407172831357</id>
-        <link href="https://entertain.v.daum.net/v/20220407172831357"/>
-        <updated>2022-04-07T09:11:51.671Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
