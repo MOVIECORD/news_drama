@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-07T09:12:00.361Z</updated>
+    <updated>2022-04-07T10:12:15.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승연의 비뚤어진 모정.."딸 강별, 따귀 때리기도"]]></title>
+        <id>https://entertain.v.daum.net/v/20220407185002545</id>
+        <link href="https://entertain.v.daum.net/v/20220407185002545"/>
+        <updated>2022-04-07T10:12:07.193Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정 "'사내맞선' 글로벌 인기 예상..'韓 엠마 스톤'? 행복해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220407183051169</id>
+        <link href="https://entertain.v.daum.net/v/20220407183051169"/>
+        <updated>2022-04-07T10:12:07.195Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 대통령 출연한 드라마 '국민의 일꾼' 오늘 첫방]]></title>
+        <id>https://entertain.v.daum.net/v/20220407181317728</id>
+        <link href="https://entertain.v.daum.net/v/20220407181317728"/>
+        <updated>2022-04-07T10:12:07.195Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코미디언 출신' 우크라이나 대통령 주연 드라마 '국민의 일꾼', 오늘 첫방]]></title>
         <id>https://entertain.v.daum.net/v/20220407175515176</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220407164331871"/>
         <updated>2022-04-07T08:14:27.498Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사내맞선' 김세정 "'韓 엠마스톤' 별명, 부담+감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220407163919758</id>
-        <link href="https://entertain.v.daum.net/v/20220407163919758"/>
-        <updated>2022-04-07T08:14:27.498Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김우빈♥신민아, 둘이 붙여 놓으면 안 할 것 같아서"..종합선물세트 같은 '우리들의 블루스']]></title>
-        <id>https://entertain.v.daum.net/v/20220407163101454</id>
-        <link href="https://entertain.v.daum.net/v/20220407163101454"/>
-        <updated>2022-04-07T08:14:27.498Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌 "키 크고 농구 잘하는 캐릭터, 내 역할인 줄 알았는데" 폭소]]></title>
-        <id>https://entertain.v.daum.net/v/20220407162812345</id>
-        <link href="https://entertain.v.daum.net/v/20220407162812345"/>
-        <updated>2022-04-07T08:14:27.498Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
