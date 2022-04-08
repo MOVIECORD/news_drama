@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-08T14:10:53.530Z</updated>
+    <updated>2022-04-08T15:12:13.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어게인 마이 라이프' 첫방..이준기, 두 번째 삶 시작→부모 뺑소니 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20220408235349406</id>
+        <link href="https://entertain.v.daum.net/v/20220408235349406"/>
+        <updated>2022-04-08T15:12:04.687Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 2회차 인생 시작.."강해져야 한다" 수련 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220408232227133</id>
+        <link href="https://entertain.v.daum.net/v/20220408232227133"/>
+        <updated>2022-04-08T15:12:04.688Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '어겐마' 이준기, 사망→인생 리부팅..부패 척결 나선다]]></title>
         <id>https://entertain.v.daum.net/v/20220408231009081</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220408175408259"/>
         <updated>2022-04-08T09:11:34.062Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구 "밭일 많이 해..고추따기 적성에 맞아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220408175012142</id>
-        <link href="https://entertain.v.daum.net/v/20220408175012142"/>
-        <updated>2022-04-08T09:11:34.062Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 박진희, '후궁 김씨' 이주은과 비밀 회동]]></title>
-        <id>https://entertain.v.daum.net/v/20220408171238917</id>
-        <link href="https://entertain.v.daum.net/v/20220408171238917"/>
-        <updated>2022-04-08T08:14:02.852Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
