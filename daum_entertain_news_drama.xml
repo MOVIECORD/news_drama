@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-08T16:15:37.293Z</updated>
+    <updated>2022-04-08T17:16:13.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어게인' 이준기, "이경영에게 지옥 보여줄 것"..인생 2회차 시작됐다]]></title>
+        <id>https://entertain.v.daum.net/v/20220409014200894</id>
+        <link href="https://entertain.v.daum.net/v/20220409014200894"/>
+        <updated>2022-04-08T17:16:05.502Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어게인 마이 라이프' 첫방..이준기, 두 번째 삶 시작→부모 뺑소니 위기]]></title>
         <id>https://entertain.v.daum.net/v/20220408235349406</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220408180022390"/>
         <updated>2022-04-08T09:11:34.060Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 널 가져야겠어]]></title>
-        <id>https://entertain.v.daum.net/v/20220408175408259</id>
-        <link href="https://entertain.v.daum.net/v/20220408175408259"/>
-        <updated>2022-04-08T09:11:34.062Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
