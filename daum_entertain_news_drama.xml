@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-08T13:28:25.447Z</updated>
+    <updated>2022-04-08T14:10:53.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '어겐마' 이준기, 사망→인생 리부팅..부패 척결 나선다]]></title>
+        <id>https://entertain.v.daum.net/v/20220408231009081</id>
+        <link href="https://entertain.v.daum.net/v/20220408231009081"/>
+        <updated>2022-04-08T14:10:44.683Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 죽음 위기→인생 2회차 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220408224941947</id>
+        <link href="https://entertain.v.daum.net/v/20220408224941947"/>
+        <updated>2022-04-08T14:10:44.686Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어게인마이라이프' 이준기, 인생 2회차 기회 얻었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220408224200895</id>
+        <link href="https://entertain.v.daum.net/v/20220408224200895"/>
+        <updated>2022-04-08T14:10:44.686Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기 "나쁜놈 잡는데 또라이면 어때"..부패 척결 검사]]></title>
+        <id>https://entertain.v.daum.net/v/20220408222816783</id>
+        <link href="https://entertain.v.daum.net/v/20220408222816783"/>
+        <updated>2022-04-08T14:10:44.687Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 이준기, 첫 등장부터 액션 폭발]]></title>
         <id>https://entertain.v.daum.net/v/20220408221559660</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220408171238917"/>
         <updated>2022-04-08T08:14:02.852Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원·손석구 "진짜 미스터리해"..행복해질 수 있는 '나의 해방일지']]></title>
-        <id>https://entertain.v.daum.net/v/20220408170101569</id>
-        <link href="https://entertain.v.daum.net/v/20220408170101569"/>
-        <updated>2022-04-08T08:14:02.853Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원 "싱크로율? 새벽 좋아하는 점..손석구와 관계=미스터리"]]></title>
-        <id>https://entertain.v.daum.net/v/20220408165002225</id>
-        <link href="https://entertain.v.daum.net/v/20220408165002225"/>
-        <updated>2022-04-08T08:14:02.859Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희선 미모와 핑크염색 머리 외엔 내세울 게 없는 건가]]></title>
-        <id>https://entertain.v.daum.net/v/20220408164718166</id>
-        <link href="https://entertain.v.daum.net/v/20220408164718166"/>
-        <updated>2022-04-08T08:14:02.860Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그리드' 김성균, 서스펜스 그 자체]]></title>
-        <id>https://entertain.v.daum.net/v/20220408164629149</id>
-        <link href="https://entertain.v.daum.net/v/20220408164629149"/>
-        <updated>2022-04-08T08:14:02.863Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
