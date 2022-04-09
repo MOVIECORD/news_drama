@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-09T05:10:30.857Z</updated>
+    <updated>2022-04-09T06:14:06.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌, 만물트럭상 된다]]></title>
+        <id>https://entertain.v.daum.net/v/20220409143208321</id>
+        <link href="https://entertain.v.daum.net/v/20220409143208321"/>
+        <updated>2022-04-09T06:13:58.661Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내일' 윤지온, "덤비는 저주는 성격은 아니라서" 로운과 앙숙케미]]></title>
+        <id>https://entertain.v.daum.net/v/20220409141923173</id>
+        <link href="https://entertain.v.daum.net/v/20220409141923173"/>
+        <updated>2022-04-09T06:13:58.661Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["엄연한 불충"..'태종 이방원' 주상욱-박진희 부부 덮친 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20220409141825159</id>
+        <link href="https://entertain.v.daum.net/v/20220409141825159"/>
+        <updated>2022-04-09T06:13:58.662Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 이준기는 이준기..연기면 연기, 비주얼이면 비주얼]]></title>
         <id>https://entertain.v.daum.net/v/20220409140656008</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220409125912203"/>
         <updated>2022-04-09T04:14:07.023Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성장하는 김세정, '사내맞선'으로 쓴 청춘 기록]]></title>
-        <id>https://entertain.v.daum.net/v/20220409120140810</id>
-        <link href="https://entertain.v.daum.net/v/20220409120140810"/>
-        <updated>2022-04-09T03:20:27.710Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길 가고 이준기 왔다..'어겐마' 장악한 하드캐리]]></title>
-        <id>https://entertain.v.daum.net/v/20220409115003698</id>
-        <link href="https://entertain.v.daum.net/v/20220409115003698"/>
-        <updated>2022-04-09T03:20:27.711Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈약한 신파로는 김희선도 로운도 쉽지 않다]]></title>
-        <id>https://entertain.v.daum.net/v/20220409114941692</id>
-        <link href="https://entertain.v.daum.net/v/20220409114941692"/>
-        <updated>2022-04-09T03:20:27.712Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
