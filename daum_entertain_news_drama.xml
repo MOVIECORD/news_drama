@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-10T16:14:45.693Z</updated>
+    <updated>2022-04-10T17:12:40.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 배다빈 고소 취하 받아냈다..]]></title>
+        <id>https://entertain.v.daum.net/v/20220411015514553</id>
+        <link href="https://entertain.v.daum.net/v/20220411015514553"/>
+        <updated>2022-04-10T17:12:31.970Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차승원, 돈 때문에 이렇게까지.. '거짓 별거'로 이정은 속였다]]></title>
         <id>https://entertain.v.daum.net/v/20220411005619388</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220410214706271"/>
         <updated>2022-04-10T13:18:30.213Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 이현진에 "머리가 있으면 고소 취하"]]></title>
-        <id>https://entertain.v.daum.net/v/20220410214332221</id>
-        <link href="https://entertain.v.daum.net/v/20220410214332221"/>
-        <updated>2022-04-10T13:18:30.215Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
