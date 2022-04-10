@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-10T21:10:17.566Z</updated>
+    <updated>2022-04-10T22:11:41.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워-태종 이방원-나의 해방일지' 자체 최고 시청률]]></title>
+        <id>https://entertain.v.daum.net/v/20220411070059761</id>
+        <link href="https://entertain.v.daum.net/v/20220411070059761"/>
+        <updated>2022-04-10T22:11:33.072Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤시윤, 이현진 약점 잡아 배다빈 고소 취하 종용]]></title>
+        <id>https://entertain.v.daum.net/v/20220411065604657</id>
+        <link href="https://entertain.v.daum.net/v/20220411065604657"/>
+        <updated>2022-04-10T22:11:33.073Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승연 갑상선기능저하증 극복 후 본업 복귀 어떨까'비밀의집']]></title>
+        <id>https://entertain.v.daum.net/v/20220411061107282</id>
+        <link href="https://entertain.v.daum.net/v/20220411061107282"/>
+        <updated>2022-04-10T22:11:33.085Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나 좋아하면 다쳐" 한지민, 김우빈에 달콤살벌 경고]]></title>
         <id>https://entertain.v.daum.net/v/20220411055115921</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220410230808867"/>
         <updated>2022-04-10T14:10:12.088Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원, 독촉장 보관해준 손석구에 "고맙고 죄송해요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220410230100826</id>
-        <link href="https://entertain.v.daum.net/v/20220410230100826"/>
-        <updated>2022-04-10T14:10:12.094Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤시윤, 이현진 협박해 배다빈 고소 취하시켜..옛 연인 배그린 등장]]></title>
-        <id>https://entertain.v.daum.net/v/20220410225353784</id>
-        <link href="https://entertain.v.daum.net/v/20220410225353784"/>
-        <updated>2022-04-10T14:10:12.094Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 서범준X최예빈 결혼 선언..윤시윤, 전 여친 재회]]></title>
-        <id>https://entertain.v.daum.net/v/20220410225010771</id>
-        <link href="https://entertain.v.daum.net/v/20220410225010771"/>
-        <updated>2022-04-10T14:10:12.094Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
