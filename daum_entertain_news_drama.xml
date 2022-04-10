@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-10T14:10:20.851Z</updated>
+    <updated>2022-04-10T15:11:36.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[차승원♥이정은, 별거 알고 목포여행 "친구끼리 못 갈 거 없지"]]></title>
+        <title type="html"><![CDATA['나의 해방일지' 김지원, 손석구에 폭탄 고백 "나를 추앙해요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220410235300052</id>
+        <link href="https://entertain.v.daum.net/v/20220410235300052"/>
+        <updated>2022-04-10T15:11:28.571Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 김지원, 힘든 생활에 눈물..손석구에 "날 추앙해요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220410234524030</id>
+        <link href="https://entertain.v.daum.net/v/20220410234524030"/>
+        <updated>2022-04-10T15:11:28.571Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 이엘, 이민기 직언에 속상함.."다 사귀면서 왜 나만"]]></title>
+        <id>https://entertain.v.daum.net/v/20220410231627895</id>
+        <link href="https://entertain.v.daum.net/v/20220410231627895"/>
+        <updated>2022-04-10T15:11:28.571Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차승원♥이정은, 별거 알고 동반여행 "친구끼리 못 갈 거 없지"]]></title>
         <id>https://entertain.v.daum.net/v/20220410230808867</id>
         <link href="https://entertain.v.daum.net/v/20220410230808867"/>
         <updated>2022-04-10T14:10:12.088Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220410213343120"/>
         <updated>2022-04-10T13:18:30.219Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 이병헌, 키스 외면한 신민아에 "좋아해선 안되냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220410213019076</id>
-        <link href="https://entertain.v.daum.net/v/20220410213019076"/>
-        <updated>2022-04-10T13:18:30.219Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배다빈에 흔들린 윤시윤, 전 여친 등장 "이혼소송 맡아줘"]]></title>
-        <id>https://entertain.v.daum.net/v/20220410213018075</id>
-        <link href="https://entertain.v.daum.net/v/20220410213018075"/>
-        <updated>2022-04-10T13:18:30.220Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 옛 연인 배그린 등장에 당황 "네껀 안 맡아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220410212608023</id>
-        <link href="https://entertain.v.daum.net/v/20220410212608023"/>
-        <updated>2022-04-10T13:18:30.220Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
