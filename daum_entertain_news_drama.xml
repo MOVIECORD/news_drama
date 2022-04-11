@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-11T11:10:16.090Z</updated>
+    <updated>2022-04-11T12:20:01.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현·조보아 핑크빛 분위기 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220411211017240</id>
+        <link href="https://entertain.v.daum.net/v/20220411211017240"/>
+        <updated>2022-04-11T12:19:53.542Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 황신혜, 김진엽 子 출생의 비밀 알았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220411205013935</id>
+        <link href="https://entertain.v.daum.net/v/20220411205013935"/>
+        <updated>2022-04-11T12:19:53.544Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 장세현, 함은정에 "난 이혼 못해..이건 사기결혼"]]></title>
+        <id>https://entertain.v.daum.net/v/20220411203320724</id>
+        <link href="https://entertain.v.daum.net/v/20220411203320724"/>
+        <updated>2022-04-11T12:19:53.544Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 장세현, 함은정 결혼 사기꾼으로 몰았다.. "이혼 절대 안 해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220411202930655</id>
+        <link href="https://entertain.v.daum.net/v/20220411202930655"/>
+        <updated>2022-04-11T12:19:53.544Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 꽈배기' 손성윤, 윤다훈♥심혜진 재결합에 깜짝 "하필 지금?"]]></title>
         <id>https://entertain.v.daum.net/v/20220411200315304</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220411165022572"/>
         <updated>2022-04-11T08:14:20.127Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭 "강태무가 모태솔로냐고? 그건"..'사내맞선' 뒷이야기]]></title>
-        <id>https://entertain.v.daum.net/v/20220411160454683</id>
-        <link href="https://entertain.v.daum.net/v/20220411160454683"/>
-        <updated>2022-04-11T07:12:18.802Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진구·이원근, 청부살인업자 하도권 속이고 공조 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220411160101561</id>
-        <link href="https://entertain.v.daum.net/v/20220411160101561"/>
-        <updated>2022-04-11T07:12:18.805Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남상지→양병열, 첫 주연 데뷔..조카 입양한 '자발적 싱글맘' 먹힐까]]></title>
-        <id>https://entertain.v.daum.net/v/20220411155601393</id>
-        <link href="https://entertain.v.daum.net/v/20220411155601393"/>
-        <updated>2022-04-11T07:12:18.805Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그린마더스클럽' 일베 논란 사과 "유사성 인식 못해..변경 조치"]]></title>
-        <id>https://entertain.v.daum.net/v/20220411155548387</id>
-        <link href="https://entertain.v.daum.net/v/20220411155548387"/>
-        <updated>2022-04-11T07:12:18.806Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
