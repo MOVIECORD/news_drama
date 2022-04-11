@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-11T07:12:28.074Z</updated>
+    <updated>2022-04-11T08:14:28.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사내맞선' 윤상정, 현실 공감 연기로 입증한 '성장캐']]></title>
+        <id>https://entertain.v.daum.net/v/20220411165211653</id>
+        <link href="https://entertain.v.daum.net/v/20220411165211653"/>
+        <updated>2022-04-11T08:14:20.123Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["높은 경쟁률, 운명" 남상지X양병열, '으라차차 내 인생' 첫 주연 데뷔]]></title>
+        <id>https://entertain.v.daum.net/v/20220411165022572</id>
+        <link href="https://entertain.v.daum.net/v/20220411165022572"/>
+        <updated>2022-04-11T08:14:20.127Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안효섭 "강태무가 모태솔로냐고? 그건"..'사내맞선' 뒷이야기]]></title>
         <id>https://entertain.v.daum.net/v/20220411160454683</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220411150711608"/>
         <updated>2022-04-11T06:15:09.845Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["시청률 30% 나올 대본"..'으라차차 내 인생' 당찬 싱글맘 스토리로 선사할 힐링]]></title>
-        <id>https://entertain.v.daum.net/v/20220411150653590</id>
-        <link href="https://entertain.v.daum.net/v/20220411150653590"/>
-        <updated>2022-04-11T06:15:09.845Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 첫 방송 '으라차차 내 인생' 박해미 "현대판 팥쥐 엄마 그려내고 싶어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220411150433477</id>
-        <link href="https://entertain.v.daum.net/v/20220411150433477"/>
-        <updated>2022-04-11T06:15:09.847Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
