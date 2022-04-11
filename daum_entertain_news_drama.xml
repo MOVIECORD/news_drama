@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-11T12:20:01.372Z</updated>
+    <updated>2022-04-11T13:24:12.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대책없이 망한 父, 용서 안해" 차민지, 하루아침 새 신세 몰락]]></title>
+        <id>https://entertain.v.daum.net/v/20220411212059395</id>
+        <link href="https://entertain.v.daum.net/v/20220411212059395"/>
+        <updated>2022-04-11T13:24:03.903Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현·조보아 핑크빛 분위기 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220411211017240</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220411165211653"/>
         <updated>2022-04-11T08:14:20.123Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["높은 경쟁률, 운명" 남상지X양병열, '으라차차 내 인생' 첫 주연 데뷔]]></title>
-        <id>https://entertain.v.daum.net/v/20220411165022572</id>
-        <link href="https://entertain.v.daum.net/v/20220411165022572"/>
-        <updated>2022-04-11T08:14:20.127Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
