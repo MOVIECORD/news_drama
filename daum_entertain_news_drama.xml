@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-11T03:39:10.668Z</updated>
+    <updated>2022-04-11T04:15:28.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 한수연 등판, 욕망 전쟁에 어떤 변수로 작용할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220411131236395</id>
+        <link href="https://entertain.v.daum.net/v/20220411131236395"/>
+        <updated>2022-04-11T04:15:19.584Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수 "설현과 서로 위하며 촬영"]]></title>
+        <id>https://entertain.v.daum.net/v/20220411130945347</id>
+        <link href="https://entertain.v.daum.net/v/20220411130945347"/>
+        <updated>2022-04-11T04:15:19.584Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차승원의 서글픈 눈빛에 빠져드는 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220411123305640</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220411104850473"/>
         <updated>2022-04-11T02:44:57.228Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 차승원·이정은이 서로 발라준 빨간 약, 효능은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220411103538813</id>
-        <link href="https://entertain.v.daum.net/v/20220411103538813"/>
-        <updated>2022-04-11T02:44:57.229Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 찬란했던 청춘과 현실의 괴리..망가져버린 차승원, 이정은과 목포여행 떠난 까닭은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220411103517801</id>
-        <link href="https://entertain.v.daum.net/v/20220411103517801"/>
-        <updated>2022-04-11T02:44:57.230Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
