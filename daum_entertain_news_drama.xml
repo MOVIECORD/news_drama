@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-11T21:10:40.609Z</updated>
+    <updated>2022-04-11T22:11:18.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 4.3% 자체 최고 시청률, 사내맞선 종영 반사이익]]></title>
+        <id>https://entertain.v.daum.net/v/20220412065601548</id>
+        <link href="https://entertain.v.daum.net/v/20220412065601548"/>
+        <updated>2022-04-11T22:11:09.583Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 안보현, 부모 죽인 원수 오연수에게 속내 숨겼다 "저를 구해주셔서 감사합니다"]]></title>
         <id>https://entertain.v.daum.net/v/20220412002514072</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220411180901033"/>
         <updated>2022-04-11T09:12:09.773Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너가속' 채종협 "배드민턴 선수로 보이려 연습에 연습"]]></title>
-        <id>https://entertain.v.daum.net/v/20220411174430228</id>
-        <link href="https://entertain.v.daum.net/v/20220411174430228"/>
-        <updated>2022-04-11T09:12:09.775Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
