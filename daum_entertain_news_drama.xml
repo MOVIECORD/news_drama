@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-12T09:11:37.100Z</updated>
+    <updated>2022-04-12T10:13:23.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유건, 음주운전 경찰 적발..면허 취소 수준]]></title>
+        <id>https://entertain.v.daum.net/v/20220412190238168</id>
+        <link href="https://entertain.v.daum.net/v/20220412190238168"/>
+        <updated>2022-04-12T10:13:15.197Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김비서'→'슬의생'→'우블'..배현성, 이 정도면 tvN의 아들]]></title>
+        <id>https://entertain.v.daum.net/v/20220412185019815</id>
+        <link href="https://entertain.v.daum.net/v/20220412185019815"/>
+        <updated>2022-04-12T10:13:15.197Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위로하고 치유하는 드라마 '우리들의 블루스·현재는 아름다워']]></title>
+        <id>https://entertain.v.daum.net/v/20220412183351435</id>
+        <link href="https://entertain.v.daum.net/v/20220412183351435"/>
+        <updated>2022-04-12T10:13:15.199Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈퍼밴드2' 출신 김한겸, 오늘 '군검사 도베르만' OST '불꽃' 발매]]></title>
         <id>https://entertain.v.daum.net/v/20220412180326765</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220412143702543"/>
         <updated>2022-04-12T06:14:32.071Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파친코' 정은채→노상현, 1900년대 초 진짜 있었을 것 같은 인물들]]></title>
-        <id>https://entertain.v.daum.net/v/20220412141919830</id>
-        <link href="https://entertain.v.daum.net/v/20220412141919830"/>
-        <updated>2022-04-12T06:14:32.072Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그린마더스클럽' 이요원 가시밭길 연속, 반전 있나]]></title>
-        <id>https://entertain.v.daum.net/v/20220412140226038</id>
-        <link href="https://entertain.v.daum.net/v/20220412140226038"/>
-        <updated>2022-04-12T05:10:39.418Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그린마더스클럽' 이요원, 시작부터 꼬였다..짠내 나는 입성기]]></title>
-        <id>https://entertain.v.daum.net/v/20220412134634423</id>
-        <link href="https://entertain.v.daum.net/v/20220412134634423"/>
-        <updated>2022-04-12T05:10:39.418Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
