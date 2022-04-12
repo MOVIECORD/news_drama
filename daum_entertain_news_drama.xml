@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-12T13:24:23.240Z</updated>
+    <updated>2022-04-12T14:11:20.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 김재욱♥정수정, 시한부 오해 풀었다.. 치유의 입맞춤]]></title>
+        <id>https://entertain.v.daum.net/v/20220412224330355</id>
+        <link href="https://entertain.v.daum.net/v/20220412224330355"/>
+        <updated>2022-04-12T14:11:11.562Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현·조보아vs오연수, 군대 갑질 사건 결과는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220412223300281</id>
+        <link href="https://entertain.v.daum.net/v/20220412223300281"/>
+        <updated>2022-04-12T14:11:11.562Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오재웅, 드라마 '미미쿠스' 캐스팅]]></title>
         <id>https://entertain.v.daum.net/v/20220412212445295</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220412174527241"/>
         <updated>2022-04-12T09:11:28.684Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향 주연 겹치기 논란 '우리는 오늘부터' 5월 첫방 강행]]></title>
-        <id>https://entertain.v.daum.net/v/20220412165609800</id>
-        <link href="https://entertain.v.daum.net/v/20220412165609800"/>
-        <updated>2022-04-12T08:14:35.043Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지 러브' 측 "사랑꾼 김재욱 특급외조, 美치도록 달콤"]]></title>
-        <id>https://entertain.v.daum.net/v/20220412163903286</id>
-        <link href="https://entertain.v.daum.net/v/20220412163903286"/>
-        <updated>2022-04-12T08:14:35.044Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
