@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-12T03:30:03.471Z</updated>
+    <updated>2022-04-12T04:13:46.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소나기 같은 윤박 "'기상청 사람들' 한기준과 다릅니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220412124202902</id>
+        <link href="https://entertain.v.daum.net/v/20220412124202902"/>
+        <updated>2022-04-12T04:13:38.574Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['괴이' 구교환 "내가 선택 받은 것..전개·앙상블 매력적"]]></title>
         <id>https://entertain.v.daum.net/v/20220412114929416</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['그린마더스클럽', '엄마'란 가면 뒤 숨겨진 만낯]]></title>
+        <title type="html"><![CDATA['그린마더스클럽', '엄마'란 가면 뒤 숨겨진 만낯을 찾는 쾌감]]></title>
         <id>https://entertain.v.daum.net/v/20220412105720965</id>
         <link href="https://entertain.v.daum.net/v/20220412105720965"/>
         <updated>2022-04-12T02:37:03.617Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220412103807118"/>
         <updated>2022-04-12T02:37:03.621Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너에게 가는 속도 493km' 박주현, 박태양에 푹 빠진 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20220412103549023</id>
-        <link href="https://entertain.v.daum.net/v/20220412103549023"/>
-        <updated>2022-04-12T02:37:03.622Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
