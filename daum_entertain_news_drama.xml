@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-12T21:10:34.219Z</updated>
+    <updated>2022-04-12T22:11:07.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 한한령 완화 분위기..'한류스타 주연작들'이 뜬다]]></title>
+        <id>https://entertain.v.daum.net/v/20220413065722719</id>
+        <link href="https://entertain.v.daum.net/v/20220413065722719"/>
+        <updated>2022-04-12T22:10:58.034Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도베르만' 오연수→김영민, 아군 배신하는 진정한 '빌런들']]></title>
+        <id>https://entertain.v.daum.net/v/20220413064800636</id>
+        <link href="https://entertain.v.daum.net/v/20220413064800636"/>
+        <updated>2022-04-12T22:10:58.042Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더블 데이트 각?..현빈♥손예진→이병헌♥이민정, 美간 톱스타 부부]]></title>
+        <id>https://entertain.v.daum.net/v/20220413063008424</id>
+        <link href="https://entertain.v.daum.net/v/20220413063008424"/>
+        <updated>2022-04-12T22:10:58.043Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서른, 아홉' 이무생, 커피 한 잔 같은 추억으로 남을 '김진석']]></title>
         <id>https://entertain.v.daum.net/v/20220413060108943</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220412205611649"/>
         <updated>2022-04-12T12:18:59.309Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 황신혜, 김진엽 子 진실 알고 오열]]></title>
-        <id>https://entertain.v.daum.net/v/20220412205544643</id>
-        <link href="https://entertain.v.daum.net/v/20220412205544643"/>
-        <updated>2022-04-12T12:18:59.315Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 함은정vs손성윤..김진엽+쇼핑몰 걸었다 "자신 없니?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220412205002532</id>
-        <link href="https://entertain.v.daum.net/v/20220412205002532"/>
-        <updated>2022-04-12T12:18:59.315Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 윤다훈, 김진엽♥함은정에 무릎 꿇었다 "미안하다" 사과]]></title>
-        <id>https://entertain.v.daum.net/v/20220412203030161</id>
-        <link href="https://entertain.v.daum.net/v/20220412203030161"/>
-        <updated>2022-04-12T12:18:59.318Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
