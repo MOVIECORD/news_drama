@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-13T09:11:46.622Z</updated>
+    <updated>2022-04-13T10:12:49.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준→남주혁..카카오엔터, 메이저 스튜디오로 도약 본격화]]></title>
+        <id>https://entertain.v.daum.net/v/20220413182144155</id>
+        <link href="https://entertain.v.daum.net/v/20220413182144155"/>
+        <updated>2022-04-13T10:12:41.709Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그린마더스클럽', '신입맘' 이요원 JTALK 최초 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220413175618407</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220413160324747"/>
         <updated>2022-04-13T07:12:08.887Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그리드' 측 "달라진 2021년 이야기, 팽팽 텐션 일으키는 김성균 주목"]]></title>
-        <id>https://entertain.v.daum.net/v/20220413154241774</id>
-        <link href="https://entertain.v.daum.net/v/20220413154241774"/>
-        <updated>2022-04-13T07:12:08.889Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
