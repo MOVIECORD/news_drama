@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-13T12:19:21.681Z</updated>
+    <updated>2022-04-13T13:23:11.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정지인 감독 '올해의PD상'→이준호, 아이돌 최초 탤런트상..'옷소매' 천하]]></title>
+        <id>https://entertain.v.daum.net/v/20220413213227008</id>
+        <link href="https://entertain.v.daum.net/v/20220413213227008"/>
+        <updated>2022-04-13T13:23:03.166Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장세현, 김진엽 협박 "친父 박기태에 다 말하겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220413213005973</id>
+        <link href="https://entertain.v.daum.net/v/20220413213005973"/>
+        <updated>2022-04-13T13:23:03.167Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 장세현 "박철호 子=김진엽 밝히겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20220413203833005</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이준호, 아이돌 최초 '한국PD대상' 탤런트부문 수상 "배우로서 잘해왔다 칭찬"]]></title>
+        <title type="html"><![CDATA[이준호, 아이돌 최초 '한국PD대상' 탤런트상 수상 "배우로서 잘해왔다 칭찬"]]></title>
         <id>https://entertain.v.daum.net/v/20220413200544448</id>
         <link href="https://entertain.v.daum.net/v/20220413200544448"/>
         <updated>2022-04-13T11:10:27.984Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220413165213513"/>
         <updated>2022-04-13T08:14:57.999Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱어게인2' 출신 나겸 '그린마더스클럽' OST 불렀다]]></title>
-        <id>https://entertain.v.daum.net/v/20220413164718354</id>
-        <link href="https://entertain.v.daum.net/v/20220413164718354"/>
-        <updated>2022-04-13T08:14:57.999Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주명 "'리틀 전지현' 수식어 영광이지만..민망하고 부끄러워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220413164513281</id>
-        <link href="https://entertain.v.daum.net/v/20220413164513281"/>
-        <updated>2022-04-13T08:14:57.999Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
