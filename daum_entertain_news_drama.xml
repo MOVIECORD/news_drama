@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-13T03:32:58.981Z</updated>
+    <updated>2022-04-13T04:15:14.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 하준, 달달한 로맨스+살벌함 한 스푼 추가]]></title>
+        <id>https://entertain.v.daum.net/v/20220413130047948</id>
+        <link href="https://entertain.v.daum.net/v/20220413130047948"/>
+        <updated>2022-04-13T04:15:06.046Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 조보아, 복수 넘어 진짜 군검사로]]></title>
         <id>https://entertain.v.daum.net/v/20220413121303031</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220413103703991"/>
         <updated>2022-04-13T02:41:18.323Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 수목극 편성시간 변경 '너가속'부터 20분 늦게 본다]]></title>
-        <id>https://entertain.v.daum.net/v/20220413103502882</id>
-        <link href="https://entertain.v.daum.net/v/20220413103502882"/>
-        <updated>2022-04-13T02:41:18.325Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
