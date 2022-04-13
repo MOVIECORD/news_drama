@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-13T21:11:05.404Z</updated>
+    <updated>2022-04-13T22:13:02.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스 클럽' 시청률 2%대서 제자리 걸음]]></title>
+        <id>https://entertain.v.daum.net/v/20220414065722585</id>
+        <link href="https://entertain.v.daum.net/v/20220414065722585"/>
+        <updated>2022-04-13T22:12:53.764Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파오차이' 이어 '일베' 논란.. '그린마더스클럽' 왜 이러나]]></title>
+        <id>https://entertain.v.daum.net/v/20220414062210235</id>
+        <link href="https://entertain.v.daum.net/v/20220414062210235"/>
+        <updated>2022-04-13T22:12:53.777Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사내맞선' 떠난 월화극, '크레이지러브'·'군검사도베르만' 빈집털이 역부족]]></title>
         <id>https://entertain.v.daum.net/v/20220414060124955</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220413213227008"/>
         <updated>2022-04-13T13:23:03.166Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장세현, 김진엽 협박 "친父 박기태에 다 말하겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220413213005973</id>
-        <link href="https://entertain.v.daum.net/v/20220413213005973"/>
-        <updated>2022-04-13T13:23:03.167Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 장세현 "박철호 子=김진엽 밝히겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220413203833005</id>
-        <link href="https://entertain.v.daum.net/v/20220413203833005"/>
-        <updated>2022-04-13T12:19:13.247Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
