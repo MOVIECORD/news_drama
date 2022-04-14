@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-14T14:11:05.182Z</updated>
+    <updated>2022-04-14T15:12:17.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린 마더스' 이요원, 영재아들 교육 위해 추자현 손 잡았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220414234700487</id>
+        <link href="https://entertain.v.daum.net/v/20220414234700487"/>
+        <updated>2022-04-14T15:12:08.390Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 김규리, 이요원 향한 질투 "부러워"]]></title>
+        <id>https://entertain.v.daum.net/v/20220414232654380</id>
+        <link href="https://entertain.v.daum.net/v/20220414232654380"/>
+        <updated>2022-04-14T15:12:08.397Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 이혜영, 김현욱X김성령 사진 발견..'친자조작 발각 위기']]></title>
+        <id>https://entertain.v.daum.net/v/20220414231939339</id>
+        <link href="https://entertain.v.daum.net/v/20220414231939339"/>
+        <updated>2022-04-14T15:12:08.399Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킬힐' 김하늘, 모욕하는 한수연에게 맞따귀.."이젠 더 못 참는다"]]></title>
         <id>https://entertain.v.daum.net/v/20220414230846277</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220414175013927"/>
         <updated>2022-04-14T09:12:28.613Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임현성, '너만의 거리에서, 우리는' 출연..이정준·은서와 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220414174935902</id>
-        <link href="https://entertain.v.daum.net/v/20220414174935902"/>
-        <updated>2022-04-14T09:12:28.625Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박유나, '밑도 끝도 없이 너다' 주연..정용화와 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220414173020317</id>
-        <link href="https://entertain.v.daum.net/v/20220414173020317"/>
-        <updated>2022-04-14T09:12:28.626Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯'으로 용기낸 이주명, 제2의 청춘이 왔다]]></title>
-        <id>https://entertain.v.daum.net/v/20220414172852255</id>
-        <link href="https://entertain.v.daum.net/v/20220414172852255"/>
-        <updated>2022-04-14T09:12:28.627Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
