@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-15T20:12:25.350Z</updated>
+    <updated>2022-04-15T21:10:26.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꿀잼' 국내 OTT 흥행작.. 이 정도는 알아야?]]></title>
+        <id>https://entertain.v.daum.net/v/20220416060711707</id>
+        <link href="https://entertain.v.daum.net/v/20220416060711707"/>
+        <updated>2022-04-15T21:10:17.542Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 이순재와 전 재산 지켰다..운명 한 번 더 바꿔]]></title>
+        <id>https://entertain.v.daum.net/v/20220416060008562</id>
+        <link href="https://entertain.v.daum.net/v/20220416060008562"/>
+        <updated>2022-04-15T21:10:17.542Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 이준기, 법학과 비밀 클럽 합류..이경영이 노린 이순재 구했다]]></title>
         <id>https://entertain.v.daum.net/v/20220416012401481</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220415194331094"/>
         <updated>2022-04-15T11:10:06.438Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 서하준, 누나 윤아정에 "아기 아빠 누구냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220415191823656</id>
-        <link href="https://entertain.v.daum.net/v/20220415191823656"/>
-        <updated>2022-04-15T11:10:06.438Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준기 눈빛 뭐야 뭐야?..웃고 있지만 왠지 섬뜩]]></title>
-        <id>https://entertain.v.daum.net/v/20220415191301553</id>
-        <link href="https://entertain.v.daum.net/v/20220415191301553"/>
-        <updated>2022-04-15T11:10:06.441Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
