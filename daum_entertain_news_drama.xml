@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-15T06:14:56.567Z</updated>
+    <updated>2022-04-15T07:11:53.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일' 이수혁VS윤지온, 강승윤 아내 영혼 걸고 1대 1 격돌]]></title>
+        <id>https://entertain.v.daum.net/v/20220415155908245</id>
+        <link href="https://entertain.v.daum.net/v/20220415155908245"/>
+        <updated>2022-04-15T07:11:45.645Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['싱어게인2' 신유미 '나의 해방일지' OST 불렀다]]></title>
+        <id>https://entertain.v.daum.net/v/20220415155748215</id>
+        <link href="https://entertain.v.daum.net/v/20220415155748215"/>
+        <updated>2022-04-15T07:11:45.646Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 해방일지' 이민기 "억울한 면 많아..대사에 치일 수도"]]></title>
         <id>https://entertain.v.daum.net/v/20220415150756570</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220415134142666"/>
         <updated>2022-04-15T05:17:46.712Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tvN '드라마 스테이지', '오프닝'으로 새 출발..10작품 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220415131759180</id>
-        <link href="https://entertain.v.daum.net/v/20220415131759180"/>
-        <updated>2022-04-15T05:17:46.714Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현빈 한식구' 김지인, tvN 'XX+XY' 주연 낙점]]></title>
-        <id>https://entertain.v.daum.net/v/20220415130912023</id>
-        <link href="https://entertain.v.daum.net/v/20220415130912023"/>
-        <updated>2022-04-15T05:17:46.714Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
