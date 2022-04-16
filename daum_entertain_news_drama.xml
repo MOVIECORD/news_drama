@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-16T15:11:22.650Z</updated>
+    <updated>2022-04-16T16:14:53.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차승원, ♥이정은에 애원 "돈 빌려줘"→이정은, 결국 2억 입금]]></title>
+        <id>https://entertain.v.daum.net/v/20220417005625184</id>
+        <link href="https://entertain.v.daum.net/v/20220417005625184"/>
+        <updated>2022-04-16T16:14:44.770Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재가 아름다워' 윤시윤♥배다빈, 퍼스널 컬러 맞추다 손 잡아]]></title>
+        <id>https://entertain.v.daum.net/v/20220417005304164</id>
+        <link href="https://entertain.v.daum.net/v/20220417005304164"/>
+        <updated>2022-04-16T16:14:44.772Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 2회차 인생에서 재회한 차주영에 "약속 반드시 지킬 것" 다짐]]></title>
+        <id>https://entertain.v.daum.net/v/20220417002100955</id>
+        <link href="https://entertain.v.daum.net/v/20220417002100955"/>
+        <updated>2022-04-16T16:14:44.774Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 이경영, 이준기 훼방에 꼬리자르기로 피해갔다]]></title>
         <id>https://entertain.v.daum.net/v/20220416233543658</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220416221855041"/>
         <updated>2022-04-16T13:19:17.238Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 이정은, 차승원에 "부인과 왜 헤어지려 해..설마 바람?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220416215704862</id>
-        <link href="https://entertain.v.daum.net/v/20220416215704862"/>
-        <updated>2022-04-16T13:19:17.249Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 오민석, 삼각관계..윤시윤♥배다빈 '심쿵 스킨십']]></title>
-        <id>https://entertain.v.daum.net/v/20220416213527704</id>
-        <link href="https://entertain.v.daum.net/v/20220416213527704"/>
-        <updated>2022-04-16T13:19:17.249Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 배다빈, 윤시윤 퍼스널 컬러 찾아주다가 심쿵]]></title>
-        <id>https://entertain.v.daum.net/v/20220416213112668</id>
-        <link href="https://entertain.v.daum.net/v/20220416213112668"/>
-        <updated>2022-04-16T13:19:17.250Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
