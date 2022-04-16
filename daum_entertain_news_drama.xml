@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-16T14:10:47.301Z</updated>
+    <updated>2022-04-16T15:11:22.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이경영, 이준기 훼방에 꼬리자르기로 피해갔다]]></title>
+        <id>https://entertain.v.daum.net/v/20220416233543658</id>
+        <link href="https://entertain.v.daum.net/v/20220416233543658"/>
+        <updated>2022-04-16T15:11:13.939Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 이경영 방해 大성공..'하하톡' 유출 막았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220416232455566</id>
+        <link href="https://entertain.v.daum.net/v/20220416232455566"/>
+        <updated>2022-04-16T15:11:13.939Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내일' 6.25 참전용사와의 마지막 하루.."절대 초라한 삶 아냐"]]></title>
         <id>https://entertain.v.daum.net/v/20220416230822449</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220416213112668"/>
         <updated>2022-04-16T13:19:17.250Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 형 오민석 대신 방송 출연..배다빈 손 잡았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220416213009647</id>
-        <link href="https://entertain.v.daum.net/v/20220416213009647"/>
-        <updated>2022-04-16T13:19:17.250Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤 전 연인 배그린 "누구도 배신하지 않을 사람"]]></title>
-        <id>https://entertain.v.daum.net/v/20220416211733571</id>
-        <link href="https://entertain.v.daum.net/v/20220416211733571"/>
-        <updated>2022-04-16T12:18:11.651Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
