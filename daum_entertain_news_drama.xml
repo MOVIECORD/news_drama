@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-17T07:11:36.591Z</updated>
+    <updated>2022-04-17T08:14:54.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일' 윤지온, 강인함 속 가슴 아픈 사연 지닌 임륭구 완벽 동화]]></title>
+        <id>https://entertain.v.daum.net/v/20220417164203367</id>
+        <link href="https://entertain.v.daum.net/v/20220417164203367"/>
+        <updated>2022-04-17T08:14:43.292Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주상욱, 박진희와 부부갈등 정점..집안 단속에 고군분투]]></title>
         <id>https://entertain.v.daum.net/v/20220417155224374</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220417133405118"/>
         <updated>2022-04-17T05:10:23.186Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민X김우빈, 달밤 바닷가 산책..썸 시작?]]></title>
-        <id>https://entertain.v.daum.net/v/20220417133002045</id>
-        <link href="https://entertain.v.daum.net/v/20220417133002045"/>
-        <updated>2022-04-17T05:10:23.187Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
