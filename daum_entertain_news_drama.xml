@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-17T02:28:40.626Z</updated>
+    <updated>2022-04-17T03:26:26.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 시청자 뒤통수 얼얼하게 만든 충격과 반전 명장면 BEST5]]></title>
+        <id>https://entertain.v.daum.net/v/20220417114142343</id>
+        <link href="https://entertain.v.daum.net/v/20220417114142343"/>
+        <updated>2022-04-17T03:26:16.840Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼작사 이혼작곡3' 박주미, 건조→냉기→분노 '감정 변주곡']]></title>
         <id>https://entertain.v.daum.net/v/20220417111745964</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220417103705188"/>
         <updated>2022-04-17T02:28:32.007Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬램덩크' 생각나는 로드자전거 애니, '겁쟁이 페달']]></title>
-        <id>https://entertain.v.daum.net/v/20220417102426977</id>
-        <link href="https://entertain.v.daum.net/v/20220417102426977"/>
-        <updated>2022-04-17T02:28:32.009Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
