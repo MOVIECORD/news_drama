@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-18T15:11:41.156Z</updated>
+    <updated>2022-04-18T16:16:44.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JTBC 드라마 '나의 해방일지']]></title>
+        <id>https://entertain.v.daum.net/v/20220419001226499</id>
+        <link href="https://entertain.v.daum.net/v/20220419001226499"/>
+        <updated>2022-04-18T16:16:34.695Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도베르만' 김우석, 총기 난사 사건에 충격 '외상후 스트레스 장애']]></title>
         <id>https://entertain.v.daum.net/v/20220419000940393</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220418214626051"/>
         <updated>2022-04-18T13:24:10.186Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황신혜, 손성윤X이수용 밀회 목격..둘 관계 드디어 밝혀지나]]></title>
-        <id>https://entertain.v.daum.net/v/20220418205020284</id>
-        <link href="https://entertain.v.daum.net/v/20220418205020284"/>
-        <updated>2022-04-18T12:20:30.201Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
