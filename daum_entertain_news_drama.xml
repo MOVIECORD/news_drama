@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-18T20:13:20.897Z</updated>
+    <updated>2022-04-18T21:10:48.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현, 강영석에 "조보아 앞에 나타나지 마"]]></title>
+        <id>https://entertain.v.daum.net/v/20220419054901540</id>
+        <link href="https://entertain.v.daum.net/v/20220419054901540"/>
+        <updated>2022-04-18T21:10:39.341Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정동원, 중2 구준표 변신..캐릭터 포스터 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220419050011920</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220418223304652"/>
         <updated>2022-04-18T14:11:07.775Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크레이지러브' 정수정, 유인영 부탁 거절.."김재욱 곁에 계속 있을 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220418220653380</id>
-        <link href="https://entertain.v.daum.net/v/20220418220653380"/>
-        <updated>2022-04-18T13:24:10.186Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
