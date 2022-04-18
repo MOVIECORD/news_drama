@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-18T17:18:10.593Z</updated>
+    <updated>2022-04-18T18:15:01.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준·강한나, 살기 위해 서로의 목에 칼 겨눠]]></title>
+        <id>https://entertain.v.daum.net/v/20220419030013181</id>
+        <link href="https://entertain.v.daum.net/v/20220419030013181"/>
+        <updated>2022-04-18T18:14:53.286Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JTBC 드라마 '나의 해방일지']]></title>
         <id>https://entertain.v.daum.net/v/20220419001226499</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220418214731067"/>
         <updated>2022-04-18T13:24:10.186Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군검사 도베르만' 믿었던 강영석의 배신..안보현·조보아 '또' 위기]]></title>
-        <id>https://entertain.v.daum.net/v/20220418214626051</id>
-        <link href="https://entertain.v.daum.net/v/20220418214626051"/>
-        <updated>2022-04-18T13:24:10.186Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
