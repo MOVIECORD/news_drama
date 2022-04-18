@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-18T02:55:00.079Z</updated>
+    <updated>2022-04-18T03:40:12.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일'·'나의 해방일지' 필요한 건 대중성↓]]></title>
+        <id>https://entertain.v.daum.net/v/20220418122130237</id>
+        <link href="https://entertain.v.daum.net/v/20220418122130237"/>
+        <updated>2022-04-18T03:40:04.164Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국 주변부 맴도는 이들의 외침 '나의 해방일지']]></title>
+        <id>https://entertain.v.daum.net/v/20220418115841606</id>
+        <link href="https://entertain.v.daum.net/v/20220418115841606"/>
+        <updated>2022-04-18T03:40:04.164Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 김우빈, 시청자 마음 훔친 순정파 직진남]]></title>
+        <id>https://entertain.v.daum.net/v/20220418115509512</id>
+        <link href="https://entertain.v.daum.net/v/20220418115509512"/>
+        <updated>2022-04-18T03:40:04.170Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 한지민X김우빈, 키스 1초 전 숨멎 엔딩]]></title>
         <id>https://entertain.v.daum.net/v/20220418115356468</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220418110114947"/>
         <updated>2022-04-18T02:54:51.948Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과연 이게 사는 걸까.. 웃다가 눈물 펑펑 나는 '나의 해방일지']]></title>
-        <id>https://entertain.v.daum.net/v/20220418105818782</id>
-        <link href="https://entertain.v.daum.net/v/20220418105818782"/>
-        <updated>2022-04-18T02:54:51.949Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 양녕대군, 이방원 눈 밖에 나는 행동 거듭해..자체 최고 시청률 12%기록]]></title>
-        <id>https://entertain.v.daum.net/v/20220418105321550</id>
-        <link href="https://entertain.v.daum.net/v/20220418105321550"/>
-        <updated>2022-04-18T02:54:51.951Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼인신고' 윤계상, 6월 9일 신라호텔서 늦깎이 웨딩 마치]]></title>
-        <id>https://entertain.v.daum.net/v/20220418105244510</id>
-        <link href="https://entertain.v.daum.net/v/20220418105244510"/>
-        <updated>2022-04-18T02:54:51.953Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
