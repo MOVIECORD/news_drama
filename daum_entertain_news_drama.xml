@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-19T10:13:23.212Z</updated>
+    <updated>2022-04-19T11:10:51.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 서하준, 母 윤복인 끝내 못 찾았다.. 방은희X조유신에 발각]]></title>
+        <id>https://entertain.v.daum.net/v/20220419191935790</id>
+        <link href="https://entertain.v.daum.net/v/20220419191935790"/>
+        <updated>2022-04-19T11:10:43.450Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 조윤서, HB엔터 전속계약..주상욱·안재현 한솥밥]]></title>
         <id>https://entertain.v.daum.net/v/20220419183146701</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 한지민 못마땅해하는 해녀, 제주도민인 줄 "고두심에 사투리 배워"]]></title>
+        <title type="html"><![CDATA[한지민 못마땅해하는 해녀, 제주도민인 줄 "고두심에 사투리 배워"]]></title>
         <id>https://entertain.v.daum.net/v/20220419182110448</id>
         <link href="https://entertain.v.daum.net/v/20220419182110448"/>
         <updated>2022-04-19T10:13:14.313Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220419152403769"/>
         <updated>2022-04-19T07:11:38.165Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["채널에서 콘텐츠 중심으로" SLL, 글로벌 스튜디오로 본격 시동]]></title>
-        <id>https://entertain.v.daum.net/v/20220419152057628</id>
-        <link href="https://entertain.v.daum.net/v/20220419152057628"/>
-        <updated>2022-04-19T07:11:38.172Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
