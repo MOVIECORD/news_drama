@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-19T13:32:25.129Z</updated>
+    <updated>2022-04-19T14:11:33.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['도베르만' 김영민, 총기난사 사건 듣고 "김우석 죽여서도 죽어서도 안돼"]]></title>
+        <id>https://entertain.v.daum.net/v/20220419230646528</id>
+        <link href="https://entertain.v.daum.net/v/20220419230646528"/>
+        <updated>2022-04-19T14:11:24.615Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 김재욱, 하준 복수→정수정 납치에 혼비백산]]></title>
+        <id>https://entertain.v.daum.net/v/20220419224730384</id>
+        <link href="https://entertain.v.daum.net/v/20220419224730384"/>
+        <updated>2022-04-19T14:11:24.622Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준, 독기 서린 표정 '긴장감 유발']]></title>
         <id>https://entertain.v.daum.net/v/20220419221714107</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220419174034943"/>
         <updated>2022-04-19T09:11:53.093Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현·채종협이 꼽은 '너에게 가는 속도 493km' 관전 포인트]]></title>
-        <id>https://entertain.v.daum.net/v/20220419172643453</id>
-        <link href="https://entertain.v.daum.net/v/20220419172643453"/>
-        <updated>2022-04-19T09:11:53.097Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈, '♥신민아'도 질투할 데이트현장 '포착']]></title>
-        <id>https://entertain.v.daum.net/v/20220419170544850</id>
-        <link href="https://entertain.v.daum.net/v/20220419170544850"/>
-        <updated>2022-04-19T08:15:02.067Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
