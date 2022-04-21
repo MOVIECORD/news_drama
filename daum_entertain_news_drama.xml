@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-21T05:32:28.237Z</updated>
+    <updated>2022-04-21T06:14:01.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이요원·추자현, 김규리 죽음에 얽힌 두 엄마의 비밀]]></title>
+        <id>https://entertain.v.daum.net/v/20220421150721797</id>
+        <link href="https://entertain.v.daum.net/v/20220421150721797"/>
+        <updated>2022-04-21T06:13:53.335Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도베르만→어겐마' 히어로의 통쾌한 복수극, 실패란 없다]]></title>
+        <id>https://entertain.v.daum.net/v/20220421143951303</id>
+        <link href="https://entertain.v.daum.net/v/20220421143951303"/>
+        <updated>2022-04-21T06:13:53.335Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은단심' 최리 "연희 연기, 한없이 즐겁고 더할 나위없이 아프기도"]]></title>
+        <id>https://entertain.v.daum.net/v/20220421143340055</id>
+        <link href="https://entertain.v.daum.net/v/20220421143340055"/>
+        <updated>2022-04-21T06:13:53.342Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신동미 "원했던 멜로..오민석과 러브라인 귀엽고 상큼해"]]></title>
         <id>https://entertain.v.daum.net/v/20220421142701754</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220421123855374"/>
         <updated>2022-04-21T04:00:35.259Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오셰어' 이학주X하윤경X정재광 아찔 오피스물 "여기 동물의 왕국이야?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220421120110326</id>
-        <link href="https://entertain.v.daum.net/v/20220421120110326"/>
-        <updated>2022-04-21T04:00:35.261Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 결혼 잘 할 수 있을까?"..이진욱X이연희, 예비 부부로 만났다]]></title>
-        <id>https://entertain.v.daum.net/v/20220421115212965</id>
-        <link href="https://entertain.v.daum.net/v/20220421115212965"/>
-        <updated>2022-04-21T02:59:35.138Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC 오승훈 아나, 현직 아나운서 최초로 변호사 됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20220421113820452</id>
-        <link href="https://entertain.v.daum.net/v/20220421113820452"/>
-        <updated>2022-04-21T02:59:35.139Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
