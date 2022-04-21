@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-21T11:11:07.287Z</updated>
+    <updated>2022-04-21T12:20:18.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 김하늘 VS 이혜영 VS 김성령, 마지막 싸움..욕망의 꼭대기 주인공은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220421203828350</id>
+        <link href="https://entertain.v.daum.net/v/20220421203828350"/>
+        <updated>2022-04-21T12:20:09.356Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 손성윤, 황신혜 내쫓고자 전과 7범 박철호 집에 들였다]]></title>
+        <id>https://entertain.v.daum.net/v/20220421202900136</id>
+        <link href="https://entertain.v.daum.net/v/20220421202900136"/>
+        <updated>2022-04-21T12:20:09.356Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의집' 이승연, 윤복인 처리 지시.."깔끔하게 정리해"]]></title>
         <id>https://entertain.v.daum.net/v/20220421194409138</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220421162249688"/>
         <updated>2022-04-21T08:15:53.333Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 서현진→허준호, 연기 포텐 터진 대본 리딩]]></title>
-        <id>https://entertain.v.daum.net/v/20220421162213661</id>
-        <link href="https://entertain.v.daum.net/v/20220421162213661"/>
-        <updated>2022-04-21T08:15:53.334Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이시영 "'그리드', 웃고 고민했던 기억들이 추억으로"]]></title>
-        <id>https://entertain.v.daum.net/v/20220421162133623</id>
-        <link href="https://entertain.v.daum.net/v/20220421162133623"/>
-        <updated>2022-04-21T08:15:53.335Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
