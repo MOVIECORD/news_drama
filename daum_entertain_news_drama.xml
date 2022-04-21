@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-21T13:26:55.215Z</updated>
+    <updated>2022-04-21T14:12:21.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 추자현, 김규리 죽음에 불안..윤경호에 자기방어]]></title>
+        <id>https://entertain.v.daum.net/v/20220421230119779</id>
+        <link href="https://entertain.v.daum.net/v/20220421230119779"/>
+        <updated>2022-04-21T14:12:12.626Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 김하늘, 김재철 프러포즈 거절 "존재가치 증명하고 싶다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220421225833750</id>
+        <link href="https://entertain.v.daum.net/v/20220421225833750"/>
+        <updated>2022-04-21T14:12:12.626Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 추자현, 김규리 죽음에 이상 반응.. 무슨 사연있나]]></title>
+        <id>https://entertain.v.daum.net/v/20220421224722666</id>
+        <link href="https://entertain.v.daum.net/v/20220421224722666"/>
+        <updated>2022-04-21T14:12:12.629Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너가속' 채종협, 따돌림 당하는 박주현 보며 속상.. "팀이 개판" 일갈도]]></title>
         <id>https://entertain.v.daum.net/v/20220421222430422</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220421170752657"/>
         <updated>2022-04-21T08:15:53.324Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영 "뮤지컬 '광주'로 배우 첫 걸음, 배워가는 과정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220421170407510</id>
-        <link href="https://entertain.v.daum.net/v/20220421170407510"/>
-        <updated>2022-04-21T08:15:53.328Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승부조작→새 얼굴 발견..'골때녀-시즌2' 리그전 끝, 이제 슈퍼리그로]]></title>
-        <id>https://entertain.v.daum.net/v/20220421170103392</id>
-        <link href="https://entertain.v.daum.net/v/20220421170103392"/>
-        <updated>2022-04-21T08:15:53.332Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 전부 한 사람이라고? '모두 송상은']]></title>
-        <id>https://entertain.v.daum.net/v/20220421164315642</id>
-        <link href="https://entertain.v.daum.net/v/20220421164315642"/>
-        <updated>2022-04-21T08:15:53.333Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
