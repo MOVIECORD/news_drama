@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-21T09:12:36.967Z</updated>
+    <updated>2022-04-21T10:13:45.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['로망스'→'신사의 품격'→'킬힐'..김하늘, 멜로퀸 넘어 연기퀸 됐다]]></title>
+        <id>https://entertain.v.daum.net/v/20220421185526980</id>
+        <link href="https://entertain.v.daum.net/v/20220421185526980"/>
+        <updated>2022-04-21T10:13:36.387Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천호진, 숨막히는 현실 연기..이러니 국민 아버지]]></title>
+        <id>https://entertain.v.daum.net/v/20220421183554453</id>
+        <link href="https://entertain.v.daum.net/v/20220421183554453"/>
+        <updated>2022-04-21T10:13:36.388Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갯마을차차차'→'스물다섯 스물하나'..K드라마에 푹 빠진 전세계]]></title>
         <id>https://entertain.v.daum.net/v/20220421173713710</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220421155431238"/>
         <updated>2022-04-21T07:11:09.842Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너가속' 조한철, 감칠맛 나는 코믹 연기 극에 활력 불어넣다]]></title>
-        <id>https://entertain.v.daum.net/v/20220421154133499</id>
-        <link href="https://entertain.v.daum.net/v/20220421154133499"/>
-        <updated>2022-04-21T07:11:09.842Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민욱, HBO Max '옷장 너머로' 출연..오디션만 3개월]]></title>
-        <id>https://entertain.v.daum.net/v/20220421153830323</id>
-        <link href="https://entertain.v.daum.net/v/20220421153830323"/>
-        <updated>2022-04-21T07:11:09.842Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
