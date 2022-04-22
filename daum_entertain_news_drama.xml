@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-22T08:14:59.917Z</updated>
+    <updated>2022-04-22T09:12:44.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손석구 따라하다 굴욕 당한 이민기..'나의 해방일지' 코믹 웃음 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220422181214766</id>
+        <link href="https://entertain.v.daum.net/v/20220422181214766"/>
+        <updated>2022-04-22T09:12:35.981Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["연상호 유니버스!"..'방법'에 등장했던 귀불→'괴이'로 이어진다]]></title>
+        <id>https://entertain.v.daum.net/v/20220422175018186</id>
+        <link href="https://entertain.v.daum.net/v/20220422175018186"/>
+        <updated>2022-04-22T09:12:35.982Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양주호, MBC '지금부터, 쇼타임!' 출연..형사 변태식 役]]></title>
         <id>https://entertain.v.daum.net/v/20220422170721006</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220422154422244"/>
         <updated>2022-04-22T07:11:37.484Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하이브리드 오컬트 스릴러"..'괴이' 구교환X신현빈, 연상호 유니버스가 온다]]></title>
-        <id>https://entertain.v.daum.net/v/20220422154250192</id>
-        <link href="https://entertain.v.daum.net/v/20220422154250192"/>
-        <updated>2022-04-22T07:11:37.484Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준·강한나·장혁, 끊이지 않는 웃음 현장]]></title>
-        <id>https://entertain.v.daum.net/v/20220422154126138</id>
-        <link href="https://entertain.v.daum.net/v/20220422154126138"/>
-        <updated>2022-04-22T07:11:37.484Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
