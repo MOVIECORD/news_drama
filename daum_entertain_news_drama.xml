@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-22T13:31:17.492Z</updated>
+    <updated>2022-04-22T14:11:40.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 검사 부임 후 맡은 첫 사건 바로잡아]]></title>
+        <id>https://entertain.v.daum.net/v/20220422224331474</id>
+        <link href="https://entertain.v.daum.net/v/20220422224331474"/>
+        <updated>2022-04-22T14:11:32.206Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 김형묵, 인생 2회차 이준기에 "보통 애 아냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220422224004455</id>
+        <link href="https://entertain.v.daum.net/v/20220422224004455"/>
+        <updated>2022-04-22T14:11:32.206Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 이준기 "법은 피해자를 위한 것, 부당한 벌 받지 않아야"]]></title>
         <id>https://entertain.v.daum.net/v/20220422221906271</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220422164248281"/>
         <updated>2022-04-22T08:14:50.597Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 박인환X박상원, 입양으로 맺어진 부자애 '애틋']]></title>
-        <id>https://entertain.v.daum.net/v/20220422163450013</id>
-        <link href="https://entertain.v.daum.net/v/20220422163450013"/>
-        <updated>2022-04-22T08:14:50.598Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진, 정준호-진기주 화려함에 '의문의 1패']]></title>
-        <id>https://entertain.v.daum.net/v/20220422163004862</id>
-        <link href="https://entertain.v.daum.net/v/20220422163004862"/>
-        <updated>2022-04-22T08:14:50.598Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
