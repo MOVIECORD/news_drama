@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-22T21:10:43.492Z</updated>
+    <updated>2022-04-22T22:12:20.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '별똥별' 이성경X김영대 1년만 재회.. 으르렁→설렘 케미?]]></title>
+        <id>https://entertain.v.daum.net/v/20220423065315579</id>
+        <link href="https://entertain.v.daum.net/v/20220423065315579"/>
+        <updated>2022-04-22T22:12:11.263Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['별똥별' 이성경X김영대, 귓속말 재회→하트 포즈..과거 연인?]]></title>
+        <id>https://entertain.v.daum.net/v/20220423064742518</id>
+        <link href="https://entertain.v.daum.net/v/20220423064742518"/>
+        <updated>2022-04-22T22:12:11.264Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지금부터 쇼타임'.. 귀신 공조 코믹 수사극이 온다]]></title>
+        <id>https://entertain.v.daum.net/v/20220423064605497</id>
+        <link href="https://entertain.v.daum.net/v/20220423064605497"/>
+        <updated>2022-04-22T22:12:11.264Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쇼타임' 박해진, 연기대상 2년만에 코미디로 컴백 작정하고 웃길까]]></title>
         <id>https://entertain.v.daum.net/v/20220423055502880</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220422231826784"/>
         <updated>2022-04-22T15:12:06.800Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 이준기, 검사 부임 후 맡은 첫 사건 바로잡아]]></title>
-        <id>https://entertain.v.daum.net/v/20220422224331474</id>
-        <link href="https://entertain.v.daum.net/v/20220422224331474"/>
-        <updated>2022-04-22T14:11:32.206Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 김형묵, 인생 2회차 이준기에 "보통 애 아냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220422224004455</id>
-        <link href="https://entertain.v.daum.net/v/20220422224004455"/>
-        <updated>2022-04-22T14:11:32.206Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 이준기 "법은 피해자를 위한 것, 부당한 벌 받지 않아야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220422221906271</id>
-        <link href="https://entertain.v.daum.net/v/20220422221906271"/>
-        <updated>2022-04-22T13:31:03.418Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
