@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-23T08:13:33.083Z</updated>
+    <updated>2022-04-23T09:11:11.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤지온, 뜻밖의 귀여운 면모로 '내일' 매력 부자 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20220423175138714</id>
+        <link href="https://entertain.v.daum.net/v/20220423175138714"/>
+        <updated>2022-04-23T09:11:03.020Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우월한 하루' 임화영 감금 현장 포착, 연쇄살인마 이원근과 대치]]></title>
         <id>https://entertain.v.daum.net/v/20220423165421150</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220423141005289"/>
         <updated>2022-04-23T06:13:48.528Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원X손석구, 닿을 듯 말듯 손끝..묘한 분위기]]></title>
-        <id>https://entertain.v.daum.net/v/20220423140250210</id>
-        <link href="https://entertain.v.daum.net/v/20220423140250210"/>
-        <updated>2022-04-23T05:10:18.471Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
