@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-23T17:14:05.860Z</updated>
+    <updated>2022-04-23T18:13:38.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 김철기, "하는 일에 도움됐으면"..이전 삶에서도 이준기 도왔다]]></title>
+        <id>https://entertain.v.daum.net/v/20220424024500042</id>
+        <link href="https://entertain.v.daum.net/v/20220424024500042"/>
+        <updated>2022-04-23T18:13:29.146Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방'지금부터 쇼타임' 진기주, 박해진 뺑소니범으로 알았다]]></title>
         <id>https://entertain.v.daum.net/v/20220424005531927</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220423222732239"/>
         <updated>2022-04-23T14:11:07.996Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연쇄살인마 이원근, 형사 임화영과 나눈 은밀한 대화?]]></title>
-        <id>https://entertain.v.daum.net/v/20220423220205016</id>
-        <link href="https://entertain.v.daum.net/v/20220423220205016"/>
-        <updated>2022-04-23T13:20:25.161Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
