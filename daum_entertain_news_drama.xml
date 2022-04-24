@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-24T13:21:11.499Z</updated>
+    <updated>2022-04-24T14:10:59.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 박주미X부배 결혼 골인+임신→이민영, 이가령 몸에서 쫓겨나]]></title>
+        <id>https://entertain.v.daum.net/v/20220424224600388</id>
+        <link href="https://entertain.v.daum.net/v/20220424224600388"/>
+        <updated>2022-04-24T14:10:51.060Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 이병헌, 신민아 구애 거절에 "내가 돈 없고 못 배워서?" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220424224000343</id>
+        <link href="https://entertain.v.daum.net/v/20220424224000343"/>
+        <updated>2022-04-24T14:10:51.068Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 신민아, 이혼 후 아들 뺏길 위기에 제주바다 투신]]></title>
+        <id>https://entertain.v.daum.net/v/20220424223636320</id>
+        <link href="https://entertain.v.daum.net/v/20220424223636320"/>
+        <updated>2022-04-24T14:10:51.068Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 신민아, 이병헌 고백 거절→바다에 빠졌다 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220424223042247</id>
+        <link href="https://entertain.v.daum.net/v/20220424223042247"/>
+        <updated>2022-04-24T14:10:51.068Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 윤시윤·배다빈 관계 발전?..서범준♥최예빈 키스]]></title>
         <id>https://entertain.v.daum.net/v/20220424220525029</id>
@@ -13,7 +41,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배그린, 윤시윤에 '엔조이' 제안→배그린, 폭발 "윤시윤 가지마"]]></title>
+        <title type="html"><![CDATA[배그린, 윤시윤에 '엔조이' 제안→배다빈 폭발 "윤시윤 가지마"]]></title>
         <id>https://entertain.v.daum.net/v/20220424215820953</id>
         <link href="https://entertain.v.daum.net/v/20220424215820953"/>
         <updated>2022-04-24T13:21:02.760Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220424210406434"/>
         <updated>2022-04-24T12:18:26.176Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배그린, 윤시윤에 "엔조이 어때?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220424210119413</id>
-        <link href="https://entertain.v.daum.net/v/20220424210119413"/>
-        <updated>2022-04-24T12:18:26.176Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤시윤 떠보는 배그린 "지금 선택하라면 너, 엔조이는 어때?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220424205518365</id>
-        <link href="https://entertain.v.daum.net/v/20220424205518365"/>
-        <updated>2022-04-24T12:18:26.176Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 서범준, 최예빈에 "너 나 좋아하냐?"..핑크빛 기류]]></title>
-        <id>https://entertain.v.daum.net/v/20220424204753309</id>
-        <link href="https://entertain.v.daum.net/v/20220424204753309"/>
-        <updated>2022-04-24T12:18:26.176Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 윤시윤, 첫사랑 배그린에 "네가 좋아하는 건 안 해" 철벽]]></title>
-        <id>https://entertain.v.daum.net/v/20220424203613228</id>
-        <link href="https://entertain.v.daum.net/v/20220424203613228"/>
-        <updated>2022-04-24T12:18:26.176Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
