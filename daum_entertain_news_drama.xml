@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-24T02:27:09.473Z</updated>
+    <updated>2022-04-24T03:24:10.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금부터, 쇼타임!' 범상치 않네! 박해진X진기주 귀신 공조수사, 쇼타임 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220424121607546</id>
+        <link href="https://entertain.v.daum.net/v/20220424121607546"/>
+        <updated>2022-04-24T03:24:02.019Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성경X김영대, 커플사진 유출..애증 로맨스 본격화]]></title>
+        <id>https://entertain.v.daum.net/v/20220424115002974</id>
+        <link href="https://entertain.v.daum.net/v/20220424115002974"/>
+        <updated>2022-04-24T03:24:02.019Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태종 이방원' 이태리, 질투와 반항심으로 잘못 반복]]></title>
         <id>https://entertain.v.daum.net/v/20220424111806528</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220424103804705"/>
         <updated>2022-04-24T02:27:00.830Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진기주, 박해진과 티격태격 케미..'열혈 순경' 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220424103004524</id>
-        <link href="https://entertain.v.daum.net/v/20220424103004524"/>
-        <updated>2022-04-24T02:27:00.830Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지온, 대체불가 3色 매력의 배우]]></title>
-        <id>https://entertain.v.daum.net/v/20220424102105384</id>
-        <link href="https://entertain.v.daum.net/v/20220424102105384"/>
-        <updated>2022-04-24T02:27:00.830Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
