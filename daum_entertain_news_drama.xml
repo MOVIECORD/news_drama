@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-24T19:09:42.781Z</updated>
+    <updated>2022-04-24T20:12:43.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 김지원, 손석구에 속마음 전했다..의미심장 엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220425050001455</id>
+        <link href="https://entertain.v.daum.net/v/20220425050001455"/>
+        <updated>2022-04-24T20:12:34.575Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤시윤 잡을거야" '전여친' 배그린, '썸녀' 배다빈에 선전포고]]></title>
         <id>https://entertain.v.daum.net/v/20220425005625224</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220424213324693"/>
         <updated>2022-04-24T13:21:02.765Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 노윤서, 배현성 말에 출산 결심 "너만 믿고 직진한다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220424213006665</id>
-        <link href="https://entertain.v.daum.net/v/20220424213006665"/>
-        <updated>2022-04-24T13:21:02.765Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
