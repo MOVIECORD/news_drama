@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-24T03:24:10.017Z</updated>
+    <updated>2022-04-24T04:14:12.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["날 추앙해요"..뜬금 유행어 만든 박해영 작가의 속내]]></title>
+        <id>https://entertain.v.daum.net/v/20220424131059052</id>
+        <link href="https://entertain.v.daum.net/v/20220424131059052"/>
+        <updated>2022-04-24T04:14:04.766Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 박진희, 주상욱 설득..자식 문제로 서글픈 하소연]]></title>
+        <id>https://entertain.v.daum.net/v/20220424124755762</id>
+        <link href="https://entertain.v.daum.net/v/20220424124755762"/>
+        <updated>2022-04-24T04:14:04.769Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금부터, 쇼타임!' 범상치 않네! 박해진X진기주 귀신 공조수사, 쇼타임 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220424121607546</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220424104914890"/>
         <updated>2022-04-24T02:27:00.829Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배현성, 노윤서 향한 순애보 호연]]></title>
-        <id>https://entertain.v.daum.net/v/20220424104047746</id>
-        <link href="https://entertain.v.daum.net/v/20220424104047746"/>
-        <updated>2022-04-24T02:27:00.829Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 박진희, 주상욱과 독대 서글픈 하소연]]></title>
-        <id>https://entertain.v.daum.net/v/20220424103804705</id>
-        <link href="https://entertain.v.daum.net/v/20220424103804705"/>
-        <updated>2022-04-24T02:27:00.830Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
