@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-25T14:11:43.070Z</updated>
+    <updated>2022-04-25T15:13:49.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 오연수, 아들 정신이상자로 몰았다 "난 피해자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220426000533994</id>
+        <link href="https://entertain.v.daum.net/v/20220426000533994"/>
+        <updated>2022-04-25T15:13:40.563Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도베르만' 조보아, 총 맞고 쓰러졌다.. 안보현, 김우석 구하고 의식불명]]></title>
+        <id>https://entertain.v.daum.net/v/20220425235230800</id>
+        <link href="https://entertain.v.daum.net/v/20220425235230800"/>
+        <updated>2022-04-25T15:13:40.563Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군검사 도베르만' 안보현, 김영민에 폭행 당하며 "군대에 넣어줘서 감사"]]></title>
         <id>https://entertain.v.daum.net/v/20220425225752408</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220425184416683"/>
         <updated>2022-04-25T11:10:39.602Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주미, 비주얼X존재감X연기력 '완벽 3박자']]></title>
-        <id>https://entertain.v.daum.net/v/20220425183727578</id>
-        <link href="https://entertain.v.daum.net/v/20220425183727578"/>
-        <updated>2022-04-25T11:10:39.603Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김아중 "학창시절 추억 있는 이시영, '그리드' 재회 반가워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220425180940949</id>
-        <link href="https://entertain.v.daum.net/v/20220425180940949"/>
-        <updated>2022-04-25T11:10:39.603Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
