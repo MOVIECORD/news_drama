@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-25T07:11:58.512Z</updated>
+    <updated>2022-04-25T08:15:11.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이프릴 윤채경, 오나라·윤균상 소속사 전속계약]]></title>
+        <id>https://entertain.v.daum.net/v/20220425165606492</id>
+        <link href="https://entertain.v.daum.net/v/20220425165606492"/>
+        <updated>2022-04-25T08:15:02.495Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광수 "설현과 연인 케미? 천점 만점 오억점"]]></title>
+        <id>https://entertain.v.daum.net/v/20220425165002212</id>
+        <link href="https://entertain.v.daum.net/v/20220425165002212"/>
+        <updated>2022-04-25T08:15:02.503Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금 가면' 차예련→이휘향, 안방극장에 휘몰아칠 돌풍 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220425164106896</id>
+        <link href="https://entertain.v.daum.net/v/20220425164106896"/>
+        <updated>2022-04-25T08:15:02.503Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["케미? 5억점"..이광수X김설현의 코믹 수사극 '살인자의쇼핑목록']]></title>
+        <id>https://entertain.v.daum.net/v/20220425164057887</id>
+        <link href="https://entertain.v.daum.net/v/20220425164057887"/>
+        <updated>2022-04-25T08:15:02.503Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 박주미, 막장도 살리는 연기에 아우라까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220425162614302</id>
+        <link href="https://entertain.v.daum.net/v/20220425162614302"/>
+        <updated>2022-04-25T08:15:02.511Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그리드' 김아중 "'어떻게 살 것인가'를 자문해보게 된 작품"]]></title>
         <id>https://entertain.v.daum.net/v/20220425160824550</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220425152642727"/>
         <updated>2022-04-25T07:11:50.166Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살인자의 쇼핑목록' 김설현 "첫 코믹 연기, 주변서 내려놓으니 좋다고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220425152613708</id>
-        <link href="https://entertain.v.daum.net/v/20220425152613708"/>
-        <updated>2022-04-25T07:11:50.170Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설현 "빈말 못하지만 속으로 참는 스타일"]]></title>
-        <id>https://entertain.v.daum.net/v/20220425152443645</id>
-        <link href="https://entertain.v.daum.net/v/20220425152443645"/>
-        <updated>2022-04-25T07:11:50.172Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["시즌2 기대"..이광수X설현X진희경, 살인범 잡는 동네 히어로]]></title>
-        <id>https://entertain.v.daum.net/v/20220425152253525</id>
-        <link href="https://entertain.v.daum.net/v/20220425152253525"/>
-        <updated>2022-04-25T07:11:50.172Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도베르만' 측 "통쾌 안보현X조보아 활약+예측불가 반전 기대"]]></title>
-        <id>https://entertain.v.daum.net/v/20220425151054970</id>
-        <link href="https://entertain.v.daum.net/v/20220425151054970"/>
-        <updated>2022-04-25T06:16:19.170Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살인자의 쇼핑목록' 김설현 "이광수, 재밌는 선배라 생각했는데.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220425150905877</id>
-        <link href="https://entertain.v.daum.net/v/20220425150905877"/>
-        <updated>2022-04-25T06:16:19.172Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
