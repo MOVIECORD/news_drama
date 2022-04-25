@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-25T12:20:33.998Z</updated>
+    <updated>2022-04-25T13:27:57.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크레이지러브' 김재욱, 윤혜리에 진심어린 사과 "날 보는 것 같았다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220425222438140</id>
+        <link href="https://entertain.v.daum.net/v/20220425222438140"/>
+        <updated>2022-04-25T13:27:49.182Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크레이지 러브' 정수정, 윤혜리에게 납치됐다..김재욱 '패닉']]></title>
+        <id>https://entertain.v.daum.net/v/20220425215620708</id>
+        <link href="https://entertain.v.daum.net/v/20220425215620708"/>
+        <updated>2022-04-25T13:27:49.182Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서예지, 복귀 계획대로 딱딱..'이브' 홍보 영상 등장]]></title>
         <id>https://entertain.v.daum.net/v/20220425210439935</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220425175003357"/>
         <updated>2022-04-25T11:10:39.605Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그리드' 김아중 "서강준, 너무 잘해줘..건강히 돌아오길"]]></title>
-        <id>https://entertain.v.daum.net/v/20220425173031755</id>
-        <link href="https://entertain.v.daum.net/v/20220425173031755"/>
-        <updated>2022-04-25T11:10:39.607Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이프릴 윤채경, 오나라·윤균상 소속사 전속계약]]></title>
-        <id>https://entertain.v.daum.net/v/20220425165606492</id>
-        <link href="https://entertain.v.daum.net/v/20220425165606492"/>
-        <updated>2022-04-25T08:15:02.495Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
