@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-26T09:12:47.949Z</updated>
+    <updated>2022-04-26T10:14:21.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬힐' 한수연 "섬뜩한 악역, 맛깔나게 연기하고 싶었죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220426190236086</id>
+        <link href="https://entertain.v.daum.net/v/20220426190236086"/>
+        <updated>2022-04-26T10:14:13.281Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정의제 "'돼지의 왕→킬힐', 욕심 났던 작품..김하늘, 잘 이끌어줘"]]></title>
         <id>https://entertain.v.daum.net/v/20220426175009121</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220426145921269"/>
         <updated>2022-04-26T06:14:41.074Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이게 영화하는 맛이지!" 곽경택→주동민 8人 8色 감독의 '숏버스터']]></title>
-        <id>https://entertain.v.daum.net/v/20220426145755219</id>
-        <link href="https://entertain.v.daum.net/v/20220426145755219"/>
-        <updated>2022-04-26T06:14:41.078Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
