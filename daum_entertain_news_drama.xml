@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-26T02:58:49.058Z</updated>
+    <updated>2022-04-26T03:49:14.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돼지의 왕' 이태검 "의미 있는 작품 함께 해 영광" 종영소감]]></title>
+        <id>https://entertain.v.daum.net/v/20220426122704422</id>
+        <link href="https://entertain.v.daum.net/v/20220426122704422"/>
+        <updated>2022-04-26T03:49:05.573Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 안보현, 오늘 종영 소감 "떠나보내기 아쉽다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220426120800008</id>
+        <link href="https://entertain.v.daum.net/v/20220426120800008"/>
+        <updated>2022-04-26T03:49:05.574Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예능PD 대이동..CJ ENM 줄퇴사, JTBC는 영입에 속도]]></title>
         <id>https://entertain.v.daum.net/v/20220426115441501</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220426110142767"/>
         <updated>2022-04-26T02:58:40.455Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준♥강한나, 연모하는 정인→정적으로 마주..숨 막히는 긴장감]]></title>
-        <id>https://entertain.v.daum.net/v/20220426105404205</id>
-        <link href="https://entertain.v.daum.net/v/20220426105404205"/>
-        <updated>2022-04-26T02:58:40.456Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석X임윤아 '빅마우스', 7월 MBC 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20220426105341190</id>
-        <link href="https://entertain.v.daum.net/v/20220426105341190"/>
-        <updated>2022-04-26T02:58:40.456Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
