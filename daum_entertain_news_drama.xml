@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-26T04:23:36.568Z</updated>
+    <updated>2022-04-26T05:15:18.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종석x임윤아 '빅마우스', 7월 MBC 편성 확정..역대급 느와르]]></title>
+        <id>https://entertain.v.daum.net/v/20220426140139810</id>
+        <link href="https://entertain.v.daum.net/v/20220426140139810"/>
+        <updated>2022-04-26T05:15:10.654Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['안나라수마나라', OST 음원 28일 선공개..지창욱X최성은 가창]]></title>
+        <id>https://entertain.v.daum.net/v/20220426135425536</id>
+        <link href="https://entertain.v.daum.net/v/20220426135425536"/>
+        <updated>2022-04-26T05:15:10.657Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광수♥설현, 20년 커플 위기 봉착..'예비 장인' 박철민 등장]]></title>
+        <id>https://entertain.v.daum.net/v/20220426132843764</id>
+        <link href="https://entertain.v.daum.net/v/20220426132843764"/>
+        <updated>2022-04-26T05:15:10.657Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도베르만' 안보현 종영 소감 "성장할 수 있던 작품..떠나보내기 아쉽다"]]></title>
         <id>https://entertain.v.daum.net/v/20220426132023532</id>
@@ -18,13 +39,6 @@
         <link href="https://entertain.v.daum.net/v/20220426131540400"/>
         <updated>2022-04-26T04:23:28.602Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현 "성장할 수 있었던 작품, 떠나보내기 아쉬워" 종영소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220426130754240</id>
-        <link href="https://entertain.v.daum.net/v/20220426130754240"/>
-        <updated>2022-04-26T04:23:28.603Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박철민 '살인자의 쇼핑목록' 특별출연, 김설현 아버지 된다]]></title>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220426113036401"/>
         <updated>2022-04-26T02:58:40.447Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오연수의 부모 찬스가 만든 김우석이라는 폭탄]]></title>
-        <id>https://entertain.v.daum.net/v/20220426112417040</id>
-        <link href="https://entertain.v.daum.net/v/20220426112417040"/>
-        <updated>2022-04-26T02:58:40.448Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리는 오늘부터' 임수향, 혼전순결이라더니 임신에 박장대소]]></title>
-        <id>https://entertain.v.daum.net/v/20220426111929765</id>
-        <link href="https://entertain.v.daum.net/v/20220426111929765"/>
-        <updated>2022-04-26T02:58:40.449Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
