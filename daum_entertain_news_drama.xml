@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-26T08:14:54.234Z</updated>
+    <updated>2022-04-26T09:12:47.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정의제 "'돼지의 왕→킬힐', 욕심 났던 작품..김하늘, 잘 이끌어줘"]]></title>
+        <id>https://entertain.v.daum.net/v/20220426175009121</id>
+        <link href="https://entertain.v.daum.net/v/20220426175009121"/>
+        <updated>2022-04-26T09:12:39.808Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박하선 "교과서 던지고 책상 없어져..나도 '학폭' 겪었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220426174358892</id>
+        <link href="https://entertain.v.daum.net/v/20220426174358892"/>
+        <updated>2022-04-26T09:12:39.810Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정신혜, 연기+비주얼 돋보인 신예의 발견]]></title>
         <id>https://entertain.v.daum.net/v/20220426164940739</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220426145755219"/>
         <updated>2022-04-26T06:14:41.078Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금부터, 쇼타임!' 김희재가 오래 간직했던 꿈]]></title>
-        <id>https://entertain.v.daum.net/v/20220426145520106</id>
-        <link href="https://entertain.v.daum.net/v/20220426145520106"/>
-        <updated>2022-04-26T06:14:41.082Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진, 글로벌 팬들 국경 뛰어넘은 축하 기부 화환 '감동']]></title>
-        <id>https://entertain.v.daum.net/v/20220426144509657</id>
-        <link href="https://entertain.v.daum.net/v/20220426144509657"/>
-        <updated>2022-04-26T06:14:41.082Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
