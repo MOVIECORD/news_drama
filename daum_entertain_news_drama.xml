@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-27T15:13:42.887Z</updated>
+    <updated>2022-04-27T16:16:33.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수, 설현에 이별 통보 철회 '마트집 子의 사과 방법']]></title>
+        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수, 설현에 결별 통보 후 후회→살인사건 목격]]></title>
+        <id>https://entertain.v.daum.net/v/20220428004343520</id>
+        <link href="https://entertain.v.daum.net/v/20220428004343520"/>
+        <updated>2022-04-27T16:16:24.935Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['살인자의 쇼핑목록' 이광수, 설현에 이별 통보 철회→'마트집 아들의 사과 방법']]></title>
         <id>https://entertain.v.daum.net/v/20220427235447858</id>
         <link href="https://entertain.v.daum.net/v/20220427235447858"/>
         <updated>2022-04-27T15:13:33.972Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220427204009985"/>
         <updated>2022-04-27T12:20:41.921Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진·진기주·김종훈 운명처럼 얽힌 삼각관계]]></title>
-        <id>https://entertain.v.daum.net/v/20220427203057812</id>
-        <link href="https://entertain.v.daum.net/v/20220427203057812"/>
-        <updated>2022-04-27T12:20:41.922Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
