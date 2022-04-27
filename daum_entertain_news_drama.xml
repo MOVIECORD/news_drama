@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-27T12:20:50.278Z</updated>
+    <updated>2022-04-27T13:30:39.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 사이코드라마 뺨치는 데이트..3MC 경악케 한 주인공은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220427214345244</id>
+        <link href="https://entertain.v.daum.net/v/20220427214345244"/>
+        <updated>2022-04-27T13:30:29.637Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['으라차차 내인생' 김희정, 남상지에 "면접에서 子 숨겨라" 조언]]></title>
         <id>https://entertain.v.daum.net/v/20220427212021836</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220427173338373"/>
         <updated>2022-04-27T09:12:16.098Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈♥손예진, 美NBA 경기 관람까지..허니문 생중계 안쓰럽다]]></title>
-        <id>https://entertain.v.daum.net/v/20220427172953142</id>
-        <link href="https://entertain.v.daum.net/v/20220427172953142"/>
-        <updated>2022-04-27T09:12:16.110Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
