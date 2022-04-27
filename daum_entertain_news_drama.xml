@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-27T06:15:16.092Z</updated>
+    <updated>2022-04-27T07:11:48.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지원♥손석구→이민기·이엘, 추앙+촌티+짝사랑 난리]]></title>
+        <id>https://entertain.v.daum.net/v/20220427152242231</id>
+        <link href="https://entertain.v.daum.net/v/20220427152242231"/>
+        <updated>2022-04-27T07:11:39.850Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 방송 D-5 이준·장혁 '붉은 단심' 더욱 특별한 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220427151104656</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220427133902508</id>
         <link href="https://entertain.v.daum.net/v/20220427133902508"/>
         <updated>2022-04-27T05:24:14.105Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원', 종영까지 단 2회..태종→세종 권력 이동 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220427133631426</id>
-        <link href="https://entertain.v.daum.net/v/20220427133631426"/>
-        <updated>2022-04-27T04:37:20.180Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
