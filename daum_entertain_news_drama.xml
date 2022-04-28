@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-28T12:21:27.179Z</updated>
+    <updated>2022-04-28T13:32:57.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하트시그널' 출신 서지혜, '너에게 가는 속도 493km'서 눈에 띄네]]></title>
+        <id>https://entertain.v.daum.net/v/20220428220411500</id>
+        <link href="https://entertain.v.daum.net/v/20220428220411500"/>
+        <updated>2022-04-28T13:32:49.207Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 손성윤, 김진엽X함은정에 행패→박철호, 박재준 찾아왔다]]></title>
         <id>https://entertain.v.daum.net/v/20220428203929844</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220428170754014"/>
         <updated>2022-04-28T08:15:06.779Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성훈♥홍지윤, 쇼윈도 부부→이혼 요구..냉랭 기류 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220428165733583</id>
-        <link href="https://entertain.v.daum.net/v/20220428165733583"/>
-        <updated>2022-04-28T08:15:06.779Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
