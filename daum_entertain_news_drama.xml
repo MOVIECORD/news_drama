@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-28T11:11:10.278Z</updated>
+    <updated>2022-04-28T12:21:27.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의꽈배기' 손성윤, 김진엽X함은정에 행패→박철호, 박재준 찾아왔다]]></title>
+        <id>https://entertain.v.daum.net/v/20220428203929844</id>
+        <link href="https://entertain.v.daum.net/v/20220428203929844"/>
+        <updated>2022-04-28T12:21:18.953Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 이수용, 손성윤 광기 막을까.. 김주리, 장세현 떠난다]]></title>
+        <id>https://entertain.v.daum.net/v/20220428203100718</id>
+        <link href="https://entertain.v.daum.net/v/20220428203100718"/>
+        <updated>2022-04-28T12:21:18.976Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의꽈배기' 김주리, 장세현 떠났다 "함은정 불륜설 진실 밝혀.."]]></title>
         <id>https://entertain.v.daum.net/v/20220428200721379</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220428165733583"/>
         <updated>2022-04-28T08:15:06.779Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜로망스 김민석 동생 아닌 '연기 잘하는' 김우석.."'도베르만'=인생작"]]></title>
-        <id>https://entertain.v.daum.net/v/20220428164829257</id>
-        <link href="https://entertain.v.daum.net/v/20220428164829257"/>
-        <updated>2022-04-28T08:15:06.781Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 김지원X손석구, '추앙 커플' 변화 3단계]]></title>
-        <id>https://entertain.v.daum.net/v/20220428162706465</id>
-        <link href="https://entertain.v.daum.net/v/20220428162706465"/>
-        <updated>2022-04-28T08:15:06.782Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
