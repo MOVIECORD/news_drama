@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-29T08:15:42.108Z</updated>
+    <updated>2022-04-29T09:12:51.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신동욱 "'우리는 오늘부터', 지난해 본 대본 중 가장 재밌는 작품"]]></title>
+        <id>https://entertain.v.daum.net/v/20220429175102631</id>
+        <link href="https://entertain.v.daum.net/v/20220429175102631"/>
+        <updated>2022-04-29T09:12:43.310Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 신동욱이 꼽은 '이강재' 키워드 셋 #바위 #일개미 #해바라기]]></title>
+        <id>https://entertain.v.daum.net/v/20220429174059298</id>
+        <link href="https://entertain.v.daum.net/v/20220429174059298"/>
+        <updated>2022-04-29T09:12:43.311Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동백꽃' 공효진도 놀라겠어..강하늘, 또 소름 돋는 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220429172018657</id>
+        <link href="https://entertain.v.daum.net/v/20220429172018657"/>
+        <updated>2022-04-29T09:12:43.312Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갈데까지 간 '그린마더스클럽' 투신→초등 성추행, 자극적 소재만 난무]]></title>
         <id>https://entertain.v.daum.net/v/20220429171321409</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220429142847489"/>
         <updated>2022-04-29T06:15:01.638Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기우·강기둥→이상우, '별똥별' 특별출연..충격적 소문 '눈길']]></title>
-        <id>https://entertain.v.daum.net/v/20220429142415243</id>
-        <link href="https://entertain.v.daum.net/v/20220429142415243"/>
-        <updated>2022-04-29T06:15:01.640Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월에도 신작 드라마 '풍성'  "봄나들이 유혹을 잠재워라~"]]></title>
-        <id>https://entertain.v.daum.net/v/20220429141055631</id>
-        <link href="https://entertain.v.daum.net/v/20220429141055631"/>
-        <updated>2022-04-29T05:15:36.875Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이요원·추자현의 전쟁 같은 갈등, 터닝포인트 잡은 '그린마더스클럽']]></title>
-        <id>https://entertain.v.daum.net/v/20220429140551400</id>
-        <link href="https://entertain.v.daum.net/v/20220429140551400"/>
-        <updated>2022-04-29T05:15:36.875Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
