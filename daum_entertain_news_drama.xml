@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-29T10:11:50.226Z</updated>
+    <updated>2022-04-29T11:10:39.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 정헌, 윤복인 차로 친 거 알고 "이승연, 책임져라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220429195924244</id>
+        <link href="https://entertain.v.daum.net/v/20220429195924244"/>
+        <updated>2022-04-29T11:10:29.842Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 서하준, 이승연X박충선 은밀한 대화에 의심]]></title>
+        <id>https://entertain.v.daum.net/v/20220429192316523</id>
+        <link href="https://entertain.v.daum.net/v/20220429192316523"/>
+        <updated>2022-04-29T11:10:29.846Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신동욱 "'우리는 오늘부터', 지난해 본 대본 중 가장 재밌는 작품"]]></title>
         <id>https://entertain.v.daum.net/v/20220429175102631</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220429145057363"/>
         <updated>2022-04-29T06:15:01.635Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련♥︎이중문, 사랑꾼 부부의 달달 모습 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220429143828891</id>
-        <link href="https://entertain.v.daum.net/v/20220429143828891"/>
-        <updated>2022-04-29T06:15:01.635Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민경 "타이거맘 추자현, 가장 부러워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220429142847489</id>
-        <link href="https://entertain.v.daum.net/v/20220429142847489"/>
-        <updated>2022-04-29T06:15:01.638Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
