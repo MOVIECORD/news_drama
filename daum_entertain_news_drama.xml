@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-29T21:11:27.273Z</updated>
+    <updated>2022-04-29T22:12:20.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이경영 눈에 든 이준기, 독대까지]]></title>
+        <id>https://entertain.v.daum.net/v/20220430070040453</id>
+        <link href="https://entertain.v.daum.net/v/20220430070040453"/>
+        <updated>2022-04-29T22:12:12.094Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 오연수 "♥손지창 멋있다 칭찬, 실제론 모성애 넘쳐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220430070017435</id>
+        <link href="https://entertain.v.daum.net/v/20220430070017435"/>
+        <updated>2022-04-29T22:12:12.094Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만' 오연수 "첫 악역 도전, 거절하려했는데.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220430070009419</id>
+        <link href="https://entertain.v.daum.net/v/20220430070009419"/>
+        <updated>2022-04-29T22:12:12.098Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['별똥별' 김영대, 아프리카 봉사 배경 밝혀졌다..결국 자업자득]]></title>
         <id>https://entertain.v.daum.net/v/20220430060300848</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220429230202947"/>
         <updated>2022-04-29T14:10:27.054Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 이준기 "권력에 꼬리 흔드는 개가 되지 않을 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220429224502763</id>
-        <link href="https://entertain.v.daum.net/v/20220429224502763"/>
-        <updated>2022-04-29T14:10:27.055Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 이준기, 이경영의 눈에 들었다 "제대로 된 물건"]]></title>
-        <id>https://entertain.v.daum.net/v/20220429223628678</id>
-        <link href="https://entertain.v.daum.net/v/20220429223628678"/>
-        <updated>2022-04-29T14:10:27.055Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 이준기, 범죄 조직 일망타진..이경영 "저 놈 물건이다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220429221658444</id>
-        <link href="https://entertain.v.daum.net/v/20220429221658444"/>
-        <updated>2022-04-29T13:32:28.527Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
