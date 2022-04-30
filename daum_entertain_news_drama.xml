@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-30T09:11:31.561Z</updated>
+    <updated>2022-04-30T10:12:06.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 父 박지환·최영준vs子 배현성·노윤서, 갈등 폭발]]></title>
+        <id>https://entertain.v.daum.net/v/20220430190345701</id>
+        <link href="https://entertain.v.daum.net/v/20220430190345701"/>
+        <updated>2022-04-30T10:11:58.258Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주상욱, '인간 이방원' 완벽 변신..안방 사로잡은 '주방원']]></title>
         <id>https://entertain.v.daum.net/v/20220430172733654</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220430141158743</id>
         <link href="https://entertain.v.daum.net/v/20220430141158743"/>
         <updated>2022-04-30T06:14:20.487Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태종 이방원' 양녕대군-충녕대군, 떠나는 이와 남은 이의 온도차]]></title>
-        <id>https://entertain.v.daum.net/v/20220430140940723</id>
-        <link href="https://entertain.v.daum.net/v/20220430140940723"/>
-        <updated>2022-04-30T05:11:16.493Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
