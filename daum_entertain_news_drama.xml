@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-30T06:14:28.607Z</updated>
+    <updated>2022-04-30T07:11:46.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['임신→출산 결심한 고등생 자녀 둔' 박지환·최영준, 분노+울분]]></title>
+        <id>https://entertain.v.daum.net/v/20220430160209686</id>
+        <link href="https://entertain.v.daum.net/v/20220430160209686"/>
+        <updated>2022-04-30T07:11:37.096Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["어데서 그딴 소릴 합니꺼?"..김민하의 당찬 목소리가 기다려진다]]></title>
+        <id>https://entertain.v.daum.net/v/20220430151506267</id>
+        <link href="https://entertain.v.daum.net/v/20220430151506267"/>
+        <updated>2022-04-30T07:11:37.102Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영대, '최지우 파경' 소식에 멘붕..어떤 사이길래?]]></title>
         <id>https://entertain.v.daum.net/v/20220430145728116</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220430134900478"/>
         <updated>2022-04-30T05:11:16.496Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 응급실行 신민아, 걱정하는 이병헌 '애틋']]></title>
-        <id>https://entertain.v.daum.net/v/20220430133427382</id>
-        <link href="https://entertain.v.daum.net/v/20220430133427382"/>
-        <updated>2022-04-30T05:11:16.497Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별똥별' 김영대, 촬영장 응원 온 이성경에 꿀 뚝뚝]]></title>
-        <id>https://entertain.v.daum.net/v/20220430132649333</id>
-        <link href="https://entertain.v.daum.net/v/20220430132649333"/>
-        <updated>2022-04-30T05:11:16.498Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
