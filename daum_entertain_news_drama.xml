@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-30T03:13:06.593Z</updated>
+    <updated>2022-04-30T04:17:39.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노윤서 임신이 불러온 후폭풍..박지환x최영준 연기력 폭발]]></title>
+        <id>https://entertain.v.daum.net/v/20220430124537045</id>
+        <link href="https://entertain.v.daum.net/v/20220430124537045"/>
+        <updated>2022-04-30T04:17:31.398Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회의하다 모유 나온 男, 임신 고백하고 맘카페 만든 사연]]></title>
+        <id>https://entertain.v.daum.net/v/20220430123143978</id>
+        <link href="https://entertain.v.daum.net/v/20220430123143978"/>
+        <updated>2022-04-30T04:17:31.399Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[놀랄 만큼 진부한 '괴이', 연상호표 자기복제의 한계]]></title>
         <id>https://entertain.v.daum.net/v/20220430115731699</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220430100007254"/>
         <updated>2022-04-30T01:01:08.004Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임성한표 '결사곡3' 엔딩은? 박주미 출산･저승사자･체인지 웨딩]]></title>
-        <id>https://entertain.v.daum.net/v/20220430095412187</id>
-        <link href="https://entertain.v.daum.net/v/20220430095412187"/>
-        <updated>2022-04-30T01:01:08.006Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파친코', 시즌2 제작 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220430094933120</id>
-        <link href="https://entertain.v.daum.net/v/20220430094933120"/>
-        <updated>2022-04-30T01:01:08.006Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
