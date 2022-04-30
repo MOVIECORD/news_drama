@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-04-30T19:09:54.237Z</updated>
+    <updated>2022-04-30T20:12:06.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, "김형묵, 네 줄은 끊어졌다"..최광일, 김형묵에 등 돌렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20220501044200523</id>
+        <link href="https://entertain.v.daum.net/v/20220501044200523"/>
+        <updated>2022-04-30T20:11:58.457Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 이준기, "선배와 나의 목표는 같아, 목표는 이경영"..정상훈과 손잡았다]]></title>
         <id>https://entertain.v.daum.net/v/20220501040601486</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220430212456544"/>
         <updated>2022-04-30T13:20:36.396Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배다빈, 윤시윤에 ♥고백.."좋아해요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220430212125525</id>
-        <link href="https://entertain.v.daum.net/v/20220430212125525"/>
-        <updated>2022-04-30T13:20:36.398Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
