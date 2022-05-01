@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-01T04:30:31.918Z</updated>
+    <updated>2022-05-01T05:17:46.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결사곡3' 이민영→전노민 종영소감 "사랑과 질타받은 연기, 행복한 시간"]]></title>
+        <id>https://entertain.v.daum.net/v/20220501140533559</id>
+        <link href="https://entertain.v.daum.net/v/20220501140533559"/>
+        <updated>2022-05-01T05:17:37.746Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['군검사 도베르만'서 첫 악역 오연수 "다 내려놓고 연기했어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220501133826911</id>
+        <link href="https://entertain.v.daum.net/v/20220501133826911"/>
+        <updated>2022-05-01T05:17:37.749Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구찌보다 구씨".. 손석구가 시청자 사로잡은 추앙법]]></title>
         <id>https://entertain.v.daum.net/v/20220501132614691</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220501110055314"/>
         <updated>2022-05-01T03:37:35.137Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 박소은 "4살 때 길거리 캐스팅..첫 작품은 '클래식'"]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110042297</id>
-        <link href="https://entertain.v.daum.net/v/20220501110042297"/>
-        <updated>2022-05-01T03:37:35.141Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬힐' 박소은 "김하늘, 범접불가 아우라..칭찬 큰 힘 됐죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20220501110033286</id>
-        <link href="https://entertain.v.daum.net/v/20220501110033286"/>
-        <updated>2022-05-01T03:37:35.142Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
