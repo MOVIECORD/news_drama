@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-02T13:32:34.737Z</updated>
+    <updated>2022-05-02T14:12:21.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '붉은 단심' 이준, 처형 직전의 강한나 구했다.. 장혁에 핏빛 복수 다짐]]></title>
+        <id>https://entertain.v.daum.net/v/20220502225030179</id>
+        <link href="https://entertain.v.daum.net/v/20220502225030179"/>
+        <updated>2022-05-02T14:12:12.571Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은단심' 이준, 죽음 앞둔 함은정에 "또 다른 가문과 혼인할 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220502222037938</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220502194301749"/>
         <updated>2022-05-02T11:10:40.425Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준·강한나 사극 케미 어떨까.. 핏빛 로맨스 '붉은단심' 첫 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20220502193206590</id>
-        <link href="https://entertain.v.daum.net/v/20220502193206590"/>
-        <updated>2022-05-02T11:10:40.425Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
