@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-02T15:13:19.742Z</updated>
+    <updated>2022-05-02T16:17:29.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '붉은단심', 절대권력 장혁→이준, ♥강한나와 7년만 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20220503005920169</id>
+        <link href="https://entertain.v.daum.net/v/20220503005920169"/>
+        <updated>2022-05-02T16:17:20.245Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '오셰어' 하윤경, 원나잇男 이학주+전 남친 정재광과 한 직장에..]]></title>
         <id>https://entertain.v.daum.net/v/20220503000530751</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220502202416409"/>
         <updated>2022-05-02T12:21:20.482Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['괴이' 김지영 "♥남성진 아직 못 봐..나도 '이방원' 몰아볼 예정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220502195002858</id>
-        <link href="https://entertain.v.daum.net/v/20220502195002858"/>
-        <updated>2022-05-02T11:10:40.423Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
