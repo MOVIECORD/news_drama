@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-02T14:12:21.338Z</updated>
+    <updated>2022-05-02T15:13:19.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '오셰어' 하윤경, 원나잇男 이학주+전 남친 정재광과 한 직장에..]]></title>
+        <id>https://entertain.v.daum.net/v/20220503000530751</id>
+        <link href="https://entertain.v.daum.net/v/20220503000530751"/>
+        <updated>2022-05-02T15:13:09.907Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사고로 가족 잃은 신현빈, "오열하며 주저 앉아..기어갔다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220503000401721</id>
+        <link href="https://entertain.v.daum.net/v/20220503000401721"/>
+        <updated>2022-05-02T15:13:09.908Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '붉은 단심' 이준, 처형 직전의 강한나 구했다.. 장혁에 핏빛 복수 다짐]]></title>
         <id>https://entertain.v.daum.net/v/20220502225030179</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220502195002858"/>
         <updated>2022-05-02T11:10:40.423Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 윤아정, 母 윤복인 사고 진실 알고 정헌에 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220502194522781</id>
-        <link href="https://entertain.v.daum.net/v/20220502194522781"/>
-        <updated>2022-05-02T11:10:40.424Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['괴이' 신현빈 "연상호 감독, 날 믿어줘..'연니버스' 합류 새로워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220502194301749</id>
-        <link href="https://entertain.v.daum.net/v/20220502194301749"/>
-        <updated>2022-05-02T11:10:40.425Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
