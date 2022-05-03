@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-03T09:12:01.527Z</updated>
+    <updated>2022-05-03T10:16:29.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이경실, 할머니 됐다..손보승 측 "4월 득남"]]></title>
+        <id>https://entertain.v.daum.net/v/20220503182756694</id>
+        <link href="https://entertain.v.daum.net/v/20220503182756694"/>
+        <updated>2022-05-03T10:16:21.102Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정민아 '닥터로이어' 캐스팅, 소지섭 조력자 된다]]></title>
+        <id>https://entertain.v.daum.net/v/20220503182057538</id>
+        <link href="https://entertain.v.daum.net/v/20220503182057538"/>
+        <updated>2022-05-03T10:16:21.103Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정민아, '닥터로이어' 출연 확정..소지섭 조력자 된다]]></title>
+        <id>https://entertain.v.daum.net/v/20220503181816483</id>
+        <link href="https://entertain.v.daum.net/v/20220503181816483"/>
+        <updated>2022-05-03T10:16:21.104Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["소지섭과 특별한 인연"..정민아, '닥터로이어' 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220503180125008</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220503144058628"/>
         <updated>2022-05-03T06:15:08.477Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 애틋한 이준-강한나, 수선화 꽃밭에서 조우]]></title>
-        <id>https://entertain.v.daum.net/v/20220503143208279</id>
-        <link href="https://entertain.v.daum.net/v/20220503143208279"/>
-        <updated>2022-05-03T06:15:08.483Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오셰어' 이학주·하윤경·정재광, 공유 오피스 삼각로맨스의 결말은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220503143031221</id>
-        <link href="https://entertain.v.daum.net/v/20220503143031221"/>
-        <updated>2022-05-03T06:15:08.484Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나라수마나라' 김성윤 감독 "행복이 무엇인지에 대한 질문"]]></title>
-        <id>https://entertain.v.daum.net/v/20220503142554031</id>
-        <link href="https://entertain.v.daum.net/v/20220503142554031"/>
-        <updated>2022-05-03T06:15:08.484Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
