@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-03T03:54:53.151Z</updated>
+    <updated>2022-05-03T04:26:27.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이학주·하윤경·정재광, 전쟁 같은 썸→삼각 로맨스 결말은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220503131441631</id>
+        <link href="https://entertain.v.daum.net/v/20220503131441631"/>
+        <updated>2022-05-03T04:26:18.922Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우월한 하루'도 쓸쓸한 퇴장..장르물 명가 OCN 시청률 잔혹사]]></title>
+        <id>https://entertain.v.daum.net/v/20220503130342479</id>
+        <link href="https://entertain.v.daum.net/v/20220503130342479"/>
+        <updated>2022-05-03T04:26:18.924Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보기드문 12세 관람가 '안나라수마나라' 전 세계 홀릴까]]></title>
         <id>https://entertain.v.daum.net/v/20220503125329141</id>
@@ -62,13 +76,6 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[황인엽 "이런 작업 '처음'이랬더니 감독님도 '처음'이라고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220503120112798</id>
-        <link href="https://entertain.v.daum.net/v/20220503120112798"/>
-        <updated>2022-05-03T03:02:16.413Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['안나라수마나라', 지창욱→황인엽과 잃어버린 동심·꿈을 찾아]]></title>
         <id>https://entertain.v.daum.net/v/20220503120003627</id>
         <link href="https://entertain.v.daum.net/v/20220503120003627"/>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220503115020237"/>
         <updated>2022-05-03T03:02:16.415Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나라수마나라' 지창욱 "출연 이유? 윤아이·나일등 내 얘기 같았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220503114615047</id>
-        <link href="https://entertain.v.daum.net/v/20220503114615047"/>
-        <updated>2022-05-03T03:02:16.415Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
