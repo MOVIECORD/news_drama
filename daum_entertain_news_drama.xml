@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-03T13:34:05.210Z</updated>
+    <updated>2022-05-03T14:10:17.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 강한나, 이준에 뽀뽀→청혼 했지만..씁쓸한 거절]]></title>
+        <id>https://entertain.v.daum.net/v/20220503225952000</id>
+        <link href="https://entertain.v.daum.net/v/20220503225952000"/>
+        <updated>2022-05-03T14:10:09.811Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 이준, 강한나 청혼 거절 "다른 여인이 있습니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220503224830861</id>
+        <link href="https://entertain.v.daum.net/v/20220503224830861"/>
+        <updated>2022-05-03T14:10:09.814Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 이준, 강한나에 "날 위해선 평범하게 살아" 버럭]]></title>
         <id>https://entertain.v.daum.net/v/20220503221807335</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220503182756694"/>
         <updated>2022-05-03T10:16:21.102Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정민아 '닥터로이어' 캐스팅, 소지섭 조력자 된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220503182057538</id>
-        <link href="https://entertain.v.daum.net/v/20220503182057538"/>
-        <updated>2022-05-03T10:16:21.103Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정민아, '닥터로이어' 출연 확정..소지섭 조력자 된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220503181816483</id>
-        <link href="https://entertain.v.daum.net/v/20220503181816483"/>
-        <updated>2022-05-03T10:16:21.104Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
