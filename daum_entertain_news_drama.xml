@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-03T07:11:50.880Z</updated>
+    <updated>2022-05-03T08:15:09.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박종진 IHQ 총괄 사장 "'바바요', 5년 내 100만 구독자 목표"]]></title>
+        <id>https://entertain.v.daum.net/v/20220503170819329</id>
+        <link href="https://entertain.v.daum.net/v/20220503170819329"/>
+        <updated>2022-05-03T08:15:00.394Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이주명母' 소희정, '스물다섯 스물하나' 이어 '이브' 확정..서예지x이상엽 만난다]]></title>
+        <id>https://entertain.v.daum.net/v/20220503165335756</id>
+        <link href="https://entertain.v.daum.net/v/20220503165335756"/>
+        <updated>2022-05-03T08:15:00.399Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성훈X임수향 로맨틱 키스..'우리는 오늘부터' 시선강탈 3차 티저]]></title>
+        <id>https://entertain.v.daum.net/v/20220503162200596</id>
+        <link href="https://entertain.v.daum.net/v/20220503162200596"/>
+        <updated>2022-05-03T08:15:00.399Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 성훈 "제가 정자 주인공입니다" 쇼킹]]></title>
         <id>https://entertain.v.daum.net/v/20220503153708607</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220503141002482"/>
         <updated>2022-05-03T05:16:07.028Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱 이어 김범까지..'구미호뎐' 시즌2 '구미호뎐1938' 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220503134335535</id>
-        <link href="https://entertain.v.daum.net/v/20220503134335535"/>
-        <updated>2022-05-03T05:16:07.030Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나라수마나라' 노래, 춤, 마술의 삼박자..마술사 지창욱이 건네는 따뜻한 위로]]></title>
-        <id>https://entertain.v.daum.net/v/20220503134103458</id>
-        <link href="https://entertain.v.daum.net/v/20220503134103458"/>
-        <updated>2022-05-03T05:16:07.032Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 나영희 첫 스틸컷, 범접할 수 없는 존재감]]></title>
-        <id>https://entertain.v.daum.net/v/20220503133306197</id>
-        <link href="https://entertain.v.daum.net/v/20220503133306197"/>
-        <updated>2022-05-03T05:16:07.038Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
