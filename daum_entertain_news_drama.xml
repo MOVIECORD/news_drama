@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-04T21:12:08.000Z</updated>
+    <updated>2022-05-04T22:11:43.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 추자현, 약물 불법 유통 적발되나]]></title>
+        <id>https://entertain.v.daum.net/v/20220505065018778</id>
+        <link href="https://entertain.v.daum.net/v/20220505065018778"/>
+        <updated>2022-05-04T22:11:36.051Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소연, 아이들 최초 독립! '나 혼자 산다'서 생애 첫 집 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220505060102309</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220504201705292</id>
         <link href="https://entertain.v.daum.net/v/20220504201705292"/>
         <updated>2022-05-04T12:23:55.023Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 정헌, 母 이승연에 "윤아정 살인 뒤집어써달라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220504195310828</id>
-        <link href="https://entertain.v.daum.net/v/20220504195310828"/>
-        <updated>2022-05-04T11:10:15.496Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
