@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-05T03:55:18.955Z</updated>
+    <updated>2022-05-05T04:29:23.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이광수, 취조실 포착..연쇄살인 용의자 신세]]></title>
+        <id>https://entertain.v.daum.net/v/20220505131112417</id>
+        <link href="https://entertain.v.daum.net/v/20220505131112417"/>
+        <updated>2022-05-05T04:29:13.701Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌♥신민아→박지환·최영준 명연기 명장면]]></title>
         <id>https://entertain.v.daum.net/v/20220505114022038</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220505100629361</id>
         <link href="https://entertain.v.daum.net/v/20220505100629361"/>
         <updated>2022-05-05T02:54:52.709Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김무준, 술에 취해 반전 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20220505100036248</id>
-        <link href="https://entertain.v.daum.net/v/20220505100036248"/>
-        <updated>2022-05-05T02:54:52.710Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
