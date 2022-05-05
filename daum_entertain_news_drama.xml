@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-05T11:10:38.122Z</updated>
+    <updated>2022-05-05T12:22:22.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 꽈배기' 장세현, 김진엽 살인자로 몰았다.. "父 살해한 패륜아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220505203000533</id>
+        <link href="https://entertain.v.daum.net/v/20220505203000533"/>
+        <updated>2022-05-05T12:22:14.270Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의집' 서하준, 죽은 윤아선 찾는 박예린에 "고모가 많이 사랑한대"]]></title>
         <id>https://entertain.v.daum.net/v/20220505195211123</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220505163627931"/>
         <updated>2022-05-05T08:15:57.079Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리는 오늘부터' 홍지윤 "겉바속촉 이마리 매력에 흠뻑" 각별 애정]]></title>
-        <id>https://entertain.v.daum.net/v/20220505162930750</id>
-        <link href="https://entertain.v.daum.net/v/20220505162930750"/>
-        <updated>2022-05-05T08:15:57.079Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
