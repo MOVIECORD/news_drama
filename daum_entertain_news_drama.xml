@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-05T15:11:48.672Z</updated>
+    <updated>2022-05-05T16:17:42.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 이요원vs추자현 아이들 모두 이상 행동 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220506005002400</id>
+        <link href="https://entertain.v.daum.net/v/20220506005002400"/>
+        <updated>2022-05-05T16:17:32.167Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['살인자의쇼핑목록' 안세빈, 살인사건 목격자였다..살인범=이교엽?]]></title>
+        <id>https://entertain.v.daum.net/v/20220506003331343</id>
+        <link href="https://entertain.v.daum.net/v/20220506003331343"/>
+        <updated>2022-05-05T16:17:32.169Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살인자의쇼핑목록' 이광수, 살인사건 용의자로 체포..억울함 호소]]></title>
         <id>https://entertain.v.daum.net/v/20220505235501021</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220505203000533"/>
         <updated>2022-05-05T12:22:14.270Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 서하준, 죽은 윤아선 찾는 박예린에 "고모가 많이 사랑한대"]]></title>
-        <id>https://entertain.v.daum.net/v/20220505195211123</id>
-        <link href="https://entertain.v.daum.net/v/20220505195211123"/>
-        <updated>2022-05-05T11:10:29.316Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 정헌, 사고현장에서 서하준 기절시키고 증거 인멸]]></title>
-        <id>https://entertain.v.daum.net/v/20220505193438928</id>
-        <link href="https://entertain.v.daum.net/v/20220505193438928"/>
-        <updated>2022-05-05T11:10:29.329Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
