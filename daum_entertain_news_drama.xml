@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-07T06:15:09.851Z</updated>
+    <updated>2022-05-07T07:11:23.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성경, 드디어 김영대에 ♥︎ 심쿵하나]]></title>
+        <id>https://entertain.v.daum.net/v/20220507153348931</id>
+        <link href="https://entertain.v.daum.net/v/20220507153348931"/>
+        <updated>2022-05-07T07:11:14.806Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내일' 윤지온 "우리 어머니, 내가 죽였어요"..충격적 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220507151804770</id>
+        <link href="https://entertain.v.daum.net/v/20220507151804770"/>
+        <updated>2022-05-07T07:11:14.806Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘부터 우리는' 임수향-홍은희-연운경, 3대 모녀 파란만장 서사]]></title>
         <id>https://entertain.v.daum.net/v/20220507143115366</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220507093745789"/>
         <updated>2022-05-07T00:53:26.249Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["50세 전 재혼하려고.." 지연수·일라이 재결합 성사되나]]></title>
-        <id>https://entertain.v.daum.net/v/20220507092903692</id>
-        <link href="https://entertain.v.daum.net/v/20220507092903692"/>
-        <updated>2022-05-07T00:53:26.258Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 이병헌-신민아, 학창시절 첫 만남 소환]]></title>
-        <id>https://entertain.v.daum.net/v/20220507092457650</id>
-        <link href="https://entertain.v.daum.net/v/20220507092457650"/>
-        <updated>2022-05-07T00:53:26.260Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
