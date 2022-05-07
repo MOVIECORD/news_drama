@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-07T05:10:40.157Z</updated>
+    <updated>2022-05-07T06:15:09.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘부터 우리는' 임수향-홍은희-연운경, 3대 모녀 파란만장 서사]]></title>
+        <id>https://entertain.v.daum.net/v/20220507143115366</id>
+        <link href="https://entertain.v.daum.net/v/20220507143115366"/>
+        <updated>2022-05-07T06:14:59.816Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 김혜자-이병헌 母子→각양각색 부모-자식 관계들]]></title>
+        <id>https://entertain.v.daum.net/v/20220507142358307</id>
+        <link href="https://entertain.v.daum.net/v/20220507142358307"/>
+        <updated>2022-05-07T06:14:59.816Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이가령 "신병 걸리고 끝난 '결사곡'..시즌4 했으면 좋겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20220507140005042</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220507092457650"/>
         <updated>2022-05-07T00:53:26.260Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블루스' 이병헌, 사라진 신민아 찾았다..학창시절 과거사 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220507092202626</id>
-        <link href="https://entertain.v.daum.net/v/20220507092202626"/>
-        <updated>2022-05-07T00:53:26.261Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성경, 김영대에 설렜다..로맨스 변곡점 맞을까]]></title>
-        <id>https://entertain.v.daum.net/v/20220507091843594</id>
-        <link href="https://entertain.v.daum.net/v/20220507091843594"/>
-        <updated>2022-05-07T00:53:26.266Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
