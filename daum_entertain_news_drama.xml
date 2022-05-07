@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-07T21:11:21.084Z</updated>
+    <updated>2022-05-07T22:11:04.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['골드 미스' 신동미, 고백 기대하다 오민석 거절에 자존심 구겨]]></title>
+        <id>https://entertain.v.daum.net/v/20220508065640462</id>
+        <link href="https://entertain.v.daum.net/v/20220508065640462"/>
+        <updated>2022-05-07T22:10:55.288Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['괴이' 신현빈, 이수진으로 보여준 또 하나의 얼굴]]></title>
+        <id>https://entertain.v.daum.net/v/20220508065102370</id>
+        <link href="https://entertain.v.daum.net/v/20220508065102370"/>
+        <updated>2022-05-07T22:10:55.290Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지'손석구, 과거 김지원 덕분에 살았나..]]></title>
+        <id>https://entertain.v.daum.net/v/20220508063005125</id>
+        <link href="https://entertain.v.daum.net/v/20220508063005125"/>
+        <updated>2022-05-07T22:10:55.292Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 엄정화, 9회만 예고편 첫등장 "이정은 베프"]]></title>
         <id>https://entertain.v.daum.net/v/20220508060454761</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508051005336"/>
         <updated>2022-05-07T20:12:32.945Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여동생 복수는 개뿔" 손석구, 최민철과 악연 드러났다]]></title>
-        <id>https://entertain.v.daum.net/v/20220508050314300</id>
-        <link href="https://entertain.v.daum.net/v/20220508050314300"/>
-        <updated>2022-05-07T20:12:32.945Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굽힐 수 없는 곽도원·윤두준·정동원, '구필수는 없다']]></title>
-        <id>https://entertain.v.daum.net/v/20220508050001244</id>
-        <link href="https://entertain.v.daum.net/v/20220508050001244"/>
-        <updated>2022-05-07T20:12:32.945Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 유동근, 이경영 무너뜨리기 위한 '판도라의 상자' 열었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220508025400104</id>
-        <link href="https://entertain.v.daum.net/v/20220508025400104"/>
-        <updated>2022-05-07T18:13:18.995Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
