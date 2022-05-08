@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-08T10:12:58.350Z</updated>
+    <updated>2022-05-08T11:10:11.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정신, 솔직+담백 로맨스 연기]]></title>
+        <id>https://entertain.v.daum.net/v/20220508195238272</id>
+        <link href="https://entertain.v.daum.net/v/20220508195238272"/>
+        <updated>2022-05-08T11:10:03.199Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손석구·김지원, 관계 회복? 설레는 마중]]></title>
         <id>https://entertain.v.daum.net/v/20220508174640296</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508144006399"/>
         <updated>2022-05-08T06:15:39.441Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 측 "윤시윤X배다빈 관계 전환 결정적 사건 발생"]]></title>
-        <id>https://entertain.v.daum.net/v/20220508141023706</id>
-        <link href="https://entertain.v.daum.net/v/20220508141023706"/>
-        <updated>2022-05-08T05:11:24.498Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
