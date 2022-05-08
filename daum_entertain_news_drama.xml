@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-08T05:11:34.223Z</updated>
+    <updated>2022-05-08T06:15:48.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['별똥별' 장희령, 이토록 해맑은 톱스타라니]]></title>
+        <id>https://entertain.v.daum.net/v/20220508150828159</id>
+        <link href="https://entertain.v.daum.net/v/20220508150828159"/>
+        <updated>2022-05-08T06:15:39.427Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병헌♥신민아 '상처 공유' 과거史 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220508150048940</id>
+        <link href="https://entertain.v.daum.net/v/20220508150048940"/>
+        <updated>2022-05-08T06:15:39.428Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이병헌♥︎' 신민아, 양육권 재판 결과는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220508145550823</id>
+        <link href="https://entertain.v.daum.net/v/20220508145550823"/>
+        <updated>2022-05-08T06:15:39.429Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 측 "럭비공 같은 이병헌, 신민아 곁 지킨다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220508144523574</id>
+        <link href="https://entertain.v.daum.net/v/20220508144523574"/>
+        <updated>2022-05-08T06:15:39.438Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 배다빈, 윤시윤에 "나 놓고 밀당하지마" 경고]]></title>
+        <id>https://entertain.v.daum.net/v/20220508144006399</id>
+        <link href="https://entertain.v.daum.net/v/20220508144006399"/>
+        <updated>2022-05-08T06:15:39.441Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 측 "윤시윤X배다빈 관계 전환 결정적 사건 발생"]]></title>
         <id>https://entertain.v.daum.net/v/20220508141023706</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508130441500"/>
         <updated>2022-05-08T04:16:59.513Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원X손석구, 과거 첫 만남 공개 '운명적 인연']]></title>
-        <id>https://entertain.v.daum.net/v/20220508124955275</id>
-        <link href="https://entertain.v.daum.net/v/20220508124955275"/>
-        <updated>2022-05-08T04:16:59.521Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내일' 윤지온 母子, 생사 넘어선 재회.."제가 지켜드릴게요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220508115028410</id>
-        <link href="https://entertain.v.daum.net/v/20220508115028410"/>
-        <updated>2022-05-08T03:38:37.856Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 측 "행복해지려는 신민아 응원하며 지켜봐달라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220508114316263</id>
-        <link href="https://entertain.v.daum.net/v/20220508114316263"/>
-        <updated>2022-05-08T02:50:28.485Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 우울증 신민아, 억눌렀던 감정 터뜨렸다]]></title>
-        <id>https://entertain.v.daum.net/v/20220508114201248</id>
-        <link href="https://entertain.v.daum.net/v/20220508114201248"/>
-        <updated>2022-05-08T02:50:28.487Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 손석구 과거 사연 드러나..추앙커플 어쩌나]]></title>
-        <id>https://entertain.v.daum.net/v/20220508111201751</id>
-        <link href="https://entertain.v.daum.net/v/20220508111201751"/>
-        <updated>2022-05-08T02:50:28.488Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
