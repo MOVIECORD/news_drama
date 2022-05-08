@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-08T02:50:39.134Z</updated>
+    <updated>2022-05-08T03:38:46.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내일' 윤지온 母子, 생사 넘어선 재회.."제가 지켜드릴게요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220508115028410</id>
+        <link href="https://entertain.v.daum.net/v/20220508115028410"/>
+        <updated>2022-05-08T03:38:37.856Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 측 "행복해지려는 신민아 응원하며 지켜봐달라"]]></title>
         <id>https://entertain.v.daum.net/v/20220508114316263</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508093056305"/>
         <updated>2022-05-08T00:53:43.985Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 김지은 경영권 싸움 예고, 이준기 복수극 새 변수 되나]]></title>
-        <id>https://entertain.v.daum.net/v/20220508092443221</id>
-        <link href="https://entertain.v.daum.net/v/20220508092443221"/>
-        <updated>2022-05-08T00:53:43.986Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
