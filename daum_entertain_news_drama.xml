@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-08T13:21:56.019Z</updated>
+    <updated>2022-05-08T14:10:50.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신민아, 子 양육권 못 찾나..응급실行]]></title>
+        <id>https://entertain.v.daum.net/v/20220508224001840</id>
+        <link href="https://entertain.v.daum.net/v/20220508224001840"/>
+        <updated>2022-05-08T14:10:40.972Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블루스' 신민아 양육권 패소에 오열, 이병헌 손잡았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220508223554820</id>
+        <link href="https://entertain.v.daum.net/v/20220508223554820"/>
+        <updated>2022-05-08T14:10:40.975Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['추앙커플' 김지원X손석구, 관계 회복? 설레는 마중]]></title>
+        <id>https://entertain.v.daum.net/v/20220508223300775</id>
+        <link href="https://entertain.v.daum.net/v/20220508223300775"/>
+        <updated>2022-05-08T14:10:40.976Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 이병헌, 재판 진 신민아에 호통 "인생끝났냐?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220508222337688</id>
+        <link href="https://entertain.v.daum.net/v/20220508222337688"/>
+        <updated>2022-05-08T14:10:40.978Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 윤시윤, ♥배다빈에 직진 고백 "좋아합니다"]]></title>
         <id>https://entertain.v.daum.net/v/20220508222003645</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508201848549"/>
         <updated>2022-05-08T12:19:15.618Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 오민석♥신동미, 쌍방 '썸' 시작됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20220508201429496</id>
-        <link href="https://entertain.v.daum.net/v/20220508201429496"/>
-        <updated>2022-05-08T12:19:15.622Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정신, 솔직+담백 로맨스 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220508195238272</id>
-        <link href="https://entertain.v.daum.net/v/20220508195238272"/>
-        <updated>2022-05-08T11:10:03.199Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구·김지원, 관계 회복? 설레는 마중]]></title>
-        <id>https://entertain.v.daum.net/v/20220508174640296</id>
-        <link href="https://entertain.v.daum.net/v/20220508174640296"/>
-        <updated>2022-05-08T09:11:54.195Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영, 추리본능 자극하는 '미스터리 그 자체']]></title>
-        <id>https://entertain.v.daum.net/v/20220508173855142</id>
-        <link href="https://entertain.v.daum.net/v/20220508173855142"/>
-        <updated>2022-05-08T09:11:54.196Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
