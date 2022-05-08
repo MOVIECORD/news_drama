@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-08T15:11:55.950Z</updated>
+    <updated>2022-05-08T16:15:11.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 손석구X김지원, 단단해진 관계→핑크빛 미래]]></title>
+        <id>https://entertain.v.daum.net/v/20220509004945669</id>
+        <link href="https://entertain.v.daum.net/v/20220509004945669"/>
+        <updated>2022-05-08T16:15:00.602Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 이엘X이기우 재회 "날 찬 남자와 첫 대면"]]></title>
+        <id>https://entertain.v.daum.net/v/20220509001430545</id>
+        <link href="https://entertain.v.daum.net/v/20220509001430545"/>
+        <updated>2022-05-08T16:15:00.602Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이병헌, 신민아에 위로의 키스]]></title>
         <id>https://entertain.v.daum.net/v/20220509001003447</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220508212143119"/>
         <updated>2022-05-08T13:21:46.976Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배그린, 배다빈 도발 "전 남친 마음 돌릴 수 있겠냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220508210440921</id>
-        <link href="https://entertain.v.daum.net/v/20220508210440921"/>
-        <updated>2022-05-08T12:19:15.590Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마음 없지만 호기심 생겨" 오민석 고백에 신동미 '썸' 제안]]></title>
-        <id>https://entertain.v.daum.net/v/20220508205548855</id>
-        <link href="https://entertain.v.daum.net/v/20220508205548855"/>
-        <updated>2022-05-08T12:19:15.591Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
