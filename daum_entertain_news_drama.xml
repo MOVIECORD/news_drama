@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-09T07:12:33.376Z</updated>
+    <updated>2022-05-09T08:15:59.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 김혜옥, 다채로운 표현력의 '현실 공감 유발자']]></title>
+        <id>https://entertain.v.daum.net/v/20220509164742818</id>
+        <link href="https://entertain.v.daum.net/v/20220509164742818"/>
+        <updated>2022-05-09T08:15:49.730Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['장미맨션' 임지연 윤균상→조달환 이미도, 이곳의 모두가 수상하다]]></title>
+        <id>https://entertain.v.daum.net/v/20220509161739754</id>
+        <link href="https://entertain.v.daum.net/v/20220509161739754"/>
+        <updated>2022-05-09T08:15:49.747Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신민아도 못 살렸다..이병헌 열연에도 공감 잃은 '우블스' 로맨스 서사]]></title>
         <id>https://entertain.v.daum.net/v/20220509160105970</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220509141936750"/>
         <updated>2022-05-09T06:15:41.017Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그린마더스클럽' 깃발 든 이요원X추자현, 위풍당당 자태]]></title>
-        <id>https://entertain.v.daum.net/v/20220509141510602</id>
-        <link href="https://entertain.v.daum.net/v/20220509141510602"/>
-        <updated>2022-05-09T05:16:48.996Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 해방일지' 손석구, '구씨'에서 '구자경'으로 돌아가나?]]></title>
-        <id>https://entertain.v.daum.net/v/20220509140925370</id>
-        <link href="https://entertain.v.daum.net/v/20220509140925370"/>
-        <updated>2022-05-09T05:16:49.005Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
