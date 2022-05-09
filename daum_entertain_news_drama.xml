@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-09T19:10:16.924Z</updated>
+    <updated>2022-05-09T20:12:57.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이주명이 증명한 가능성..앞으로가 더 기대되는 배우]]></title>
+        <id>https://entertain.v.daum.net/v/20220510050023596</id>
+        <link href="https://entertain.v.daum.net/v/20220510050023596"/>
+        <updated>2022-05-09T20:12:48.854Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차예련, 현대판 신데렐라 돼 "닮은 점은 50%"]]></title>
         <id>https://entertain.v.daum.net/v/20220510040015109</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220509221908963"/>
         <updated>2022-05-09T13:38:06.544Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼전순결' 임수향, 2년 만난 신동욱과 여행도 無 "오빠 괜찮아?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220509221804959</id>
-        <link href="https://entertain.v.daum.net/v/20220509221804959"/>
-        <updated>2022-05-09T13:38:06.545Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
