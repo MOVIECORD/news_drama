@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-09T16:18:16.101Z</updated>
+    <updated>2022-05-09T17:20:56.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 임수향, '혼전순결'인데 임신이 웬 말..♥신동욱도 패닉]]></title>
+        <id>https://entertain.v.daum.net/v/20220510012711516</id>
+        <link href="https://entertain.v.daum.net/v/20220510012711516"/>
+        <updated>2022-05-09T17:20:48.134Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤계상·서지혜·김지석, 초감각 캐릭터 포스터]]></title>
         <id>https://entertain.v.daum.net/v/20220510010008330</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220509220300806"/>
         <updated>2022-05-09T13:38:06.548Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리는 오늘부터' 신동욱, 2년차 연인 임수향에 깜짝 프러포즈]]></title>
-        <id>https://entertain.v.daum.net/v/20220509210612002</id>
-        <link href="https://entertain.v.daum.net/v/20220509210612002"/>
-        <updated>2022-05-09T12:21:21.545Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
