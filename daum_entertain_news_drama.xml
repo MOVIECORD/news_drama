@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-10T03:22:18.464Z</updated>
+    <updated>2022-05-10T04:14:59.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 강한나X장혁, 서로를 향한 날카로운 눈빛..묘한 긴장감]]></title>
+        <id>https://entertain.v.daum.net/v/20220510130616958</id>
+        <link href="https://entertain.v.daum.net/v/20220510130616958"/>
+        <updated>2022-05-10T04:14:51.218Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은단심' 혼란스러운 강한나-포커페이스 장혁, 묘한 긴장감]]></title>
+        <id>https://entertain.v.daum.net/v/20220510130206752</id>
+        <link href="https://entertain.v.daum.net/v/20220510130206752"/>
+        <updated>2022-05-10T04:14:51.247Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이더' 강하늘, 나락에서 '피땀눈물' 복수전 예고..인생을 건 잠입 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220510124818136</id>
+        <link href="https://entertain.v.daum.net/v/20220510124818136"/>
+        <updated>2022-05-10T04:14:51.248Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나라수마나라' 김성윤 감독 "넷플릭스 동물 다치는 장면 못찍어"]]></title>
         <id>https://entertain.v.daum.net/v/20220510121517405</id>
         <link href="https://entertain.v.daum.net/v/20220510121517405"/>
         <updated>2022-05-10T03:22:10.099Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레이리스트X제페토, '미미쿠스' 속 대공예 교복 스타일링 콘테스트 진행]]></title>
-        <id>https://entertain.v.daum.net/v/20220510121409385</id>
-        <link href="https://entertain.v.daum.net/v/20220510121409385"/>
-        <updated>2022-05-10T03:22:10.100Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220510103629468</id>
         <link href="https://entertain.v.daum.net/v/20220510103629468"/>
         <updated>2022-05-10T02:18:46.704Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘부터' 혼전순결이라던 임수향 임신, 신동욱 어쩌나]]></title>
-        <id>https://entertain.v.daum.net/v/20220510103423366</id>
-        <link href="https://entertain.v.daum.net/v/20220510103423366"/>
-        <updated>2022-05-10T02:18:46.706Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민X김우빈 "숨겨진 이야기 多..전·후반부 달라져"]]></title>
-        <id>https://entertain.v.daum.net/v/20220510102451848</id>
-        <link href="https://entertain.v.daum.net/v/20220510102451848"/>
-        <updated>2022-05-10T02:18:46.708Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
