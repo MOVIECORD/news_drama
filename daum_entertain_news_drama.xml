@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-10T08:15:53.617Z</updated>
+    <updated>2022-05-10T09:12:54.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['장미맨션' 이미도, 김도윤과 무슨 관계.."작품 내내 묘한 분위기"]]></title>
+        <id>https://entertain.v.daum.net/v/20220510175014259</id>
+        <link href="https://entertain.v.daum.net/v/20220510175014259"/>
+        <updated>2022-05-10T09:12:46.234Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제주 아방' 최영준, 흥행작마다 다 있네..'안나라수마나라'서도 열연]]></title>
+        <id>https://entertain.v.daum.net/v/20220510174304093</id>
+        <link href="https://entertain.v.daum.net/v/20220510174304093"/>
+        <updated>2022-05-10T09:12:46.234Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이러다 얘 죽는거 아냐?"..'소년비행2' 원지안x윤찬영 몰고 올 파란]]></title>
+        <id>https://entertain.v.daum.net/v/20220510173456865</id>
+        <link href="https://entertain.v.daum.net/v/20220510173456865"/>
+        <updated>2022-05-10T09:12:46.234Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준VS박지연, 팽팽한 신경전..구중궁궐로 들어선 강한나]]></title>
         <id>https://entertain.v.daum.net/v/20220510170718900</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220510152947147"/>
         <updated>2022-05-10T07:11:51.872Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엔딩 기가막혀"..임지연X윤균상 '장미맨션', 무더위 날릴 '현실 밀착' 스릴러]]></title>
-        <id>https://entertain.v.daum.net/v/20220510152932135</id>
-        <link href="https://entertain.v.daum.net/v/20220510152932135"/>
-        <updated>2022-05-10T07:11:51.873Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생활밀착형 스릴러"..'장미맨션' 임지연·윤균상이 인정한 '엔딩맛집']]></title>
-        <id>https://entertain.v.daum.net/v/20220510152249848</id>
-        <link href="https://entertain.v.daum.net/v/20220510152249848"/>
-        <updated>2022-05-10T07:11:51.875Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생활밀착 스릴러"..윤균상X임지연 '장미맨션'이 전달할 현실 공포]]></title>
-        <id>https://entertain.v.daum.net/v/20220510151802576</id>
-        <link href="https://entertain.v.daum.net/v/20220510151802576"/>
-        <updated>2022-05-10T07:11:51.876Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
