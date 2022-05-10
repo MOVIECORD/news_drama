@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-10T10:13:25.643Z</updated>
+    <updated>2022-05-10T11:11:37.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 이승연, 서하준에 시치미 "母 윤복인 빨리 찾아야 해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220510191415543</id>
+        <link href="https://entertain.v.daum.net/v/20220510191415543"/>
+        <updated>2022-05-10T11:11:28.922Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 첫방 합격점..임수향, 확신의 로코 여주상]]></title>
         <id>https://entertain.v.daum.net/v/20220510185449900</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220510155004024"/>
         <updated>2022-05-10T07:11:51.871Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성윤 감독 "하일권 작가, 원작 팬의 불만 커버해주겠다더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220510154902991</id>
-        <link href="https://entertain.v.daum.net/v/20220510154902991"/>
-        <updated>2022-05-10T07:11:51.871Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
