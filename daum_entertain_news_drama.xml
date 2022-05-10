@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-10T15:12:51.761Z</updated>
+    <updated>2022-05-10T16:18:26.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤계상 "오감능력자 된다면? 일상 잘 관찰하고파"]]></title>
+        <id>https://entertain.v.daum.net/v/20220511010007795</id>
+        <link href="https://entertain.v.daum.net/v/20220511010007795"/>
+        <updated>2022-05-10T16:18:18.139Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아이 낳겠다" 임수향.. 의료사고로 가진 '성훈 子' 출산 결심]]></title>
+        <id>https://entertain.v.daum.net/v/20220511003017697</id>
+        <link href="https://entertain.v.daum.net/v/20220511003017697"/>
+        <updated>2022-05-10T16:18:18.140Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 임수향, 의료사고로 임신한 성훈의 아이 낳기로 결심..남친까지 설득]]></title>
         <id>https://entertain.v.daum.net/v/20220510234107263</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220510203000488"/>
         <updated>2022-05-10T12:24:03.124Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의꽈배기' 장세현, 자신 의심하는 김진엽에 "어디서 날 엮으려고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220510202400356</id>
-        <link href="https://entertain.v.daum.net/v/20220510202400356"/>
-        <updated>2022-05-10T12:24:03.124Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장세현, 김진엽 걱정하는 손성윤에 코웃음.."거머리처럼 괴롭히면서 어디서 걱정이야?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220510202202308</id>
-        <link href="https://entertain.v.daum.net/v/20220510202202308"/>
-        <updated>2022-05-10T12:24:03.125Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
