@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-10T21:12:25.716Z</updated>
+    <updated>2022-05-10T22:11:58.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이휘향, 명동 큰손 됐다]]></title>
+        <id>https://entertain.v.daum.net/v/20220511070011284</id>
+        <link href="https://entertain.v.daum.net/v/20220511070011284"/>
+        <updated>2022-05-10T22:11:50.506Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['장미맨션' 임지연 "데뷔 11년 만에 첫 장르물 도전"]]></title>
+        <id>https://entertain.v.daum.net/v/20220511065712227</id>
+        <link href="https://entertain.v.daum.net/v/20220511065712227"/>
+        <updated>2022-05-10T22:11:50.510Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원지안X윤찬영 "진짜 죽는 거 아니야?" 절박한 티저 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220511060027625</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220510221759627"/>
         <updated>2022-05-10T13:42:08.231Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 강한나, 이준 위협 장혁에 머리 숙여.."은혜 베푸십시오"]]></title>
-        <id>https://entertain.v.daum.net/v/20220510215752350</id>
-        <link href="https://entertain.v.daum.net/v/20220510215752350"/>
-        <updated>2022-05-10T13:42:08.232Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경규, 딸 이예림 가장 예뻤을 때 질문에 9kg 증량 언급 "지독하다고 느꼈다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220510215106229</id>
-        <link href="https://entertain.v.daum.net/v/20220510215106229"/>
-        <updated>2022-05-10T13:42:08.235Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
