@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-10T09:12:54.524Z</updated>
+    <updated>2022-05-10T10:13:25.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 첫방 합격점..임수향, 확신의 로코 여주상]]></title>
+        <id>https://entertain.v.daum.net/v/20220510185449900</id>
+        <link href="https://entertain.v.daum.net/v/20220510185449900"/>
+        <updated>2022-05-10T10:13:17.252Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["실제로 손 밟혀 자국 남아"..임지연, 화 부른 장면 뭐길래]]></title>
+        <id>https://entertain.v.daum.net/v/20220510185002748</id>
+        <link href="https://entertain.v.daum.net/v/20220510185002748"/>
+        <updated>2022-05-10T10:13:17.253Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['장미맨션' 이미도, 김도윤과 무슨 관계.."작품 내내 묘한 분위기"]]></title>
         <id>https://entertain.v.daum.net/v/20220510175014259</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220510154902991"/>
         <updated>2022-05-10T07:11:51.871Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생활밀착형 스릴러"..'장미맨션' 임지연X윤균상, 아파트서 그려낸 현실적 공포]]></title>
-        <id>https://entertain.v.daum.net/v/20220510153823528</id>
-        <link href="https://entertain.v.daum.net/v/20220510153823528"/>
-        <updated>2022-05-10T07:11:51.871Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최영준, '우블스'·'안나라수마나라' 흥행작에 다 있네]]></title>
-        <id>https://entertain.v.daum.net/v/20220510152947147</id>
-        <link href="https://entertain.v.daum.net/v/20220510152947147"/>
-        <updated>2022-05-10T07:11:51.872Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
