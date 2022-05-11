@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-11T20:13:42.738Z</updated>
+    <updated>2022-05-11T21:11:05.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결사곡 3'로 안방 여심 사로잡은 부배, "시즌 4 열쇠는 작가님만 아세요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220512060004116</id>
+        <link href="https://entertain.v.daum.net/v/20220512060004116"/>
+        <updated>2022-05-11T21:10:56.735Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그린마더스클럽' 이요원, 죽은 김규리 진심 알고 '오열']]></title>
         <id>https://entertain.v.daum.net/v/20220511235132262</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220511175147738</id>
         <link href="https://entertain.v.daum.net/v/20220511175147738"/>
         <updated>2022-05-11T09:12:12.571Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너가속' 박주현X채종협, 바다만큼 아름다운 투샷..비주얼 쌍박이들]]></title>
-        <id>https://entertain.v.daum.net/v/20220511162707556</id>
-        <link href="https://entertain.v.daum.net/v/20220511162707556"/>
-        <updated>2022-05-11T08:16:46.372Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
