@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-12T15:12:54.489Z</updated>
+    <updated>2022-05-12T16:18:00.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 이요원X추자현 화해..죽은 김규리 재등장]]></title>
+        <id>https://entertain.v.daum.net/v/20220513011008823</id>
+        <link href="https://entertain.v.daum.net/v/20220513011008823"/>
+        <updated>2022-05-12T16:17:50.489Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['살인자의쇼핑목록' 범인 꼬리잡기..안세빈 "이광수 범인 아니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220513004805667</id>
+        <link href="https://entertain.v.daum.net/v/20220513004805667"/>
+        <updated>2022-05-12T16:17:50.490Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그린마더스클럽' 변춘희, 나현우에 불법 약물 유통 협박당했다]]></title>
         <id>https://entertain.v.daum.net/v/20220513001031411</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220512203925235"/>
         <updated>2022-05-12T12:22:36.623Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 강별, 윤복인 사건 진실 알았다..박예린에 간기증 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220512203553151</id>
-        <link href="https://entertain.v.daum.net/v/20220512203553151"/>
-        <updated>2022-05-12T12:22:36.624Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 꽈배기' 장세현, 다 잃고 자수결심.. 박철호 기습에 경악]]></title>
-        <id>https://entertain.v.daum.net/v/20220512203130073</id>
-        <link href="https://entertain.v.daum.net/v/20220512203130073"/>
-        <updated>2022-05-12T12:22:36.625Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
