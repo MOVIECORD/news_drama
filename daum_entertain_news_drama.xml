@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-12T12:22:44.585Z</updated>
+    <updated>2022-05-12T13:39:43.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 갑작스런 사건에 이요원·추자현 발 동동]]></title>
+        <id>https://entertain.v.daum.net/v/20220512223301281</id>
+        <link href="https://entertain.v.daum.net/v/20220512223301281"/>
+        <updated>2022-05-12T13:39:34.603Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준, 뜻밖의 '웃참' 챌린지..'붉은 단심' 3·4회 비하인드 메이킹 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220512213753332</id>
+        <link href="https://entertain.v.daum.net/v/20220512213753332"/>
+        <updated>2022-05-12T13:39:34.604Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DJ DOC 정재용, 결혼 4년 만에 이혼..양육권은 아내가]]></title>
         <id>https://entertain.v.daum.net/v/20220512205541552</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220512172711256"/>
         <updated>2022-05-12T09:13:28.554Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장미맨션' D-1, 서스펜스 극대화할 임지연 윤균상 연기 시너지]]></title>
-        <id>https://entertain.v.daum.net/v/20220512170749355</id>
-        <link href="https://entertain.v.daum.net/v/20220512170749355"/>
-        <updated>2022-05-12T08:16:12.677Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리는 오늘부터' 2049 전체 시청률 1위! 취향저격 드라마 탄생]]></title>
-        <id>https://entertain.v.daum.net/v/20220512165626906</id>
-        <link href="https://entertain.v.daum.net/v/20220512165626906"/>
-        <updated>2022-05-12T08:16:12.681Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
