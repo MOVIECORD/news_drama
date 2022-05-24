@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-24T02:48:04.097Z</updated>
+    <updated>2022-05-24T03:20:10.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동욱X진기주, '어쩌다 마주친, 그대' 주인공 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20220524120430013</id>
+        <link href="https://entertain.v.daum.net/v/20220524120430013"/>
+        <updated>2022-05-24T03:19:59.860Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친, 그대' 김동욱X진기주 캐스팅 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20220524115016396</id>
+        <link href="https://entertain.v.daum.net/v/20220524115016396"/>
+        <updated>2022-05-24T03:19:59.860Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소민 "작품 선택 이유, 염정아·김재화와 함께 할 수 있다는 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220524113402632</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220524103815330"/>
         <updated>2022-05-24T02:47:56.237Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 측 "인물들 관계 점점 더 첨예해진다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220524103554206</id>
-        <link href="https://entertain.v.daum.net/v/20220524103554206"/>
-        <updated>2022-05-24T02:47:56.238Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류현경, '치얼업' 출연 확정..대학교 학생처 차장 役]]></title>
-        <id>https://entertain.v.daum.net/v/20220524103459172</id>
-        <link href="https://entertain.v.daum.net/v/20220524103459172"/>
-        <updated>2022-05-24T02:47:56.239Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
