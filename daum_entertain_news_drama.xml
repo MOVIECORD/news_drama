@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-25T03:48:37.786Z</updated>
+    <updated>2022-05-25T04:24:38.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채종협, 무서운 속도로 성장..앞으로가 기대되는 배우]]></title>
+        <id>https://entertain.v.daum.net/v/20220525131339275</id>
+        <link href="https://entertain.v.daum.net/v/20220525131339275"/>
+        <updated>2022-05-25T04:24:29.815Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은단심' 첫 합방에 버림받은 최리, ♥이준 향한 짝사랑도 짠내 폭발]]></title>
         <id>https://entertain.v.daum.net/v/20220525122819468</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220525112617301"/>
         <updated>2022-05-25T02:59:06.145Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘X이유영 '인사이더' 강렬 포스터..카리스마 격돌 '기대 UP']]></title>
-        <id>https://entertain.v.daum.net/v/20220525111157585</id>
-        <link href="https://entertain.v.daum.net/v/20220525111157585"/>
-        <updated>2022-05-25T02:59:06.148Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
