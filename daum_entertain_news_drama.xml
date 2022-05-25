@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-25T12:24:21.911Z</updated>
+    <updated>2022-05-25T13:35:42.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채종협X김무준, 사랑에 마음 아파..티격태격도 안 해]]></title>
+        <id>https://entertain.v.daum.net/v/20220525213512726</id>
+        <link href="https://entertain.v.daum.net/v/20220525213512726"/>
+        <updated>2022-05-25T13:35:32.333Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이더' 강하늘-이유영-허성태, 서로 다른 목적의 플레이어]]></title>
+        <id>https://entertain.v.daum.net/v/20220525212729583</id>
+        <link href="https://entertain.v.daum.net/v/20220525212729583"/>
+        <updated>2022-05-25T13:35:32.335Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차민지, 양병열과 다정한 남상지에 질투 활활.."강차열씨랑 사귀어요?"]]></title>
         <id>https://entertain.v.daum.net/v/20220525205902000</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220525175002989"/>
         <updated>2022-05-25T09:12:20.466Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여진구, 13년 전 만났던 문가영 첫인상은?..벌써 난리난 '링크' 투샷]]></title>
-        <id>https://entertain.v.daum.net/v/20220525172844380</id>
-        <link href="https://entertain.v.daum.net/v/20220525172844380"/>
-        <updated>2022-05-25T09:12:20.467Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시멘틱 에러' 그 다음 BL의 연타석 홈런 '수업 중입니다']]></title>
-        <id>https://entertain.v.daum.net/v/20220525172206186</id>
-        <link href="https://entertain.v.daum.net/v/20220525172206186"/>
-        <updated>2022-05-25T09:12:20.467Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
