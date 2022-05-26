@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-26T08:17:02.391Z</updated>
+    <updated>2022-05-26T09:13:25.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오TV '결혼백서', 이진욱이연희 "프러포즈 씬, 몽글몽글 설레는 장면"]]></title>
+        <id>https://entertain.v.daum.net/v/20220526175114773</id>
+        <link href="https://entertain.v.daum.net/v/20220526175114773"/>
+        <updated>2022-05-26T09:13:16.221Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 강한나, 만나는 사람마다 쿵짝..케미 제조기]]></title>
+        <id>https://entertain.v.daum.net/v/20220526172644858</id>
+        <link href="https://entertain.v.daum.net/v/20220526172644858"/>
+        <updated>2022-05-26T09:13:16.222Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이요원→추자현, 다사다난 '상위동' 엄마들..작별 인사]]></title>
         <id>https://entertain.v.daum.net/v/20220526165002285</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220526153334936"/>
         <updated>2022-05-26T07:11:52.731Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['로맨스 염세주의자' 황승언 '결혼백서' 몰입도 높인 생활밀착형 연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220526152705630</id>
-        <link href="https://entertain.v.daum.net/v/20220526152705630"/>
-        <updated>2022-05-26T07:11:52.732Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원, 김지영-김민서와 삼각관계 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220526150840592</id>
-        <link href="https://entertain.v.daum.net/v/20220526150840592"/>
-        <updated>2022-05-26T06:15:40.659Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
