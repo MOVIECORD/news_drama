@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-26T20:14:18.932Z</updated>
+    <updated>2022-05-26T21:12:13.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그린마더스클럽' 이요원 "고구마 캐릭터? 답답 NO 지극히 현실적"]]></title>
+        <id>https://entertain.v.daum.net/v/20220527060010926</id>
+        <link href="https://entertain.v.daum.net/v/20220527060010926"/>
+        <updated>2022-05-26T21:12:04.435Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안보현과 이별' 김고은, 후유증 심한가? 세포까지 시무룩]]></title>
         <id>https://entertain.v.daum.net/v/20220527030013585</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220526204509990"/>
         <updated>2022-05-26T12:22:31.734Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 이중문X연민지, 아찔한 스킨십.. 차예련 '혼란']]></title>
-        <id>https://entertain.v.daum.net/v/20220526204011912</id>
-        <link href="https://entertain.v.daum.net/v/20220526204011912"/>
-        <updated>2022-05-26T12:22:31.734Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
