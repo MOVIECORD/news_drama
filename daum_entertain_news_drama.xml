@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-26T17:20:09.460Z</updated>
+    <updated>2022-05-26T18:16:03.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['안보현과 이별' 김고은, 후유증 심한가? 세포까지 시무룩]]></title>
+        <id>https://entertain.v.daum.net/v/20220527030013585</id>
+        <link href="https://entertain.v.daum.net/v/20220527030013585"/>
+        <updated>2022-05-26T18:15:54.243Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['21kg 감량 전' 최무성 살벌한 카리스마]]></title>
         <id>https://entertain.v.daum.net/v/20220527010110177</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220526204011912"/>
         <updated>2022-05-26T12:22:31.734Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 나영희와의 갈등에 이중문에게 하소연.."결혼하지 말 걸 그랬어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220526203101735</id>
-        <link href="https://entertain.v.daum.net/v/20220526203101735"/>
-        <updated>2022-05-26T12:22:31.741Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
