@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-27T14:11:29.282Z</updated>
+    <updated>2022-05-27T15:12:53.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여진구♥문가영 연기 재회→로맨스 호흡 주목]]></title>
+        <id>https://entertain.v.daum.net/v/20220528000116181</id>
+        <link href="https://entertain.v.daum.net/v/20220528000116181"/>
+        <updated>2022-05-27T15:12:43.776Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어겐마' 이준기, 이연두에 "이경영 손 잡으면 교도소 간다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220527231259708</id>
+        <link href="https://entertain.v.daum.net/v/20220527231259708"/>
+        <updated>2022-05-27T15:12:43.776Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어겐마' 차주영·이경영 인연 드러났다..김영훈, 광기어린 충성]]></title>
         <id>https://entertain.v.daum.net/v/20220527223909427</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220527170324572"/>
         <updated>2022-05-27T09:13:37.433Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 드라마ㅣ안방극장에 쏟아지는 대작들①]]></title>
-        <id>https://entertain.v.daum.net/v/20220527170201516</id>
-        <link href="https://entertain.v.daum.net/v/20220527170201516"/>
-        <updated>2022-05-27T09:13:37.433Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마' 이재우 "촬영 때마다 기분좋게 맞이해준 이준기 감사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220527165920414</id>
-        <link href="https://entertain.v.daum.net/v/20220527165920414"/>
-        <updated>2022-05-27T09:13:37.433Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
