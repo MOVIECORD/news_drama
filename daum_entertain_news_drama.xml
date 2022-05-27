@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-27T12:23:41.115Z</updated>
+    <updated>2022-05-27T13:33:54.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽, 날 선 검사 카리스마..'별똥별' 특별출연]]></title>
+        <id>https://entertain.v.daum.net/v/20220527222511288</id>
+        <link href="https://entertain.v.daum.net/v/20220527222511288"/>
+        <updated>2022-05-27T13:33:44.755Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차민지, 남상지의 향수 선물X카드 버렸다..엇갈린 사각관계 시작되나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220527212608181</id>
+        <link href="https://entertain.v.daum.net/v/20220527212608181"/>
+        <updated>2022-05-27T13:33:44.760Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['별똥별' 이상엽, 훈남 변호사로 깜짝 등장..이정신과 호흡]]></title>
         <id>https://entertain.v.daum.net/v/20220527205241557</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220527165431250"/>
         <updated>2022-05-27T09:13:37.434Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그린마더스클럽' 임수형 "건우 욕 안 먹으면 내 연기에 문제 있는 거라 생각"]]></title>
-        <id>https://entertain.v.daum.net/v/20220527164443979</id>
-        <link href="https://entertain.v.daum.net/v/20220527164443979"/>
-        <updated>2022-05-27T09:13:37.434Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그린마더스클럽' 임수형 "연기 정말 쉽지 않구나 다시 한번 느껴"]]></title>
-        <id>https://entertain.v.daum.net/v/20220527163421663</id>
-        <link href="https://entertain.v.daum.net/v/20220527163421663"/>
-        <updated>2022-05-27T09:13:37.435Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
