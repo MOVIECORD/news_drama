@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-27T10:14:55.054Z</updated>
+    <updated>2022-05-27T11:13:29.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 강별, 윤복인 교통사고 증거 들고 이승연 협박 "서하준에 넘겨?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220527193529263</id>
+        <link href="https://entertain.v.daum.net/v/20220527193529263"/>
+        <updated>2022-05-27T11:13:18.857Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의집' 서하준, 정헌 놓고 협박 "강별과 결혼 허락해달라"]]></title>
         <id>https://entertain.v.daum.net/v/20220527191325866</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220527152811262"/>
         <updated>2022-05-27T07:12:04.252Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 로켓' 김지훈X문강혁 "애착 가는 작품..값진 경험 감사해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220527144437733</id>
-        <link href="https://entertain.v.daum.net/v/20220527144437733"/>
-        <updated>2022-05-27T06:16:13.292Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
