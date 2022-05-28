@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-28T14:11:41.563Z</updated>
+    <updated>2022-05-28T15:12:42.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신민아, 이병헌에 "가끔 오빠 그리워 해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220529001003805</id>
+        <link href="https://entertain.v.daum.net/v/20220529001003805"/>
+        <updated>2022-05-28T15:12:32.208Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해방일지' 김지원·손석구 재회..나란히 누워 하룻밤]]></title>
+        <id>https://entertain.v.daum.net/v/20220528232715529</id>
+        <link href="https://entertain.v.daum.net/v/20220528232715529"/>
+        <updated>2022-05-28T15:12:32.220Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민, 과거사 고백 "20년 전 지하철에 언니 버리려고" 오열]]></title>
         <id>https://entertain.v.daum.net/v/20220528231004432</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220528213856686</id>
         <link href="https://entertain.v.daum.net/v/20220528213856686"/>
         <updated>2022-05-28T13:23:34.606Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, ♥배다빈에 달콤 세레나데 "내가 갈게"]]></title>
-        <id>https://entertain.v.daum.net/v/20220528213330615</id>
-        <link href="https://entertain.v.daum.net/v/20220528213330615"/>
-        <updated>2022-05-28T13:23:34.608Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이제 너라고 할게" 윤시윤, 주춤하는 배다빈에 직진 '심쿵']]></title>
-        <id>https://entertain.v.daum.net/v/20220528203633953</id>
-        <link href="https://entertain.v.daum.net/v/20220528203633953"/>
-        <updated>2022-05-28T12:21:25.500Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
