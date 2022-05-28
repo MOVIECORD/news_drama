@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-28T08:16:23.957Z</updated>
+    <updated>2022-05-28T09:11:47.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진기주, 러블리 매력 가득 만찢녀 비주얼 눈길]]></title>
+        <id>https://entertain.v.daum.net/v/20220528172258289</id>
+        <link href="https://entertain.v.daum.net/v/20220528172258289"/>
+        <updated>2022-05-28T09:11:37.889Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지원·손석구, 재회한 '추앙커플'..이젠 진짜 사랑할 시간]]></title>
         <id>https://entertain.v.daum.net/v/20220528171038162</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220528133003704"/>
         <updated>2022-05-28T05:12:11.964Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준기, 검사복 벗고 정치판 입성..이경영 몰락시킬까]]></title>
-        <id>https://entertain.v.daum.net/v/20220528132848692</id>
-        <link href="https://entertain.v.daum.net/v/20220528132848692"/>
-        <updated>2022-05-28T05:12:11.965Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
