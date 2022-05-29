@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-29T05:16:18.595Z</updated>
+    <updated>2022-05-29T06:14:58.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오민석X신동미 이번엔 진짜 키스? 핑크빛 분위기 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220529144402094</id>
+        <link href="https://entertain.v.daum.net/v/20220529144402094"/>
+        <updated>2022-05-29T06:14:47.655Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["벌은 조금만 제발"..'나의 해방일지' 박해영 작가님 해피엔딩 제발]]></title>
+        <id>https://entertain.v.daum.net/v/20220529144356091</id>
+        <link href="https://entertain.v.daum.net/v/20220529144356091"/>
+        <updated>2022-05-29T06:14:47.655Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진기주, 박해진과 애틋한 서사..전생도 넘사벽 러블리]]></title>
         <id>https://entertain.v.daum.net/v/20220529140313048</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220529105700994"/>
         <updated>2022-05-29T03:07:20.532Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["레인보우 중압감 심해"..'어겐마' 김재경 밝힌 #롤모델 이준기 #조달환 연기레슨]]></title>
-        <id>https://entertain.v.daum.net/v/20220529104731873</id>
-        <link href="https://entertain.v.daum.net/v/20220529104731873"/>
-        <updated>2022-05-29T03:07:20.534Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원X손석구가 삶을 견뎌내는 법]]></title>
-        <id>https://entertain.v.daum.net/v/20220529102933559</id>
-        <link href="https://entertain.v.daum.net/v/20220529102933559"/>
-        <updated>2022-05-29T03:07:20.535Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
