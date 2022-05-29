@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-29T19:10:22.861Z</updated>
+    <updated>2022-05-29T20:13:41.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민기, 사업 망한 이유..전혜진 시한부 전 남친 임종 지켰다]]></title>
+        <id>https://entertain.v.daum.net/v/20220530051053478</id>
+        <link href="https://entertain.v.daum.net/v/20220530051053478"/>
+        <updated>2022-05-29T20:13:31.021Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["마음에 사랑밖에" 손석구, 금주 암시 김지원과 해피엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220530050843467</id>
+        <link href="https://entertain.v.daum.net/v/20220530050843467"/>
+        <updated>2022-05-29T20:13:31.025Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우블스' 이병헌, 푸릉마을 귀염둥이에 '건치 미소' 만개]]></title>
+        <id>https://entertain.v.daum.net/v/20220530050602377</id>
+        <link href="https://entertain.v.daum.net/v/20220530050602377"/>
+        <updated>2022-05-29T20:13:31.027Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 아이를 낳아줘" 김우빈, 한지민과 결혼하나..상견례 언급까지]]></title>
         <id>https://entertain.v.daum.net/v/20220530012003159</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220529222853010"/>
         <updated>2022-05-29T14:11:20.661Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 오민석♥신동미, 드디어 첫 키스 ]종합]]]></title>
-        <id>https://entertain.v.daum.net/v/20220529221015843</id>
-        <link href="https://entertain.v.daum.net/v/20220529221015843"/>
-        <updated>2022-05-29T13:24:07.522Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아들 혼수상태' 모르는 고두심, '손녀' 기소유 맡게 됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20220529221010842</id>
-        <link href="https://entertain.v.daum.net/v/20220529221010842"/>
-        <updated>2022-05-29T13:24:07.525Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리들의 블루스' 김혜자, 이정은 앞에서 각혈.. 이병헌 사진 태웠다]]></title>
-        <id>https://entertain.v.daum.net/v/20220529220330791</id>
-        <link href="https://entertain.v.daum.net/v/20220529220330791"/>
-        <updated>2022-05-29T13:24:07.525Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
