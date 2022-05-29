@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-29T04:26:31.385Z</updated>
+    <updated>2022-05-29T05:16:18.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진기주, 박해진과 애틋한 서사..전생도 넘사벽 러블리]]></title>
+        <id>https://entertain.v.daum.net/v/20220529140313048</id>
+        <link href="https://entertain.v.daum.net/v/20220529140313048"/>
+        <updated>2022-05-29T05:16:07.304Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 김우빈, 정준으로 전한 다정한 공감]]></title>
+        <id>https://entertain.v.daum.net/v/20220529135546778</id>
+        <link href="https://entertain.v.daum.net/v/20220529135546778"/>
+        <updated>2022-05-29T05:16:07.311Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지민의 물질과 정은혜의 그림이 유난히 서글픈 까닭]]></title>
+        <id>https://entertain.v.daum.net/v/20220529134026520</id>
+        <link href="https://entertain.v.daum.net/v/20220529134026520"/>
+        <updated>2022-05-29T05:16:07.314Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 해방일지' 종영 D-DAY, 이엘 이기우 결혼 골인할까]]></title>
         <id>https://entertain.v.daum.net/v/20220529130414050</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220529102933559"/>
         <updated>2022-05-29T03:07:20.535Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면', 이현진 나영희 차예련 등 첫 촬영 비하인드 메이킹 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220529102615479</id>
-        <link href="https://entertain.v.daum.net/v/20220529102615479"/>
-        <updated>2022-05-29T03:07:20.537Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준·강한나·최리, 불붙은 삼각관계]]></title>
-        <id>https://entertain.v.daum.net/v/20220529101338230</id>
-        <link href="https://entertain.v.daum.net/v/20220529101338230"/>
-        <updated>2022-05-29T03:07:20.538Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별똥별' 김영대,숨겨진 가정사 공개할까..딜레마 빠진 이성경]]></title>
-        <id>https://entertain.v.daum.net/v/20220529101203201</id>
-        <link href="https://entertain.v.daum.net/v/20220529101203201"/>
-        <updated>2022-05-29T03:07:20.554Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
