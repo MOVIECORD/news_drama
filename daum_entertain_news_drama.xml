@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-30T08:17:16.711Z</updated>
+    <updated>2022-05-30T09:15:03.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신동미, 인생캐릭터 만났다]]></title>
+        <id>https://entertain.v.daum.net/v/20220530175818938</id>
+        <link href="https://entertain.v.daum.net/v/20220530175818938"/>
+        <updated>2022-05-30T09:14:52.510Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 제작진 "소지섭·신성록·임수향, 1순위 드림캐스팅 실현"]]></title>
+        <id>https://entertain.v.daum.net/v/20220530175745918</id>
+        <link href="https://entertain.v.daum.net/v/20220530175745918"/>
+        <updated>2022-05-30T09:14:52.510Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의해방일지' 양준명 종영소감 .."원래 이민기 팬..함께 연기해 행복했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220530172259738</id>
+        <link href="https://entertain.v.daum.net/v/20220530172259738"/>
+        <updated>2022-05-30T09:14:52.510Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 별에게2' 달달한 30초 티저영상 뜨거운 반응.. 설렘 가득한 현장]]></title>
         <id>https://entertain.v.daum.net/v/20220530170812284</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220530154900246"/>
         <updated>2022-05-30T07:14:43.246Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향♥신동욱, 이별 통보→재회..애틋+먹먹 눈빛]]></title>
-        <id>https://entertain.v.daum.net/v/20220530154116841</id>
-        <link href="https://entertain.v.daum.net/v/20220530154116841"/>
-        <updated>2022-05-30T07:14:43.248Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀는 살아있다', 주민 폭행 논란 "현장 관리 철저히 할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220530152819098</id>
-        <link href="https://entertain.v.daum.net/v/20220530152819098"/>
-        <updated>2022-05-30T07:14:43.249Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원♥손석구→이민기·이엘 열연만 빛났다]]></title>
-        <id>https://entertain.v.daum.net/v/20220530152032619</id>
-        <link href="https://entertain.v.daum.net/v/20220530152032619"/>
-        <updated>2022-05-30T07:14:43.251Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
