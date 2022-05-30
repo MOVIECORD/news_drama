@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-30T12:21:12.150Z</updated>
+    <updated>2022-05-30T13:37:57.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 이준, 강한나에 "나의 중전, 지어미 되어달라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220530215323087</id>
+        <link href="https://entertain.v.daum.net/v/20220530215323087"/>
+        <updated>2022-05-30T13:37:46.651Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 이준, ♥강한나에 키스 "장혁 질녀 아냐.. 죽으려 하지 마"]]></title>
+        <id>https://entertain.v.daum.net/v/20220530214133973</id>
+        <link href="https://entertain.v.daum.net/v/20220530214133973"/>
+        <updated>2022-05-30T13:37:46.663Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["소란 죄송", '마녀는 살아있다' 주민과 마찰 논란]]></title>
         <id>https://entertain.v.daum.net/v/20220530205504459</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220530164656495"/>
         <updated>2022-05-30T08:17:05.816Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰 조사까지..임영웅 0점 '뮤뱅' 논란 쟁점은]]></title>
-        <id>https://entertain.v.daum.net/v/20220530164232369</id>
-        <link href="https://entertain.v.daum.net/v/20220530164232369"/>
-        <updated>2022-05-30T08:17:05.816Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이엘 "이민기·김지원, 참 맑아..삼남매는 잘 살고 있을 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220530163816197</id>
-        <link href="https://entertain.v.daum.net/v/20220530163816197"/>
-        <updated>2022-05-30T08:17:05.816Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
