@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-30T15:14:22.050Z</updated>
+    <updated>2022-05-30T16:16:47.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 신동욱 임수향 웃으며 보내줬다 "앞으로 인사 정도는 하자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220531002453505</id>
+        <link href="https://entertain.v.daum.net/v/20220531002453505"/>
+        <updated>2022-05-30T16:16:38.937Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕빛나·백은혜 열연 빛나는 B컷 대방출]]></title>
         <id>https://entertain.v.daum.net/v/20220531000511264</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220530191729161"/>
         <updated>2022-05-30T11:11:08.869Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동미, 인생캐릭터 만났다]]></title>
-        <id>https://entertain.v.daum.net/v/20220530175818938</id>
-        <link href="https://entertain.v.daum.net/v/20220530175818938"/>
-        <updated>2022-05-30T09:14:52.510Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
