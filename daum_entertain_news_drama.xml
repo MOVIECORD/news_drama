@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-31T20:14:18.119Z</updated>
+    <updated>2022-05-31T21:12:12.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['품절남' 된 소지섭, 이준호와 바통터치할까..독해진 서현진과 변호사로 정면승부]]></title>
+        <id>https://entertain.v.daum.net/v/20220601060801630</id>
+        <link href="https://entertain.v.daum.net/v/20220601060801630"/>
+        <updated>2022-05-31T21:12:01.788Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제2의 '헤이 마마' 탄생?..춤 바람 일으킬 신작 줄줄이]]></title>
+        <id>https://entertain.v.daum.net/v/20220601054511397</id>
+        <link href="https://entertain.v.daum.net/v/20220601054511397"/>
+        <updated>2022-05-31T21:12:01.791Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유리·이민영·윤소이, 남편 박살 서막 포스터]]></title>
         <id>https://entertain.v.daum.net/v/20220531235820622</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220531212202866"/>
         <updated>2022-05-31T12:22:59.125Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년비행2' 공개 D-DAY, 5인 5색 캐릭터별 성장기 예습]]></title>
-        <id>https://entertain.v.daum.net/v/20220531212111848</id>
-        <link href="https://entertain.v.daum.net/v/20220531212111848"/>
-        <updated>2022-05-31T12:22:59.125Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 차예련, 바람? 낯선 男와 침실 사진→나영희에 뺨 맞았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220531204135213</id>
-        <link href="https://entertain.v.daum.net/v/20220531204135213"/>
-        <updated>2022-05-31T12:22:59.127Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
