@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-05-31T03:53:36.823Z</updated>
+    <updated>2022-05-31T04:27:38.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불행을 사는 여자' 감독·배우가 본 단막극 계속되는 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220531132223266</id>
+        <link href="https://entertain.v.daum.net/v/20220531132223266"/>
+        <updated>2022-05-31T04:27:28.742Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['키스식스센스' 직장인 200% 공감할 오피스 라이프, 웃긴데 울컥]]></title>
+        <id>https://entertain.v.daum.net/v/20220531125333328</id>
+        <link href="https://entertain.v.daum.net/v/20220531125333328"/>
+        <updated>2022-05-31T04:27:28.744Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소년비행2' 원지안→윤찬영, 5인5색 캐릭터별 성장기 예습]]></title>
         <id>https://entertain.v.daum.net/v/20220531122024813</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220531113503222"/>
         <updated>2022-05-31T03:00:45.441Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불행을 사는 여자' PD "아름다운 워맨스 NO..인간 본성에 대한 이야기"]]></title>
-        <id>https://entertain.v.daum.net/v/20220531113500218</id>
-        <link href="https://entertain.v.daum.net/v/20220531113500218"/>
-        <updated>2022-05-31T03:00:45.443Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강한나, '붉은 단심' 숙의부터 '스타트업' CEO까지..변화무쌍 캐릭터 부자]]></title>
-        <id>https://entertain.v.daum.net/v/20220531113333155</id>
-        <link href="https://entertain.v.daum.net/v/20220531113333155"/>
-        <updated>2022-05-31T03:00:45.445Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
