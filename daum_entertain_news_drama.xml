@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-01T10:16:36.760Z</updated>
+    <updated>2022-06-01T11:11:11.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 나영희, 차예련에 뺨 때리며 "사람 구실 못 하게 한다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220601200252066</id>
+        <link href="https://entertain.v.daum.net/v/20220601200252066"/>
+        <updated>2022-06-01T11:11:02.456Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원지안 "첫 주연작 부담 이겨내고 좋은 에너지로 채운 작품 '소년비행'"]]></title>
+        <id>https://entertain.v.daum.net/v/20220601200118993</id>
+        <link href="https://entertain.v.daum.net/v/20220601200118993"/>
+        <updated>2022-06-01T11:11:02.460Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우블' 고두심 손녀 은기, '갯차' 기은유 동생이었다. 신동아역 남매 눈길]]></title>
         <id>https://entertain.v.daum.net/v/20220601181221846</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220601145648515"/>
         <updated>2022-06-01T06:20:54.686Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이연희, 예비 시어머니와 고부갈등 예고..엄청난 예물에 걱정]]></title>
-        <id>https://entertain.v.daum.net/v/20220601143522058</id>
-        <link href="https://entertain.v.daum.net/v/20220601143522058"/>
-        <updated>2022-06-01T06:20:54.686Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼백서' 이연희, 시댁서 받은 예물에 가격표가? 고부갈등 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220601142121774</id>
-        <link href="https://entertain.v.daum.net/v/20220601142121774"/>
-        <updated>2022-06-01T10:16:26.624Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
