@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-01T09:14:33.526Z</updated>
+    <updated>2022-06-01T10:16:36.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://entertain.v.daum.net/v/20220601180117600"/>
         <updated>2022-06-01T09:14:23.435Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서예지한테 눈을 못 떼는 박병은..삼자대선 유선 '부글부글']]></title>
-        <id>https://entertain.v.daum.net/v/20220601174610321</id>
-        <link href="https://entertain.v.daum.net/v/20220601174610321"/>
-        <updated>2022-06-01T09:14:23.435Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최영준, '우블스'·'왜 오수재인가' 계속되는 러브콜 열일 행보]]></title>
@@ -109,5 +102,12 @@
         <link href="https://entertain.v.daum.net/v/20220601143522058"/>
         <updated>2022-06-01T06:20:54.686Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결혼백서' 이연희, 시댁서 받은 예물에 가격표가? 고부갈등 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220601142121774</id>
+        <link href="https://entertain.v.daum.net/v/20220601142121774"/>
+        <updated>2022-06-01T10:16:26.624Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
