@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-02T19:10:16.357Z</updated>
+    <updated>2022-06-02T20:13:08.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박병은, 서예지 떠올리며 유선과 사랑 나눴다..서예지, 본격 유혹 시작하나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220603050202025</id>
+        <link href="https://entertain.v.daum.net/v/20220603050202025"/>
+        <updated>2022-06-02T20:12:57.282Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스로 시작된 K드라마 열풍..판권 시장도 변화 바람]]></title>
         <id>https://entertain.v.daum.net/v/20220603000210219</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220602200150792"/>
         <updated>2022-06-02T11:11:31.233Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여진구 "걱정+막막..'연기 잘하는구나' 소리 듣고파"]]></title>
-        <id>https://entertain.v.daum.net/v/20220602175012366</id>
-        <link href="https://entertain.v.daum.net/v/20220602175012366"/>
-        <updated>2022-06-02T09:13:05.729Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
