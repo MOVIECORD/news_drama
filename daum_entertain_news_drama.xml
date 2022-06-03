@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-03T20:12:20.420Z</updated>
+    <updated>2022-06-03T21:09:51.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해방일지' 겨우 살린 JTBC '클리닝업'으로 상한가 가나]]></title>
+        <id>https://entertain.v.daum.net/v/20220604060007020</id>
+        <link href="https://entertain.v.daum.net/v/20220604060007020"/>
+        <updated>2022-06-03T21:09:41.227Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이기우 "실제로는 구씨처럼 헐렁하고 투박"]]></title>
+        <id>https://entertain.v.daum.net/v/20220604060002003</id>
+        <link href="https://entertain.v.daum.net/v/20220604060002003"/>
+        <updated>2022-06-03T21:09:41.229Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이스 의사 된 소지섭..4년만 안방 복귀 '닥터로이어' 어땠나]]></title>
         <id>https://entertain.v.daum.net/v/20220604050105701</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220603222508693"/>
         <updated>2022-06-03T13:27:35.921Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 서현진, 피투성이 모습으로 포문 열었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220603221134528</id>
-        <link href="https://entertain.v.daum.net/v/20220603221134528"/>
-        <updated>2022-06-03T13:27:35.921Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준·봉태규, '별똥별' 특별출연..'펜트하우스' 팀의 마라맛 활약]]></title>
-        <id>https://entertain.v.daum.net/v/20220603213720080</id>
-        <link href="https://entertain.v.daum.net/v/20220603213720080"/>
-        <updated>2022-06-03T13:27:35.927Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
