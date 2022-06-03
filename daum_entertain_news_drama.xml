@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-03T13:27:46.559Z</updated>
+    <updated>2022-06-03T14:10:28.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 최영준, 로펌 대표된 서현진에 "원하던 걸 가졌나?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220603224943931</id>
+        <link href="https://entertain.v.daum.net/v/20220603224943931"/>
+        <updated>2022-06-03T14:10:20.039Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 서현진, 하얀 원피스+피투성이 오프닝..스타변호사 활약]]></title>
+        <id>https://entertain.v.daum.net/v/20220603223848823</id>
+        <link href="https://entertain.v.daum.net/v/20220603223848823"/>
+        <updated>2022-06-03T14:10:20.040Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['왜 오수재인가' 서현진, 조영진 도왔다 "90도로 허리 숙여라"]]></title>
         <id>https://entertain.v.daum.net/v/20220603222508693</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220603174732100"/>
         <updated>2022-06-03T09:12:42.842Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키스 식스 센스' 서지혜, 윤계상에 고백 "키스하면 미래를 봐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220603174055972</id>
-        <link href="https://entertain.v.daum.net/v/20220603174055972"/>
-        <updated>2022-06-03T09:12:42.842Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의사+변호사 매력"..'대상 배우' 소지섭 '닥터로이어'로 안방 컴백]]></title>
-        <id>https://entertain.v.daum.net/v/20220603172031403</id>
-        <link href="https://entertain.v.daum.net/v/20220603172031403"/>
-        <updated>2022-06-03T09:12:42.845Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
