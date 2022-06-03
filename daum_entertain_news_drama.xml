@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-03T03:40:49.958Z</updated>
+    <updated>2022-06-03T04:15:07.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['별똥별' 엄기준-봉태규 특별출연, 펜트하우스 빌런 3인방 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20220603131346051</id>
+        <link href="https://entertain.v.daum.net/v/20220603131346051"/>
+        <updated>2022-06-03T04:14:57.442Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이만 벨라니 "박서준, 멋진 사람..그 이상은 스포"]]></title>
+        <id>https://entertain.v.daum.net/v/20220603125004620</id>
+        <link href="https://entertain.v.daum.net/v/20220603125004620"/>
+        <updated>2022-06-03T04:14:57.442Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라 父주호성 "딸 결혼 기쁘고 즐거워..예비사위 훌륭한 청년"]]></title>
         <id>https://entertain.v.daum.net/v/20220603123301391</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220603110128240"/>
         <updated>2022-06-03T02:48:55.163Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜윤 '클리닝 업' 첫회 특별출연 'SKY 캐슬' 염정아와 재회]]></title>
-        <id>https://entertain.v.daum.net/v/20220603105829080</id>
-        <link href="https://entertain.v.daum.net/v/20220603105829080"/>
-        <updated>2022-06-03T02:48:55.163Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성경♥김영대, 불화 감지]]></title>
-        <id>https://entertain.v.daum.net/v/20220603105403904</id>
-        <link href="https://entertain.v.daum.net/v/20220603105403904"/>
-        <updated>2022-06-03T02:48:55.164Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
