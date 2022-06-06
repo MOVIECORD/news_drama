@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-06T15:12:05.352Z</updated>
+    <updated>2022-06-06T16:15:11.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘도' 성훈, "좋은 사람 만들어주는 임수향에 고마워"..임수향 앞에 괴한 침입 '위기']]></title>
+        <id>https://entertain.v.daum.net/v/20220607001500071</id>
+        <link href="https://entertain.v.daum.net/v/20220607001500071"/>
+        <updated>2022-06-06T16:15:01.624Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['링크' 문가영, 스토킹범 살해? 자수 실패→냉장고에 시체 유기]]></title>
         <id>https://entertain.v.daum.net/v/20220607000531942</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220606204450311"/>
         <updated>2022-06-06T12:22:19.052Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 선우은숙 수술 조건으로 이혼에 낙태..나영희 "서준이 외에는 손주로 인정 못해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220606204302287</id>
-        <link href="https://entertain.v.daum.net/v/20220606204302287"/>
-        <updated>2022-06-06T12:22:19.057Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
