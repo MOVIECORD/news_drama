@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-06T07:11:34.224Z</updated>
+    <updated>2022-06-06T08:14:18.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 나영희, '격 맞는' 며느리 연민지와 축배..차예련 어쩌나]]></title>
+        <id>https://entertain.v.daum.net/v/20220606163543280</id>
+        <link href="https://entertain.v.daum.net/v/20220606163543280"/>
+        <updated>2022-06-06T08:14:09.280Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['별똥별' 장희령, 성덕→노력형 톱스타 볼수록 기특한 성장캐]]></title>
+        <id>https://entertain.v.daum.net/v/20220606161809075</id>
+        <link href="https://entertain.v.daum.net/v/20220606161809075"/>
+        <updated>2022-06-06T08:14:09.282Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구씨 가고 염정아 왔다..'스카이캐슬'→'클리닝업' JTBC 연기퀸 컴백]]></title>
         <id>https://entertain.v.daum.net/v/20220606154023530</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220606130051800"/>
         <updated>2022-06-06T04:25:39.520Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민경 "엄마도 여자..걱정 마요, 박윤주 잘 살 거예요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220606130021783</id>
-        <link href="https://entertain.v.daum.net/v/20220606130021783"/>
-        <updated>2022-06-06T04:25:39.531Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 민연홍 감독 "강하늘 없으면 존재할 수 없는 작품"]]></title>
-        <id>https://entertain.v.daum.net/v/20220606122714487</id>
-        <link href="https://entertain.v.daum.net/v/20220606122714487"/>
-        <updated>2022-06-06T03:47:32.921Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
