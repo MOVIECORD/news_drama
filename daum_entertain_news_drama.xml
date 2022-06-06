@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-06T20:11:58.790Z</updated>
+    <updated>2022-06-06T21:10:13.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문가영, 스토커 신재휘와 몸싸움 끝에 우발적 살인..여진구, 살인 사실 알게 되나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220607060214222</id>
+        <link href="https://entertain.v.daum.net/v/20220607060214222"/>
+        <updated>2022-06-06T21:10:03.207Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘도' 성훈, "좋은 사람 만들어주는 임수향에 고마워"..임수향 앞에 괴한 침입 '위기']]></title>
         <id>https://entertain.v.daum.net/v/20220607001500071</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220606204644339"/>
         <updated>2022-06-06T12:22:19.049Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 나영희 낙태 강요에 수술대 올라..3억 거절]]></title>
-        <id>https://entertain.v.daum.net/v/20220606204450311</id>
-        <link href="https://entertain.v.daum.net/v/20220606204450311"/>
-        <updated>2022-06-06T12:22:19.052Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
