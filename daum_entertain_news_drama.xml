@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-07T03:48:20.453Z</updated>
+    <updated>2022-06-07T04:25:36.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국x오연서 '미남당', 스태프 집단 해고.."KBS 낡은 관행 부술 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220607125758302</id>
+        <link href="https://entertain.v.daum.net/v/20220607125758302"/>
+        <updated>2022-06-07T04:25:26.450Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권상우, KBS '커튼콜' 합류..거대 재벌그룹 후계자役]]></title>
         <id>https://entertain.v.daum.net/v/20220607124734085</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220607104405422"/>
         <updated>2022-06-07T02:52:25.415Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3대 모녀' 임수향·홍은희·연운경, 고생 끝 행복 시작?]]></title>
-        <id>https://entertain.v.daum.net/v/20220607103900209</id>
-        <link href="https://entertain.v.daum.net/v/20220607103900209"/>
-        <updated>2022-06-07T02:52:25.415Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
