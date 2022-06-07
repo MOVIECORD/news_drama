@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-07T13:30:57.435Z</updated>
+    <updated>2022-06-07T14:15:23.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈, 신동욱 앞에서 도발 "임수향은 내가 책임진다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220607231145360</id>
+        <link href="https://entertain.v.daum.net/v/20220607231145360"/>
+        <updated>2022-06-07T14:15:12.806Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈, 신동욱에 "임수향 내가 책임져" 선언]]></title>
+        <id>https://entertain.v.daum.net/v/20220607225330224</id>
+        <link href="https://entertain.v.daum.net/v/20220607225330224"/>
+        <updated>2022-06-07T14:15:12.811Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 강한나, 이준 의식회복 들킬까 노심초사]]></title>
+        <id>https://entertain.v.daum.net/v/20220607224028132</id>
+        <link href="https://entertain.v.daum.net/v/20220607224028132"/>
+        <updated>2022-06-07T14:15:12.812Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 장혁, 역심 품은 박지연에 "권력 쉽게 가지지 못할 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220607221250917</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220607184918294"/>
         <updated>2022-06-07T10:12:59.209Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 제작사 "해고 통보 NO"vs노조 "수많은 불법 저질러"]]></title>
-        <id>https://entertain.v.daum.net/v/20220607184717252</id>
-        <link href="https://entertain.v.daum.net/v/20220607184717252"/>
-        <updated>2022-06-07T10:12:59.210Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 스태프 측 "제작사, 문제 본질 흐리며 호도" 공식입장 반박]]></title>
-        <id>https://entertain.v.daum.net/v/20220607181523560</id>
-        <link href="https://entertain.v.daum.net/v/20220607181523560"/>
-        <updated>2022-06-07T10:12:59.212Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은단심' 오승훈, 대비 박지연과 손잡았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220607181208491</id>
-        <link href="https://entertain.v.daum.net/v/20220607181208491"/>
-        <updated>2022-06-07T10:12:59.213Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
