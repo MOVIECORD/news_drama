@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-07T21:10:37.291Z</updated>
+    <updated>2022-06-07T22:10:57.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 7.3% 자체 최고 시청률, KBS 사극 또 통했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220608070059650</id>
+        <link href="https://entertain.v.daum.net/v/20220608070059650"/>
+        <updated>2022-06-07T22:10:47.760Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두 집 살림'하는 서인국]]></title>
+        <id>https://entertain.v.daum.net/v/20220608065723547</id>
+        <link href="https://entertain.v.daum.net/v/20220608065723547"/>
+        <updated>2022-06-07T22:10:47.760Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여진구, 스토커와 대치하다 상처난 문가영과 감정공유.."남자친구면 당장 헤어져"]]></title>
         <id>https://entertain.v.daum.net/v/20220608060201957</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220607202730372"/>
         <updated>2022-06-07T12:22:23.748Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정헌, 윤아정 죽음 증거 커프스로 서하준 자극->복수의 칼날 뽑았나?]]></title>
-        <id>https://entertain.v.daum.net/v/20220607202202292</id>
-        <link href="https://entertain.v.daum.net/v/20220607202202292"/>
-        <updated>2022-06-07T12:22:23.749Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 낙태 포기..나영희 몰래 아이 지켰다 "아빠 몫까지 사랑할게"]]></title>
-        <id>https://entertain.v.daum.net/v/20220607201937260</id>
-        <link href="https://entertain.v.daum.net/v/20220607201937260"/>
-        <updated>2022-06-07T12:22:23.749Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
