@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-07T14:15:23.191Z</updated>
+    <updated>2022-06-07T15:11:52.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남미정, 홍지윤 피습에 휠체어서 벌떡.. 3년 장애 가스라이팅 들통]]></title>
+        <id>https://entertain.v.daum.net/v/20220607232620480</id>
+        <link href="https://entertain.v.daum.net/v/20220607232620480"/>
+        <updated>2022-06-07T15:11:43.084Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은단심' 오승훈, 하도권이 심은 첩자였다..이준 '소름엔딩']]></title>
+        <id>https://entertain.v.daum.net/v/20220607232057435</id>
+        <link href="https://entertain.v.daum.net/v/20220607232057435"/>
+        <updated>2022-06-07T15:11:43.085Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 성훈, 신동욱 앞에서 도발 "임수향은 내가 책임진다"]]></title>
         <id>https://entertain.v.daum.net/v/20220607231145360</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220607185716485"/>
         <updated>2022-06-07T10:12:59.205Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김고은=유미 그 자체"..'유미의 세포들2' PD도 놀란 싱크로율]]></title>
-        <id>https://entertain.v.daum.net/v/20220607185016317</id>
-        <link href="https://entertain.v.daum.net/v/20220607185016317"/>
-        <updated>2022-06-07T10:12:59.207Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 일부 스태프 측 "제작사 수많은 불법 저질러, 책임지고 복직시키길 "]]></title>
-        <id>https://entertain.v.daum.net/v/20220607184918294</id>
-        <link href="https://entertain.v.daum.net/v/20220607184918294"/>
-        <updated>2022-06-07T10:12:59.209Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
