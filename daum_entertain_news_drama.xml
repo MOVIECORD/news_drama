@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-08T09:11:41.247Z</updated>
+    <updated>2022-06-08T10:12:50.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김홍파 '늙은형사' 출연확정, 이성민과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220608191027085</id>
+        <link href="https://entertain.v.daum.net/v/20220608191027085"/>
+        <updated>2022-06-08T10:12:41.455Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허성태 "윤병욱 役, 꼽추 설정 있었지만.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220608185003543</id>
+        <link href="https://entertain.v.daum.net/v/20220608185003543"/>
+        <updated>2022-06-08T10:12:41.455Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성훈, 임수향 향한 애정 과시 '직진 사랑꾼' 활약]]></title>
+        <id>https://entertain.v.daum.net/v/20220608182343994</id>
+        <link href="https://entertain.v.daum.net/v/20220608182343994"/>
+        <updated>2022-06-08T10:12:41.455Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태리, 어떤 선택할까?]]></title>
         <id>https://entertain.v.daum.net/v/20220608174042674</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220608160102641"/>
         <updated>2022-06-08T07:11:57.969Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤두준 여친 대기표 뽑아야하는데..정다은 훅 들어온 핑크빛]]></title>
-        <id>https://entertain.v.daum.net/v/20220608155720497</id>
-        <link href="https://entertain.v.daum.net/v/20220608155720497"/>
-        <updated>2022-06-08T07:11:57.970Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구필수는 없다' 윤두준 정다은 숨결 닿을 듯한 밀착, 이상야릇한 관계는]]></title>
-        <id>https://entertain.v.daum.net/v/20220608155029251</id>
-        <link href="https://entertain.v.daum.net/v/20220608155029251"/>
-        <updated>2022-06-08T07:11:57.970Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV조선, 故 송해 추모 특집 영화 '송해 1927' 긴급 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20220608154528044</id>
-        <link href="https://entertain.v.daum.net/v/20220608154528044"/>
-        <updated>2022-06-08T07:11:57.970Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
