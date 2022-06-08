@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-08T03:52:24.853Z</updated>
+    <updated>2022-06-08T04:25:08.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나팔꽃 인생' 송해 선생의 부고에 부쳐]]></title>
+        <id>https://entertain.v.daum.net/v/20220608132431203</id>
+        <link href="https://entertain.v.daum.net/v/20220608132431203"/>
+        <updated>2022-06-08T04:24:59.748Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이브' 이상엽, 서예지 복수 설계 알아채나? 뒷조사 착수]]></title>
+        <id>https://entertain.v.daum.net/v/20220608132200138</id>
+        <link href="https://entertain.v.daum.net/v/20220608132200138"/>
+        <updated>2022-06-08T04:24:59.749Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이서진, 윤여정 매니저에서 승진..총괄이사됐다]]></title>
+        <id>https://entertain.v.daum.net/v/20220608131104915</id>
+        <link href="https://entertain.v.daum.net/v/20220608131104915"/>
+        <updated>2022-06-08T04:24:59.749Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬의생 익순이' 곽선영, 이서진 만난다..'연예인 매니저로 살아남기' 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220608122734903</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220608104841052"/>
         <updated>2022-06-08T02:56:21.932Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상벽 "故 송해, 아버지 같은 분..배울 것 많았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220608104157798</id>
-        <link href="https://entertain.v.daum.net/v/20220608104157798"/>
-        <updated>2022-06-08T02:56:21.932Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수영 "욕 많이 들었지만 이엘♥이기우 더 애틋해져"'나의 해방일지']]></title>
-        <id>https://entertain.v.daum.net/v/20220608104121780</id>
-        <link href="https://entertain.v.daum.net/v/20220608104121780"/>
-        <updated>2022-06-08T02:56:21.932Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이서진→주현영, '연예인 매니저로 살아남기' 캐스팅]]></title>
-        <id>https://entertain.v.daum.net/v/20220608103937713</id>
-        <link href="https://entertain.v.daum.net/v/20220608103937713"/>
-        <updated>2022-06-08T02:56:21.933Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
