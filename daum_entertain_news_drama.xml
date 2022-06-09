@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-09T07:39:36.667Z</updated>
+    <updated>2022-06-09T08:18:55.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이진욱♥이연희, 예비부부 정주행 유발하는 결혼 꿀팁]]></title>
+        <id>https://entertain.v.daum.net/v/20220609164604833</id>
+        <link href="https://entertain.v.daum.net/v/20220609164604833"/>
+        <updated>2022-06-09T08:18:43.925Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이정은x차승원 몰입, 멋지고 감사했다"..'우블' 복 받은 심달기]]></title>
+        <id>https://entertain.v.daum.net/v/20220609164315734</id>
+        <link href="https://entertain.v.daum.net/v/20220609164315734"/>
+        <updated>2022-06-09T08:18:43.927Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사이더' 강하늘과 청불이 만났을 때]]></title>
         <id>https://entertain.v.daum.net/v/20220609162927241</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220609150358471"/>
         <updated>2022-06-09T06:15:02.315Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼백서' 이진욱X이연희 알려준 꿀팁 "오픈할 건 오픈하자"]]></title>
-        <id>https://entertain.v.daum.net/v/20220609144634504</id>
-        <link href="https://entertain.v.daum.net/v/20220609144634504"/>
-        <updated>2022-06-09T06:15:02.316Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼'·'슈룹'·'작은 아씨들'..CJ ENM, 하반기 라인업 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220609144444400</id>
-        <link href="https://entertain.v.daum.net/v/20220609144444400"/>
-        <updated>2022-06-09T06:15:02.324Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
