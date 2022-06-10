@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-10T02:59:38.420Z</updated>
+    <updated>2022-06-10T03:46:46.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["원나잇 해봤어?"..정혜성, 가슴털 수북男과 '파격 동침']]></title>
+        <id>https://entertain.v.daum.net/v/20220610121454603</id>
+        <link href="https://entertain.v.daum.net/v/20220610121454603"/>
+        <updated>2022-06-10T03:46:36.085Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성경♥김영대, 제주 밀월여행 포착..유채꽃밭 데이트]]></title>
+        <id>https://entertain.v.daum.net/v/20220610115939304</id>
+        <link href="https://entertain.v.daum.net/v/20220610115939304"/>
+        <updated>2022-06-10T03:46:36.085Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사이더' 이유영, 비주얼→아우라 180도 파격 변신 '눈길']]></title>
         <id>https://entertain.v.daum.net/v/20220610114637978</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['스토브리그'→'너가속' 채종협 "낮은 시청률? 제가 좀 더 잘했으면"]]></title>
+        <title type="html"><![CDATA['너가속' 채종협 "시청률 연연? 제가 좀 더 잘했으면"]]></title>
         <id>https://entertain.v.daum.net/v/20220610112255054</id>
         <link href="https://entertain.v.daum.net/v/20220610112255054"/>
         <updated>2022-06-10T02:59:28.398Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220610103631028"/>
         <updated>2022-06-10T02:59:28.413Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영→전혜진, '대행사' 라인업 완성..광고꾼들 전쟁 시작된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220610103501962</id>
-        <link href="https://entertain.v.daum.net/v/20220610103501962"/>
-        <updated>2022-06-10T02:59:28.424Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜자X이병헌 시한부 여행..마지막 감동 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220610102502570</id>
-        <link href="https://entertain.v.daum.net/v/20220610102502570"/>
-        <updated>2022-06-10T02:59:28.424Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
