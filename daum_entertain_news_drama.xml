@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-10T13:30:56.291Z</updated>
+    <updated>2022-06-10T14:10:54.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, 박지원에 "너희 언니를 죽은 건 내가 아니라 너희 가족" 독설]]></title>
+        <id>https://entertain.v.daum.net/v/20220610225400803</id>
+        <link href="https://entertain.v.daum.net/v/20220610225400803"/>
+        <updated>2022-06-10T14:10:45.124Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서현진, 사망한 홍지윤 유족 1인 시위에 '살인범 의혹']]></title>
+        <id>https://entertain.v.daum.net/v/20220610225302795</id>
+        <link href="https://entertain.v.daum.net/v/20220610225302795"/>
+        <updated>2022-06-10T14:10:45.132Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['왜 오수재인가' 서현진, 홍지윤 죽기 전 마지막으로 만났었다]]></title>
         <id>https://entertain.v.daum.net/v/20220610222929454</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220610175028906</id>
         <link href="https://entertain.v.daum.net/v/20220610175028906"/>
         <updated>2022-06-10T09:11:22.607Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공감 가능"..'뉴노멀진' 정혜성→이의수, MZ세대 회사 생활이 궁금하다면]]></title>
-        <id>https://entertain.v.daum.net/v/20220610175002887</id>
-        <link href="https://entertain.v.daum.net/v/20220610175002887"/>
-        <updated>2022-06-10T09:11:22.609Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 스님이 법당서 도박? 조계종, 성명서 발표 "불교 조롱"]]></title>
-        <id>https://entertain.v.daum.net/v/20220610172200119</id>
-        <link href="https://entertain.v.daum.net/v/20220610172200119"/>
-        <updated>2022-06-10T09:11:22.610Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
