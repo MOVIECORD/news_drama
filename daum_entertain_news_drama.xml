@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-11T10:11:38.536Z</updated>
+    <updated>2022-06-11T11:09:36.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클리닝 업' 감사팀장 장신영 출동, 염정아·전소민 도청기 발각되나]]></title>
+        <id>https://entertain.v.daum.net/v/20220611200232497</id>
+        <link href="https://entertain.v.daum.net/v/20220611200232497"/>
+        <updated>2022-06-11T11:09:26.942Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성경·김영대→이정신, '별똥별' 6人 종영 소감..로맨스 결말은?]]></title>
         <id>https://entertain.v.daum.net/v/20220611183903737</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611140116473"/>
         <updated>2022-06-11T05:10:06.856Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유명 연예인 되는 게 꿈은 아냐"..지찬의 근자감]]></title>
-        <id>https://entertain.v.daum.net/v/20220611135013330</id>
-        <link href="https://entertain.v.daum.net/v/20220611135013330"/>
-        <updated>2022-06-11T05:10:06.856Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
