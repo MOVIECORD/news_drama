@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-11T07:11:06.656Z</updated>
+    <updated>2022-06-11T08:13:45.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현진→이진혁, 홍지윤 누가 죽였나]]></title>
+        <id>https://entertain.v.daum.net/v/20220611165102195</id>
+        <link href="https://entertain.v.daum.net/v/20220611165102195"/>
+        <updated>2022-06-11T08:13:34.735Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너가속' 김무준 "많은 것 얻은 작품, 행복해" 종영 소감]]></title>
+        <id>https://entertain.v.daum.net/v/20220611164135111</id>
+        <link href="https://entertain.v.daum.net/v/20220611164135111"/>
+        <updated>2022-06-11T08:13:34.737Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지민, 이번에는 김우빈 가족이다..첫 만남에 긴장 가득]]></title>
+        <id>https://entertain.v.daum.net/v/20220611161657840</id>
+        <link href="https://entertain.v.daum.net/v/20220611161657840"/>
+        <updated>2022-06-11T08:13:34.741Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우·소재·시청률..'우리들의 블루스'가 남긴 것]]></title>
         <id>https://entertain.v.daum.net/v/20220611153719329</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611134950323"/>
         <updated>2022-06-11T05:10:06.859Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우블스' 한지민, 김우빈 부모님 만난다..정장 입고 긴장한 표정]]></title>
-        <id>https://entertain.v.daum.net/v/20220611133541208</id>
-        <link href="https://entertain.v.daum.net/v/20220611133541208"/>
-        <updated>2022-06-11T05:10:06.860Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살인자 낙인' 서현진, 황인엽→이진혁과 진실 추적]]></title>
-        <id>https://entertain.v.daum.net/v/20220611133002156</id>
-        <link href="https://entertain.v.daum.net/v/20220611133002156"/>
-        <updated>2022-06-11T05:10:06.861Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련 "아들 위해서라도 더는 멍청하게 살고 싶지 않다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220611132933147</id>
-        <link href="https://entertain.v.daum.net/v/20220611132933147"/>
-        <updated>2022-06-11T05:10:06.862Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
