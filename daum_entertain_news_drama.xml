@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-11T08:13:45.021Z</updated>
+    <updated>2022-06-11T09:11:12.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신과함께3' 강타X토니안이 밝힌 결혼→H.O.T. 재결합]]></title>
+        <id>https://entertain.v.daum.net/v/20220611175041862</id>
+        <link href="https://entertain.v.daum.net/v/20220611175041862"/>
+        <updated>2022-06-11T09:11:02.086Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강경헌, '닥터로이어' 첫등장..부드러운 카리스마 뽐냈다]]></title>
+        <id>https://entertain.v.daum.net/v/20220611173214623</id>
+        <link href="https://entertain.v.daum.net/v/20220611173214623"/>
+        <updated>2022-06-11T09:11:02.094Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서현진→이진혁, 홍지윤 누가 죽였나]]></title>
         <id>https://entertain.v.daum.net/v/20220611165102195</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220611135008329"/>
         <updated>2022-06-11T05:10:06.856Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어겐마→돼지의 왕' 지찬 "작품 위해 15kg 증량..변화 즐거워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220611135002325</id>
-        <link href="https://entertain.v.daum.net/v/20220611135002325"/>
-        <updated>2022-06-11T05:10:06.857Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 신성록, 이주빈 향한 위험한 눈빛-치명적 도발]]></title>
-        <id>https://entertain.v.daum.net/v/20220611134950323</id>
-        <link href="https://entertain.v.daum.net/v/20220611134950323"/>
-        <updated>2022-06-11T05:10:06.859Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
