@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-11T06:13:32.601Z</updated>
+    <updated>2022-06-11T07:11:06.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우·소재·시청률..'우리들의 블루스'가 남긴 것]]></title>
+        <id>https://entertain.v.daum.net/v/20220611153719329</id>
+        <link href="https://entertain.v.daum.net/v/20220611153719329"/>
+        <updated>2022-06-11T07:10:56.855Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너가속' 김무준 "육정환, 다음 올림픽서 금메달 딸 것" 종영소감]]></title>
+        <id>https://entertain.v.daum.net/v/20220611153429308</id>
+        <link href="https://entertain.v.daum.net/v/20220611153429308"/>
+        <updated>2022-06-11T07:10:56.856Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여전히 연기에 목마른, 박해진의 마흔]]></title>
         <id>https://entertain.v.daum.net/v/20220611145702963</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220611132933147</id>
         <link href="https://entertain.v.daum.net/v/20220611132933147"/>
         <updated>2022-06-11T05:10:06.862Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌, 양아버지 제사서 수모..母 김혜자 진심은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220611131554012</id>
-        <link href="https://entertain.v.daum.net/v/20220611131554012"/>
-        <updated>2022-06-11T05:10:06.864Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별똥별' 이성경→김영대, 매순간 빛난 6인방 종영 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220611131101943</id>
-        <link href="https://entertain.v.daum.net/v/20220611131101943"/>
-        <updated>2022-06-11T04:15:41.197Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
