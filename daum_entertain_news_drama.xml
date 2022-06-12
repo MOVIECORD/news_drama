@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-12T06:14:50.703Z</updated>
+    <updated>2022-06-12T07:10:58.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리들의 블루스' 15人 종영소감..차승원, 오늘 최종회 출연]]></title>
+        <id>https://entertain.v.daum.net/v/20220612153904818</id>
+        <link href="https://entertain.v.daum.net/v/20220612153904818"/>
+        <updated>2022-06-12T07:10:49.061Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 의식 회복한 이준, 어떤 파장 몰고 올까]]></title>
+        <id>https://entertain.v.daum.net/v/20220612153613785</id>
+        <link href="https://entertain.v.daum.net/v/20220612153613785"/>
+        <updated>2022-06-12T07:10:49.072Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['별똥별' 박소진 "기쁨이 고충에 공감해주셔서 감사"]]></title>
         <id>https://entertain.v.daum.net/v/20220612150550223</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220612132428027"/>
         <updated>2022-06-12T05:09:59.655Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜자와 이병헌, 애증의 모자가 남긴 유난히 짠한 감동]]></title>
-        <id>https://entertain.v.daum.net/v/20220612132045987</id>
-        <link href="https://entertain.v.daum.net/v/20220612132045987"/>
-        <updated>2022-06-12T05:09:59.655Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별똥별' 김윤혜 "윤종훈과 연애 시작할 무렵 호흡 편해져"]]></title>
-        <id>https://entertain.v.daum.net/v/20220612131902965</id>
-        <link href="https://entertain.v.daum.net/v/20220612131902965"/>
-        <updated>2022-06-12T05:09:59.655Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
