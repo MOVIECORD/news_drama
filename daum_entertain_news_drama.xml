@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-12T07:10:58.615Z</updated>
+    <updated>2022-06-12T08:13:31.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 최종회 '우리들의 블루스' 이병헌 한지민→정은혜 기소유까지 15인 총출동]]></title>
+        <id>https://entertain.v.daum.net/v/20220612165043808</id>
+        <link href="https://entertain.v.daum.net/v/20220612165043808"/>
+        <updated>2022-06-12T08:13:22.405Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 종영 '쇼타임' 박해진X진기주 새드엔딩일까]]></title>
+        <id>https://entertain.v.daum.net/v/20220612164417739</id>
+        <link href="https://entertain.v.daum.net/v/20220612164417739"/>
+        <updated>2022-06-12T08:13:22.406Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['별똥별' 장희령, "다혜로 사는 동안 행복하고 기뻐".. 아쉬움 담긴 '종영 인사']]></title>
+        <id>https://entertain.v.daum.net/v/20220612161941411</id>
+        <link href="https://entertain.v.daum.net/v/20220612161941411"/>
+        <updated>2022-06-12T08:13:22.407Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 블루스' 15人 종영소감..차승원, 오늘 최종회 출연]]></title>
         <id>https://entertain.v.daum.net/v/20220612153904818</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220612135003459"/>
         <updated>2022-06-12T05:09:59.643Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리닝 업' 염정아X전소민X김재화, 드디어 싹쓸이단 결성?]]></title>
-        <id>https://entertain.v.daum.net/v/20220612134453343</id>
-        <link href="https://entertain.v.daum.net/v/20220612134453343"/>
-        <updated>2022-06-12T05:09:59.646Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 단심' 이준, 드디어 의식 회복..박지연 폭주하며 압도적 카리스마 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220612134324338</id>
-        <link href="https://entertain.v.daum.net/v/20220612134324338"/>
-        <updated>2022-06-12T05:09:59.655Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리닝 업' 염정아x전소민x김재화, 우당탕 작전기]]></title>
-        <id>https://entertain.v.daum.net/v/20220612132428027</id>
-        <link href="https://entertain.v.daum.net/v/20220612132428027"/>
-        <updated>2022-06-12T05:09:59.655Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
