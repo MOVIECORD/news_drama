@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-12T14:10:10.896Z</updated>
+    <updated>2022-06-12T15:11:11.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병헌, 된장찌개 끓인 뒤 먼 길 떠난 김혜자 안고 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220612235506648</id>
+        <link href="https://entertain.v.daum.net/v/20220612235506648"/>
+        <updated>2022-06-12T15:11:01.683Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병헌, 김혜자 사망에 오열 "미워했던 게 아니야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220612235004630</id>
+        <link href="https://entertain.v.daum.net/v/20220612235004630"/>
+        <updated>2022-06-12T15:11:01.685Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금부터 쇼타임' 박해진♥진기주, 해천무 처리 후 결혼 엔딩]]></title>
         <id>https://entertain.v.daum.net/v/20220612230616455</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220612210602411"/>
         <updated>2022-06-12T12:17:49.767Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배다빈, 박지영에 "윤시윤 부모 입양아라 싫냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220612205600303</id>
-        <link href="https://entertain.v.daum.net/v/20220612205600303"/>
-        <updated>2022-06-12T12:17:49.784Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 오민석♥신동미 연애 사실에 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220612204131159</id>
-        <link href="https://entertain.v.daum.net/v/20220612204131159"/>
-        <updated>2022-06-12T12:17:49.785Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
