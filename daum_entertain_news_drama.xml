@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-13T13:31:57.566Z</updated>
+    <updated>2022-06-13T14:12:15.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈, 홍은희에 임수향과 관계 허락 받았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220613225632082</id>
+        <link href="https://entertain.v.daum.net/v/20220613225632082"/>
+        <updated>2022-06-13T14:12:07.146Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 강한나, 박지연에 "이준의 아이 임신했다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220613223207953</id>
+        <link href="https://entertain.v.daum.net/v/20220613223207953"/>
+        <updated>2022-06-13T14:12:07.152Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 이준, 자신 도운 오승훈 치하.. "널 기억할 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220613221038815</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220613164901753"/>
         <updated>2022-06-13T08:14:26.216Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모두 행복하세요"..노희경 표 휴머니즘 '우블스', 끝까지 진심이었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220613164619656</id>
-        <link href="https://entertain.v.daum.net/v/20220613164619656"/>
-        <updated>2022-06-13T08:14:26.216Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구필수는 없다' 곽도원→정동원, 공감대 저격한 대사 살펴보니]]></title>
-        <id>https://entertain.v.daum.net/v/20220613164306499</id>
-        <link href="https://entertain.v.daum.net/v/20220613164306499"/>
-        <updated>2022-06-13T08:14:26.216Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
