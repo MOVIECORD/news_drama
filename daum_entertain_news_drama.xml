@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-13T15:15:52.177Z</updated>
+    <updated>2022-06-13T16:14:53.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 임수향, "아기 혼자서도 잘 키울 수 있다"..속도 다른 성훈의 청혼 '거절']]></title>
+        <id>https://entertain.v.daum.net/v/20220614003900870</id>
+        <link href="https://entertain.v.daum.net/v/20220614003900870"/>
+        <updated>2022-06-13T16:14:43.004Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 임수향, 성훈 프러포즈 거절 "아기 혼자서도 잘 키울 수 있어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220614003111819</id>
+        <link href="https://entertain.v.daum.net/v/20220614003111819"/>
+        <updated>2022-06-13T16:14:43.004Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 임수향, 성훈 의심하는 신동욱에 "수사에 개인감정 넣지 마라" 선긋기]]></title>
         <id>https://entertain.v.daum.net/v/20220614001306694</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220613180610274"/>
         <updated>2022-06-13T09:13:12.501Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['징크스의 연인' 우현X황석정→윤유선, 서동시장 상인 환상 라인업]]></title>
-        <id>https://entertain.v.daum.net/v/20220613174232622</id>
-        <link href="https://entertain.v.daum.net/v/20220613174232622"/>
-        <updated>2022-06-13T09:13:12.503Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은X박진영 '유미세포2' 시즌2도 대박, 유료가입 기여자수 역대 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220613172344025</id>
-        <link href="https://entertain.v.daum.net/v/20220613172344025"/>
-        <updated>2022-06-13T09:13:12.503Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
