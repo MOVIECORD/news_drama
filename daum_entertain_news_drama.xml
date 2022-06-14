@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-14T20:12:14.076Z</updated>
+    <updated>2022-06-14T21:10:45.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['별똥별' 김영대, "공태성과의 싱크로율 90%"]]></title>
+        <id>https://entertain.v.daum.net/v/20220615060104681</id>
+        <link href="https://entertain.v.daum.net/v/20220615060104681"/>
+        <updated>2022-06-14T21:10:35.301Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성훈, 사기결혼 해명하는 홍지윤에 선긋기.."임신했다고 뻥치고 결혼했잖냐"]]></title>
         <id>https://entertain.v.daum.net/v/20220615050110662</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220614204809581"/>
         <updated>2022-06-14T12:22:02.638Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영희, 사람 사주해 전인택 살해.. 차예련, 사건의 진실 밝히나?]]></title>
-        <id>https://entertain.v.daum.net/v/20220614204401494</id>
-        <link href="https://entertain.v.daum.net/v/20220614204401494"/>
-        <updated>2022-06-14T12:22:02.644Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
