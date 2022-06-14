@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-14T21:10:45.122Z</updated>
+    <updated>2022-06-14T22:10:54.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['홍자매' 손잡은 이재욱, 청춘스타 예약]]></title>
+        <id>https://entertain.v.daum.net/v/20220615065718317</id>
+        <link href="https://entertain.v.daum.net/v/20220615065718317"/>
+        <updated>2022-06-14T22:10:43.969Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몰라보게 '야윈' 서현진, 다이어트 이유 있었다]]></title>
+        <id>https://entertain.v.daum.net/v/20220615064805243</id>
+        <link href="https://entertain.v.daum.net/v/20220615064805243"/>
+        <updated>2022-06-14T22:10:43.972Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['별똥별' 김영대, "공태성과의 싱크로율 90%"]]></title>
         <id>https://entertain.v.daum.net/v/20220615060104681</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220614211502211"/>
         <updated>2022-06-14T12:22:02.624Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 전인택, 나영희X연민지 악행으로 사망..차예련 오열]]></title>
-        <id>https://entertain.v.daum.net/v/20220614205816816</id>
-        <link href="https://entertain.v.daum.net/v/20220614205816816"/>
-        <updated>2022-06-14T12:22:02.638Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['링크' 여진구, 실종된 여동생의 용의자로 지목됐던 이규회와 조우]]></title>
-        <id>https://entertain.v.daum.net/v/20220614204809581</id>
-        <link href="https://entertain.v.daum.net/v/20220614204809581"/>
-        <updated>2022-06-14T12:22:02.638Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
