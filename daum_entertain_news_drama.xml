@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-14T19:09:48.916Z</updated>
+    <updated>2022-06-14T20:12:14.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성훈, 사기결혼 해명하는 홍지윤에 선긋기.."임신했다고 뻥치고 결혼했잖냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220615050110662</id>
+        <link href="https://entertain.v.daum.net/v/20220615050110662"/>
+        <updated>2022-06-14T20:12:03.700Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["끝은 내가 낸다"..'인사이더' 강하늘, 욕망의 테이블 앞에 서다]]></title>
         <id>https://entertain.v.daum.net/v/20220615013304768</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220614204401494"/>
         <updated>2022-06-14T12:22:02.644Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련 父, 결국 사망했다..나영희는 살인 사주 후 '미소']]></title>
-        <id>https://entertain.v.daum.net/v/20220614203713244</id>
-        <link href="https://entertain.v.daum.net/v/20220614203713244"/>
-        <updated>2022-06-14T12:22:02.646Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
