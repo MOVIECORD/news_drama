@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-16T18:18:27.468Z</updated>
+    <updated>2022-06-16T19:09:02.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['링크' 여진구→문가영, 카메라 밖 본캐 매력..비하인드 스틸 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220617040006430</id>
+        <link href="https://entertain.v.daum.net/v/20220617040006430"/>
+        <updated>2022-06-16T19:08:52.722Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼', 이중 매력 담은 대호국 캐릭터 프로필 8종 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220617030005036</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220616231700952"/>
         <updated>2022-06-16T15:11:42.852Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['징크스의 연인' 나인우, 위기 빠진 서현 구했다..손 잡고 도망]]></title>
-        <id>https://entertain.v.daum.net/v/20220616231128914</id>
-        <link href="https://entertain.v.daum.net/v/20220616231128914"/>
-        <updated>2022-06-16T14:14:05.700Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
