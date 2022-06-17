@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-17T20:12:46.400Z</updated>
+    <updated>2022-06-17T21:09:57.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, 허준호에 "이름값 700억 내놔라" 복수 전초전]]></title>
+        <id>https://entertain.v.daum.net/v/20220618051600637</id>
+        <link href="https://entertain.v.daum.net/v/20220618051600637"/>
+        <updated>2022-06-17T21:09:47.790Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국, 오연서에게 "다신 보지 맙시다"]]></title>
         <id>https://entertain.v.daum.net/v/20220618050008506</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220617222848823</id>
         <link href="https://entertain.v.daum.net/v/20220617222848823"/>
         <updated>2022-06-17T13:29:11.040Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현진, 위기 속 도와 준 황인엽에 "내 일에 개입하지마"]]></title>
-        <id>https://entertain.v.daum.net/v/20220617222030692</id>
-        <link href="https://entertain.v.daum.net/v/20220617222030692"/>
-        <updated>2022-06-17T13:29:11.051Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
