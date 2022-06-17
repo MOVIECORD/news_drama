@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-17T16:16:16.068Z</updated>
+    <updated>2022-06-17T17:13:46.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종이의 집: 공동경제구역' 남북 합동 대응팀 캐릭터 영상 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220618020008124</id>
+        <link href="https://entertain.v.daum.net/v/20220618020008124"/>
+        <updated>2022-06-17T17:13:36.678Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, 허준호에 "내 이름값으로 700억 넘겨라" 요구]]></title>
+        <id>https://entertain.v.daum.net/v/20220618015701112</id>
+        <link href="https://entertain.v.daum.net/v/20220618015701112"/>
+        <updated>2022-06-17T17:13:36.680Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 서현진, "왜 자꾸 선을 넘니, 내 일에 개입하지 마"..황인엽에 경고]]></title>
         <id>https://entertain.v.daum.net/v/20220618010300895</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220617201823972"/>
         <updated>2022-06-17T12:23:22.058Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 나영희, 차예련에 "죽은 너희 父 찾아가 물어봐라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220617200838837</id>
-        <link href="https://entertain.v.daum.net/v/20220617200838837"/>
-        <updated>2022-06-17T11:10:24.614Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소진, 임산부로 변신..'남편의 죽음을 알리지 마라' 출연]]></title>
-        <id>https://entertain.v.daum.net/v/20220617180722499</id>
-        <link href="https://entertain.v.daum.net/v/20220617180722499"/>
-        <updated>2022-06-17T09:13:46.474Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
