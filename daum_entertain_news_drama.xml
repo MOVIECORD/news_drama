@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-19T07:10:42.944Z</updated>
+    <updated>2022-06-19T08:13:39.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 강별, 인물의 양면성 그려낸 '긴장감 메이커']]></title>
+        <id>https://entertain.v.daum.net/v/20220619170936372</id>
+        <link href="https://entertain.v.daum.net/v/20220619170936372"/>
+        <updated>2022-06-19T08:13:28.511Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리닝 업' 염정아x전소민x김재화, 주식 정보→마트 싹쓸이]]></title>
+        <id>https://entertain.v.daum.net/v/20220619164348904</id>
+        <link href="https://entertain.v.daum.net/v/20220619164348904"/>
+        <updated>2022-06-19T08:13:28.522Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 이재욱, 새로 쓰는 도련님..인생캐 만났다]]></title>
+        <id>https://entertain.v.daum.net/v/20220619161804622</id>
+        <link href="https://entertain.v.daum.net/v/20220619161804622"/>
+        <updated>2022-06-19T08:13:28.522Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희♥송강, 열애설 사진 퍼지자..문상민이 해명한 이유]]></title>
         <id>https://entertain.v.daum.net/v/20220619160037360</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220619133254631"/>
         <updated>2022-06-19T05:13:16.643Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱 정소민 황민현 '환혼' 터졌다..시청률 평균 5.2%]]></title>
-        <id>https://entertain.v.daum.net/v/20220619133204624</id>
-        <link href="https://entertain.v.daum.net/v/20220619133204624"/>
-        <updated>2022-06-19T05:13:16.644Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 이재욱X정소민, 애틋 핏빛 포옹 "도련님·몸종→단단해진 사이 발전"]]></title>
-        <id>https://entertain.v.daum.net/v/20220619130438211</id>
-        <link href="https://entertain.v.daum.net/v/20220619130438211"/>
-        <updated>2022-06-19T04:25:20.506Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리닝 업' 측 "염정아X전소민X김재화 마트 싹쓸이, 워맨스 계속된다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220619125654049</id>
-        <link href="https://entertain.v.daum.net/v/20220619125654049"/>
-        <updated>2022-06-19T04:25:20.506Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
