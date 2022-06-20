@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T10:13:20.309Z</updated>
+    <updated>2022-06-20T11:10:07.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이승연, 의문의 편지 받고 당황.."건드리지 마!"]]></title>
+        <id>https://entertain.v.daum.net/v/20220620195526041</id>
+        <link href="https://entertain.v.daum.net/v/20220620195526041"/>
+        <updated>2022-06-20T11:09:57.666Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남주혁 소속사, 학폭 의혹 전면 부인 "법적 책임 물을 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220620180333969</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220620145005377"/>
         <updated>2022-06-20T06:20:29.949Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이글이글 성훈 vs 흥분한 신동욱, 임수향 두고 날선 신경전]]></title>
-        <id>https://entertain.v.daum.net/v/20220620143619729</id>
-        <link href="https://entertain.v.daum.net/v/20220620143619729"/>
-        <updated>2022-06-20T06:20:29.950Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
