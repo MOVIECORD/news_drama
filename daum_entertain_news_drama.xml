@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T16:19:49.449Z</updated>
+    <updated>2022-06-20T17:17:57.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 임수향, "사실 벌써 마음 정했어"..남편 찾기, 그 결말은?]]></title>
+        <id>https://entertain.v.daum.net/v/20220621013906905</id>
+        <link href="https://entertain.v.daum.net/v/20220621013906905"/>
+        <updated>2022-06-20T17:17:47.916Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 성훈-신동욱, "다시 만나자"..동시에 임수향에 고백]]></title>
         <id>https://entertain.v.daum.net/v/20220621004801683</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220620171805242"/>
         <updated>2022-06-20T08:20:08.655Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별똥별' 박소진 "연예부 기자 役 맡아보니, 많은 것 이해됐죠"]]></title>
-        <id>https://entertain.v.daum.net/v/20220620164229843</id>
-        <link href="https://entertain.v.daum.net/v/20220620164229843"/>
-        <updated>2022-06-20T08:20:08.661Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
