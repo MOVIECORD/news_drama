@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T17:17:57.687Z</updated>
+    <updated>2022-06-20T18:13:45.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현X나인우, 뜻하지 않은 이별과 재회..'수비 커플'의 탄생]]></title>
+        <id>https://entertain.v.daum.net/v/20220621025303093</id>
+        <link href="https://entertain.v.daum.net/v/20220621025303093"/>
+        <updated>2022-06-20T18:13:35.075Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 임수향, "사실 벌써 마음 정했어"..남편 찾기, 그 결말은?]]></title>
         <id>https://entertain.v.daum.net/v/20220621013906905</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리는 오늘부터' 성훈, 신동욱에 "임수향 첫키스 상대는 나"]]></title>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈, 신동욱에 "임수향 첫키스 상대는 나"]]></title>
         <id>https://entertain.v.daum.net/v/20220620225530923</id>
         <link href="https://entertain.v.daum.net/v/20220620225530923"/>
         <updated>2022-06-20T14:09:58.316Z</updated>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220620174601408</id>
         <link href="https://entertain.v.daum.net/v/20220620174601408"/>
         <updated>2022-06-20T09:16:43.692Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 작가 "서인국→오연서 '혼연일체' 배우들..복받았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220620171805242</id>
-        <link href="https://entertain.v.daum.net/v/20220620171805242"/>
-        <updated>2022-06-20T08:20:08.655Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
