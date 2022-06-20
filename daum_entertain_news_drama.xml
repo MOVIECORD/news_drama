@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T15:11:56.679Z</updated>
+    <updated>2022-06-20T16:19:49.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리는 오늘부터' 성훈-신동욱, "다시 만나자"..동시에 임수향에 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220621004801683</id>
+        <link href="https://entertain.v.daum.net/v/20220621004801683"/>
+        <updated>2022-06-20T16:19:38.696Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리는 오늘부터' 김수로, 임수향의 "아빠"라는 말에 감격 "방금 뭐라고 했어?"]]></title>
         <id>https://entertain.v.daum.net/v/20220620234850223</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220620164229843"/>
         <updated>2022-06-20T08:20:08.661Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여진구X문가영, 신혼부부 느낌 투샷..오붓한 외출]]></title>
-        <id>https://entertain.v.daum.net/v/20220620161412686</id>
-        <link href="https://entertain.v.daum.net/v/20220620161412686"/>
-        <updated>2022-06-20T08:20:08.662Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
