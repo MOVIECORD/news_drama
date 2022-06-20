@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T13:33:32.350Z</updated>
+    <updated>2022-06-20T14:10:08.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리는 오늘부터' 성훈, 신동욱에 "임수향 첫키스 상대는 나"]]></title>
+        <id>https://entertain.v.daum.net/v/20220620225530923</id>
+        <link href="https://entertain.v.daum.net/v/20220620225530923"/>
+        <updated>2022-06-20T14:09:58.316Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붉은 단심' 이준, 강한나 견제 선언 눈물.."제거해야 합니다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220620224628873</id>
+        <link href="https://entertain.v.daum.net/v/20220620224628873"/>
+        <updated>2022-06-20T14:09:58.318Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 강한나, 이준 손 뿌리쳐..죽은 윤서아 생각에 눈물]]></title>
         <id>https://entertain.v.daum.net/v/20220620214414207</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220620160103063"/>
         <updated>2022-06-20T07:11:35.068Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리는 오늘부터' 종영 D-2..성훈 vs 신동욱, 불꽃 신경전]]></title>
-        <id>https://entertain.v.daum.net/v/20220620152703290</id>
-        <link href="https://entertain.v.daum.net/v/20220620152703290"/>
-        <updated>2022-06-20T07:11:35.082Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맹하고 짠하고 독하고.. 염정아의 카멜레온 연기를 보는 맛]]></title>
-        <id>https://entertain.v.daum.net/v/20220620152225099</id>
-        <link href="https://entertain.v.daum.net/v/20220620152225099"/>
-        <updated>2022-06-20T07:11:35.082Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
