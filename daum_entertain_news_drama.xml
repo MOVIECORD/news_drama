@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T02:57:26.845Z</updated>
+    <updated>2022-06-20T03:43:07.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아, 생활력 만렙 간호사 변신..역대급 걸 크러시 탄생]]></title>
+        <id>https://entertain.v.daum.net/v/20220620121234914</id>
+        <link href="https://entertain.v.daum.net/v/20220620121234914"/>
+        <updated>2022-06-20T03:42:59.135Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유미세포2' 김고은♥박진영 비밀연애 통했다, 2주연속 유료가입기여자수 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220620120853822</id>
+        <link href="https://entertain.v.daum.net/v/20220620120853822"/>
+        <updated>2022-06-20T03:42:59.136Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마녀는 살아있다', 완성도·텐션 높인다..토요일 주 1회 방송 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220620114035643</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220620100727799"/>
         <updated>2022-06-20T02:57:14.088Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희선, 이혼 요구 당했다..이유는 남편의 외도 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220620100701761</id>
-        <link href="https://entertain.v.daum.net/v/20220620100701761"/>
-        <updated>2022-06-20T02:57:14.089Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 강하늘, 무법지대서 일궈낸 뒤집기 한판 짜릿]]></title>
-        <id>https://entertain.v.daum.net/v/20220620100412616</id>
-        <link href="https://entertain.v.daum.net/v/20220620100412616"/>
-        <updated>2022-06-20T02:57:14.148Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
