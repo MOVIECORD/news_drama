@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-20T21:10:44.037Z</updated>
+    <updated>2022-06-20T22:10:58.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['결혼백서' 감독 "비혼장려 드라마 No, 예방주사로 봐주길"]]></title>
+        <id>https://entertain.v.daum.net/v/20220621070008945</id>
+        <link href="https://entertain.v.daum.net/v/20220621070008945"/>
+        <updated>2022-06-20T22:10:48.970Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붉은 단심' 강한나→장혁 빛났던 존재감, KBS 사극 또 통했다]]></title>
         <id>https://entertain.v.daum.net/v/20220621060840532</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220620213444148"/>
         <updated>2022-06-20T13:33:21.741Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 서하준,30억원 준비해→이승연 "내가 꼭 잡는다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220620203801557</id>
-        <link href="https://entertain.v.daum.net/v/20220620203801557"/>
-        <updated>2022-06-20T12:21:43.226Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
