@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-22T13:32:25.158Z</updated>
+    <updated>2022-06-22T14:11:19.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서예지, 박병은 외도로 한소라 도발 "언니한텐 눈길도 주지 않아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220622230511902</id>
+        <link href="https://entertain.v.daum.net/v/20220622230511902"/>
+        <updated>2022-06-22T14:11:09.725Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이더' 강하늘, 예수정 죽음에 김상호 의심..거짓 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220622224205734</id>
+        <link href="https://entertain.v.daum.net/v/20220622224205734"/>
+        <updated>2022-06-22T14:11:09.727Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이더' 강하늘, 허동원 등장에 날선 기싸움]]></title>
+        <id>https://entertain.v.daum.net/v/20220622223304661</id>
+        <link href="https://entertain.v.daum.net/v/20220622223304661"/>
+        <updated>2022-06-22T14:11:09.727Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['징크스의 연인' 서현, 경찰서 방문 "아무것도 몰라요"]]></title>
         <id>https://entertain.v.daum.net/v/20220622222419557</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220622181815448"/>
         <updated>2022-06-22T10:14:30.005Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['링크' 김찬형, 문가영 함께 김지영·예수정 발견..맹활약 계속 된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220622180442123</id>
-        <link href="https://entertain.v.daum.net/v/20220622180442123"/>
-        <updated>2022-06-22T09:11:19.161Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유리 "'韓 짐 캐리' 정상훈 감당하려 운동..목소리까지 변해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220622175009604</id>
-        <link href="https://entertain.v.daum.net/v/20220622175009604"/>
-        <updated>2022-06-22T09:11:19.164Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의집' 유지태 "피해를 주면 안된다는 신념 지닌 빌런 역, 처음 경험"]]></title>
-        <id>https://entertain.v.daum.net/v/20220622174648526</id>
-        <link href="https://entertain.v.daum.net/v/20220622174648526"/>
-        <updated>2022-06-22T09:11:19.165Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
