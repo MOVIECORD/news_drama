@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-23T16:16:45.522Z</updated>
+    <updated>2022-06-23T17:17:20.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 제작진 "신성록·이주빈, 불나방처럼 욕망에 달려든다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220624020005656</id>
+        <link href="https://entertain.v.daum.net/v/20220624020005656"/>
+        <updated>2022-06-23T17:17:10.442Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서예지, 유선에 박병은과 불륜 고백.."우리 첫날=사모님 생일"]]></title>
         <id>https://entertain.v.daum.net/v/20220624005016272</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220623222144663"/>
         <updated>2022-06-23T13:35:31.660Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국판 '종이의 집' 선수 입장 없습니다]]></title>
-        <id>https://entertain.v.daum.net/v/20220623220507459</id>
-        <link href="https://entertain.v.daum.net/v/20220623220507459"/>
-        <updated>2022-06-23T13:35:31.660Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
