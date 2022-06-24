@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-24T14:12:20.063Z</updated>
+    <updated>2022-06-24T15:13:49.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남희=박소진 태아 생물학적 아빠]]></title>
+        <id>https://entertain.v.daum.net/v/20220624235909465</id>
+        <link href="https://entertain.v.daum.net/v/20220624235909465"/>
+        <updated>2022-06-24T15:13:39.901Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, 최태국 모임 제안 거절→'긴급 체포']]></title>
+        <id>https://entertain.v.daum.net/v/20220624232810249</id>
+        <link href="https://entertain.v.daum.net/v/20220624232810249"/>
+        <updated>2022-06-24T15:13:39.905Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 허준호, 서현진에 "미끼에 낚이면 순순히 끌려가"]]></title>
         <id>https://entertain.v.daum.net/v/20220624230531016</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220624180144559"/>
         <updated>2022-06-24T09:11:16.014Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주혁, 학폭 보도한 매체·제보자 오늘 고소]]></title>
-        <id>https://entertain.v.daum.net/v/20220624175846487</id>
-        <link href="https://entertain.v.daum.net/v/20220624175846487"/>
-        <updated>2022-06-24T09:11:16.016Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 수지의 파격변신, 김수현 '어느 날' 이을 웰메이드 라인업]]></title>
-        <id>https://entertain.v.daum.net/v/20220624171710438</id>
-        <link href="https://entertain.v.daum.net/v/20220624171710438"/>
-        <updated>2022-06-24T09:11:16.020Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
