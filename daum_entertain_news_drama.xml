@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-24T13:34:59.502Z</updated>
+    <updated>2022-06-24T14:12:20.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오수재' 허준호, 서현진에 "미끼에 낚이면 순순히 끌려가"]]></title>
+        <id>https://entertain.v.daum.net/v/20220624230531016</id>
+        <link href="https://entertain.v.daum.net/v/20220624230531016"/>
+        <updated>2022-06-24T14:12:09.746Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배인혁, 황인엽에 분노 "서현진과 밤새 같이 있었냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220624223707677</id>
+        <link href="https://entertain.v.daum.net/v/20220624223707677"/>
+        <updated>2022-06-24T14:12:09.748Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 위험에 처한 서현진, 자동차 폭발사고로 쓰러져]]></title>
         <id>https://entertain.v.daum.net/v/20220624223151624</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220624171710438"/>
         <updated>2022-06-24T09:11:16.020Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천재 귀공자 황민현 노려보는 정소민..사랑 아닌 살수?]]></title>
-        <id>https://entertain.v.daum.net/v/20220624171400352</id>
-        <link href="https://entertain.v.daum.net/v/20220624171400352"/>
-        <updated>2022-06-24T08:15:13.236Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀는 살아있다' 이유리X이민영X윤소이, 과몰입 유발 관전포인트3]]></title>
-        <id>https://entertain.v.daum.net/v/20220624163105112</id>
-        <link href="https://entertain.v.daum.net/v/20220624163105112"/>
-        <updated>2022-06-24T08:15:13.237Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
