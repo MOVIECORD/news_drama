@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-24T09:11:25.574Z</updated>
+    <updated>2022-06-24T10:13:32.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["여진구 눈으로 로맨스 보기"..'링크', 스페셜 몰아보기 편성]]></title>
+        <id>https://entertain.v.daum.net/v/20220624190552733</id>
+        <link href="https://entertain.v.daum.net/v/20220624190552733"/>
+        <updated>2022-06-24T10:13:21.967Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연기력 '쥐어짠' 윤두준 "이미지 한계 극복하고 싶어요"]]></title>
         <id>https://entertain.v.daum.net/v/20220624180144559</id>
@@ -18,13 +25,6 @@
         <link href="https://entertain.v.daum.net/v/20220624175846487"/>
         <updated>2022-06-24T09:11:16.016Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구필수는 없다' 윤두준 "만땅에 헤딩했던 비스트→하이라이트 떠올려"]]></title>
-        <id>https://entertain.v.daum.net/v/20220624175003283</id>
-        <link href="https://entertain.v.daum.net/v/20220624175003283"/>
-        <updated>2022-06-24T09:11:16.019Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['안나' 수지의 파격변신, 김수현 '어느 날' 이을 웰메이드 라인업]]></title>
