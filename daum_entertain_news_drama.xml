@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-24T19:09:17.275Z</updated>
+    <updated>2022-06-24T20:12:30.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소지섭, 이경영 목에 칼 들이댔다.."이제 당신이 피 흘릴 차례"]]></title>
+        <id>https://entertain.v.daum.net/v/20220625050103633</id>
+        <link href="https://entertain.v.daum.net/v/20220625050103633"/>
+        <updated>2022-06-24T20:12:20.758Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클리닝업' 제작진 "더 다채롭고 재밌어진다" 자신감 가득]]></title>
         <id>https://entertain.v.daum.net/v/20220625033604453</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220624201450708"/>
         <updated>2022-06-24T12:22:12.652Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여진구 눈으로 로맨스 보기"..'링크', 스페셜 몰아보기 편성]]></title>
-        <id>https://entertain.v.daum.net/v/20220624190552733</id>
-        <link href="https://entertain.v.daum.net/v/20220624190552733"/>
-        <updated>2022-06-24T10:13:21.967Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
