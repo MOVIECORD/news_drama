@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-25T03:08:48.856Z</updated>
+    <updated>2022-06-25T04:22:16.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환혼' 이재욱, 세자 신승호와 첫 대결 '일촉즉발 긴장감']]></title>
+        <id>https://entertain.v.daum.net/v/20220625131432011</id>
+        <link href="https://entertain.v.daum.net/v/20220625131432011"/>
+        <updated>2022-06-25T04:22:06.527Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 윤시윤 오민석 서범준, 순항 중이던 연애에 제동 걸리나]]></title>
         <id>https://entertain.v.daum.net/v/20220625110528875</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220625094416675"/>
         <updated>2022-06-25T00:58:52.612Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 측 "서인국→곽시양 어디서도 볼 수 없는 개성, 환상의 티키타카"]]></title>
-        <id>https://entertain.v.daum.net/v/20220625093912614</id>
-        <link href="https://entertain.v.daum.net/v/20220625093912614"/>
-        <updated>2022-06-25T00:58:52.613Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
