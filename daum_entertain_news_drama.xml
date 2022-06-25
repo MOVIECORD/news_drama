@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-25T19:09:39.975Z</updated>
+    <updated>2022-06-25T20:12:47.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜옥, 서범준과 최예빈 사이 반대..서범준, 한강다리에서 극단적인 선택하나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220626050201596</id>
+        <link href="https://entertain.v.daum.net/v/20220626050201596"/>
+        <updated>2022-06-25T20:12:37.552Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[염정아, 전세금 압박에 또 다시 도박..내부자 거래 다시 시도]]></title>
+        <id>https://entertain.v.daum.net/v/20220626050103585</id>
+        <link href="https://entertain.v.daum.net/v/20220626050103585"/>
+        <updated>2022-06-25T20:12:37.553Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나인우, 서현 연기에 "귀엽다" 설렘 반응]]></title>
         <id>https://entertain.v.daum.net/v/20220626040007359</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220625222208434"/>
         <updated>2022-06-25T14:09:46.422Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 소지섭, 흉기로 이경영 목에 생채기 "받은 대로 돌려주는 거야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220625221450360</id>
-        <link href="https://entertain.v.daum.net/v/20220625221450360"/>
-        <updated>2022-06-25T13:19:44.621Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오수재' 이주우, 영상에 흔들렸다..서현진에 "살인교사 진짜냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220625221251344</id>
-        <link href="https://entertain.v.daum.net/v/20220625221251344"/>
-        <updated>2022-06-25T13:19:44.622Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
