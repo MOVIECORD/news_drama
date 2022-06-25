@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-25T06:14:56.390Z</updated>
+    <updated>2022-06-25T07:10:29.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클리닝업' 빈털터리 된 염정아, 집 뺏기고 길거리 신세되나]]></title>
+        <id>https://entertain.v.daum.net/v/20220625154618283</id>
+        <link href="https://entertain.v.daum.net/v/20220625154618283"/>
+        <updated>2022-06-25T07:10:19.989Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴키드 진권 "'나의 별에게2' 살짝 스포를 드리자면.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220625152457088</id>
+        <link href="https://entertain.v.daum.net/v/20220625152457088"/>
+        <updated>2022-06-25T07:10:19.991Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터로이어' 신성록, 소지섭 적일까 동지일까]]></title>
         <id>https://entertain.v.daum.net/v/20220625143405627</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220625104202532"/>
         <updated>2022-06-25T03:08:39.774Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 흉기 들이민 소지섭, 이경영 죽이나]]></title>
-        <id>https://entertain.v.daum.net/v/20220625103615457</id>
-        <link href="https://entertain.v.daum.net/v/20220625103615457"/>
-        <updated>2022-06-25T03:08:39.776Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 서인국·곽시양·강미나·백서후, 독보적 '개성캐' 유쾌 케미 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220625102716307</id>
-        <link href="https://entertain.v.daum.net/v/20220625102716307"/>
-        <updated>2022-06-25T03:08:39.777Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
