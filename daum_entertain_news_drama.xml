@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-26T15:11:21.932Z</updated>
+    <updated>2022-06-26T16:14:04.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 최예빈, "우리 헤어져" 이별 통보에 서범준 오열]]></title>
+        <id>https://entertain.v.daum.net/v/20220627005401265</id>
+        <link href="https://entertain.v.daum.net/v/20220627005401265"/>
+        <updated>2022-06-26T16:13:55.925Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리닝업' 염정아, 양육권 포기..김태우에 "애들 데려가"]]></title>
+        <id>https://entertain.v.daum.net/v/20220627002359170</id>
+        <link href="https://entertain.v.daum.net/v/20220627002359170"/>
+        <updated>2022-06-26T16:13:55.927Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클리닝업' 염정아X이무생..아슬아슬 로맨스 시작?]]></title>
         <id>https://entertain.v.daum.net/v/20220627001050071</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220626203351095"/>
         <updated>2022-06-26T12:19:27.697Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 서범준, 한강 서성이다 경찰서行..母 김혜옥 눈물]]></title>
-        <id>https://entertain.v.daum.net/v/20220626202812008</id>
-        <link href="https://entertain.v.daum.net/v/20220626202812008"/>
-        <updated>2022-06-26T12:19:27.699Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 서범준, 한강 다리 난간 올랐다가 경찰서行 '母김혜옥 눈물']]></title>
-        <id>https://entertain.v.daum.net/v/20220626202102902</id>
-        <link href="https://entertain.v.daum.net/v/20220626202102902"/>
-        <updated>2022-06-26T12:19:27.710Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
