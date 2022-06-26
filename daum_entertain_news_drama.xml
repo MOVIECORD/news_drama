@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-26T06:13:25.163Z</updated>
+    <updated>2022-06-26T07:10:26.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국판 '종이의 집'..남북분단 넣어 차별화했다지만 설정은 다소 엉성]]></title>
+        <id>https://entertain.v.daum.net/v/20220626155903764</id>
+        <link href="https://entertain.v.daum.net/v/20220626155903764"/>
+        <updated>2022-06-26T07:10:15.848Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 허준호, 비밀의 서재에 무엇을 숨겼나 '궁금증 ↑']]></title>
+        <id>https://entertain.v.daum.net/v/20220626152350176</id>
+        <link href="https://entertain.v.daum.net/v/20220626152350176"/>
+        <updated>2022-06-26T07:10:15.851Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 이재욱·정소민, 나룻배 동석 포착..목적지는?]]></title>
+        <id>https://entertain.v.daum.net/v/20220626151625051</id>
+        <link href="https://entertain.v.daum.net/v/20220626151625051"/>
+        <updated>2022-06-26T07:10:15.853Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['현재는 아름다워' 윤시윤 배다빈 엄마 박지영 입양 비밀 밝힐까]]></title>
         <id>https://entertain.v.daum.net/v/20220626144328424</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220626105252850"/>
         <updated>2022-06-26T03:29:27.415Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 소지섭, 수술 중 팔 통증 '위기'..이경영 발목 잡을까]]></title>
-        <id>https://entertain.v.daum.net/v/20220626104201660</id>
-        <link href="https://entertain.v.daum.net/v/20220626104201660"/>
-        <updated>2022-06-26T03:29:27.417Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀는 살아있다' 윤소이, 다이나믹한 매력 폭발..매력만점 연기력 입증]]></title>
-        <id>https://entertain.v.daum.net/v/20220626103813623</id>
-        <link href="https://entertain.v.daum.net/v/20220626103813623"/>
-        <updated>2022-06-26T03:29:27.419Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 허준호, 역대급 빌런 행보..원점 된 서현진과의 대결]]></title>
-        <id>https://entertain.v.daum.net/v/20220626101201215</id>
-        <link href="https://entertain.v.daum.net/v/20220626101201215"/>
-        <updated>2022-06-26T03:29:27.421Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
