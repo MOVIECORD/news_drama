@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-26T10:11:53.663Z</updated>
+    <updated>2022-06-26T11:09:53.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 로이어' 소지섭의 차가운 복수가 무덤 하나만 채우길..]]></title>
+        <id>https://entertain.v.daum.net/v/20220626193204205</id>
+        <link href="https://entertain.v.daum.net/v/20220626193204205"/>
+        <updated>2022-06-26T11:09:43.050Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전소민♥나인우 귀여운 로맨스 본격 시작"]]></title>
         <id>https://entertain.v.daum.net/v/20220626171010010</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220626120108286"/>
         <updated>2022-06-26T03:29:27.393Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 김호정, 부드러운 카리스마 뜨거운 열연..몰입감 백배]]></title>
-        <id>https://entertain.v.daum.net/v/20220626110825165</id>
-        <link href="https://entertain.v.daum.net/v/20220626110825165"/>
-        <updated>2022-06-26T03:29:27.408Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
