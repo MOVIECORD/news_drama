@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-27T14:13:04.891Z</updated>
+    <updated>2022-06-27T15:33:42.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국, 성추행범 철퇴→가짜무당 활약..오연서 "웃기고 있네" 의심]]></title>
+        <id>https://entertain.v.daum.net/v/20220627235819462</id>
+        <link href="https://entertain.v.daum.net/v/20220627235819462"/>
+        <updated>2022-06-27T15:33:32.813Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["박은빈 포에버", 감독+작가 제대로 홀렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20220627234607411</id>
+        <link href="https://entertain.v.daum.net/v/20220627234607411"/>
+        <updated>2022-06-27T15:33:32.814Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오연서, 서인국 의심 "뺑소니 목격? 무당? 웃기고 있네"]]></title>
+        <id>https://entertain.v.daum.net/v/20220627231318190</id>
+        <link href="https://entertain.v.daum.net/v/20220627231318190"/>
+        <updated>2022-06-27T15:33:32.815Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '미남당' 오연서, 서인국 뒷조사 "뺑소니 목격한 무당? 안 믿어"]]></title>
         <id>https://entertain.v.daum.net/v/20220627230700143</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220627202801650"/>
         <updated>2022-06-27T12:24:16.124Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 디자인 표절 논란으로 퇴출되나..연민지 팀장 선임]]></title>
-        <id>https://entertain.v.daum.net/v/20220627202158603</id>
-        <link href="https://entertain.v.daum.net/v/20220627202158603"/>
-        <updated>2022-06-27T12:24:16.124Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 피 흘리며 쓰러져있는 박충선에 경악]]></title>
-        <id>https://entertain.v.daum.net/v/20220627200500445</id>
-        <link href="https://entertain.v.daum.net/v/20220627200500445"/>
-        <updated>2022-06-27T11:12:22.820Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 강별, 조유신에 은밀한 부탁 "영상 없애달라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220627193013029</id>
-        <link href="https://entertain.v.daum.net/v/20220627193013029"/>
-        <updated>2022-06-27T11:12:22.824Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
