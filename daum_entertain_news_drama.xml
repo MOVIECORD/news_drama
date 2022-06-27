@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-27T09:12:05.585Z</updated>
+    <updated>2022-06-27T10:13:29.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국x강미나, 닮은꼴 남매로 등장 "눈 밑 점 찍었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220627185004554</id>
+        <link href="https://entertain.v.daum.net/v/20220627185004554"/>
+        <updated>2022-06-27T10:13:20.357Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김고은X박진영 '유미세포2' 제대로 터졌다, 티빙 누적 유료가입기여 전체 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220627184037378</id>
+        <link href="https://entertain.v.daum.net/v/20220627184037378"/>
+        <updated>2022-06-27T10:13:20.357Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지에게 결혼·유학 제안했던 그 남자..허형규 "'안나' 참여 영광"]]></title>
         <id>https://entertain.v.daum.net/v/20220627174244810</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220627160858622"/>
         <updated>2022-06-27T07:10:54.439Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['링크' 여진구, 문가영 향한 눈빛 포착..쌍방 로맨스 시작되나]]></title>
-        <id>https://entertain.v.daum.net/v/20220627160439473</id>
-        <link href="https://entertain.v.daum.net/v/20220627160439473"/>
-        <updated>2022-06-27T07:10:54.439Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두데' 옥주현, '캐스팅 논란' 이후 첫 라디오..'밝은 인사']]></title>
-        <id>https://entertain.v.daum.net/v/20220627160409459</id>
-        <link href="https://entertain.v.daum.net/v/20220627160409459"/>
-        <updated>2022-06-27T07:10:54.439Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
