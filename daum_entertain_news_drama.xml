@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-27T15:33:42.773Z</updated>
+    <updated>2022-06-27T16:16:32.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국X오연서, 무당과 경찰로 강렬한 등장→스쳐간 첫 만남]]></title>
+        <id>https://entertain.v.daum.net/v/20220628011229047</id>
+        <link href="https://entertain.v.daum.net/v/20220628011229047"/>
+        <updated>2022-06-27T16:16:21.404Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국, 성추행범 철퇴→가짜무당 활약..오연서 "웃기고 있네" 의심]]></title>
         <id>https://entertain.v.daum.net/v/20220627235819462</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220627203100687"/>
         <updated>2022-06-27T12:24:16.120Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 이중문과 팽팽한 신경전.."당신을 사랑한 게 수치스러워"]]></title>
-        <id>https://entertain.v.daum.net/v/20220627202801650</id>
-        <link href="https://entertain.v.daum.net/v/20220627202801650"/>
-        <updated>2022-06-27T12:24:16.124Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
