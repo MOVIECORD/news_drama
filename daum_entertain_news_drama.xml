@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-27T20:12:13.981Z</updated>
+    <updated>2022-06-27T21:10:49.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['키식센' 윤계상 "지오디 탈퇴→복귀·결혼, 모두 운명이다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220628060105608</id>
+        <link href="https://entertain.v.daum.net/v/20220628060105608"/>
+        <updated>2022-06-27T21:10:39.462Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서인국, 오연서와 팽팽한 대치..악연일까 인연일까]]></title>
+        <id>https://entertain.v.daum.net/v/20220628052804223</id>
+        <link href="https://entertain.v.daum.net/v/20220628052804223"/>
+        <updated>2022-06-27T21:10:39.464Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 서인국X오연서, 무당과 경찰로 강렬한 등장→스쳐간 첫 만남]]></title>
         <id>https://entertain.v.daum.net/v/20220628011229047</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220627210658081"/>
         <updated>2022-06-27T12:24:16.120Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['으라차차 내 인생' 박해미, 이시강에 "집에 들어와 사는 게 결혼 조건"]]></title>
-        <id>https://entertain.v.daum.net/v/20220627210541055</id>
-        <link href="https://entertain.v.daum.net/v/20220627210541055"/>
-        <updated>2022-06-27T12:24:16.120Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금 가면' 차예련, 연민지 덫에 걸렸다.. 디자인 원본으로 반격할까?]]></title>
-        <id>https://entertain.v.daum.net/v/20220627203100687</id>
-        <link href="https://entertain.v.daum.net/v/20220627203100687"/>
-        <updated>2022-06-27T12:24:16.120Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
