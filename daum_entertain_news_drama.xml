@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-28T05:21:35.776Z</updated>
+    <updated>2022-06-28T06:15:49.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈트 입은 박수무당' 서인국..뻔한 게 없는 '미남당']]></title>
+        <id>https://entertain.v.daum.net/v/20220628150528866</id>
+        <link href="https://entertain.v.daum.net/v/20220628150528866"/>
+        <updated>2022-06-28T06:15:37.420Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최종병기 앨리스' 박세완X송건희X김성오X김태훈, 블루룸 라이브 생중계..유쾌한 시너지]]></title>
+        <id>https://entertain.v.daum.net/v/20220628143855397</id>
+        <link href="https://entertain.v.daum.net/v/20220628143855397"/>
+        <updated>2022-06-28T06:15:37.420Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샤크 더 스톰' 김민석X이현욱 더 강력하게 돌아온다..막강 라인업 완성]]></title>
         <id>https://entertain.v.daum.net/v/20220628141908373</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220628122937598"/>
         <updated>2022-06-28T03:37:38.203Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의 집' 박해수 "'오징어게임' 이어 또 욕받이? 감사한 일"]]></title>
-        <id>https://entertain.v.daum.net/v/20220628115410516</id>
-        <link href="https://entertain.v.daum.net/v/20220628115410516"/>
-        <updated>2022-06-28T03:37:38.214Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 오연서, 첫 액션 연기→오싹 '한귀' 엔딩..인생캐 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220628115320476</id>
-        <link href="https://entertain.v.daum.net/v/20220628115320476"/>
-        <updated>2022-06-28T03:37:38.214Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
