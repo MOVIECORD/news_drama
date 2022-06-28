@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-28T13:34:58.454Z</updated>
+    <updated>2022-06-28T14:15:39.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 오연서, 서인국 미끼 물었다..'영장 발부']]></title>
+        <id>https://entertain.v.daum.net/v/20220628231204519</id>
+        <link href="https://entertain.v.daum.net/v/20220628231204519"/>
+        <updated>2022-06-28T14:15:21.697Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서인국, 오연서 원망 떠올리며 씁쓸.."다시 잡아서 넘겨주면 되잖여"]]></title>
+        <id>https://entertain.v.daum.net/v/20220628230101433</id>
+        <link href="https://entertain.v.daum.net/v/20220628230101433"/>
+        <updated>2022-06-28T14:15:21.698Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 서인국, 사건 풀어내는 신들린 방법]]></title>
         <id>https://entertain.v.daum.net/v/20220628222921161</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220628192934917"/>
         <updated>2022-06-28T11:10:31.799Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국, 신들린 연기력 전무후무 박수 캐릭터]]></title>
-        <id>https://entertain.v.daum.net/v/20220628192606843</id>
-        <link href="https://entertain.v.daum.net/v/20220628192606843"/>
-        <updated>2022-06-28T11:10:31.800Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김갑수·손동운 웹툰작가 된다]]></title>
-        <id>https://entertain.v.daum.net/v/20220628185014897</id>
-        <link href="https://entertain.v.daum.net/v/20220628185014897"/>
-        <updated>2022-06-28T10:12:32.833Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
