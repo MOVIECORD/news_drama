@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-29T20:13:18.185Z</updated>
+    <updated>2022-06-29T21:11:10.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유선, 가정 폭력 피해자였다..父 폭력에 두손 싹싹 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220630060545487</id>
+        <link href="https://entertain.v.daum.net/v/20220630060545487"/>
+        <updated>2022-06-29T21:10:58.766Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['종이의 집' 김윤진 "원작과 비교는 피할 수 없는 숙명"]]></title>
+        <id>https://entertain.v.daum.net/v/20220630060106315</id>
+        <link href="https://entertain.v.daum.net/v/20220630060106315"/>
+        <updated>2022-06-29T21:10:58.766Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터로이어' 강력 엔딩, 그보다 특별한 플래시백 오프닝의 비밀]]></title>
         <id>https://entertain.v.daum.net/v/20220630020003239</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220629224650414"/>
         <updated>2022-06-29T14:10:11.857Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박병은, 서예지 향한 강한 집착으로 이혼까지 하나.."유선 컨트롤 가능해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220629224415391</id>
-        <link href="https://entertain.v.daum.net/v/20220629224415391"/>
-        <updated>2022-06-29T14:10:11.860Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['으라차차 내 인생' 박해미, 무슨 꿍꿍이..백팀장 매장 "나한테 맡겨"]]></title>
-        <id>https://entertain.v.daum.net/v/20220629211703975</id>
-        <link href="https://entertain.v.daum.net/v/20220629211703975"/>
-        <updated>2022-06-29T12:20:52.417Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
