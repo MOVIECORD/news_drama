@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-29T15:43:50.830Z</updated>
+    <updated>2022-06-29T16:34:06.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이브' 서예지, 이일화 배신+유선 도발에 박병은 유혹 폭주.."사이코? 무슨 짓 할지 몰라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220630005929923</id>
+        <link href="https://entertain.v.daum.net/v/20220630005929923"/>
+        <updated>2022-06-29T16:33:52.388Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이브' 서예지, 유선에 뺨 맞고 "개싸이코" 반격에 박병은 유혹 "작정하고 후벼팔 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220630004704867</id>
+        <link href="https://entertain.v.daum.net/v/20220630004704867"/>
+        <updated>2022-06-29T16:33:52.390Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유리 불륜 남편 어떻게 작살낼까]]></title>
         <id>https://entertain.v.daum.net/v/20220629235816281</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220629210301716"/>
         <updated>2022-06-29T12:20:52.418Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['으라차차 내 인생' 김희정, 남상지에 "내일 당장 데려와"]]></title>
-        <id>https://entertain.v.daum.net/v/20220629205542547</id>
-        <link href="https://entertain.v.daum.net/v/20220629205542547"/>
-        <updated>2022-06-29T12:20:52.425Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 김준한 "지훈 정체성 보여주려 사투리 먼저 제안"]]></title>
-        <id>https://entertain.v.daum.net/v/20220629204250310</id>
-        <link href="https://entertain.v.daum.net/v/20220629204250310"/>
-        <updated>2022-06-29T12:20:52.426Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
