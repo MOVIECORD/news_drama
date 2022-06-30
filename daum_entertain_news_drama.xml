@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-06-30T09:11:26.219Z</updated>
+    <updated>2022-06-30T10:16:25.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재욱→황민현x아린, '환혼' 대호국 금쪽이들 '시선강탈']]></title>
+        <id>https://entertain.v.daum.net/v/20220630185419039</id>
+        <link href="https://entertain.v.daum.net/v/20220630185419039"/>
+        <updated>2022-06-30T10:16:14.557Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['종이의 집' 전종서 "원작과는 다른 '도쿄', 걱정 NO..파트2 훨씬 재밌다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220630184207873</id>
+        <link href="https://entertain.v.daum.net/v/20220630184207873"/>
+        <updated>2022-06-30T10:16:14.560Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타인의 시선 집착한 '안나', 왜 수지 인생 캐릭터 됐냐면]]></title>
         <id>https://entertain.v.daum.net/v/20220630180046836</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220630154050755"/>
         <updated>2022-06-30T07:10:01.192Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2막 돌입한 '클리닝업', 염정아 인생에 볕들 날 올까]]></title>
-        <id>https://entertain.v.daum.net/v/20220630154038746</id>
-        <link href="https://entertain.v.daum.net/v/20220630154038746"/>
-        <updated>2022-06-30T07:10:01.194Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의 집' 장윤주 "제가 나오면 분위기가 확 바뀌잖아요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220630152744112</id>
-        <link href="https://entertain.v.daum.net/v/20220630152744112"/>
-        <updated>2022-06-30T07:10:01.195Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
