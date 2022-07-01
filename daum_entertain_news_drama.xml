@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-01T15:13:50.585Z</updated>
+    <updated>2022-07-01T16:16:09.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["왜 이렇게 노골적이냐"..서현진vs허준호, 날 선 기싸움]]></title>
+        <id>https://entertain.v.daum.net/v/20220702001504439</id>
+        <link href="https://entertain.v.daum.net/v/20220702001504439"/>
+        <updated>2022-07-01T16:15:58.892Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독해진 수지' 단톡방 토론 소재는 오늘부터 '안나'다]]></title>
         <id>https://entertain.v.daum.net/v/20220702000220341</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220701202842186"/>
         <updated>2022-07-01T12:23:21.123Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현진, 차예련과 루머 퍼트린 직원 추적.."법적인 책임은 묻지 않겠지만 사과해라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220701202401099</id>
-        <link href="https://entertain.v.daum.net/v/20220701202401099"/>
-        <updated>2022-07-01T12:23:21.123Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
