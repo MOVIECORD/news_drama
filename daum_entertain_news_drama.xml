@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-01T09:12:30.728Z</updated>
+    <updated>2022-07-01T10:13:00.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 정예인x싸이퍼 탄, 청소년 드라마 '인싸나라' 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20220701190151748</id>
+        <link href="https://entertain.v.daum.net/v/20220701190151748"/>
+        <updated>2022-07-01T10:12:49.484Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정재성, '빅마우스' 신 스틸러 활약..쉼 없는 열일 행보 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220701182050852</id>
+        <link href="https://entertain.v.daum.net/v/20220701182050852"/>
+        <updated>2022-07-01T10:12:49.484Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 서현진이 있어 믿음직스럽다!]]></title>
+        <id>https://entertain.v.daum.net/v/20220701181248673</id>
+        <link href="https://entertain.v.daum.net/v/20220701181248673"/>
+        <updated>2022-07-01T10:12:49.488Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대놓고 편견 드러낸 '이상한 변호사 우영우']]></title>
         <id>https://entertain.v.daum.net/v/20220701175255095</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220701145544860"/>
         <updated>2022-07-01T08:14:58.603Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지 "욕+현장 분위기 신경쓰지 않는 표정 연기에 희열"]]></title>
-        <id>https://entertain.v.daum.net/v/20220701144821582</id>
-        <link href="https://entertain.v.daum.net/v/20220701144821582"/>
-        <updated>2022-07-01T08:14:58.604Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이는 게 전부가 아닌 박은빈의 변화무쌍 연기력]]></title>
-        <id>https://entertain.v.daum.net/v/20220701142857814</id>
-        <link href="https://entertain.v.daum.net/v/20220701142857814"/>
-        <updated>2022-07-01T08:14:58.605Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 허준호만 빌런? 지승현 분노 유발 악의 축]]></title>
-        <id>https://entertain.v.daum.net/v/20220701141038207</id>
-        <link href="https://entertain.v.daum.net/v/20220701141038207"/>
-        <updated>2022-07-01T08:14:58.606Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
