@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-02T10:12:09.620Z</updated>
+    <updated>2022-07-02T11:09:52.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환혼' 황민현, 정소민과 포옹에 과거 떠올릴까]]></title>
+        <id>https://entertain.v.daum.net/v/20220702200548049</id>
+        <link href="https://entertain.v.daum.net/v/20220702200548049"/>
+        <updated>2022-07-02T11:09:41.887Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 소지섭·신성록·임수향, 두뇌싸움 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220702191927629</id>
+        <link href="https://entertain.v.daum.net/v/20220702191927629"/>
+        <updated>2022-07-02T11:09:41.896Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정혜성 "우리 사귀어요" 직진 고백했다가 차였다]]></title>
         <id>https://entertain.v.daum.net/v/20220702184909334</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220702130729304"/>
         <updated>2022-07-02T04:30:28.117Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우블' 최영준은 잊어라..'왜 오수재인가' 서현진과 케미 甲]]></title>
-        <id>https://entertain.v.daum.net/v/20220702124011174</id>
-        <link href="https://entertain.v.daum.net/v/20220702124011174"/>
-        <updated>2022-07-02T04:30:28.118Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 누가 수지의 뻔뻔한 거짓말에 돌을 던질 수 있겠는가]]></title>
-        <id>https://entertain.v.daum.net/v/20220702112326621</id>
-        <link href="https://entertain.v.daum.net/v/20220702112326621"/>
-        <updated>2022-07-02T03:15:31.115Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
