@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-02T16:14:18.706Z</updated>
+    <updated>2022-07-02T17:11:35.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, 황인엽 정체 알았다..황인엽의 '의붓 여동생' 추정 백골 발견]]></title>
+        <id>https://entertain.v.daum.net/v/20220703012400897</id>
+        <link href="https://entertain.v.daum.net/v/20220703012400897"/>
+        <updated>2022-07-02T17:11:25.630Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼' 정소민, 수련 생각 없는 이재욱에 분노]]></title>
         <id>https://entertain.v.daum.net/v/20220703010332885</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220702222150236"/>
         <updated>2022-07-02T14:10:00.796Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리가 더 가까워질 수도?" 이주빈, 소지섭과 은밀한 대화]]></title>
-        <id>https://entertain.v.daum.net/v/20220702221920208</id>
-        <link href="https://entertain.v.daum.net/v/20220702221920208"/>
-        <updated>2022-07-02T13:20:13.620Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
