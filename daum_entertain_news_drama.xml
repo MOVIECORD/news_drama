@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-02T09:10:40.563Z</updated>
+    <updated>2022-07-02T10:12:09.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정혜성 "우리 사귀어요" 직진 고백했다가 차였다]]></title>
+        <id>https://entertain.v.daum.net/v/20220702184909334</id>
+        <link href="https://entertain.v.daum.net/v/20220702184909334"/>
+        <updated>2022-07-02T10:12:00.149Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뉴노멀진' 김아현, 캐릭터와 혼연일체..신스틸러 활약 '톡톡']]></title>
         <id>https://entertain.v.daum.net/v/20220702171644317</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220702112326621"/>
         <updated>2022-07-02T03:15:31.115Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신동미, 대낮에 망치 테러? 오민석 절박한 눈빛 폭발!]]></title>
-        <id>https://entertain.v.daum.net/v/20220702103631182</id>
-        <link href="https://entertain.v.daum.net/v/20220702103631182"/>
-        <updated>2022-07-02T03:15:31.115Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
