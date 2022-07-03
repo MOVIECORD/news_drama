@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-03T09:11:46.448Z</updated>
+    <updated>2022-07-03T10:12:40.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성오, '종이의 집'↔'최종병기 앨리스' 완전히 다른 분위기]]></title>
+        <id>https://entertain.v.daum.net/v/20220703185425759</id>
+        <link href="https://entertain.v.daum.net/v/20220703185425759"/>
+        <updated>2022-07-03T10:12:29.826Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오민석, 신동미에 프러포즈..母 반대 딛고 결혼할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220703184404549</id>
+        <link href="https://entertain.v.daum.net/v/20220703184404549"/>
+        <updated>2022-07-03T10:12:29.838Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최영준, 서현진과 의기투합..이경영에 복수 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220703181703225</id>
+        <link href="https://entertain.v.daum.net/v/20220703181703225"/>
+        <updated>2022-07-03T10:12:29.838Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임대차별+혐오 깨부순 박효주 작은 용기]]></title>
         <id>https://entertain.v.daum.net/v/20220703175555862</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220703133108560"/>
         <updated>2022-07-03T05:10:50.774Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리닝업' 측 "무릎까지 꿇고도 죽지않는 염정아 억센 눈빛 주목"]]></title>
-        <id>https://entertain.v.daum.net/v/20220703132355464</id>
-        <link href="https://entertain.v.daum.net/v/20220703132355464"/>
-        <updated>2022-07-03T05:10:50.774Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아린, '짝사랑' 이재욱 두고 정소민 폭풍 견제]]></title>
-        <id>https://entertain.v.daum.net/v/20220703131605342</id>
-        <link href="https://entertain.v.daum.net/v/20220703131605342"/>
-        <updated>2022-07-03T04:22:14.126Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 허준호인가, 카메라 밖에선 자기관리 끝판왕]]></title>
-        <id>https://entertain.v.daum.net/v/20220703131320306</id>
-        <link href="https://entertain.v.daum.net/v/20220703131320306"/>
-        <updated>2022-07-03T04:22:14.130Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
