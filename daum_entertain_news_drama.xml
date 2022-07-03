@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-03T05:10:59.305Z</updated>
+    <updated>2022-07-03T06:14:17.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클리닝 업' 염정아, 돈이 절실한 순간..두 딸 데려올까]]></title>
+        <id>https://entertain.v.daum.net/v/20220703143830946</id>
+        <link href="https://entertain.v.daum.net/v/20220703143830946"/>
+        <updated>2022-07-03T06:14:09.145Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아린, 정소민 질투..'파혼' 이재욱과 결혼할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220703141531444</id>
+        <link href="https://entertain.v.daum.net/v/20220703141531444"/>
+        <updated>2022-07-03T06:14:09.147Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오민석♥신동미, 가로등 아래 꽃다발 프러포즈+키스 '설렘 폭발']]></title>
         <id>https://entertain.v.daum.net/v/20220703140901309</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220703100257610"/>
         <updated>2022-07-03T03:27:22.676Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의 집' 유지태만의 '교수'를 위해]]></title>
-        <id>https://entertain.v.daum.net/v/20220703095934512</id>
-        <link href="https://entertain.v.daum.net/v/20220703095934512"/>
-        <updated>2022-07-03T01:02:47.491Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오수재' 과거 드러난 최영준, 복수의 칼날 이경영 향했다]]></title>
-        <id>https://entertain.v.daum.net/v/20220703095540473</id>
-        <link href="https://entertain.v.daum.net/v/20220703095540473"/>
-        <updated>2022-07-03T01:02:47.491Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
