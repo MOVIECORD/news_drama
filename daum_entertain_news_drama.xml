@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-03T03:27:31.702Z</updated>
+    <updated>2022-07-03T04:22:23.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아린, '짝사랑' 이재욱 두고 정소민 폭풍 견제]]></title>
+        <id>https://entertain.v.daum.net/v/20220703131605342</id>
+        <link href="https://entertain.v.daum.net/v/20220703131605342"/>
+        <updated>2022-07-03T04:22:14.126Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 허준호인가, 카메라 밖에선 자기관리 끝판왕]]></title>
+        <id>https://entertain.v.daum.net/v/20220703131320306</id>
+        <link href="https://entertain.v.daum.net/v/20220703131320306"/>
+        <updated>2022-07-03T04:22:14.130Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 측 "아린, 정소민 폭풍 견제+질투의 화신 변모"]]></title>
+        <id>https://entertain.v.daum.net/v/20220703131001238</id>
+        <link href="https://entertain.v.daum.net/v/20220703131001238"/>
+        <updated>2022-07-03T04:22:14.130Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼' 이재욱, 정소민 위해 빌드업 시작..시청률 최고 6.3% 기록]]></title>
         <id>https://entertain.v.daum.net/v/20220703103905121</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220703094711352"/>
         <updated>2022-07-03T01:02:47.509Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 2049 시청률 지상파 포함 전 채널 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220703093957256</id>
-        <link href="https://entertain.v.daum.net/v/20220703093957256"/>
-        <updated>2022-07-03T01:02:47.510Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 황민현 "많이 좋아했었다" 낙수 향한 깜짝 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220703093938252</id>
-        <link href="https://entertain.v.daum.net/v/20220703093938252"/>
-        <updated>2022-07-03T01:02:47.512Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 이경영 기습한 소지섭X임수향, 최고 시청률 7.6%까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220703093610207</id>
-        <link href="https://entertain.v.daum.net/v/20220703093610207"/>
-        <updated>2022-07-03T01:02:47.512Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
