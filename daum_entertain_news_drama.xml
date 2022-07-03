@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-03T06:14:17.469Z</updated>
+    <updated>2022-07-03T07:11:17.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국·오연서·곽시양·권수현 미묘한 만남 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220703160542802</id>
+        <link href="https://entertain.v.daum.net/v/20220703160542802"/>
+        <updated>2022-07-03T07:11:08.210Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["미믹도 정도껏" '미미쿠스' 조유리X유영재, 궁금증 유발 미믹 티저 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220703154858506</id>
+        <link href="https://entertain.v.daum.net/v/20220703154858506"/>
+        <updated>2022-07-03T07:11:08.210Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클리닝 업' 염정아, 돈이 절실한 순간..두 딸 데려올까]]></title>
         <id>https://entertain.v.daum.net/v/20220703143830946</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220703101500779"/>
         <updated>2022-07-03T03:27:22.671Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오수재' 김윤서 딸 생모 서현진일까? 궁금증 ↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220703100527651</id>
-        <link href="https://entertain.v.daum.net/v/20220703100527651"/>
-        <updated>2022-07-03T03:27:22.676Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤서 "친모 확인하고 싶다"..허준호와 대립]]></title>
-        <id>https://entertain.v.daum.net/v/20220703100257610</id>
-        <link href="https://entertain.v.daum.net/v/20220703100257610"/>
-        <updated>2022-07-03T03:27:22.676Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
