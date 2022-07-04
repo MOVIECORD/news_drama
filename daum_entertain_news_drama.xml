@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-04T14:10:26.962Z</updated>
+    <updated>2022-07-04T15:11:56.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈·강태오·강기영 웃음꽃 B컷→케미 맛집]]></title>
+        <id>https://entertain.v.daum.net/v/20220705000506059</id>
+        <link href="https://entertain.v.daum.net/v/20220705000506059"/>
+        <updated>2022-07-04T15:11:47.849Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘·이유영→강영석 2막 앞두고 웃음꽃 B컷]]></title>
+        <id>https://entertain.v.daum.net/v/20220705000212964</id>
+        <link href="https://entertain.v.daum.net/v/20220705000212964"/>
+        <updated>2022-07-04T15:11:47.850Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 오연서, 서인국에 "당신 실수에 한재준 살해 당했어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220704231410629</id>
+        <link href="https://entertain.v.daum.net/v/20220704231410629"/>
+        <updated>2022-07-04T15:11:47.851Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 서인국, 드디어 무당 된 이유 밝혀져]]></title>
         <id>https://entertain.v.daum.net/v/20220704225607502</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220704193428518"/>
         <updated>2022-07-04T11:10:04.387Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현X나인우, 수비 커플의 심쿵 대사 모음]]></title>
-        <id>https://entertain.v.daum.net/v/20220704192827422</id>
-        <link href="https://entertain.v.daum.net/v/20220704192827422"/>
-        <updated>2022-07-04T11:10:04.390Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여진구X문가영, 심장 터질 듯한 첫 키스 1초 전 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220704184153827</id>
-        <link href="https://entertain.v.daum.net/v/20220704184153827"/>
-        <updated>2022-07-04T10:14:20.227Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의 집' 조폐국 탄생 과정.."한국적이고 모던해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220704174115402</id>
-        <link href="https://entertain.v.daum.net/v/20220704174115402"/>
-        <updated>2022-07-04T09:11:51.360Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
