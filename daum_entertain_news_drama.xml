@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-04T21:10:22.078Z</updated>
+    <updated>2022-07-04T22:11:16.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마 '상속자들' 남미서 인기]]></title>
+        <id>https://entertain.v.daum.net/v/20220705063016589</id>
+        <link href="https://entertain.v.daum.net/v/20220705063016589"/>
+        <updated>2022-07-04T22:11:08.057Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베테랑 '男-男 콤비'가 온다]]></title>
+        <id>https://entertain.v.daum.net/v/20220705063011581</id>
+        <link href="https://entertain.v.daum.net/v/20220705063011581"/>
+        <updated>2022-07-04T22:11:08.057Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국, 왜 프로파일러에서 박수무당 됐는가]]></title>
+        <id>https://entertain.v.daum.net/v/20220705063008579</id>
+        <link href="https://entertain.v.daum.net/v/20220705063008579"/>
+        <updated>2022-07-04T22:11:08.062Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우현주 '아다마스' 출연 확정, 지성과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220705062804555</id>
+        <link href="https://entertain.v.daum.net/v/20220705062804555"/>
+        <updated>2022-07-04T22:11:08.062Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여진구, 문가영에 아픈 가족사 털어놔.."난 행복해질 용기가 없어"]]></title>
         <id>https://entertain.v.daum.net/v/20220705060208262</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220704211403622"/>
         <updated>2022-07-04T12:32:48.203Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차민지, 자신 과거 캐는 박해미 의심 차단→ 역할대행 써 위기 넘겼다]]></title>
-        <id>https://entertain.v.daum.net/v/20220704210302487</id>
-        <link href="https://entertain.v.daum.net/v/20220704210302487"/>
-        <updated>2022-07-04T12:32:48.204Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['으라차차 내 인생' 차민지, 흥신소 알아보는 예비 시댁에 당황]]></title>
-        <id>https://entertain.v.daum.net/v/20220704210250483</id>
-        <link href="https://entertain.v.daum.net/v/20220704210250483"/>
-        <updated>2022-07-04T12:32:48.206Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["월급 루팡도 대도급" '편의점 고인물' 전 타임 알바생 만행에 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220704204402264</id>
-        <link href="https://entertain.v.daum.net/v/20220704204402264"/>
-        <updated>2022-07-04T12:32:48.207Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 나영희에 경고 "똑같이 따귀 때리고 싶지만 참아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220704204051247</id>
-        <link href="https://entertain.v.daum.net/v/20220704204051247"/>
-        <updated>2022-07-04T12:32:48.209Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
