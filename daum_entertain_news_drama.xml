@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-04T13:43:19.731Z</updated>
+    <updated>2022-07-04T14:10:26.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국, 드디어 무당 된 이유 밝혀져]]></title>
+        <id>https://entertain.v.daum.net/v/20220704225607502</id>
+        <link href="https://entertain.v.daum.net/v/20220704225607502"/>
+        <updated>2022-07-04T14:10:16.757Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 숨어든 오연서, 서인국과 몸싸움..단서는 손안에]]></title>
         <id>https://entertain.v.daum.net/v/20220704221403237</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220704174115402"/>
         <updated>2022-07-04T09:11:51.360Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 거짓말쟁이 수지, 왠지 응원하게 되는 건]]></title>
-        <id>https://entertain.v.daum.net/v/20220704170411233</id>
-        <link href="https://entertain.v.daum.net/v/20220704170411233"/>
-        <updated>2022-07-04T08:24:15.398Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
