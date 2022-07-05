@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-05T09:21:45.258Z</updated>
+    <updated>2022-07-05T10:22:25.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아크미디어, 드라마·영화 공모전]]></title>
+        <id>https://entertain.v.daum.net/v/20220705190307478</id>
+        <link href="https://entertain.v.daum.net/v/20220705190307478"/>
+        <updated>2022-07-05T10:22:17.583Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다름이 인정되는, 무해한..박은빈 열연 BEST]]></title>
+        <id>https://entertain.v.daum.net/v/20220705190009398</id>
+        <link href="https://entertain.v.daum.net/v/20220705190009398"/>
+        <updated>2022-07-05T10:22:17.585Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성오 "'종이의 집' 원작은 불호, 하지만 리메이크작은 호"]]></title>
         <id>https://entertain.v.daum.net/v/20220705181219214</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220705145617013</id>
         <link href="https://entertain.v.daum.net/v/20220705145617013"/>
         <updated>2022-07-05T06:14:59.960Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 이이경 "초반엔 '나는 솔로지옥'·'나는 싱글즈'라더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220705144414405</id>
-        <link href="https://entertain.v.daum.net/v/20220705144414405"/>
-        <updated>2022-07-05T06:14:59.962Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍' 김민재 심의 변신 첫 스틸.."캐릭터 설정 신선해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220705142545518</id>
-        <link href="https://entertain.v.daum.net/v/20220705142545518"/>
-        <updated>2022-07-05T06:14:59.973Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
