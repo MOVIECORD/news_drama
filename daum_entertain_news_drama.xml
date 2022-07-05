@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-05T14:12:55.622Z</updated>
+    <updated>2022-07-05T15:13:02.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손현주·장승조 환상 케미 온다, 30일 첫방]]></title>
+        <id>https://entertain.v.daum.net/v/20220705235715137</id>
+        <link href="https://entertain.v.daum.net/v/20220705235715137"/>
+        <updated>2022-07-05T15:12:52.207Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서현진 없으면 전개 불가→엔딩 명장면 셋]]></title>
+        <id>https://entertain.v.daum.net/v/20220705235515123</id>
+        <link href="https://entertain.v.daum.net/v/20220705235515123"/>
+        <updated>2022-07-05T15:12:52.209Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘 역전의 후반전 어떨까, 2막 관전포인트]]></title>
+        <id>https://entertain.v.daum.net/v/20220705235008085</id>
+        <link href="https://entertain.v.daum.net/v/20220705235008085"/>
+        <updated>2022-07-05T15:12:52.228Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 오연서 서인국, 범인 잡나.."최형섭이 돌아왔어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220705231830874</id>
+        <link href="https://entertain.v.daum.net/v/20220705231830874"/>
+        <updated>2022-07-05T15:12:52.231Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 황우슬혜, 서인국에 엉뚱한 고백 "재벌 꿈 이뤄 줄게"]]></title>
         <id>https://entertain.v.daum.net/v/20220705224917680</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220705193746287"/>
         <updated>2022-07-05T11:12:03.338Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아크미디어, 드라마·영화 공모전]]></title>
-        <id>https://entertain.v.daum.net/v/20220705190307478</id>
-        <link href="https://entertain.v.daum.net/v/20220705190307478"/>
-        <updated>2022-07-05T10:22:17.583Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다름이 인정되는, 무해한..박은빈 열연 BEST]]></title>
-        <id>https://entertain.v.daum.net/v/20220705190009398</id>
-        <link href="https://entertain.v.daum.net/v/20220705190009398"/>
-        <updated>2022-07-05T10:22:17.585Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성오 "'종이의 집' 원작은 불호, 하지만 리메이크작은 호"]]></title>
-        <id>https://entertain.v.daum.net/v/20220705181219214</id>
-        <link href="https://entertain.v.daum.net/v/20220705181219214"/>
-        <updated>2022-07-05T09:21:35.081Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돼지의 왕', '판타지아 필름 페스티벌 2022' 초청돼]]></title>
-        <id>https://entertain.v.daum.net/v/20220705174908498</id>
-        <link href="https://entertain.v.daum.net/v/20220705174908498"/>
-        <updated>2022-07-05T09:21:35.105Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
