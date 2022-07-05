@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-05T12:22:41.031Z</updated>
+    <updated>2022-07-05T13:39:00.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국, 드디어 밝혀지나..권혁에 "윗선 누구인지 불어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220705222654513</id>
+        <link href="https://entertain.v.daum.net/v/20220705222654513"/>
+        <updated>2022-07-05T13:38:51.139Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차민지, 박해미 혼전계약서에 사인→ 결혼 골인.."내 과거 절대 안 들켜"]]></title>
         <id>https://entertain.v.daum.net/v/20220705205501778</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220705165403563"/>
         <updated>2022-07-05T08:14:39.336Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 서인국·곽시양→강미나, 놀이공원엔 왜? 유쾌한 나들이]]></title>
-        <id>https://entertain.v.daum.net/v/20220705161028328</id>
-        <link href="https://entertain.v.daum.net/v/20220705161028328"/>
-        <updated>2022-07-05T07:11:17.634Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
