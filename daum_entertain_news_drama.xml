@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-05T04:31:10.359Z</updated>
+    <updated>2022-07-05T05:16:20.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['종이의 집' 김성오 "원작은 실망, 한국판은 재밌어"]]></title>
+        <title type="html"><![CDATA[박은빈=우영우, ENA채널 새 역사 쓰더니 시청률 2배x넷플릭스 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220705140906926</id>
+        <link href="https://entertain.v.daum.net/v/20220705140906926"/>
+        <updated>2022-07-05T05:16:10.845Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['링크' 여진구x송덕호, 한때 절친이었는데..주먹다짐 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220705140207678</id>
+        <link href="https://entertain.v.daum.net/v/20220705140207678"/>
+        <updated>2022-07-05T05:16:10.847Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이상한 변호사 우영우' 드라마+웹툰으로 동시에 만난다]]></title>
+        <id>https://entertain.v.daum.net/v/20220705134604085</id>
+        <link href="https://entertain.v.daum.net/v/20220705134604085"/>
+        <updated>2022-07-05T05:16:10.847Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['종이의 집' 김성오 "원작은 안 봤지만, 한국판은 더 재밌어"]]></title>
         <id>https://entertain.v.daum.net/v/20220705132702552</id>
         <link href="https://entertain.v.daum.net/v/20220705132702552"/>
         <updated>2022-07-05T04:31:00.268Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220705111415056"/>
         <updated>2022-07-05T03:16:57.116Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 똑단발도 완벽 소화 新인생캐 경신하나]]></title>
-        <id>https://entertain.v.daum.net/v/20220705111016836</id>
-        <link href="https://entertain.v.daum.net/v/20220705111016836"/>
-        <updated>2022-07-05T03:16:57.118Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 서현진 열연 빛난 역대급 엔딩 명장면3 #700억 #구치소행 #황인엽]]></title>
-        <id>https://entertain.v.daum.net/v/20220705105556957</id>
-        <link href="https://entertain.v.daum.net/v/20220705105556957"/>
-        <updated>2022-07-05T03:16:57.119Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국, 곽시양과 공조 수사 시작..예상치 못한 난관]]></title>
-        <id>https://entertain.v.daum.net/v/20220705104731567</id>
-        <link href="https://entertain.v.daum.net/v/20220705104731567"/>
-        <updated>2022-07-05T03:16:57.122Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
