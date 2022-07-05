@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-05T08:14:48.619Z</updated>
+    <updated>2022-07-05T09:21:45.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성오 "'종이의 집' 원작은 불호, 하지만 리메이크작은 호"]]></title>
+        <id>https://entertain.v.daum.net/v/20220705181219214</id>
+        <link href="https://entertain.v.daum.net/v/20220705181219214"/>
+        <updated>2022-07-05T09:21:35.081Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돼지의 왕', '판타지아 필름 페스티벌 2022' 초청돼]]></title>
+        <id>https://entertain.v.daum.net/v/20220705174908498</id>
+        <link href="https://entertain.v.daum.net/v/20220705174908498"/>
+        <updated>2022-07-05T09:21:35.105Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 연기가 되니 뭘하든 됩니다]]></title>
         <id>https://entertain.v.daum.net/v/20220705165403563</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220705142545518"/>
         <updated>2022-07-05T06:14:59.973Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈=우영우, ENA채널 새 역사 쓰더니 시청률 2배x넷플릭스 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220705140906926</id>
-        <link href="https://entertain.v.daum.net/v/20220705140906926"/>
-        <updated>2022-07-05T05:16:10.845Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['링크' 여진구x송덕호, 한때 절친이었는데..주먹다짐 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220705140207678</id>
-        <link href="https://entertain.v.daum.net/v/20220705140207678"/>
-        <updated>2022-07-05T05:16:10.847Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
