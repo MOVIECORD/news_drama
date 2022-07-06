@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-06T09:12:15.528Z</updated>
+    <updated>2022-07-06T10:13:52.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['프듀X' 출신 권희준, '뉴노멀진' 성소수자 역 사랑스럽게 소화]]></title>
+        <id>https://entertain.v.daum.net/v/20220706190132658</id>
+        <link href="https://entertain.v.daum.net/v/20220706190132658"/>
+        <updated>2022-07-06T10:13:42.399Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드라마 한 편이 세상을 바꾼다는 믿음..'이상한 변호사 우영우']]></title>
         <id>https://entertain.v.daum.net/v/20220706181025252</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220706140642646"/>
         <updated>2022-07-06T05:23:01.082Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱·정소민 사제 로맨스 통했다..'환혼' 영상 누적 조회수 2100만뷰↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220706135553199</id>
-        <link href="https://entertain.v.daum.net/v/20220706135553199"/>
-        <updated>2022-07-06T05:23:01.083Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
