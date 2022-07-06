@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-06T13:43:33.276Z</updated>
+    <updated>2022-07-06T14:12:55.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽, 서예지X박병은 동거 알고 질투 "복수심뿐 맞아?" '이브']]></title>
+        <id>https://entertain.v.daum.net/v/20220706230535107</id>
+        <link href="https://entertain.v.daum.net/v/20220706230535107"/>
+        <updated>2022-07-06T14:12:45.633Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인사이더' 강하늘, 문성근에 무릎 꿇고 오열..청부 살인 승낙]]></title>
+        <id>https://entertain.v.daum.net/v/20220706225844069</id>
+        <link href="https://entertain.v.daum.net/v/20220706225844069"/>
+        <updated>2022-07-06T14:12:45.634Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사이더' 강하늘, 문성근 앞에 무릎 꿇었다]]></title>
         <id>https://entertain.v.daum.net/v/20220706223301872</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220706181025252"/>
         <updated>2022-07-06T09:12:06.338Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 강하늘은 왜? 김상호는 왜?..'왜?'에 묻힌 서스펜스]]></title>
-        <id>https://entertain.v.daum.net/v/20220706180714161</id>
-        <link href="https://entertain.v.daum.net/v/20220706180714161"/>
-        <updated>2022-07-06T09:12:06.340Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지드래곤 그녀' 김아현, '뉴노멀진' 원나잇 OK 트렌디걸 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220706175222662</id>
-        <link href="https://entertain.v.daum.net/v/20220706175222662"/>
-        <updated>2022-07-06T09:12:06.341Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
