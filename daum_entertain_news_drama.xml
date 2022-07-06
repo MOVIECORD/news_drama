@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-06T06:14:55.759Z</updated>
+    <updated>2022-07-06T07:10:59.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클리닝 업' 밉상 오승윤, 나인우가 대신 한 방 날렸다]]></title>
+        <id>https://entertain.v.daum.net/v/20220706154407533</id>
+        <link href="https://entertain.v.daum.net/v/20220706154407533"/>
+        <updated>2022-07-06T07:10:49.514Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가짜 이강석 사건' 모티브 웹툰 '귀인', 드라마로 제작 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20220706153011919</id>
+        <link href="https://entertain.v.daum.net/v/20220706153011919"/>
+        <updated>2022-07-06T07:10:49.515Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뉴노멀진' 김아현X권희진X최연규 핫한 셀럽 군단..빈틈없는 매력폭발]]></title>
         <id>https://entertain.v.daum.net/v/20220706145511241</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220706130720514"/>
         <updated>2022-07-06T04:41:59.513Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서예지♥박병은, 둘만의 성당 언약식..반지 끼워주며 관계 공식화]]></title>
-        <id>https://entertain.v.daum.net/v/20220706130542460</id>
-        <link href="https://entertain.v.daum.net/v/20220706130542460"/>
-        <updated>2022-07-06T04:41:59.514Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박병은, 유선과 이혼 소송..서예지와 관계 공식화]]></title>
-        <id>https://entertain.v.daum.net/v/20220706130520450</id>
-        <link href="https://entertain.v.daum.net/v/20220706130520450"/>
-        <updated>2022-07-06T04:41:59.515Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
