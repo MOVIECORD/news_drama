@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-06T15:13:27.917Z</updated>
+    <updated>2022-07-06T16:16:14.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이브' 박병은, 서예지에 성당 프러포즈 "남은 생 당신 위해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220707001555730</id>
+        <link href="https://entertain.v.daum.net/v/20220707001555730"/>
+        <updated>2022-07-06T16:16:04.467Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사이더' 강하늘, 문성근 속이고 홍서준 포섭했다]]></title>
         <id>https://entertain.v.daum.net/v/20220707001225716</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220706202316561"/>
         <updated>2022-07-06T12:23:25.504Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 박찬환 도음으로 아들 찾아왔다..연민지, "아버지가 무슨 상관이에요?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220706202101497</id>
-        <link href="https://entertain.v.daum.net/v/20220706202101497"/>
-        <updated>2022-07-06T12:23:25.506Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
