@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-07T19:09:16.957Z</updated>
+    <updated>2022-07-07T20:12:51.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서현·서예지' 밀어낸 박은빈..'우영우' 시청률, 배로 '껑충']]></title>
+        <id>https://entertain.v.daum.net/v/20220708050110504</id>
+        <link href="https://entertain.v.daum.net/v/20220708050110504"/>
+        <updated>2022-07-07T20:12:40.137Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선빈·한선화·정은지·최시원, '술도녀2' 첫 촬영 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220708050012429</id>
+        <link href="https://entertain.v.daum.net/v/20220708050012429"/>
+        <updated>2022-07-07T20:12:40.139Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희선→정유진, 욕망 복수 난리난 스틸 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220708040012000</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220707230019926"/>
         <updated>2022-07-07T14:11:57.110Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['징크스의 연인' 서현, 나인우와 이별 "이제 집으로 돌아갈게"]]></title>
-        <id>https://entertain.v.daum.net/v/20220707224628822</id>
-        <link href="https://entertain.v.daum.net/v/20220707224628822"/>
-        <updated>2022-07-07T14:11:57.111Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 강하늘, 홍서준 정체 추궁 "신선동 사람이냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220707224253791</id>
-        <link href="https://entertain.v.daum.net/v/20220707224253791"/>
-        <updated>2022-07-07T14:11:57.113Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
