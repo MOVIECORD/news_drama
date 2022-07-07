@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-07T20:12:51.875Z</updated>
+    <updated>2022-07-07T21:10:41.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이브' 유선, 밝혀낸 서예지 정체.. "이라엘" 숨멎 긴장감]]></title>
+        <id>https://entertain.v.daum.net/v/20220708060701817</id>
+        <link href="https://entertain.v.daum.net/v/20220708060701817"/>
+        <updated>2022-07-07T21:10:31.326Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서현·서예지' 밀어낸 박은빈..'우영우' 시청률, 배로 '껑충']]></title>
         <id>https://entertain.v.daum.net/v/20220708050110504</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220707230134934"/>
         <updated>2022-07-07T14:11:57.108Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이브' 박병은 "더 멀리 도망가자"..흔들리는 서예지]]></title>
-        <id>https://entertain.v.daum.net/v/20220707230019926</id>
-        <link href="https://entertain.v.daum.net/v/20220707230019926"/>
-        <updated>2022-07-07T14:11:57.110Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
