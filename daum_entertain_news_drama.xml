@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-07T09:11:47.557Z</updated>
+    <updated>2022-07-07T10:12:45.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['안나' 김준한 "수지와 결혼, 세상에서 제일 부럽다는 말 들어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220707185014119</id>
+        <link href="https://entertain.v.daum.net/v/20220707185014119"/>
+        <updated>2022-07-07T10:12:35.552Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지은·홍종현, 떡상기원하며 대본리딩]]></title>
         <id>https://entertain.v.daum.net/v/20220707180806063</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220707162912587"/>
         <updated>2022-07-07T08:16:12.300Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱부터 유인수까지, 정소민과 관계성에 '설렘은 4배']]></title>
-        <id>https://entertain.v.daum.net/v/20220707160937925</id>
-        <link href="https://entertain.v.daum.net/v/20220707160937925"/>
-        <updated>2022-07-07T07:10:56.491Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
