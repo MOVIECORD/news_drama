@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-08T04:34:13.559Z</updated>
+    <updated>2022-07-08T05:19:48.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국, 원래는 '프로파일러' 였다]]></title>
+        <id>https://entertain.v.daum.net/v/20220708135612174</id>
+        <link href="https://entertain.v.daum.net/v/20220708135612174"/>
+        <updated>2022-07-08T05:19:38.561Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 신성록X임수향 이사회 기습, 이경영 분노 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220708133853748</id>
+        <link href="https://entertain.v.daum.net/v/20220708133853748"/>
+        <updated>2022-07-08T05:19:38.561Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["완전 FOX 남주" 강태오 향한 뜨거운 반응! '우영우' 송무팀 직원의 멜로 눈깔은 유죄]]></title>
+        <id>https://entertain.v.daum.net/v/20220708133714717</id>
+        <link href="https://entertain.v.daum.net/v/20220708133714717"/>
+        <updated>2022-07-08T05:19:38.561Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지의 숨겨진 이야기..'안나' 8월 확장판 공개 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220708132836502</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220708115408633"/>
         <updated>2022-07-08T03:36:26.387Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의 집' 박명훈 "이주빈-김지훈과 삼각관계, 기분 좋았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220708115237599</id>
-        <link href="https://entertain.v.daum.net/v/20220708115237599"/>
-        <updated>2022-07-08T03:36:26.388Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박명훈 "'종이의 집' 본 아내, 엄청 찌질하다고 한마디"]]></title>
-        <id>https://entertain.v.daum.net/v/20220708115232596</id>
-        <link href="https://entertain.v.daum.net/v/20220708115232596"/>
-        <updated>2022-07-08T03:36:26.391Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동은, '으라차차 내 인생' OST '사랑은 너야' 가창..10일 음원 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220708115040540</id>
-        <link href="https://entertain.v.daum.net/v/20220708115040540"/>
-        <updated>2022-07-08T03:36:26.392Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
