@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-08T10:23:21.136Z</updated>
+    <updated>2022-07-08T11:10:28.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 이중문, 불륜 사실 고백 "그래 잤어..실수야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220708200719361</id>
+        <link href="https://entertain.v.daum.net/v/20220708200719361"/>
+        <updated>2022-07-08T11:10:19.260Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어', 소지섭 VS 김구택 대면 포착..김형묵 죽음 충격 진실 접근]]></title>
+        <id>https://entertain.v.daum.net/v/20220708195348132</id>
+        <link href="https://entertain.v.daum.net/v/20220708195348132"/>
+        <updated>2022-07-08T11:10:19.261Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 정헌 행동 의심 "다른 손자 있을 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220708193937834</id>
+        <link href="https://entertain.v.daum.net/v/20220708193937834"/>
+        <updated>2022-07-08T11:10:19.261Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[따뜻하기만 한 '레트로걸' 정혜성, 황승언 향해 본 적 없는 분노]]></title>
         <id>https://entertain.v.daum.net/v/20220708183932702</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220708145006793"/>
         <updated>2022-07-08T06:16:33.163Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 측 "국내 드라마 최초 웹툰업계 배경, 정체성 담았다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220708142600030</id>
-        <link href="https://entertain.v.daum.net/v/20220708142600030"/>
-        <updated>2022-07-08T06:16:33.166Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국, 원래는 '프로파일러' 였다]]></title>
-        <id>https://entertain.v.daum.net/v/20220708135612174</id>
-        <link href="https://entertain.v.daum.net/v/20220708135612174"/>
-        <updated>2022-07-08T05:19:38.561Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 신성록X임수향 이사회 기습, 이경영 분노 포착]]></title>
-        <id>https://entertain.v.daum.net/v/20220708133853748</id>
-        <link href="https://entertain.v.daum.net/v/20220708133853748"/>
-        <updated>2022-07-08T05:19:38.561Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
