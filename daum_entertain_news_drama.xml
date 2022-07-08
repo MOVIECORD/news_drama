@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-08T15:11:45.697Z</updated>
+    <updated>2022-07-08T16:18:42.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 키, 박나래X김해준 훈련 "선수 키우는 영화 같아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220709004337488</id>
+        <link href="https://entertain.v.daum.net/v/20220709004337488"/>
+        <updated>2022-07-08T16:18:31.576Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 코쿤 "가족 4인서 3인분 주문"..역시 '소식좌' 가족]]></title>
+        <id>https://entertain.v.daum.net/v/20220709001714351</id>
+        <link href="https://entertain.v.daum.net/v/20220709001714351"/>
+        <updated>2022-07-08T16:18:31.576Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["넌 날 속였어"..서현진, 황인엽 과거 알고 선 그었다]]></title>
         <id>https://entertain.v.daum.net/v/20220708235119129</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220708213510737"/>
         <updated>2022-07-08T13:31:33.431Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 정헌 "서하준 딸 데려올까?"→화난 이승연에 따귀]]></title>
-        <id>https://entertain.v.daum.net/v/20220708212426555</id>
-        <link href="https://entertain.v.daum.net/v/20220708212426555"/>
-        <updated>2022-07-08T13:31:33.431Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박세완, 캐릭터 소화제 '이유 있는 호평'..매 작품 흡수력↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220708211656414</id>
-        <link href="https://entertain.v.daum.net/v/20220708211656414"/>
-        <updated>2022-07-08T12:21:12.850Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
