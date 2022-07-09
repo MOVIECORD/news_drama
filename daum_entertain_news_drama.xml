@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-09T06:13:57.862Z</updated>
+    <updated>2022-07-09T07:11:18.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이현진, 복수 칼 빼든 차예련의 키다리 될까 '로맨스 기류']]></title>
+        <id>https://entertain.v.daum.net/v/20220709155739163</id>
+        <link href="https://entertain.v.daum.net/v/20220709155739163"/>
+        <updated>2022-07-09T07:11:10.270Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지가 열고 닫은 '안나', 아직 끝이 아니다]]></title>
+        <id>https://entertain.v.daum.net/v/20220709153951002</id>
+        <link href="https://entertain.v.daum.net/v/20220709153951002"/>
+        <updated>2022-07-09T07:11:10.270Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유명가수전' 이은미·김소연, 불금 수놓은 환상 하모니]]></title>
+        <id>https://entertain.v.daum.net/v/20220709151546761</id>
+        <link href="https://entertain.v.daum.net/v/20220709151546761"/>
+        <updated>2022-07-09T07:11:10.275Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지가 보여준 매혹적인 파국, 유독 여운 길게 남은 까닭]]></title>
         <id>https://entertain.v.daum.net/v/20220709150807684</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220709132228653"/>
         <updated>2022-07-09T05:10:15.501Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 서현진vs김영필, 10년만 또다시 진실의 대립]]></title>
-        <id>https://entertain.v.daum.net/v/20220709130836551</id>
-        <link href="https://entertain.v.daum.net/v/20220709130836551"/>
-        <updated>2022-07-09T04:16:53.138Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 황민현, 정소민 향한 눈빛 변화..첫사랑 기억 찾는다]]></title>
-        <id>https://entertain.v.daum.net/v/20220709130432520</id>
-        <link href="https://entertain.v.daum.net/v/20220709130432520"/>
-        <updated>2022-07-09T04:16:53.139Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드 쿤스트, 뒤늦게 전한 손자의 진심 '최고의 1분']]></title>
-        <id>https://entertain.v.daum.net/v/20220709113733960</id>
-        <link href="https://entertain.v.daum.net/v/20220709113733960"/>
-        <updated>2022-07-09T02:54:43.796Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
