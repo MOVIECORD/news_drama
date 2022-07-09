@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-09T07:11:18.936Z</updated>
+    <updated>2022-07-09T08:14:23.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍서희, 탄탄한 연기력+단아한 미모로 존재감 과시]]></title>
+        <id>https://entertain.v.daum.net/v/20220709171002797</id>
+        <link href="https://entertain.v.daum.net/v/20220709171002797"/>
+        <updated>2022-07-09T08:14:13.492Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 소지섭X임수향, 5년 전 심장 드디어 찾나]]></title>
+        <id>https://entertain.v.daum.net/v/20220709162058356</id>
+        <link href="https://entertain.v.daum.net/v/20220709162058356"/>
+        <updated>2022-07-09T08:14:13.494Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현진, 복수 칼 빼든 차예련의 키다리 될까 '로맨스 기류']]></title>
         <id>https://entertain.v.daum.net/v/20220709155739163</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220709133425705"/>
         <updated>2022-07-09T05:10:15.501Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현진vs김영필, '전나정 사건' 10년만 진실 대립.."충격 반전 있다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220709132704670</id>
-        <link href="https://entertain.v.daum.net/v/20220709132704670"/>
-        <updated>2022-07-09T05:10:15.501Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짝사랑했는데 아이 있는 유부남..정혜성, 충격 비밀에 흑화]]></title>
-        <id>https://entertain.v.daum.net/v/20220709132228653</id>
-        <link href="https://entertain.v.daum.net/v/20220709132228653"/>
-        <updated>2022-07-09T05:10:15.501Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
