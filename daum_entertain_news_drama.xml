@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-10T14:10:57.099Z</updated>
+    <updated>2022-07-10T15:11:45.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클리닝업' 염정아, 내부 정보 캐내다 이무생 마주쳐]]></title>
+        <id>https://entertain.v.daum.net/v/20220711000802708</id>
+        <link href="https://entertain.v.daum.net/v/20220711000802708"/>
+        <updated>2022-07-10T15:11:35.833Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최영준 美친 완급조절 연기→존재감 빛나]]></title>
+        <id>https://entertain.v.daum.net/v/20220710235810551</id>
+        <link href="https://entertain.v.daum.net/v/20220710235810551"/>
+        <updated>2022-07-10T15:11:35.837Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최수린, 녹취 폭로 →박지영 "나 친딸 아니야", 입양 사실 인정]]></title>
+        <id>https://entertain.v.daum.net/v/20220710235538538</id>
+        <link href="https://entertain.v.daum.net/v/20220710235538538"/>
+        <updated>2022-07-10T15:11:35.837Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리닝업' 염정아X갈소원 애틋한 모녀지간.."언제 같이 살아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220710235253531</id>
+        <link href="https://entertain.v.daum.net/v/20220710235253531"/>
+        <updated>2022-07-10T15:11:35.839Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클리닝업' 전소민, ♥나인우 본격 러브라인 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220710230957320</id>
@@ -20,7 +48,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재욱, 숨겨둔 힘 공개..전소민 "유준상 밑으로 들어가라"]]></title>
+        <title type="html"><![CDATA[이재욱, 숨겨둔 힘 공개..정소민 "유준상 밑으로 들어가라"]]></title>
         <id>https://entertain.v.daum.net/v/20220710224423158</id>
         <link href="https://entertain.v.daum.net/v/20220710224423158"/>
         <updated>2022-07-10T14:10:48.078Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710213328619"/>
         <updated>2022-07-10T13:20:47.874Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 박지영, 시누이 최수린 도발에 "친딸 아니야" 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220710212540524</id>
-        <link href="https://entertain.v.daum.net/v/20220710212540524"/>
-        <updated>2022-07-10T13:20:47.875Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 오민석♥신동미, 결혼반대에 속앓이→박지영, 입양사실 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220710212100459</id>
-        <link href="https://entertain.v.daum.net/v/20220710212100459"/>
-        <updated>2022-07-10T13:20:47.877Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 박지영, 결국 입양 사실 인정..최수린에 "네 말 맞아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220710211940443</id>
-        <link href="https://entertain.v.daum.net/v/20220710211940443"/>
-        <updated>2022-07-10T13:20:47.877Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 신동미, ♥오민석에 "아이 갖는 건 자신 없다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220710204939103</id>
-        <link href="https://entertain.v.daum.net/v/20220710204939103"/>
-        <updated>2022-07-10T12:19:11.682Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
