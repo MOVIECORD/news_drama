@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-10T07:12:13.046Z</updated>
+    <updated>2022-07-10T08:14:07.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정은채 "'파친코'보다 '안나'때 SNS 팔로워수 급격히 올라가"]]></title>
+        <id>https://entertain.v.daum.net/v/20220710170929984</id>
+        <link href="https://entertain.v.daum.net/v/20220710170929984"/>
+        <updated>2022-07-10T08:13:57.732Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극본·연기·연출 3박자 맞았다..'이상한 변호사 우영우']]></title>
+        <id>https://entertain.v.daum.net/v/20220710165949757</id>
+        <link href="https://entertain.v.daum.net/v/20220710165949757"/>
+        <updated>2022-07-10T08:13:57.744Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황인엽 원망하지 않았다→서현진 눈물]]></title>
         <id>https://entertain.v.daum.net/v/20220710160116572</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710120009875"/>
         <updated>2022-07-10T03:27:16.054Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생 죽었나?..염정아 위해 목숨도 걸었다]]></title>
-        <id>https://entertain.v.daum.net/v/20220710115322796</id>
-        <link href="https://entertain.v.daum.net/v/20220710115322796"/>
-        <updated>2022-07-10T03:27:16.056Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀는 살아있다' 이유리VS정상훈, 이혼전쟁 갈수록 파국 "계획에 없던 일이다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220710113051494</id>
-        <link href="https://entertain.v.daum.net/v/20220710113051494"/>
-        <updated>2022-07-10T03:27:16.056Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
