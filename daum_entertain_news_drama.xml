@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-10T05:12:28.569Z</updated>
+    <updated>2022-07-10T06:14:27.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가', 왜 최영준인가!]]></title>
+        <id>https://entertain.v.daum.net/v/20220710150504636</id>
+        <link href="https://entertain.v.daum.net/v/20220710150504636"/>
+        <updated>2022-07-10T06:14:17.071Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["신동미 배다빈 최예빈 다 싫어"..예비시모 김혜옥 돌변]]></title>
+        <id>https://entertain.v.daum.net/v/20220710144832282</id>
+        <link href="https://entertain.v.daum.net/v/20220710144832282"/>
+        <updated>2022-07-10T06:14:17.079Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 최영준이 키플레이어였네]]></title>
+        <id>https://entertain.v.daum.net/v/20220710143610074</id>
+        <link href="https://entertain.v.daum.net/v/20220710143610074"/>
+        <updated>2022-07-10T06:14:17.083Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼' 이재욱, 신승호와 정식 재대결..필살기 탄수법 사용하나]]></title>
         <id>https://entertain.v.daum.net/v/20220710135456304</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710103505609"/>
         <updated>2022-07-10T03:27:16.056Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리닝 업' 이무생, 염정아 지키다 추락→싹쓸이단 2막 돌입]]></title>
-        <id>https://entertain.v.daum.net/v/20220710095912998</id>
-        <link href="https://entertain.v.daum.net/v/20220710095912998"/>
-        <updated>2022-07-10T01:06:27.915Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제발 결혼만 하라"던 김혜옥, 예비 며느리 신동미·배다빈 "다 싫어!"]]></title>
-        <id>https://entertain.v.daum.net/v/20220710095030869</id>
-        <link href="https://entertain.v.daum.net/v/20220710095030869"/>
-        <updated>2022-07-10T01:06:27.916Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱♥정소민, 진요원 거울 앞 진심 전달 "무덕아 보고 싶어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220710095019865</id>
-        <link href="https://entertain.v.daum.net/v/20220710095019865"/>
-        <updated>2022-07-10T01:06:27.916Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
