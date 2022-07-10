@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-10T10:11:49.775Z</updated>
+    <updated>2022-07-10T11:09:50.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 최영준, 키플레이어 활약에 기대감 높아진다]]></title>
+        <id>https://entertain.v.daum.net/v/20220710193948291</id>
+        <link href="https://entertain.v.daum.net/v/20220710193948291"/>
+        <updated>2022-07-10T11:09:39.840Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차량 추락→폭파, 이무생 괜찮을까]]></title>
         <id>https://entertain.v.daum.net/v/20220710171656143</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220710133314938"/>
         <updated>2022-07-10T05:12:18.967Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현우 "'종이의 집' 호불호? 모든 반응이 저에게 자양분"]]></title>
-        <id>https://entertain.v.daum.net/v/20220710122027195</id>
-        <link href="https://entertain.v.daum.net/v/20220710122027195"/>
-        <updated>2022-07-10T03:27:16.053Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
