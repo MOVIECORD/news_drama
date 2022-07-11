@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-11T03:27:44.498Z</updated>
+    <updated>2022-07-11T04:32:09.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김준한 "이제훈이 '안나' 보고 인생작이 될 것 같다 하더라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220711132748910</id>
+        <link href="https://entertain.v.daum.net/v/20220711132748910"/>
+        <updated>2022-07-11T04:31:58.869Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리닝 업' 염정아-전소민-김재화, 시청자 울린 명대사 살펴보니]]></title>
+        <id>https://entertain.v.daum.net/v/20220711132627860</id>
+        <link href="https://entertain.v.daum.net/v/20220711132627860"/>
+        <updated>2022-07-11T04:31:58.869Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조재윤, '환혼'의 사이코패스]]></title>
+        <id>https://entertain.v.daum.net/v/20220711124510214</id>
+        <link href="https://entertain.v.daum.net/v/20220711124510214"/>
+        <updated>2022-07-11T04:31:58.869Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정소민 연기 포텐 제대로 터졌다]]></title>
         <id>https://entertain.v.daum.net/v/20220711113913581</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220711101833532"/>
         <updated>2022-07-11T03:27:36.583Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민영, 페이소스 담은 흑화 미소 엔딩]]></title>
-        <id>https://entertain.v.daum.net/v/20220711101651441</id>
-        <link href="https://entertain.v.daum.net/v/20220711101651441"/>
-        <updated>2022-07-11T03:27:36.584Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멧돼지사냥' 젊은 PD들에 선택받은 이유 "기존 미니시리즈와 다른 매력"]]></title>
-        <id>https://entertain.v.daum.net/v/20220711100931103</id>
-        <link href="https://entertain.v.daum.net/v/20220711100931103"/>
-        <updated>2022-07-11T03:27:36.584Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["친딸 아냐"..박지영, 집요한 시누이 최수린에 결국 실토]]></title>
-        <id>https://entertain.v.daum.net/v/20220711095253270</id>
-        <link href="https://entertain.v.daum.net/v/20220711095253270"/>
-        <updated>2022-07-11T01:01:37.763Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
