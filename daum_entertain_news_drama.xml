@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-11T14:23:24.195Z</updated>
+    <updated>2022-07-11T15:12:06.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 작가 "배우들 합? 점수 불가..가장 이상적"]]></title>
+        <id>https://entertain.v.daum.net/v/20220712001009240</id>
+        <link href="https://entertain.v.daum.net/v/20220712001009240"/>
+        <updated>2022-07-11T15:11:56.696Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 서인국X오연서, 좁혀지는 수사 범위.. 수색 전쟁]]></title>
         <id>https://entertain.v.daum.net/v/20220711230401662</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220711173544404"/>
         <updated>2022-07-11T09:22:22.634Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입소문 '우영우', 화제성 197% 증가 1위 올킬..출연자 1위도 박은빈]]></title>
-        <id>https://entertain.v.daum.net/v/20220711172327951</id>
-        <link href="https://entertain.v.daum.net/v/20220711172327951"/>
-        <updated>2022-07-11T09:22:22.650Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
