@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-11T10:14:06.958Z</updated>
+    <updated>2022-07-11T11:09:23.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이영은, 가족에게 강별 불법 장기거래 사실 폭로]]></title>
+        <id>https://entertain.v.daum.net/v/20220711200241535</id>
+        <link href="https://entertain.v.daum.net/v/20220711200241535"/>
+        <updated>2022-07-11T11:09:13.046Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 유전자 검사 숨기는 정헌에 "내가 알아낼 거야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220711193845189</id>
+        <link href="https://entertain.v.daum.net/v/20220711193845189"/>
+        <updated>2022-07-11T11:09:13.047Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은♥박진영 이별→풀세팅 안보현 등판]]></title>
         <id>https://entertain.v.daum.net/v/20220711174445684</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220711154317275"/>
         <updated>2022-07-11T07:11:22.114Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최종병기 앨리스' 김성오, 액션에 눈빛까지 과몰입 유발자]]></title>
-        <id>https://entertain.v.daum.net/v/20220711153303914</id>
-        <link href="https://entertain.v.daum.net/v/20220711153303914"/>
-        <updated>2022-07-11T07:11:22.118Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국, 병동서 무당촉 발동..정만식도 홀린 마성남]]></title>
-        <id>https://entertain.v.daum.net/v/20220711152419569</id>
-        <link href="https://entertain.v.daum.net/v/20220711152419569"/>
-        <updated>2022-07-11T07:11:22.122Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
