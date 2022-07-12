@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-12T14:21:19.434Z</updated>
+    <updated>2022-07-12T15:12:52.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허성태·오대환 빌런美 폭주]]></title>
+        <id>https://entertain.v.daum.net/v/20220713000107052</id>
+        <link href="https://entertain.v.daum.net/v/20220713000107052"/>
+        <updated>2022-07-12T15:12:42.575Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘·이유영 공조 강화→허동원·정만식에 도발]]></title>
+        <id>https://entertain.v.daum.net/v/20220712235814006</id>
+        <link href="https://entertain.v.daum.net/v/20220712235814006"/>
+        <updated>2022-07-12T15:12:42.576Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상엽 VS 전국환, 맞대결 돌입]]></title>
+        <id>https://entertain.v.daum.net/v/20220712232848824</id>
+        <link href="https://entertain.v.daum.net/v/20220712232848824"/>
+        <updated>2022-07-12T15:12:42.589Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 오연서, 서인국과 키스.."사고야. 설렌 거 아냐" 밤Tview]]]></title>
         <id>https://entertain.v.daum.net/v/20220712231203723</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220712201102203"/>
         <updated>2022-07-12T11:11:58.585Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 죽은 줄 알았던 친父 사실에 충격]]></title>
-        <id>https://entertain.v.daum.net/v/20220712200059935</id>
-        <link href="https://entertain.v.daum.net/v/20220712200059935"/>
-        <updated>2022-07-12T11:11:58.588Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 강별, 불법 장기거래 폭로 이영은에 "네 발로 기어나가"]]></title>
-        <id>https://entertain.v.daum.net/v/20220712193732334</id>
-        <link href="https://entertain.v.daum.net/v/20220712193732334"/>
-        <updated>2022-07-12T11:11:58.592Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종이의 집' 이시우 "대체불가 수식어 갖고파..역할 커질수록 책임감 생겨"]]></title>
-        <id>https://entertain.v.daum.net/v/20220712174039212</id>
-        <link href="https://entertain.v.daum.net/v/20220712174039212"/>
-        <updated>2022-07-12T09:22:24.703Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
