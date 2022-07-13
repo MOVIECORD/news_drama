@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-13T10:15:23.548Z</updated>
+    <updated>2022-07-13T11:10:57.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 정헌, 가족사 밝히려는 서하준에 '분노']]></title>
+        <id>https://entertain.v.daum.net/v/20220713195829060</id>
+        <link href="https://entertain.v.daum.net/v/20220713195829060"/>
+        <updated>2022-07-13T11:10:46.695Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 낳아준 父 따로 있었다..'충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220713194033745</id>
+        <link href="https://entertain.v.daum.net/v/20220713194033745"/>
+        <updated>2022-07-13T11:10:46.700Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재발견? 기분 나빴다"..'데뷔 30년' 김희선, 약 먹으면서 도전ing]]></title>
         <id>https://entertain.v.daum.net/v/20220713191202191</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220713161159297"/>
         <updated>2022-07-13T08:15:35.039Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 서인국·곽시양·강미나·백서후, 검증된 케미! 요절복통 혼상 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220713161057262</id>
-        <link href="https://entertain.v.daum.net/v/20220713161057262"/>
-        <updated>2022-07-13T08:15:35.041Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 하차 박혜은 '아다마스' 출연확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220713154942342</id>
-        <link href="https://entertain.v.daum.net/v/20220713154942342"/>
-        <updated>2022-07-13T07:10:59.223Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
