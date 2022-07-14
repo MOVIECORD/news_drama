@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-14T20:14:28.124Z</updated>
+    <updated>2022-07-14T21:12:04.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제로섬게임' 고동완 PD "새로운 재미가 1순위, 우상향 성장 목표"]]></title>
+        <id>https://entertain.v.daum.net/v/20220715060110907</id>
+        <link href="https://entertain.v.daum.net/v/20220715060110907"/>
+        <updated>2022-07-14T21:11:54.467Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희선 손 잡은 '블랙의 신부' 넷플릭스에 없던 장르]]></title>
+        <id>https://entertain.v.daum.net/v/20220715060108901</id>
+        <link href="https://entertain.v.daum.net/v/20220715060108901"/>
+        <updated>2022-07-14T21:11:54.468Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이준호씨 좋아하는지 확인하고파" 마주선 박은빈X강태오 첫키스 3초전]]></title>
+        <id>https://entertain.v.daum.net/v/20220715055913747</id>
+        <link href="https://entertain.v.daum.net/v/20220715055913747"/>
+        <updated>2022-07-14T21:11:54.470Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 강태오X하윤경 지켜보며 싱숭생숭]]></title>
         <id>https://entertain.v.daum.net/v/20220715051306277</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220714233231070"/>
         <updated>2022-07-14T15:13:17.285Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이일화, 전국환에게 죽임 당했다..서예지, 친모 죽임 진실알고 '전면 복수전']]></title>
-        <id>https://entertain.v.daum.net/v/20220714232102951</id>
-        <link href="https://entertain.v.daum.net/v/20220714232102951"/>
-        <updated>2022-07-14T15:13:17.285Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 변호사 우영우' 박은빈, 강태오-하윤경 다정한 모습에 '싱숭생숭']]></title>
-        <id>https://entertain.v.daum.net/v/20220714230428803</id>
-        <link href="https://entertain.v.daum.net/v/20220714230428803"/>
-        <updated>2022-07-14T14:17:38.961Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이브' 서예지, 박병은 기절시키고 탈출하려다 생사 확인하고 눈물]]></title>
-        <id>https://entertain.v.daum.net/v/20220714230229763</id>
-        <link href="https://entertain.v.daum.net/v/20220714230229763"/>
-        <updated>2022-07-14T14:17:38.962Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
