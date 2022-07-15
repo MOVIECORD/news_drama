@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-15T16:16:59.605Z</updated>
+    <updated>2022-07-15T17:21:31.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 향하는 '클리닝업' 염정아X전소민X김재화, 드디어 떡상하나?]]></title>
+        <id>https://entertain.v.daum.net/v/20220716020004690</id>
+        <link href="https://entertain.v.daum.net/v/20220716020004690"/>
+        <updated>2022-07-15T17:21:22.795Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 허준호, 서현진에 "넌 지승현 절대 잡지 못해..지승현 딸은 네 친 딸"]]></title>
         <id>https://entertain.v.daum.net/v/20220716003600400</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220715222628366"/>
         <updated>2022-07-15T13:41:57.146Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이중문, 차예련에 미련 한 가득.."나 아직 너 많이 사랑하는 것 같아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220715202701590</id>
-        <link href="https://entertain.v.daum.net/v/20220715202701590"/>
-        <updated>2022-07-15T12:22:45.618Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
