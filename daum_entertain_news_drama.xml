@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-15T05:39:58.033Z</updated>
+    <updated>2022-07-15T06:14:57.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이경영, 오늘 청문회..소지섭 증인석에서 '다급']]></title>
+        <id>https://entertain.v.daum.net/v/20220715151055134</id>
+        <link href="https://entertain.v.daum.net/v/20220715151055134"/>
+        <updated>2022-07-15T06:14:49.079Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['편의점 고인물' 길에서 부모님을 잃어버린다면?..가까운 편의점으로]]></title>
+        <id>https://entertain.v.daum.net/v/20220715144617292</id>
+        <link href="https://entertain.v.daum.net/v/20220715144617292"/>
+        <updated>2022-07-15T06:14:49.079Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정호근, 박나래 '결혼운' 점사 "인연 생겨도 콩깍지 씌면 안돼"]]></title>
+        <id>https://entertain.v.daum.net/v/20220715144443231</id>
+        <link href="https://entertain.v.daum.net/v/20220715144443231"/>
+        <updated>2022-07-15T06:14:49.089Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, "KBS 한 번 더!"..'태풍의 신부' 여주인공 캐스팅]]></title>
         <id>https://entertain.v.daum.net/v/20220715141501232</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220715120756569"/>
         <updated>2022-07-15T03:52:09.171Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주종혁 밉상美 터졌네, 눈도장 확실]]></title>
-        <id>https://entertain.v.daum.net/v/20220715115751255</id>
-        <link href="https://entertain.v.daum.net/v/20220715115751255"/>
-        <updated>2022-07-15T03:52:09.174Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙의 신부' 통해 선보일 한국의 세계, 결혼정보회사]]></title>
-        <id>https://entertain.v.daum.net/v/20220715115644204</id>
-        <link href="https://entertain.v.daum.net/v/20220715115644204"/>
-        <updated>2022-07-15T03:52:09.175Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 권모술수 주종혁, 시청자 애증부른 밉상연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220715114234669</id>
-        <link href="https://entertain.v.daum.net/v/20220715114234669"/>
-        <updated>2022-07-15T03:52:09.177Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
