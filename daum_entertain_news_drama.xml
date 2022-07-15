@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-15T20:13:49.959Z</updated>
+    <updated>2022-07-15T21:11:35.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허준호, "재이 네 딸이야"..친딸 빌미로 서현진 협박]]></title>
+        <id>https://entertain.v.daum.net/v/20220716060207570</id>
+        <link href="https://entertain.v.daum.net/v/20220716060207570"/>
+        <updated>2022-07-15T21:11:24.849Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 소지섭X신성록X임수향, 이경영에 맞서 이길까?]]></title>
+        <id>https://entertain.v.daum.net/v/20220716055501422</id>
+        <link href="https://entertain.v.daum.net/v/20220716055501422"/>
+        <updated>2022-07-15T21:11:24.850Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 향하는 '클리닝업' 염정아X전소민X김재화, 드디어 떡상하나?]]></title>
         <id>https://entertain.v.daum.net/v/20220716020004690</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220715222642371</id>
         <link href="https://entertain.v.daum.net/v/20220715222642371"/>
         <updated>2022-07-15T13:41:57.145Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현진, 황인엽 변함없는 마음에 오열]]></title>
-        <id>https://entertain.v.daum.net/v/20220715222629367</id>
-        <link href="https://entertain.v.daum.net/v/20220715222629367"/>
-        <updated>2022-07-15T13:41:57.145Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터로이어' 신성록, 소지섭 위기에 "구하러 왔습니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220715222628366</id>
-        <link href="https://entertain.v.daum.net/v/20220715222628366"/>
-        <updated>2022-07-15T13:41:57.146Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
