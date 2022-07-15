@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-15T11:11:01.413Z</updated>
+    <updated>2022-07-15T12:22:55.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이중문, 차예련에 미련 한 가득.."나 아직 너 많이 사랑하는 것 같아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220715202701590</id>
+        <link href="https://entertain.v.daum.net/v/20220715202701590"/>
+        <updated>2022-07-15T12:22:45.618Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 집' 장항선, 서하준에게 건넨 유전자 검사 결과? '불일치']]></title>
         <id>https://entertain.v.daum.net/v/20220715195915081</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220715151509237"/>
         <updated>2022-07-15T07:11:01.197Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경영, 오늘 청문회..소지섭 증인석에서 '다급']]></title>
-        <id>https://entertain.v.daum.net/v/20220715151055134</id>
-        <link href="https://entertain.v.daum.net/v/20220715151055134"/>
-        <updated>2022-07-15T06:14:49.079Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
