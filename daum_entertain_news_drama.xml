@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-16T19:11:20.537Z</updated>
+    <updated>2022-07-16T20:11:57.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정 '오늘의 웹툰', 마감 전쟁 14인 포스터 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220717050021278</id>
+        <link href="https://entertain.v.daum.net/v/20220717050021278"/>
+        <updated>2022-07-16T20:11:46.857Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[센스 서현→깨발랄 나인우, '징크스의 연인' 촬영 현장]]></title>
         <id>https://entertain.v.daum.net/v/20220717020014098</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220716220930019"/>
         <updated>2022-07-16T13:20:49.998Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 황민현, 정소민에 "사모한다고 했다" 꽃 선물 '애틋']]></title>
-        <id>https://entertain.v.daum.net/v/20220716220251889</id>
-        <link href="https://entertain.v.daum.net/v/20220716220251889"/>
-        <updated>2022-07-16T13:20:49.998Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
