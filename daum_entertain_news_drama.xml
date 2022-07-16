@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-16T15:11:45.766Z</updated>
+    <updated>2022-07-16T16:14:38.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서현진, 허준호 협박→반격 시작.."700억+대표 자리 원해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220717005004959</id>
+        <link href="https://entertain.v.daum.net/v/20220717005004959"/>
+        <updated>2022-07-16T16:14:27.865Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지영, 시누이 최수린에 "천박해"→시母 반효정과 본격 갈등]]></title>
         <id>https://entertain.v.daum.net/v/20220716235934684</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220716220234880</id>
         <link href="https://entertain.v.daum.net/v/20220716220234880"/>
         <updated>2022-07-16T13:20:49.999Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재' 신동미♥오민석 상견례→셔츠 단추 풀어져 진땀]]></title>
-        <id>https://entertain.v.daum.net/v/20220716215023629</id>
-        <link href="https://entertain.v.daum.net/v/20220716215023629"/>
-        <updated>2022-07-16T13:20:50.000Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
