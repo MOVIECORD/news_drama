@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-17T05:14:41.235Z</updated>
+    <updated>2022-07-17T06:14:23.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꺼벙이' 오명 오민석, 연인 신동미 vs 母 김혜옥 사이 새우등]]></title>
+        <id>https://entertain.v.daum.net/v/20220717150430569</id>
+        <link href="https://entertain.v.daum.net/v/20220717150430569"/>
+        <updated>2022-07-17T06:14:12.278Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국, 오연서 앞에 두고 소리 고래고래]]></title>
         <id>https://entertain.v.daum.net/v/20220717134305038</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220717092651610"/>
         <updated>2022-07-17T01:05:30.417Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신성록, 불법 심장이식 VIP였나..'충격 엔딩']]></title>
-        <id>https://entertain.v.daum.net/v/20220717092001547</id>
-        <link href="https://entertain.v.daum.net/v/20220717092001547"/>
-        <updated>2022-07-17T01:05:30.417Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
