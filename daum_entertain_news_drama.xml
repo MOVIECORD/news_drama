@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-19T07:11:31.905Z</updated>
+    <updated>2022-07-19T08:15:09.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 강태오 화제성 1위..'우월감 없는 눈빛'에 녹는다]]></title>
+        <id>https://entertain.v.daum.net/v/20220719170922978</id>
+        <link href="https://entertain.v.daum.net/v/20220719170922978"/>
+        <updated>2022-07-19T08:14:59.670Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 시은 "'뷰티풀 몬스터', 틴 프레시 깨는 시발점"]]></title>
+        <id>https://entertain.v.daum.net/v/20220719165730398</id>
+        <link href="https://entertain.v.daum.net/v/20220719165730398"/>
+        <updated>2022-07-19T08:14:59.672Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여진구♥문가영, 폭풍전개 속 로맨스 화력 폭발]]></title>
+        <id>https://entertain.v.daum.net/v/20220719162211760</id>
+        <link href="https://entertain.v.daum.net/v/20220719162211760"/>
+        <updated>2022-07-19T08:14:59.672Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현욱 "'블랙의 신부' 이형주와 다른점=재력..비싼 슈퍼카 흠집날까 조심"]]></title>
         <id>https://entertain.v.daum.net/v/20220719152502376</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220719131004386"/>
         <updated>2022-07-19T05:03:11.166Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙의 신부' 이현욱 "'왜 안 죽냐' 반응 많아, 해피엔딩 처음이라 어색"]]></title>
-        <id>https://entertain.v.daum.net/v/20220719123914806</id>
-        <link href="https://entertain.v.daum.net/v/20220719123914806"/>
-        <updated>2022-07-19T03:54:16.695Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너랑 못 헤어져"..여진구, ♥︎문가영 잡았다 '구구절절 사랑고백']]></title>
-        <id>https://entertain.v.daum.net/v/20220719121607378</id>
-        <link href="https://entertain.v.daum.net/v/20220719121607378"/>
-        <updated>2022-07-19T03:54:16.697Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙의 신부' 이현욱 "결말 반전 걱정, 해피엔딩 어색..'왜 안죽냐'더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220719121223293</id>
-        <link href="https://entertain.v.daum.net/v/20220719121223293"/>
-        <updated>2022-07-19T03:54:16.698Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
