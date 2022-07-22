@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-22T11:11:06.634Z</updated>
+    <updated>2022-07-22T12:22:49.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연민지, 가짜 부모 발각에도 이중문에게 뻔뻔한 거짓말.."당신 사랑한 마음은 사기 아니야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220722202801455</id>
+        <link href="https://entertain.v.daum.net/v/20220722202801455"/>
+        <updated>2022-07-22T12:22:38.079Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 이중문, 차예련에 술주정 "아직 너 못 잊었어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220722202744453</id>
+        <link href="https://entertain.v.daum.net/v/20220722202744453"/>
+        <updated>2022-07-22T12:22:38.102Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황금가면' 연민지, 가짜 부모 들키자 "저 임신했어요"]]></title>
         <id>https://entertain.v.daum.net/v/20220722200301158</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220722155930333"/>
         <updated>2022-07-22T07:12:37.801Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 높아진 인기에 따라온 논란들, 어떻게 봐야 하나?]]></title>
-        <id>https://entertain.v.daum.net/v/20220722155510205</id>
-        <link href="https://entertain.v.daum.net/v/20220722155510205"/>
-        <updated>2022-07-22T07:12:37.802Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["학교생활 결핍 有"..조유리, 맞춤옷 입고 배우 데뷔]]></title>
-        <id>https://entertain.v.daum.net/v/20220722155048071</id>
-        <link href="https://entertain.v.daum.net/v/20220722155048071"/>
-        <updated>2022-07-22T07:12:37.806Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
