@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-22T14:11:28.085Z</updated>
+    <updated>2022-07-22T15:12:44.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, 허준호 악행 세상에 폭로했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220722233009057</id>
+        <link href="https://entertain.v.daum.net/v/20220722233009057"/>
+        <updated>2022-07-22T15:12:33.873Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱 VS 정진각 술사 10人 무한 루프 대련]]></title>
+        <id>https://entertain.v.daum.net/v/20220722231638933</id>
+        <link href="https://entertain.v.daum.net/v/20220722231638933"/>
+        <updated>2022-07-22T15:12:33.877Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 지승현, 서현진에 "네가 네 딸 죽인 거야"]]></title>
         <id>https://entertain.v.daum.net/v/20220722221926220</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220722165136038"/>
         <updated>2022-07-22T08:17:02.305Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차지연 "'블랙의 신부' 최유선, 결코 끝난것 아냐..시즌2 내심 기대"]]></title>
-        <id>https://entertain.v.daum.net/v/20220722164520801</id>
-        <link href="https://entertain.v.daum.net/v/20220722164520801"/>
-        <updated>2022-07-22T08:17:02.306Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['징크스의 연인' 서현x나인우, 단짠 매력 전하는 心스틸러]]></title>
-        <id>https://entertain.v.daum.net/v/20220722164507797</id>
-        <link href="https://entertain.v.daum.net/v/20220722164507797"/>
-        <updated>2022-07-22T08:17:02.308Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
