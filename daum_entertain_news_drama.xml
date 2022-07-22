@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-22T20:13:32.356Z</updated>
+    <updated>2022-07-22T21:11:11.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["SF부터 치정막장극까지 '유미의 세포들2'에 다 있어요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220723060150618</id>
+        <link href="https://entertain.v.daum.net/v/20220723060150618"/>
+        <updated>2022-07-22T21:10:57.960Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출생의 비밀→물따귀, 막장극 인기의 끝은 어디인가]]></title>
+        <id>https://entertain.v.daum.net/v/20220723060035580</id>
+        <link href="https://entertain.v.daum.net/v/20220723060035580"/>
+        <updated>2022-07-22T21:10:57.963Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오수재' 잘나가다 삐끗, 왜 서현진인진 알겠으나]]></title>
+        <id>https://entertain.v.daum.net/v/20220723060012538</id>
+        <link href="https://entertain.v.daum.net/v/20220723060012538"/>
+        <updated>2022-07-22T21:10:57.964Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱·성동일, 위태로운 첫 만남 포착]]></title>
         <id>https://entertain.v.daum.net/v/20220723030009867</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220722193625747"/>
         <updated>2022-07-22T11:10:56.256Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 윤지민 "수지는 너무 매력적인 사람"]]></title>
-        <id>https://entertain.v.daum.net/v/20220722181059314</id>
-        <link href="https://entertain.v.daum.net/v/20220722181059314"/>
-        <updated>2022-07-22T09:11:52.482Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 시청률 고공행진 감사 이벤트 "우영우 인사 대회"]]></title>
-        <id>https://entertain.v.daum.net/v/20220722175719981</id>
-        <link href="https://entertain.v.daum.net/v/20220722175719981"/>
-        <updated>2022-07-22T09:11:52.482Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙의 신부' 차지연 "인스타 개설, 사용법 배우는 중..조금씩 소통할 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220722172744199</id>
-        <link href="https://entertain.v.daum.net/v/20220722172744199"/>
-        <updated>2022-07-22T09:11:52.487Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
