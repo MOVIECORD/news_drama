@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-22T17:22:56.676Z</updated>
+    <updated>2022-07-22T18:15:08.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지창욱·성동일, 위태로운 첫 만남 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220723030009867</id>
+        <link href="https://entertain.v.daum.net/v/20220723030009867"/>
+        <updated>2022-07-22T18:14:59.822Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오수재' 서현진, "홍지윤 살해한 것은 허준호" 폭로..판 뒤집을 카드는?]]></title>
         <id>https://entertain.v.daum.net/v/20220723010901671</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220722172744199</id>
         <link href="https://entertain.v.daum.net/v/20220722172744199"/>
         <updated>2022-07-22T09:11:52.487Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱∙성동일, 불편한 첫 만남]]></title>
-        <id>https://entertain.v.daum.net/v/20220722170531509</id>
-        <link href="https://entertain.v.daum.net/v/20220722170531509"/>
-        <updated>2022-07-22T08:17:02.302Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
