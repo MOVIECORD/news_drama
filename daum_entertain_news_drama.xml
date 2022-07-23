@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-23T14:10:55.641Z</updated>
+    <updated>2022-07-23T15:11:46.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지영 "미안해..엄마 딸이라 좋았다", 이주실 죽음에 후회의 눈물]]></title>
+        <id>https://entertain.v.daum.net/v/20220723235606219</id>
+        <link href="https://entertain.v.daum.net/v/20220723235606219"/>
+        <updated>2022-07-23T15:11:38.552Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오수재' 서현진, "홍지윤 살해한 것은 허준호"..전진기, 옥상 CCTV 영상 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220723234801173</id>
+        <link href="https://entertain.v.daum.net/v/20220723234801173"/>
+        <updated>2022-07-23T15:11:38.552Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['왜 오수재인가' 서현진, 허준호 범행 밝히고 '해피엔딩']]></title>
+        <id>https://entertain.v.daum.net/v/20220723232040031</id>
+        <link href="https://entertain.v.daum.net/v/20220723232040031"/>
+        <updated>2022-07-23T15:11:38.553Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 소지섭, 누명 벗었다..신성록 파멸만 남은 복수]]></title>
+        <id>https://entertain.v.daum.net/v/20220723231120988</id>
+        <link href="https://entertain.v.daum.net/v/20220723231120988"/>
+        <updated>2022-07-23T15:11:38.553Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '왜 오수재인가' 서현진, 허준호・이경영・조영진 나락 보내고 자기 인생 찾았다]]></title>
         <id>https://entertain.v.daum.net/v/20220723230622970</id>
@@ -34,7 +62,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['환혼' 정소민, 이재욱 ♥ 걸고 대련 내기.."찾아오면 웃어줄게"]]></title>
+        <title type="html"><![CDATA['환혼' 정소민, 이재욱 정표 걸고 내기 시작.."이기면 웃어줄게"]]></title>
         <id>https://entertain.v.daum.net/v/20220723224320831</id>
         <link href="https://entertain.v.daum.net/v/20220723224320831"/>
         <updated>2022-07-23T14:10:46.208Z</updated>
@@ -80,34 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220723220111516</id>
         <link href="https://entertain.v.daum.net/v/20220723220111516"/>
         <updated>2022-07-23T13:23:26.489Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 황민현, 정소민에 호각 선물.."내가 많이 좋아했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220723215835489</id>
-        <link href="https://entertain.v.daum.net/v/20220723215835489"/>
-        <updated>2022-07-23T13:23:26.489Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 허준호, 홍지윤 옥상에서 밀어 죽였다]]></title>
-        <id>https://entertain.v.daum.net/v/20220723215732485</id>
-        <link href="https://entertain.v.daum.net/v/20220723215732485"/>
-        <updated>2022-07-23T13:23:26.491Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 황민현, 정소민에 "내가 많이 좋아했다" 첫사랑 고백]]></title>
-        <id>https://entertain.v.daum.net/v/20220723215707484</id>
-        <link href="https://entertain.v.daum.net/v/20220723215707484"/>
-        <updated>2022-07-23T13:23:26.491Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 정소민, 이재욱 고백 태웠다.."벗어날 수 없는 독약일 뿐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220723214446348</id>
-        <link href="https://entertain.v.daum.net/v/20220723214446348"/>
-        <updated>2022-07-23T13:23:26.493Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
