@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-23T08:15:19.512Z</updated>
+    <updated>2022-07-23T09:11:40.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민영, 시母 살인 누명 벗을까..결정적 '유언장' 발견]]></title>
+        <id>https://entertain.v.daum.net/v/20220723175734447</id>
+        <link href="https://entertain.v.daum.net/v/20220723175734447"/>
+        <updated>2022-07-23T09:11:29.388Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현진, 전 남편 미련 보이는 차예련에 충격..직진 로맨스]]></title>
         <id>https://entertain.v.daum.net/v/20220723165718782</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220723143808504"/>
         <updated>2022-07-23T06:14:19.779Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왜 오수재인가' 모든 악행 배후엔 허준호, 서현진 진실 밝힐까]]></title>
-        <id>https://entertain.v.daum.net/v/20220723143724496</id>
-        <link href="https://entertain.v.daum.net/v/20220723143724496"/>
-        <updated>2022-07-23T06:14:19.780Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
