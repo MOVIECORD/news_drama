@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-24T19:10:28.261Z</updated>
+    <updated>2022-07-24T20:12:56.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나인우, ♥전소민 뽀뽀에 "예쁘니까 봐줄게" 박력 키스]]></title>
+        <id>https://entertain.v.daum.net/v/20220725050509948</id>
+        <link href="https://entertain.v.daum.net/v/20220725050509948"/>
+        <updated>2022-07-24T20:12:46.860Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '클리닝 업' 송영창 감옥행, 꽃집 연 염정아♥이무생 1년만 재회]]></title>
         <id>https://entertain.v.daum.net/v/20220724234437511</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220724212433672"/>
         <updated>2022-07-24T13:24:56.658Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 신동미, 상 당한 배다빈 결혼식 초대.. 김혜옥에 점수 땄다]]></title>
-        <id>https://entertain.v.daum.net/v/20220724211000557</id>
-        <link href="https://entertain.v.daum.net/v/20220724211000557"/>
-        <updated>2022-07-24T12:20:01.144Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
