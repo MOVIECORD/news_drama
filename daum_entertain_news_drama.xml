@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-24T09:11:42.542Z</updated>
+    <updated>2022-07-24T10:12:37.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터로이어' 김호정, 끝내 이경영 악행 밝혔다 "촬영 내내 즐거워"]]></title>
+        <id>https://entertain.v.daum.net/v/20220724185515489</id>
+        <link href="https://entertain.v.daum.net/v/20220724185515489"/>
+        <updated>2022-07-24T10:12:27.244Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 강기영 로맨스 나오나? 등장인물 SNS까지 관심 폭발]]></title>
+        <id>https://entertain.v.daum.net/v/20220724181710100</id>
+        <link href="https://entertain.v.daum.net/v/20220724181710100"/>
+        <updated>2022-07-24T10:12:27.250Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집 없는 의사라도..오민석♥신동미 드디어 결혼]]></title>
         <id>https://entertain.v.daum.net/v/20220724175506796</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220724131739636"/>
         <updated>2022-07-24T04:27:34.739Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소민 "시계 도둑 누명썼던 장면 기억남아, 뭉클했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220724130840542</id>
-        <link href="https://entertain.v.daum.net/v/20220724130840542"/>
-        <updated>2022-07-24T04:27:34.740Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['놀면 뭐하니?' WSG워너비 간절함 끝 찾아온 1위에 눈물]]></title>
-        <id>https://entertain.v.daum.net/v/20220724120201740</id>
-        <link href="https://entertain.v.daum.net/v/20220724120201740"/>
-        <updated>2022-07-24T03:30:04.184Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
