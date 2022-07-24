@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-24T14:10:54.782Z</updated>
+    <updated>2022-07-24T15:12:03.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '클리닝 업' 송영창 감옥행, 꽃집 연 염정아♥이무생 1년만 재회]]></title>
+        <id>https://entertain.v.daum.net/v/20220724234437511</id>
+        <link href="https://entertain.v.daum.net/v/20220724234437511"/>
+        <updated>2022-07-24T15:11:54.975Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리닝업' 염정아, 주식 털고 꽃집 '새 인생' 해피엔딩]]></title>
+        <id>https://entertain.v.daum.net/v/20220724234353509</id>
+        <link href="https://entertain.v.daum.net/v/20220724234353509"/>
+        <updated>2022-07-24T15:11:54.981Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리닝업' 염정아, 송영창이 보낸 사람에 납치 당해]]></title>
+        <id>https://entertain.v.daum.net/v/20220724231420393</id>
+        <link href="https://entertain.v.daum.net/v/20220724231420393"/>
+        <updated>2022-07-24T15:11:54.986Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼' 정소민 "나 만지면 죽어"..이재욱, 정소민 껴안아]]></title>
         <id>https://entertain.v.daum.net/v/20220724225908310</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220724211000557"/>
         <updated>2022-07-24T12:20:01.144Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배다빈, 신동미에 "결혼식 안 가는 게 좋겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220724210623534</id>
-        <link href="https://entertain.v.daum.net/v/20220724210623534"/>
-        <updated>2022-07-24T12:20:01.144Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 김혜옥, 드디어 신동미에 마음 열었다 "애가 시원시원해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220724203941375</id>
-        <link href="https://entertain.v.daum.net/v/20220724203941375"/>
-        <updated>2022-07-24T12:20:01.144Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 김혜옥, 결혼 앞둔 며느리 신동미에 "상갓집 가지 마"]]></title>
-        <id>https://entertain.v.daum.net/v/20220724203305299</id>
-        <link href="https://entertain.v.daum.net/v/20220724203305299"/>
-        <updated>2022-07-24T12:20:01.146Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
