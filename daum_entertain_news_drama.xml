@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-25T13:36:54.597Z</updated>
+    <updated>2022-07-25T14:13:16.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이브' 박병은, "서예지와 뜨거웠던 사랑..8개월이면 충분"]]></title>
+        <id>https://entertain.v.daum.net/v/20220725230802605</id>
+        <link href="https://entertain.v.daum.net/v/20220725230802605"/>
+        <updated>2022-07-25T14:13:05.304Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 오연서, 서인국 최면 기억에 위로 "괴로워 말아요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220725230146584</id>
+        <link href="https://entertain.v.daum.net/v/20220725230146584"/>
+        <updated>2022-07-25T14:13:05.307Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 정다은, 살기 느껴지는 눈빛 연기.. 상위 1% '만신']]></title>
+        <id>https://entertain.v.daum.net/v/20220725224152453</id>
+        <link href="https://entertain.v.daum.net/v/20220725224152453"/>
+        <updated>2022-07-25T14:13:05.315Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 서인국, 오연서가 쏜 테이져건에 쓰러져도 '남도사']]></title>
         <id>https://entertain.v.daum.net/v/20220725221421234</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220725184259641"/>
         <updated>2022-07-25T10:14:20.999Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 측 "포상으로 황금고래 준비, 발리여행은 개인일정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220725182530324</id>
-        <link href="https://entertain.v.daum.net/v/20220725182530324"/>
-        <updated>2022-07-25T10:14:21.000Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 배우들, '황금 고래' 받는다 "발리 여행=포상 NO..개인 일정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220725182425303</id>
-        <link href="https://entertain.v.daum.net/v/20220725182425303"/>
-        <updated>2022-07-25T10:14:21.004Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 변호사 우영우' 포상은 황금 고래.."발리 휴가=개인 일정"]]></title>
-        <id>https://entertain.v.daum.net/v/20220725182024204</id>
-        <link href="https://entertain.v.daum.net/v/20220725182024204"/>
-        <updated>2022-07-25T10:14:21.005Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
