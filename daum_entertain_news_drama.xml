@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-25T08:17:58.990Z</updated>
+    <updated>2022-07-25T09:12:24.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가요계 코로나 재확산에 긴장..'확진 여파' 일정 취소 봇물]]></title>
+        <id>https://entertain.v.daum.net/v/20220725180040525</id>
+        <link href="https://entertain.v.daum.net/v/20220725180040525"/>
+        <updated>2022-07-25T09:12:14.864Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이상한 변호사 우영우' 인기에 고래 '국민 동물' 될 기세]]></title>
+        <id>https://entertain.v.daum.net/v/20220725175820418</id>
+        <link href="https://entertain.v.daum.net/v/20220725175820418"/>
+        <updated>2022-07-25T09:12:14.864Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국･오연서, 분노로 일그러진 얼굴 '팽팽 심리전']]></title>
         <id>https://entertain.v.daum.net/v/20220725163654240</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220725134430733"/>
         <updated>2022-07-25T05:23:20.244Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['링크' 여진구 "계훈 닮은 딸, 다현 닮은 아들 보고파" 종영소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220725133604388</id>
-        <link href="https://entertain.v.daum.net/v/20220725133604388"/>
-        <updated>2022-07-25T04:42:27.951Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 후속작 '굿잡', 권유리X정일우 티저 포스터 공개..감독 교체 지울까]]></title>
-        <id>https://entertain.v.daum.net/v/20220725132030019</id>
-        <link href="https://entertain.v.daum.net/v/20220725132030019"/>
-        <updated>2022-07-25T04:42:27.952Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
