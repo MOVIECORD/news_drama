@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-25T12:25:06.406Z</updated>
+    <updated>2022-07-25T13:36:54.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국, 오연서가 쏜 테이져건에 쓰러져도 '남도사']]></title>
+        <id>https://entertain.v.daum.net/v/20220725221421234</id>
+        <link href="https://entertain.v.daum.net/v/20220725221421234"/>
+        <updated>2022-07-25T13:36:43.891Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['링크' 문가영, 납치범 서동갑과 조우..섬뜩한 친절함에 긴장]]></title>
+        <id>https://entertain.v.daum.net/v/20220725214838823</id>
+        <link href="https://entertain.v.daum.net/v/20220725214838823"/>
+        <updated>2022-07-25T13:36:43.895Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 효과?..드라마 속 팽나무, 천연기념물 지정 검토]]></title>
         <id>https://entertain.v.daum.net/v/20220725211316284</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220725182024204"/>
         <updated>2022-07-25T10:14:21.005Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가요계 코로나 재확산에 긴장..'확진 여파' 일정 취소 봇물]]></title>
-        <id>https://entertain.v.daum.net/v/20220725180040525</id>
-        <link href="https://entertain.v.daum.net/v/20220725180040525"/>
-        <updated>2022-07-25T09:12:14.864Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 변호사 우영우' 인기에 고래 '국민 동물' 될 기세]]></title>
-        <id>https://entertain.v.daum.net/v/20220725175820418</id>
-        <link href="https://entertain.v.daum.net/v/20220725175820418"/>
-        <updated>2022-07-25T09:12:14.864Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
