@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-25T07:11:56.628Z</updated>
+    <updated>2022-07-25T08:17:58.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국･오연서, 분노로 일그러진 얼굴 '팽팽 심리전']]></title>
+        <id>https://entertain.v.daum.net/v/20220725163654240</id>
+        <link href="https://entertain.v.daum.net/v/20220725163654240"/>
+        <updated>2022-07-25T08:17:48.002Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승기X이세영, 로코킹·로코퀸 첫 만남부터 시너지 폭발]]></title>
+        <id>https://entertain.v.daum.net/v/20220725162901838</id>
+        <link href="https://entertain.v.daum.net/v/20220725162901838"/>
+        <updated>2022-07-25T08:17:48.003Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우', 신드롬 인기에 발리 포상휴가 간다..8월 8일 출발 예정]]></title>
+        <id>https://entertain.v.daum.net/v/20220725161646443</id>
+        <link href="https://entertain.v.daum.net/v/20220725161646443"/>
+        <updated>2022-07-25T08:17:48.003Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터로이어' 이승우 "재판신, 대사 내뱉는 게 어려울 만큼 부담"]]></title>
         <id>https://entertain.v.daum.net/v/20220725150417600</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220725132030019"/>
         <updated>2022-07-25T04:42:27.952Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 후속 '굿잡' 티저포스터, 초재벌 정일우X초시력자 권유리]]></title>
-        <id>https://entertain.v.daum.net/v/20220725130745792</id>
-        <link href="https://entertain.v.daum.net/v/20220725130745792"/>
-        <updated>2022-07-25T04:42:27.952Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅 마우스' 이종석X임윤아 부부 호흡, 권력 심장부 노린다]]></title>
-        <id>https://entertain.v.daum.net/v/20220725130656775</id>
-        <link href="https://entertain.v.daum.net/v/20220725130656775"/>
-        <updated>2022-07-25T04:42:27.952Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은=유미, '유미의 세포들' 시즌3도 제작될까]]></title>
-        <id>https://entertain.v.daum.net/v/20220725124110341</id>
-        <link href="https://entertain.v.daum.net/v/20220725124110341"/>
-        <updated>2022-07-25T03:42:01.068Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
