@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-26T20:13:02.056Z</updated>
+    <updated>2022-07-26T21:10:52.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 지성 쌍둥이 변신 '킬미힐미'와 어떻게 다를까]]></title>
+        <id>https://entertain.v.daum.net/v/20220727060011376</id>
+        <link href="https://entertain.v.daum.net/v/20220727060011376"/>
+        <updated>2022-07-26T21:10:43.280Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여진구,문가영과 재회 → 안세빈 시신 찾았다.."미안해, 너무 늦어서"]]></title>
         <id>https://entertain.v.daum.net/v/20220727000602416</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220726185847776"/>
         <updated>2022-07-26T10:13:34.090Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 작가 "권모술수 권민우=권력에 민감한 친구라는 뜻"]]></title>
-        <id>https://entertain.v.daum.net/v/20220726185044599</id>
-        <link href="https://entertain.v.daum.net/v/20220726185044599"/>
-        <updated>2022-07-26T10:13:34.094Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
