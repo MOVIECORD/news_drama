@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-26T12:22:12.077Z</updated>
+    <updated>2022-07-26T13:36:24.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 문지원 작가 "불편한 분들께 공감..작품이 가진 한계"]]></title>
+        <id>https://entertain.v.daum.net/v/20220726215040037</id>
+        <link href="https://entertain.v.daum.net/v/20220726215040037"/>
+        <updated>2022-07-26T13:36:14.778Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이시강, 차민지 둘러싼 소문에 의심 증폭..김시우와의 모자관계 알아채나?]]></title>
         <id>https://entertain.v.daum.net/v/20220726211801416</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220726185020590"/>
         <updated>2022-07-26T10:13:34.105Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인식 PD "우영우 시즌제는 아직, '우영우 월드'에 애정 많다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220726175315097</id>
-        <link href="https://entertain.v.daum.net/v/20220726175315097"/>
-        <updated>2022-07-26T09:13:34.864Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
