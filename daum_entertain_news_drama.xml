@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-26T09:13:47.829Z</updated>
+    <updated>2022-07-26T10:13:44.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상한 변호사 우영우' PD·작가 "자폐 소재 우려 컸지만.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220726185847776</id>
+        <link href="https://entertain.v.daum.net/v/20220726185847776"/>
+        <updated>2022-07-26T10:13:34.090Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 작가 "권모술수 권민우=권력에 민감한 친구라는 뜻"]]></title>
+        <id>https://entertain.v.daum.net/v/20220726185044599</id>
+        <link href="https://entertain.v.daum.net/v/20220726185044599"/>
+        <updated>2022-07-26T10:13:34.094Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지성 "쌍둥이 1인 2역..'킬미힐미'와 달라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220726185020590</id>
+        <link href="https://entertain.v.daum.net/v/20220726185020590"/>
+        <updated>2022-07-26T10:13:34.105Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유인식 PD "우영우 시즌제는 아직, '우영우 월드'에 애정 많다"]]></title>
         <id>https://entertain.v.daum.net/v/20220726175315097</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220726160942647"/>
         <updated>2022-07-26T07:11:23.740Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박은빈, 굶고 와서 우영우 김밥 먹어"..'우영우', 자폐 비하 논란→멜로 예고까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220726160709541</id>
-        <link href="https://entertain.v.daum.net/v/20220726160709541"/>
-        <updated>2022-07-26T07:11:23.741Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'킬미힐미' 때와 달라"..쌍둥이 1인 2역, 지성의 도전 '아다마스']]></title>
-        <id>https://entertain.v.daum.net/v/20220726160611498</id>
-        <link href="https://entertain.v.daum.net/v/20220726160611498"/>
-        <updated>2022-07-26T07:11:23.746Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 작가 "불편하단 지적도 공감..상처 될까 많은 고민"]]></title>
-        <id>https://entertain.v.daum.net/v/20220726160538468</id>
-        <link href="https://entertain.v.daum.net/v/20220726160538468"/>
-        <updated>2022-07-26T07:11:23.746Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
