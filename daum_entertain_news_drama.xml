@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-27T09:12:30.978Z</updated>
+    <updated>2022-07-27T10:13:42.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김향기 자존감 지킴이..김민재·김상경 "덕후 될 수밖에"]]></title>
+        <id>https://entertain.v.daum.net/v/20220727185003780</id>
+        <link href="https://entertain.v.daum.net/v/20220727185003780"/>
+        <updated>2022-07-27T10:13:33.417Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['韓 진출' 세이브 사이사왓 "태국서 K콘텐츠 인기 엄청나죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220727184149571</id>
+        <link href="https://entertain.v.daum.net/v/20220727184149571"/>
+        <updated>2022-07-27T10:13:33.418Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송덕호 "'링크' 좋은 사람들 많이 만날 수 있어 뜻깊었다"]]></title>
         <id>https://entertain.v.daum.net/v/20220727175240287</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220727161738260"/>
         <updated>2022-07-27T08:14:55.297Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘, 삼합회 대리인 판빙빙에 죽을 위기..복수의 칼 빼든다]]></title>
-        <id>https://entertain.v.daum.net/v/20220727161458159</id>
-        <link href="https://entertain.v.daum.net/v/20220727161458159"/>
-        <updated>2022-07-27T08:14:55.297Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["조선에도 정신과 의사 있었을까"..'유세풍' 김민재→김상경이 어루만지는 '마음']]></title>
-        <id>https://entertain.v.daum.net/v/20220727161413128</id>
-        <link href="https://entertain.v.daum.net/v/20220727161413128"/>
-        <updated>2022-07-27T08:14:55.298Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
