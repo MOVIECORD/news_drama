@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-28T19:09:25.321Z</updated>
+    <updated>2022-07-28T20:13:10.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['숏박스' 조진세 '푸른거탑' 최종훈→장삐쭈 '신병' 신스틸러 총출동]]></title>
+        <id>https://entertain.v.daum.net/v/20220729050716358</id>
+        <link href="https://entertain.v.daum.net/v/20220729050716358"/>
+        <updated>2022-07-28T20:13:00.203Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연민지, 유산된 척 눈물 "나영희가 계단에서 밀쳤다" 모함]]></title>
         <id>https://entertain.v.daum.net/v/20220729040201790</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220728225142090"/>
         <updated>2022-07-28T14:14:55.348Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["취미가 고약" 황정민, 메이드에 쥐약 먹였다 '충격' '아다마스']]></title>
-        <id>https://entertain.v.daum.net/v/20220728224610049</id>
-        <link href="https://entertain.v.daum.net/v/20220728224610049"/>
-        <updated>2022-07-28T14:14:55.349Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
