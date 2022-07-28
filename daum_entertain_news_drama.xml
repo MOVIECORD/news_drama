@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-28T18:16:53.077Z</updated>
+    <updated>2022-07-28T19:09:25.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연민지, 유산된 척 눈물 "나영희가 계단에서 밀쳤다" 모함]]></title>
+        <id>https://entertain.v.daum.net/v/20220729040201790</id>
+        <link href="https://entertain.v.daum.net/v/20220729040201790"/>
+        <updated>2022-07-28T19:09:15.390Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기♥이세영, 대학 시절 핑크빛 "사귀자고?"]]></title>
         <id>https://entertain.v.daum.net/v/20220729020014372</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220728224610049"/>
         <updated>2022-07-28T14:14:55.349Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈, 강태오 고백 듣고 도망 "아무런 생각도 나지 않았어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220728223220871</id>
-        <link href="https://entertain.v.daum.net/v/20220728223220871"/>
-        <updated>2022-07-28T13:36:50.324Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
