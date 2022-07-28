@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-28T15:12:10.460Z</updated>
+    <updated>2022-07-28T16:17:16.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민영, 독박 간병에서 벗어나..시모와 뭉클 작별]]></title>
+        <id>https://entertain.v.daum.net/v/20220729010016140</id>
+        <link href="https://entertain.v.daum.net/v/20220729010016140"/>
+        <updated>2022-07-28T16:17:06.234Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 지성, 서지혜=편지 발신인 정체 알았다.. 쌍둥이 형, 사건 추적에 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20220729003535029</id>
+        <link href="https://entertain.v.daum.net/v/20220729003535029"/>
+        <updated>2022-07-28T16:17:06.236Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사이더' 강하늘X이유영 복수극, 악순환 시작되며 열린 결말]]></title>
         <id>https://entertain.v.daum.net/v/20220729001003809</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220728210010250"/>
         <updated>2022-07-28T12:26:14.753Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유선, "한소라役 부담감에 4kg 빠져..황석정 전화에 펑펑 울었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220728210003240</id>
-        <link href="https://entertain.v.daum.net/v/20220728210003240"/>
-        <updated>2022-07-28T12:26:14.755Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 변호사 우영우' 박은빈X강태오, 첫 입맞춤 포착 '설렘↑']]></title>
-        <id>https://entertain.v.daum.net/v/20220728205705184</id>
-        <link href="https://entertain.v.daum.net/v/20220728205705184"/>
-        <updated>2022-07-28T12:26:14.757Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
