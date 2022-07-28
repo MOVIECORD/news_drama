@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-28T03:40:38.446Z</updated>
+    <updated>2022-07-28T04:37:54.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[D-1 '빅마우스' 임윤아, 걸크러시란 이런 것]]></title>
+        <id>https://entertain.v.daum.net/v/20220728130349100</id>
+        <link href="https://entertain.v.daum.net/v/20220728130349100"/>
+        <updated>2022-07-28T04:37:44.438Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[염정아, 불법 주식·도박 여주에 좌절..1%대 최후, 사라진 시청률 23% 명성]]></title>
+        <id>https://entertain.v.daum.net/v/20220728130004964</id>
+        <link href="https://entertain.v.daum.net/v/20220728130004964"/>
+        <updated>2022-07-28T04:37:44.446Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기X이세영, "사귀자고?" VS "사귀자고"]]></title>
         <id>https://entertain.v.daum.net/v/20220728123016392</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220728104608019"/>
         <updated>2022-07-28T03:40:28.978Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱, 정소민과 로맨스→황민현 우정..만났다 하면 케미 폭발]]></title>
-        <id>https://entertain.v.daum.net/v/20220728104502966</id>
-        <link href="https://entertain.v.daum.net/v/20220728104502966"/>
-        <updated>2022-07-28T03:40:28.980Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 이재욱, 로맨스-우정 안 되는게 없는 '이 구역 케미 장인']]></title>
-        <id>https://entertain.v.daum.net/v/20220728103705609</id>
-        <link href="https://entertain.v.daum.net/v/20220728103705609"/>
-        <updated>2022-07-28T03:40:28.980Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
