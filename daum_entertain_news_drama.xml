@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-29T18:15:06.431Z</updated>
+    <updated>2022-07-29T19:09:28.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 악플에 충격받은 김갑수, "원고 전부 회수할 것"..김세정-최다니엘, 위기 극복할까?]]></title>
+        <id>https://entertain.v.daum.net/v/20220730040000186</id>
+        <link href="https://entertain.v.daum.net/v/20220730040000186"/>
+        <updated>2022-07-29T19:09:19.298Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 김세정, "참고 견디는 일 제일 잘해"..유도 관두고 '웹툰 회사'서 새로운 도전]]></title>
+        <id>https://entertain.v.daum.net/v/20220730032401146</id>
+        <link href="https://entertain.v.daum.net/v/20220730032401146"/>
+        <updated>2022-07-29T19:09:19.299Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남희, 정신의학과 원장 변신..이승기와 허당 케미]]></title>
         <id>https://entertain.v.daum.net/v/20220730030012002</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220729225832167"/>
         <updated>2022-07-29T14:11:08.678Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 김주헌, 이종석에 이중간첩 제안 "난 진실 원해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220729224130026</id>
-        <link href="https://entertain.v.daum.net/v/20220729224130026"/>
-        <updated>2022-07-29T14:11:08.679Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아, ♥이종석에 이혼 선언 "더 이상 너랑 못살겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220729224129025</id>
-        <link href="https://entertain.v.daum.net/v/20220729224129025"/>
-        <updated>2022-07-29T14:11:08.679Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
