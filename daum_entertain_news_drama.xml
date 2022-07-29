@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-29T17:16:35.932Z</updated>
+    <updated>2022-07-29T18:15:06.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남희, 정신의학과 원장 변신..이승기와 허당 케미]]></title>
+        <id>https://entertain.v.daum.net/v/20220730030012002</id>
+        <link href="https://entertain.v.daum.net/v/20220730030012002"/>
+        <updated>2022-07-29T18:14:56.091Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 이종석, ♥윤아와 결혼기념일에 각성 "엄청난 개새끼로"]]></title>
         <id>https://entertain.v.daum.net/v/20220730001322609</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220729224129025"/>
         <updated>2022-07-29T14:11:08.679Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 네온 웹툰 최종 면접에서 발목 잡히나.."망했어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220729224049024</id>
-        <link href="https://entertain.v.daum.net/v/20220729224049024"/>
-        <updated>2022-07-29T14:11:08.680Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
