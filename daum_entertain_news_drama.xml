@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-30T08:14:24.912Z</updated>
+    <updated>2022-07-30T09:10:58.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야옹이X박태준, '오늘의 웹툰' 특별출연.."배우 못지않은 연기"]]></title>
+        <id>https://entertain.v.daum.net/v/20220730175240843</id>
+        <link href="https://entertain.v.daum.net/v/20220730175240843"/>
+        <updated>2022-07-30T09:10:48.707Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 황희 특별출연으로 보여준 존재감..완벽소화]]></title>
         <id>https://entertain.v.daum.net/v/20220730170429489</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220730143428319"/>
         <updated>2022-07-30T06:13:52.891Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 초고속 복귀 부작용?..시청률 반토막 '오늘의웹툰', 3연타 흥행 '위기']]></title>
-        <id>https://entertain.v.daum.net/v/20220730142302210</id>
-        <link href="https://entertain.v.daum.net/v/20220730142302210"/>
-        <updated>2022-07-30T06:13:52.891Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
