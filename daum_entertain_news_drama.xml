@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-31T06:13:55.887Z</updated>
+    <updated>2022-07-31T07:11:24.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손현주x장승조, '모범형사2' 인삼밭 시체 또 발견 '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220731154911546</id>
+        <link href="https://entertain.v.daum.net/v/20220731154911546"/>
+        <updated>2022-07-31T07:11:16.527Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 살벌한 누아르에 달달한 이종석·임윤아를 캐스팅한 까닭]]></title>
         <id>https://entertain.v.daum.net/v/20220731133814370</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220731101455556"/>
         <updated>2022-07-31T03:37:17.293Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유선, 악녀의 광기]]></title>
-        <id>https://entertain.v.daum.net/v/20220731101301520</id>
-        <link href="https://entertain.v.daum.net/v/20220731101301520"/>
-        <updated>2022-07-31T03:37:17.293Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
