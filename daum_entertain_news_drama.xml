@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-31T20:13:48.747Z</updated>
+    <updated>2022-07-31T21:10:34.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김효진, 낙태 후 남편 정문성에 통보 "이기적이라 미안"]]></title>
+        <id>https://entertain.v.daum.net/v/20220801052805300</id>
+        <link href="https://entertain.v.daum.net/v/20220801052805300"/>
+        <updated>2022-07-31T21:10:19.712Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하영, 정문성 배신하고 회사 기밀 넘겼나 '의심']]></title>
+        <id>https://entertain.v.daum.net/v/20220801052709299</id>
+        <link href="https://entertain.v.daum.net/v/20220801052709299"/>
+        <updated>2022-07-31T21:10:19.722Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버스기사 김인권 첫 등장, 연쇄살인 진범 vs 모방범 '의문']]></title>
+        <id>https://entertain.v.daum.net/v/20220801052706298</id>
+        <link href="https://entertain.v.daum.net/v/20220801052706298"/>
+        <updated>2022-07-31T21:10:19.724Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 손현주X장승조 재수사 시작→의문의 살인사건 발생]]></title>
         <id>https://entertain.v.daum.net/v/20220731234919880</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220731211330907"/>
         <updated>2022-07-31T12:21:03.169Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 김강민, 최예빈에 ♥고백.."좋아하니까"]]></title>
-        <id>https://entertain.v.daum.net/v/20220731203908675</id>
-        <link href="https://entertain.v.daum.net/v/20220731203908675"/>
-        <updated>2022-07-31T12:21:03.169Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 김강민, 최예빈에 직진 고백..서범준 어쩌나]]></title>
-        <id>https://entertain.v.daum.net/v/20220731202723579</id>
-        <link href="https://entertain.v.daum.net/v/20220731202723579"/>
-        <updated>2022-07-31T12:21:03.173Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 박지영, 드디어 유전자 등록.."잘한 짓일까"]]></title>
-        <id>https://entertain.v.daum.net/v/20220731202501565</id>
-        <link href="https://entertain.v.daum.net/v/20220731202501565"/>
-        <updated>2022-07-31T12:21:03.173Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
