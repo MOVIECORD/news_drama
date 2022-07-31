@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-07-31T10:12:48.006Z</updated>
+    <updated>2022-07-31T11:10:15.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유준상, 정소민 목에 칼 겨눠..살인 용의자로 의심]]></title>
+        <id>https://entertain.v.daum.net/v/20220731195933382</id>
+        <link href="https://entertain.v.daum.net/v/20220731195933382"/>
+        <updated>2022-07-31T11:10:06.095Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박인환 딸=박지영?..'현재는 아름다워' 출생의 비밀 밝혀지나]]></title>
+        <id>https://entertain.v.daum.net/v/20220731194133246</id>
+        <link href="https://entertain.v.daum.net/v/20220731194133246"/>
+        <updated>2022-07-31T11:10:06.095Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직장인 폭풍공감..'오늘의 웹툰' 이 배우 존재감 뿜뿜이네]]></title>
         <id>https://entertain.v.daum.net/v/20220731184357857</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220731104316929"/>
         <updated>2022-07-31T03:37:17.286Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범형사2' 손현주X장승조, 더 강력해진 대역전 수사극의 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220731104132909</id>
-        <link href="https://entertain.v.daum.net/v/20220731104132909"/>
-        <updated>2022-07-31T03:37:17.287Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 김세정=긍정의 의인화, 새내기 편집자役 인간 비타민]]></title>
-        <id>https://entertain.v.daum.net/v/20220731103214806</id>
-        <link href="https://entertain.v.daum.net/v/20220731103214806"/>
-        <updated>2022-07-31T03:37:17.292Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
