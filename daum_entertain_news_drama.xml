@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-01T12:23:07.267Z</updated>
+    <updated>2022-08-01T13:38:37.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유세풍' 첫회부터 무슨 일?..김민재 어쩌나]]></title>
+        <id>https://entertain.v.daum.net/v/20220801215155566</id>
+        <link href="https://entertain.v.daum.net/v/20220801215155566"/>
+        <updated>2022-08-01T13:38:27.482Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정헌, 죽은 줄 알았던 아내 윤아정 등장에 경악.."너 누구야?"]]></title>
         <id>https://entertain.v.daum.net/v/20220801203302794</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220801154105663"/>
         <updated>2022-08-01T07:17:27.845Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 오마이걸 아린, 아슬아슬해더 더 몰입되는 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20220801153358364</id>
-        <link href="https://entertain.v.daum.net/v/20220801153358364"/>
-        <updated>2022-08-01T07:17:27.845Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
