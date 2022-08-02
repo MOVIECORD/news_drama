@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-02T19:11:24.368Z</updated>
+    <updated>2022-08-02T20:14:53.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국, 구하러 온 오연서 보고 반했다.."괜찮아" 미소]]></title>
+        <id>https://entertain.v.daum.net/v/20220803050205748</id>
+        <link href="https://entertain.v.daum.net/v/20220803050205748"/>
+        <updated>2022-08-02T20:14:41.789Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["입술 마중 나왔어" '우영우' 박은빈♥강태오, 키스신 비하인드도 '심쿵']]></title>
         <id>https://entertain.v.daum.net/v/20220802235402082</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220802165434008"/>
         <updated>2022-08-02T08:15:43.155Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규현, 시트콤 '유니콘' 합류..신하균·원진아와 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220802163549505</id>
-        <link href="https://entertain.v.daum.net/v/20220802163549505"/>
-        <updated>2022-08-02T08:15:43.156Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
