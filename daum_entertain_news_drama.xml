@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-02T03:59:54.759Z</updated>
+    <updated>2022-08-02T05:12:50.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재, 사연 품은 천재 의원 변신..심금 울린 오열 연기]]></title>
+        <id>https://entertain.v.daum.net/v/20220802140002638</id>
+        <link href="https://entertain.v.daum.net/v/20220802140002638"/>
+        <updated>2022-08-02T05:12:40.721Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김향기 시월드 고통→김민재·김상경 나선다]]></title>
+        <id>https://entertain.v.daum.net/v/20220802135404073</id>
+        <link href="https://entertain.v.daum.net/v/20220802135404073"/>
+        <updated>2022-08-02T05:12:40.723Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이태원 클라쓰' 일본판 '롯폰기 클라쓰', 3일 티빙서 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220802134539231</id>
+        <link href="https://entertain.v.daum.net/v/20220802134539231"/>
+        <updated>2022-08-02T05:12:40.725Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박호산 로또1등 당첨→미스터리 전개..긴장감 폭발 '멧돼지사냥']]></title>
+        <id>https://entertain.v.daum.net/v/20220802133629248</id>
+        <link href="https://entertain.v.daum.net/v/20220802133629248"/>
+        <updated>2022-08-02T05:12:40.727Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신재하 '일타 스캔들' 출연확정, 정경호와 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220802131056349</id>
+        <link href="https://entertain.v.daum.net/v/20220802131056349"/>
+        <updated>2022-08-02T05:12:40.731Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정소민, 티에이치컴퍼니와 전속 계약..강하늘과 한솥밥]]></title>
         <id>https://entertain.v.daum.net/v/20220802115002684</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220802103505050"/>
         <updated>2022-08-02T03:59:45.089Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디테일 상실한 조폐국 점령..'단 하나의 반전', 파트2 기대감 남아]]></title>
-        <id>https://entertain.v.daum.net/v/20220802103004826</id>
-        <link href="https://entertain.v.daum.net/v/20220802103004826"/>
-        <updated>2022-08-02T03:59:45.091Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍' 김향기, 명랑 탐정vs사연 많은 여인..역대급 연기 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220802102948808</id>
-        <link href="https://entertain.v.daum.net/v/20220802102948808"/>
-        <updated>2022-08-02T03:59:45.096Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 김고은X남지현X박지후, 높은 곳을 바라보는 세 자매]]></title>
-        <id>https://entertain.v.daum.net/v/20220802101751308</id>
-        <link href="https://entertain.v.daum.net/v/20220802101751308"/>
-        <updated>2022-08-02T03:59:45.097Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 김고은X남지현X박지후, 세 자매 포스터 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220802101043007</id>
-        <link href="https://entertain.v.daum.net/v/20220802101043007"/>
-        <updated>2022-08-02T03:59:45.099Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은X남지현X박지후, 세 자매 시너지..9월 3일 첫 방송]]></title>
-        <id>https://entertain.v.daum.net/v/20220802100838903</id>
-        <link href="https://entertain.v.daum.net/v/20220802100838903"/>
-        <updated>2022-08-02T01:09:39.208Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
