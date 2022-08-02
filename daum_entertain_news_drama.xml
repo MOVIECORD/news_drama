@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-02T10:14:23.201Z</updated>
+    <updated>2022-08-02T11:10:13.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 연민지, 차예련 母 위협+가짜 임신 모두 들통]]></title>
+        <id>https://entertain.v.daum.net/v/20220802200832875</id>
+        <link href="https://entertain.v.daum.net/v/20220802200832875"/>
+        <updated>2022-08-02T11:10:03.466Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국, 오연서 향한 치명적인 도발 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220802200450811</id>
+        <link href="https://entertain.v.daum.net/v/20220802200450811"/>
+        <updated>2022-08-02T11:10:03.483Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은·남지현·박지후, 높이 올라갈 수 있을까?]]></title>
         <id>https://entertain.v.daum.net/v/20220802185104062</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220802160015797"/>
         <updated>2022-08-02T07:12:25.596Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규현, 쿠팡플레이 '유니콘' 합류..'극한직업' 이병헌·'멜로가 체질' 감독 만난다]]></title>
-        <id>https://entertain.v.daum.net/v/20220802155932667</id>
-        <link href="https://entertain.v.daum.net/v/20220802155932667"/>
-        <updated>2022-08-02T07:12:25.596Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오싹+숨멎' 재벌 3세 변신..이재운, 이정재급 특급 빌런으로 첫등장]]></title>
-        <id>https://entertain.v.daum.net/v/20220802155848529</id>
-        <link href="https://entertain.v.daum.net/v/20220802155848529"/>
-        <updated>2022-08-02T07:12:25.599Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
