@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-02T21:12:26.256Z</updated>
+    <updated>2022-08-02T22:12:17.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연참3' 13년째 연애 중 다른 여자와 하룻밤..한혜진 "헤어질 시기"]]></title>
+        <id>https://entertain.v.daum.net/v/20220803070407487</id>
+        <link href="https://entertain.v.daum.net/v/20220803070407487"/>
+        <updated>2022-08-02T22:12:09.523Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 박은빈에 맞서는 소녀시대..서현→수영 배턴터치에 쏠리는 부담감]]></title>
+        <id>https://entertain.v.daum.net/v/20220803063602138</id>
+        <link href="https://entertain.v.daum.net/v/20220803063602138"/>
+        <updated>2022-08-02T22:12:09.523Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나영희, 가짜 임신 서유라에 분노의 물따귀.."이중문 아이 갖겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20220803060202776</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220802185104062"/>
         <updated>2022-08-02T10:14:14.768Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 설레는 첫 키스에 미리 입술마중 나간 강태오 "속마음이 들켰어"]]></title>
-        <id>https://entertain.v.daum.net/v/20220802183349611</id>
-        <link href="https://entertain.v.daum.net/v/20220802183349611"/>
-        <updated>2022-08-02T10:14:14.768Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두데' 강기영, '우영우' 연기 후일담.."애드리브 성공률? 60%"]]></title>
-        <id>https://entertain.v.daum.net/v/20220802175552781</id>
-        <link href="https://entertain.v.daum.net/v/20220802175552781"/>
-        <updated>2022-08-02T09:11:07.664Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
