@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-03T10:13:34.550Z</updated>
+    <updated>2022-08-03T11:11:11.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나영희, 박찬환과 선우은숙 데이트 목격.."여자가 있었어" 분노]]></title>
+        <id>https://entertain.v.daum.net/v/20220803200549726</id>
+        <link href="https://entertain.v.daum.net/v/20220803200549726"/>
+        <updated>2022-08-03T11:11:00.848Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나', 수지 인생작 됐는데..쿠팡vs감독 충돌로 '오점' 남나]]></title>
         <id>https://entertain.v.daum.net/v/20220803185002052</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220803162337846"/>
         <updated>2022-08-03T08:16:26.837Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, '경성크리처' 촬영 중 부상.."수술 받을 정도 아냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220803161317440</id>
-        <link href="https://entertain.v.daum.net/v/20220803161317440"/>
-        <updated>2022-08-03T08:16:26.841Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
