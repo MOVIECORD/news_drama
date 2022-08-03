@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-03T12:23:59.535Z</updated>
+    <updated>2022-08-03T13:35:53.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 박은빈, 도박자금으로 구입한 로또 1등 당첨금 분배..결과는 권선징악!]]></title>
+        <id>https://entertain.v.daum.net/v/20220803223512127</id>
+        <link href="https://entertain.v.daum.net/v/20220803223512127"/>
+        <updated>2022-08-03T13:35:43.792Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황금가면' 이중문, 母 나영희에 분노→전처 차예련에 "사랑해"]]></title>
         <id>https://entertain.v.daum.net/v/20220803205640586</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220803172244969"/>
         <updated>2022-08-03T09:11:33.363Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당소말' 작가 "최수영, 진짜 똑똑하고 영리한 배우"]]></title>
-        <id>https://entertain.v.daum.net/v/20220803171708787</id>
-        <link href="https://entertain.v.daum.net/v/20220803171708787"/>
-        <updated>2022-08-03T09:11:33.364Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
