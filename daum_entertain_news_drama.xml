@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-04T13:34:20.682Z</updated>
+    <updated>2022-08-04T14:10:38.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전배수, 박은빈과 키스한 강태오에 분노.."사귀지도 않는데 입술 들이대"]]></title>
+        <id>https://entertain.v.daum.net/v/20220804230011677</id>
+        <link href="https://entertain.v.daum.net/v/20220804230011677"/>
+        <updated>2022-08-04T14:10:26.865Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박해미, 차민지 과거 동거X출산 사실에 경악.."모성없는 것 같으니 애낳고 나가라"]]></title>
         <id>https://entertain.v.daum.net/v/20220804205602850</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220804171818259"/>
         <updated>2022-08-04T09:11:05.382Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 미스터리한 캐릭터에 동화했다]]></title>
-        <id>https://entertain.v.daum.net/v/20220804171509110</id>
-        <link href="https://entertain.v.daum.net/v/20220804171509110"/>
-        <updated>2022-08-04T08:18:11.336Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
