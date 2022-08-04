@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-04T06:16:27.649Z</updated>
+    <updated>2022-08-04T07:10:53.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지성X허성태, 공조 시작..안보현, 이경영 子 특별출연]]></title>
+        <id>https://entertain.v.daum.net/v/20220804153610622</id>
+        <link href="https://entertain.v.daum.net/v/20220804153610622"/>
+        <updated>2022-08-04T07:10:43.469Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플투댄' 리정, 블랙핑크·트와이스·에스파 안무 원작자 카일 투틴과 짜릿한 컬래버]]></title>
+        <id>https://entertain.v.daum.net/v/20220804152911293</id>
+        <link href="https://entertain.v.daum.net/v/20220804152911293"/>
+        <updated>2022-08-04T07:10:43.470Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나' 스태프 6인, 추가 폭로 "쿠팡으로부터 전혀 존중 못 받아"]]></title>
         <id>https://entertain.v.daum.net/v/20220804151027630</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220804140800361"/>
         <updated>2022-08-04T05:26:42.203Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 이재욱-정소민, "가지마"..대사로 짚어본 감정 변천사]]></title>
-        <id>https://entertain.v.daum.net/v/20220804140037058</id>
-        <link href="https://entertain.v.daum.net/v/20220804140037058"/>
-        <updated>2022-08-04T05:26:42.203Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이더' 강영석 "장선오 생사? 나도 추측 중..머릿결 나빠져 슬퍼"]]></title>
-        <id>https://entertain.v.daum.net/v/20220804135012639</id>
-        <link href="https://entertain.v.daum.net/v/20220804135012639"/>
-        <updated>2022-08-04T05:26:42.204Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
