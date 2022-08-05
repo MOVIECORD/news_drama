@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-05T03:39:23.664Z</updated>
+    <updated>2022-08-05T04:40:03.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환혼' 제작진 "정소민 환혼 전 사리촌 과거+반전 진실 공개"]]></title>
+        <id>https://entertain.v.daum.net/v/20220805133604312</id>
+        <link href="https://entertain.v.daum.net/v/20220805133604312"/>
+        <updated>2022-08-05T04:39:55.437Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신병' 오늘 후반전 돌입, 차병호 성윤모 군생활 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220805122307056</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220805103409617"/>
         <updated>2022-08-05T03:39:14.390Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아다마스' 지성이 아니었다면]]></title>
-        <id>https://entertain.v.daum.net/v/20220805103216567</id>
-        <link href="https://entertain.v.daum.net/v/20220805103216567"/>
-        <updated>2022-08-05T03:39:14.392Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
