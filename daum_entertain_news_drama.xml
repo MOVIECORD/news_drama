@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-06T18:13:55.309Z</updated>
+    <updated>2022-08-06T19:09:28.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['첫사랑 공조' 서인국♥오연서→'급발진' 곽시양♥강미나, 로맨스 포문]]></title>
+        <id>https://entertain.v.daum.net/v/20220807040011529</id>
+        <link href="https://entertain.v.daum.net/v/20220807040011529"/>
+        <updated>2022-08-06T19:09:18.435Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 김세정, "내가 사랑하는 웹툰은 이 정도 퀄리티 아냐"..임철수에 '쓴소리']]></title>
+        <id>https://entertain.v.daum.net/v/20220807035400520</id>
+        <link href="https://entertain.v.daum.net/v/20220807035400520"/>
+        <updated>2022-08-06T19:09:18.435Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 장승조, 김효진과 다시 대면..긴장감 고조]]></title>
         <id>https://entertain.v.daum.net/v/20220807011416351</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220806221950401"/>
         <updated>2022-08-06T13:22:10.114Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손현주X장승조, 연쇄 살인범 김인권과 마을버스 대면]]></title>
-        <id>https://entertain.v.daum.net/v/20220806221512347</id>
-        <link href="https://entertain.v.daum.net/v/20220806221512347"/>
-        <updated>2022-08-06T13:22:10.116Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남윤수, 만화에 관심 보이기 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220806221036314</id>
-        <link href="https://entertain.v.daum.net/v/20220806221036314"/>
-        <updated>2022-08-06T13:22:10.118Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
