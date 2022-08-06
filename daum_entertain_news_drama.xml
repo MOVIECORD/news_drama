@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-06T06:14:14.776Z</updated>
+    <updated>2022-08-06T07:11:16.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 스릴-로맨스 오가는 단짠 매력, 핑크빛 꽉 채운 두 커플]]></title>
+        <id>https://entertain.v.daum.net/v/20220806160007864</id>
+        <link href="https://entertain.v.daum.net/v/20220806160007864"/>
+        <updated>2022-08-06T07:11:08.229Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뭉쳐야 찬다2' 조원희 코치 "안정환, 꼭 한번 이겨보고 싶어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220806153103657</id>
+        <link href="https://entertain.v.daum.net/v/20220806153103657"/>
+        <updated>2022-08-06T07:11:08.229Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 손현주 장승조, 연쇄살인범 김인권 만난다]]></title>
+        <id>https://entertain.v.daum.net/v/20220806151425536</id>
+        <link href="https://entertain.v.daum.net/v/20220806151425536"/>
+        <updated>2022-08-06T07:11:08.231Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 이종석, 이런 연기 어떻게 참았나..머리채 잡고 '하드 캐리']]></title>
         <id>https://entertain.v.daum.net/v/20220806145438379</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정소민 들통날까?..이재욱x황민현 초긴장 진실 공방전]]></title>
+        <title type="html"><![CDATA[정소민 환혼인 들통날까?..이재욱x황민현 초긴장 진실 공방전]]></title>
         <id>https://entertain.v.daum.net/v/20220806144324279</id>
         <link href="https://entertain.v.daum.net/v/20220806144324279"/>
         <updated>2022-08-06T06:14:04.805Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220806113955769"/>
         <updated>2022-08-06T02:57:39.130Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계에 통한 박은빈 자폐 연기..'우영우' 넷플릭스 접수]]></title>
-        <id>https://entertain.v.daum.net/v/20220806112039548</id>
-        <link href="https://entertain.v.daum.net/v/20220806112039548"/>
-        <updated>2022-08-06T02:57:39.130Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 서인국-오연서, 썸과 쌈 사이 피어난 '핑크빛 기류']]></title>
-        <id>https://entertain.v.daum.net/v/20220806110746429</id>
-        <link href="https://entertain.v.daum.net/v/20220806110746429"/>
-        <updated>2022-08-06T02:57:39.132Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 미국서도 통했다..美 넷플릭스 톱10 6위]]></title>
-        <id>https://entertain.v.daum.net/v/20220806110517403</id>
-        <link href="https://entertain.v.daum.net/v/20220806110517403"/>
-        <updated>2022-08-06T02:57:39.132Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
