@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-07T07:11:21.821Z</updated>
+    <updated>2022-08-07T08:14:19.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 강기영, 명석이는 바쁘다 바빠..하루 늦은 휴가 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220807163128592</id>
+        <link href="https://entertain.v.daum.net/v/20220807163128592"/>
+        <updated>2022-08-07T08:14:09.893Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 하율리, 남윤수 의지하기 시작..캐릭터 매력 보여줬다]]></title>
+        <id>https://entertain.v.daum.net/v/20220807161251284</id>
+        <link href="https://entertain.v.daum.net/v/20220807161251284"/>
+        <updated>2022-08-07T08:14:09.895Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당소말' 지창욱 "최수영 분위기 메이커 역할 톡톡히 해줬다"]]></title>
         <id>https://entertain.v.daum.net/v/20220807150932180</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220807105215208"/>
         <updated>2022-08-07T03:19:51.709Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사제 간이든 주종 간이든 이재욱·정소민 멜로가 애틋하다는 건]]></title>
-        <id>https://entertain.v.daum.net/v/20220807104057063</id>
-        <link href="https://entertain.v.daum.net/v/20220807104057063"/>
-        <updated>2022-08-07T03:19:51.709Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석 화면 장악력, 엔딩 맛집 만든 비결]]></title>
-        <id>https://entertain.v.daum.net/v/20220807103327948</id>
-        <link href="https://entertain.v.daum.net/v/20220807103327948"/>
-        <updated>2022-08-07T03:19:51.709Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
