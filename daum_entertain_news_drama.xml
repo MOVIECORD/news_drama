@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-07T14:10:46.371Z</updated>
+    <updated>2022-08-07T15:11:29.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재♥김향기 '심의' 거듭나기 특훈→로맨틱]]></title>
+        <id>https://entertain.v.daum.net/v/20220808000520336</id>
+        <link href="https://entertain.v.daum.net/v/20220808000520336"/>
+        <updated>2022-08-07T15:11:19.095Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는' 배다빈, ♥윤시윤과 이별→母 박지영 선택했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220808000108240</id>
+        <link href="https://entertain.v.daum.net/v/20220808000108240"/>
+        <updated>2022-08-07T15:11:19.096Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 김효진, "최대훈, 내 목 졸라..살려고 미국으로 도망"]]></title>
+        <id>https://entertain.v.daum.net/v/20220808000000206</id>
+        <link href="https://entertain.v.daum.net/v/20220808000000206"/>
+        <updated>2022-08-07T15:11:19.096Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 김인권, 일관된 살인 수법? "네가 잘못한 거 얘기해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220807234457134</id>
+        <link href="https://entertain.v.daum.net/v/20220807234457134"/>
+        <updated>2022-08-07T15:11:19.105Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼' 서혜원, 진호경 친딸 둔갑 성공→이재욱X유준상 부자상봉]]></title>
         <id>https://entertain.v.daum.net/v/20220807230216944</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220807213653197"/>
         <updated>2022-08-07T13:22:38.414Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 배다빈, 결혼 대신 母박지영 선택..♥윤시윤에 "미안하다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220807213124145</id>
-        <link href="https://entertain.v.daum.net/v/20220807213124145"/>
-        <updated>2022-08-07T13:22:38.419Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, 박인환·박지영 부녀관계 알았다 "충격"]]></title>
-        <id>https://entertain.v.daum.net/v/20220807210301788</id>
-        <link href="https://entertain.v.daum.net/v/20220807210301788"/>
-        <updated>2022-08-07T12:19:37.748Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 윤시윤, ♥배다빈 웨딩드레스에 하트 뿅뿅 "너무 예뻐서"]]></title>
-        <id>https://entertain.v.daum.net/v/20220807204256524</id>
-        <link href="https://entertain.v.daum.net/v/20220807204256524"/>
-        <updated>2022-08-07T12:19:37.751Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 신동미 "윤시윤♥배다빈 혼인 신고 어렵다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220807204112507</id>
-        <link href="https://entertain.v.daum.net/v/20220807204112507"/>
-        <updated>2022-08-07T12:19:37.759Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
