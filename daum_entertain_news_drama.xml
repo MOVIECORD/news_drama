@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-07T09:11:20.069Z</updated>
+    <updated>2022-08-07T10:12:01.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 22년 전 왕비 환혼 흔적 추적]]></title>
+        <id>https://entertain.v.daum.net/v/20220807190121228</id>
+        <link href="https://entertain.v.daum.net/v/20220807190121228"/>
+        <updated>2022-08-07T10:11:52.703Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 강기영, 명석이는 바쁘다 바빠..하루 늦은 휴가 합류]]></title>
         <id>https://entertain.v.daum.net/v/20220807163128592</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[김세정, 보기만해도 기분좋은 여배우로는 1등]]></title>
         <id>https://entertain.v.daum.net/v/20220807105551269</id>
         <link href="https://entertain.v.daum.net/v/20220807105551269"/>
-        <updated>2022-08-07T03:19:51.709Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 눈빛 만으로 화면 장악..강렬한 엔딩 장인]]></title>
-        <id>https://entertain.v.daum.net/v/20220807105215208</id>
-        <link href="https://entertain.v.daum.net/v/20220807105215208"/>
         <updated>2022-08-07T03:19:51.709Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
