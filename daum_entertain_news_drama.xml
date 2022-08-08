@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-08T07:11:10.798Z</updated>
+    <updated>2022-08-08T08:17:43.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곽시양♥강미나, 비밀 연애 들통날까?]]></title>
+        <id>https://entertain.v.daum.net/v/20220808171247302</id>
+        <link href="https://entertain.v.daum.net/v/20220808171247302"/>
+        <updated>2022-08-08T08:17:35.028Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최대훈 '모범형사2' 최대 빌런이었나? 인간미 상실 공공의 적]]></title>
         <id>https://entertain.v.daum.net/v/20220808155907595</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍종현X한지은 '개미가 타고 있어요' 유쾌한 주식 드라마 "수익률 좋아요"]]></title>
+        <title type="html"><![CDATA[한지은X홍종현 '개미가 타고 있어요' 유쾌한 주식 드라마 "수익률 좋아요"]]></title>
         <id>https://entertain.v.daum.net/v/20220808153601752</id>
         <link href="https://entertain.v.daum.net/v/20220808153601752"/>
         <updated>2022-08-08T07:11:01.611Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220808145008106"/>
         <updated>2022-08-08T06:16:07.687Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['개미가 타고 있어요' 김선영 "감독님이 하라는대로 연기, 너무 좋더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220808144708002</id>
-        <link href="https://entertain.v.daum.net/v/20220808144708002"/>
-        <updated>2022-08-08T06:16:07.690Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
