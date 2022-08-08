@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-08T10:14:43.396Z</updated>
+    <updated>2022-08-08T11:10:12.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연민지, '차예련 父 죽음'으로 나영희 협박.."죽을 거면 같이 죽자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220808200225533</id>
+        <link href="https://entertain.v.daum.net/v/20220808200225533"/>
+        <updated>2022-08-08T11:10:02.311Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 죽은 父 언급하는 정찬에 '화들짝']]></title>
+        <id>https://entertain.v.daum.net/v/20220808194106282</id>
+        <link href="https://entertain.v.daum.net/v/20220808194106282"/>
+        <updated>2022-08-08T11:10:02.313Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지은 "주식 투자? 60% 잃어..큰 깨달음"]]></title>
         <id>https://entertain.v.daum.net/v/20220808185005467</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220808153020549"/>
         <updated>2022-08-08T07:11:01.617Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미남당' 곽시양♥강미나, 스카프+선글라스 비밀연애용 커플룩]]></title>
-        <id>https://entertain.v.daum.net/v/20220808152929503</id>
-        <link href="https://entertain.v.daum.net/v/20220808152929503"/>
-        <updated>2022-08-08T07:11:01.617Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 각성 넷→성장ing]]></title>
-        <id>https://entertain.v.daum.net/v/20220808152552390</id>
-        <link href="https://entertain.v.daum.net/v/20220808152552390"/>
-        <updated>2022-08-08T07:11:01.622Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
