@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-08T12:22:40.108Z</updated>
+    <updated>2022-08-08T13:37:17.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선 정신과 의사 유세풍' 김민재X김향기, 구미호 사건 파헤친다?]]></title>
+        <id>https://entertain.v.daum.net/v/20220808223300101</id>
+        <link href="https://entertain.v.daum.net/v/20220808223300101"/>
+        <updated>2022-08-08T13:37:09.269Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 5주 연속 영향력 있는 프로그램 1위..2위와 2배 격차]]></title>
         <id>https://entertain.v.daum.net/v/20220808211611309</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220808174117417"/>
         <updated>2022-08-08T09:11:41.268Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽시양♥강미나, 변장했는데 '커플룩'..비밀연애 들통나나]]></title>
-        <id>https://entertain.v.daum.net/v/20220808173506127</id>
-        <link href="https://entertain.v.daum.net/v/20220808173506127"/>
-        <updated>2022-08-08T09:11:41.268Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
