@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-09T13:41:57.236Z</updated>
+    <updated>2022-08-09T14:16:11.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국♥오연서, "잘했어"..마음 확인하는 진한 키스]]></title>
+        <id>https://entertain.v.daum.net/v/20220809231209262</id>
+        <link href="https://entertain.v.daum.net/v/20220809231209262"/>
+        <updated>2022-08-09T14:16:00.741Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황금가면' 이중문, 연민지 앞에서 "차예련 사랑해"]]></title>
         <id>https://entertain.v.daum.net/v/20220809203330778</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220809160404616"/>
         <updated>2022-08-09T07:11:00.139Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오재웅, 국민 남동생 노린다..'하우스 오브 콬' 캐스팅]]></title>
-        <id>https://entertain.v.daum.net/v/20220809160151524</id>
-        <link href="https://entertain.v.daum.net/v/20220809160151524"/>
-        <updated>2022-08-09T07:11:00.140Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
