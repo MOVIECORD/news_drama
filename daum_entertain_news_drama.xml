@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-09T17:16:00.612Z</updated>
+    <updated>2022-08-09T18:14:43.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스쿠터 탄 배달원부터 카지노 직원까지..'굿잡' 권유리, 직업변천사]]></title>
+        <id>https://entertain.v.daum.net/v/20220810022004073</id>
+        <link href="https://entertain.v.daum.net/v/20220810022004073"/>
+        <updated>2022-08-09T18:14:35.043Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 서인국♥오연서, "잘했어"..마음 확인하는 진한 키스]]></title>
         <id>https://entertain.v.daum.net/v/20220809231209262</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220809161410985"/>
         <updated>2022-08-09T08:15:14.557Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국♥오연서, 1박 2일 캠핑장 데이트 '직진 로맨스']]></title>
-        <id>https://entertain.v.daum.net/v/20220809160404616</id>
-        <link href="https://entertain.v.daum.net/v/20220809160404616"/>
-        <updated>2022-08-09T07:11:00.139Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
