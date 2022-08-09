@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-09T08:15:24.655Z</updated>
+    <updated>2022-08-09T09:12:16.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대상 배우 이종석의 '빅마우스', '옷소매' 후 MBC 대박 이끄나]]></title>
+        <id>https://entertain.v.daum.net/v/20220809175003417</id>
+        <link href="https://entertain.v.daum.net/v/20220809175003417"/>
+        <updated>2022-08-09T09:12:07.146Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 작가가 졸업한 하자센터, 박원순이 설립했다?]]></title>
+        <id>https://entertain.v.daum.net/v/20220809175003418</id>
+        <link href="https://entertain.v.daum.net/v/20220809175003418"/>
+        <updated>2022-08-09T09:12:07.148Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이종석X임윤아 통했다? '빅마우스', 2주 연속 금토극 화제성 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220809174854384</id>
+        <link href="https://entertain.v.daum.net/v/20220809174854384"/>
+        <updated>2022-08-09T09:12:07.155Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국 오늘 '미남당' OST 발매, 벅찬 사랑의 감정 전한다]]></title>
         <id>https://entertain.v.daum.net/v/20220809171046126</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220809155008048"/>
         <updated>2022-08-09T07:11:00.143Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남경주 "'원더티켓', 기존 뮤지컬과 표현 방법 달라..볼거리 多"]]></title>
-        <id>https://entertain.v.daum.net/v/20220809154743957</id>
-        <link href="https://entertain.v.daum.net/v/20220809154743957"/>
-        <updated>2022-08-09T07:11:00.144Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재·김향기·김상경 열혈 팀플]]></title>
-        <id>https://entertain.v.daum.net/v/20220809153851674</id>
-        <link href="https://entertain.v.daum.net/v/20220809153851674"/>
-        <updated>2022-08-09T07:11:00.146Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['개미가 타고 있어요' 한지은X홍종현 과몰입 유발 관전포인트3 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220809153154406</id>
-        <link href="https://entertain.v.daum.net/v/20220809153154406"/>
-        <updated>2022-08-09T07:11:00.147Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
