@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-09T10:14:30.084Z</updated>
+    <updated>2022-08-09T11:10:30.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 이중문, 나영희에 "이제 어머니 아들 아니야"]]></title>
+        <id>https://entertain.v.daum.net/v/20220809200923522</id>
+        <link href="https://entertain.v.daum.net/v/20220809200923522"/>
+        <updated>2022-08-09T11:10:21.693Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대상 배우 이종석의 '빅마우스', '옷소매' 후 MBC 대박 이끄나]]></title>
         <id>https://entertain.v.daum.net/v/20220809175003417</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220809155309171"/>
         <updated>2022-08-09T07:11:00.141Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범가족' 정우 "66kg까지 감량..오장육부 타들어가는 느낌"]]></title>
-        <id>https://entertain.v.daum.net/v/20220809155008048</id>
-        <link href="https://entertain.v.daum.net/v/20220809155008048"/>
-        <updated>2022-08-09T07:11:00.143Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
