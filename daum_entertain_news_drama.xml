@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-10T12:21:25.993Z</updated>
+    <updated>2022-08-10T13:28:24.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['당소말' 지창욱, 욕설+돈다발 케이크까지..강렬한 첫 등장]]></title>
+        <id>https://entertain.v.daum.net/v/20220810221225565</id>
+        <link href="https://entertain.v.daum.net/v/20220810221225565"/>
+        <updated>2022-08-10T13:28:14.764Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미미쿠스' 김윤우, 유영재 '미믹' 도발..머리부터 발끝까지 '손민수' 했네]]></title>
+        <id>https://entertain.v.daum.net/v/20220810220026308</id>
+        <link href="https://entertain.v.daum.net/v/20220810220026308"/>
+        <updated>2022-08-10T13:28:14.767Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차예련, ♥이현진에 고백→키스.."사랑해요 천배 만배 더"]]></title>
         <id>https://entertain.v.daum.net/v/20220810205313935</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220810155103753"/>
         <updated>2022-08-10T07:11:03.222Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자극적인 내용 無"..KBS표 힐링극 탄생, '당신이 소원을 말하면']]></title>
-        <id>https://entertain.v.daum.net/v/20220810154701623</id>
-        <link href="https://entertain.v.daum.net/v/20220810154701623"/>
-        <updated>2022-08-10T07:11:03.225Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당신이 소원을 말하면' 지창욱·최수영, 자극 덜어내고 무공해 힐링 무장]]></title>
-        <id>https://entertain.v.daum.net/v/20220810154151426</id>
-        <link href="https://entertain.v.daum.net/v/20220810154151426"/>
-        <updated>2022-08-10T07:11:03.225Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
