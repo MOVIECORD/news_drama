@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-11T13:36:38.925Z</updated>
+    <updated>2022-08-11T14:10:46.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내가 우스워?" 강태오, 박은빈 연애 중단 선언에 '울컥']]></title>
+        <id>https://entertain.v.daum.net/v/20220811230751023</id>
+        <link href="https://entertain.v.daum.net/v/20220811230751023"/>
+        <updated>2022-08-11T14:10:36.136Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 지성, 왼손 GPS 생체 칩 정체와 범인 관계 찾나]]></title>
+        <id>https://entertain.v.daum.net/v/20220811225521948</id>
+        <link href="https://entertain.v.daum.net/v/20220811225521948"/>
+        <updated>2022-08-11T14:10:36.137Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰러진 강기영, 위암 3기였다..5년 생존율 30% '충격']]></title>
+        <id>https://entertain.v.daum.net/v/20220811225114918</id>
+        <link href="https://entertain.v.daum.net/v/20220811225114918"/>
+        <updated>2022-08-11T14:10:36.137Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백지원, 언론에 박은빈母 정체 밝혔다.."직전에 터트려달라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220811224001835</id>
+        <link href="https://entertain.v.daum.net/v/20220811224001835"/>
+        <updated>2022-08-11T14:10:36.143Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["곧  죽을지도 몰라" 강기영, 위암 3기 진단→생존률 30~40%.. 충격]]></title>
+        <id>https://entertain.v.daum.net/v/20220811223621816</id>
+        <link href="https://entertain.v.daum.net/v/20220811223621816"/>
+        <updated>2022-08-11T14:10:36.143Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황금가면' 이현진, 차예련에 "마지막 되고파"→이중문 견제]]></title>
         <id>https://entertain.v.daum.net/v/20220811203314926</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220811172333393"/>
         <updated>2022-08-11T09:12:01.944Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지은·홍종현, 주식 떡상 기원]]></title>
-        <id>https://entertain.v.daum.net/v/20220811171719216</id>
-        <link href="https://entertain.v.daum.net/v/20220811171719216"/>
-        <updated>2022-08-11T09:12:01.946Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV조선 측 "'미스터트롯2' 하반기 편성..1차 접수 완료"]]></title>
-        <id>https://entertain.v.daum.net/v/20220811164718175</id>
-        <link href="https://entertain.v.daum.net/v/20220811164718175"/>
-        <updated>2022-08-11T08:14:23.615Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저', 누구누구 나오나?..육성재부터 정채연·연우까지 '대본리딩 현장']]></title>
-        <id>https://entertain.v.daum.net/v/20220811162251188</id>
-        <link href="https://entertain.v.daum.net/v/20220811162251188"/>
-        <updated>2022-08-11T08:14:23.616Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백성철 어딜 가나 모델포스, 시골 마을도 런웨이로]]></title>
-        <id>https://entertain.v.daum.net/v/20220811162139135</id>
-        <link href="https://entertain.v.daum.net/v/20220811162139135"/>
-        <updated>2022-08-11T08:14:23.617Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 측 "故 박원순 모티브? 지나친 해석과 억측"]]></title>
-        <id>https://entertain.v.daum.net/v/20220811161953058</id>
-        <link href="https://entertain.v.daum.net/v/20220811161953058"/>
-        <updated>2022-08-11T08:14:23.618Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
