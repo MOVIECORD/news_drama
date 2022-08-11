@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-11T03:00:06.091Z</updated>
+    <updated>2022-08-11T03:48:06.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성주의자 장승조, 마성의 매력이 폭발했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220811120202414</id>
+        <link href="https://entertain.v.daum.net/v/20220811120202414"/>
+        <updated>2022-08-11T03:47:57.007Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['작은 아씨들' 김고은X남지현 애정 버거운 막내 박지후..뜻밖의 폭풍]]></title>
         <id>https://entertain.v.daum.net/v/20220811115001944</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220811101939670"/>
         <updated>2022-08-11T02:59:56.875Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅마우스→소녀시대→공조2까지..임윤아, 만능 팔색조 매력]]></title>
-        <id>https://entertain.v.daum.net/v/20220811101325403</id>
-        <link href="https://entertain.v.daum.net/v/20220811101325403"/>
-        <updated>2022-08-11T02:59:56.878Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
