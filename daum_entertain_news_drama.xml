@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-12T10:14:02.734Z</updated>
+    <updated>2022-08-12T11:10:39.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나영희, 이휘향 취중 진담에 악몽.."혹시 모란제화 강인환 와이프야?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220812200902281</id>
+        <link href="https://entertain.v.daum.net/v/20220812200902281"/>
+        <updated>2022-08-12T11:10:30.104Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 원작에 비해 살짝 아쉬운 2%!]]></title>
+        <id>https://entertain.v.daum.net/v/20220812191722352</id>
+        <link href="https://entertain.v.daum.net/v/20220812191722352"/>
+        <updated>2022-08-12T11:10:30.109Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['푸른거탑→신병' 감독 "군대, 코미디 할 수 있는 가장 최적의 공간"]]></title>
         <id>https://entertain.v.daum.net/v/20220812185007837</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220812164502669"/>
         <updated>2022-08-12T08:15:23.284Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 옥택연X하석진X정은지, 추리 촉 자극 드라마]]></title>
-        <id>https://entertain.v.daum.net/v/20220812163930554</id>
-        <link href="https://entertain.v.daum.net/v/20220812163930554"/>
-        <updated>2022-08-12T08:15:23.284Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병' 장삐쭈 작가 "PTSD로 남은 군생활, 에피소드 90%는 진짜"]]></title>
-        <id>https://entertain.v.daum.net/v/20220812163720496</id>
-        <link href="https://entertain.v.daum.net/v/20220812163720496"/>
-        <updated>2022-08-12T08:15:23.284Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
