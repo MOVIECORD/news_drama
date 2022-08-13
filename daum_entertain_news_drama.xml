@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-13T03:44:08.784Z</updated>
+    <updated>2022-08-13T04:19:26.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 서장도 구워삶는 손현주X장승조, 강력2팀의 꼴통력]]></title>
+        <id>https://entertain.v.daum.net/v/20220813130556332</id>
+        <link href="https://entertain.v.daum.net/v/20220813130556332"/>
+        <updated>2022-08-13T04:19:17.302Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당소말' 지창욱, '반전&힐링' 숨은 엉망진창 인간 관계! 흥미↑']]></title>
         <id>https://entertain.v.daum.net/v/20220813123007103</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220813094755413"/>
         <updated>2022-08-13T00:57:15.627Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 임윤아, 이종석 실체에 충격..자체 최고 시청률 경신]]></title>
-        <id>https://entertain.v.daum.net/v/20220813093423283</id>
-        <link href="https://entertain.v.daum.net/v/20220813093423283"/>
-        <updated>2022-08-13T00:57:15.627Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
