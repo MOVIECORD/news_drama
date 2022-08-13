@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-13T18:13:28.035Z</updated>
+    <updated>2022-08-13T19:09:39.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 김인권, 손현주에 자백..김효진 충격의 맨 손 폭식]]></title>
+        <id>https://entertain.v.daum.net/v/20220814040001017</id>
+        <link href="https://entertain.v.daum.net/v/20220814040001017"/>
+        <updated>2022-08-13T19:09:30.711Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 김세정, 양현민과 갈등 폭발..과거사 반전]]></title>
         <id>https://entertain.v.daum.net/v/20220814001004715</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220813222735158"/>
         <updated>2022-08-13T14:10:49.779Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤, ♥배다빈과 이별에 눈물..신동미 걱정]]></title>
-        <id>https://entertain.v.daum.net/v/20220813222349140</id>
-        <link href="https://entertain.v.daum.net/v/20220813222349140"/>
-        <updated>2022-08-13T14:10:49.779Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
