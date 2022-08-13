@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-13T11:10:05.938Z</updated>
+    <updated>2022-08-13T12:19:36.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["죽어서라도 만나려고" 박인환, 딸 박지영에 문신 새긴 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220813203320251</id>
+        <link href="https://entertain.v.daum.net/v/20220813203320251"/>
+        <updated>2022-08-13T12:19:27.217Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['전참시' 조재윤, '한산: 용의 출현' VIP 시사회 섭렵..홍보요정 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20220813202329165</id>
+        <link href="https://entertain.v.daum.net/v/20220813202329165"/>
+        <updated>2022-08-13T12:19:27.220Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는' 윤시윤, 배다빈 이별선언에 눈물 "받아들일 수 없어"]]></title>
+        <id>https://entertain.v.daum.net/v/20220813201802131</id>
+        <link href="https://entertain.v.daum.net/v/20220813201802131"/>
+        <updated>2022-08-13T12:19:27.220Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['개미가 타고 있어요' 한지은, 新로코퀸 등극하나..첫방부터 기대 이상]]></title>
         <id>https://entertain.v.daum.net/v/20220813142931182</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220813110013276"/>
         <updated>2022-08-13T02:55:17.322Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍종현, 외제차 타는 알바생..머리찧기→뺨맞기 몸 던진 열연]]></title>
-        <id>https://entertain.v.daum.net/v/20220813104929154</id>
-        <link href="https://entertain.v.daum.net/v/20220813104929154"/>
-        <updated>2022-08-13T02:55:17.326Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미미쿠스' 조유리, 김윤우X유영재 '배 다른 형제' 알았다..마라맛 '하이틴' 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220813103958022</id>
-        <link href="https://entertain.v.daum.net/v/20220813103958022"/>
-        <updated>2022-08-13T02:55:17.326Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범형사2' 손현주, 행복한 결혼식 대체 무슨 일 벌어졌나?]]></title>
-        <id>https://entertain.v.daum.net/v/20220813103834007</id>
-        <link href="https://entertain.v.daum.net/v/20220813103834007"/>
-        <updated>2022-08-13T02:55:17.326Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
