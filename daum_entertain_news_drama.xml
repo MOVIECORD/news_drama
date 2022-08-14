@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-14T04:23:10.589Z</updated>
+    <updated>2022-08-14T05:13:21.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국x오연서, 놓치지 않는 추적의 끈]]></title>
+        <id>https://entertain.v.daum.net/v/20220814133643433</id>
+        <link href="https://entertain.v.daum.net/v/20220814133643433"/>
+        <updated>2022-08-14T05:13:09.698Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 박예니, 사건 해결 이끈 '키 플레이어' 활약..강렬한 여운]]></title>
         <id>https://entertain.v.daum.net/v/20220814113045121</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220814083840802"/>
         <updated>2022-08-14T01:02:05.873Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 10% 돌파, 이종석 두 번째 MBC 대상 가능성↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220814083706794</id>
-        <link href="https://entertain.v.daum.net/v/20220814083706794"/>
-        <updated>2022-08-14T01:02:05.877Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
