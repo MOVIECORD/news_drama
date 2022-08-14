@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-14T14:11:43.287Z</updated>
+    <updated>2022-08-14T15:12:00.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 정문성, 박근형 찾아가 "도움 된다면 무슨 일이든 돕겠다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220815000348262</id>
+        <link href="https://entertain.v.daum.net/v/20220815000348262"/>
+        <updated>2022-08-14T15:11:50.969Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤시윤 "못 참겠어, 같이 살자", ♥배다빈 붙잡았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220814235627172</id>
+        <link href="https://entertain.v.daum.net/v/20220814235627172"/>
+        <updated>2022-08-14T15:11:50.969Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는' 윤시윤 ♥배다해, "우리 같이 살자" 임신 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220814232544070</id>
+        <link href="https://entertain.v.daum.net/v/20220814232544070"/>
+        <updated>2022-08-14T15:11:50.969Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 김효진, 최대훈에 "정문성, 가족 모두의 약점 쥐고 있다"]]></title>
         <id>https://entertain.v.daum.net/v/20220814230230994</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220814204816819"/>
         <updated>2022-08-14T12:20:23.269Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 박인환, 아들 박상원 파양선언에 분노 "네 자식만 중요하냐"]]></title>
-        <id>https://entertain.v.daum.net/v/20220814202523641</id>
-        <link href="https://entertain.v.daum.net/v/20220814202523641"/>
-        <updated>2022-08-14T12:20:23.269Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 박상원, 윤시윤 위해 父 박인환과 호적 정리 선택]]></title>
-        <id>https://entertain.v.daum.net/v/20220814201700537</id>
-        <link href="https://entertain.v.daum.net/v/20220814201700537"/>
-        <updated>2022-08-14T12:20:23.270Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선 정신과 의사 유세풍' 김민재X김향기X김상경, 힐링 케미]]></title>
-        <id>https://entertain.v.daum.net/v/20220814172640912</id>
-        <link href="https://entertain.v.daum.net/v/20220814172640912"/>
-        <updated>2022-08-14T09:11:43.420Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
