@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-14T15:12:00.065Z</updated>
+    <updated>2022-08-14T16:14:49.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 백상희 찾아온 男 "딸 지키고 싶으면 입 다물어라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220815004838401</id>
+        <link href="https://entertain.v.daum.net/v/20220815004838401"/>
+        <updated>2022-08-14T16:14:39.236Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 손현주, 백상희에 "당신도 살인사건의 중요한 용의자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220815003046365</id>
+        <link href="https://entertain.v.daum.net/v/20220815003046365"/>
+        <updated>2022-08-14T16:14:39.239Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 정문성, 박근형 찾아가 "도움 된다면 무슨 일이든 돕겠다"]]></title>
         <id>https://entertain.v.daum.net/v/20220815000348262</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220814213141288"/>
         <updated>2022-08-14T13:25:14.509Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 돈 먹고 잘 살줄 알았더니" 서범준, 3천 사기 친구 찾았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220814205238846</id>
-        <link href="https://entertain.v.daum.net/v/20220814205238846"/>
-        <updated>2022-08-14T12:20:23.269Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 배다빈, 집안 반대로 ♥윤시윤과 결혼 포기 '오열']]></title>
-        <id>https://entertain.v.daum.net/v/20220814204816819</id>
-        <link href="https://entertain.v.daum.net/v/20220814204816819"/>
-        <updated>2022-08-14T12:20:23.269Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
