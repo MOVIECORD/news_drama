@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-15T12:24:04.157Z</updated>
+    <updated>2022-08-15T13:36:02.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재♥김향기, 저잣거리 데이트..달콤 눈빛 포착]]></title>
+        <id>https://entertain.v.daum.net/v/20220815221510514</id>
+        <link href="https://entertain.v.daum.net/v/20220815221510514"/>
+        <updated>2022-08-15T13:35:52.235Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차민지, 박해미에게 유산 거짓말 탄로났다.."저 사실 임신 안했었다"]]></title>
         <id>https://entertain.v.daum.net/v/20220815212302105</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220815142038527"/>
         <updated>2022-08-15T06:15:51.432Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우와 박희순 그리고 박지연, 누구의 패밀리가 진짜 모범인가]]></title>
-        <id>https://entertain.v.daum.net/v/20220815141845493</id>
-        <link href="https://entertain.v.daum.net/v/20220815141845493"/>
-        <updated>2022-08-15T06:15:51.432Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
