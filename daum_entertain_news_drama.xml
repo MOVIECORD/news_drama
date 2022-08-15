@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-15T07:11:00.700Z</updated>
+    <updated>2022-08-15T08:15:06.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['당신이 소원을 말하면' 지창욱X성동일 브로맨스 보는 재미]]></title>
+        <id>https://entertain.v.daum.net/v/20220815161622776</id>
+        <link href="https://entertain.v.daum.net/v/20220815161622776"/>
+        <updated>2022-08-15T08:14:58.403Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["까칠→츤데레" '당소말' 지창욱X성동일, 단짠 브로맨스 케미 탄생]]></title>
         <id>https://entertain.v.daum.net/v/20220815154855328</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220815094017764"/>
         <updated>2022-08-15T01:04:07.334Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세입자 이세영, 건물주 이승기와 재회..머리끄덩이 잡았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220815093748723</id>
-        <link href="https://entertain.v.daum.net/v/20220815093748723"/>
-        <updated>2022-08-15T01:04:07.340Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
