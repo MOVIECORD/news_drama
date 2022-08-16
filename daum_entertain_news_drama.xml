@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-16T04:35:44.797Z</updated>
+    <updated>2022-08-16T05:15:51.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['로열패밀리' 윤태영, SM C&C 전속계약 "다양한 분야 지원"]]></title>
+        <id>https://entertain.v.daum.net/v/20220816141226333</id>
+        <link href="https://entertain.v.daum.net/v/20220816141226333"/>
+        <updated>2022-08-16T05:15:43.113Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멧돼지사냥' 이규회 충격 반전, 박호산 절친→협박범]]></title>
+        <id>https://entertain.v.daum.net/v/20220816140921200</id>
+        <link href="https://entertain.v.daum.net/v/20220816140921200"/>
+        <updated>2022-08-16T05:15:43.113Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['갯마을 차차차' 이봉련, 전도연 친구 됐다..'일타 스캔들' 전격 합류]]></title>
+        <id>https://entertain.v.daum.net/v/20220816135125560</id>
+        <link href="https://entertain.v.daum.net/v/20220816135125560"/>
+        <updated>2022-08-16T05:15:43.117Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미남당' 고풀이=권수현, 소름끼치는 악의 얼굴]]></title>
         <id>https://entertain.v.daum.net/v/20220816132821897</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220816111021649"/>
         <updated>2022-08-16T03:40:56.088Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장서희X김규선X오창석, MBC '마녀의 게임' 출연 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220816110902575</id>
-        <link href="https://entertain.v.daum.net/v/20220816110902575"/>
-        <updated>2022-08-16T03:40:56.105Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수리남' 윤종빈 감독, 넷플릭스 손잡고 첫 시리즈 도전]]></title>
-        <id>https://entertain.v.daum.net/v/20220816110539377</id>
-        <link href="https://entertain.v.daum.net/v/20220816110539377"/>
-        <updated>2022-08-16T03:40:56.105Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국X오연서, 다시 만난 정다은과 아슬아슬 신경전]]></title>
-        <id>https://entertain.v.daum.net/v/20220816103852136</id>
-        <link href="https://entertain.v.daum.net/v/20220816103852136"/>
-        <updated>2022-08-16T03:40:56.105Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
