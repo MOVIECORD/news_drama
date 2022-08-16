@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-16T09:11:11.637Z</updated>
+    <updated>2022-08-16T10:13:07.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미남당', 서인국X오연서 쓰러졌다..위기 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220816184658706</id>
+        <link href="https://entertain.v.daum.net/v/20220816184658706"/>
+        <updated>2022-08-16T10:12:57.367Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국X오연서, 다시 만난 정다은과 신경전..고풀이 추적 성공?]]></title>
         <id>https://entertain.v.daum.net/v/20220816180951910</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220816150115058"/>
         <updated>2022-08-16T06:15:43.694Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멧돼지사냥' EP "최종회서 에너지 폭발, 시청각 이상 복합 감정 선사"]]></title>
-        <id>https://entertain.v.daum.net/v/20220816143720163</id>
-        <link href="https://entertain.v.daum.net/v/20220816143720163"/>
-        <updated>2022-08-16T06:15:43.694Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
