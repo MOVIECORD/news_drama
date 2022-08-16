@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-16T12:20:28.782Z</updated>
+    <updated>2022-08-16T13:26:51.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김상경과 대립? 김민재X김향기, 오한결 구할까]]></title>
+        <id>https://entertain.v.daum.net/v/20220816221510905</id>
+        <link href="https://entertain.v.daum.net/v/20220816221510905"/>
+        <updated>2022-08-16T13:26:41.661Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서인국X오연서, 다시 만난 정다은과 신경전..위기 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220816213509338</id>
+        <link href="https://entertain.v.daum.net/v/20220816213509338"/>
+        <updated>2022-08-16T13:26:41.668Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차민지, 이시강 뺑소니 녹취로 박해미 역협박.."저도 무슨짓 할지 몰라요"]]></title>
         <id>https://entertain.v.daum.net/v/20220816210702995</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220816161607110"/>
         <updated>2022-08-16T08:12:53.483Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2의 '태릉선수촌' 탄생하나..정우x이유미 '멘탈코치 제갈길' 2차 티저]]></title>
-        <id>https://entertain.v.daum.net/v/20220816160937918</id>
-        <link href="https://entertain.v.daum.net/v/20220816160937918"/>
-        <updated>2022-08-16T07:10:17.394Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['개미가 타고있어요' 한지은, 물오른 미모에 찰떡 연기 '新로코퀸 예약']]></title>
-        <id>https://entertain.v.daum.net/v/20220816154528020</id>
-        <link href="https://entertain.v.daum.net/v/20220816154528020"/>
-        <updated>2022-08-16T07:10:17.394Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
