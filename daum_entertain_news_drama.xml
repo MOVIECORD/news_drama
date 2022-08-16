@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-16T19:09:42.538Z</updated>
+    <updated>2022-08-16T20:13:28.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상한 변호사 우영우', 착한 드라마의 새로운 패러다임]]></title>
+        <id>https://entertain.v.daum.net/v/20220817050040860</id>
+        <link href="https://entertain.v.daum.net/v/20220817050040860"/>
+        <updated>2022-08-16T20:13:19.854Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 D-1, '이상한 변호사 우영우'가 풀어야할 이야기]]></title>
+        <id>https://entertain.v.daum.net/v/20220817050024827</id>
+        <link href="https://entertain.v.daum.net/v/20220817050024827"/>
+        <updated>2022-08-16T20:13:19.871Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기, 17년째 짝사랑 "요새 다시 힘들어져" 1차 티저]]></title>
         <id>https://entertain.v.daum.net/v/20220817030010096</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220816184658706"/>
         <updated>2022-08-16T10:12:57.367Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국X오연서, 다시 만난 정다은과 신경전..고풀이 추적 성공?]]></title>
-        <id>https://entertain.v.daum.net/v/20220816180951910</id>
-        <link href="https://entertain.v.daum.net/v/20220816180951910"/>
-        <updated>2022-08-16T09:11:03.116Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박희순 "이 나이에 인기 감사..♥박예진, 관리 잘 하라고"]]></title>
-        <id>https://entertain.v.daum.net/v/20220816175013258</id>
-        <link href="https://entertain.v.daum.net/v/20220816175013258"/>
-        <updated>2022-08-16T09:11:03.117Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
