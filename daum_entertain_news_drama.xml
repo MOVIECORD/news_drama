@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-17T13:42:31.805Z</updated>
+    <updated>2022-08-17T14:17:14.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최대훈, 박은빈 바른 말에 "더럽게 건방지네" 못마땅 '우영우']]></title>
+        <id>https://entertain.v.daum.net/v/20220817230552151</id>
+        <link href="https://entertain.v.daum.net/v/20220817230552151"/>
+        <updated>2022-08-17T14:17:04.911Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태수미 친子' 등장..박은빈, 강태오에 "나와 있으면 외로울 것" 이별 쐐기 박아]]></title>
         <id>https://entertain.v.daum.net/v/20220817223142897</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220817172052968"/>
         <updated>2022-08-17T09:13:56.304Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍' 연보라, '조선판 고든램지' 남해댁 열연..'계벤져스' 맹활약]]></title>
-        <id>https://entertain.v.daum.net/v/20220817165901204</id>
-        <link href="https://entertain.v.daum.net/v/20220817165901204"/>
-        <updated>2022-08-17T08:15:08.665Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
