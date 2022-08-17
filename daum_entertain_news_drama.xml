@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-17T10:13:29.950Z</updated>
+    <updated>2022-08-17T11:10:28.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이승연, 김전무에 책임 전가 "몇 년 쉰다 생각하고.."]]></title>
+        <id>https://entertain.v.daum.net/v/20220817200039595</id>
+        <link href="https://entertain.v.daum.net/v/20220817200039595"/>
+        <updated>2022-08-17T11:10:18.745Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이승연, 장항선 의심에 억울함 호소]]></title>
+        <id>https://entertain.v.daum.net/v/20220817193202102</id>
+        <link href="https://entertain.v.daum.net/v/20220817193202102"/>
+        <updated>2022-08-17T11:10:18.753Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범가족' 김진우 감독 "어떻게가 아닌 왜에 집중해서 봐주시길"]]></title>
         <id>https://entertain.v.daum.net/v/20220817190109455</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220817155550489"/>
         <updated>2022-08-17T07:11:03.656Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10살차' 공효진♥케빈오, 손예진 부케 받고 5개월 만 결혼 발표]]></title>
-        <id>https://entertain.v.daum.net/v/20220817153701740</id>
-        <link href="https://entertain.v.daum.net/v/20220817153701740"/>
-        <updated>2022-08-17T07:11:03.656Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유리 vs 정상훈, 누가 이기나? 피까지 흘린 살벌 사별전쟁]]></title>
-        <id>https://entertain.v.daum.net/v/20220817153628723</id>
-        <link href="https://entertain.v.daum.net/v/20220817153628723"/>
-        <updated>2022-08-17T07:11:03.656Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
