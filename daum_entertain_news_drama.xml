@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-17T15:13:12.393Z</updated>
+    <updated>2022-08-17T16:17:23.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 박은빈, '태수미 친子' 만난다..강태오에 이별 이유 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220818010102827</id>
+        <link href="https://entertain.v.daum.net/v/20220818010102827"/>
+        <updated>2022-08-17T16:17:13.994Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['권모술수' 주종혁, '봄날의 햇살' 효과 톡톡..하윤경 위해 나섰다]]></title>
+        <id>https://entertain.v.daum.net/v/20220818003012715</id>
+        <link href="https://entertain.v.daum.net/v/20220818003012715"/>
+        <updated>2022-08-17T16:17:13.995Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, ♥강태오에 이별 이유 고백 "외롭지 않게 만들 자신 없어"'우영우']]></title>
         <id>https://entertain.v.daum.net/v/20220817235457442</id>
@@ -32,6 +46,13 @@
         <link href="https://entertain.v.daum.net/v/20220817232624302"/>
         <updated>2022-08-17T15:13:02.200Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["외롭게 않게 할 자신 없어" 박은빈, 강태오 2차 밀어내기..진경 친아들 등장]]></title>
+        <id>https://entertain.v.daum.net/v/20220817231917247</id>
+        <link href="https://entertain.v.daum.net/v/20220817231917247"/>
+        <updated>2022-08-17T16:17:14.005Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최대훈, 박은빈 바른 말에 "더럽게 건방지네" 못마땅 '우영우']]></title>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220817201804855"/>
         <updated>2022-08-17T12:24:34.272Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 이승연, 김전무에 책임 전가 "몇 년 쉰다 생각하고.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220817200039595</id>
-        <link href="https://entertain.v.daum.net/v/20220817200039595"/>
-        <updated>2022-08-17T11:10:18.745Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 이승연, 장항선 의심에 억울함 호소]]></title>
-        <id>https://entertain.v.daum.net/v/20220817193202102</id>
-        <link href="https://entertain.v.daum.net/v/20220817193202102"/>
-        <updated>2022-08-17T11:10:18.753Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범가족' 김진우 감독 "어떻게가 아닌 왜에 집중해서 봐주시길"]]></title>
-        <id>https://entertain.v.daum.net/v/20220817190109455</id>
-        <link href="https://entertain.v.daum.net/v/20220817190109455"/>
-        <updated>2022-08-17T10:13:20.063Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
