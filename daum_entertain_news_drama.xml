@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-17T06:16:23.795Z</updated>
+    <updated>2022-08-17T07:11:13.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박희순 "허성태 연기에 놀래, 문진승도 제 2의 허성태 될 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220817160106667</id>
+        <link href="https://entertain.v.daum.net/v/20220817160106667"/>
+        <updated>2022-08-17T07:11:03.642Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 양현민, 손끝까지 연기란 이런 것]]></title>
+        <id>https://entertain.v.daum.net/v/20220817155806570</id>
+        <link href="https://entertain.v.daum.net/v/20220817155806570"/>
+        <updated>2022-08-17T07:11:03.656Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미남당' 서인국, 액션부터 감정까지 '몰입도 폭발']]></title>
+        <id>https://entertain.v.daum.net/v/20220817155550489</id>
+        <link href="https://entertain.v.daum.net/v/20220817155550489"/>
+        <updated>2022-08-17T07:11:03.656Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['10살차' 공효진♥케빈오, 손예진 부케 받고 5개월 만 결혼 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220817153701740</id>
+        <link href="https://entertain.v.daum.net/v/20220817153701740"/>
+        <updated>2022-08-17T07:11:03.656Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이유리 vs 정상훈, 누가 이기나? 피까지 흘린 살벌 사별전쟁]]></title>
+        <id>https://entertain.v.daum.net/v/20220817153628723</id>
+        <link href="https://entertain.v.daum.net/v/20220817153628723"/>
+        <updated>2022-08-17T07:11:03.656Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 채정안, 키이스트와 재계약 체결]]></title>
         <id>https://entertain.v.daum.net/v/20220817150823532</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220817134639315"/>
         <updated>2022-08-17T05:03:20.551Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미미쿠스' 조유리, '출생의 비밀' 뺨치는 걸그룹 멤버의 비밀은?]]></title>
-        <id>https://entertain.v.daum.net/v/20220817130247091</id>
-        <link href="https://entertain.v.daum.net/v/20220817130247091"/>
-        <updated>2022-08-17T05:03:20.552Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 한바다 대표 백지원, 조한철과 '레이스' 출연..홍종현X이연희와 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220817114705121</id>
-        <link href="https://entertain.v.daum.net/v/20220817114705121"/>
-        <updated>2022-08-17T03:54:03.355Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김채은, 넷플릭스 '서울대작전' 캐스팅..유아인X고경표X문소리와 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220817114307001</id>
-        <link href="https://entertain.v.daum.net/v/20220817114307001"/>
-        <updated>2022-08-17T03:54:03.356Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 위하준, '흙수저 경리' 김고은과 공조 미스터리男]]></title>
-        <id>https://entertain.v.daum.net/v/20220817113050473</id>
-        <link href="https://entertain.v.daum.net/v/20220817113050473"/>
-        <updated>2022-08-17T03:54:03.357Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라붐 소연, '당신이 소원을 말하면' 두 번째 OST 주자 출격]]></title>
-        <id>https://entertain.v.daum.net/v/20220817112904393</id>
-        <link href="https://entertain.v.daum.net/v/20220817112904393"/>
-        <updated>2022-08-17T03:54:03.358Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
