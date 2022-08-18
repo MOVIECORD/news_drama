@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-18T15:23:30.387Z</updated>
+    <updated>2022-08-18T16:20:16.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육성재, "부자가 되고 싶지 않니?" 1차 티저 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220819010009266</id>
+        <link href="https://entertain.v.daum.net/v/20220819010009266"/>
+        <updated>2022-08-18T16:20:07.119Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우 종영' 최현진, 母 진경에 실망.."뉴스에 나오는 구린 재벌 같아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220819005003205</id>
+        <link href="https://entertain.v.daum.net/v/20220819005003205"/>
+        <updated>2022-08-18T16:20:07.121Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 진경 마음 움직였다 "저에게는 좋은 어머니가 아니었지만.."]]></title>
         <id>https://entertain.v.daum.net/v/20220819000821950</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220818225924265"/>
         <updated>2022-08-18T14:13:40.564Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우 종영' 진경, 子에게는 좋은 엄마였다..법무부장관 후보 사퇴]]></title>
-        <id>https://entertain.v.daum.net/v/20220818225010123</id>
-        <link href="https://entertain.v.daum.net/v/20220818225010123"/>
-        <updated>2022-08-18T14:13:40.564Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 박은빈, 강태오에 사랑 고백하며 재회 "우리 헤어지지 말아요"]]></title>
-        <id>https://entertain.v.daum.net/v/20220818224624087</id>
-        <link href="https://entertain.v.daum.net/v/20220818224624087"/>
-        <updated>2022-08-18T14:13:40.564Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
