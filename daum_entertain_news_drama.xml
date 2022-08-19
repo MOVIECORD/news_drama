@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-19T14:12:10.094Z</updated>
+    <updated>2022-08-19T15:14:10.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 이종석, 곽동연 빅마우스 의심 → 정신병원 감금]]></title>
+        <id>https://entertain.v.daum.net/v/20220820000758559</id>
+        <link href="https://entertain.v.daum.net/v/20220820000758559"/>
+        <updated>2022-08-19T15:14:00.920Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백석광, 김도훈 천재성에 좌절.."내 그릇은 여기까지"]]></title>
+        <id>https://entertain.v.daum.net/v/20220819235017426</id>
+        <link href="https://entertain.v.daum.net/v/20220819235017426"/>
+        <updated>2022-08-19T15:14:00.923Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 임윤아, 시신 안치실서 혈액 채취 "성분 분석 가능"]]></title>
         <id>https://entertain.v.daum.net/v/20220819231120228</id>
@@ -94,20 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220819200844032</id>
         <link href="https://entertain.v.daum.net/v/20220819200844032"/>
         <updated>2022-08-19T11:10:57.254Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 주종혁 "내가 봐도 미웠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220819195003714</id>
-        <link href="https://entertain.v.daum.net/v/20220819195003714"/>
-        <updated>2022-08-19T11:10:57.256Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 父와 다른 정헌 혈액형에 '충격']]></title>
-        <id>https://entertain.v.daum.net/v/20220819192444338</id>
-        <link href="https://entertain.v.daum.net/v/20220819192444338"/>
-        <updated>2022-08-19T11:10:57.257Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
