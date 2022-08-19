@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-19T07:11:19.026Z</updated>
+    <updated>2022-08-19T08:15:15.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅나티, '환혼' OST 대미 장식..21일 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220819171005333</id>
+        <link href="https://entertain.v.daum.net/v/20220819171005333"/>
+        <updated>2022-08-19T08:15:06.314Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 측 "박은혜X정소민 모녀 서로 알아보게 될지 지켜봐달라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220819163619329</id>
+        <link href="https://entertain.v.daum.net/v/20220819163619329"/>
+        <updated>2022-08-19T08:15:06.317Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이수경, '아다마스' 美친 활약 BEST 4]]></title>
+        <id>https://entertain.v.daum.net/v/20220819161942805</id>
+        <link href="https://entertain.v.daum.net/v/20220819161942805"/>
+        <updated>2022-08-19T08:15:06.318Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬의생'→'우영우'..제대로 알게 된 하윤경의 재발견]]></title>
         <id>https://entertain.v.daum.net/v/20220819161006548</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819140828693"/>
         <updated>2022-08-19T05:23:11.119Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연기천재' 이수경이 이끈 BEST4..몸 사리지 않는 액션연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220819140719656</id>
-        <link href="https://entertain.v.daum.net/v/20220819140719656"/>
-        <updated>2022-08-19T05:23:11.119Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 하석진, 뇌섹미 폭발하는 첫 스틸..완벽주의 판사 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220819135300130</id>
-        <link href="https://entertain.v.daum.net/v/20220819135300130"/>
-        <updated>2022-08-19T05:23:11.120Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["피지컬이 다했네" 최다니엘, 워너비 선배의 워너비 패션]]></title>
-        <id>https://entertain.v.daum.net/v/20220819134049821</id>
-        <link href="https://entertain.v.daum.net/v/20220819134049821"/>
-        <updated>2022-08-19T04:44:39.379Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
