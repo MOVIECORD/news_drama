@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-19T13:35:08.945Z</updated>
+    <updated>2022-08-19T14:12:10.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 임윤아, 시신 안치실서 혈액 채취 "성분 분석 가능"]]></title>
+        <id>https://entertain.v.daum.net/v/20220819231120228</id>
+        <link href="https://entertain.v.daum.net/v/20220819231120228"/>
+        <updated>2022-08-19T14:11:59.747Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 이종석, 송경철에 끌려가는 이유준 구했다]]></title>
+        <id>https://entertain.v.daum.net/v/20220819223851971</id>
+        <link href="https://entertain.v.daum.net/v/20220819223851971"/>
+        <updated>2022-08-19T14:11:59.750Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 김도훈, 김세정에 특별한 마음.."나한테 신"]]></title>
         <id>https://entertain.v.daum.net/v/20220819222958874</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819192444338"/>
         <updated>2022-08-19T11:10:57.257Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정민이랑 따릉이 타는 이제훈..12년전 '파수군' 케미 ing]]></title>
-        <id>https://entertain.v.daum.net/v/20220819191616248</id>
-        <link href="https://entertain.v.daum.net/v/20220819191616248"/>
-        <updated>2022-08-19T11:10:57.257Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기적 같은일" '우영우' 작가, 막방 전 눈물..옆에서 박은빈도 '글썽']]></title>
-        <id>https://entertain.v.daum.net/v/20220819191136186</id>
-        <link href="https://entertain.v.daum.net/v/20220819191136186"/>
-        <updated>2022-08-19T10:14:45.844Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
