@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-19T15:14:10.991Z</updated>
+    <updated>2022-08-19T16:17:47.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종석, 곽동연 배신에 정신병원행.."빅마우스 도저히 뚫을 수 없을 것 같아"]]></title>
+        <id>https://entertain.v.daum.net/v/20220820003703670</id>
+        <link href="https://entertain.v.daum.net/v/20220820003703670"/>
+        <updated>2022-08-19T16:17:37.212Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 김도훈, "김세정은 나한테 신..내 재능을 알아보고 나를 발견해줘"]]></title>
+        <id>https://entertain.v.daum.net/v/20220820002400638</id>
+        <link href="https://entertain.v.daum.net/v/20220820002400638"/>
+        <updated>2022-08-19T16:17:37.215Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 이종석, 곽동연 빅마우스 의심 → 정신병원 감금]]></title>
         <id>https://entertain.v.daum.net/v/20220820000758559</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819201451131"/>
         <updated>2022-08-19T12:21:36.271Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 차예련, 父 죽인 연민지 따귀 "죽여버릴 거야"]]></title>
-        <id>https://entertain.v.daum.net/v/20220819201310103</id>
-        <link href="https://entertain.v.daum.net/v/20220819201310103"/>
-        <updated>2022-08-19T12:21:36.272Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 정헌X정찬 유전자 검사 일치 확인]]></title>
-        <id>https://entertain.v.daum.net/v/20220819200844032</id>
-        <link href="https://entertain.v.daum.net/v/20220819200844032"/>
-        <updated>2022-08-19T11:10:57.254Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
