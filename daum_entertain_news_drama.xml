@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-19T06:17:35.350Z</updated>
+    <updated>2022-08-19T07:11:19.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슬의생'→'우영우'..제대로 알게 된 하윤경의 재발견]]></title>
+        <id>https://entertain.v.daum.net/v/20220819161006548</id>
+        <link href="https://entertain.v.daum.net/v/20220819161006548"/>
+        <updated>2022-08-19T07:11:09.393Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김주헌, '빅마우스'→'우영우'..이런 존재감은 반칙이지]]></title>
+        <id>https://entertain.v.daum.net/v/20220819154918933</id>
+        <link href="https://entertain.v.daum.net/v/20220819154918933"/>
+        <updated>2022-08-19T07:11:09.394Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어나더 레코드:이제훈', 이제훈의 상상은 계속된다]]></title>
+        <id>https://entertain.v.daum.net/v/20220819152634269</id>
+        <link href="https://entertain.v.daum.net/v/20220819152634269"/>
+        <updated>2022-08-19T07:11:09.407Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최우식·손석구·이희준, 넷플릭스 '살인자ㅇ난감'으로 뭉친다]]></title>
         <id>https://entertain.v.daum.net/v/20220819151619995</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220819134049821"/>
         <updated>2022-08-19T04:44:39.379Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 이유준 처절한 응징..동정심 없는 표정]]></title>
-        <id>https://entertain.v.daum.net/v/20220819133631697</id>
-        <link href="https://entertain.v.daum.net/v/20220819133631697"/>
-        <updated>2022-08-19T04:44:39.379Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손석구, 넷플릭스 '살인자ㅇ난감' 출연..최우식과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220819132825488</id>
-        <link href="https://entertain.v.daum.net/v/20220819132825488"/>
-        <updated>2022-08-19T04:44:39.379Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재X김향기, 결정적 관계 변화..'쌍방 구원' 설렘 모먼트 #3]]></title>
-        <id>https://entertain.v.daum.net/v/20220819132708464</id>
-        <link href="https://entertain.v.daum.net/v/20220819132708464"/>
-        <updated>2022-08-19T04:44:39.389Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
