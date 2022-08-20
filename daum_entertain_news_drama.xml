@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-20T05:14:49.739Z</updated>
+    <updated>2022-08-20T06:14:11.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아, 검찰청 앞에서 1인 시위 "살인사건 진실 밝혀라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220820151148443</id>
+        <link href="https://entertain.v.daum.net/v/20220820151148443"/>
+        <updated>2022-08-20T06:14:01.522Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[급기야 시청률 11% 돌파, '빅마우스' 작가는 밀당의 고수가 틀림없다]]></title>
+        <id>https://entertain.v.daum.net/v/20220820151035435</id>
+        <link href="https://entertain.v.daum.net/v/20220820151035435"/>
+        <updated>2022-08-20T06:14:01.524Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임윤아, ♥이종석 위해 검찰청 시위 "내 남편은 빅마우스가 아냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20220820145139150</id>
+        <link href="https://entertain.v.daum.net/v/20220820145139150"/>
+        <updated>2022-08-20T06:14:01.525Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아, 남편 이종석 위해 '1인 시위']]></title>
         <id>https://entertain.v.daum.net/v/20220820141154722</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220820090146092"/>
         <updated>2022-08-20T00:59:58.658Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 전배수 "역시나 박은빈, 기막힌 주현영"]]></title>
-        <id>https://entertain.v.daum.net/v/20220820090142088</id>
-        <link href="https://entertain.v.daum.net/v/20220820090142088"/>
-        <updated>2022-08-20T00:59:58.658Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정x최다니엘 고군분투..'오늘의 웹툰' 최고 시청률 4.3%]]></title>
-        <id>https://entertain.v.daum.net/v/20220820090018029</id>
-        <link href="https://entertain.v.daum.net/v/20220820090018029"/>
-        <updated>2022-08-20T00:59:58.659Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조유리, 알고보니 왕따 당했다..멤버한테 '공개저격' 받기도]]></title>
-        <id>https://entertain.v.daum.net/v/20220820082101679</id>
-        <link href="https://entertain.v.daum.net/v/20220820082101679"/>
-        <updated>2022-08-20T00:59:58.660Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
