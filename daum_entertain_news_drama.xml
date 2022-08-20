@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-20T07:11:16.624Z</updated>
+    <updated>2022-08-20T08:15:48.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애드리브 장인' 성동일, 모두 폭소케 한 美친 입담]]></title>
+        <id>https://entertain.v.daum.net/v/20220820170821639</id>
+        <link href="https://entertain.v.daum.net/v/20220820170821639"/>
+        <updated>2022-08-20T08:15:39.556Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 승승장구하던 손현주 장승조, 최대 고비 맞는다]]></title>
+        <id>https://entertain.v.daum.net/v/20220820165826482</id>
+        <link href="https://entertain.v.daum.net/v/20220820165826482"/>
+        <updated>2022-08-20T08:15:39.556Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱·정소민·황민현·유인수, 신승호와 동맹]]></title>
+        <id>https://entertain.v.daum.net/v/20220820163257263</id>
+        <link href="https://entertain.v.daum.net/v/20220820163257263"/>
+        <updated>2022-08-20T08:15:39.567Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 이재욱→정소민, 신승호에 동맹 제안..세마리 토끼 잡는다]]></title>
+        <id>https://entertain.v.daum.net/v/20220820162929229</id>
+        <link href="https://entertain.v.daum.net/v/20220820162929229"/>
+        <updated>2022-08-20T08:15:39.567Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아, 검찰청 앞에서 1인 시위 "살인사건 진실 밝혀라"]]></title>
         <id>https://entertain.v.daum.net/v/20220820151148443</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220820115237740"/>
         <updated>2022-08-20T03:11:49.808Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 측 "윤시윤 배다빈 로맨스, 결정적 순간 맞는다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220820112245498</id>
-        <link href="https://entertain.v.daum.net/v/20220820112245498"/>
-        <updated>2022-08-20T03:11:49.810Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무서운 이종석, 괴물 같은 연기력]]></title>
-        <id>https://entertain.v.daum.net/v/20220820104630145</id>
-        <link href="https://entertain.v.daum.net/v/20220820104630145"/>
-        <updated>2022-08-20T03:11:49.811Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 황희찬 장어 소금간 없이 자기관리 끝판왕..분당 최고 10.8%]]></title>
-        <id>https://entertain.v.daum.net/v/20220820090830144</id>
-        <link href="https://entertain.v.daum.net/v/20220820090830144"/>
-        <updated>2022-08-20T00:59:58.649Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연일 자체 최고..'빅마우스', 이종석의 진가]]></title>
-        <id>https://entertain.v.daum.net/v/20220820090146092</id>
-        <link href="https://entertain.v.daum.net/v/20220820090146092"/>
-        <updated>2022-08-20T00:59:58.658Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
