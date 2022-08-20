@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-20T03:11:58.958Z</updated>
+    <updated>2022-08-20T04:27:49.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미미쿠스' 조유리, 멤버들 왕따에 폭발 직전..김윤우 '익명 저격' 문자에 위기]]></title>
+        <id>https://entertain.v.daum.net/v/20220820132201288</id>
+        <link href="https://entertain.v.daum.net/v/20220820132201288"/>
+        <updated>2022-08-20T04:27:40.065Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['개미가 타고 있어요' 홍종현, 여심 저격 '관심 종목' 등극]]></title>
+        <id>https://entertain.v.daum.net/v/20220820124431074</id>
+        <link href="https://entertain.v.daum.net/v/20220820124431074"/>
+        <updated>2022-08-20T04:27:40.066Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정, '10년째 작가 지망생' 응원..'오늘의 웹툰' 최고 4.3%]]></title>
         <id>https://entertain.v.daum.net/v/20220820120011814</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220820080101528"/>
         <updated>2022-08-19T23:11:44.408Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석, 괴한에 납치 후 정신병원 감금..곽동연 배신까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220820074502378</id>
-        <link href="https://entertain.v.daum.net/v/20220820074502378"/>
-        <updated>2022-08-19T23:11:44.408Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 정신병원 감금!..자체최고 11.4%]]></title>
-        <id>https://entertain.v.daum.net/v/20220820072809311</id>
-        <link href="https://entertain.v.daum.net/v/20220820072809311"/>
-        <updated>2022-08-19T23:11:44.409Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
