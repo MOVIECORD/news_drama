@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-20T21:11:01.131Z</updated>
+    <updated>2022-08-20T22:11:38.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정X최다니엘, 간판 작가 유출 막았다]]></title>
+        <id>https://entertain.v.daum.net/v/20220821070012340</id>
+        <link href="https://entertain.v.daum.net/v/20220821070012340"/>
+        <updated>2022-08-20T22:11:29.300Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '이상한 변호사 우영우', 이 드라마를 본 우리도 "뿌듯함"]]></title>
+        <id>https://entertain.v.daum.net/v/20220821070006325</id>
+        <link href="https://entertain.v.daum.net/v/20220821070006325"/>
+        <updated>2022-08-20T22:11:29.300Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지영, 딸 거부→박인환, 윤시윤♥배다빈 소집..결혼 허락할까?]]></title>
+        <id>https://entertain.v.daum.net/v/20220821065937311</id>
+        <link href="https://entertain.v.daum.net/v/20220821065937311"/>
+        <updated>2022-08-20T22:11:29.300Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 이종석, 본격 복수 시작 "제가 빅마우스입니다"]]></title>
         <id>https://entertain.v.daum.net/v/20220821060901043</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821053410554"/>
         <updated>2022-08-20T21:10:51.155Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김주헌, 전국환 교살 시도..가족 복수 사연 있나 '빅마우스']]></title>
-        <id>https://entertain.v.daum.net/v/20220821052825521</id>
-        <link href="https://entertain.v.daum.net/v/20220821052825521"/>
-        <updated>2022-08-20T21:10:51.155Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이용만 안 당해" 곽동연 죽음에 이종석 각성, 대국민 폭로 방송 '빅마우스']]></title>
-        <id>https://entertain.v.daum.net/v/20220821052739519</id>
-        <link href="https://entertain.v.daum.net/v/20220821052739519"/>
-        <updated>2022-08-20T21:10:51.156Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 임철수, 최다니엘-김세정 진심에 '구미호 공주' 연재 결정]]></title>
-        <id>https://entertain.v.daum.net/v/20220821003901808</id>
-        <link href="https://entertain.v.daum.net/v/20220821003901808"/>
-        <updated>2022-08-20T16:14:40.777Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
