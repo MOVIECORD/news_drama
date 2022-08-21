@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-21T18:13:58.383Z</updated>
+    <updated>2022-08-21T19:10:11.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 정소민에 입맞추며 모든 걸 바쳐]]></title>
+        <id>https://entertain.v.daum.net/v/20220822034105418</id>
+        <link href="https://entertain.v.daum.net/v/20220822034105418"/>
+        <updated>2022-08-21T19:10:00.264Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 김효진, 오정세에 "장승조 약점 알려달라"]]></title>
         <id>https://entertain.v.daum.net/v/20220822001422591</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821215109814"/>
         <updated>2022-08-21T13:23:46.203Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 서혜원, 정소민 부활 막으려다 얼음돌 결계에 갇혔다]]></title>
-        <id>https://entertain.v.daum.net/v/20220821214654761</id>
-        <link href="https://entertain.v.daum.net/v/20220821214654761"/>
-        <updated>2022-08-21T13:23:46.203Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
