@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-21T06:15:09.996Z</updated>
+    <updated>2022-08-21T07:11:23.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["2년간 수익 없어"..샘 오취리, 생활고 고백]]></title>
+        <id>https://entertain.v.daum.net/v/20220821151939478</id>
+        <link href="https://entertain.v.daum.net/v/20220821151939478"/>
+        <updated>2022-08-21T07:11:13.073Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤시윤♥배다빈, 드디어 결혼..선남선녀 웨딩마치]]></title>
         <id>https://entertain.v.daum.net/v/20220821145311032</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220821113710891</id>
         <link href="https://entertain.v.daum.net/v/20220821113710891"/>
         <updated>2022-08-21T03:36:30.311Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 함태인 종영소감 "현장 굉장히 가족적..따뜻해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220821113340810</id>
-        <link href="https://entertain.v.daum.net/v/20220821113340810"/>
-        <updated>2022-08-21T03:36:30.316Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
