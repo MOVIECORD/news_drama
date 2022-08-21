@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-21T04:28:12.945Z</updated>
+    <updated>2022-08-21T05:14:59.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통통 튀는 '환혼'에 드리운 비극의 분위기, 시청자들 감정도 요동친다]]></title>
+        <id>https://entertain.v.daum.net/v/20220821135516859</id>
+        <link href="https://entertain.v.daum.net/v/20220821135516859"/>
+        <updated>2022-08-21T05:14:50.194Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 우리들의 이야기, 웹툰 세계 몰라도 공감된다]]></title>
+        <id>https://entertain.v.daum.net/v/20220821133232439</id>
+        <link href="https://entertain.v.daum.net/v/20220821133232439"/>
+        <updated>2022-08-21T05:14:50.196Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱·정소민·황민현, 위기일발 피습.."극 판도 뒤엎을 반전"]]></title>
+        <id>https://entertain.v.daum.net/v/20220821133038405</id>
+        <link href="https://entertain.v.daum.net/v/20220821133038405"/>
+        <updated>2022-08-21T05:14:50.216Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 하율리, 스토킹 위험 긴장+궁금증 UP]]></title>
+        <id>https://entertain.v.daum.net/v/20220821132857372</id>
+        <link href="https://entertain.v.daum.net/v/20220821132857372"/>
+        <updated>2022-08-21T05:14:50.224Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환혼' 측 "극 판도 뒤엎을 반전 전개 펼쳐질 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220821132605316</id>
@@ -81,33 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821101751550"/>
         <updated>2022-08-21T03:36:30.323Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 시청자까지 설득한 'PT요정']]></title>
-        <id>https://entertain.v.daum.net/v/20220821101032448</id>
-        <link href="https://entertain.v.daum.net/v/20220821101032448"/>
-        <updated>2022-08-21T03:36:30.324Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정일우 "소시 컴백 병행하고도 지치지 않는 권유리, 리스펙트"]]></title>
-        <id>https://entertain.v.daum.net/v/20220821100755405</id>
-        <link href="https://entertain.v.daum.net/v/20220821100755405"/>
-        <updated>2022-08-21T03:36:30.325Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 양경원 손아귀서 탈출→라이브 방송 현장 등장]]></title>
-        <id>https://entertain.v.daum.net/v/20220821100001216</id>
-        <link href="https://entertain.v.daum.net/v/20220821100001216"/>
-        <updated>2022-08-21T01:01:48.047Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 스타작가 손동운, 프로페셔널한 모습 뒤 반전 슬럼프]]></title>
-        <id>https://entertain.v.daum.net/v/20220821095707181</id>
-        <link href="https://entertain.v.daum.net/v/20220821095707181"/>
-        <updated>2022-08-21T01:01:48.047Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
