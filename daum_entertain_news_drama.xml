@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-21T09:11:35.458Z</updated>
+    <updated>2022-08-21T10:12:48.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김효진 이혼 발표 "8년간의 결혼 생활 접는다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220821185004927</id>
+        <link href="https://entertain.v.daum.net/v/20220821185004927"/>
+        <updated>2022-08-21T10:12:38.003Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 홍지희 흑화..'눈문→이혼' 이종석과 공조 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220821170536210</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821132857372"/>
         <updated>2022-08-21T05:14:50.224Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 측 "극 판도 뒤엎을 반전 전개 펼쳐질 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220821132605316</id>
-        <link href="https://entertain.v.daum.net/v/20220821132605316"/>
-        <updated>2022-08-21T04:28:03.709Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
