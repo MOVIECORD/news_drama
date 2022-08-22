@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-22T20:13:03.945Z</updated>
+    <updated>2022-08-22T21:11:15.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 강기영, "미중년 칭찬? 명석으로 연기 스펙트넘 넓혔죠"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823060012366</id>
+        <link href="https://entertain.v.daum.net/v/20220823060012366"/>
+        <updated>2022-08-22T21:11:06.442Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멧돼지 사냥' 종영.. 박호산, 협박범들과 의기투합했지만.. 끝은 '인과응보']]></title>
         <id>https://entertain.v.daum.net/v/20220823001817426</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220822194825856</id>
         <link href="https://entertain.v.daum.net/v/20220822194825856"/>
         <updated>2022-08-22T11:10:43.637Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병' 하드캐리 호연 남태우 "잊지 못할 작품" 종영 소감]]></title>
-        <id>https://entertain.v.daum.net/v/20220822193419690</id>
-        <link href="https://entertain.v.daum.net/v/20220822193419690"/>
-        <updated>2022-08-22T11:10:43.640Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
