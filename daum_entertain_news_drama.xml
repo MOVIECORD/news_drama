@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-22T14:11:13.331Z</updated>
+    <updated>2022-08-22T15:14:24.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남지현·강훈, 소꿉친구→수사 파트너]]></title>
+        <id>https://entertain.v.daum.net/v/20220822235823193</id>
+        <link href="https://entertain.v.daum.net/v/20220822235823193"/>
+        <updated>2022-08-22T15:14:14.550Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김향기, 딸 잃은 여인 슬픔에 위로.."딸 아이를 잃고 얼마나 힘들었어요?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220822234301092</id>
+        <link href="https://entertain.v.daum.net/v/20220822234301092"/>
+        <updated>2022-08-22T15:14:14.554Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나' 감독vs쿠팡플레이, 누구 말이 맞나 "모든 법적 조치 실행"]]></title>
         <id>https://entertain.v.daum.net/v/20220822221246468</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220822191942514"/>
         <updated>2022-08-22T11:10:43.642Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 편집권 논란 점입가경 "사과 받아" vs "허위사실"..대립 계속]]></title>
-        <id>https://entertain.v.daum.net/v/20220822185016119</id>
-        <link href="https://entertain.v.daum.net/v/20220822185016119"/>
-        <updated>2022-08-22T10:14:01.756Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'하균신이 눈 앞에, 실환가?"..신하균표 시트콤]]></title>
-        <id>https://entertain.v.daum.net/v/20220822185004115</id>
-        <link href="https://entertain.v.daum.net/v/20220822185004115"/>
-        <updated>2022-08-22T10:14:01.758Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
