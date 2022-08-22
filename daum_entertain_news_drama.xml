@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-22T15:14:24.456Z</updated>
+    <updated>2022-08-22T16:15:16.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멧돼지 사냥' 종영.. 박호산, 협박범들과 의기투합했지만.. 끝은 '인과응보']]></title>
+        <id>https://entertain.v.daum.net/v/20220823001817426</id>
+        <link href="https://entertain.v.daum.net/v/20220823001817426"/>
+        <updated>2022-08-22T16:15:06.611Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남지현·강훈, 소꿉친구→수사 파트너]]></title>
         <id>https://entertain.v.daum.net/v/20220822235823193</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220822193419690</id>
         <link href="https://entertain.v.daum.net/v/20220822193419690"/>
         <updated>2022-08-22T11:10:43.640Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 장항선, 정헌 vs 정찬 싸움 영상에 의심 "아는 사람이냐?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220822191942514</id>
-        <link href="https://entertain.v.daum.net/v/20220822191942514"/>
-        <updated>2022-08-22T11:10:43.642Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
