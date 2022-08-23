@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-23T20:13:23.466Z</updated>
+    <updated>2022-08-23T21:11:16.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 기적 끝났다..'최악의 시청률' 지성→감독교체 논란 '굿잡', 아슬아슬 삼파전]]></title>
+        <id>https://entertain.v.daum.net/v/20220824061001117</id>
+        <link href="https://entertain.v.daum.net/v/20220824061001117"/>
+        <updated>2022-08-23T21:11:07.659Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세영, 정신과 의사 된다]]></title>
         <id>https://entertain.v.daum.net/v/20220823235721549</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220823154818318"/>
         <updated>2022-08-23T07:16:24.761Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세' 이도현, '나쁜 엄마' 주연..라미란과 호흡]]></title>
-        <id>https://entertain.v.daum.net/v/20220823154523234</id>
-        <link href="https://entertain.v.daum.net/v/20220823154523234"/>
-        <updated>2022-08-23T07:16:24.761Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
