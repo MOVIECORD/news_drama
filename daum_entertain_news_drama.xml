@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-23T12:23:12.710Z</updated>
+    <updated>2022-08-23T13:32:48.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최준희 '학폭'에 함께 고개숙인 홍진경 "다시 한번 기회주시길"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823221657837</id>
+        <link href="https://entertain.v.daum.net/v/20220823221657837"/>
+        <updated>2022-08-23T13:32:39.420Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김향기 입에서 욕배틀이?..'유세풍' 하드캐리 중]]></title>
+        <id>https://entertain.v.daum.net/v/20220823215244418</id>
+        <link href="https://entertain.v.daum.net/v/20220823215244418"/>
+        <updated>2022-08-23T13:32:39.420Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희정, 보상 논하는 선우재덕 태도에 분개.."당사자랑 빌어도 모자랄 판에"]]></title>
         <id>https://entertain.v.daum.net/v/20220823211701896</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220823154428187"/>
         <updated>2022-08-23T07:16:24.761Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국·오연서·권수현, 목숨 건 세 사람 '살벌 육탄전']]></title>
-        <id>https://entertain.v.daum.net/v/20220823152324447</id>
-        <link href="https://entertain.v.daum.net/v/20220823152324447"/>
-        <updated>2022-08-23T06:25:20.844Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스맨파' 은혁 "춤 스승 백구영, 일부러 아는 척 안했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823152304435</id>
-        <link href="https://entertain.v.daum.net/v/20220823152304435"/>
-        <updated>2022-08-23T06:25:20.845Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
