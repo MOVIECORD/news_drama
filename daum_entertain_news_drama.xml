@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-23T10:14:02.969Z</updated>
+    <updated>2022-08-23T11:10:41.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 친父 숨기는 정헌에 경고 "진실 말해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823194143247</id>
+        <link href="https://entertain.v.daum.net/v/20220823194143247"/>
+        <updated>2022-08-23T11:10:31.409Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드라마스페셜-방종' 김기해-손상경-박정표-김상우 출연 확정]]></title>
         <id>https://entertain.v.daum.net/v/20220823170008794</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220823145613315</id>
         <link href="https://entertain.v.daum.net/v/20220823145613315"/>
         <updated>2022-08-23T06:25:20.849Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정원창, '피침 주인' 김민재 정체 알았다]]></title>
-        <id>https://entertain.v.daum.net/v/20220823145212147</id>
-        <link href="https://entertain.v.daum.net/v/20220823145212147"/>
-        <updated>2022-08-23T06:25:20.851Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
