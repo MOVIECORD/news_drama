@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-23T07:16:34.260Z</updated>
+    <updated>2022-08-23T08:16:09.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["살벌한 얼음탕"..'스우파' 잇는 남자 춤 싸움판 '스맨파']]></title>
+        <title type="html"><![CDATA['드라마스페셜-방종' 김기해-손상경-박정표-김상우 출연 확정]]></title>
+        <id>https://entertain.v.daum.net/v/20220823170008794</id>
+        <link href="https://entertain.v.daum.net/v/20220823170008794"/>
+        <updated>2022-08-23T08:16:00.409Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도현 측 "'나쁜 엄마' 출연 제안받고 긍정 검토 중"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823164616418</id>
+        <link href="https://entertain.v.daum.net/v/20220823164616418"/>
+        <updated>2022-08-23T08:16:00.414Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈물나게 살벌..'스우파' 잇는 남자 춤 싸움판 '스맨파']]></title>
         <id>https://entertain.v.daum.net/v/20220823161515310</id>
         <link href="https://entertain.v.daum.net/v/20220823161515310"/>
         <updated>2022-08-23T07:16:24.752Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220823145212147"/>
         <updated>2022-08-23T06:25:20.851Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보아 "살벌한 '스맨파'..남성분들 눈물 많더라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823145145136</id>
-        <link href="https://entertain.v.daum.net/v/20220823145145136"/>
-        <updated>2022-08-23T06:25:20.853Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 쿠팡플레이VS감독, 오해 풀었다더니..진흙탕 싸움ing]]></title>
-        <id>https://entertain.v.daum.net/v/20220823145019051</id>
-        <link href="https://entertain.v.daum.net/v/20220823145019051"/>
-        <updated>2022-08-23T06:25:20.853Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
