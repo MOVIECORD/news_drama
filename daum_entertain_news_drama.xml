@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-23T06:25:31.033Z</updated>
+    <updated>2022-08-23T07:16:34.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["살벌한 얼음탕"..'스우파' 잇는 남자 춤 싸움판 '스맨파']]></title>
+        <id>https://entertain.v.daum.net/v/20220823161515310</id>
+        <link href="https://entertain.v.daum.net/v/20220823161515310"/>
+        <updated>2022-08-23T07:16:24.752Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권영찬 CP "'스우파'는 질투·욕심, '스맨파'는 의리·자존심"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823160100750</id>
+        <link href="https://entertain.v.daum.net/v/20220823160100750"/>
+        <updated>2022-08-23T07:16:24.761Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유세풍' 속 코로나 현실?..김민재x김향기x김상경, 전염병 대혼란]]></title>
+        <id>https://entertain.v.daum.net/v/20220823154818318</id>
+        <link href="https://entertain.v.daum.net/v/20220823154818318"/>
+        <updated>2022-08-23T07:16:24.761Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대세' 이도현, '나쁜 엄마' 주연..라미란과 호흡]]></title>
+        <id>https://entertain.v.daum.net/v/20220823154523234</id>
+        <link href="https://entertain.v.daum.net/v/20220823154523234"/>
+        <updated>2022-08-23T07:16:24.761Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남태우 "신인이 대부분인 '신병', 의지됐던 이정현·김민호"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823154428187</id>
+        <link href="https://entertain.v.daum.net/v/20220823154428187"/>
+        <updated>2022-08-23T07:16:24.761Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서인국·오연서·권수현, 목숨 건 세 사람 '살벌 육탄전']]></title>
         <id>https://entertain.v.daum.net/v/20220823152324447</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220823145019051"/>
         <updated>2022-08-23T06:25:20.853Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병' 남태우 "더빙 NO, 내 목소리..최일구=드라마화 최대 수혜자"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823143530420</id>
-        <link href="https://entertain.v.daum.net/v/20220823143530420"/>
-        <updated>2022-08-23T05:49:42.359Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석X임윤아 해냈다, 4주 연속 금토극 화제성 1위]]></title>
-        <id>https://entertain.v.daum.net/v/20220823143333344</id>
-        <link href="https://entertain.v.daum.net/v/20220823143333344"/>
-        <updated>2022-08-23T05:49:42.359Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유니콘' 유병재 작가 "신하균 오마주, 매 에피마다 넣었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823142600968</id>
-        <link href="https://entertain.v.daum.net/v/20220823142600968"/>
-        <updated>2022-08-23T05:49:42.359Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 2%대 SBS 구세주되나? "죽을만큼 힘들다고 해서 왔습니다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823141046273</id>
-        <link href="https://entertain.v.daum.net/v/20220823141046273"/>
-        <updated>2022-08-23T05:49:42.360Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범가족 '박희순, 내려놓으니 보이는 것]]></title>
-        <id>https://entertain.v.daum.net/v/20220823140956248</id>
-        <link href="https://entertain.v.daum.net/v/20220823140956248"/>
-        <updated>2022-08-23T05:49:42.360Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
