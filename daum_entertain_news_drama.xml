@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-23T11:10:41.220Z</updated>
+    <updated>2022-08-23T12:23:12.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희정, 보상 논하는 선우재덕 태도에 분개.."당사자랑 빌어도 모자랄 판에"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823211701896</id>
+        <link href="https://entertain.v.daum.net/v/20220823211701896"/>
+        <updated>2022-08-23T12:23:03.050Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 차예련, 교제 반대하는 이휘향에 "기다릴게요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823210634748</id>
+        <link href="https://entertain.v.daum.net/v/20220823210634748"/>
+        <updated>2022-08-23T12:23:03.050Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정찬,  '정헌=친아들' 사실 알고 압박.."34년 만에 허그 한번 해보자"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823203903279</id>
+        <link href="https://entertain.v.daum.net/v/20220823203903279"/>
+        <updated>2022-08-23T12:23:03.054Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 공다임, 박찬환에 오열 "이현진 포기 못해"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823202656060</id>
+        <link href="https://entertain.v.daum.net/v/20220823202656060"/>
+        <updated>2022-08-23T12:23:03.054Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 강별, 이승연에 분노..정찬에 "정헌이 친子"]]></title>
+        <id>https://entertain.v.daum.net/v/20220823202353027</id>
+        <link href="https://entertain.v.daum.net/v/20220823202353027"/>
+        <updated>2022-08-23T12:23:03.057Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 집' 서하준, 친父 숨기는 정헌에 경고 "진실 말해"]]></title>
         <id>https://entertain.v.daum.net/v/20220823194143247</id>
@@ -74,40 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220823152304435"/>
         <updated>2022-08-23T06:25:20.845Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우 "이이경→박진주, 코미디에 강한 배우들 시너지 대단"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823151359104</id>
-        <link href="https://entertain.v.daum.net/v/20220823151359104"/>
-        <updated>2022-08-23T06:25:20.848Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 옥택연X하석진X정은지, 살인범 향한 살벌 경고]]></title>
-        <id>https://entertain.v.daum.net/v/20220823151050983</id>
-        <link href="https://entertain.v.daum.net/v/20220823151050983"/>
-        <updated>2022-08-23T06:25:20.848Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스맨파' 장우영 "'스우파' 보며 강다니엘 부러웠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823150421738</id>
-        <link href="https://entertain.v.daum.net/v/20220823150421738"/>
-        <updated>2022-08-23T06:25:20.848Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멧돼지사냥' 이규회, 인간 본성에 물음 던진 열연 "많이 배우고 행복"]]></title>
-        <id>https://entertain.v.daum.net/v/20220823150106571</id>
-        <link href="https://entertain.v.daum.net/v/20220823150106571"/>
-        <updated>2022-08-23T06:25:20.848Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원인 모를 역병 창궐→김향기 쓰러진다]]></title>
-        <id>https://entertain.v.daum.net/v/20220823145613315</id>
-        <link href="https://entertain.v.daum.net/v/20220823145613315"/>
-        <updated>2022-08-23T06:25:20.849Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
