@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-24T09:12:10.819Z</updated>
+    <updated>2022-08-24T10:13:51.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정일우가 장발에 콧수염을?..권유리 피해 도망갈 수 있을까]]></title>
+        <id>https://entertain.v.daum.net/v/20220824184413478</id>
+        <link href="https://entertain.v.daum.net/v/20220824184413478"/>
+        <updated>2022-08-24T10:13:41.998Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유세풍' 연보라, '조선판 고든램지' 활약..극 몰입도 높여]]></title>
         <id>https://entertain.v.daum.net/v/20220824180949743</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220824155250871"/>
         <updated>2022-08-24T07:11:24.574Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아·안재욱·이미숙·송영창·신구·오현경, '디 엠파이어' 출연 확정]]></title>
-        <id>https://entertain.v.daum.net/v/20220824154521591</id>
-        <link href="https://entertain.v.daum.net/v/20220824154521591"/>
-        <updated>2022-08-24T07:11:24.574Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
