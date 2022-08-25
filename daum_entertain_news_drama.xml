@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-25T16:15:46.003Z</updated>
+    <updated>2022-08-25T17:16:12.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신은수X김재원, '열아홉 해달들' 출연..위태로운 첫사랑 예고]]></title>
+        <id>https://entertain.v.daum.net/v/20220826020028783</id>
+        <link href="https://entertain.v.daum.net/v/20220826020028783"/>
+        <updated>2022-08-25T17:16:02.177Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아다마스' 송수현X이수경 위기..서지혜 지원]]></title>
         <id>https://entertain.v.daum.net/v/20220825234442846</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220825200335404"/>
         <updated>2022-08-25T11:11:37.579Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 결국 교통사고→정헌 "제발 이대로 떠나"]]></title>
-        <id>https://entertain.v.daum.net/v/20220825193628691</id>
-        <link href="https://entertain.v.daum.net/v/20220825193628691"/>
-        <updated>2022-08-25T11:11:37.580Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
