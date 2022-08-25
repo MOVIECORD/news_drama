@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-25T19:10:00.695Z</updated>
+    <updated>2022-08-25T20:13:24.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비 박진주, 31일 '당소말' OST 발표]]></title>
+        <id>https://entertain.v.daum.net/v/20220826050028525</id>
+        <link href="https://entertain.v.daum.net/v/20220826050028525"/>
+        <updated>2022-08-25T20:13:14.167Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신은수X김재원, '열아홉 해달들' 출연..위태로운 첫사랑 예고]]></title>
         <id>https://entertain.v.daum.net/v/20220826020028783</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220825200715485"/>
         <updated>2022-08-25T11:11:37.572Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영희, 차예련이 공다임 밀쳤다고 확신.."죽이겠다" 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220825200335404</id>
-        <link href="https://entertain.v.daum.net/v/20220825200335404"/>
-        <updated>2022-08-25T11:11:37.579Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
