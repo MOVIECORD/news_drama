@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-25T13:36:03.839Z</updated>
+    <updated>2022-08-25T14:12:41.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 박혜은, 이수경 납치 "죽이진 않아.. 애원해도"]]></title>
+        <id>https://entertain.v.daum.net/v/20220825230143390</id>
+        <link href="https://entertain.v.daum.net/v/20220825230143390"/>
+        <updated>2022-08-25T14:12:30.726Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아다마스', 지성이 열고 지성이 닫는 '원맨쇼']]></title>
         <id>https://entertain.v.daum.net/v/20220825215751576</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220825181707544"/>
         <updated>2022-08-25T10:14:13.552Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 위기의 지성·이수경 지원군..긴장감↑]]></title>
-        <id>https://entertain.v.daum.net/v/20220825175654636</id>
-        <link href="https://entertain.v.daum.net/v/20220825175654636"/>
-        <updated>2022-08-25T09:12:18.282Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
