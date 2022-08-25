@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-25T14:12:41.521Z</updated>
+    <updated>2022-08-25T15:14:39.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 송수현X이수경 위기..서지혜 지원]]></title>
+        <id>https://entertain.v.daum.net/v/20220825234442846</id>
+        <link href="https://entertain.v.daum.net/v/20220825234442846"/>
+        <updated>2022-08-25T15:14:26.269Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 지성X허성태 정체발각 위기 "특수본이지?"]]></title>
+        <id>https://entertain.v.daum.net/v/20220825234424844</id>
+        <link href="https://entertain.v.daum.net/v/20220825234424844"/>
+        <updated>2022-08-25T15:14:26.295Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아다마스' 박혜은, 이수경 납치 "죽이진 않아.. 애원해도"]]></title>
         <id>https://entertain.v.daum.net/v/20220825230143390</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220825193628691"/>
         <updated>2022-08-25T11:11:37.580Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["완벽한 싱크로율"..박주현, '서울대작전' 유아인과 환상 시너지]]></title>
-        <id>https://entertain.v.daum.net/v/20220825184430277</id>
-        <link href="https://entertain.v.daum.net/v/20220825184430277"/>
-        <updated>2022-08-25T10:14:13.552Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하윤경 "우영우'로 31년만에 첫 효도..시즌2, 없어도 괜찮아"]]></title>
-        <id>https://entertain.v.daum.net/v/20220825181707544</id>
-        <link href="https://entertain.v.daum.net/v/20220825181707544"/>
-        <updated>2022-08-25T10:14:13.552Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
