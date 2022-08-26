@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-26T06:32:12.017Z</updated>
+    <updated>2022-08-26T07:18:07.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매가 용감하게' 정재순→이유진, 진짜 같은 가족 케미]]></title>
+        <id>https://entertain.v.daum.net/v/20220826153915084</id>
+        <link href="https://entertain.v.daum.net/v/20220826153915084"/>
+        <updated>2022-08-26T07:17:57.264Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['작은 아씨들' 정서경 작가 "모든 가난했던 소녀들에 대한 연대감 담아"]]></title>
         <id>https://entertain.v.daum.net/v/20220826152403471</id>
@@ -101,13 +108,6 @@
         <id>https://entertain.v.daum.net/v/20220826134406463</id>
         <link href="https://entertain.v.daum.net/v/20220826134406463"/>
         <updated>2022-08-26T05:55:06.614Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석 역공 시작된다, 지금부터 쇼 타임]]></title>
-        <id>https://entertain.v.daum.net/v/20220826134010336</id>
-        <link href="https://entertain.v.daum.net/v/20220826134010336"/>
-        <updated>2022-08-26T05:55:06.619Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
