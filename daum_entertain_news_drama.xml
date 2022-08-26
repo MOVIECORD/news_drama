@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-26T12:24:41.667Z</updated>
+    <updated>2022-08-26T13:31:50.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 이종석, 실시간 방송으로 재판 예언 "3가지 증거 내밀 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220826222237221</id>
+        <link href="https://entertain.v.daum.net/v/20220826222237221"/>
+        <updated>2022-08-26T13:31:40.266Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["역시 신하균"..'유니콘', 첫방부터 홀리는 유병재표 시트콤]]></title>
+        <id>https://entertain.v.daum.net/v/20220826213233738</id>
+        <link href="https://entertain.v.daum.net/v/20220826213233738"/>
+        <updated>2022-08-26T13:31:40.271Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현진, 차예련 위해 이별 선택.."사랑으로 착각했다"]]></title>
         <id>https://entertain.v.daum.net/v/20220826203049868</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220826171448061"/>
         <updated>2022-08-26T08:16:04.815Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈♥손예진, 영화 개봉→화보 촬영..바쁜 예비 엄마아빠]]></title>
-        <id>https://entertain.v.daum.net/v/20220826170240721</id>
-        <link href="https://entertain.v.daum.net/v/20220826170240721"/>
-        <updated>2022-08-26T08:16:04.816Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유리, 김영재에 방아쇠 당겼다..한밤 총격전 예고]]></title>
-        <id>https://entertain.v.daum.net/v/20220826165635544</id>
-        <link href="https://entertain.v.daum.net/v/20220826165635544"/>
-        <updated>2022-08-26T08:16:04.817Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
