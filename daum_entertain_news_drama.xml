@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-26T21:11:11.385Z</updated>
+    <updated>2022-08-26T22:12:26.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하균神 옳았다..'유니콘' MZ세대 코드 정조준한 '힙한 웃음']]></title>
+        <id>https://entertain.v.daum.net/v/20220827070011906</id>
+        <link href="https://entertain.v.daum.net/v/20220827070011906"/>
+        <updated>2022-08-26T22:12:15.404Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["신하균 is 뭔들"..'유니콘', 신하균 덕후가 완성한 新 세계관]]></title>
+        <id>https://entertain.v.daum.net/v/20220827065732875</id>
+        <link href="https://entertain.v.daum.net/v/20220827065732875"/>
+        <updated>2022-08-26T22:12:15.404Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 최다니엘 떠날까..남윤수, 김세정에 애틋 위로]]></title>
+        <id>https://entertain.v.daum.net/v/20220827065002822</id>
+        <link href="https://entertain.v.daum.net/v/20220827065002822"/>
+        <updated>2022-08-26T22:12:15.412Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈옥범 누명 이종석, 제발로 법원 파격 등장→통쾌 폭로'빅마우스']]></title>
         <id>https://entertain.v.daum.net/v/20220827053209062</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220826213233738"/>
         <updated>2022-08-26T13:31:40.271Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현진, 차예련 위해 이별 선택.."사랑으로 착각했다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220826203049868</id>
-        <link href="https://entertain.v.daum.net/v/20220826203049868"/>
-        <updated>2022-08-26T12:24:29.996Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이휘향, 차예련 단념시키려 무당 불러.."이 정도면 눈치껏 떨어져줘야지?"]]></title>
-        <id>https://entertain.v.daum.net/v/20220826202101770</id>
-        <link href="https://entertain.v.daum.net/v/20220826202101770"/>
-        <updated>2022-08-26T12:24:29.996Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 이휘향, 차예련X이현진 막기 위해 미신 총동원]]></title>
-        <id>https://entertain.v.daum.net/v/20220826201842740</id>
-        <link href="https://entertain.v.daum.net/v/20220826201842740"/>
-        <updated>2022-08-26T12:24:30.000Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
