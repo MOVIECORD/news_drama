@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-27T08:15:20.779Z</updated>
+    <updated>2022-08-27T09:11:42.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지창욱X최수영 찐친 케미 '당소말' 비하인드 영상 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220827173734644</id>
+        <link href="https://entertain.v.daum.net/v/20220827173734644"/>
+        <updated>2022-08-27T09:11:33.258Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱X최수영, 찐친 모드 발동..찰떡궁합 비하인드 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220827171447447</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827104732126"/>
         <updated>2022-08-27T03:58:20.171Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석, '빅마우스' 제대로 뒤흔들었다..숨 쉴 틈 없는 몰입감]]></title>
-        <id>https://entertain.v.daum.net/v/20220827102652911</id>
-        <link href="https://entertain.v.daum.net/v/20220827102652911"/>
-        <updated>2022-08-27T03:58:20.171Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
