@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-27T05:27:03.549Z</updated>
+    <updated>2022-08-27T06:14:47.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최다니엘, 전 연인 남보라 만났다..왜?]]></title>
+        <id>https://entertain.v.daum.net/v/20220827144525889</id>
+        <link href="https://entertain.v.daum.net/v/20220827144525889"/>
+        <updated>2022-08-27T06:14:37.393Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["네 이름은 똥무더기"..'환혼' 종영 D-1, 배우들이 꼽은 명대사 퍼레이드]]></title>
+        <id>https://entertain.v.daum.net/v/20220827144303868</id>
+        <link href="https://entertain.v.daum.net/v/20220827144303868"/>
+        <updated>2022-08-27T06:14:37.396Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 최다니엘, 전 연인 남보라 만났다]]></title>
         <id>https://entertain.v.daum.net/v/20220827140809583</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827100902726"/>
         <updated>2022-08-27T03:58:20.175Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕따 숨기던 조유리, 드디어 폭발.."도망칠 수 없다면 맞서볼게"]]></title>
-        <id>https://entertain.v.daum.net/v/20220827100701712</id>
-        <link href="https://entertain.v.daum.net/v/20220827100701712"/>
-        <updated>2022-08-27T03:58:20.175Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미미쿠스' 김윤우, 유영재 카피 인생 만든 엄마 이윤지에 반항 시작]]></title>
-        <id>https://entertain.v.daum.net/v/20220827095016485</id>
-        <link href="https://entertain.v.daum.net/v/20220827095016485"/>
-        <updated>2022-08-27T01:01:29.192Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
