@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-27T10:12:50.623Z</updated>
+    <updated>2022-08-27T11:10:52.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오민석♥︎' 신동미, 먹덧 때문에 임신 발각?]]></title>
+        <id>https://entertain.v.daum.net/v/20220827194734427</id>
+        <link href="https://entertain.v.daum.net/v/20220827194734427"/>
+        <updated>2022-08-27T11:10:40.627Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱X최수영 찐친 케미 '당소말' 비하인드 영상 공개]]></title>
         <id>https://entertain.v.daum.net/v/20220827173734644</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827111649384"/>
         <updated>2022-08-27T03:58:20.171Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석, '빅마우스' 정체 밝히나..자체 최고 시청률 11.5% 기록]]></title>
-        <id>https://entertain.v.daum.net/v/20220827104732126</id>
-        <link href="https://entertain.v.daum.net/v/20220827104732126"/>
-        <updated>2022-08-27T03:58:20.171Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
