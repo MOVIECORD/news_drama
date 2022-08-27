@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-27T17:13:33.668Z</updated>
+    <updated>2022-08-27T18:14:45.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 최다니엘, "아직 네온에 할 일 많이 남았다"..스카우트 제안 '거절']]></title>
+        <id>https://entertain.v.daum.net/v/20220828021500990</id>
+        <link href="https://entertain.v.daum.net/v/20220828021500990"/>
+        <updated>2022-08-27T18:14:35.264Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 홍서영, 사건 해결사 활약..정문성·백상희 녹취 발견]]></title>
         <id>https://entertain.v.daum.net/v/20220828003722623</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827224444047"/>
         <updated>2022-08-27T14:10:25.173Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 임윤아, 구천교도소로 이직 성공→유태주 살리기까지]]></title>
-        <id>https://entertain.v.daum.net/v/20220827224355043</id>
-        <link href="https://entertain.v.daum.net/v/20220827224355043"/>
-        <updated>2022-08-27T14:10:25.175Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
