@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-27T19:10:14.319Z</updated>
+    <updated>2022-08-27T20:12:21.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 김효진 "조카 있었네"..최대훈 딸 알고도 태연]]></title>
+        <id>https://entertain.v.daum.net/v/20220828050001152</id>
+        <link href="https://entertain.v.daum.net/v/20220828050001152"/>
+        <updated>2022-08-27T20:12:11.734Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 최다니엘, "아직 네온에 할 일 많이 남았다"..스카우트 제안 '거절']]></title>
         <id>https://entertain.v.daum.net/v/20220828021500990</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827225000087"/>
         <updated>2022-08-27T14:10:25.168Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 박호산, 경쟁 회사 스카우트된 최다니엘에 "너만 생각해"]]></title>
-        <id>https://entertain.v.daum.net/v/20220827224444047</id>
-        <link href="https://entertain.v.daum.net/v/20220827224444047"/>
-        <updated>2022-08-27T14:10:25.173Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
