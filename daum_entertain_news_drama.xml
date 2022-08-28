@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-28T20:13:15.584Z</updated>
+    <updated>2022-08-28T21:12:36.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 떠난 안방, 새 왕좌의 주인은?.. '빅마우스'·'모범형사2'↑]]></title>
+        <id>https://entertain.v.daum.net/v/20220829060531877</id>
+        <link href="https://entertain.v.daum.net/v/20220829060531877"/>
+        <updated>2022-08-28T21:12:26.715Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환혼' 신승호, 조재윤 꾐에 흑화 조짐.."정소민 사라져 버려"]]></title>
+        <id>https://entertain.v.daum.net/v/20220829055701607</id>
+        <link href="https://entertain.v.daum.net/v/20220829055701607"/>
+        <updated>2022-08-28T21:12:26.715Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김효진, 장승조에 최대훈 살인교사 증거 넘겼다 "구해준 보답" '모범형사2']]></title>
         <id>https://entertain.v.daum.net/v/20220829051126055</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828225048193"/>
         <updated>2022-08-28T14:10:42.014Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 정소민, ♥이재욱에 애정 뿜뿜 "결혼 후 잘 살겠다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220828220219886</id>
-        <link href="https://entertain.v.daum.net/v/20220828220219886"/>
-        <updated>2022-08-28T13:24:32.383Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 김혜옥, 박지영만 챙기는 식구들에 "지긋지긋해" 분노]]></title>
-        <id>https://entertain.v.daum.net/v/20220828215007754</id>
-        <link href="https://entertain.v.daum.net/v/20220828215007754"/>
-        <updated>2022-08-28T13:24:32.383Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
