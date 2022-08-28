@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-28T04:51:24.714Z</updated>
+    <updated>2022-08-28T05:26:24.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 인천서부서 강력2팀 꼴통들에게 흠뻑 빠져든 이유]]></title>
+        <id>https://entertain.v.daum.net/v/20220828141141079</id>
+        <link href="https://entertain.v.daum.net/v/20220828141141079"/>
+        <updated>2022-08-28T05:26:13.662Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범형사2' 위기를 기회로..손현주x장승조 강력2팀 반격]]></title>
         <id>https://entertain.v.daum.net/v/20220828133039326</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828101200221"/>
         <updated>2022-08-28T03:53:23.189Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 황민현, 마지막까지 애틋하게 빛나다..순애보 그 자체]]></title>
-        <id>https://entertain.v.daum.net/v/20220828100322116</id>
-        <link href="https://entertain.v.daum.net/v/20220828100322116"/>
-        <updated>2022-08-28T01:06:16.107Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
