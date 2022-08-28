@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-28T09:11:52.047Z</updated>
+    <updated>2022-08-28T10:13:32.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범가족' 정우가 발휘한 살 떨리는 집중력]]></title>
+        <id>https://entertain.v.daum.net/v/20220828184158042</id>
+        <link href="https://entertain.v.daum.net/v/20220828184158042"/>
+        <updated>2022-08-28T10:13:21.592Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장승조라서 가능한 천상계 형사]]></title>
         <id>https://entertain.v.daum.net/v/20220828153040605</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828111122146"/>
         <updated>2022-08-28T03:53:23.183Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 홍지희, 이종석과 공조 성공..극 긴장감UP]]></title>
-        <id>https://entertain.v.daum.net/v/20220828110848105</id>
-        <link href="https://entertain.v.daum.net/v/20220828110848105"/>
-        <updated>2022-08-28T03:53:23.184Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
