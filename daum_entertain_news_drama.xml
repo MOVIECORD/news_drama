@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-28T10:13:32.026Z</updated>
+    <updated>2022-08-28T11:10:21.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신현준 "가족 잃었을 때도 정준호가 끝까지 곁 지켜"]]></title>
+        <id>https://entertain.v.daum.net/v/20220828194830276</id>
+        <link href="https://entertain.v.daum.net/v/20220828194830276"/>
+        <updated>2022-08-28T11:10:12.315Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범가족' 정우가 발휘한 살 떨리는 집중력]]></title>
         <id>https://entertain.v.daum.net/v/20220828184158042</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828111517215"/>
         <updated>2022-08-28T03:53:23.182Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[술력 대신 사랑, 이재욱·정소민의 쿨내 진동 멜로에 담긴 의미]]></title>
-        <id>https://entertain.v.daum.net/v/20220828111122146</id>
-        <link href="https://entertain.v.daum.net/v/20220828111122146"/>
-        <updated>2022-08-28T03:53:23.183Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
