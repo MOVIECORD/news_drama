@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-28T14:10:51.865Z</updated>
+    <updated>2022-08-28T15:12:24.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 김효진, 장승조에 최대훈 악행 증거 공개 "보답이에요"]]></title>
+        <id>https://entertain.v.daum.net/v/20220828234900375</id>
+        <link href="https://entertain.v.daum.net/v/20220828234900375"/>
+        <updated>2022-08-28T15:12:13.518Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '환혼' 이재욱, 폭주한 정소민 칼에 죽었다가 얼음돌로 부활]]></title>
         <id>https://entertain.v.daum.net/v/20220828225647212</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220828194830276"/>
         <updated>2022-08-28T11:10:12.315Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범가족' 정우가 발휘한 살 떨리는 집중력]]></title>
-        <id>https://entertain.v.daum.net/v/20220828184158042</id>
-        <link href="https://entertain.v.daum.net/v/20220828184158042"/>
-        <updated>2022-08-28T10:13:21.592Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
