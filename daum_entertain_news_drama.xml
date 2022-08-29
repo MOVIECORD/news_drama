@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-29T21:11:52.691Z</updated>
+    <updated>2022-08-29T22:12:22.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['상견니' 허광한 "단순한 청춘 로맨스 아닌 서스펜스와 반전이 있는 작품"]]></title>
+        <id>https://entertain.v.daum.net/v/20220830070153802</id>
+        <link href="https://entertain.v.daum.net/v/20220830070153802"/>
+        <updated>2022-08-29T22:12:12.310Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 주종혁 "'권모술수' 수식어, 인생 최고 선물"]]></title>
+        <id>https://entertain.v.daum.net/v/20220830070009717</id>
+        <link href="https://entertain.v.daum.net/v/20220830070009717"/>
+        <updated>2022-08-29T22:12:12.312Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을 안방극장 '여인천하'..톱스타들 뜬다]]></title>
+        <id>https://entertain.v.daum.net/v/20220830063009457</id>
+        <link href="https://entertain.v.daum.net/v/20220830063009457"/>
+        <updated>2022-08-29T22:12:12.313Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 '빅마우스'인지 아무도 모른다]]></title>
         <id>https://entertain.v.daum.net/v/20220830052757785</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220829175036653"/>
         <updated>2022-08-29T09:12:47.452Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태성, 4년 만 KBS 컴백..'삼남매가 용감하게' 다큐 감독 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220829171925666</id>
-        <link href="https://entertain.v.daum.net/v/20220829171925666"/>
-        <updated>2022-08-29T09:12:47.452Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신승호 "청춘 같았던 '환혼'..조금씩 성장하고 있다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220829170145056</id>
-        <link href="https://entertain.v.daum.net/v/20220829170145056"/>
-        <updated>2022-08-29T08:16:12.116Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너무 자매 같아"..'작은 아씨들'로 만난 김고은X남지현X박지후]]></title>
-        <id>https://entertain.v.daum.net/v/20220829165745904</id>
-        <link href="https://entertain.v.daum.net/v/20220829165745904"/>
-        <updated>2022-08-29T08:16:12.117Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
