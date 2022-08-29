@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-29T22:12:22.989Z</updated>
+    <updated>2022-08-29T23:13:03.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재 새 OTT '레이', 외신도 주목 "'오겜' 팬들 위한 완벽한 선물"]]></title>
+        <id>https://entertain.v.daum.net/v/20220830081205702</id>
+        <link href="https://entertain.v.daum.net/v/20220830081205702"/>
+        <updated>2022-08-29T23:12:51.649Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김향기 "내 옆에 있어줘"→김민재 "기다려주겠냐" 로맨스 시작]]></title>
+        <id>https://entertain.v.daum.net/v/20220830080952656</id>
+        <link href="https://entertain.v.daum.net/v/20220830080952656"/>
+        <updated>2022-08-29T23:12:51.649Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지은 "칼단발 도전까지..이런 모습도 있구나 생각들게 할 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220830080544584</id>
+        <link href="https://entertain.v.daum.net/v/20220830080544584"/>
+        <updated>2022-08-29T23:12:51.657Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['상견니' 허광한 "단순한 청춘 로맨스 아닌 서스펜스와 반전이 있는 작품"]]></title>
         <id>https://entertain.v.daum.net/v/20220830070153802</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220829192441725"/>
         <updated>2022-08-29T11:11:21.751Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민영, 시한부 삶·임신의 기쁨..고밀도 감정연기]]></title>
-        <id>https://entertain.v.daum.net/v/20220829192011648</id>
-        <link href="https://entertain.v.daum.net/v/20220829192011648"/>
-        <updated>2022-08-29T11:11:21.754Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제문화교류진흥원 "'우영우', 한류콘텐츠 새 지평 열었다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220829190602483</id>
-        <link href="https://entertain.v.daum.net/v/20220829190602483"/>
-        <updated>2022-08-29T10:13:39.968Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 감독 "송중기 등 특별출연..생각지도 못한 재미 느낄 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220829175036653</id>
-        <link href="https://entertain.v.daum.net/v/20220829175036653"/>
-        <updated>2022-08-29T09:12:47.452Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
