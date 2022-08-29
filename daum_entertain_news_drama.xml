@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-29T07:18:35.867Z</updated>
+    <updated>2022-08-29T08:16:22.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신승호 "청춘 같았던 '환혼'..조금씩 성장하고 있다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220829170145056</id>
+        <link href="https://entertain.v.daum.net/v/20220829170145056"/>
+        <updated>2022-08-29T08:16:12.116Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["너무 자매 같아"..'작은 아씨들'로 만난 김고은X남지현X박지후]]></title>
+        <id>https://entertain.v.daum.net/v/20220829165745904</id>
+        <link href="https://entertain.v.daum.net/v/20220829165745904"/>
+        <updated>2022-08-29T08:16:12.117Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-장녀로 돌아오는 김고은, 괴로움 끝에 완성한 '작은 아씨들']]></title>
+        <id>https://entertain.v.daum.net/v/20220829161914514</id>
+        <link href="https://entertain.v.daum.net/v/20220829161914514"/>
+        <updated>2022-08-29T08:16:12.117Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지창욱 내 손에 죽어"..원지안과 악연의 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220829160016720</id>
@@ -88,26 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220829151400825"/>
         <updated>2022-08-29T07:18:26.107Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질결심' 작가X'빈센조' 감독이 '작은아씨들'로 만났을 때]]></title>
-        <id>https://entertain.v.daum.net/v/20220829150652430</id>
-        <link href="https://entertain.v.daum.net/v/20220829150652430"/>
-        <updated>2022-08-29T07:18:26.108Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 박지후 "김고은·남지현의 무한애정..조금 부담"]]></title>
-        <id>https://entertain.v.daum.net/v/20220829150607398</id>
-        <link href="https://entertain.v.daum.net/v/20220829150607398"/>
-        <updated>2022-08-29T07:18:26.111Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 남지현, 기자 변신 "이전 밝은 캐릭터와 달라"]]></title>
-        <id>https://entertain.v.daum.net/v/20220829150550385</id>
-        <link href="https://entertain.v.daum.net/v/20220829150550385"/>
-        <updated>2022-08-29T07:18:26.112Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
