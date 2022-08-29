@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-29T20:13:42.037Z</updated>
+    <updated>2022-08-29T21:11:52.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 '빅마우스'인지 아무도 모른다]]></title>
+        <id>https://entertain.v.daum.net/v/20220830052757785</id>
+        <link href="https://entertain.v.daum.net/v/20220830052757785"/>
+        <updated>2022-08-29T21:11:42.906Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박해미, 블랙박스로 협박하는 천기사 동생에 불안X초조.."내일 돈 되는대로 연락할게요"]]></title>
         <id>https://entertain.v.daum.net/v/20220829205601690</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220829165745904"/>
         <updated>2022-08-29T08:16:12.117Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-장녀로 돌아오는 김고은, 괴로움 끝에 완성한 '작은 아씨들']]></title>
-        <id>https://entertain.v.daum.net/v/20220829161914514</id>
-        <link href="https://entertain.v.daum.net/v/20220829161914514"/>
-        <updated>2022-08-29T08:16:12.117Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
