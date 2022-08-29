@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-29T09:13:00.130Z</updated>
+    <updated>2022-08-29T10:13:49.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제문화교류진흥원 "'우영우', 한류콘텐츠 새 지평 열었다"]]></title>
+        <id>https://entertain.v.daum.net/v/20220829190602483</id>
+        <link href="https://entertain.v.daum.net/v/20220829190602483"/>
+        <updated>2022-08-29T10:13:39.968Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['작은 아씨들' 감독 "송중기 등 특별출연..생각지도 못한 재미 느낄 것"]]></title>
         <id>https://entertain.v.daum.net/v/20220829175036653</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220829152606368"/>
         <updated>2022-08-29T07:18:26.105Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연·하석진 형제, 연쇄 살인사건 쫓는다..얽히고설킨 관계]]></title>
-        <id>https://entertain.v.daum.net/v/20220829152402267</id>
-        <link href="https://entertain.v.daum.net/v/20220829152402267"/>
-        <updated>2022-08-29T07:18:26.106Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
