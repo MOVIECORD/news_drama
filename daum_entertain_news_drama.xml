@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-29T08:16:22.680Z</updated>
+    <updated>2022-08-29T09:13:00.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 감독 "송중기 등 특별출연..생각지도 못한 재미 느낄 것"]]></title>
+        <id>https://entertain.v.daum.net/v/20220829175036653</id>
+        <link href="https://entertain.v.daum.net/v/20220829175036653"/>
+        <updated>2022-08-29T09:12:47.452Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이태성, 4년 만 KBS 컴백..'삼남매가 용감하게' 다큐 감독 변신]]></title>
+        <id>https://entertain.v.daum.net/v/20220829171925666</id>
+        <link href="https://entertain.v.daum.net/v/20220829171925666"/>
+        <updated>2022-08-29T09:12:47.452Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신승호 "청춘 같았던 '환혼'..조금씩 성장하고 있다"]]></title>
         <id>https://entertain.v.daum.net/v/20220829170145056</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220829152402267"/>
         <updated>2022-08-29T07:18:26.106Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI가 작곡하고 불렀습니다"..'가우스전자' 곽동연·고성희·배현성·강민아, 각 잡힌 춤사위]]></title>
-        <id>https://entertain.v.daum.net/v/20220829152202198</id>
-        <link href="https://entertain.v.daum.net/v/20220829152202198"/>
-        <updated>2022-08-29T07:18:26.106Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연·하석진·정은지, 연쇄살인 진범 쫓는다..인물관계도 공개]]></title>
-        <id>https://entertain.v.daum.net/v/20220829151400825</id>
-        <link href="https://entertain.v.daum.net/v/20220829151400825"/>
-        <updated>2022-08-29T07:18:26.107Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
