@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-30T08:16:53.940Z</updated>
+    <updated>2022-08-30T09:12:53.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상한 변호사 우영우' 주종혁이 개척한 운명]]></title>
+        <id>https://entertain.v.daum.net/v/20220830172347076</id>
+        <link href="https://entertain.v.daum.net/v/20220830172347076"/>
+        <updated>2022-08-30T09:12:42.173Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박수영X추영우X백성철, 농촌 접수한 선남선녀]]></title>
         <id>https://entertain.v.daum.net/v/20220830165030691</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220830134455861"/>
         <updated>2022-08-30T06:07:58.693Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호, 데뷔 첫 드라마 진출..작품은 '삼식이 삼촌']]></title>
-        <id>https://entertain.v.daum.net/v/20220830133159208</id>
-        <link href="https://entertain.v.daum.net/v/20220830133159208"/>
-        <updated>2022-08-30T06:07:58.695Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
