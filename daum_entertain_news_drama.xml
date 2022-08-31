@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-08-31T08:15:25.412Z</updated>
+    <updated>2022-08-31T09:12:47.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['2022 APAN' 송중기·손석구·김수현→김태리·박은빈, 역대 최다 노미]]></title>
+        <id>https://entertain.v.daum.net/v/20220831175019335</id>
+        <link href="https://entertain.v.daum.net/v/20220831175019335"/>
+        <updated>2022-08-31T09:12:38.401Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신박한 정리', 시즌2 '절박한 정리'로 돌아온다..이영자 새 MC]]></title>
+        <id>https://entertain.v.daum.net/v/20220831174429179</id>
+        <link href="https://entertain.v.daum.net/v/20220831174429179"/>
+        <updated>2022-08-31T09:12:38.402Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정일우X권유리, 쓸 수 있는 건 입뿐?..아슬아슬 밀착된 거리]]></title>
         <id>https://entertain.v.daum.net/v/20220831170809901</id>
@@ -95,19 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220831141547661"/>
         <updated>2022-08-31T06:20:43.916Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가 용감하게' 김용림-장미희-왕빛나-임주환-문예원, 한지붕 3대 가족으로]]></title>
-        <id>https://entertain.v.daum.net/v/20220831135311811</id>
-        <link href="https://entertain.v.daum.net/v/20220831135311811"/>
-        <updated>2022-08-31T06:20:43.920Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTBC 측 "영탁 '힘쎈여자 강남순' 캐스팅" 배우 변신]]></title>
-        <id>https://entertain.v.daum.net/v/20220831135102727</id>
-        <link href="https://entertain.v.daum.net/v/20220831135102727"/>
-        <updated>2022-08-31T06:20:43.921Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
