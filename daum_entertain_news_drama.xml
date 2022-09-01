@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-01T13:33:03.306Z</updated>
+    <updated>2022-09-01T14:11:58.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 박혜은, 서지혜와 대면 "또 누구 죽일 사람 있나"]]></title>
+        <id>https://v.daum.net/v/20220901225740937</id>
+        <link href="https://v.daum.net/v/20220901225740937"/>
+        <updated>2022-09-01T14:11:48.457Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['으라차차 내인생' 박해미, 며느리 차민지 내쫓았다 "좋은 말 할 때 꺼져"]]></title>
         <id>https://v.daum.net/v/20220901210500299</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220901172649157"/>
         <updated>2022-09-01T09:12:55.880Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 지성의 '숨은 조력자'였다]]></title>
-        <id>https://v.daum.net/v/20220901172458107</id>
-        <link href="https://v.daum.net/v/20220901172458107"/>
-        <updated>2022-09-01T09:12:55.880Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
