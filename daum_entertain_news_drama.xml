@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T15:13:04.646Z</updated>
+    <updated>2022-09-02T16:16:17.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남윤수, 누나 죽음의 전말 알고 '폭풍 오열'..김세정 위로]]></title>
+        <id>https://v.daum.net/v/20220903002003914</id>
+        <link href="https://v.daum.net/v/20220903002003914"/>
+        <updated>2022-09-02T16:16:07.674Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시즌제'가 시급! '유며드는' 유병재라 '유니콘'인가]]></title>
         <id>https://v.daum.net/v/20220902233108539</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220902201701096"/>
         <updated>2022-09-02T12:24:41.040Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 이승연, 장항선 비보 기다리며 '주식 갈취' 시도]]></title>
-        <id>https://v.daum.net/v/20220902195158707</id>
-        <link href="https://v.daum.net/v/20220902195158707"/>
-        <updated>2022-09-02T11:11:54.749Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
