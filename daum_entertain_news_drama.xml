@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T19:09:46.543Z</updated>
+    <updated>2022-09-02T20:13:40.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영원히 내 거" 홍지희, 전남편 이유준 집착에 칼 맞아 사망 '빅마우스']]></title>
+        <id>https://v.daum.net/v/20220903051123981</id>
+        <link href="https://v.daum.net/v/20220903051123981"/>
+        <updated>2022-09-02T20:13:30.448Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양형욱=빅마우스였다, 죽음 위기 이종석에 정체 드러내]]></title>
+        <id>https://v.daum.net/v/20220903051014965</id>
+        <link href="https://v.daum.net/v/20220903051014965"/>
+        <updated>2022-09-02T20:13:30.449Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남윤수, 누나 죽음의 전말 알고 '폭풍 오열'..김세정 위로]]></title>
         <id>https://v.daum.net/v/20220903002003914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220902205649756"/>
         <updated>2022-09-02T12:24:41.022Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이휘향, 子 이현진에 "평생을 나영희 복수 위해 살아..목숨 걸었다"]]></title>
-        <id>https://v.daum.net/v/20220902202224178</id>
-        <link href="https://v.daum.net/v/20220902202224178"/>
-        <updated>2022-09-02T12:24:41.038Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현진, 복수 포기 하려는 이휘향에 냉정.."아버지 복수 하자면서요"]]></title>
-        <id>https://v.daum.net/v/20220902201701096</id>
-        <link href="https://v.daum.net/v/20220902201701096"/>
-        <updated>2022-09-02T12:24:41.040Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
