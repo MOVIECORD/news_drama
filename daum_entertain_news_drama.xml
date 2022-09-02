@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T12:24:51.090Z</updated>
+    <updated>2022-09-02T13:35:48.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남윤수, 계약직 김세정에 "회사에 너 자리가 있을까?"]]></title>
+        <id>https://v.daum.net/v/20220902223307213</id>
+        <link href="https://v.daum.net/v/20220902223307213"/>
+        <updated>2022-09-02T13:35:38.454Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최다니엘, 남윤수 정체에 궁금증 "서윤아와 무슨 사이야?"]]></title>
+        <id>https://v.daum.net/v/20220902222710119</id>
+        <link href="https://v.daum.net/v/20220902222710119"/>
+        <updated>2022-09-02T13:35:38.460Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유니콘' 신하균, 강연 중 대성통곡..'밈' 스타 된 맥콤 CEO]]></title>
+        <id>https://v.daum.net/v/20220902213905449</id>
+        <link href="https://v.daum.net/v/20220902213905449"/>
+        <updated>2022-09-02T13:35:38.464Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 이현진이 공다임에게 분노.."어디서 배워먹은 매너냐"]]></title>
+        <id>https://v.daum.net/v/20220902212604286</id>
+        <link href="https://v.daum.net/v/20220902212604286"/>
+        <updated>2022-09-02T13:35:38.464Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차민지, 자신 회사에서 쫓아내려는 박해미 만행 언론에 폭로]]></title>
         <id>https://v.daum.net/v/20220902212203215</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220902181258934"/>
         <updated>2022-09-02T10:14:09.507Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄영화 정석 따라간 드라마 '수리남'..속고 속이는 긴장감]]></title>
-        <id>https://v.daum.net/v/20220902180016595</id>
-        <link href="https://v.daum.net/v/20220902180016595"/>
-        <updated>2022-09-02T09:12:16.991Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수리남' 뒤통수에 뒤통수, 두 얼굴의 인간들]]></title>
-        <id>https://v.daum.net/v/20220902180004570</id>
-        <link href="https://v.daum.net/v/20220902180004570"/>
-        <updated>2022-09-02T09:12:16.991Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수경, '아다마스' 속 미친 존재감..활약상 '넷']]></title>
-        <id>https://v.daum.net/v/20220902173908900</id>
-        <link href="https://v.daum.net/v/20220902173908900"/>
-        <updated>2022-09-02T09:12:16.991Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍' 김민재X김향기X김상경, 시즌1 굿바이 비하인드 공개..힐링 케미]]></title>
-        <id>https://v.daum.net/v/20220902173239750</id>
-        <link href="https://v.daum.net/v/20220902173239750"/>
-        <updated>2022-09-02T09:12:16.997Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
