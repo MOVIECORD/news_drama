@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T10:14:19.637Z</updated>
+    <updated>2022-09-02T11:12:04.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이승연, 장항선 비보 기다리며 '주식 갈취' 시도]]></title>
+        <id>https://v.daum.net/v/20220902195158707</id>
+        <link href="https://v.daum.net/v/20220902195158707"/>
+        <updated>2022-09-02T11:11:54.749Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 장항선 죽음 기다리는 이승연에 거짓말]]></title>
+        <id>https://v.daum.net/v/20220902192734296</id>
+        <link href="https://v.daum.net/v/20220902192734296"/>
+        <updated>2022-09-02T11:11:54.752Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["남자친구가 지구서 사라졌다" 전여빈X나나 '글리치' 10월7일 공개]]></title>
         <id>https://v.daum.net/v/20220902185700739</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220902163403824"/>
         <updated>2022-09-02T08:15:25.231Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿잡' 변화무쌍 음문석, 등장만 했다 하면 존재감 ↑]]></title>
-        <id>https://v.daum.net/v/20220902163206766</id>
-        <link href="https://v.daum.net/v/20220902163206766"/>
-        <updated>2022-09-02T08:15:25.231Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우의 영끌 생존기 '위기의 X'.."이보다 더 망가질 순 없다"]]></title>
-        <id>https://v.daum.net/v/20220902161507197</id>
-        <link href="https://v.daum.net/v/20220902161507197"/>
-        <updated>2022-09-02T07:19:26.955Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
