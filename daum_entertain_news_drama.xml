@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T20:13:40.690Z</updated>
+    <updated>2022-09-02T21:11:04.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 드디어 드러난 범인의 윤곽..김동원 이종석 살인지시]]></title>
+        <id>https://v.daum.net/v/20220903060802727</id>
+        <link href="https://v.daum.net/v/20220903060802727"/>
+        <updated>2022-09-02T21:10:54.819Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥자연, 마약  스캔들+병원 비밀 연구 알고 흑화 '빅마우스']]></title>
+        <id>https://v.daum.net/v/20220903051606039</id>
+        <link href="https://v.daum.net/v/20220903051606039"/>
+        <updated>2022-09-02T21:10:54.828Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영원히 내 거" 홍지희, 전남편 이유준 집착에 칼 맞아 사망 '빅마우스']]></title>
         <id>https://v.daum.net/v/20220903051123981</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220902212203215"/>
         <updated>2022-09-02T12:24:41.020Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['으라차차 내인생' 과거 폭로된 차민지, "쓰레기"모욕에 난투극 '독기 폭발']]></title>
-        <id>https://v.daum.net/v/20220902205730770</id>
-        <link href="https://v.daum.net/v/20220902205730770"/>
-        <updated>2022-09-02T12:24:41.020Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현진, 부부생활 거부 "쇼윈도 아니면 이혼"..연민지 범행 발각]]></title>
-        <id>https://v.daum.net/v/20220902205649756</id>
-        <link href="https://v.daum.net/v/20220902205649756"/>
-        <updated>2022-09-02T12:24:41.022Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
