@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-02T21:11:04.907Z</updated>
+    <updated>2022-09-02T22:12:37.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우영우의 든든한 절친..하윤경 "봄날의 햇살=박은빈"]]></title>
+        <id>https://v.daum.net/v/20220903070202068</id>
+        <link href="https://v.daum.net/v/20220903070202068"/>
+        <updated>2022-09-02T22:12:28.661Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 드디어 드러난 범인의 윤곽..김동원 이종석 살인지시]]></title>
         <id>https://v.daum.net/v/20220903060802727</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220902212604286"/>
         <updated>2022-09-02T13:35:38.464Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차민지, 자신 회사에서 쫓아내려는 박해미 만행 언론에 폭로]]></title>
-        <id>https://v.daum.net/v/20220902212203215</id>
-        <link href="https://v.daum.net/v/20220902212203215"/>
-        <updated>2022-09-02T12:24:41.020Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
