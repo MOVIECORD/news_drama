@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-03T05:35:05.428Z</updated>
+    <updated>2022-09-03T06:20:56.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위기의 X' 첫방 어땠나? 권상우 신들린 코믹 연기]]></title>
+        <id>https://v.daum.net/v/20220903150809284</id>
+        <link href="https://v.daum.net/v/20220903150809284"/>
+        <updated>2022-09-03T06:20:44.812Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의웹툰' 박호산, 정은표 스카우트 카드로 웹툰 팀 살릴까]]></title>
         <id>https://v.daum.net/v/20220903143336986</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220903111859539</id>
         <link href="https://v.daum.net/v/20220903111859539"/>
         <updated>2022-09-03T03:59:11.132Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 성장한 서범준, 남은 6회서 진짜 사고칠까]]></title>
-        <id>https://v.daum.net/v/20220903110404405</id>
-        <link href="https://v.daum.net/v/20220903110404405"/>
-        <updated>2022-09-03T03:59:11.133Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
