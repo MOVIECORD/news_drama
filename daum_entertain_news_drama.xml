@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-03T08:14:58.032Z</updated>
+    <updated>2022-09-03T09:12:10.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김고은·남지현·박지후 "'작은 아씨들'=예측불가"]]></title>
+        <id>https://v.daum.net/v/20220903175011292</id>
+        <link href="https://v.daum.net/v/20220903175011292"/>
+        <updated>2022-09-03T09:12:01.259Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영아, 신하균 얼굴 그러진 '머니' 발행.."Why not~?" 존재감 어쩔]]></title>
         <id>https://v.daum.net/v/20220903170508558</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903112730627"/>
         <updated>2022-09-03T03:59:11.131Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤시윤·오민석 결혼..성장한 서범준, 최예빈과 결혼 성공?]]></title>
-        <id>https://v.daum.net/v/20220903112602612</id>
-        <link href="https://v.daum.net/v/20220903112602612"/>
-        <updated>2022-09-03T03:59:11.131Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
