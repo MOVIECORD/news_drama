@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-04T08:14:52.166Z</updated>
+    <updated>2022-09-04T09:12:20.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정, 온마음 표 '인생 지침서' 완성형]]></title>
+        <id>https://v.daum.net/v/20220904181107468</id>
+        <link href="https://v.daum.net/v/20220904181107468"/>
+        <updated>2022-09-04T09:12:10.259Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정재성, 이종석과 합세..예측 불가 스토리 전개]]></title>
+        <id>https://v.daum.net/v/20220904180742406</id>
+        <link href="https://v.daum.net/v/20220904180742406"/>
+        <updated>2022-09-04T09:12:10.261Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호와 '옷소매' 신드롬→이승기와 '로코' 만남..이세영, 또 일낼까]]></title>
+        <id>https://v.daum.net/v/20220904172056441</id>
+        <link href="https://v.daum.net/v/20220904172056441"/>
+        <updated>2022-09-04T09:12:10.265Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김민재X김상경, 김향기 돌발 제안에 '깜짝'..무슨 일?]]></title>
+        <id>https://v.daum.net/v/20220904171902408</id>
+        <link href="https://v.daum.net/v/20220904171902408"/>
+        <updated>2022-09-04T09:12:10.265Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남지현의 선택은 믿고 본다..'작은 아씨들' 속 새 얼굴]]></title>
         <id>https://v.daum.net/v/20220904170401096</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220904135408688"/>
         <updated>2022-09-04T05:30:40.929Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남윤수, ♥김세정과 동기에서 로맨스로..핑크빛 설렘]]></title>
-        <id>https://v.daum.net/v/20220904134830598</id>
-        <link href="https://v.daum.net/v/20220904134830598"/>
-        <updated>2022-09-04T05:30:40.929Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 측 "목표에 다가서려는 세 자매, 비밀 흥미로울 것"]]></title>
-        <id>https://v.daum.net/v/20220904134528548</id>
-        <link href="https://v.daum.net/v/20220904134528548"/>
-        <updated>2022-09-04T05:30:40.929Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범형사2' 측 "최대훈 심판대에, 장애물 많지만 꿋꿋이 정의 향해할 것"]]></title>
-        <id>https://v.daum.net/v/20220904134059495</id>
-        <link href="https://v.daum.net/v/20220904134059495"/>
-        <updated>2022-09-04T05:30:40.929Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정♥남윤수, 동기애→로맨스 레벨 업 예고..멜로 급진전]]></title>
-        <id>https://v.daum.net/v/20220904133353391</id>
-        <link href="https://v.daum.net/v/20220904133353391"/>
-        <updated>2022-09-04T05:30:40.938Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
