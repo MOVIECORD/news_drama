@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-04T13:26:45.604Z</updated>
+    <updated>2022-09-04T14:10:54.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 오정세, 차량 급발진으로 추락사? 김고은 패닉]]></title>
+        <id>https://v.daum.net/v/20220904224110560</id>
+        <link href="https://v.daum.net/v/20220904224110560"/>
+        <updated>2022-09-04T14:10:45.006Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 김고은, 추자현 이중생활→오정세 사고사에 충격]]></title>
+        <id>https://v.daum.net/v/20220904224000552</id>
+        <link href="https://v.daum.net/v/20220904224000552"/>
+        <updated>2022-09-04T14:10:45.007Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 김고은, 추자현 타살 의심→오정세 죽음 목도 '충격']]></title>
+        <id>https://v.daum.net/v/20220904223651541</id>
+        <link href="https://v.daum.net/v/20220904223651541"/>
+        <updated>2022-09-04T14:10:45.009Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['작은 아씨들' 송중기, 명품 구두매장 직원으로 특별출연]]></title>
         <id>https://v.daum.net/v/20220904221531421</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220904201511640"/>
         <updated>2022-09-04T12:23:07.366Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 온마음 표 '인생 지침서' 완성형]]></title>
-        <id>https://v.daum.net/v/20220904181107468</id>
-        <link href="https://v.daum.net/v/20220904181107468"/>
-        <updated>2022-09-04T09:12:10.259Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재성, 이종석과 합세..예측 불가 스토리 전개]]></title>
-        <id>https://v.daum.net/v/20220904180742406</id>
-        <link href="https://v.daum.net/v/20220904180742406"/>
-        <updated>2022-09-04T09:12:10.261Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호와 '옷소매' 신드롬→이승기와 '로코' 만남..이세영, 또 일낼까]]></title>
-        <id>https://v.daum.net/v/20220904172056441</id>
-        <link href="https://v.daum.net/v/20220904172056441"/>
-        <updated>2022-09-04T09:12:10.265Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
