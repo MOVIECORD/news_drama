@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-05T19:10:13.234Z</updated>
+    <updated>2022-09-05T20:14:30.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세영, 이승기에 "내가 힘든데 왜 니가 화를 내" 둘 사이 미묘한 기류]]></title>
+        <id>https://v.daum.net/v/20220906051006902</id>
+        <link href="https://v.daum.net/v/20220906051006902"/>
+        <updated>2022-09-05T20:14:20.575Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이세영·이승기, 세입자X건물주로 재회]]></title>
+        <id>https://v.daum.net/v/20220906050402832</id>
+        <link href="https://v.daum.net/v/20220906050402832"/>
+        <updated>2022-09-05T20:14:20.578Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도경수X이세희 '진검승부', 대본 리딩 현장 공개]]></title>
         <id>https://v.daum.net/v/20220906030007825</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220905201934878"/>
         <updated>2022-09-05T12:23:34.805Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 공다임, 선우은숙 앞에서 유수연 따귀 "경고했지"]]></title>
-        <id>https://v.daum.net/v/20220905201754850</id>
-        <link href="https://v.daum.net/v/20220905201754850"/>
-        <updated>2022-09-05T12:23:34.805Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국방송대상, 대상은 'GPS와 리어카'..전현무·박은빈 최우수상·故 송해 특별상]]></title>
-        <id>https://v.daum.net/v/20220905183548007</id>
-        <link href="https://v.daum.net/v/20220905183548007"/>
-        <updated>2022-09-05T10:13:53.923Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
