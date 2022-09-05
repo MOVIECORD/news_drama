@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-05T12:23:44.221Z</updated>
+    <updated>2022-09-05T13:38:23.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이세영, 변호사→카페 창업.. 한량건물주 이승기 만남]]></title>
+        <id>https://v.daum.net/v/20220905222828827</id>
+        <link href="https://v.daum.net/v/20220905222828827"/>
+        <updated>2022-09-05T13:38:12.814Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '법대로' 이세영, 호피 블라우스+하이힐 공익 변호사 첫등장]]></title>
+        <id>https://v.daum.net/v/20220905221809693</id>
+        <link href="https://v.daum.net/v/20220905221809693"/>
+        <updated>2022-09-05T13:38:12.814Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이세영X이승기, 엇갈린 첫 만남 '아쉬워']]></title>
+        <id>https://v.daum.net/v/20220905221514664</id>
+        <link href="https://v.daum.net/v/20220905221514664"/>
+        <updated>2022-09-05T13:38:12.814Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이주은 "아이 생겨, 혼자 키울 것" 싱글맘 선언..황동주와 이별]]></title>
         <id>https://v.daum.net/v/20220905211002579</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220905174300541"/>
         <updated>2022-09-05T09:13:18.731Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16년만에 KBS로 돌아온 이승기, '흥행 카드' 이세영과 뭉쳤다]]></title>
-        <id>https://v.daum.net/v/20220905171703738</id>
-        <link href="https://v.daum.net/v/20220905171703738"/>
-        <updated>2022-09-05T09:13:18.735Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민 가면 김래원x손호준x공승연 온다..'소방서 옆 경찰서' 11월 첫방]]></title>
-        <id>https://v.daum.net/v/20220905165451888</id>
-        <link href="https://v.daum.net/v/20220905165451888"/>
-        <updated>2022-09-05T08:16:10.320Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["근무환경 좋아"..박수영, 러블리 그 잡채 시골순경 변신]]></title>
-        <id>https://v.daum.net/v/20220905165300816</id>
-        <link href="https://v.daum.net/v/20220905165300816"/>
-        <updated>2022-09-05T08:16:10.320Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
