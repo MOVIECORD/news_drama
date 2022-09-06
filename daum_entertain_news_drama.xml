@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T19:10:32.065Z</updated>
+    <updated>2022-09-06T20:13:08.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승기, 이세영에 "왜 과거에서 한 발짝도 벗어나지 못하냐" 버럭]]></title>
+        <id>https://v.daum.net/v/20220907051006733</id>
+        <link href="https://v.daum.net/v/20220907051006733"/>
+        <updated>2022-09-06T20:12:57.940Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승기 "그 어떤 감정도 시작하지마" 이세영 돕던 김남희에 날선 충고]]></title>
+        <id>https://v.daum.net/v/20220907050505674</id>
+        <link href="https://v.daum.net/v/20220907050505674"/>
+        <updated>2022-09-06T20:12:57.940Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지은·김건우, 단막극 '낯선 계절에 만나' 출연]]></title>
         <id>https://v.daum.net/v/20220907020018328</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906203302035"/>
         <updated>2022-09-06T12:24:57.953Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련, 父 죽음 진실 밝히나..연민지, 협박 받고 '당황']]></title>
-        <id>https://v.daum.net/v/20220906202731889</id>
-        <link href="https://v.daum.net/v/20220906202731889"/>
-        <updated>2022-09-06T12:24:57.953Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 연민지, 의문의 상자에 긴장..차예련 의심]]></title>
-        <id>https://v.daum.net/v/20220906202429804</id>
-        <link href="https://v.daum.net/v/20220906202429804"/>
-        <updated>2022-09-06T12:24:57.953Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
