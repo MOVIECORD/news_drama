@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T12:25:08.054Z</updated>
+    <updated>2022-09-06T13:38:57.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이승기, 17년 동안 이세영 짝사랑 '학창 시절 회상']]></title>
+        <id>https://v.daum.net/v/20220906223705894</id>
+        <link href="https://v.daum.net/v/20220906223705894"/>
+        <updated>2022-09-06T13:38:47.603Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서하준, 장항선 살해 주사기 발견하고 분노..이승연에게 반격하나?]]></title>
+        <id>https://v.daum.net/v/20220906221701560</id>
+        <link href="https://v.daum.net/v/20220906221701560"/>
+        <updated>2022-09-06T13:38:47.607Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['으라차차 내인생' 차민지, 시모 박해미 악행 언론에 폭로 "날 왜 건드려"]]></title>
         <id>https://v.daum.net/v/20220906211200107</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906175023420"/>
         <updated>2022-09-06T09:12:31.086Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강기영 "연기에 갈증 나던 시기, '우영우'를 만났다"]]></title>
-        <id>https://v.daum.net/v/20220906174520272</id>
-        <link href="https://v.daum.net/v/20220906174520272"/>
-        <updated>2022-09-06T09:12:31.087Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['응사' 정우·'에미상' 이유미, '멘탈코치 제갈길'로 일 낼까]]></title>
-        <id>https://v.daum.net/v/20220906174400206</id>
-        <link href="https://v.daum.net/v/20220906174400206"/>
-        <updated>2022-09-06T09:12:31.087Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
