@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T15:14:19.740Z</updated>
+    <updated>2022-09-06T16:16:31.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'우영우' 美·日 등서 리메이크 제안 받아"]]></title>
+        <id>https://v.daum.net/v/20220907003012885</id>
+        <link href="https://v.daum.net/v/20220907003012885"/>
+        <updated>2022-09-06T16:16:21.805Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법대로' 이세영, 층간소음 피해 남성 구한 이승기에 "심장이 막 뛰어"]]></title>
+        <id>https://v.daum.net/v/20220907002152833</id>
+        <link href="https://v.daum.net/v/20220907002152833"/>
+        <updated>2022-09-06T16:16:21.811Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법대로 사랑하라' 이승기, 이세영 찾아온 피해자에 주먹다짐]]></title>
         <id>https://v.daum.net/v/20220906233553407</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906200838473"/>
         <updated>2022-09-06T11:11:12.604Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 가짜 위임장 들고 온 이승연 '저지']]></title>
-        <id>https://v.daum.net/v/20220906194118731</id>
-        <link href="https://v.daum.net/v/20220906194118731"/>
-        <updated>2022-09-06T11:11:12.604Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멘탈코치 제갈길' 감독 "'美에미상' 이유미, 정우가 추천"]]></title>
-        <id>https://v.daum.net/v/20220906191003226</id>
-        <link href="https://v.daum.net/v/20220906191003226"/>
-        <updated>2022-09-06T10:13:42.772Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
