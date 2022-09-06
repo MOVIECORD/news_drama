@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T21:12:36.710Z</updated>
+    <updated>2022-09-06T22:12:34.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 2회 시청률 6.6%, 소폭 하락]]></title>
+        <id>https://v.daum.net/v/20220907071146588</id>
+        <link href="https://v.daum.net/v/20220907071146588"/>
+        <updated>2022-09-06T22:12:24.096Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기까지 나섰는데..표절 논란, 다된 '작은 아씨들'에 재 뿌렸다]]></title>
+        <id>https://v.daum.net/v/20220907061401859</id>
+        <link href="https://v.daum.net/v/20220907061401859"/>
+        <updated>2022-09-06T22:12:24.097Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '유세풍' 김민재, 유성주 잡았지만 김향기와 로맨스는 시즌2 기약]]></title>
         <id>https://v.daum.net/v/20220907060530796</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906232942357"/>
         <updated>2022-09-06T15:14:10.998Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 김승화 '구미호뎐1938' 캐스팅..이동욱과 호흡]]></title>
-        <id>https://v.daum.net/v/20220906232705333</id>
-        <link href="https://v.daum.net/v/20220906232705333"/>
-        <updated>2022-09-06T15:14:10.998Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영, 투신 남성 구한 이승기에 심쿵.."요즘 심장이 막 뛰어"]]></title>
-        <id>https://v.daum.net/v/20220906231402221</id>
-        <link href="https://v.daum.net/v/20220906231402221"/>
-        <updated>2022-09-06T14:15:35.163Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
