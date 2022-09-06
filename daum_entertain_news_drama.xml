@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T10:13:53.017Z</updated>
+    <updated>2022-09-06T11:11:21.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 이승연, 깨어난 장항선 살해 사주..서하준 분노]]></title>
+        <id>https://v.daum.net/v/20220906200838473</id>
+        <link href="https://v.daum.net/v/20220906200838473"/>
+        <updated>2022-09-06T11:11:12.604Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 서하준, 가짜 위임장 들고 온 이승연 '저지']]></title>
+        <id>https://v.daum.net/v/20220906194118731</id>
+        <link href="https://v.daum.net/v/20220906194118731"/>
+        <updated>2022-09-06T11:11:12.604Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멘탈코치 제갈길' 감독 "'美에미상' 이유미, 정우가 추천"]]></title>
         <id>https://v.daum.net/v/20220906191003226</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220906160708067"/>
         <updated>2022-09-06T07:34:16.143Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년심판' 소년 빌런 김균하, '디 엠파이어'선 로스쿨 학생]]></title>
-        <id>https://v.daum.net/v/20220906160313948</id>
-        <link href="https://v.daum.net/v/20220906160313948"/>
-        <updated>2022-09-06T07:34:16.143Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['텐트 밖은 유럽' 진선규 "매 순간 소중..지금도 본방사수 중"]]></title>
-        <id>https://v.daum.net/v/20220906160122869</id>
-        <link href="https://v.daum.net/v/20220906160122869"/>
-        <updated>2022-09-06T07:34:16.143Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
