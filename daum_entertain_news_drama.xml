@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-06T16:16:31.363Z</updated>
+    <updated>2022-09-06T17:19:59.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한지은·김건우, 단막극 '낯선 계절에 만나' 출연]]></title>
+        <id>https://v.daum.net/v/20220907020018328</id>
+        <link href="https://v.daum.net/v/20220907020018328"/>
+        <updated>2022-09-06T17:19:49.710Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'우영우' 美·日 등서 리메이크 제안 받아"]]></title>
         <id>https://v.daum.net/v/20220907003012885</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220906202429804</id>
         <link href="https://v.daum.net/v/20220906202429804"/>
         <updated>2022-09-06T12:24:57.953Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 이승연, 깨어난 장항선 살해 사주..서하준 분노]]></title>
-        <id>https://v.daum.net/v/20220906200838473</id>
-        <link href="https://v.daum.net/v/20220906200838473"/>
-        <updated>2022-09-06T11:11:12.604Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
