@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-07T18:16:15.071Z</updated>
+    <updated>2022-09-07T19:13:02.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도경수, 연기 대변신..똘기충만 티저 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20220908040013755</id>
+        <link href="https://v.daum.net/v/20220908040013755"/>
+        <updated>2022-09-07T19:12:52.464Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅마우스' 본방사수 욕구 자극하는 엔딩 톱3]]></title>
         <id>https://v.daum.net/v/20220908030021420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220907201802505"/>
         <updated>2022-09-07T12:26:21.461Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은·위하준 '작은아씨들' 제작진이 밝힌 입덕 포인트]]></title>
-        <id>https://v.daum.net/v/20220907200746313</id>
-        <link href="https://v.daum.net/v/20220907200746313"/>
-        <updated>2022-09-07T11:11:39.996Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
