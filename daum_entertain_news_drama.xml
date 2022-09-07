@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-07T21:12:00.076Z</updated>
+    <updated>2022-09-07T22:13:02.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 총살 당한 이경영..지성X조성하 동반 납치]]></title>
+        <id>https://v.daum.net/v/20220908070506134</id>
+        <link href="https://v.daum.net/v/20220908070506134"/>
+        <updated>2022-09-07T22:12:52.841Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달라진 '한류 불모지' 인도, 케이콘텐츠 리메이크 바람]]></title>
+        <id>https://v.daum.net/v/20220908070013015</id>
+        <link href="https://v.daum.net/v/20220908070013015"/>
+        <updated>2022-09-07T22:12:52.865Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전문가 엄선 OTT 명작들..몰아보기 딱이야!]]></title>
+        <id>https://v.daum.net/v/20220908063031706</id>
+        <link href="https://v.daum.net/v/20220908063031706"/>
+        <updated>2022-09-07T22:12:52.868Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위기의 X' 권상우와 코미디, 역시 필승 조합]]></title>
+        <id>https://v.daum.net/v/20220908062406613</id>
+        <link href="https://v.daum.net/v/20220908062406613"/>
+        <updated>2022-09-07T22:12:52.868Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도경수, 연기 대변신..똘기충만 티저 포스터 공개]]></title>
         <id>https://v.daum.net/v/20220908040013755</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220907210530370"/>
         <updated>2022-09-07T12:26:21.459Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정헌,윤복인에 엄마라 칭하는 윤아정 정체 의심.."네가 진짜 우민영이야?"]]></title>
-        <id>https://v.daum.net/v/20220907205502167</id>
-        <link href="https://v.daum.net/v/20220907205502167"/>
-        <updated>2022-09-07T12:26:21.461Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연민지, 나영희 살인 사주 증거 발견→협박 "어머니가 선택할 차례"]]></title>
-        <id>https://v.daum.net/v/20220907205448163</id>
-        <link href="https://v.daum.net/v/20220907205448163"/>
-        <updated>2022-09-07T12:26:21.461Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연민지 악행, 父 대한 복수 때문이었다..차예련에 "너도 겪어봐"]]></title>
-        <id>https://v.daum.net/v/20220907202220594</id>
-        <link href="https://v.daum.net/v/20220907202220594"/>
-        <updated>2022-09-07T12:26:21.461Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연민지, 차예련에게 복수한 이유.."너네 아빠가 우리 아빠 죽이는 거 봤어"]]></title>
-        <id>https://v.daum.net/v/20220907201802505</id>
-        <link href="https://v.daum.net/v/20220907201802505"/>
-        <updated>2022-09-07T12:26:21.461Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
