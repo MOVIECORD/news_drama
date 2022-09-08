@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-08T05:57:27.498Z</updated>
+    <updated>2022-09-08T06:42:30.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['당소말' 지창욱, 성동일에 씻을 수 없는 비밀 밝힐까]]></title>
+        <id>https://v.daum.net/v/20220908151155489</id>
+        <link href="https://v.daum.net/v/20220908151155489"/>
+        <updated>2022-09-08T06:42:21.327Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김고은·남지현·박지후, 세 자매 인물 관계성 짚어보기]]></title>
+        <id>https://v.daum.net/v/20220908150302224</id>
+        <link href="https://v.daum.net/v/20220908150302224"/>
+        <updated>2022-09-08T06:42:21.328Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성율, '작은 아씨들' 박보경 오른팔 캐스팅..당찬 카리스마 기대]]></title>
         <id>https://v.daum.net/v/20220908142102928</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220908132505341</id>
         <link href="https://v.daum.net/v/20220908132505341"/>
         <updated>2022-09-08T05:57:17.622Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' PD "최종 커플→결혼 골인 확률 높은 이유는.." ②]]></title>
-        <id>https://v.daum.net/v/20220908132457336</id>
-        <link href="https://v.daum.net/v/20220908132457336"/>
-        <updated>2022-09-08T05:57:17.622Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남 연애' 관심 없는 남규홍 PD가 '나는 솔로'를 하는 이유 ①]]></title>
-        <id>https://v.daum.net/v/20220908132449332</id>
-        <link href="https://v.daum.net/v/20220908132449332"/>
-        <updated>2022-09-08T05:57:17.623Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
