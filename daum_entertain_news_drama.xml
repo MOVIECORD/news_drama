@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-08T22:13:36.495Z</updated>
+    <updated>2022-09-08T23:14:26.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['당소말' 지창욱X성동일, 과거→현재 깊은 인연..감동적 울림]]></title>
+        <id>https://v.daum.net/v/20220909081344886</id>
+        <link href="https://v.daum.net/v/20220909081344886"/>
+        <updated>2022-09-08T23:14:16.279Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수리남'부터 '아임 히어로', 추석 연휴 볼만한 OTT 추천]]></title>
+        <id>https://v.daum.net/v/20220909080020614</id>
+        <link href="https://v.daum.net/v/20220909080020614"/>
+        <updated>2022-09-08T23:14:16.279Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하정우X황정민X박해수 '수리남' 줄줄이 흥행 실패 넷플릭스 살릴까]]></title>
+        <id>https://v.daum.net/v/20220909080006588</id>
+        <link href="https://v.daum.net/v/20220909080006588"/>
+        <updated>2022-09-08T23:14:16.279Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유니콘' 배윤경, 종잡을 수 없는 반전 매력의 '캐롤' 완벽 변신]]></title>
         <id>https://v.daum.net/v/20220909071255223</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220908230035794"/>
         <updated>2022-09-08T14:13:18.948Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아다마스' 조성하, 눈앞에서 폭행당하는 지성에 '오열']]></title>
-        <id>https://v.daum.net/v/20220908225249765</id>
-        <link href="https://v.daum.net/v/20220908225249765"/>
-        <updated>2022-09-08T14:13:18.948Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우vs권율 13년 악연 뭘까]]></title>
-        <id>https://v.daum.net/v/20220908220008310</id>
-        <link href="https://v.daum.net/v/20220908220008310"/>
-        <updated>2022-09-08T13:31:54.582Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아다마스' 지성·이수경·허성태·조성하, 최후의 어벤져스로 집합]]></title>
-        <id>https://v.daum.net/v/20220908213927008</id>
-        <link href="https://v.daum.net/v/20220908213927008"/>
-        <updated>2022-09-08T13:31:54.586Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
