@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-09T08:20:00.197Z</updated>
+    <updated>2022-09-09T09:15:07.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서지혜, 살기 가득한 복수극 전개 하드캐리]]></title>
+        <id>https://v.daum.net/v/20220909181244386</id>
+        <link href="https://v.daum.net/v/20220909181244386"/>
+        <updated>2022-09-09T09:14:57.077Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['당소말' 지창욱·성동일, 과거 인연 드디어 밝혀졌다]]></title>
+        <id>https://v.daum.net/v/20220909174431084</id>
+        <link href="https://v.daum.net/v/20220909174431084"/>
+        <updated>2022-09-09T09:14:57.089Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아다마스' 독기 품은 서지혜, 핏빛 복수 시작]]></title>
         <id>https://v.daum.net/v/20220909171636728</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220909133145243"/>
         <updated>2022-09-09T05:17:50.956Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 죽었다..이종석 애도, 2인자 누구?]]></title>
-        <id>https://v.daum.net/v/20220909124522803</id>
-        <link href="https://v.daum.net/v/20220909124522803"/>
-        <updated>2022-09-09T04:00:29.344Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔망스런 연기 '케미 여신' 이렇게 예뻤나?..한지은, 연일 감탄 유발]]></title>
-        <id>https://v.daum.net/v/20220909123216666</id>
-        <link href="https://v.daum.net/v/20220909123216666"/>
-        <updated>2022-09-09T04:00:29.345Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
