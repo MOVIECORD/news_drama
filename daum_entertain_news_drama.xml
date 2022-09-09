@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-09T21:12:04.350Z</updated>
+    <updated>2022-09-09T22:13:16.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중·송가인·남진, 추석 달구는 트롯 스타들]]></title>
+        <id>https://v.daum.net/v/20220910070104587</id>
+        <link href="https://v.daum.net/v/20220910070104587"/>
+        <updated>2022-09-09T22:13:06.904Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뚜껑 열린 신하균, 충격 정체 이유진..'유니콘' 진짜 맥콤하네]]></title>
+        <id>https://v.daum.net/v/20220910070011526</id>
+        <link href="https://v.daum.net/v/20220910070011526"/>
+        <updated>2022-09-09T22:13:06.911Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유니콘' 원진아♥이유진-배윤경♥김욱, 심쿵 사내연애]]></title>
+        <id>https://v.daum.net/v/20220910065255484</id>
+        <link href="https://v.daum.net/v/20220910065255484"/>
+        <updated>2022-09-09T22:13:06.911Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종석, 전국환과 만났다..양경원에 "나 시장 만들어줘라"]]></title>
         <id>https://v.daum.net/v/20220910005006520</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220909185941662"/>
         <updated>2022-09-09T10:14:54.493Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 살기 가득한 복수극 전개 하드캐리]]></title>
-        <id>https://v.daum.net/v/20220909181244386</id>
-        <link href="https://v.daum.net/v/20220909181244386"/>
-        <updated>2022-09-09T09:14:57.077Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당소말' 지창욱·성동일, 과거 인연 드디어 밝혀졌다]]></title>
-        <id>https://v.daum.net/v/20220909174431084</id>
-        <link href="https://v.daum.net/v/20220909174431084"/>
-        <updated>2022-09-09T09:14:57.089Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아다마스' 독기 품은 서지혜, 핏빛 복수 시작]]></title>
-        <id>https://v.daum.net/v/20220909171636728</id>
-        <link href="https://v.daum.net/v/20220909171636728"/>
-        <updated>2022-09-09T08:19:49.299Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
