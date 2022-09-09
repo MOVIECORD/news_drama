@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-09T05:18:00.927Z</updated>
+    <updated>2022-09-09T06:30:25.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이승기X이세영, 화기애애한 추석 인사 투샷]]></title>
+        <id>https://v.daum.net/v/20220909151339383</id>
+        <link href="https://v.daum.net/v/20220909151339383"/>
+        <updated>2022-09-09T06:30:15.017Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서지혜, 황정민 손 빌려 끝내 이경영 숨통 끊어]]></title>
+        <id>https://v.daum.net/v/20220909142020757</id>
+        <link href="https://v.daum.net/v/20220909142020757"/>
+        <updated>2022-09-09T06:30:15.025Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금수저' 육성재-이종원-정채연-연우, MZ 배우들 직접 꼽은 관전 포인트]]></title>
         <id>https://v.daum.net/v/20220909141711718</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220909111019769"/>
         <updated>2022-09-09T04:00:29.346Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아다마스' 서지혜, 피의 복수..이경영 숨통 끊었다]]></title>
-        <id>https://v.daum.net/v/20220909110759734</id>
-        <link href="https://v.daum.net/v/20220909110759734"/>
-        <updated>2022-09-09T04:00:29.346Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀는 살아있다' 윤소이 "양진아 새로운 도전, 연기할 수 있어 즐거워"]]></title>
-        <id>https://v.daum.net/v/20220909105720541</id>
-        <link href="https://v.daum.net/v/20220909105720541"/>
-        <updated>2022-09-09T04:00:29.346Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
