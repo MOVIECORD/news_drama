@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-09T09:15:07.412Z</updated>
+    <updated>2022-09-09T10:15:06.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선정신과 의사 유세풍' 시즌2, 시즌1 능가할까?]]></title>
+        <id>https://v.daum.net/v/20220909185941662</id>
+        <link href="https://v.daum.net/v/20220909185941662"/>
+        <updated>2022-09-09T10:14:54.493Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서지혜, 살기 가득한 복수극 전개 하드캐리]]></title>
         <id>https://v.daum.net/v/20220909181244386</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220909133724282"/>
         <updated>2022-09-09T05:17:50.953Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아다마스' 이경영의 최후..세상은 언제나 버릴 준비가 돼 있다.]]></title>
-        <id>https://v.daum.net/v/20220909133145243</id>
-        <link href="https://v.daum.net/v/20220909133145243"/>
-        <updated>2022-09-09T05:17:50.956Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
