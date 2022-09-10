@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-10T17:18:32.006Z</updated>
+    <updated>2022-09-10T18:16:11.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 진실 알게 된 김도훈, "다시는 버리지 마라"..어머니와 '눈물의 재회']]></title>
+        <id>https://v.daum.net/v/20220911025700379</id>
+        <link href="https://v.daum.net/v/20220911025700379"/>
+        <updated>2022-09-10T18:16:00.941Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 김수진, "내 마음도 모르고 내 자식에 대해서도 몰라"..김도훈과 무슨 일이?]]></title>
         <id>https://v.daum.net/v/20220911015700322</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220910230701784"/>
         <updated>2022-09-10T14:11:17.569Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["네 엄마 암이래" 배다빈, 母박지영 간암선고에 좌절]]></title>
-        <id>https://v.daum.net/v/20220910225521733</id>
-        <link href="https://v.daum.net/v/20220910225521733"/>
-        <updated>2022-09-10T14:11:17.569Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
