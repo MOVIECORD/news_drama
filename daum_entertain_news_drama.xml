@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-10T12:21:58.269Z</updated>
+    <updated>2022-09-10T13:28:56.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 신동미vs배다빈, 육아 문제로 벌써 신경전]]></title>
+        <title type="html"><![CDATA["협상하자" 위하준, 20억+비자금 장부 가진 김고은에 동업 제안]]></title>
+        <id>https://v.daum.net/v/20220910222426592</id>
+        <link href="https://v.daum.net/v/20220910222426592"/>
+        <updated>2022-09-10T13:28:45.931Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이종석 없애" 김주헌, 정재성과 손 잡았다 '빅마우스']]></title>
+        <id>https://v.daum.net/v/20220910222401588</id>
+        <link href="https://v.daum.net/v/20220910222401588"/>
+        <updated>2022-09-10T13:28:45.949Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['작은아씨들' 박지후 "엄지원 돈 받고 유학 갈 것"..남지현과 갈등]]></title>
+        <id>https://v.daum.net/v/20220910222239578</id>
+        <link href="https://v.daum.net/v/20220910222239578"/>
+        <updated>2022-09-10T13:28:45.949Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이종석, 전국환에 접근.."나에게 시장 자리 달라" 요구]]></title>
+        <id>https://v.daum.net/v/20220910221545525</id>
+        <link href="https://v.daum.net/v/20220910221545525"/>
+        <updated>2022-09-10T13:28:45.952Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 박지후, 김고은 유학 반대에 "효린이네 하녀로 살고 싶어"]]></title>
+        <id>https://v.daum.net/v/20220910221501522</id>
+        <link href="https://v.daum.net/v/20220910221501522"/>
+        <updated>2022-09-10T13:28:45.952Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이종석, 전국환에 빅마우스 임원 명단 넘기며 접근 "이중스파이 될 것"]]></title>
+        <id>https://v.daum.net/v/20220910221121507</id>
+        <link href="https://v.daum.net/v/20220910221121507"/>
+        <updated>2022-09-10T13:28:45.952Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 배다빈, 母 박지영 간암 투병에 절망]]></title>
+        <id>https://v.daum.net/v/20220910215003415</id>
+        <link href="https://v.daum.net/v/20220910215003415"/>
+        <updated>2022-09-10T13:28:45.952Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤시윤 "사위도 가족" 간이식 결심, '간암선고 '박지영 영정사진 찍었다.]]></title>
+        <id>https://v.daum.net/v/20220910213202287</id>
+        <link href="https://v.daum.net/v/20220910213202287"/>
+        <updated>2022-09-10T13:28:45.959Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는' 박지영, 가족 중 간 기증자 찾기 실패..남은 건 배다빈 뿐]]></title>
+        <id>https://v.daum.net/v/20220910212717250</id>
+        <link href="https://v.daum.net/v/20220910212717250"/>
+        <updated>2022-09-10T13:28:45.959Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현재는 아름다워' 신동미vs배다빈, 출산 전부터 육아 문제로 신경전]]></title>
         <id>https://v.daum.net/v/20220910210942104</id>
         <link href="https://v.daum.net/v/20220910210942104"/>
         <updated>2022-09-10T12:21:46.763Z</updated>
@@ -46,68 +109,5 @@
         <link href="https://v.daum.net/v/20220910172847316"/>
         <updated>2022-09-10T09:12:22.469Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위기의 X' 박진주, 소울리스 파이어족 변신..공감 부르는 열연]]></title>
-        <id>https://v.daum.net/v/20220910170313148</id>
-        <link href="https://v.daum.net/v/20220910170313148"/>
-        <updated>2022-09-10T08:16:11.078Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균과 앙숙 허준석, 소름돋는 두 얼굴 캐릭터]]></title>
-        <id>https://v.daum.net/v/20220910164403971</id>
-        <link href="https://v.daum.net/v/20220910164403971"/>
-        <updated>2022-09-10T08:16:11.080Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 권력의 핵 NR포럼 배후 전국환과 접선..하이클래스 향한 무한질주]]></title>
-        <id>https://v.daum.net/v/20220910152339310</id>
-        <link href="https://v.daum.net/v/20220910152339310"/>
-        <updated>2022-09-10T07:14:24.120Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마약 폭력 그리고 연기' '수리남' 하정우X황정민X박해수 긴장감 눌러담은 6시간]]></title>
-        <id>https://v.daum.net/v/20220910145545055</id>
-        <link href="https://v.daum.net/v/20220910145545055"/>
-        <updated>2022-09-10T06:20:36.431Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시한부' 이민영의 마지막 걸음..이유리·윤소이와 이별여행]]></title>
-        <id>https://v.daum.net/v/20220910144534000</id>
-        <link href="https://v.daum.net/v/20220910144534000"/>
-        <updated>2022-09-10T06:20:36.448Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범형사2' 손현주X장승조 슈퍼맨 될까? 박근형 죽음 위기]]></title>
-        <id>https://v.daum.net/v/20220910143402935</id>
-        <link href="https://v.daum.net/v/20220910143402935"/>
-        <updated>2022-09-10T05:41:45.478Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소은 "너무 아쉬워..고은이도 사랑 많이 받아 감사" 종영소감]]></title>
-        <id>https://v.daum.net/v/20220910134929573</id>
-        <link href="https://v.daum.net/v/20220910134929573"/>
-        <updated>2022-09-10T05:41:45.478Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석, 전국환과 숨 막히는 맞대면..거래 제안 '눈길']]></title>
-        <id>https://v.daum.net/v/20220910134601555</id>
-        <link href="https://v.daum.net/v/20220910134601555"/>
-        <updated>2022-09-10T05:41:45.478Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 측 "김세정X김도훈X학대 엄마 만남, 작품에 큰 영향 미칠 것"]]></title>
-        <id>https://v.daum.net/v/20220910134512548</id>
-        <link href="https://v.daum.net/v/20220910134512548"/>
-        <updated>2022-09-10T05:41:45.480Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
