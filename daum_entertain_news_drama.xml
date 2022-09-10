@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-10T15:12:48.083Z</updated>
+    <updated>2022-09-10T16:16:27.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["돈 쓰고 감옥 갈게" 김고은, 현금 20억 쓰기로 각성..남지현과 갈등]]></title>
+        <id>https://v.daum.net/v/20220911011156183</id>
+        <link href="https://v.daum.net/v/20220911011156183"/>
+        <updated>2022-09-10T16:16:17.917Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 김주헌, 전국환 살해 "모든 걸 빼앗긴 기분 느껴봐"]]></title>
+        <id>https://v.daum.net/v/20220911002847135</id>
+        <link href="https://v.daum.net/v/20220911002847135"/>
+        <updated>2022-09-10T16:16:17.918Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 김도훈, 김세정 덕에 아동 학대 母 오해 풀었다 '오열']]></title>
         <id>https://v.daum.net/v/20220911001003056</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220910224418663"/>
         <updated>2022-09-10T14:11:17.569Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["협상하자" 위하준, 20억+비자금 장부 가진 김고은에 동업 제안]]></title>
-        <id>https://v.daum.net/v/20220910222426592</id>
-        <link href="https://v.daum.net/v/20220910222426592"/>
-        <updated>2022-09-10T13:28:45.931Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이종석 없애" 김주헌, 정재성과 손 잡았다 '빅마우스']]></title>
-        <id>https://v.daum.net/v/20220910222401588</id>
-        <link href="https://v.daum.net/v/20220910222401588"/>
-        <updated>2022-09-10T13:28:45.949Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
