@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-10T06:20:45.440Z</updated>
+    <updated>2022-09-10T07:14:34.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 이종석, 권력의 핵 NR포럼 배후 전국환과 접선..하이클래스 향한 무한질주]]></title>
+        <id>https://v.daum.net/v/20220910152339310</id>
+        <link href="https://v.daum.net/v/20220910152339310"/>
+        <updated>2022-09-10T07:14:24.120Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약 폭력 그리고 연기' '수리남' 하정우X황정민X박해수 긴장감 눌러담은 6시간]]></title>
         <id>https://v.daum.net/v/20220910145545055</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220910112735489"/>
         <updated>2022-09-10T04:09:31.090Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱X최수영, 호두과자 하나로 장꾸美 폭발]]></title>
-        <id>https://v.daum.net/v/20220910112344442</id>
-        <link href="https://v.daum.net/v/20220910112344442"/>
-        <updated>2022-09-10T04:09:31.091Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
