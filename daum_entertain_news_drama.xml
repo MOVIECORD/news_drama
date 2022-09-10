@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-10T16:16:27.920Z</updated>
+    <updated>2022-09-10T17:18:32.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 김수진, "내 마음도 모르고 내 자식에 대해서도 몰라"..김도훈과 무슨 일이?]]></title>
+        <id>https://v.daum.net/v/20220911015700322</id>
+        <link href="https://v.daum.net/v/20220911015700322"/>
+        <updated>2022-09-10T17:18:23.274Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세영·김도훈·장혜진·백현주, 세입자들 '멘붕' 왜?]]></title>
+        <id>https://v.daum.net/v/20220911015030301</id>
+        <link href="https://v.daum.net/v/20220911015030301"/>
+        <updated>2022-09-10T17:18:23.278Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["돈 쓰고 감옥 갈게" 김고은, 현금 20억 쓰기로 각성..남지현과 갈등]]></title>
         <id>https://v.daum.net/v/20220911011156183</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220910225521733"/>
         <updated>2022-09-10T14:11:17.569Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 김도훈 母 등장..김세정과 갈등 "아들 보고 싶다는데"]]></title>
-        <id>https://v.daum.net/v/20220910225114711</id>
-        <link href="https://v.daum.net/v/20220910225114711"/>
-        <updated>2022-09-10T14:11:17.569Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 전국환에 빅마우스 명단 넘겼다 "이중 스파이 해낼 것"]]></title>
-        <id>https://v.daum.net/v/20220910224418663</id>
-        <link href="https://v.daum.net/v/20220910224418663"/>
-        <updated>2022-09-10T14:11:17.569Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
