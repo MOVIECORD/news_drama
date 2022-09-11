@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-11T06:18:16.768Z</updated>
+    <updated>2022-09-11T07:12:51.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돈 많은 엄지원, 가난한 김고은에 흥미..20억 들킬까]]></title>
+        <id>https://v.daum.net/v/20220911154346000</id>
+        <link href="https://v.daum.net/v/20220911154346000"/>
+        <updated>2022-09-11T07:12:41.907Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정재성, 이종석･김주헌 오가며 쥐락펴락 긴장감 선사]]></title>
         <id>https://v.daum.net/v/20220911135000953</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220911092304486"/>
         <updated>2022-09-11T01:11:18.402Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승기X이세영 '법대로 사랑하라', 그저 그런 변호사 드라마 아닌 이유]]></title>
-        <id>https://v.daum.net/v/20220911092205472</id>
-        <link href="https://v.daum.net/v/20220911092205472"/>
-        <updated>2022-09-11T01:11:18.403Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
