@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-11T14:11:28.043Z</updated>
+    <updated>2022-09-11T15:13:09.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 하영 옷에서 발견된 김효진의 혈흔.. 손현주 "꼭 잡는다"]]></title>
+        <id>https://v.daum.net/v/20220911235200584</id>
+        <link href="https://v.daum.net/v/20220911235200584"/>
+        <updated>2022-09-11T15:12:58.895Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김효진 "아빠가 날 죽일까 무서워" 송영창과 언쟁]]></title>
+        <id>https://v.daum.net/v/20220911232239461</id>
+        <link href="https://v.daum.net/v/20220911232239461"/>
+        <updated>2022-09-11T15:12:58.895Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김효진, 장승조에 "모든 사건은 당신 때문에 일어나는 것"]]></title>
         <id>https://v.daum.net/v/20220911230839404</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220911204622374"/>
         <updated>2022-09-11T12:22:06.489Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 서범준, 최예빈에 고백 "너에 대한 마음 안 변했어"]]></title>
-        <id>https://v.daum.net/v/20220911204048335</id>
-        <link href="https://v.daum.net/v/20220911204048335"/>
-        <updated>2022-09-11T12:22:06.492Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영정사진 찍었어" 박지영, 간암 선고에 죽음 준비]]></title>
-        <id>https://v.daum.net/v/20220911203617314</id>
-        <link href="https://v.daum.net/v/20220911203617314"/>
-        <updated>2022-09-11T12:22:06.494Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
