@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-11T04:03:44.995Z</updated>
+    <updated>2022-09-11T05:34:34.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정재성, 이종석･김주헌 오가며 쥐락펴락 긴장감 선사]]></title>
+        <id>https://v.daum.net/v/20220911135000953</id>
+        <link href="https://v.daum.net/v/20220911135000953"/>
+        <updated>2022-09-11T05:34:25.351Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동생이 위험해! 김고은·남지현이 싸우는 섬뜩한 괴물의 정체]]></title>
+        <id>https://v.daum.net/v/20220911134304894</id>
+        <link href="https://v.daum.net/v/20220911134304894"/>
+        <updated>2022-09-11T05:34:25.352Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아, 호평 터진 오열 연기]]></title>
         <id>https://v.daum.net/v/20220911113414934</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220911092205472"/>
         <updated>2022-09-11T01:11:18.403Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 김도훈 악재 해결 위해 고군분투]]></title>
-        <id>https://v.daum.net/v/20220911092030450</id>
-        <link href="https://v.daum.net/v/20220911092030450"/>
-        <updated>2022-09-11T01:11:18.405Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 추석에도 굳건했다..시청률 10.6%, '오늘의 웹툰'은 1.9%]]></title>
-        <id>https://v.daum.net/v/20220911092002437</id>
-        <link href="https://v.daum.net/v/20220911092002437"/>
-        <updated>2022-09-11T01:11:18.406Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
