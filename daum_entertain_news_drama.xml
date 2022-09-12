@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-12T06:11:43.420Z</updated>
+    <updated>2022-09-12T07:35:40.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['블라인드' 옥택연 하석진 정은지, 평범함 아래 숨은 진범 추적]]></title>
+        <id>https://v.daum.net/v/20220912161317785</id>
+        <link href="https://v.daum.net/v/20220912161317785"/>
+        <updated>2022-09-12T07:35:30.659Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멘탈코치 제갈길' 정우, 이유미 경기 관람에 눈물의 동공지진]]></title>
+        <id>https://v.daum.net/v/20220912155214510</id>
+        <link href="https://v.daum.net/v/20220912155214510"/>
+        <updated>2022-09-12T07:35:30.666Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민영 '법대로 사랑하라' 특별 출연 "원작과 비교해보는 재미"]]></title>
         <id>https://v.daum.net/v/20220912150700837</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220912120252987"/>
         <updated>2022-09-12T04:21:13.295Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범형사2' 피해자 옷에서 나온 김효진 혈흔, 흑막 덜미 잡혔다]]></title>
-        <id>https://v.daum.net/v/20220912115637836</id>
-        <link href="https://v.daum.net/v/20220912115637836"/>
-        <updated>2022-09-12T04:21:13.299Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남지현, '작은 아씨들' 입덕 유발하는 명품 연기]]></title>
-        <id>https://v.daum.net/v/20220912113604595</id>
-        <link href="https://v.daum.net/v/20220912113604595"/>
-        <updated>2022-09-12T04:21:13.302Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
