@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-12T13:41:49.163Z</updated>
+    <updated>2022-09-12T14:19:46.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이세영X이승기, 기발한 공조..첫 의뢰 大성공]]></title>
+        <id>https://v.daum.net/v/20220912230657751</id>
+        <link href="https://v.daum.net/v/20220912230657751"/>
+        <updated>2022-09-12T14:19:36.367Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법대로 사랑하라' 이세영, 이승기에 덕통사고.."심장이 막 뛰어"]]></title>
         <id>https://v.daum.net/v/20220912222557487</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220912170702354"/>
         <updated>2022-09-12T08:19:05.521Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 옥택연 하석진 정은지, 평범함 아래 숨은 진범 추적]]></title>
-        <id>https://v.daum.net/v/20220912161317785</id>
-        <link href="https://v.daum.net/v/20220912161317785"/>
-        <updated>2022-09-12T07:35:30.659Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
