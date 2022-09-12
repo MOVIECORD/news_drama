@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-12T07:35:40.488Z</updated>
+    <updated>2022-09-12T08:19:14.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스가 사랑하는 박해수..'오겜' 이어 '수리남'으로 전세계 찬사]]></title>
+        <id>https://v.daum.net/v/20220912171515441</id>
+        <link href="https://v.daum.net/v/20220912171515441"/>
+        <updated>2022-09-12T08:19:05.520Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이유미, '韓 배우 최초' 美 에미상→첫 주연 '멘탈코치 제갈길' 오늘 첫방]]></title>
+        <id>https://v.daum.net/v/20220912170702354</id>
+        <link href="https://v.daum.net/v/20220912170702354"/>
+        <updated>2022-09-12T08:19:05.521Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블라인드' 옥택연 하석진 정은지, 평범함 아래 숨은 진범 추적]]></title>
         <id>https://v.daum.net/v/20220912161317785</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220912130738708"/>
         <updated>2022-09-12T04:21:13.294Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 폭락 주말극, 추석 연휴 직격타..'빅마우스'만 살아남았다]]></title>
-        <id>https://v.daum.net/v/20220912125201532</id>
-        <link href="https://v.daum.net/v/20220912125201532"/>
-        <updated>2022-09-12T04:21:13.294Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김고은, '싱가포르 오인주=추자현' 700억 존재 발견 '반전']]></title>
-        <id>https://v.daum.net/v/20220912120252987</id>
-        <link href="https://v.daum.net/v/20220912120252987"/>
-        <updated>2022-09-12T04:21:13.295Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
