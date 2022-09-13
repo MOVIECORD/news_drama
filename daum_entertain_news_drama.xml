@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-13T07:33:14.960Z</updated>
+    <updated>2022-09-13T08:18:06.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승기·이세영, 응급실..왜?]]></title>
+        <id>https://v.daum.net/v/20220913170319285</id>
+        <link href="https://v.daum.net/v/20220913170319285"/>
+        <updated>2022-09-13T08:17:56.439Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성민·진구·경수진·이학주, 디즈니+ '형사록' 10월 공개]]></title>
+        <id>https://v.daum.net/v/20220913170237238</id>
+        <link href="https://v.daum.net/v/20220913170237238"/>
+        <updated>2022-09-13T08:17:56.440Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매가 용감하게' 임주환 "톱스타 삶 경험해본 적 없어, 가끔 어색해"]]></title>
+        <id>https://v.daum.net/v/20220913164326579</id>
+        <link href="https://v.daum.net/v/20220913164326579"/>
+        <updated>2022-09-13T08:17:56.440Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유니콘' 반전에 반전, 한 씬도 놓칠 수 없는 재미]]></title>
         <id>https://v.daum.net/v/20220913162758022</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220913153401196"/>
         <updated>2022-09-13T07:33:04.952Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지성 계획에 없었는데..흑화 서지혜 등판→해송 차지하려 복수 시작]]></title>
-        <id>https://v.daum.net/v/20220913152556921</id>
-        <link href="https://v.daum.net/v/20220913152556921"/>
-        <updated>2022-09-13T07:33:04.952Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황동혁 감독 "'오징어게임' 시즌2로 에미상 작품상 받고 싶어"]]></title>
-        <id>https://v.daum.net/v/20220913152401864</id>
-        <link href="https://v.daum.net/v/20220913152401864"/>
-        <updated>2022-09-13T07:33:04.957Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 1인치 장벽 넘었다..'오징어게임' 비영어권 최초 美에미상 남우주연상·감독상 수상]]></title>
-        <id>https://v.daum.net/v/20220913152203817</id>
-        <link href="https://v.daum.net/v/20220913152203817"/>
-        <updated>2022-09-13T07:33:04.957Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
