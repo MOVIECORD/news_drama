@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-14T13:48:18.144Z</updated>
+    <updated>2022-09-14T14:22:16.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 지성, 결국 진짜 아다마스 찾아냈다]]></title>
+        <id>https://v.daum.net/v/20220914231505846</id>
+        <link href="https://v.daum.net/v/20220914231505846"/>
+        <updated>2022-09-14T14:22:04.143Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 서현우, 이경영 죽음에 서지혜 추궁 "네가 죽였냐"]]></title>
+        <id>https://v.daum.net/v/20220914225539711</id>
+        <link href="https://v.daum.net/v/20220914225539711"/>
+        <updated>2022-09-14T14:22:04.144Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 메인 포스터→2차 티저 영상 공개..역대 가장 화끈한 중전 김혜수]]></title>
         <id>https://v.daum.net/v/20220914224500618</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220914185210824"/>
         <updated>2022-09-14T10:14:43.607Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영, 예쁜 또라이 맞았다..MBC 구세주→KBS 로코퀸 탄생]]></title>
-        <id>https://v.daum.net/v/20220914180102570</id>
-        <link href="https://v.daum.net/v/20220914180102570"/>
-        <updated>2022-09-14T09:15:19.351Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당소말' 지창욱, 403호 환자와 조우..충격적 진실 예고]]></title>
-        <id>https://v.daum.net/v/20220914173147672</id>
-        <link href="https://v.daum.net/v/20220914173147672"/>
-        <updated>2022-09-14T09:15:19.351Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
