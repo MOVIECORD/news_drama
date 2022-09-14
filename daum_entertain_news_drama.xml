@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-14T07:29:00.578Z</updated>
+    <updated>2022-09-14T08:16:43.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['50대 여배우 고소' 오모씨 "기자회견으로 억울함 풀 것"]]></title>
+        <title type="html"><![CDATA[엑소 디오 맞아?..도경수, 똘기충만 꼴통 검사 됐다]]></title>
+        <id>https://v.daum.net/v/20220914165636521</id>
+        <link href="https://v.daum.net/v/20220914165636521"/>
+        <updated>2022-09-14T08:16:33.789Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['얼죽연' 이다희 최시원 하이퍼 리얼 연기, 20년 절친 찐텐 폭발]]></title>
+        <id>https://v.daum.net/v/20220914164319059</id>
+        <link href="https://v.daum.net/v/20220914164319059"/>
+        <updated>2022-09-14T08:16:33.797Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['50대 여배우 고소' 오모씨 "아직 사랑해..기자회견할 것"]]></title>
         <id>https://v.daum.net/v/20220914162648407</id>
         <link href="https://v.daum.net/v/20220914162648407"/>
         <updated>2022-09-14T07:28:51.056Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220914144742230"/>
         <updated>2022-09-14T06:02:20.494Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지현X배인혁 발탁 '치얼업' 작가 "오디션 통해 새 배우 찾아 즐거워"]]></title>
-        <id>https://v.daum.net/v/20220914144512121</id>
-        <link href="https://v.daum.net/v/20220914144512121"/>
-        <updated>2022-09-14T06:02:20.495Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예은·려운·강훈·정건주 SBS '꽃선비 열애사' 캐스팅 확정]]></title>
-        <id>https://v.daum.net/v/20220914144320030</id>
-        <link href="https://v.daum.net/v/20220914144320030"/>
-        <updated>2022-09-14T06:02:20.495Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
