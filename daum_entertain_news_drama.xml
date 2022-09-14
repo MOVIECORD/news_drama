@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-14T21:11:49.880Z</updated>
+    <updated>2022-09-14T22:13:39.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지성, 진짜 아다마스 찾고 조성하와 '갈등 폭발']]></title>
+        <id>https://v.daum.net/v/20220915065503984</id>
+        <link href="https://v.daum.net/v/20220915065503984"/>
+        <updated>2022-09-14T22:13:28.763Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 우영우는 끝났지만, 우영우 팽나무 투어는 ing]]></title>
+        <id>https://v.daum.net/v/20220915063027770</id>
+        <link href="https://v.daum.net/v/20220915063027770"/>
+        <updated>2022-09-14T22:13:28.763Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수영, 신주환 고백 거절..지창욱, 갑자기 깨어난 403호 환자에 경악]]></title>
         <id>https://v.daum.net/v/20220915060208479</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220914202004500"/>
         <updated>2022-09-14T12:26:37.905Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 연민지 죽음? 차예련X고미숙 작전 "제발 일어나"]]></title>
-        <id>https://v.daum.net/v/20220914201326386</id>
-        <link href="https://v.daum.net/v/20220914201326386"/>
-        <updated>2022-09-14T12:26:37.907Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2의 '오징어게임'='수리남'..황정민x하정우, 이정재 찬사 바통 받았다]]></title>
-        <id>https://v.daum.net/v/20220914195844115</id>
-        <link href="https://v.daum.net/v/20220914195844115"/>
-        <updated>2022-09-14T11:11:54.139Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
