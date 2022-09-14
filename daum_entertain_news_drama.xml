@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-14T20:15:30.430Z</updated>
+    <updated>2022-09-14T21:11:49.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수영, 신주환 고백 거절..지창욱, 갑자기 깨어난 403호 환자에 경악]]></title>
+        <id>https://v.daum.net/v/20220915060208479</id>
+        <link href="https://v.daum.net/v/20220915060208479"/>
+        <updated>2022-09-14T21:11:39.698Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환승연애2' PD가 말하는 뒷이야기 "위생 논란은 제작진 탓, 최이현 퇴소 이유는 비공개"]]></title>
+        <id>https://v.daum.net/v/20220915060035350</id>
+        <link href="https://v.daum.net/v/20220915060035350"/>
+        <updated>2022-09-14T21:11:39.721Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조성하, 과거 지성 장난감에 진짜 '아다마스' 숨겼다 '충격']]></title>
         <id>https://v.daum.net/v/20220915005024540</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220914195844115"/>
         <updated>2022-09-14T11:11:54.139Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 서하준, 정헌 제치고 대표이사 선출→이승연에 죽은父 유서조작 추궁]]></title>
-        <id>https://v.daum.net/v/20220914195012964</id>
-        <link href="https://v.daum.net/v/20220914195012964"/>
-        <updated>2022-09-14T11:11:54.139Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 이승연, 주총서 체포 "잘못 없다" 시치미 뚝]]></title>
-        <id>https://v.daum.net/v/20220914192600538</id>
-        <link href="https://v.daum.net/v/20220914192600538"/>
-        <updated>2022-09-14T11:11:54.139Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
