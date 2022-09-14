@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-14T15:13:57.295Z</updated>
+    <updated>2022-09-14T16:18:06.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조성하, 과거 지성 장난감에 진짜 '아다마스' 숨겼다 '충격']]></title>
+        <id>https://v.daum.net/v/20220915005024540</id>
+        <link href="https://v.daum.net/v/20220915005024540"/>
+        <updated>2022-09-14T16:17:56.902Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아다마스' 지성, 결국 진짜 아다마스 찾아냈다]]></title>
         <id>https://v.daum.net/v/20220914231505846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220914192600538"/>
         <updated>2022-09-14T11:11:54.139Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마라맛 하이틴 '미미쿠스' 못 보내..유영재부터 조유리까지 교복·폴라로이드 '유종의 미']]></title>
-        <id>https://v.daum.net/v/20220914185210824</id>
-        <link href="https://v.daum.net/v/20220914185210824"/>
-        <updated>2022-09-14T10:14:43.607Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
