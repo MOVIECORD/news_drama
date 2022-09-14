@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-14T09:15:29.253Z</updated>
+    <updated>2022-09-14T10:14:53.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마라맛 하이틴 '미미쿠스' 못 보내..유영재부터 조유리까지 교복·폴라로이드 '유종의 미']]></title>
+        <id>https://v.daum.net/v/20220914185210824</id>
+        <link href="https://v.daum.net/v/20220914185210824"/>
+        <updated>2022-09-14T10:14:43.607Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이세영, 예쁜 또라이 맞았다..MBC 구세주→KBS 로코퀸 탄생]]></title>
         <id>https://v.daum.net/v/20220914180102570</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220914152543961"/>
         <updated>2022-09-14T07:28:51.062Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 대박낸 ENA, 금토드라마까지 노린다..'가우스전자' 확정]]></title>
-        <id>https://v.daum.net/v/20220914151236452</id>
-        <link href="https://v.daum.net/v/20220914151236452"/>
-        <updated>2022-09-14T07:28:51.062Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
