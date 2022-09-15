@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-15T16:17:57.432Z</updated>
+    <updated>2022-09-15T17:21:16.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부활 김재희 "아내, 암 투병 끝 지난달 사망..형 故김재기 기일과 같아"]]></title>
+        <id>https://v.daum.net/v/20220915215802168</id>
+        <link href="https://v.daum.net/v/20220915215802168"/>
+        <updated>2022-09-15T17:21:06.811Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[차민지, 결혼한다는 서동희에 김시우 양육 선언.."내가 키울게요"]]></title>
         <id>https://v.daum.net/v/20220915211702603</id>
         <link href="https://v.daum.net/v/20220915211702603"/>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220915203002889"/>
         <updated>2022-09-15T12:28:30.928Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 이현진, 차예련X이중문 재결합 소식에 "진심이에요?"]]></title>
-        <id>https://v.daum.net/v/20220915202826874</id>
-        <link href="https://v.daum.net/v/20220915202826874"/>
-        <updated>2022-09-15T12:28:30.928Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
