@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-15T15:14:26.730Z</updated>
+    <updated>2022-09-15T16:17:57.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 최종회, 해송 주인 된 서지혜·아다마스 쥔 지성]]></title>
+        <id>https://v.daum.net/v/20220916003707500</id>
+        <link href="https://v.daum.net/v/20220916003707500"/>
+        <updated>2022-09-15T16:17:47.983Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '아다마스' 실종된 지성, 살아 있었다 '열린 결말']]></title>
         <id>https://v.daum.net/v/20220916001009361</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220915202826874"/>
         <updated>2022-09-15T12:28:30.928Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이휘향, 공다임 '상상임신 난동'에 "들어와 살아"]]></title>
-        <id>https://v.daum.net/v/20220915200706588</id>
-        <link href="https://v.daum.net/v/20220915200706588"/>
-        <updated>2022-09-15T11:11:44.628Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
