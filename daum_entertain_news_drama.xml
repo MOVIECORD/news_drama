@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-15T14:21:05.940Z</updated>
+    <updated>2022-09-15T15:14:26.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '아다마스' 실종된 지성, 살아 있었다 '열린 결말']]></title>
+        <id>https://v.daum.net/v/20220916001009361</id>
+        <link href="https://v.daum.net/v/20220916001009361"/>
+        <updated>2022-09-15T15:14:17.283Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이종석 시장 당선 될까→임윤아 백혈병 증상 위기]]></title>
+        <id>https://v.daum.net/v/20220915235019080</id>
+        <link href="https://v.daum.net/v/20220915235019080"/>
+        <updated>2022-09-15T15:14:17.284Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 오대환, 지성에 "나 죽이고 싶지? 죽여"]]></title>
+        <id>https://v.daum.net/v/20220915233102992</id>
+        <link href="https://v.daum.net/v/20220915233102992"/>
+        <updated>2022-09-15T15:14:17.296Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아다마스' 지성X허성태, 오대환과 숨 막히는 총격전 "다 끝났어"]]></title>
+        <id>https://v.daum.net/v/20220915232147913</id>
+        <link href="https://v.daum.net/v/20220915232147913"/>
+        <updated>2022-09-15T15:14:17.296Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지성, '아다마스' 찾기 위한 작전 실행.."네가 나인 척해야 해"]]></title>
         <id>https://v.daum.net/v/20220915230446797</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220915200706588"/>
         <updated>2022-09-15T11:11:44.628Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 이휘향, 子 이현진 따귀 때린 나영희에 '분노']]></title>
-        <id>https://v.daum.net/v/20220915200451547</id>
-        <link href="https://v.daum.net/v/20220915200451547"/>
-        <updated>2022-09-15T11:11:44.630Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 정헌, 이영은 의심 "할아버지 깨어난 거 알고 있었지?"]]></title>
-        <id>https://v.daum.net/v/20220915195138323</id>
-        <link href="https://v.daum.net/v/20220915195138323"/>
-        <updated>2022-09-15T11:11:44.632Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 이승연, 죽은 父 진실 캐는 서하준에 "공소시효 지난 일"]]></title>
-        <id>https://v.daum.net/v/20220915194416216</id>
-        <link href="https://v.daum.net/v/20220915194416216"/>
-        <updated>2022-09-15T11:11:44.633Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지훈, 폭풍성장 하더니..'블라인드' 존재감 예고]]></title>
-        <id>https://v.daum.net/v/20220915190212532</id>
-        <link href="https://v.daum.net/v/20220915190212532"/>
-        <updated>2022-09-15T10:14:42.373Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
