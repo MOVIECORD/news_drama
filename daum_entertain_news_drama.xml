@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-16T09:14:16.130Z</updated>
+    <updated>2022-09-16T10:15:14.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 변화무쌍한 스토리, 어떻게 풀릴까?]]></title>
+        <id>https://v.daum.net/v/20220916182302853</id>
+        <link href="https://v.daum.net/v/20220916182302853"/>
+        <updated>2022-09-16T10:15:03.170Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수리남' 윤종빈 감독 "김예원, 쥬얼리 예원인 줄 못알아봤다"]]></title>
         <id>https://v.daum.net/v/20220916181315537</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220916153645970"/>
         <updated>2022-09-16T07:23:52.975Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석 "오랜만 복귀작, 고민 많았는데 기뻐" 종영소감]]></title>
-        <id>https://v.daum.net/v/20220916153628958</id>
-        <link href="https://v.daum.net/v/20220916153628958"/>
-        <updated>2022-09-16T07:23:52.977Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
