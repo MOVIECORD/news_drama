@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-16T19:14:02.107Z</updated>
+    <updated>2022-09-16T20:14:19.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스'임윤아, 급성 림프종 말기 선고→박창호 몰래 작전 시작]]></title>
+        <id>https://v.daum.net/v/20220917050001963</id>
+        <link href="https://v.daum.net/v/20220917050001963"/>
+        <updated>2022-09-16T20:14:09.575Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아 급성 림프종 말기 선고, ♥이종석과 새드앤딩 맞나 '빅마우스']]></title>
         <id>https://v.daum.net/v/20220917032146837</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220916212250542"/>
         <updated>2022-09-16T12:24:21.456Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['으라차차' 차민지 폭주, 김시우에 출생 비밀 폭로 "내가 친엄마"]]></title>
-        <id>https://v.daum.net/v/20220916210800387</id>
-        <link href="https://v.daum.net/v/20220916210800387"/>
-        <updated>2022-09-16T12:24:21.457Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
