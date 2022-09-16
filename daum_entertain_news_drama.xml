@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-16T15:13:41.050Z</updated>
+    <updated>2022-09-16T16:17:41.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 임윤아, 빅마우스 정체 알았다..이종석vs김주헌, 선거 시작]]></title>
+        <id>https://v.daum.net/v/20220917003715215</id>
+        <link href="https://v.daum.net/v/20220917003715215"/>
+        <updated>2022-09-16T16:17:29.889Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["옥택연이 조커살인마?" '블라인드'.. 첫방부터 쫄깃쫄깃한 '美친' 전개]]></title>
+        <id>https://v.daum.net/v/20220917003341206</id>
+        <link href="https://v.daum.net/v/20220917003341206"/>
+        <updated>2022-09-16T16:17:29.890Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의 웹툰' 김세정, 김도훈에 "절대 혼자가 아니라는 것 잊으면 안 돼" 응원]]></title>
         <id>https://v.daum.net/v/20220916234500885</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220916203034856"/>
         <updated>2022-09-16T12:24:21.463Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 나영희, 선우은숙에게 돈싸대기.."이거 먹고 떨어져라"]]></title>
-        <id>https://v.daum.net/v/20220916202128695</id>
-        <link href="https://v.daum.net/v/20220916202128695"/>
-        <updated>2022-09-16T12:24:21.464Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영희, 자신 뒤 캐는 차예련 경계 → 이중문 재결합 결사 반대]]></title>
-        <id>https://v.daum.net/v/20220916201902670</id>
-        <link href="https://v.daum.net/v/20220916201902670"/>
-        <updated>2022-09-16T12:24:21.470Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
