@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-16T14:23:38.437Z</updated>
+    <updated>2022-09-16T15:13:41.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 김세정, 김도훈에 "절대 혼자가 아니라는 것 잊으면 안 돼" 응원]]></title>
+        <id>https://v.daum.net/v/20220916234500885</id>
+        <link href="https://v.daum.net/v/20220916234500885"/>
+        <updated>2022-09-16T15:13:31.858Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방부터 강렬 '블라인드'.. 하석진→옥택연 "사람죽일까봐 늘 조마조마"]]></title>
+        <id>https://v.daum.net/v/20220916233331825</id>
+        <link href="https://v.daum.net/v/20220916233331825"/>
+        <updated>2022-09-16T15:13:31.860Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정, 네온 웹툰 정규직 전환 성공→오열]]></title>
         <id>https://v.daum.net/v/20220916231002653</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220916201902670"/>
         <updated>2022-09-16T12:24:21.470Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘블라썸' 소주연, 서지훈 동생 김민규와 아련한 재회..4차 티저 공개]]></title>
-        <id>https://v.daum.net/v/20220916201817665</id>
-        <link href="https://v.daum.net/v/20220916201817665"/>
-        <updated>2022-09-16T12:24:21.471Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 차예련, 父 죽인 범인 알았다..병원 영상에 '충격']]></title>
-        <id>https://v.daum.net/v/20220916200947546</id>
-        <link href="https://v.daum.net/v/20220916200947546"/>
-        <updated>2022-09-16T11:11:30.281Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
