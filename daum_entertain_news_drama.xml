@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-16T08:16:41.454Z</updated>
+    <updated>2022-09-16T09:14:16.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수리남' 윤종빈 감독 "김예원, 쥬얼리 예원인 줄 못알아봤다"]]></title>
+        <id>https://v.daum.net/v/20220916181315537</id>
+        <link href="https://v.daum.net/v/20220916181315537"/>
+        <updated>2022-09-16T09:14:07.090Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["감 좋다"..'블라인드' 옥택연→정은지, 인성까지 본 최고의 캐스팅]]></title>
+        <id>https://v.daum.net/v/20220916175127999</id>
+        <link href="https://v.daum.net/v/20220916175127999"/>
+        <updated>2022-09-16T09:14:07.091Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방송인 신아영, 14일 득녀]]></title>
+        <id>https://v.daum.net/v/20220916173507568</id>
+        <link href="https://v.daum.net/v/20220916173507568"/>
+        <updated>2022-09-16T09:14:07.091Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민우, '작은 아씨들' 묵직한 첫 등장..김고은과 만났다]]></title>
         <id>https://v.daum.net/v/20220916171214951</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220916153628958"/>
         <updated>2022-09-16T07:23:52.977Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에미상으로 마무리한 '오징어 게임' 1년 대장정, 시즌2는?]]></title>
-        <id>https://v.daum.net/v/20220916152847664</id>
-        <link href="https://v.daum.net/v/20220916152847664"/>
-        <updated>2022-09-16T07:23:52.978Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뒤통수 맞는 맛"..'블라인드' 옥택연X하석진X정은지, 다이내믹 반전 추리 스릴러]]></title>
-        <id>https://v.daum.net/v/20220916152532556</id>
-        <link href="https://v.daum.net/v/20220916152532556"/>
-        <updated>2022-09-16T07:23:52.980Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반전 기대해"..'블라인드' 옥택연·하석진·정은지, 반가운 장르물의 귀환]]></title>
-        <id>https://v.daum.net/v/20220916152132314</id>
-        <link href="https://v.daum.net/v/20220916152132314"/>
-        <updated>2022-09-16T07:23:52.981Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
