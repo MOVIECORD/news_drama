@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-17T07:13:10.648Z</updated>
+    <updated>2022-09-17T08:15:49.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 손현주X장승조, 꼴통력 절정! 사이다 터진다]]></title>
+        <id>https://v.daum.net/v/20220917171012982</id>
+        <link href="https://v.daum.net/v/20220917171012982"/>
+        <updated>2022-09-17T08:15:38.645Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추자현, 넷플릭스부터 tvn 아우르는 특별출연..믿고 보는 배우]]></title>
+        <id>https://v.daum.net/v/20220917170553950</id>
+        <link href="https://v.daum.net/v/20220917170553950"/>
+        <updated>2022-09-17T08:15:38.646Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블라인드' 옥택연, 재판장 출석..무죄 입증할 증거는?]]></title>
         <id>https://v.daum.net/v/20220917160650261</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220917134932909"/>
         <updated>2022-09-17T04:58:02.932Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백혈병 걸린 임윤아, ♥이종석 내조 시작..비장한 각오]]></title>
-        <id>https://v.daum.net/v/20220917134033843</id>
-        <link href="https://v.daum.net/v/20220917134033843"/>
-        <updated>2022-09-17T04:58:02.932Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석♥임윤아 VS 김주헌, 전쟁의 결말]]></title>
-        <id>https://v.daum.net/v/20220917133752815</id>
-        <link href="https://v.daum.net/v/20220917133752815"/>
-        <updated>2022-09-17T04:58:02.932Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
