@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-17T15:13:48.580Z</updated>
+    <updated>2022-09-17T16:17:48.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전참시' 다니엘 헤니, '김삼순'의 추억 "'안녕하세요'도 모른 채 연기 시작"]]></title>
+        <id>https://v.daum.net/v/20220918004730992</id>
+        <link href="https://v.daum.net/v/20220918004730992"/>
+        <updated>2022-09-17T16:17:37.136Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오늘의 웹툰' 남윤수, "그때 나랑 이야기 나눠줘"..김세정에 '고백 보류']]></title>
+        <id>https://v.daum.net/v/20220918003301953</id>
+        <link href="https://v.daum.net/v/20220918003301953"/>
+        <updated>2022-09-17T16:17:37.136Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄기준, 추자현 살해했나? 블랙박스 영상 확인한 김고은 경악]]></title>
+        <id>https://v.daum.net/v/20220918002305920</id>
+        <link href="https://v.daum.net/v/20220918002305920"/>
+        <updated>2022-09-17T16:17:37.136Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범형사2' 장승조, 김효진과 기싸움 "조작한 것"]]></title>
+        <id>https://v.daum.net/v/20220918001602899</id>
+        <link href="https://v.daum.net/v/20220918001602899"/>
+        <updated>2022-09-17T16:17:37.137Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄지원, 김고은에 고백 "지금 난 24시간 연기 중이에요" 무슨 일?]]></title>
+        <id>https://v.daum.net/v/20220918001449897</id>
+        <link href="https://v.daum.net/v/20220918001449897"/>
+        <updated>2022-09-17T16:17:37.147Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄기준, 감췄던 폭력성 드러내.. 딸 앞에서 골프채 휘두르며 분노]]></title>
         <id>https://v.daum.net/v/20220918001307888</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220917231710597"/>
         <updated>2022-09-17T15:13:38.757Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 위하준, 김고은에 "엄기준과 700억 협상 할 것"]]></title>
-        <id>https://v.daum.net/v/20220917231325566</id>
-        <link href="https://v.daum.net/v/20220917231325566"/>
-        <updated>2022-09-17T15:13:38.758Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅마우스' 이종석, 방사능으로 김주헌 잡고 임윤아 잃었다 "충격엔딩"]]></title>
-        <id>https://v.daum.net/v/20220917230901546</id>
-        <link href="https://v.daum.net/v/20220917230901546"/>
-        <updated>2022-09-17T14:11:53.606Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의 웹툰' 김세정, 최다니엘에 "첫 사수였던 건 큰 행운" 진심 고백]]></title>
-        <id>https://v.daum.net/v/20220917225236459</id>
-        <link href="https://v.daum.net/v/20220917225236459"/>
-        <updated>2022-09-17T14:11:53.607Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은아씨들' 엄기준, 추자현 살해? 김고은 블랙박스 영상에 패닉]]></title>
-        <id>https://v.daum.net/v/20220917225058443</id>
-        <link href="https://v.daum.net/v/20220917225058443"/>
-        <updated>2022-09-17T14:11:53.612Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장승조, 강남빌딩 걸었다 "김효진 수사하다 잘리면 분할" '모범형사2']]></title>
-        <id>https://v.daum.net/v/20220917225024442</id>
-        <link href="https://v.daum.net/v/20220917225024442"/>
-        <updated>2022-09-17T14:11:53.612Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
