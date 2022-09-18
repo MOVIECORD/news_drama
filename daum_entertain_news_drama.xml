@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-18T15:13:37.949Z</updated>
+    <updated>2022-09-18T16:16:53.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남지현, 사망한 김미숙과 피투성이 김고은 발견하고 '경악']]></title>
+        <id>https://v.daum.net/v/20220919005603897</id>
+        <link href="https://v.daum.net/v/20220919005603897"/>
+        <updated>2022-09-18T16:16:43.014Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '모범형사2' 손현주X장승조, 김효진 체포 성공..'사이다 엔딩']]></title>
         <id>https://v.daum.net/v/20220919000407447</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220918215758584"/>
         <updated>2022-09-18T13:31:24.270Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는' 박지영, 윤시윤 간 이식 성공→건강 회복]]></title>
-        <id>https://v.daum.net/v/20220918215720579</id>
-        <link href="https://v.daum.net/v/20220918215720579"/>
-        <updated>2022-09-18T13:31:24.270Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
