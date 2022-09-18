@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-18T07:13:36.045Z</updated>
+    <updated>2022-09-18T08:16:46.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위하준, 아슬한데 설레는 마성의 매력]]></title>
+        <id>https://v.daum.net/v/20220918170720146</id>
+        <link href="https://v.daum.net/v/20220918170720146"/>
+        <updated>2022-09-18T08:16:37.379Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤시윤♥배다빈→오민석♥신동미, 李가네 세 커플이 전한 종영 소감]]></title>
+        <id>https://v.daum.net/v/20220918170605123</id>
+        <link href="https://v.daum.net/v/20220918170605123"/>
+        <updated>2022-09-18T08:16:37.382Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연, 정은지 구하려다 칼에 찔렸다]]></title>
         <id>https://v.daum.net/v/20220918160914764</id>
@@ -76,13 +90,6 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양경원 "'빅마우스' 공지훈, 악역보다는 악동..거리에서도 팬 만나"]]></title>
-        <id>https://v.daum.net/v/20220918140843504</id>
-        <link href="https://v.daum.net/v/20220918140843504"/>
-        <updated>2022-09-18T05:38:10.652Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[정재성, 이종석 든든한 조력자 역할 '톡톡']]></title>
         <id>https://v.daum.net/v/20220918134924236</id>
         <link href="https://v.daum.net/v/20220918134924236"/>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220918134715175"/>
         <updated>2022-09-18T05:38:10.653Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손현주·장승조, 이 멤버로 쭉~ '모범형사' 시즌3 요구 커진 이유]]></title>
-        <id>https://v.daum.net/v/20220918132739903</id>
-        <link href="https://v.daum.net/v/20220918132739903"/>
-        <updated>2022-09-18T05:38:10.655Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
