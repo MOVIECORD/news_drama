@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-20T14:24:35.043Z</updated>
+    <updated>2022-09-20T15:15:17.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수리남' 실화의 강력한 힘..연기 구멍 없는 호연까지]]></title>
+        <id>https://v.daum.net/v/20220920234820567</id>
+        <link href="https://v.daum.net/v/20220920234820567"/>
+        <updated>2022-09-20T15:15:06.767Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이경실, 23세 손보승 혼전임신 득남 언급 "아들놈이 사고 쳐"]]></title>
+        <id>https://v.daum.net/v/20220920233537476</id>
+        <link href="https://v.daum.net/v/20220920233537476"/>
+        <updated>2022-09-20T15:15:06.769Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 안동구, 학폭 피해자 도우려 '화재'→이승기 분노]]></title>
+        <id>https://v.daum.net/v/20220920232645437</id>
+        <link href="https://v.daum.net/v/20220920232645437"/>
+        <updated>2022-09-20T15:15:06.777Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법대로 사랑하라' 이승기, 조한철에 주먹질 "죽여버린다"]]></title>
         <id>https://v.daum.net/v/20220920224058067</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220920181504401"/>
         <updated>2022-09-20T09:18:55.063Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수리남' 박해수 "황정민X하정우 에너지? 두렵지 않았다"]]></title>
-        <id>https://v.daum.net/v/20220920180135024</id>
-        <link href="https://v.daum.net/v/20220920180135024"/>
-        <updated>2022-09-20T09:18:55.064Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV조선 측 "모코ent 명의 '미스터트롯2' 사문서 위조..수사 의뢰"]]></title>
-        <id>https://v.daum.net/v/20220920175845898</id>
-        <link href="https://v.daum.net/v/20220920175845898"/>
-        <updated>2022-09-20T09:18:55.070Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한, 송강호 데뷔 첫 드라마 '삼식이 삼촌' 주연 캐스팅]]></title>
-        <id>https://v.daum.net/v/20220920175651819</id>
-        <link href="https://v.daum.net/v/20220920175651819"/>
-        <updated>2022-09-20T09:18:55.076Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
