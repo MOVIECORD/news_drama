@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-21T07:37:34.956Z</updated>
+    <updated>2022-09-21T08:21:01.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥자연의 연기 진심.."'얼빵'한 배역도 맡고 싶죠"]]></title>
+        <id>https://v.daum.net/v/20220921170147054</id>
+        <link href="https://v.daum.net/v/20220921170147054"/>
+        <updated>2022-09-21T08:20:53.578Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매가' 임주환 "KBS 러브콜 무시 NO..톱스타 역할은 어색"]]></title>
+        <id>https://v.daum.net/v/20220921165011670</id>
+        <link href="https://v.daum.net/v/20220921165011670"/>
+        <updated>2022-09-21T08:20:53.584Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제2의 임영웅 찾기'..장윤정·붐, '미스터트롯2' 마스터 재출격]]></title>
+        <id>https://v.daum.net/v/20220921164113374</id>
+        <link href="https://v.daum.net/v/20220921164113374"/>
+        <updated>2022-09-21T08:20:53.584Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼남매가 용감하게' PD "딴 세상 이야기 아닌 우리들의 이야기"]]></title>
         <id>https://v.daum.net/v/20220921163206073</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220921154412926"/>
         <updated>2022-09-21T07:37:27.950Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도경수, 목검 액션 투혼 발휘..똘끼 충만 '꼴통 검사']]></title>
-        <id>https://v.daum.net/v/20220921154223848</id>
-        <link href="https://v.daum.net/v/20220921154223848"/>
-        <updated>2022-09-21T07:37:27.951Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모두 행복한 드라마" 이하나→임주환 '삼남매가' 시청자 밥맛 책임질 주말극]]></title>
-        <id>https://v.daum.net/v/20220921154031759</id>
-        <link href="https://v.daum.net/v/20220921154031759"/>
-        <updated>2022-09-21T07:37:27.953Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가 용감하게', 흥행 불패 'KBS 주말극' 바통 터치..가족드라마 또 온다]]></title>
-        <id>https://v.daum.net/v/20220921153451502</id>
-        <link href="https://v.daum.net/v/20220921153451502"/>
-        <updated>2022-09-21T07:37:27.955Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
