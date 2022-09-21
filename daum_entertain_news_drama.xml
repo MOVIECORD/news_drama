@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-21T10:14:59.441Z</updated>
+    <updated>2022-09-21T11:13:55.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임주환, 운동복→수트..여심저격 완벽 비주얼]]></title>
+        <id>https://v.daum.net/v/20220921201231103</id>
+        <link href="https://v.daum.net/v/20220921201231103"/>
+        <updated>2022-09-21T11:13:46.714Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['굿잡' 정일우·권유리, 서로의 일상에 녹아든 두 사람]]></title>
+        <id>https://v.daum.net/v/20220921201004030</id>
+        <link href="https://v.daum.net/v/20220921201004030"/>
+        <updated>2022-09-21T11:13:46.716Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 이승연, 경찰에 체포 됐다가 풀려났다.."날 무너뜨릴 수 없어"]]></title>
+        <id>https://v.daum.net/v/20220921195441563</id>
+        <link href="https://v.daum.net/v/20220921195441563"/>
+        <updated>2022-09-21T11:13:46.716Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의집' 서하준X안용준, 조유신 도움으로 '위기 모면']]></title>
+        <id>https://v.daum.net/v/20220921192920029</id>
+        <link href="https://v.daum.net/v/20220921192920029"/>
+        <updated>2022-09-21T11:13:46.716Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'우영우' 부담감? 편안하게 준비"..新 법정물 자신감]]></title>
         <id>https://v.daum.net/v/20220921185004226</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220921163206073"/>
         <updated>2022-09-21T07:37:27.932Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유퀴즈', 휴식기 끝내고 박은빈과 함께 돌아온다..10월 5일 방송]]></title>
-        <id>https://v.daum.net/v/20220921161922670</id>
-        <link href="https://v.daum.net/v/20220921161922670"/>
-        <updated>2022-09-21T07:37:27.933Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이렇게 해도 되나"..정려원, 세 번째 법정물 거절 못한 이유]]></title>
-        <id>https://v.daum.net/v/20220921161005351</id>
-        <link href="https://v.daum.net/v/20220921161005351"/>
-        <updated>2022-09-21T07:37:27.933Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태성, 월클 된 母박영혜 감독 언급 "차기작 캐스팅 연락 없어"]]></title>
-        <id>https://v.daum.net/v/20220921160612186</id>
-        <link href="https://v.daum.net/v/20220921160612186"/>
-        <updated>2022-09-21T07:37:27.935Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7년만에 KBS 컴백' 이하나 "반겨주셔서 감사히 촬영"]]></title>
-        <id>https://v.daum.net/v/20220921160609182</id>
-        <link href="https://v.daum.net/v/20220921160609182"/>
-        <updated>2022-09-21T07:37:27.941Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
