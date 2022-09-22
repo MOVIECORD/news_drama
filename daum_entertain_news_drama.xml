@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-22T20:15:05.104Z</updated>
+    <updated>2022-09-22T21:13:05.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금수저' 육성재 흙수저 탈출기, 빅마우스 흥행 이을까]]></title>
+        <id>https://v.daum.net/v/20220923060005459</id>
+        <link href="https://v.daum.net/v/20220923060005459"/>
+        <updated>2022-09-22T21:12:57.988Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 남궁민 손잡고 '조들호' 뛰어넘을까]]></title>
+        <id>https://v.daum.net/v/20220923060005456</id>
+        <link href="https://v.daum.net/v/20220923060005456"/>
+        <updated>2022-09-22T21:12:57.992Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해수 "'식사 잡쉈어?' 대사, 유행어 되다니 신기해"]]></title>
+        <id>https://v.daum.net/v/20220923060002443</id>
+        <link href="https://v.daum.net/v/20220923060002443"/>
+        <updated>2022-09-22T21:12:58.000Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천원짜리 변호사' 최대훈 "베테랑 남궁민이 리드, 큰 도움 받고 있다"]]></title>
         <id>https://v.daum.net/v/20220923050243853</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220922200851812"/>
         <updated>2022-09-22T11:11:45.211Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방은희, 김정임 유골 빼돌리다가 서하준에게 발각..윤복인 비밀 밝혀지나?]]></title>
-        <id>https://v.daum.net/v/20220922200601772</id>
-        <link href="https://v.daum.net/v/20220922200601772"/>
-        <updated>2022-09-22T11:11:45.211Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의집' 서하준, 이승연X방은희에 분노 "전부 파헤칠 것"]]></title>
-        <id>https://v.daum.net/v/20220922193630272</id>
-        <link href="https://v.daum.net/v/20220922193630272"/>
-        <updated>2022-09-22T11:11:45.216Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호·지수, 한류드라마 男女연기자상 수상]]></title>
-        <id>https://v.daum.net/v/20220922192633091</id>
-        <link href="https://v.daum.net/v/20220922192633091"/>
-        <updated>2022-09-22T11:11:45.216Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
