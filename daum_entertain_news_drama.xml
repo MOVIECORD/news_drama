@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-23T07:29:42.116Z</updated>
+    <updated>2022-09-23T08:17:57.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최시원, 스타트업 사업가로도 활약 "도전은 위대해"]]></title>
+        <id>https://v.daum.net/v/20220923170838936</id>
+        <link href="https://v.daum.net/v/20220923170838936"/>
+        <updated>2022-09-23T08:17:49.585Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육성재, 제대 후 '금수저'로 뜨는 회심의 첫술]]></title>
+        <id>https://v.daum.net/v/20220923165545546</id>
+        <link href="https://v.daum.net/v/20220923165545546"/>
+        <updated>2022-09-23T08:17:49.586Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재·이종원 운명 바뀌는 '금수저'..젊은 시너지로 대박 조준]]></title>
         <id>https://v.daum.net/v/20220923162515719</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220923160538232"/>
         <updated>2022-09-23T07:29:34.789Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 최원영 "육성재와 안성기·박중훈처럼 '투캅스' 찍고 싶어"]]></title>
-        <id>https://v.daum.net/v/20220923160326159</id>
-        <link href="https://v.daum.net/v/20220923160326159"/>
-        <updated>2022-09-23T07:29:34.789Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육성재 "복귀작 '금수저', 내겐 2022년..열정 쏟아부었다"]]></title>
-        <id>https://v.daum.net/v/20220923160230120</id>
-        <link href="https://v.daum.net/v/20220923160230120"/>
-        <updated>2022-09-23T07:29:34.790Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
