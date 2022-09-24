@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-24T19:11:02.118Z</updated>
+    <updated>2022-09-24T20:13:41.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[자폐 변호사, 빅마우스도 있는데 '천원짜리' 변호사는 또 처음 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20220925045049618</id>
+        <link href="https://v.daum.net/v/20220925045049618"/>
+        <updated>2022-09-24T20:13:33.869Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['디 엠파이어' 안재욱, 제자와 파격 불륜..김선아, 대권 나설까? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20220925011502499</id>
@@ -100,13 +107,6 @@
         <id>https://v.daum.net/v/20220924231658146</id>
         <link href="https://v.daum.net/v/20220924231658146"/>
         <updated>2022-09-24T15:12:52.598Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디 엠파이어' 김선아, 주세빈과 안재욱 두고 신경전 "오늘은 양보 안돼" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20220924231343141</id>
-        <link href="https://v.daum.net/v/20220924231343141"/>
-        <updated>2022-09-24T15:12:52.602Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
