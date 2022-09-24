@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-24T09:14:03.057Z</updated>
+    <updated>2022-09-24T10:13:33.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민, 리어카 끌고 등장..아수라장 무슨 일?]]></title>
+        <id>https://v.daum.net/v/20220924184222210</id>
+        <link href="https://v.daum.net/v/20220924184222210"/>
+        <updated>2022-09-24T10:13:25.192Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아 VS. 김정, 피 튀기는 법복 가족 자매대결]]></title>
         <id>https://v.daum.net/v/20220924175844802</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220924143412836</id>
         <link href="https://v.daum.net/v/20220924143412836"/>
         <updated>2022-09-24T05:40:43.482Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천원짜리 변호사' 쓰리피스 체크수트 입은 남궁민, 리어카 라이더 변신]]></title>
-        <id>https://v.daum.net/v/20220924140736641</id>
-        <link href="https://v.daum.net/v/20220924140736641"/>
-        <updated>2022-09-24T05:40:43.495Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
