@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-25T10:14:41.361Z</updated>
+    <updated>2022-09-25T11:11:08.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김고은X위하준, 드디어 싱가포르 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20220925201046936</id>
+        <link href="https://v.daum.net/v/20220925201046936"/>
+        <updated>2022-09-25T11:11:01.023Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우, '약물 의혹' 수영 금메달리스트 문유강 압박..일촉즉발 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20220925184329061</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20220925144521465"/>
         <updated>2022-09-25T06:19:16.168Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 육성재, 본투비 금수저 인생 쟁취..몰입도 높인 열연 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20220925142314984</id>
-        <link href="https://v.daum.net/v/20220925142314984"/>
-        <updated>2022-09-25T05:34:12.386Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
