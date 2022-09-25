@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-25T08:16:30.663Z</updated>
+    <updated>2022-09-25T09:14:04.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진우, 남궁민과 차진 티키타카..한국판 셜록x왓슨 콤비네]]></title>
+        <id>https://v.daum.net/v/20220925173716867</id>
+        <link href="https://v.daum.net/v/20220925173716867"/>
+        <updated>2022-09-25T09:13:57.055Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권율, 이유미에 접근..경계 가득 대면]]></title>
         <id>https://v.daum.net/v/20220925170232161</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220925134231098"/>
         <updated>2022-09-25T05:34:12.400Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, 안재욱 불륜녀 주세빈 도발에 보인 반응]]></title>
-        <id>https://v.daum.net/v/20220925134230097</id>
-        <link href="https://v.daum.net/v/20220925134230097"/>
-        <updated>2022-09-25T05:34:12.400Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
