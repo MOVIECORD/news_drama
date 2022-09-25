@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-25T16:16:44.051Z</updated>
+    <updated>2022-09-25T17:18:13.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김상호·김태우·최광일, 신뢰 더하는 막강 라인업 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20220926020009080</id>
+        <link href="https://v.daum.net/v/20220926020009080"/>
+        <updated>2022-09-25T17:18:06.387Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은, '작은아씨들' 충격 엔딩에 "다음주까지 좀만 기다려주세요" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20220926010505970</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20220925225735370"/>
         <updated>2022-09-25T14:11:19.511Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은아씨들' 김고은, 위하준 배신 후 도주→배후=엄지원 알았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20220925224612248</id>
-        <link href="https://v.daum.net/v/20220925224612248"/>
-        <updated>2022-09-25T14:11:19.517Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
