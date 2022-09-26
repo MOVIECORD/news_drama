@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-26T07:32:46.709Z</updated>
+    <updated>2022-09-26T08:18:54.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피투성이 이승기vs눈물 이세영, 절절한 투샷 공개]]></title>
+        <id>https://v.daum.net/v/20220926170410511</id>
+        <link href="https://v.daum.net/v/20220926170410511"/>
+        <updated>2022-09-26T08:18:47.404Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승기 측 "'법대로 사랑하라' 김정호 눈빛→목소리 체화 위해 노력"]]></title>
+        <id>https://v.daum.net/v/20220926165627222</id>
+        <link href="https://v.daum.net/v/20220926165627222"/>
+        <updated>2022-09-26T08:18:47.405Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['디 엠파이어' 김선아, 불륜·막장도 휘어잡는 카리스마]]></title>
         <id>https://v.daum.net/v/20220926162932107</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220926144045449"/>
         <updated>2022-09-26T06:06:39.906Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디 엠파이어' 김선아 3년만 안방 복귀, 시청자 압도하는 카리스마]]></title>
-        <id>https://v.daum.net/v/20220926143048080</id>
-        <link href="https://v.daum.net/v/20220926143048080"/>
-        <updated>2022-09-26T06:06:39.909Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 한채아, 모성애 연기로 보여준 연기력..깊은 울림]]></title>
-        <id>https://v.daum.net/v/20220926142832993</id>
-        <link href="https://v.daum.net/v/20220926142832993"/>
-        <updated>2022-09-26T06:06:39.913Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
