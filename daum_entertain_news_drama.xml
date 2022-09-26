@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-26T20:15:18.755Z</updated>
+    <updated>2022-09-26T21:14:19.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도경수·이세희 '진검승부', 코믹→휴먼 캐릭터 티저 공개]]></title>
+        <id>https://v.daum.net/v/20220927060010154</id>
+        <link href="https://v.daum.net/v/20220927060010154"/>
+        <updated>2022-09-26T21:14:11.243Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 김주헌 "최도하를 사이코패스라고 생각하지 않았다"]]></title>
+        <id>https://v.daum.net/v/20220927060003129</id>
+        <link href="https://v.daum.net/v/20220927060003129"/>
+        <updated>2022-09-26T21:14:11.243Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이다희·최시원 "너한테 설렌다고?" 캐릭터 포스터 공개]]></title>
         <id>https://v.daum.net/v/20220927040007777</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220926195121246</id>
         <link href="https://v.daum.net/v/20220926195121246"/>
         <updated>2022-09-26T11:11:42.544Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도경수→이세희, 평범함NO 차원 다른 똘기+독보적 캐릭터 다 있다]]></title>
-        <id>https://v.daum.net/v/20220926193944048</id>
-        <link href="https://v.daum.net/v/20220926193944048"/>
-        <updated>2022-09-26T11:11:42.547Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 서하준, 이승연에 父 유서 확인 "한 사람 필적"]]></title>
-        <id>https://v.daum.net/v/20220926192924912</id>
-        <link href="https://v.daum.net/v/20220926192924912"/>
-        <updated>2022-09-26T11:11:42.559Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
