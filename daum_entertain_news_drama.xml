@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-28T21:13:15.428Z</updated>
+    <updated>2022-09-28T22:14:00.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 초히트 드라마 줄줄이 한국 온다]]></title>
+        <id>https://v.daum.net/v/20220929063018549</id>
+        <link href="https://v.daum.net/v/20220929063018549"/>
+        <updated>2022-09-28T22:13:49.353Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱, 지난 날의 오해 푼 원지안에 제안.."진짜 가족 할래?"]]></title>
         <id>https://v.daum.net/v/20220929060213276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220928173015347"/>
         <updated>2022-09-28T09:21:08.848Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도경수의 '진검승부'가 기대되는 이유]]></title>
-        <id>https://v.daum.net/v/20220928171105724</id>
-        <link href="https://v.daum.net/v/20220928171105724"/>
-        <updated>2022-09-28T08:19:53.180Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
