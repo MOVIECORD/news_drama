@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-29T12:27:23.805Z</updated>
+    <updated>2022-09-29T13:46:54.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빅마우스' 옥자연 "결말 오해 소지 있어, 정신병원 감금 후 이야기 有"]]></title>
+        <id>https://v.daum.net/v/20220929220102233</id>
+        <link href="https://v.daum.net/v/20220929220102233"/>
+        <updated>2022-09-29T13:46:45.578Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가우스전자' 곽동연·고성희, 극과 극 면접기..지금까지 못 본 K-오피스 라이프]]></title>
+        <id>https://v.daum.net/v/20220929213414658</id>
+        <link href="https://v.daum.net/v/20220929213414658"/>
+        <updated>2022-09-29T13:46:45.578Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['으라차차' 박해미, 암 극복한 차민지 새출발 응원→남상지, 임신 경사]]></title>
         <id>https://v.daum.net/v/20220929210530077</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220929173015536"/>
         <updated>2022-09-29T09:20:37.106Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 눈에 콩깍지' 백성현, 결혼·출산이 불러온 변화 "이해도 높아져"]]></title>
-        <id>https://v.daum.net/v/20220929171007804</id>
-        <link href="https://v.daum.net/v/20220929171007804"/>
-        <updated>2022-09-29T08:20:48.756Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정일우의 진짜 '굿 잡'.."좋은 배우, 인생의 목표"]]></title>
-        <id>https://v.daum.net/v/20220929170133527</id>
-        <link href="https://v.daum.net/v/20220929170133527"/>
-        <updated>2022-09-29T08:20:48.757Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
