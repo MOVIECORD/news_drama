@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-09-30T15:17:09.185Z</updated>
+    <updated>2022-09-30T16:22:31.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 김지은, 남궁민 디스 "파마머리 제일 이상해"]]></title>
+        <id>https://v.daum.net/v/20221001003044813</id>
+        <link href="https://v.daum.net/v/20221001003044813"/>
+        <updated>2022-09-30T16:22:23.062Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천원짜리 변호사' 박진우 "남궁민 재수없지만 해결하지 못한 사건 없어"]]></title>
         <id>https://v.daum.net/v/20220930235033516</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220930204010795"/>
         <updated>2022-09-30T12:29:50.181Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이중문, 母 나영희 배신하고 이현진 밑으로..연민지, 의식 찾았다]]></title>
-        <id>https://v.daum.net/v/20220930203851775</id>
-        <link href="https://v.daum.net/v/20220930203851775"/>
-        <updated>2022-09-30T12:29:50.181Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
