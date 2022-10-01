@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-01T05:56:56.184Z</updated>
+    <updated>2022-10-01T06:33:23.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 남궁민, 흥행 타율 100% 천억원짜리 존재감]]></title>
+        <id>https://v.daum.net/v/20221001150007726</id>
+        <link href="https://v.daum.net/v/20221001150007726"/>
+        <updated>2022-10-01T06:33:15.447Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이하나-임주환, 재회한 전 연인의 어색함]]></title>
+        <id>https://v.daum.net/v/20221001145731688</id>
+        <link href="https://v.daum.net/v/20221001145731688"/>
+        <updated>2022-10-01T06:33:15.448Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재, 금수저 정체 들킬까 노심초사..이종원에 빼앗길 위기]]></title>
         <id>https://v.daum.net/v/20221001141713306</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221001112238693"/>
         <updated>2022-10-01T04:24:13.118Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이중옥, '유니콘' 종영 소감 "깔깔 웃은 기억만 남았다"]]></title>
-        <id>https://v.daum.net/v/20221001111505600</id>
-        <link href="https://v.daum.net/v/20221001111505600"/>
-        <updated>2022-10-01T04:24:13.120Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병' 남태우, 내년 1월 장가간다]]></title>
-        <id>https://v.daum.net/v/20221001110313416</id>
-        <link href="https://v.daum.net/v/20221001110313416"/>
-        <updated>2022-10-01T04:24:13.120Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
