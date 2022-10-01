@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-01T10:14:00.418Z</updated>
+    <updated>2022-10-01T11:11:28.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민이 왜 그럴까?..희대의 살인범 변호 '어째서']]></title>
+        <id>https://v.daum.net/v/20221001194712791</id>
+        <link href="https://v.daum.net/v/20221001194712791"/>
+        <updated>2022-10-01T11:11:21.525Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멜로가체질'→'유니콘..허준석, 존재감 숨길 수 없어!]]></title>
         <id>https://v.daum.net/v/20221001174832698</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221001140822170</id>
         <link href="https://v.daum.net/v/20221001140822170"/>
         <updated>2022-10-01T05:56:47.805Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 육성재, 정체 들킬까 노심초사..이종원과 신경전]]></title>
-        <id>https://v.daum.net/v/20221001140407129</id>
-        <link href="https://v.daum.net/v/20221001140407129"/>
-        <updated>2022-10-01T05:56:47.806Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
