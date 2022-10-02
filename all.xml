@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-02T05:42:51.002Z</updated>
+    <updated>2022-10-02T06:24:17.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[임주환, 이하나에 무릎 꿇고 반지 선물..혹시 프러포즈? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221002150855189</id>
+        <link href="https://v.daum.net/v/20221002150855189"/>
+        <updated>2022-10-02T06:24:09.208Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서범준, K팝부터 K드라마까지 접수한 '선데이 프린스' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221002143800530</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221002111708824"/>
         <updated>2022-10-02T04:11:21.167Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남전쟁 닮은 '작은 아씨들', 푸른 난초는 네이팜탄·고엽제? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221002111024710</id>
-        <link href="https://v.daum.net/v/20221002111024710"/>
-        <updated>2022-10-02T04:11:21.175Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
