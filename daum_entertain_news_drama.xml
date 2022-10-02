@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-02T21:12:23.126Z</updated>
+    <updated>2022-10-02T22:13:20.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임주환♥이하나, 가짜 연애+첫사랑 부활 프로젝트 시작]]></title>
+        <id>https://v.daum.net/v/20221003065856998</id>
+        <link href="https://v.daum.net/v/20221003065856998"/>
+        <updated>2022-10-02T22:13:12.287Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['작은아씨들' 엄기준, 너무나도 익숙한 최후..아쉬움 남겼다]]></title>
+        <id>https://v.daum.net/v/20221003065639987</id>
+        <link href="https://v.daum.net/v/20221003065639987"/>
+        <updated>2022-10-02T22:13:12.288Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재, 정채연에 친구 이상 감정 고백.."약혼도 안 깰거야"]]></title>
         <id>https://v.daum.net/v/20221003060201284</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221002235352792"/>
         <updated>2022-10-02T15:14:04.218Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, 안재욱-주세빈과 삼자대면 "기분이 엿같아"]]></title>
-        <id>https://v.daum.net/v/20221002225115480</id>
-        <link href="https://v.daum.net/v/20221002225115480"/>
-        <updated>2022-10-02T14:14:16.867Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 김고은 700억 사라졌다..엄기준, 푸른 난초 들고 사망]]></title>
-        <id>https://v.daum.net/v/20221002225001463</id>
-        <link href="https://v.daum.net/v/20221002225001463"/>
-        <updated>2022-10-02T14:14:16.869Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
