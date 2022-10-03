@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-03T20:16:24.330Z</updated>
+    <updated>2022-10-03T21:14:05.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강별, 자신 구하려다 목숨 잃은 조유신에 오열.."나 살리려다 이렇게 됐다"]]></title>
+        <id>https://v.daum.net/v/20221004060202450</id>
+        <link href="https://v.daum.net/v/20221004060202450"/>
+        <updated>2022-10-03T21:13:58.025Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치얼업' 한지현 남친, "헤어지고 비슷한 사람 만날 것"..한지현, 남친의 진심 알고 '충격']]></title>
         <id>https://v.daum.net/v/20221004020000944</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221003145008899"/>
         <updated>2022-10-03T06:27:03.712Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 도경수, 듣지도 보지도 못했던 꼴통 검사]]></title>
-        <id>https://v.daum.net/v/20221003143331416</id>
-        <link href="https://v.daum.net/v/20221003143331416"/>
-        <updated>2022-10-03T05:38:42.516Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
