@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-03T15:17:39.097Z</updated>
+    <updated>2022-10-03T16:24:21.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['우영우' 박은빈, 미국 크리틱스초이스 행사서 '라이징스타'상 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221004003029645</id>
+        <link href="https://v.daum.net/v/20221004003029645"/>
+        <updated>2022-10-03T16:24:13.489Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배누리, 이호재에게 예의없는 편의점 도둑 단숨에 제압.."어른한테 주둥이 닫으라니" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221003211002318</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221003135339728"/>
         <updated>2022-10-03T05:38:42.517Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄지원이라는, 이 문제적 인물이 다시 보이기 시작했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221003134337613</id>
-        <link href="https://v.daum.net/v/20221003134337613"/>
-        <updated>2022-10-03T04:45:40.695Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
