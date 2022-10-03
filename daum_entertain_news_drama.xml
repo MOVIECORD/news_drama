@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-03T01:11:27.155Z</updated>
+    <updated>2022-10-03T03:23:56.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 오하늬, 애교 만점X러블리 한도 초과..본격 활약 시동]]></title>
+        <id>https://v.daum.net/v/20221003113104900</id>
+        <link href="https://v.daum.net/v/20221003113104900"/>
+        <updated>2022-10-03T03:23:49.588Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 김지안, 부잣집 딸 변신..김소은 남친과 미묘한 기류]]></title>
+        <id>https://v.daum.net/v/20221003110323352</id>
+        <link href="https://v.daum.net/v/20221003110323352"/>
+        <updated>2022-10-03T03:23:49.592Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['남궁민'이 무게감을 내려놓으면 벌어지는 일]]></title>
         <id>https://v.daum.net/v/20221003100828329</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221003084301020"/>
         <updated>2022-10-03T01:11:18.082Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고두심, "몸빼 벗고 '나 아직 안 죽었다' 보여드리게 됐다"]]></title>
-        <id>https://v.daum.net/v/20221003083832968</id>
-        <link href="https://v.daum.net/v/20221003083832968"/>
-        <updated>2022-10-03T01:11:18.083Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준, 정상에서 선택한 죽음→증발한 700억 원]]></title>
-        <id>https://v.daum.net/v/20221003083614938</id>
-        <link href="https://v.daum.net/v/20221003083614938"/>
-        <updated>2022-10-03T01:11:18.084Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
