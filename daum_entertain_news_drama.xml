@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-04T11:13:19.424Z</updated>
+    <updated>2022-10-04T12:30:13.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내 눈에 콩깍지' 백성현, 배누리와 강제로 번호교환.. 인연의 시작]]></title>
+        <id>https://v.daum.net/v/20221004210330514</id>
+        <link href="https://v.daum.net/v/20221004210330514"/>
+        <updated>2022-10-04T12:30:05.492Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권상우 "배우로서 가속과 감속의 밸런스 조절하며 활동 할 것"]]></title>
+        <id>https://v.daum.net/v/20221004210140472</id>
+        <link href="https://v.daum.net/v/20221004210140472"/>
+        <updated>2022-10-04T12:30:05.492Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 공다임, 이현진 간호하는 차예련에 "가만 안 둬"]]></title>
+        <id>https://v.daum.net/v/20221004203009953</id>
+        <link href="https://v.daum.net/v/20221004203009953"/>
+        <updated>2022-10-04T12:30:05.493Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이현진, 공다임 말리려다 교통사고로 의식불명..이휘향, 복수 다짐]]></title>
+        <id>https://v.daum.net/v/20221004202103823</id>
+        <link href="https://v.daum.net/v/20221004202103823"/>
+        <updated>2022-10-04T12:30:05.493Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면' 이휘향, 의식 잃은 공다임에 "병원 보내야 할 환자야"]]></title>
+        <id>https://v.daum.net/v/20221004201506750</id>
+        <link href="https://v.daum.net/v/20221004201506750"/>
+        <updated>2022-10-04T12:30:05.493Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 집' 서하준, 조유신이 남긴 증거 찾았다..정헌X이승연에 분노]]></title>
         <id>https://v.daum.net/v/20221004195721453</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20221004174230972"/>
         <updated>2022-10-04T09:19:22.267Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본팩토리, 투니드엔터테인먼트와 손잡았다..'미래의 골동품 가게' 영상화]]></title>
-        <id>https://v.daum.net/v/20221004173040593</id>
-        <link href="https://v.daum.net/v/20221004173040593"/>
-        <updated>2022-10-04T09:19:22.267Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들'·김고은, 나란히 TV화제성 1위..'금수저'·'천변' 맹추격]]></title>
-        <id>https://v.daum.net/v/20221004171853168</id>
-        <link href="https://v.daum.net/v/20221004171853168"/>
-        <updated>2022-10-04T08:20:47.646Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위기의 X' 권상우 "손태영과 결혼 후 광고 뚝..욕심서 해방되니 일 즐거워"]]></title>
-        <id>https://v.daum.net/v/20221004170752790</id>
-        <link href="https://v.daum.net/v/20221004170752790"/>
-        <updated>2022-10-04T08:20:47.646Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위기의 X' 권상우 "안 웃기면 은퇴 약속, 미뤄도 될 듯..연기 잘한다 반응 처음"]]></title>
-        <id>https://v.daum.net/v/20221004170155609</id>
-        <link href="https://v.daum.net/v/20221004170155609"/>
-        <updated>2022-10-04T08:20:47.651Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권상우 "제2의 이정재, 조만간 직접 제작한 영화 선보일 것"]]></title>
-        <id>https://v.daum.net/v/20221004170139606</id>
-        <link href="https://v.daum.net/v/20221004170139606"/>
-        <updated>2022-10-04T08:20:47.651Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
