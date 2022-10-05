@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-05T18:28:23.342Z</updated>
+    <updated>2022-10-05T19:23:14.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신하균·한지민·이정은·정진영, 눈빛 올킬 비하인드컷 공개]]></title>
+        <id>https://v.daum.net/v/20221006040011507</id>
+        <link href="https://v.daum.net/v/20221006040011507"/>
+        <updated>2022-10-05T19:23:06.410Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임주환, 가족 부양하는 톱스타 그 자체]]></title>
         <id>https://v.daum.net/v/20221006030008154</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221005192952023"/>
         <updated>2022-10-05T11:15:41.037Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스맨파' PD "보아, 심사 정확하게 해줬다"③]]></title>
-        <id>https://v.daum.net/v/20221005190208200</id>
-        <link href="https://v.daum.net/v/20221005190208200"/>
-        <updated>2022-10-05T10:15:47.481Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
