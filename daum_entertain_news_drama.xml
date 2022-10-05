@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-05T11:15:50.152Z</updated>
+    <updated>2022-10-05T12:27:14.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내 눈에 콩깍지' 배누리, 백성현에 마지막 인사 번복 "도와줘요"]]></title>
+        <id>https://v.daum.net/v/20221005210500885</id>
+        <link href="https://v.daum.net/v/20221005210500885"/>
+        <updated>2022-10-05T12:27:07.372Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['황금가면', 치부책 손에 든 나영희 → 차예련 "죗값 치러야 해"]]></title>
+        <id>https://v.daum.net/v/20221005204220221</id>
+        <link href="https://v.daum.net/v/20221005204220221"/>
+        <updated>2022-10-05T12:27:07.376Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연민지, 차예련에게 사죄X오해 풀었다..선우은숙, 자수 권유]]></title>
+        <id>https://v.daum.net/v/20221005202201487</id>
+        <link href="https://v.daum.net/v/20221005202201487"/>
+        <updated>2022-10-05T12:27:07.376Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황금가면' 황동주, 이휘향 살리려 거짓말.."이현진 살았어"]]></title>
         <id>https://v.daum.net/v/20221005200547943</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221005170501177"/>
         <updated>2022-10-05T08:18:42.834Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영옥 '경악', 지수원 '오열', 최수린 '망연자실'..'태풍의 신부' 폭풍전야]]></title>
-        <id>https://v.daum.net/v/20221005170258064</id>
-        <link href="https://v.daum.net/v/20221005170258064"/>
-        <updated>2022-10-05T08:18:42.838Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어쩌다 전원일기' 알잘딱깔센 로맨스, 뻔해도 사랑할 수밖에]]></title>
-        <id>https://v.daum.net/v/20221005170028957</id>
-        <link href="https://v.daum.net/v/20221005170028957"/>
-        <updated>2022-10-05T08:18:42.838Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의신부' 지수원, 피 묻은 손으로 폭풍오열한 이유]]></title>
-        <id>https://v.daum.net/v/20221005165749812</id>
-        <link href="https://v.daum.net/v/20221005165749812"/>
-        <updated>2022-10-05T08:18:42.841Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
