@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-06T20:15:28.099Z</updated>
+    <updated>2022-10-06T21:13:32.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 존' PD "유재석, 피곤하지만 방송에 진심..아직 결별할 생각 없다"]]></title>
+        <id>https://v.daum.net/v/20221007060003063</id>
+        <link href="https://v.daum.net/v/20221007060003063"/>
+        <updated>2022-10-06T21:13:25.158Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 집' 이승연, 서하준 살해 시도→子 정헌 사고로 의식불명]]></title>
         <id>https://v.daum.net/v/20221006221009623</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221006171829386"/>
         <updated>2022-10-06T09:20:23.236Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['깨싶페어' 김지웅X윤서빈, BL웹드 '풍덕빌라'서 재회]]></title>
-        <id>https://v.daum.net/v/20221006162518609</id>
-        <link href="https://v.daum.net/v/20221006162518609"/>
-        <updated>2022-10-06T08:18:00.612Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
