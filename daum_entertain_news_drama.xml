@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-06T12:29:26.122Z</updated>
+    <updated>2022-10-06T13:49:12.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 집' 이승연, 서하준 살해 시도→子 정헌 사고로 의식불명]]></title>
+        <id>https://v.daum.net/v/20221006221009623</id>
+        <link href="https://v.daum.net/v/20221006221009623"/>
+        <updated>2022-10-06T13:49:04.145Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 눈에 콩깍지' 배누리, 정수한과 관계 오해한 백성현에 "남친 아냐"]]></title>
         <id>https://v.daum.net/v/20221006205500344</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221006162518609"/>
         <updated>2022-10-06T08:18:00.612Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김국희 '연예인 매니저로 살아남기' 출연, 특급 인재 매니저된다]]></title>
-        <id>https://v.daum.net/v/20221006162224426</id>
-        <link href="https://v.daum.net/v/20221006162224426"/>
-        <updated>2022-10-06T08:18:00.612Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
