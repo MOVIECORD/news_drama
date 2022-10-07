@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-07T09:18:35.315Z</updated>
+    <updated>2022-10-07T10:17:47.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김혜수, 만장일치 캐스팅..20년만 사극에 쏠리는 '기대']]></title>
+        <id>https://v.daum.net/v/20221007185007696</id>
+        <link href="https://v.daum.net/v/20221007185007696"/>
+        <updated>2022-10-07T10:17:38.266Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수 20년만 TV 사극, 안 할 이유가 없었다던 '슈룹']]></title>
+        <id>https://v.daum.net/v/20221007182118052</id>
+        <link href="https://v.daum.net/v/20221007182118052"/>
+        <updated>2022-10-07T10:17:38.267Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['백일의 낭군님'→'갯마을 차차차'..조한철, 또 tvN 합류 '스틸러' 확정]]></title>
         <id>https://v.daum.net/v/20221007181608873</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221007165019367"/>
         <updated>2022-10-07T08:17:09.354Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수x김해숙, 10년만 조우에 박수까지.."희열 느껴져"]]></title>
-        <id>https://v.daum.net/v/20221007165009364</id>
-        <link href="https://v.daum.net/v/20221007165009364"/>
-        <updated>2022-10-07T08:17:09.357Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 채동현 목격한 정은지, 끈질긴 추적 끝 범인 잡나]]></title>
-        <id>https://v.daum.net/v/20221007164626241</id>
-        <link href="https://v.daum.net/v/20221007164626241"/>
-        <updated>2022-10-07T08:17:09.359Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
