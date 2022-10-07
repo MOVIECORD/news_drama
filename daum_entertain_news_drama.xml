@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-07T18:22:10.189Z</updated>
+    <updated>2022-10-07T19:16:37.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 남궁민, "나는 박성준이 범인이 아니라고 믿어"..한동희 향한 의미심장 미소]]></title>
+        <id>https://v.daum.net/v/20221008035701567</id>
+        <link href="https://v.daum.net/v/20221008035701567"/>
+        <updated>2022-10-07T19:16:30.058Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천원짜리 변호사' 박성준, 최대훈에 자백 "母 죽였다"]]></title>
         <id>https://v.daum.net/v/20221008005713094</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221007205001363"/>
         <updated>2022-10-07T12:28:43.238Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이중문, 나영희 대신 연민지 차에 치였다..차예련 "내가 서준이 잘 키울게"]]></title>
-        <id>https://v.daum.net/v/20221007203501937</id>
-        <link href="https://v.daum.net/v/20221007203501937"/>
-        <updated>2022-10-07T12:28:43.242Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
