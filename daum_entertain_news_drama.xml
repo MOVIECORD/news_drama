@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-08T04:35:49.047Z</updated>
+    <updated>2022-10-08T05:26:31.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연X하석진, 신부 살해범 확인할 증인 확보]]></title>
+        <id>https://v.daum.net/v/20221008142520102</id>
+        <link href="https://v.daum.net/v/20221008142520102"/>
+        <updated>2022-10-08T05:26:23.052Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금수저' 육성재♥정채연, 달달한 입맞춤에도 불안한 모습]]></title>
+        <id>https://v.daum.net/v/20221008141254947</id>
+        <link href="https://v.daum.net/v/20221008141254947"/>
+        <updated>2022-10-08T05:26:23.069Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['디 엠파이어' 김선아가 용의자 취조하는 법, 김원해와 기싸움]]></title>
+        <id>https://v.daum.net/v/20221008141107917</id>
+        <link href="https://v.daum.net/v/20221008141107917"/>
+        <updated>2022-10-08T05:26:23.069Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금수저' 육성재X정채연, 입맞춤 스틸 포착 '수저계급론' 초월 로맨스 불씨]]></title>
+        <id>https://v.daum.net/v/20221008140645870</id>
+        <link href="https://v.daum.net/v/20221008140645870"/>
+        <updated>2022-10-08T05:26:23.069Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수의 입은 김고은 '충격'..심각한 남지현 vs 비릿한 미소 엄지원]]></title>
         <id>https://v.daum.net/v/20221008131325279</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221008101942528"/>
         <updated>2022-10-08T03:26:20.140Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 지금부터 보여줄게"..주세빈, 안재욱 이별통보에 '이성상실']]></title>
-        <id>https://v.daum.net/v/20221008100645414</id>
-        <link href="https://v.daum.net/v/20221008100645414"/>
-        <updated>2022-10-08T03:26:20.140Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은아씨들' 엄지원의 복수전, 법정에 선 김고은]]></title>
-        <id>https://v.daum.net/v/20221008100637412</id>
-        <link href="https://v.daum.net/v/20221008100637412"/>
-        <updated>2022-10-08T03:26:20.141Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육성재, 父 사고에 다시 흙수저 삶 선택..정채연과 관계 먹구름 위기]]></title>
-        <id>https://v.daum.net/v/20221008100248370</id>
-        <link href="https://v.daum.net/v/20221008100248370"/>
-        <updated>2022-10-08T01:06:08.413Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민 장가가는 날 '천원짜리 변호사' 최고 시청률 '겹경사']]></title>
-        <id>https://v.daum.net/v/20221008095731259</id>
-        <link href="https://v.daum.net/v/20221008095731259"/>
-        <updated>2022-10-08T01:06:08.418Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
