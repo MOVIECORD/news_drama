@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-08T05:26:31.089Z</updated>
+    <updated>2022-10-08T06:19:04.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금수저' 연우, 텐션 쭉 끌어올린 이 구역의 키 플레이어]]></title>
+        <id>https://v.daum.net/v/20221008145949511</id>
+        <link href="https://v.daum.net/v/20221008145949511"/>
+        <updated>2022-10-08T06:18:56.460Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["박수홍 母와 관계회복 원한다?..1년5개월 전 발언, 이후 언급 無"]]></title>
+        <id>https://v.daum.net/v/20221008144833392</id>
+        <link href="https://v.daum.net/v/20221008144833392"/>
+        <updated>2022-10-08T06:18:56.463Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천변' 남궁민, 유쾌하다가 진중하다가..또 보고 싶은 감정의 저울질]]></title>
+        <id>https://v.daum.net/v/20221008144258302</id>
+        <link href="https://v.daum.net/v/20221008144258302"/>
+        <updated>2022-10-08T06:18:56.463Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매가' 이하나X임주환, 요트 위 초밀착 블루스]]></title>
+        <id>https://v.daum.net/v/20221008143418216</id>
+        <link href="https://v.daum.net/v/20221008143418216"/>
+        <updated>2022-10-08T06:18:56.464Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연X하석진, 신부 살해범 확인할 증인 확보]]></title>
         <id>https://v.daum.net/v/20221008142520102</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221008113113222"/>
         <updated>2022-10-08T03:26:20.127Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가우스전자' 곽동연, 짝사랑 연기로 눈물 콧물 다 뽑은 '하드캐리']]></title>
-        <id>https://v.daum.net/v/20221008112806199</id>
-        <link href="https://v.daum.net/v/20221008112806199"/>
-        <updated>2022-10-08T03:26:20.127Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼' 고원희, 면사포 쓴 순백의 신부.."건강한 가정 되도록" 결혼 소감]]></title>
-        <id>https://v.daum.net/v/20221008110125964</id>
-        <link href="https://v.daum.net/v/20221008110125964"/>
-        <updated>2022-10-08T03:26:20.129Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환승연애2' 제작진 "정현규 최초 유포자→출연자 명예훼손 고소"]]></title>
-        <id>https://v.daum.net/v/20221008105245866</id>
-        <link href="https://v.daum.net/v/20221008105245866"/>
-        <updated>2022-10-08T03:26:20.139Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황금가면' 이현진 "분에 넘치는 사랑 받았다" 종영 소감]]></title>
-        <id>https://v.daum.net/v/20221008101942528</id>
-        <link href="https://v.daum.net/v/20221008101942528"/>
-        <updated>2022-10-08T03:26:20.140Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
