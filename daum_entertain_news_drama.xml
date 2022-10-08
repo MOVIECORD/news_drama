@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-08T03:26:27.585Z</updated>
+    <updated>2022-10-08T04:35:49.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수의 입은 김고은 '충격'..심각한 남지현 vs 비릿한 미소 엄지원]]></title>
+        <id>https://v.daum.net/v/20221008131325279</id>
+        <link href="https://v.daum.net/v/20221008131325279"/>
+        <updated>2022-10-08T04:35:41.164Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어째서 '금수저' 물고도 '천원짜리' 앞에서 꼼짝 못할까]]></title>
+        <id>https://v.daum.net/v/20221008131008224</id>
+        <link href="https://v.daum.net/v/20221008131008224"/>
+        <updated>2022-10-08T04:35:41.164Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천원짜리' 이청아 등장, 수임료 천원 비밀 담긴 과거사 공개]]></title>
+        <id>https://v.daum.net/v/20221008130310136</id>
+        <link href="https://v.daum.net/v/20221008130310136"/>
+        <updated>2022-10-08T04:35:41.164Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이하나, 임주환에 질투 유발! 흥미 UP!]]></title>
+        <id>https://v.daum.net/v/20221008124056937</id>
+        <link href="https://v.daum.net/v/20221008124056937"/>
+        <updated>2022-10-08T04:35:41.167Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금수저' 가난에 쫓겨 구석에 몰린 육성재의 희망은 소생할까?]]></title>
         <id>https://v.daum.net/v/20221008121611675</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221008095731259"/>
         <updated>2022-10-08T01:06:08.418Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 추리력 빛났다..미스터리 사건 수수께끼 해결 '최고 17.6%']]></title>
-        <id>https://v.daum.net/v/20221008095055205</id>
-        <link href="https://v.daum.net/v/20221008095055205"/>
-        <updated>2022-10-08T01:06:08.418Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천원짜리 변호사' 남궁민,살인사건 수수께끼 풀어 17.6% 시청률 '최고']]></title>
-        <id>https://v.daum.net/v/20221008092402953</id>
-        <link href="https://v.daum.net/v/20221008092402953"/>
-        <updated>2022-10-08T01:06:08.419Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아무도 믿지 말아요" 하석진, 피투성이..옥택연 손길 뿌리쳤다]]></title>
-        <id>https://v.daum.net/v/20221008083602486</id>
-        <link href="https://v.daum.net/v/20221008083602486"/>
-        <updated>2022-10-08T01:06:08.420Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가' 이하나, 의도치 않게 임주환 질투심 유발]]></title>
-        <id>https://v.daum.net/v/20221008082458405</id>
-        <link href="https://v.daum.net/v/20221008082458405"/>
-        <updated>2022-10-08T01:06:08.421Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
