@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-09T08:17:49.693Z</updated>
+    <updated>2022-10-09T09:15:24.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 한동희, 의붓동생과의 가슴 쓰린 서사]]></title>
+        <id>https://v.daum.net/v/20221009180258141</id>
+        <link href="https://v.daum.net/v/20221009180258141"/>
+        <updated>2022-10-09T09:15:17.092Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블라인드' 오승윤, '죽음의 문자' 받고 경악..꽃미남 셰프 열연]]></title>
+        <id>https://v.daum.net/v/20221009175405023</id>
+        <link href="https://v.daum.net/v/20221009175405023"/>
+        <updated>2022-10-09T09:15:17.092Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼남매' 김지안, 양대혁에게 직진! 기습 뽀뽀→핑크빛 기류]]></title>
         <id>https://v.daum.net/v/20221009165206330</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20221009132342004</id>
         <link href="https://v.daum.net/v/20221009132342004"/>
         <updated>2022-10-09T05:05:41.772Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야금야금 추락하는 KBS 주말극, 불패의 신화 무너지나]]></title>
-        <id>https://v.daum.net/v/20221009132307990</id>
-        <link href="https://v.daum.net/v/20221009132307990"/>
-        <updated>2022-10-09T05:05:41.780Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 김고은, 원령가 난실 입성.."끝까지 휘몰아친다"]]></title>
-        <id>https://v.daum.net/v/20221009132106958</id>
-        <link href="https://v.daum.net/v/20221009132106958"/>
-        <updated>2022-10-09T05:05:41.780Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
