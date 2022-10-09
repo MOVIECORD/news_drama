@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-09T19:13:17.301Z</updated>
+    <updated>2022-10-09T20:14:51.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 김고은, 300억 받고 해피엔딩..위하준은 "또 봅시다" 이별]]></title>
+        <id>https://v.daum.net/v/20221010050106385</id>
+        <link href="https://v.daum.net/v/20221010050106385"/>
+        <updated>2022-10-09T20:14:43.913Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["가질 수 없다면 망가뜨릴 것" 주세빈, 복수극 시작하나]]></title>
         <id>https://v.daum.net/v/20221010000537667</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221009223537323"/>
         <updated>2022-10-09T14:14:27.542Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추자현·김고은 죽이려던 엄지원, 염산물에 빠져 사망]]></title>
-        <id>https://v.daum.net/v/20221009221856269</id>
-        <link href="https://v.daum.net/v/20221009221856269"/>
-        <updated>2022-10-09T13:35:31.950Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
