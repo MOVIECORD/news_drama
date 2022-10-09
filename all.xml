@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-09T06:20:28.317Z</updated>
+    <updated>2022-10-09T07:16:57.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['삼남매가 용감하게' 이하나X김소은X이유진, 분노의 술자리 포착 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221009160641802</id>
+        <link href="https://v.daum.net/v/20221009160641802"/>
+        <updated>2022-10-09T07:16:48.528Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지창욱과 말 연기 했었는데"..남태훈, '당소말' 최고의 아웃풋 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221009150533895</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221009120955287"/>
         <updated>2022-10-09T04:00:20.895Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은아씨들' 추자현, 예상 못한 생환 "반전의 반전" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221009103703036</id>
-        <link href="https://v.daum.net/v/20221009103703036"/>
-        <updated>2022-10-09T04:00:20.896Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
