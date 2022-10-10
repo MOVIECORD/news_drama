@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-10T06:48:07.630Z</updated>
+    <updated>2022-10-10T07:32:38.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 무엇을 남겼나? 작감배 美쳤습니다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221010162050816</id>
+        <link href="https://v.daum.net/v/20221010162050816"/>
+        <updated>2022-10-10T07:32:30.414Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['진검승부' 도경수가 '수목극 왕좌' 앉은 이유 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221010155520360</id>
+        <link href="https://v.daum.net/v/20221010155520360"/>
+        <updated>2022-10-10T07:32:30.422Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법대로 사랑하라' 이승기-이세영-김원해, 예측 불가 삼자대면 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221010150716421</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20221010130637575"/>
         <updated>2022-10-10T04:10:00.836Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치얼업' 한지현X김현진, 손잡기→팔짱 2단 스킨십 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221010130544569</id>
-        <link href="https://v.daum.net/v/20221010130544569"/>
-        <updated>2022-10-10T04:10:00.838Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 남지현 "답답한 캐릭터? 시청자 호불호 예상" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221010130155525</id>
-        <link href="https://v.daum.net/v/20221010130155525"/>
-        <updated>2022-10-10T04:10:00.840Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
