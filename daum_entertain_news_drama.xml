@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-10T11:12:59.486Z</updated>
+    <updated>2022-10-10T12:31:36.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영이, 박신우 병원 일자리 제안 거절..최소은, 가족에게 서운함 폭발]]></title>
+        <id>https://v.daum.net/v/20221010212801476</id>
+        <link href="https://v.daum.net/v/20221010212801476"/>
+        <updated>2022-10-10T12:31:28.580Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조수미 '커튼콜' OST 참여, 시한부 고두심 테마곡 부른다]]></title>
+        <id>https://v.daum.net/v/20221010211753421</id>
+        <link href="https://v.daum.net/v/20221010211753421"/>
+        <updated>2022-10-10T12:31:28.585Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '태풍의신부' 박하나, 父살해 현장서 출생..원수 딸로 둔갑]]></title>
+        <id>https://v.daum.net/v/20221010203012099</id>
+        <link href="https://v.daum.net/v/20221010203012099"/>
+        <updated>2022-10-10T12:31:28.617Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '태풍의 신부' 박하나, 아버지였던 손창민에 복수 선언]]></title>
+        <id>https://v.daum.net/v/20221010202630068</id>
+        <link href="https://v.daum.net/v/20221010202630068"/>
+        <updated>2022-10-10T12:31:28.623Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의신부' 박하나, 손창민 창립 기념식 훼방 "무너뜨려 주겠어"]]></title>
         <id>https://v.daum.net/v/20221010200627945</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221010164354258"/>
         <updated>2022-10-10T08:22:41.290Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 첫 방부터 피 범벅..급이 다른 수위]]></title>
-        <id>https://v.daum.net/v/20221010164100214</id>
-        <link href="https://v.daum.net/v/20221010164100214"/>
-        <updated>2022-10-10T08:22:41.290Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 위하준 "모든 순간이 행복하고 감사했다"]]></title>
-        <id>https://v.daum.net/v/20221010163757158</id>
-        <link href="https://v.daum.net/v/20221010163757158"/>
-        <updated>2022-10-10T08:22:41.293Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥자연·김가은, 김혜수 싫어요? 궁중 암투 예고]]></title>
-        <id>https://v.daum.net/v/20221010163248046</id>
-        <link href="https://v.daum.net/v/20221010163248046"/>
-        <updated>2022-10-10T08:22:41.294Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 무엇을 남겼나? 작감배 美쳤습니다]]></title>
-        <id>https://v.daum.net/v/20221010162050816</id>
-        <link href="https://v.daum.net/v/20221010162050816"/>
-        <updated>2022-10-10T07:32:30.414Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
