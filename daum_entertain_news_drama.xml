@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-10T21:13:26.887Z</updated>
+    <updated>2022-10-10T22:15:26.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민하 '파친코'로 벌써 2관왕.."세상의 모든 선자들에게 바친다"]]></title>
+        <id>https://v.daum.net/v/20221011065254677</id>
+        <link href="https://v.daum.net/v/20221011065254677"/>
+        <updated>2022-10-10T22:15:18.379Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['작은 아씨들' 남지현 "친언니 마음 잘아니까 자매 연기도 편했어요"]]></title>
+        <id>https://v.daum.net/v/20221011063013485</id>
+        <link href="https://v.daum.net/v/20221011063013485"/>
+        <updated>2022-10-10T22:15:18.379Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마녀의게임' 장서희 5년만 복귀, 흥행 보증수표 재입증 할까]]></title>
         <id>https://v.daum.net/v/20221011060505312</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221010193730675"/>
         <updated>2022-10-10T11:12:50.011Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['작은 아씨들' 위하준 "최도일로 지낸 모든 순간이 행복했다"]]></title>
-        <id>https://v.daum.net/v/20221010191215413</id>
-        <link href="https://v.daum.net/v/20221010191215413"/>
-        <updated>2022-10-10T10:14:50.654Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 집' 종영, 서하준 복수 끝? 해피엔딩 맞을까]]></title>
-        <id>https://v.daum.net/v/20221010190306325</id>
-        <link href="https://v.daum.net/v/20221010190306325"/>
-        <updated>2022-10-10T10:14:50.656Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
