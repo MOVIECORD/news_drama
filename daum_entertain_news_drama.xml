@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-10T05:58:32.190Z</updated>
+    <updated>2022-10-10T06:48:07.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이승기-이세영-김원해, 예측 불가 삼자대면]]></title>
+        <id>https://v.daum.net/v/20221010150716421</id>
+        <link href="https://v.daum.net/v/20221010150716421"/>
+        <updated>2022-10-10T06:48:00.081Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추자현이 열고 닫았다..'작은아씨들' 허무한 결말, 이게 최선인가요]]></title>
+        <id>https://v.daum.net/v/20221010150102290</id>
+        <link href="https://v.daum.net/v/20221010150102290"/>
+        <updated>2022-10-10T06:48:00.083Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시'→'빈센조' 다크히어로 성공 이을 도경수의 '진검승부']]></title>
         <id>https://v.daum.net/v/20221010144919090</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221010130155525"/>
         <updated>2022-10-10T04:10:00.840Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남지현, BTS RM 팬심에 감동 "첫방송 후 연락 많이 받아"]]></title>
-        <id>https://v.daum.net/v/20221010125401423</id>
-        <link href="https://v.daum.net/v/20221010125401423"/>
-        <updated>2022-10-10T04:10:00.842Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추자현이 살렸다..'수리남'→'작은아씨들', 특별출연 그 이상의 의미]]></title>
-        <id>https://v.daum.net/v/20221010125201408</id>
-        <link href="https://v.daum.net/v/20221010125201408"/>
-        <updated>2022-10-10T04:10:00.843Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
