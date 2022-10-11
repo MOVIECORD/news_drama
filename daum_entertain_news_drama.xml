@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-11T12:29:51.021Z</updated>
+    <updated>2022-10-11T13:51:55.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법사랑' 조한철, 이세영 미행 소식에 "내거 건드는 거 싫은데"]]></title>
+        <id>https://v.daum.net/v/20221011224210938</id>
+        <link href="https://v.daum.net/v/20221011224210938"/>
+        <updated>2022-10-11T13:51:47.820Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법사랑' 김슬기, 이승기♥김유리 후끈 분위기에 "미성년자 관람 불가"]]></title>
+        <id>https://v.daum.net/v/20221011221851676</id>
+        <link href="https://v.daum.net/v/20221011221851676"/>
+        <updated>2022-10-11T13:51:47.821Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수린, 김영옥 '딸 바꿔치기' 사실 알았다]]></title>
         <id>https://v.daum.net/v/20221011204237058</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221011185032754"/>
         <updated>2022-10-11T10:16:21.486Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['변론을 시작하겠습니다' 작가 "이규형x정려원 캐스팅, 내 뇌에서 취어나온 줄"]]></title>
-        <id>https://v.daum.net/v/20221011184900721</id>
-        <link href="https://v.daum.net/v/20221011184900721"/>
-        <updated>2022-10-11T10:16:21.488Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2', tvN 편성 확정..조병규·진선규 출연 긍정검토]]></title>
-        <id>https://v.daum.net/v/20221011181121913</id>
-        <link href="https://v.daum.net/v/20221011181121913"/>
-        <updated>2022-10-11T09:20:02.438Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
