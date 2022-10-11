@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-11T14:28:15.228Z</updated>
+    <updated>2022-10-11T15:17:22.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세영, 김남희 스토커 신소율에게 납치 당해.."이건 사랑이 아니라 집착, 범죄다"]]></title>
+        <id>https://v.daum.net/v/20221011232802336</id>
+        <link href="https://v.daum.net/v/20221011232802336"/>
+        <updated>2022-10-11T15:17:12.772Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법사랑' 이세영, 신소율에 납치 "변호사님 눈이 참 별로다"]]></title>
         <id>https://v.daum.net/v/20221011232549321</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221011191927324"/>
         <updated>2022-10-11T11:12:39.499Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전여빈, 개명했다.."방황하다 연기로 자유 얻어, 민낯 부담 없죠"]]></title>
-        <id>https://v.daum.net/v/20221011190001910</id>
-        <link href="https://v.daum.net/v/20221011190001910"/>
-        <updated>2022-10-11T10:16:21.469Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
