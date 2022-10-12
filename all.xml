@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-12T21:14:40.452Z</updated>
+    <updated>2022-10-12T22:14:17.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['진검승부' 최광일, 도경수에 고백 "살인 아냐"→추락死 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221013061901519</id>
+        <link href="https://v.daum.net/v/20221013061901519"/>
+        <updated>2022-10-12T22:14:10.425Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['글리치' 노덕 감독 "자기 자신에 대한 믿음 찾아가는 이야기" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221013060026117</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221012195800204"/>
         <updated>2022-10-12T11:14:31.391Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프듀x101' 출신 윤서빈, 집주인 됐다..BL 웹드 캐스팅 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221012195216133</id>
-        <link href="https://v.daum.net/v/20221012195216133"/>
-        <updated>2022-10-12T11:14:31.391Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
