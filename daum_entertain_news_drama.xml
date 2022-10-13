@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-13T07:28:47.851Z</updated>
+    <updated>2022-10-13T08:19:00.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이다희, 60분 순삭 유발자]]></title>
+        <id>https://v.daum.net/v/20221013171352700</id>
+        <link href="https://v.daum.net/v/20221013171352700"/>
+        <updated>2022-10-13T08:18:53.013Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인기 웹툰 '사랑하는 여배우들', 드라마로 제작된다]]></title>
+        <id>https://v.daum.net/v/20221013164029410</id>
+        <link href="https://v.daum.net/v/20221013164029410"/>
+        <updated>2022-10-13T08:18:53.014Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['글리치' 태원석, 전여빈·나나 옆 우직한 씬스틸러]]></title>
+        <id>https://v.daum.net/v/20221013163049010</id>
+        <link href="https://v.daum.net/v/20221013163049010"/>
+        <updated>2022-10-13T08:18:53.016Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['톱스타' 최수영과 '미혼부' 윤박의 만남..'팬레터를 보내주세요' 관심을 보내주세요]]></title>
         <id>https://v.daum.net/v/20221013162310658</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221013133649086"/>
         <updated>2022-10-13T05:57:18.271Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오늘 큰거 온다"..9기 옥순, '나솔사계' 통해 열애 공개할까]]></title>
-        <id>https://v.daum.net/v/20221013132020441</id>
-        <link href="https://v.daum.net/v/20221013132020441"/>
-        <updated>2022-10-13T05:57:18.278Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치얼업' CP가 밝힌 '합동 응원전' 비화 "현역 응원단 참여+보조 출연자만 400명"]]></title>
-        <id>https://v.daum.net/v/20221013130740964</id>
-        <link href="https://v.daum.net/v/20221013130740964"/>
-        <updated>2022-10-13T04:10:02.120Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치얼업' 합동 응원전 촬영 비화 "보조 출연자만 400여명"]]></title>
-        <id>https://v.daum.net/v/20221013130009815</id>
-        <link href="https://v.daum.net/v/20221013130009815"/>
-        <updated>2022-10-13T04:10:02.121Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
