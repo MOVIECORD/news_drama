@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-14T17:27:49.043Z</updated>
+    <updated>2022-10-14T18:18:46.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 남궁민, 아버지 남명렬 투신에 '오열'..억울한 죽음 밝힐까?]]></title>
+        <id>https://v.daum.net/v/20221015023901862</id>
+        <link href="https://v.daum.net/v/20221015023901862"/>
+        <updated>2022-10-14T18:18:39.391Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천원짜리 변호사' 이청아, 남궁민에 "세 번째 웃으면 저랑 사귀실래요?" 기습 고백]]></title>
         <id>https://v.daum.net/v/20221015020301821</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221014194100735"/>
         <updated>2022-10-14T11:13:01.080Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선에 시비 "미혼모라고 안한 건 배려"]]></title>
-        <id>https://v.daum.net/v/20221014192821562</id>
-        <link href="https://v.daum.net/v/20221014192821562"/>
-        <updated>2022-10-14T11:13:01.082Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
