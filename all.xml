@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-15T06:25:46.069Z</updated>
+    <updated>2022-10-15T07:19:15.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[서이숙, '슈룹' 윤왕후 역 캐스팅..드라마 속 숨은 키맨 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221015152649910</id>
+        <link href="https://v.daum.net/v/20221015152649910"/>
+        <updated>2022-10-15T07:19:07.838Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아, 불륜녀 주세빈 앞 자존심 버렸다..무릎 꿇고 애원 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221015151652819</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221015113220760"/>
         <updated>2022-10-15T04:10:05.957Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외계인급 캐릭터 소화력, 이러니 남궁민만 찾을 수밖에 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221015112623716</id>
-        <link href="https://v.daum.net/v/20221015112623716"/>
-        <updated>2022-10-15T04:10:05.961Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
