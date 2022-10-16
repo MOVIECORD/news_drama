@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-16T17:23:25.993Z</updated>
+    <updated>2022-10-16T18:16:29.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 이하나, 삼촌 전노민에 사기 당했다 '충격']]></title>
+        <id>https://v.daum.net/v/20221017025001146</id>
+        <link href="https://v.daum.net/v/20221017025001146"/>
+        <updated>2022-10-16T18:16:22.376Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 임주환, ♥이하나에 미련 "넌 날 헷갈리게 해"]]></title>
+        <id>https://v.daum.net/v/20221017023830114</id>
+        <link href="https://v.daum.net/v/20221017023830114"/>
+        <updated>2022-10-16T18:16:22.376Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주세빈, 송영창 계략에 父 잃고 '복수'..과거 드러났다]]></title>
         <id>https://v.daum.net/v/20221017005813675</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221016214704022"/>
         <updated>2022-10-16T13:35:18.507Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하나, 삼촌 전노민 사기에 넘어가 2억원 사채 빚..임주환 품에서 실신]]></title>
-        <id>https://v.daum.net/v/20221016214530998</id>
-        <link href="https://v.daum.net/v/20221016214530998"/>
-        <updated>2022-10-16T13:35:18.508Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가' 이하나, 삼촌 전노민에 2억 사채 사기 당했다]]></title>
-        <id>https://v.daum.net/v/20221016213314835</id>
-        <link href="https://v.daum.net/v/20221016213314835"/>
-        <updated>2022-10-16T13:35:18.510Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
