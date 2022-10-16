@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-16T08:17:55.535Z</updated>
+    <updated>2022-10-16T09:16:24.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹'에 김혜수만 있나..김가은·이화겸·이소희, 후궁 3인방 출사표]]></title>
+        <id>https://v.daum.net/v/20221016180050338</id>
+        <link href="https://v.daum.net/v/20221016180050338"/>
+        <updated>2022-10-16T09:16:16.491Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수, 눈물 마를 날 없는 중전마마]]></title>
+        <id>https://v.daum.net/v/20221016175408197</id>
+        <link href="https://v.daum.net/v/20221016175408197"/>
+        <updated>2022-10-16T09:16:16.492Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소은, 양대혁 바람 알아차리나? 떨떠름한 표정 포착]]></title>
+        <id>https://v.daum.net/v/20221016173420734</id>
+        <link href="https://v.daum.net/v/20221016173420734"/>
+        <updated>2022-10-16T09:16:16.492Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금수저' 육성재, 정채연 향한 변함 없는 마음 고백 '심쿵']]></title>
+        <id>https://v.daum.net/v/20221016172434451</id>
+        <link href="https://v.daum.net/v/20221016172434451"/>
+        <updated>2022-10-16T09:16:16.492Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['디 엠파이어' 측 "주세빈 과거 밝혀진다..충격과 분노"]]></title>
         <id>https://v.daum.net/v/20221016165323544</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221016151901452"/>
         <updated>2022-10-16T07:18:23.187Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 중전 김혜수, 충격적인 진실과 마주하다..슬픈 눈시울]]></title>
-        <id>https://v.daum.net/v/20221016151501300</id>
-        <link href="https://v.daum.net/v/20221016151501300"/>
-        <updated>2022-10-16T07:18:23.190Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 하석진 충격적인 과거 실체 공개..엉켜버린 기억들]]></title>
-        <id>https://v.daum.net/v/20221016151151216</id>
-        <link href="https://v.daum.net/v/20221016151151216"/>
-        <updated>2022-10-16T07:18:23.195Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블라인드' 하석진, 마침내 드러난 완벽주의 판사 실체]]></title>
-        <id>https://v.daum.net/v/20221016150503005</id>
-        <link href="https://v.daum.net/v/20221016150503005"/>
-        <updated>2022-10-16T06:22:41.137Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 다시 뒤바뀐 육성재 이종원, 영문 알 수 없는 전개]]></title>
-        <id>https://v.daum.net/v/20221016150334944</id>
-        <link href="https://v.daum.net/v/20221016150334944"/>
-        <updated>2022-10-16T07:18:23.199Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
