@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-16T14:15:23.557Z</updated>
+    <updated>2022-10-16T15:14:02.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하나, 2억 사채 빚에 '충격'..삼촌 전노민에 사기 당했다]]></title>
+        <id>https://v.daum.net/v/20221016235716157</id>
+        <link href="https://v.daum.net/v/20221016235716157"/>
+        <updated>2022-10-16T15:13:55.187Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이가은 "권지우는 나랑 결혼 할 것", 주세빈 도발에 '분노']]></title>
+        <id>https://v.daum.net/v/20221016232412926</id>
+        <link href="https://v.daum.net/v/20221016232412926"/>
+        <updated>2022-10-16T15:13:55.194Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 유선호 비밀=여장..김혜수 충격+오열]]></title>
         <id>https://v.daum.net/v/20221016230613838</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221016211930639"/>
         <updated>2022-10-16T12:25:21.953Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 임주환, 재결합 제안 거절한 이하나에 "나쁜 기집애"]]></title>
-        <id>https://v.daum.net/v/20221016211631540</id>
-        <link href="https://v.daum.net/v/20221016211631540"/>
-        <updated>2022-10-16T12:25:21.968Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전세금 빼서 결혼자금으로 줘" 문예원 요구에 母장미희 분노]]></title>
-        <id>https://v.daum.net/v/20221016211303314</id>
-        <link href="https://v.daum.net/v/20221016211303314"/>
-        <updated>2022-10-16T12:25:21.969Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
