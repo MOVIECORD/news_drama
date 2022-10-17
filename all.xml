@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-17T21:13:40.017Z</updated>
+    <updated>2022-10-17T22:14:26.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['블루칩' 신인들..청춘드라마 주연? '기대작 조연' 할래요! (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221018063011026</id>
+        <link href="https://v.daum.net/v/20221018063011026"/>
+        <updated>2022-10-17T22:14:18.967Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난해한 넷플릭스 '글리치?' 조금 이상해도 괜찮아 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221018060104663</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221017201029688"/>
         <updated>2022-10-17T11:16:08.283Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선 결혼식 훼방 놓나? 오창석에 기습키스 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221017193900705</id>
-        <link href="https://v.daum.net/v/20221017193900705"/>
-        <updated>2022-10-17T11:16:08.293Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
