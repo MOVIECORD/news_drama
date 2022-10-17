@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-17T13:57:03.650Z</updated>
+    <updated>2022-10-17T14:35:33.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['법대로 사랑하라' 이승기, 이세영과 갈등에 변화 "늘 곁에 있을게" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221017230502222</id>
+        <link href="https://v.daum.net/v/20221017230502222"/>
+        <updated>2022-10-17T14:35:26.699Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배인혁, 어깨 기댄 한지현에 심장 폭격.."부정맥이라도 걸렸나?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221017225401161</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221017181928762"/>
         <updated>2022-10-17T09:26:50.977Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글리치' 노덕 감독 "백주희 배우의 연기에 반했다. 장군 같은 느낌" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221017181845723</id>
-        <link href="https://v.daum.net/v/20221017181845723"/>
-        <updated>2022-10-17T09:26:50.980Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
