@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-17T11:16:16.533Z</updated>
+    <updated>2022-10-17T12:31:21.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이호재, 대기업 면접 포기한 배누리 격려.."너한테 기회 또 오면 포기하지 마"]]></title>
+        <id>https://v.daum.net/v/20221017211602063</id>
+        <link href="https://v.daum.net/v/20221017211602063"/>
+        <updated>2022-10-17T12:31:13.591Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마녀의 게임' 한지완, 민폐 하객 패션→신랑 오창석에 키스]]></title>
         <id>https://v.daum.net/v/20221017201029688</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221017174157315"/>
         <updated>2022-10-17T09:26:50.996Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장률 연기에 "모성애 자극 받은" 전종서 "눈 글썽글썽"]]></title>
-        <id>https://v.daum.net/v/20221017173802174</id>
-        <link href="https://v.daum.net/v/20221017173802174"/>
-        <updated>2022-10-17T09:26:50.997Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
