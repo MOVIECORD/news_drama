@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-18T17:34:39.037Z</updated>
+    <updated>2022-10-18T18:25:43.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김설현X임시완, 순수 케미 대본 리딩 현장]]></title>
+        <id>https://v.daum.net/v/20221019030010086</id>
+        <link href="https://v.daum.net/v/20221019030010086"/>
+        <updated>2022-10-18T18:25:34.181Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘→고두심, 직접 꼽은 '커튼콜' 키워드]]></title>
         <id>https://v.daum.net/v/20221019010007703</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221018183631933"/>
         <updated>2022-10-18T17:32:21.571Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이하민 얘기 들었어?"..'청춘블라썸' 서지훈, 사망 이유 밝혀질까]]></title>
-        <id>https://v.daum.net/v/20221018182635685</id>
-        <link href="https://v.daum.net/v/20221018182635685"/>
-        <updated>2022-10-18T17:32:21.573Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
