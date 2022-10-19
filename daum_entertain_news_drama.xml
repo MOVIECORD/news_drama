@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-19T07:38:47.175Z</updated>
+    <updated>2022-10-19T08:27:45.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매가 용감에게' 이하나♥임주환, 아찔한 로맨스 엔딩 넷]]></title>
+        <id>https://v.daum.net/v/20221019170604536</id>
+        <link href="https://v.daum.net/v/20221019170604536"/>
+        <updated>2022-10-19T08:27:37.867Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이혜리♥이준영, 로맨스 케미 어느 정도길래.."분량 많아져"]]></title>
+        <id>https://v.daum.net/v/20221019165003978</id>
+        <link href="https://v.daum.net/v/20221019165003978"/>
+        <updated>2022-10-19T08:27:37.871Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜리, MBC 수목극 성공적 부활 향한 '일당백' 구원투수]]></title>
         <id>https://v.daum.net/v/20221019163156355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221019154306503"/>
         <updated>2022-10-19T07:38:39.823Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 하지원, 따뜻하고 세련된 호텔 총지배인 변신..'하블리' 귀환]]></title>
-        <id>https://v.daum.net/v/20221019153726196</id>
-        <link href="https://v.daum.net/v/20221019153726196"/>
-        <updated>2022-10-19T07:38:39.824Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 육성재 파란만장 삶, 명장면 한눈에 몰아보기]]></title>
-        <id>https://v.daum.net/v/20221019153442075</id>
-        <link href="https://v.daum.net/v/20221019153442075"/>
-        <updated>2022-10-19T07:38:39.827Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
