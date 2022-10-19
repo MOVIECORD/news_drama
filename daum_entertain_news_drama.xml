@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-19T13:51:59.417Z</updated>
+    <updated>2022-10-19T14:31:34.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일당백집사' 안내상 "아들 찾아 달라"→이혜리·이준영 장례식 재회]]></title>
+        <id>https://v.daum.net/v/20221019232738370</id>
+        <link href="https://v.daum.net/v/20221019232738370"/>
+        <updated>2022-10-19T14:31:23.989Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["왔어요, 아들"..첫방 '일당백집사' 이혜리, 이준영과 장례식장서 재회]]></title>
+        <id>https://v.daum.net/v/20221019230403175</id>
+        <link href="https://v.daum.net/v/20221019230403175"/>
+        <updated>2022-10-19T14:31:23.990Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일당백집사' 이준영, 이혜리에 "우리 헤어지자" 대리 이별 통보]]></title>
         <id>https://v.daum.net/v/20221019224105935</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221019193530115"/>
         <updated>2022-10-19T11:15:58.970Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석, 김규선과 딸 버리고 자책 "사랑 참 가볍다"]]></title>
-        <id>https://v.daum.net/v/20221019192147699</id>
-        <link href="https://v.daum.net/v/20221019192147699"/>
-        <updated>2022-10-19T11:15:58.970Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이혜리 캐스팅=생일 선물"..'일당백집사', 오싹하지만 따뜻하다]]></title>
-        <id>https://v.daum.net/v/20221019185003785</id>
-        <link href="https://v.daum.net/v/20221019185003785"/>
-        <updated>2022-10-19T10:21:42.234Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
