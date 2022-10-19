@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-19T09:24:31.033Z</updated>
+    <updated>2022-10-19T10:21:49.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["이혜리 캐스팅=생일 선물"..'일당백집사', 오싹하지만 따뜻하다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221019185003785</id>
+        <link href="https://v.daum.net/v/20221019185003785"/>
+        <updated>2022-10-19T10:21:42.234Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오민석, '법대로 사랑하라' 특별출연에도 능청연기..前 바람둥이 선배→現 검사 '반전매력' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221019175936330</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221019154450711"/>
         <updated>2022-10-19T07:38:39.819Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS가 이런 얘기를? 악플 시달리는 아이돌 빙의물 '네가 빠진 세계' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221019154430680</id>
-        <link href="https://v.daum.net/v/20221019154430680"/>
-        <updated>2022-10-19T07:38:39.822Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
