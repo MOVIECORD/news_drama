@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-20T04:00:19.819Z</updated>
+    <updated>2022-10-20T05:05:25.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['치얼업' 2천만뷰+2주 연속 월화극 화제성 1위 복병 급부상]]></title>
+        <id>https://v.daum.net/v/20221020140404902</id>
+        <link href="https://v.daum.net/v/20221020140404902"/>
+        <updated>2022-10-20T05:05:18.476Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송푸름, '태풍의 신부' 설렘 가득 사랑 감성 OST 가창..23일 공개]]></title>
+        <id>https://v.daum.net/v/20221020135417520</id>
+        <link href="https://v.daum.net/v/20221020135417520"/>
+        <updated>2022-10-20T05:05:18.476Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선아 아들 권지우, 어딘가 다른 법복가족 3세]]></title>
+        <id>https://v.daum.net/v/20221020133711965</id>
+        <link href="https://v.daum.net/v/20221020133711965"/>
+        <updated>2022-10-20T05:05:18.477Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전노민, 임성한 신작 합류할까 "'선녀두리안' 긍정 검토중"]]></title>
+        <id>https://v.daum.net/v/20221020132631649</id>
+        <link href="https://v.daum.net/v/20221020132631649"/>
+        <updated>2022-10-20T05:05:18.484Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['썸바디' 김영광 "정지우 감독, 제시하는 아이디어 하나도 놓치지 않아"]]></title>
         <id>https://v.daum.net/v/20221020123906812</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221020110302070"/>
         <updated>2022-10-20T04:00:11.479Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡3' 지영산, 임성한 신작 '선녀두리안' 출연 확정]]></title>
-        <id>https://v.daum.net/v/20221020110252046</id>
-        <link href="https://v.daum.net/v/20221020110252046"/>
-        <updated>2022-10-20T04:00:11.480Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이다희, 송종호와 파혼한 이유 밝혀졌다..임신한 여자 등장]]></title>
-        <id>https://v.daum.net/v/20221020104151146</id>
-        <link href="https://v.daum.net/v/20221020104151146"/>
-        <updated>2022-10-20T04:00:11.484Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 날아다니는 도경수, 하드캐리란 이런 것]]></title>
-        <id>https://v.daum.net/v/20221020102429407</id>
-        <link href="https://v.daum.net/v/20221020102429407"/>
-        <updated>2022-10-20T04:00:11.485Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결사곡' 인연! 전노민·지영산·박주미, 임성한 작가 '선녀두리안' 한번 더!]]></title>
-        <id>https://v.daum.net/v/20221020101804155</id>
-        <link href="https://v.daum.net/v/20221020101804155"/>
-        <updated>2022-10-20T04:00:11.488Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
