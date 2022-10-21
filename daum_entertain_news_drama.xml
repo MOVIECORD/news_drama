@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-21T03:43:23.487Z</updated>
+    <updated>2022-10-21T05:00:28.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금수저'는 왜 '이태원 클라쓰'처럼 뜨지 못한 걸까]]></title>
+        <id>https://v.daum.net/v/20221021134857249</id>
+        <link href="https://v.daum.net/v/20221021134857249"/>
+        <updated>2022-10-21T05:00:20.945Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 14부작 아닌 12부작 종영 "완성도 위해"]]></title>
+        <id>https://v.daum.net/v/20221021132613742</id>
+        <link href="https://v.daum.net/v/20221021132613742"/>
+        <updated>2022-10-21T05:00:20.946Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천변' 인생캐 제조기 남궁민, 김성룡→백승수→한지혁→천지훈]]></title>
+        <id>https://v.daum.net/v/20221021131937632</id>
+        <link href="https://v.daum.net/v/20221021131937632"/>
+        <updated>2022-10-21T05:00:20.946Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하지원·강하늘, 청량美 가득한 개별 포스터 '따로 또 같이']]></title>
         <id>https://v.daum.net/v/20221021120438790</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221021094028106"/>
         <updated>2022-10-21T01:11:14.945Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국가부', 녹색지대→빅마마 이영현까지 '히트맨 총 집합']]></title>
-        <id>https://v.daum.net/v/20221021093546886</id>
-        <link href="https://v.daum.net/v/20221021093546886"/>
-        <updated>2022-10-21T01:11:14.945Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수, 폐비 서이숙 운명일까..왕자들 지키기 주목]]></title>
-        <id>https://v.daum.net/v/20221021093406842</id>
-        <link href="https://v.daum.net/v/20221021093406842"/>
-        <updated>2022-10-21T01:11:14.956Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상보 "마약 투약 의혹 후 공황장애..부모·누나 세상 떠나고 힘들어"]]></title>
-        <id>https://v.daum.net/v/20221021093243793</id>
-        <link href="https://v.daum.net/v/20221021093243793"/>
-        <updated>2022-10-21T01:11:14.963Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
