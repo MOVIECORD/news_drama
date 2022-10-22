@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-22T06:22:39.193Z</updated>
+    <updated>2022-10-22T07:18:49.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['디 엠파이어' 지옥 벗어나려는 안재욱의 몸부림]]></title>
+        <id>https://v.daum.net/v/20221022153759130</id>
+        <link href="https://v.daum.net/v/20221022153759130"/>
+        <updated>2022-10-22T07:18:41.527Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금수저' 연우, 이런 양파 같은 매력을 봤나]]></title>
+        <id>https://v.daum.net/v/20221022152934994</id>
+        <link href="https://v.daum.net/v/20221022152934994"/>
+        <updated>2022-10-22T07:18:41.529Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중전 김혜수, 아들 유선호 진짜 모습 마주.."시한폭탄 상황"]]></title>
+        <id>https://v.daum.net/v/20221022152843978</id>
+        <link href="https://v.daum.net/v/20221022152843978"/>
+        <updated>2022-10-22T07:18:41.530Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소은, 문예원과 대화 중 놀란 이유]]></title>
         <id>https://v.daum.net/v/20221022151729769</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221022130356724"/>
         <updated>2022-10-22T04:58:39.079Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경진X장미희, 자식 자랑 기 싸움]]></title>
-        <id>https://v.daum.net/v/20221022123836535</id>
-        <link href="https://v.daum.net/v/20221022123836535"/>
-        <updated>2022-10-22T03:53:51.425Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 '금수저'속 아미쿠스와 코사 노스트라의 닮은 점..돈!]]></title>
-        <id>https://v.daum.net/v/20221022115604131</id>
-        <link href="https://v.daum.net/v/20221022115604131"/>
-        <updated>2022-10-22T03:53:51.425Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육성재, '금수저'로 완성한 반전의 얼굴]]></title>
-        <id>https://v.daum.net/v/20221022113217894</id>
-        <link href="https://v.daum.net/v/20221022113217894"/>
-        <updated>2022-10-22T03:53:51.426Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
