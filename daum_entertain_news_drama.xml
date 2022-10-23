@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-23T13:38:22.131Z</updated>
+    <updated>2022-10-23T14:16:55.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 세자 배인혁 피 토하며 실신, 중전 김혜수 패닉]]></title>
+        <id>https://v.daum.net/v/20221023224601071</id>
+        <link href="https://v.daum.net/v/20221023224601071"/>
+        <updated>2022-10-23T14:16:47.830Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 배인혁, 잠시 기력 찾더니..피 토하며 혼절 '충격']]></title>
+        <id>https://v.daum.net/v/20221023223848047</id>
+        <link href="https://v.daum.net/v/20221023223848047"/>
+        <updated>2022-10-23T14:16:47.831Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 배인혁, 피 토하며 실신..김혜수 "세자!" 오열]]></title>
         <id>https://v.daum.net/v/20221023223615041</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221023212030422"/>
         <updated>2022-10-23T12:26:36.244Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이하나, 내 짝 같다" 임주환, 母장미희 반대에도 굳건한 사랑]]></title>
-        <id>https://v.daum.net/v/20221023205443208</id>
-        <link href="https://v.daum.net/v/20221023205443208"/>
-        <updated>2022-10-23T12:26:36.245Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임주환, 母장미희에 "이하나 좋아하는 이유? 내 짝 같아"]]></title>
-        <id>https://v.daum.net/v/20221023203836104</id>
-        <link href="https://v.daum.net/v/20221023203836104"/>
-        <updated>2022-10-23T12:26:36.245Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
