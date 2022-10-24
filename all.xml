@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-24T17:32:08.933Z</updated>
+    <updated>2022-10-24T18:27:35.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 성동일·배해선, 명품 열연 예약 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221025030014816</id>
+        <link href="https://v.daum.net/v/20221025030014816"/>
+        <updated>2022-10-24T18:27:27.633Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바드림', 메타버스에서 펼쳐진 열정·진심·파격 무대 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221024235216126</id>
@@ -100,13 +107,6 @@
         <id>https://v.daum.net/v/20221024200002459</id>
         <link href="https://v.daum.net/v/20221024200002459"/>
         <updated>2022-10-24T11:18:21.192Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완 "김규선의 남자 오창석은 내 장난감" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221024195850415</id>
-        <link href="https://v.daum.net/v/20221024195850415"/>
-        <updated>2022-10-24T11:18:21.195Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
