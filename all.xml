@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-24T07:45:20.892Z</updated>
+    <updated>2022-10-24T08:28:26.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['안다행' 100회 맞았다..김명진 PD "정우성·이정재 섭외하고파" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221024170656598</id>
+        <link href="https://v.daum.net/v/20221024170656598"/>
+        <updated>2022-10-24T08:28:18.065Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법대로 사랑하라' 이미숙 무슨 일? 머리채 잡고 몸싸움까지 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221024163402189</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221024132409779"/>
         <updated>2022-10-24T04:26:43.198Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치얼업' 장나라 특별출연 뜬다..결혼 후 더 물오른 미모 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221024131853618</id>
-        <link href="https://v.daum.net/v/20221024131853618"/>
-        <updated>2022-10-24T04:26:43.198Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
