@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-24T14:37:15.380Z</updated>
+    <updated>2022-10-24T15:19:55.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바드림', 메타버스에서 펼쳐진 열정·진심·파격 무대]]></title>
+        <id>https://v.daum.net/v/20221024235216126</id>
+        <link href="https://v.daum.net/v/20221024235216126"/>
+        <updated>2022-10-24T15:19:47.375Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법대로 사랑하라' 납치된 이세영母→이승기·조한철 대치]]></title>
         <id>https://v.daum.net/v/20221024231003911</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221024195850415"/>
         <updated>2022-10-24T11:18:21.195Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한가인 "'싱포골드', '사람'이 보이는 프로그램"]]></title>
-        <id>https://v.daum.net/v/20221024195359275</id>
-        <link href="https://v.daum.net/v/20221024195359275"/>
-        <updated>2022-10-24T11:18:21.205Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
