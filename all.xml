@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-25T20:18:16.285Z</updated>
+    <updated>2022-10-25T21:14:09.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[안문숙 "아직 결혼 꿈꿔" 박원숙 "내가 다해봤는데.." 단전 울린 조언 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221026060033245</id>
+        <link href="https://v.daum.net/v/20221026060033245"/>
+        <updated>2022-10-25T21:14:02.017Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하지원 "고두심과 연기, 온몸 세포 살아나는 느낌" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221026020006299</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221025193948521"/>
         <updated>2022-10-25T11:14:20.891Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑 추억한 김유정 "뽀뽀 전 장소 두고 투표하기도".."풋풋했죠" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221025185801360</id>
-        <link href="https://v.daum.net/v/20221025185801360"/>
-        <updated>2022-10-25T10:18:45.081Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
