@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-25T16:29:05.537Z</updated>
+    <updated>2022-10-25T17:49:00.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하지원 "고두심과 연기, 온몸 세포 살아나는 느낌" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221026020006299</id>
+        <link href="https://v.daum.net/v/20221026020006299"/>
+        <updated>2022-10-25T17:48:53.391Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '법사랑' 이세영, 이승기에 청혼→태풍 속 달달 결혼식♥ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221025232251281</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221025185801360"/>
         <updated>2022-10-25T10:18:45.081Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["망신만 당하지 말자"..이준익, '욘더'로 과감한 시도 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221025175006244</id>
-        <link href="https://v.daum.net/v/20221025175006244"/>
-        <updated>2022-10-25T09:25:55.500Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
