@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-25T08:25:51.905Z</updated>
+    <updated>2022-10-25T09:26:03.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["망신만 당하지 말자"..이준익, '욘더'로 과감한 시도]]></title>
+        <id>https://v.daum.net/v/20221025175006244</id>
+        <link href="https://v.daum.net/v/20221025175006244"/>
+        <updated>2022-10-25T09:25:55.500Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신분 숨기고 살아온 박하나, 정체 들통 위기]]></title>
         <id>https://v.daum.net/v/20221025172201304</id>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['비밀의 숲', 시즌3 스핀오프 논의..웰메이드 장르물 컴백]]></title>
+        <title type="html"><![CDATA['비밀의 숲', 스핀오프 논의..웰메이드 장르물 컴백]]></title>
         <id>https://v.daum.net/v/20221025164319857</id>
         <link href="https://v.daum.net/v/20221025164319857"/>
         <updated>2022-10-25T08:25:43.840Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221025161554848"/>
         <updated>2022-10-25T07:38:40.162Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록' 이성민X진구X경수진X이학주X한동화 감독, 폭발적이고 강렬한 시너지 예고]]></title>
-        <id>https://v.daum.net/v/20221025160711430</id>
-        <link href="https://v.daum.net/v/20221025160711430"/>
-        <updated>2022-10-25T07:38:40.163Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
