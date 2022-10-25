@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-25T09:26:03.117Z</updated>
+    <updated>2022-10-25T10:18:52.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 추억한 김유정 "뽀뽀 전 장소 두고 투표하기도".."풋풋했죠" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221025185801360</id>
+        <link href="https://v.daum.net/v/20221025185801360"/>
+        <updated>2022-10-25T10:18:45.081Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["망신만 당하지 말자"..이준익, '욘더'로 과감한 시도 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221025175006244</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221025162857314"/>
         <updated>2022-10-25T07:38:40.158Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['욘더' 이준익 감독 "첫 드라마, 글로벌 공개..망신만 당하지 말자" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221025161554848</id>
-        <link href="https://v.daum.net/v/20221025161554848"/>
-        <updated>2022-10-25T07:38:40.162Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
