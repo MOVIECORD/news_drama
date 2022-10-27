@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-27T11:12:22.658Z</updated>
+    <updated>2022-10-27T12:29:36.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주세빈, 견고했던 부부 김선아·안재욱 사이에 끼어든 불청객]]></title>
+        <id>https://v.daum.net/v/20221027202127736</id>
+        <link href="https://v.daum.net/v/20221027202127736"/>
+        <updated>2022-10-27T12:29:26.971Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 이현석, 오창석과 주먹다짐 "내 여자를 탐내?"]]></title>
+        <id>https://v.daum.net/v/20221027201249556</id>
+        <link href="https://v.daum.net/v/20221027201249556"/>
+        <updated>2022-10-27T12:29:26.976Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오창석,선우재덕에 석고대죄...장서희, "시간 지나면 잊혀질거야" 한지완 위로]]></title>
         <id>https://v.daum.net/v/20221027200801429</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221027161008791"/>
         <updated>2022-10-27T07:13:05.882Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘안재욱 불륜녀’ 주세빈 익사체로 발견, 누가 죽였나]]></title>
-        <id>https://v.daum.net/v/20221027160728678</id>
-        <link href="https://v.daum.net/v/20221027160728678"/>
-        <updated>2022-10-27T07:13:05.885Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지웅X윤서빈 ‘풍덕빌라 304호의 사정’ OST 참여, 듀엣 케미 터졌다]]></title>
-        <id>https://v.daum.net/v/20221027160309463</id>
-        <link href="https://v.daum.net/v/20221027160309463"/>
-        <updated>2022-10-27T07:13:05.887Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
