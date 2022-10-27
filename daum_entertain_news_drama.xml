@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-27T13:43:00.057Z</updated>
+    <updated>2022-10-27T14:24:04.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['특종세상' 정명재 "가족과 모여 살고파"…식당 운영→예술 활동도]]></title>
+        <id>https://v.daum.net/v/20221027231349330</id>
+        <link href="https://v.daum.net/v/20221027231349330"/>
+        <updated>2022-10-27T14:23:54.782Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주세빈, 견고했던 부부 김선아·안재욱 사이에 끼어든 불청객]]></title>
         <id>https://v.daum.net/v/20221027202127736</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221027161501013"/>
         <updated>2022-10-27T08:18:17.627Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수vs김해숙 살벌한 대립…피 말리는 '충돌 장면' 셋]]></title>
-        <id>https://v.daum.net/v/20221027161008791</id>
-        <link href="https://v.daum.net/v/20221027161008791"/>
-        <updated>2022-10-27T07:13:05.882Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
