@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-27T15:13:44.162Z</updated>
+    <updated>2022-10-27T16:18:59.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘X하지원X지승현X최대훈이 밝힌 '커튼콜' 관전 포인트]]></title>
+        <id>https://v.daum.net/v/20221028002401882</id>
+        <link href="https://v.daum.net/v/20221028002401882"/>
+        <updated>2022-10-27T16:18:48.933Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재의 힘.. '금수저' 아시아 시청자들 홀릭]]></title>
         <id>https://v.daum.net/v/20221027234701480</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221027162904720"/>
         <updated>2022-10-27T08:18:17.623Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 도경수x이세희, 공조 케미부터 코믹 케미까지 '퍼펙트']]></title>
-        <id>https://v.daum.net/v/20221027162307434</id>
-        <link href="https://v.daum.net/v/20221027162307434"/>
-        <updated>2022-10-27T08:18:17.623Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
