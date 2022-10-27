@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-27T14:24:04.016Z</updated>
+    <updated>2022-10-27T15:13:44.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육성재의 힘.. '금수저' 아시아 시청자들 홀릭]]></title>
+        <id>https://v.daum.net/v/20221027234701480</id>
+        <link href="https://v.daum.net/v/20221027234701480"/>
+        <updated>2022-10-27T15:13:34.456Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['특종세상' 정명재 "가족과 모여 살고파"…식당 운영→예술 활동도]]></title>
         <id>https://v.daum.net/v/20221027231349330</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221027162307434"/>
         <updated>2022-10-27T08:18:17.623Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창완, 도경수와 대체 무슨 사이? "연이라는 게 참 재밌어"]]></title>
-        <id>https://v.daum.net/v/20221027161501013</id>
-        <link href="https://v.daum.net/v/20221027161501013"/>
-        <updated>2022-10-27T08:18:17.627Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
