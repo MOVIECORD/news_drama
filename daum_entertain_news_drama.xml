@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-28T04:41:21.430Z</updated>
+    <updated>2022-10-28T05:25:30.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석·이광수·김연경 '코리아 넘버원' 11월 25일 넷플릭스 공개]]></title>
+        <id>https://v.daum.net/v/20221028141304916</id>
+        <link href="https://v.daum.net/v/20221028141304916"/>
+        <updated>2022-10-28T05:25:20.753Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연예인 매니저로’ 주현영 “나와 비슷한 부분 많아, 꼭 연기해보고 싶었다”]]></title>
+        <id>https://v.daum.net/v/20221028141122873</id>
+        <link href="https://v.daum.net/v/20221028141122873"/>
+        <updated>2022-10-28T05:25:20.761Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 중전 김혜수, 아들 유선호 향한 위대한 사랑..새로운 감동 선물]]></title>
+        <id>https://v.daum.net/v/20221028141003833</id>
+        <link href="https://v.daum.net/v/20221028141003833"/>
+        <updated>2022-10-28T05:25:20.761Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금수저' 최원영 "수트 90% 사비제작"..패션으로 완성한 캐릭터]]></title>
+        <id>https://v.daum.net/v/20221028140306626</id>
+        <link href="https://v.daum.net/v/20221028140306626"/>
+        <updated>2022-10-28T05:25:20.765Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘커튼콜’ 감독 “‘’달뜨강‘서 작업했던 강하늘, 다시 만나 큰 힘 됐다”]]></title>
         <id>https://v.daum.net/v/20221028132443677</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221028111033077"/>
         <updated>2022-10-28T03:45:06.899Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 도경수, 강렬했다…자체 최고 시청률 이끈 무한 직진 본능]]></title>
-        <id>https://v.daum.net/v/20221028105928561</id>
-        <link href="https://v.daum.net/v/20221028105928561"/>
-        <updated>2022-10-28T03:45:06.900Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아X안재욱, 완전한 파국이 미칠 영향]]></title>
-        <id>https://v.daum.net/v/20221028102000040</id>
-        <link href="https://v.daum.net/v/20221028102000040"/>
-        <updated>2022-10-28T03:45:06.902Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 송중기, 미완의 복수 꿈꾼다..쫄깃한 미스터리 '기대']]></title>
-        <id>https://v.daum.net/v/20221028101431810</id>
-        <link href="https://v.daum.net/v/20221028101431810"/>
-        <updated>2022-10-28T03:45:06.905Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 도경수, 김히어라와 정면 승부···목숨 잃을 절체절명 위기]]></title>
-        <id>https://v.daum.net/v/20221028095153865</id>
-        <link href="https://v.daum.net/v/20221028095153865"/>
-        <updated>2022-10-28T01:13:17.570Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
