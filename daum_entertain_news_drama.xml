@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-28T21:12:26.664Z</updated>
+    <updated>2022-10-28T22:13:45.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘디 엠파이어’ 몸의 제국? 김선아X안재욱인데 왜 힘 못 쓰나]]></title>
+        <id>https://v.daum.net/v/20221029070009377</id>
+        <link href="https://v.daum.net/v/20221029070009377"/>
+        <updated>2022-10-28T22:13:36.721Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수의 '슈룹', 놀라운 상상력에 박수를]]></title>
+        <id>https://v.daum.net/v/20221029063008160</id>
+        <link href="https://v.daum.net/v/20221029063008160"/>
+        <updated>2022-10-28T22:13:36.722Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종원, 육성재 비밀 눈치 챘나?..."금수저 할머니한테 산 거 맞지?"]]></title>
         <id>https://v.daum.net/v/20221029060201870</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221028164255403"/>
         <updated>2022-10-28T08:18:33.188Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼죽연' 민진웅, 진지함과 유쾌함 넘나드는 노련한 연기력..꿀잼 텐션]]></title>
-        <id>https://v.daum.net/v/20221028161018538</id>
-        <link href="https://v.daum.net/v/20221028161018538"/>
-        <updated>2022-10-28T07:13:07.929Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천원짜리 변호사', 남궁민의 존재만으로도 자동으로 시청하게 되는 드라마다]]></title>
-        <id>https://v.daum.net/v/20221028160656429</id>
-        <link href="https://v.daum.net/v/20221028160656429"/>
-        <updated>2022-10-28T07:13:07.942Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
