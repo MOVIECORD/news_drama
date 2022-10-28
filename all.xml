@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-28T20:15:02.114Z</updated>
+    <updated>2022-10-28T21:12:26.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이종원, 육성재 비밀 눈치 챘나?..."금수저 할머니한테 산 거 맞지?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221029060201870</id>
+        <link href="https://v.daum.net/v/20221029060201870"/>
+        <updated>2022-10-28T21:12:16.687Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["각색료 완불"vs"정식 계약無"..'빌런즈' 둘러싼 잡음ing (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221028224002565</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221028160656429"/>
         <updated>2022-10-28T07:13:07.942Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2200만 팔로워 보유’ 크리에이터 창하 ‘천원짜리 변호사’ OST 참여 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221028160438358</id>
-        <link href="https://v.daum.net/v/20221028160438358"/>
-        <updated>2022-10-28T07:13:07.942Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
