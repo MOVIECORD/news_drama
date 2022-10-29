@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-29T19:11:01.440Z</updated>
+    <updated>2022-10-29T20:13:51.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제작진이 공개한 '커튼콜' 화기애애 포스터 비하인드 현장]]></title>
+        <id>https://v.daum.net/v/20221030051102142</id>
+        <link href="https://v.daum.net/v/20221030051102142"/>
+        <updated>2022-10-29T20:13:42.067Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아, 주세빈 죽음과 관련있나?..임세미 ‘의심’]]></title>
         <id>https://v.daum.net/v/20221030005030570</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221029230501950"/>
         <updated>2022-10-29T14:13:14.461Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종원, 금수저 얻어 '운명 체인징' 나서나]]></title>
-        <id>https://v.daum.net/v/20221029225419900</id>
-        <link href="https://v.daum.net/v/20221029225419900"/>
-        <updated>2022-10-29T14:13:14.461Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
