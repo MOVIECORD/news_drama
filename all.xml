@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-29T03:08:22.817Z</updated>
+    <updated>2022-10-29T04:30:39.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["양측 사실 무근"..송중기·김태리, 파리 데이트→열애설 가짜 뉴스 몸살 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221029123113797</id>
+        <link href="https://v.daum.net/v/20221029123113797"/>
+        <updated>2022-10-29T04:30:30.371Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘블라인드’ 박지빈이 죽이는 원칙 “나는 ~했을뿐”이라는 이기심? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221029114007343</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221029084140204"/>
         <updated>2022-10-29T01:01:19.737Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커튼콜’ 포스터 비하인드 현장 보니, 강풍에도 끄떡없는 비주얼 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221029082721068</id>
-        <link href="https://v.daum.net/v/20221029082721068"/>
-        <updated>2022-10-29T01:01:19.737Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
