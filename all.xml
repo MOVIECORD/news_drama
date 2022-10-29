@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-29T10:14:14.241Z</updated>
+    <updated>2022-10-29T11:11:18.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김혜수, 세자 발병 숨긴 죄로 '세자에게 접근 금지' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221029194018729</id>
+        <link href="https://v.daum.net/v/20221029194018729"/>
+        <updated>2022-10-29T11:11:09.532Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아, 열혈 팬 임세미와 대치…주세빈 사망 속 새 정황 발견 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221029180002038</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221029140641480"/>
         <updated>2022-10-29T05:18:18.911Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 강하늘X하지원X고두심 비하인드 샷만 봐도 느껴지는 품격 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221029135503378</id>
-        <link href="https://v.daum.net/v/20221029135503378"/>
-        <updated>2022-10-29T05:18:18.911Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
