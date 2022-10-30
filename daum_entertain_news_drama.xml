@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-30T13:29:56.409Z</updated>
+    <updated>2022-10-30T14:12:21.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김혜수, 배인혁 독살 의혹..김해숙 "네가 중전인 게 싫어"]]></title>
+        <id>https://v.daum.net/v/20221030225959250</id>
+        <link href="https://v.daum.net/v/20221030225959250"/>
+        <updated>2022-10-30T14:12:07.579Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김혜수, 걱정하는 왕 최원영에 "밤에 찾아오지 마"]]></title>
+        <id>https://v.daum.net/v/20221030225805239</id>
+        <link href="https://v.daum.net/v/20221030225805239"/>
+        <updated>2022-10-30T14:12:07.580Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘슈룹’ 김혜수, 원손 비밀놀이+독살시도 알고 패닉 “뱉어라”]]></title>
+        <id>https://v.daum.net/v/20221030224014160</id>
+        <link href="https://v.daum.net/v/20221030224014160"/>
+        <updated>2022-10-30T14:12:07.587Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘슈룹’ 배인혁 독살범은 옥자연... 김혜수, 원손 독살시도에 분노]]></title>
+        <id>https://v.daum.net/v/20221030223700146</id>
+        <link href="https://v.daum.net/v/20221030223700146"/>
+        <updated>2022-10-30T14:12:07.591Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘슈룹’ 김해숙, 김혜수에 “역적 서이숙 만난 것 폭로할 것”]]></title>
+        <id>https://v.daum.net/v/20221030223450138</id>
+        <link href="https://v.daum.net/v/20221030223450138"/>
+        <updated>2022-10-30T14:12:07.594Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 배인혁 잃은 김혜수 "대군들, 더는 하고 싶은 것만 할 수 없어"]]></title>
         <id>https://v.daum.net/v/20221030220909994</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20221030211830625"/>
         <updated>2022-10-30T12:24:12.678Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 이하나, 만취→장미희에 헛구역질.."점수 따고 싶었는데"]]></title>
-        <id>https://v.daum.net/v/20221030210737543</id>
-        <link href="https://v.daum.net/v/20221030210737543"/>
-        <updated>2022-10-30T12:24:12.678Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“주정에 구토까지” 이하나… 술 취해 임주환母 장미희 찾아]]></title>
-        <id>https://v.daum.net/v/20221030204818367</id>
-        <link href="https://v.daum.net/v/20221030204818367"/>
-        <updated>2022-10-30T12:24:12.681Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내 가슴에 대못 박아” 이경진, 이하나♥임주환 반대]]></title>
-        <id>https://v.daum.net/v/20221030204708359</id>
-        <link href="https://v.daum.net/v/20221030204708359"/>
-        <updated>2022-10-30T12:24:12.681Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 임주환♥이하나, 드디어 쌍방 로맨스 시작 '이마 키스']]></title>
-        <id>https://v.daum.net/v/20221030203719303</id>
-        <link href="https://v.daum.net/v/20221030203719303"/>
-        <updated>2022-10-30T12:24:12.681Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 이하나, 만취해 장미희에 헛구역질…임주환 어쩌나]]></title>
-        <id>https://v.daum.net/v/20221030201644125</id>
-        <link href="https://v.daum.net/v/20221030201644125"/>
-        <updated>2022-10-30T12:24:12.686Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
