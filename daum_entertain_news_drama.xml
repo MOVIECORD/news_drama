@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-30T10:13:34.519Z</updated>
+    <updated>2022-10-30T11:11:07.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드리핀, 컴백 연기 "이태원 참사 깊은 애도"]]></title>
+        <id>https://v.daum.net/v/20221030195518889</id>
+        <link href="https://v.daum.net/v/20221030195518889"/>
+        <updated>2022-10-30T11:10:57.797Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재, 다시 '흙수저'로 돌아왔다…반전 엔딩 장식]]></title>
         <id>https://v.daum.net/v/20221030172401786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221030125956389"/>
         <updated>2022-10-30T04:41:42.301Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘X하지원 ‘커튼콜’ 이태원 참사 여파 제작발표회 취소]]></title>
-        <id>https://v.daum.net/v/20221030123714091</id>
-        <link href="https://v.daum.net/v/20221030123714091"/>
-        <updated>2022-10-30T03:49:46.035Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
