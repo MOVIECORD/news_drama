@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-30T14:12:21.091Z</updated>
+    <updated>2022-10-30T15:13:21.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김혜수, 원손 몸에서 '독침' 흔적 발견… 배인혁 잃자마자 또 위기]]></title>
+        <id>https://v.daum.net/v/20221030235330463</id>
+        <link href="https://v.daum.net/v/20221030235330463"/>
+        <updated>2022-10-30T15:13:11.490Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 김혜수, 배인혁 독살 의혹..김해숙 "네가 중전인 게 싫어"]]></title>
         <id>https://v.daum.net/v/20221030225959250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221030211915630"/>
         <updated>2022-10-30T12:24:12.677Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼남매’ 이하나, 의도된 폭행사건으로 임주환 도왔다... 상견례도 함께]]></title>
-        <id>https://v.daum.net/v/20221030211830625</id>
-        <link href="https://v.daum.net/v/20221030211830625"/>
-        <updated>2022-10-30T12:24:12.678Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
