@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-30T08:15:40.346Z</updated>
+    <updated>2022-10-30T09:12:52.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[육성재, 다시 '흙수저'로 돌아왔다…반전 엔딩 장식 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221030172401786</id>
+        <link href="https://v.daum.net/v/20221030172401786"/>
+        <updated>2022-10-30T09:12:42.489Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘세자의 죽음’ →벼랑 끝으로 내몰린 중전 김혜수 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221030171513636</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221030123714091"/>
         <updated>2022-10-30T03:49:46.035Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 육성재, 다시 흙수저 됐다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221030115548149</id>
-        <link href="https://v.daum.net/v/20221030115548149"/>
-        <updated>2022-10-30T03:49:46.035Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
