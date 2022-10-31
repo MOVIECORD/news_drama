@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-31T16:19:31.725Z</updated>
+    <updated>2022-10-31T17:29:49.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[성동일, 고두심 위해 강하늘에 제안 "나랑 연극 한 번 해보자" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221101012343312</id>
+        <link href="https://v.daum.net/v/20221101012343312"/>
+        <updated>2022-10-31T17:29:39.988Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육성재·이종원에게 ‘가족’이란? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221101010007182</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221031205022170"/>
         <updated>2022-10-31T12:29:21.273Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영옥, 강지섭 결혼 반대→오승아, 박하나 기술 훔쳤다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221031204229094</id>
-        <link href="https://v.daum.net/v/20221031204229094"/>
-        <updated>2022-10-31T12:29:21.273Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
