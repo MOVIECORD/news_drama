@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T14:23:59.416Z</updated>
+    <updated>2022-10-31T15:14:09.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박세영, "난 치료자로 실패에요"...정우 협박하는 문성근에 자책]]></title>
+        <id>https://v.daum.net/v/20221031235801841</id>
+        <link href="https://v.daum.net/v/20221031235801841"/>
+        <updated>2022-10-31T15:14:00.028Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 성동일, 강하늘에 "인생 바꿀 연극" 제안]]></title>
+        <id>https://v.daum.net/v/20221031234614784</id>
+        <link href="https://v.daum.net/v/20221031234614784"/>
+        <updated>2022-10-31T15:14:00.037Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄유신 "광고 촬영서 과다 노출…방송 정지 당했다"]]></title>
+        <id>https://v.daum.net/v/20221031234123762</id>
+        <link href="https://v.daum.net/v/20221031234123762"/>
+        <updated>2022-10-31T15:14:00.047Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고두심, 몰래 호텔 매각하려던 지승현 저지..."왜 안 죽어서 서운해?"]]></title>
         <id>https://v.daum.net/v/20221031231704644</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221031202204875"/>
         <updated>2022-10-31T12:29:21.283Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 강지섭, 박하나·박윤재 의심 "뭐 있지?"]]></title>
-        <id>https://v.daum.net/v/20221031201030742</id>
-        <link href="https://v.daum.net/v/20221031201030742"/>
-        <updated>2022-10-31T11:12:58.245Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승아 분노 "박하나는 죽을 운명…모두에게 잘 된 일"]]></title>
-        <id>https://v.daum.net/v/20221031200841708</id>
-        <link href="https://v.daum.net/v/20221031200841708"/>
-        <updated>2022-10-31T11:12:58.247Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오늘 첫 방’ 강하늘X하지원, 바라만 봐도 ‘애틋+설렘’]]></title>
-        <id>https://v.daum.net/v/20221031185044548</id>
-        <link href="https://v.daum.net/v/20221031185044548"/>
-        <updated>2022-10-31T10:15:27.989Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
