@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T05:30:04.250Z</updated>
+    <updated>2022-10-31T06:17:52.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하지원X강하늘 '커튼콜', 쉴새없이 몰아치는 감동X재미X반전 "기대감 UP"]]></title>
+        <id>https://v.daum.net/v/20221031145412628</id>
+        <link href="https://v.daum.net/v/20221031145412628"/>
+        <updated>2022-10-31T06:17:40.026Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 "'더 패뷸러스' 제작발표회 및 공개 연기"]]></title>
+        <id>https://v.daum.net/v/20221031144400245</id>
+        <link href="https://v.daum.net/v/20221031144400245"/>
+        <updated>2022-10-31T06:17:40.026Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBS ‘치얼업’ 9·10회 결방 확정]]></title>
+        <id>https://v.daum.net/v/20221031143008652</id>
+        <link href="https://v.daum.net/v/20221031143008652"/>
+        <updated>2022-10-31T06:17:40.028Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘꼭두의계절’ 측, 故이지한 사망에 “촬영 중단, 재정비 후 재개 예정”]]></title>
         <id>https://v.daum.net/v/20221031142736467</id>
@@ -55,7 +76,7 @@
         <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['연예인 매니저로 살아남기' 제작발표회 연기…이태원 참사 애도]]></title>
+        <title type="html"><![CDATA['연예인 매니저로 살아남기', 제작발표회 연기…이태원 참사 애도]]></title>
         <id>https://v.daum.net/v/20221031133036520</id>
         <link href="https://v.daum.net/v/20221031133036520"/>
         <updated>2022-10-31T04:45:25.050Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221031132205337"/>
         <updated>2022-10-31T04:45:25.055Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 패뷸러스’ 측 “제작발표회·작품 공개 연기” 이태원 참사 애도]]></title>
-        <id>https://v.daum.net/v/20221031131131140</id>
-        <link href="https://v.daum.net/v/20221031131131140"/>
-        <updated>2022-10-31T04:45:25.061Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 살리는 김혜수 열연…11.3% 돌파]]></title>
-        <id>https://v.daum.net/v/20221031125319812</id>
-        <link href="https://v.daum.net/v/20221031125319812"/>
-        <updated>2022-10-31T04:45:25.061Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도엽 ‘소방서 옆 경찰서’ 출연, 의원 망나니 아들 된다]]></title>
-        <id>https://v.daum.net/v/20221031124100597</id>
-        <link href="https://v.daum.net/v/20221031124100597"/>
-        <updated>2022-10-31T03:43:47.261Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
