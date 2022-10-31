@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T15:14:09.940Z</updated>
+    <updated>2022-10-31T16:19:31.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육성재·이종원에게 ‘가족’이란?]]></title>
+        <id>https://v.daum.net/v/20221101010007182</id>
+        <link href="https://v.daum.net/v/20221101010007182"/>
+        <updated>2022-10-31T16:19:18.530Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["능력껏 지켜" '시한부' 고두심 뒤 하지원X지승현 본격 후계싸움 시작]]></title>
+        <id>https://v.daum.net/v/20221101004714154</id>
+        <link href="https://v.daum.net/v/20221101004714154"/>
+        <updated>2022-10-31T16:19:18.530Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세영, "난 치료자로 실패에요"...정우 협박하는 문성근에 자책]]></title>
         <id>https://v.daum.net/v/20221031235801841</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221031204229094"/>
         <updated>2022-10-31T12:29:21.273Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 빌런 오승아, 박하나 팩 도용 "박윤재도 회사도 가질 것"]]></title>
-        <id>https://v.daum.net/v/20221031203530023</id>
-        <link href="https://v.daum.net/v/20221031203530023"/>
-        <updated>2022-10-31T12:29:21.283Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승아, "바람이는 모두 위해서 잘 죽었어"...박하나 엿듣고 분노]]></title>
-        <id>https://v.daum.net/v/20221031202204875</id>
-        <link href="https://v.daum.net/v/20221031202204875"/>
-        <updated>2022-10-31T12:29:21.283Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
