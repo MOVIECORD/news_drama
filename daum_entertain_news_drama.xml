@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T07:13:28.818Z</updated>
+    <updated>2022-10-31T08:20:08.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선 "남일 같지 않다" 이태원 참사 애도]]></title>
+        <id>https://v.daum.net/v/20221031170400617</id>
+        <link href="https://v.daum.net/v/20221031170400617"/>
+        <updated>2022-10-31T08:19:59.202Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도엽, '소방서 옆 경찰서' 출연 확정…김래원과 대립]]></title>
+        <id>https://v.daum.net/v/20221031163105490</id>
+        <link href="https://v.daum.net/v/20221031163105490"/>
+        <updated>2022-10-31T08:19:59.203Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마·예능 결방→제발회 취소…이태원 참사에 방송가 올스톱]]></title>
+        <id>https://v.daum.net/v/20221031161835016</id>
+        <link href="https://v.daum.net/v/20221031161835016"/>
+        <updated>2022-10-31T08:19:59.203Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도상우 '환혼: 빛과 그림자' 합류, 황민현 숙부役]]></title>
         <id>https://v.daum.net/v/20221031160003324</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221031134230868"/>
         <updated>2022-10-31T04:45:25.030Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, 이태원 참사 추모 동참..팬미팅 티켓 예매 일정 연기]]></title>
-        <id>https://v.daum.net/v/20221031133637674</id>
-        <link href="https://v.daum.net/v/20221031133637674"/>
-        <updated>2022-10-31T04:45:25.042Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수, '슈룹'의 중심에 서다…폭풍 같은 열연]]></title>
-        <id>https://v.daum.net/v/20221031133128543</id>
-        <link href="https://v.daum.net/v/20221031133128543"/>
-        <updated>2022-10-31T04:45:25.045Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연예인 매니저로 살아남기', 제작발표회 연기…이태원 참사 애도]]></title>
-        <id>https://v.daum.net/v/20221031133036520</id>
-        <link href="https://v.daum.net/v/20221031133036520"/>
-        <updated>2022-10-31T04:45:25.050Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
