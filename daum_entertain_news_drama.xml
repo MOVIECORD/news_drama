@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T22:14:50.734Z</updated>
+    <updated>2022-10-31T23:14:31.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조수미, 시한부 고두심 마음 노래…오늘 ‘커튼콜’ OST 발표]]></title>
+        <id>https://v.daum.net/v/20221101075549227</id>
+        <link href="https://v.daum.net/v/20221101075549227"/>
+        <updated>2022-10-31T23:14:23.640Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고두심, 3개월 시한부 선고…북에 남편 두고 재혼한 과거사]]></title>
+        <id>https://v.daum.net/v/20221101074803120</id>
+        <link href="https://v.daum.net/v/20221101074803120"/>
+        <updated>2022-10-31T23:14:23.662Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘X하지원 '커튼콜', 첫방부터 터졌다...시청률 7.2% 출발]]></title>
+        <id>https://v.daum.net/v/20221101074241052</id>
+        <link href="https://v.daum.net/v/20221101074241052"/>
+        <updated>2022-10-31T23:14:23.663Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘X하지원 '커튼콜', 경쟁작 결방 효과? 시청률 7.2% 출발]]></title>
+        <id>https://v.daum.net/v/20221101072339814</id>
+        <link href="https://v.daum.net/v/20221101072339814"/>
+        <updated>2022-10-31T23:14:23.664Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고두심, 생이별한 손자 생각에 눈물…하지원·지승현 대립]]></title>
         <id>https://v.daum.net/v/20221101070006497</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221101012343312"/>
         <updated>2022-10-31T17:29:39.988Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육성재·이종원에게 ‘가족’이란?]]></title>
-        <id>https://v.daum.net/v/20221101010007182</id>
-        <link href="https://v.daum.net/v/20221101010007182"/>
-        <updated>2022-10-31T16:19:18.530Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["능력껏 지켜" '시한부' 고두심 뒤 하지원X지승현 본격 후계싸움 시작]]></title>
-        <id>https://v.daum.net/v/20221101004714154</id>
-        <link href="https://v.daum.net/v/20221101004714154"/>
-        <updated>2022-10-31T16:19:18.530Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박세영, "난 치료자로 실패에요"...정우 협박하는 문성근에 자책]]></title>
-        <id>https://v.daum.net/v/20221031235801841</id>
-        <link href="https://v.daum.net/v/20221031235801841"/>
-        <updated>2022-10-31T15:14:00.028Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 성동일, 강하늘에 "인생 바꿀 연극" 제안]]></title>
-        <id>https://v.daum.net/v/20221031234614784</id>
-        <link href="https://v.daum.net/v/20221031234614784"/>
-        <updated>2022-10-31T15:14:00.037Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
