@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T04:45:36.104Z</updated>
+    <updated>2022-10-31T05:30:04.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘꼭두의계절’ 측, 故이지한 사망에 “촬영 중단, 재정비 후 재개 예정”]]></title>
+        <id>https://v.daum.net/v/20221031142736467</id>
+        <link href="https://v.daum.net/v/20221031142736467"/>
+        <updated>2022-10-31T05:29:54.456Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘커튼콜’ 강하늘 하지원, 바라보는 것만으로 애틋한 부부 케미]]></title>
+        <id>https://v.daum.net/v/20221031141646059</id>
+        <link href="https://v.daum.net/v/20221031141646059"/>
+        <updated>2022-10-31T05:29:54.458Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최수종·하희라 예능 '세컨하우스', 제작발표회 취소]]></title>
+        <id>https://v.daum.net/v/20221031140036432</id>
+        <link href="https://v.daum.net/v/20221031140036432"/>
+        <updated>2022-10-31T05:29:54.459Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 패뷸러스' 제작발표회·공개 일정 연기…이태원 참사 애도]]></title>
+        <id>https://v.daum.net/v/20221031134602979</id>
+        <link href="https://v.daum.net/v/20221031134602979"/>
+        <updated>2022-10-31T05:29:54.462Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강나언 ‘구미호뎐 1938’ 출연, 이동욱→김소연과 호흡]]></title>
         <id>https://v.daum.net/v/20221031134230868</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221031124100597"/>
         <updated>2022-10-31T03:43:47.261Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수의 아픈 손가락..'슈룹' 문상민, 배인혁 잃고 각성할까]]></title>
-        <id>https://v.daum.net/v/20221031121017931</id>
-        <link href="https://v.daum.net/v/20221031121017931"/>
-        <updated>2022-10-31T03:43:47.279Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 이종원, 육성재 대신 흙수저 택했는데..본투비 금수저로]]></title>
-        <id>https://v.daum.net/v/20221031114214877</id>
-        <link href="https://v.daum.net/v/20221031114214877"/>
-        <updated>2022-10-31T03:43:47.279Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도엽, '소방서 옆 경찰서' 출연 확정..망나니 금수저로 변신]]></title>
-        <id>https://v.daum.net/v/20221031113855730</id>
-        <link href="https://v.daum.net/v/20221031113855730"/>
-        <updated>2022-10-31T03:43:47.279Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 이지한 비보에…'꼭두의 계절' 촬영 중단 "재정비 후 재개"]]></title>
-        <id>https://v.daum.net/v/20221031113445520</id>
-        <link href="https://v.daum.net/v/20221031113445520"/>
-        <updated>2022-10-31T03:43:47.280Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
