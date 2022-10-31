@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-10-31T10:15:37.816Z</updated>
+    <updated>2022-10-31T11:13:07.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 강지섭, 박하나·박윤재 의심 "뭐 있지?"]]></title>
+        <id>https://v.daum.net/v/20221031201030742</id>
+        <link href="https://v.daum.net/v/20221031201030742"/>
+        <updated>2022-10-31T11:12:58.245Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오승아 분노 "박하나는 죽을 운명…모두에게 잘 된 일"]]></title>
+        <id>https://v.daum.net/v/20221031200841708</id>
+        <link href="https://v.daum.net/v/20221031200841708"/>
+        <updated>2022-10-31T11:12:58.247Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오늘 첫 방’ 강하늘X하지원, 바라만 봐도 ‘애틋+설렘’]]></title>
         <id>https://v.daum.net/v/20221031185044548</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221031142736467"/>
         <updated>2022-10-31T05:29:54.456Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커튼콜’ 강하늘 하지원, 바라보는 것만으로 애틋한 부부 케미]]></title>
-        <id>https://v.daum.net/v/20221031141646059</id>
-        <link href="https://v.daum.net/v/20221031141646059"/>
-        <updated>2022-10-31T05:29:54.458Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종·하희라 예능 '세컨하우스', 제작발표회 취소]]></title>
-        <id>https://v.daum.net/v/20221031140036432</id>
-        <link href="https://v.daum.net/v/20221031140036432"/>
-        <updated>2022-10-31T05:29:54.459Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
