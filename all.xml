@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-01T08:17:35.439Z</updated>
+    <updated>2022-11-01T09:14:03.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부', 한국시리즈 1차전 중계로 결방…'커튼콜' 정상 방송 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221101180346058</id>
+        <link href="https://v.daum.net/v/20221101180346058"/>
+        <updated>2022-11-01T09:13:56.414Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘커튼콜’ 노상현 강렬한 첫 등장, 간담 서늘해지는 눈빛 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221101164201965</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221101104502979"/>
         <updated>2022-11-01T04:06:05.438Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멘탈코치 제갈길' 김시은 "작품 통해 멘탈 케어 받았다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221101104421950</id>
-        <link href="https://v.daum.net/v/20221101104421950"/>
-        <updated>2022-11-01T04:06:05.439Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
