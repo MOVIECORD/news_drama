@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-01T05:43:43.197Z</updated>
+    <updated>2022-11-01T06:23:00.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주원·수애·이다희·김옥빈·김성오, 고스트 스튜디오서 새 출발…의리의 동행]]></title>
+        <id>https://v.daum.net/v/20221101151202100</id>
+        <link href="https://v.daum.net/v/20221101151202100"/>
+        <updated>2022-11-01T06:22:51.390Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고두심 대성통곡 1초 전 포착 “심금 울릴 손님 찾아온다”]]></title>
+        <id>https://v.daum.net/v/20221101150253672</id>
+        <link href="https://v.daum.net/v/20221101150253672"/>
+        <updated>2022-11-01T06:22:51.396Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시한부 고두심, 오열하기 1초전! 북에서 온 VIP는 누구?]]></title>
         <id>https://v.daum.net/v/20221101143526386</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221101104417948"/>
         <updated>2022-11-01T04:06:05.441Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제갈길 빌런' 김시은 "3개월간 스케이팅 훈련, 50점 주고파"]]></title>
-        <id>https://v.daum.net/v/20221101102601225</id>
-        <link href="https://v.daum.net/v/20221101102601225"/>
-        <updated>2022-11-01T04:06:05.450Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김시은 "스케이팅, 크게 넘어진 적 있어…점수는 50점"]]></title>
-        <id>https://v.daum.net/v/20221101102540211</id>
-        <link href="https://v.daum.net/v/20221101102540211"/>
-        <updated>2022-11-01T04:06:05.451Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
