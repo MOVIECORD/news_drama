@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-02T09:13:08.022Z</updated>
+    <updated>2022-11-02T10:14:41.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멘탈코치 제갈길' 정우 "우리 모두 승리하는 이야기 통해 힐링 얻었죠"]]></title>
+        <id>https://v.daum.net/v/20221102184411771</id>
+        <link href="https://v.daum.net/v/20221102184411771"/>
+        <updated>2022-11-02T10:14:34.045Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘멘탈코치 제갈길’ 권율 “자부심 된 작품”]]></title>
+        <id>https://v.daum.net/v/20221102182013187</id>
+        <link href="https://v.daum.net/v/20221102182013187"/>
+        <updated>2022-11-02T10:14:34.050Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하지원과 대립하는데도..지승현, 냉정함 속 숨겨진 따스한 반전매력]]></title>
         <id>https://v.daum.net/v/20221102180124770</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20221102142913707</id>
         <link href="https://v.daum.net/v/20221102142913707"/>
         <updated>2022-11-02T05:41:40.356Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 도경수, 바다 위 당당한 꼴통검사]]></title>
-        <id>https://v.daum.net/v/20221102142724660</id>
-        <link href="https://v.daum.net/v/20221102142724660"/>
-        <updated>2022-11-02T05:41:40.357Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천변’ 김지은, 차기작은 ‘오랫동안 당신을 기다려왔습니다’..나인우와 호흡]]></title>
-        <id>https://v.daum.net/v/20221102141122080</id>
-        <link href="https://v.daum.net/v/20221102141122080"/>
-        <updated>2022-11-02T05:41:40.359Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
