@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-02T06:21:00.248Z</updated>
+    <updated>2022-11-02T07:14:04.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박세영 ‘멘탈코치 제갈길’ 종영소감 “마음의 위로 준 작품”]]></title>
+        <id>https://v.daum.net/v/20221102161058489</id>
+        <link href="https://v.daum.net/v/20221102161058489"/>
+        <updated>2022-11-02T07:13:56.567Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['변론을 시작하겠습니다' 정민성 "희생자 한 풀리길"]]></title>
+        <id>https://v.daum.net/v/20221102155132782</id>
+        <link href="https://v.daum.net/v/20221102155132782"/>
+        <updated>2022-11-02T07:13:56.567Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매가 용감하게' 바람 잘 날 없는 이야기…볼수록 빠져든다]]></title>
+        <id>https://v.daum.net/v/20221102154641589</id>
+        <link href="https://v.daum.net/v/20221102154641589"/>
+        <updated>2022-11-02T07:13:56.568Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘진검승부’ 측 “도경수X연준석 바다行, 강철 케미 증명”]]></title>
+        <id>https://v.daum.net/v/20221102153825303</id>
+        <link href="https://v.daum.net/v/20221102153825303"/>
+        <updated>2022-11-02T07:13:56.568Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임원희 '낭만닥터 김사부3' 합류..한석규와 인연ing]]></title>
         <id>https://v.daum.net/v/20221102151640491</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221102115210995"/>
         <updated>2022-11-02T03:53:18.943Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박세영 "정우 잃을까 두려웠다..'제갈길', 힘든 세상 위로가 되길"]]></title>
-        <id>https://v.daum.net/v/20221102113819500</id>
-        <link href="https://v.daum.net/v/20221102113819500"/>
-        <updated>2022-11-02T03:53:18.951Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권율 "'멘탈코치 제갈길' 여운 아직까지 남아"]]></title>
-        <id>https://v.daum.net/v/20221102110027691</id>
-        <link href="https://v.daum.net/v/20221102110027691"/>
-        <updated>2022-11-02T03:53:18.952Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우 "'멘탈코치 제갈길', 우리 모두 승자 될 수 있는 이야기"]]></title>
-        <id>https://v.daum.net/v/20221102105002234</id>
-        <link href="https://v.daum.net/v/20221102105002234"/>
-        <updated>2022-11-02T03:53:18.954Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진검승부' 측 "4회 남기고 예상치 못했던 반전 펼쳐진다"]]></title>
-        <id>https://v.daum.net/v/20221102104312998</id>
-        <link href="https://v.daum.net/v/20221102104312998"/>
-        <updated>2022-11-02T03:53:18.955Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
