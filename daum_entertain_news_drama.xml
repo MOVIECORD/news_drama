@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-02T07:14:04.049Z</updated>
+    <updated>2022-11-02T08:17:19.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바람·사기·이사·화해...'삼남매가 용감하게' 요약 키워드]]></title>
+        <id>https://v.daum.net/v/20221102165600935</id>
+        <link href="https://v.daum.net/v/20221102165600935"/>
+        <updated>2022-11-02T08:17:11.098Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임원희, ‘낭만닥터 김사부3’ 출연 확정..장실장 복귀한다]]></title>
+        <id>https://v.daum.net/v/20221102164717679</id>
+        <link href="https://v.daum.net/v/20221102164717679"/>
+        <updated>2022-11-02T08:17:11.101Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강혜원X윤현수, 디즈니 만화 속 주인공 뺨치는 비주얼]]></title>
+        <id>https://v.daum.net/v/20221102161422614</id>
+        <link href="https://v.daum.net/v/20221102161422614"/>
+        <updated>2022-11-02T08:17:11.104Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박세영 ‘멘탈코치 제갈길’ 종영소감 “마음의 위로 준 작품”]]></title>
         <id>https://v.daum.net/v/20221102161058489</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221102132351754"/>
         <updated>2022-11-02T04:57:23.009Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지안, '낭만닥터 김사부3' 엄쌤으로 또 함께]]></title>
-        <id>https://v.daum.net/v/20221102130400349</id>
-        <link href="https://v.daum.net/v/20221102130400349"/>
-        <updated>2022-11-02T04:57:23.009Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천변’ 김지은, 차기작 확정 “‘오랫동안 당신을 기다려왔습니다’ 출연”]]></title>
-        <id>https://v.daum.net/v/20221102120143373</id>
-        <link href="https://v.daum.net/v/20221102120143373"/>
-        <updated>2022-11-02T03:53:18.941Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원케이, ‘마녀의 게임’ OST 가창…호소력 짙은 보컬 예고]]></title>
-        <id>https://v.daum.net/v/20221102115210995</id>
-        <link href="https://v.daum.net/v/20221102115210995"/>
-        <updated>2022-11-02T03:53:18.943Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
