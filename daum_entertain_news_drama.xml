@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-02T20:13:17.794Z</updated>
+    <updated>2022-11-02T21:13:43.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['진검승부' 도경수, 이우성 자백 듣고 살인사건 진범 알아낼까]]></title>
+        <id>https://v.daum.net/v/20221103060002230</id>
+        <link href="https://v.daum.net/v/20221103060002230"/>
+        <updated>2022-11-02T21:13:35.918Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['진검승부' 도경수, 이우성 집에서 20억 원 발견→우환 '긴장']]></title>
         <id>https://v.daum.net/v/20221103001146298</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221102201938946</id>
         <link href="https://v.daum.net/v/20221102201938946"/>
         <updated>2022-11-02T12:28:06.999Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 손창민, 박하나에 스카우트 제안 "직책 주겠다"]]></title>
-        <id>https://v.daum.net/v/20221102201336780</id>
-        <link href="https://v.daum.net/v/20221102201336780"/>
-        <updated>2022-11-02T12:28:07.000Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
