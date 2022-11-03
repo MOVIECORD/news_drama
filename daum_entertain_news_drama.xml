@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-03T08:18:43.764Z</updated>
+    <updated>2022-11-03T09:13:45.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천원짜리 변호사' 종영까지 2회…남궁민 복수 엔딩 어떨까]]></title>
+        <id>https://v.daum.net/v/20221103174150983</id>
+        <link href="https://v.daum.net/v/20221103174150983"/>
+        <updated>2022-11-03T09:13:32.458Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최종선택 앞둔 '잠만사', 표바하·박세령 女들의 러브라인 전쟁]]></title>
         <id>https://v.daum.net/v/20221103163223627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221103144552391"/>
         <updated>2022-11-03T06:16:07.296Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민이 씹어 먹는 '형사록', 그 참회의 정서에 특히 공감되는 건]]></title>
-        <id>https://v.daum.net/v/20221103142244599</id>
-        <link href="https://v.daum.net/v/20221103142244599"/>
-        <updated>2022-11-03T06:16:07.298Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
