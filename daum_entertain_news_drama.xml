@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-03T12:24:32.697Z</updated>
+    <updated>2022-11-03T13:40:08.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜수라서? 정통 사극 아닌 ‘슈룹’ 안방 通했다]]></title>
+        <id>https://v.daum.net/v/20221103220836793</id>
+        <link href="https://v.daum.net/v/20221103220836793"/>
+        <updated>2022-11-03T13:40:00.136Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배누리, "저 부사장님께 찍힌거 맞죠?"...자신이 주워준 스카프 버린 경숙에 당황]]></title>
+        <id>https://v.daum.net/v/20221103213101313</id>
+        <link href="https://v.daum.net/v/20221103213101313"/>
+        <updated>2022-11-03T13:40:00.145Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['진검승부' 도경수와 김상호..운명이었다]]></title>
         <id>https://v.daum.net/v/20221103210821004</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221103191503257"/>
         <updated>2022-11-03T11:10:44.552Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준·한소희 '경성크리처', 시즌2 제작 확정]]></title>
-        <id>https://v.daum.net/v/20221103185950020</id>
-        <link href="https://v.daum.net/v/20221103185950020"/>
-        <updated>2022-11-03T10:13:49.815Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 측 “‘경성크리처2’ 제작 확정, 촬영 일정 미정”]]></title>
-        <id>https://v.daum.net/v/20221103182709473</id>
-        <link href="https://v.daum.net/v/20221103182709473"/>
-        <updated>2022-11-03T10:13:49.816Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
