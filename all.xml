@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-03T07:11:20.346Z</updated>
+    <updated>2022-11-03T08:18:43.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최종선택 앞둔 '잠만사', 표바하·박세령 女들의 러브라인 전쟁 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221103163223627</id>
+        <link href="https://v.daum.net/v/20221103163223627"/>
+        <updated>2022-11-03T08:18:35.129Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준X한소희 '경성크리처' 시즌2 나온다..내년 초 첫 촬영 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221103160542575</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221103142244599"/>
         <updated>2022-11-03T06:16:07.298Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민 ‘천원짜리 변호사’ 오늘 마지막 촬영 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221103140133805</id>
-        <link href="https://v.daum.net/v/20221103140133805"/>
-        <updated>2022-11-03T05:19:12.937Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
