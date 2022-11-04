@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-04T07:11:58.730Z</updated>
+    <updated>2022-11-04T08:17:41.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['컬투쇼' 김태균 "이태원 참사, 꿈을 막 펼치 젊은 꽃들이 져"]]></title>
+        <title type="html"><![CDATA['음주운전' 김새론, 생활고로 카페 알바는 사실…"지금은 그만둬"]]></title>
+        <id>https://v.daum.net/v/20221104171645898</id>
+        <link href="https://v.daum.net/v/20221104171645898"/>
+        <updated>2022-11-04T08:17:32.554Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김상호, 도경수 지키려다 김창완에 당했다…안방극장 충격]]></title>
+        <id>https://v.daum.net/v/20221104170303544</id>
+        <link href="https://v.daum.net/v/20221104170303544"/>
+        <updated>2022-11-04T08:17:32.554Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수현, 박지은 신작 '눈물의 여왕'으로 '별그대' 영광 재현할까]]></title>
+        <id>https://v.daum.net/v/20221104165000171</id>
+        <link href="https://v.daum.net/v/20221104165000171"/>
+        <updated>2022-11-04T08:17:32.555Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컬투쇼' 김태균 "이태원 참사, 꿈을 막 펼칠 젊은 꽃들이 져"]]></title>
         <id>https://v.daum.net/v/20221104155519407</id>
         <link href="https://v.daum.net/v/20221104155519407"/>
         <updated>2022-11-04T07:11:48.732Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221104135556004"/>
         <updated>2022-11-04T05:20:09.123Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금쪽' 태사자 김형준, 마흔 넘도록 父에 금전적 지원 받아]]></title>
-        <id>https://v.daum.net/v/20221104135453990</id>
-        <link href="https://v.daum.net/v/20221104135453990"/>
-        <updated>2022-11-04T05:20:09.125Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년을 위로해줘!' 제작진 "오메가엑스 사태 유감, 처우 개선 지지"]]></title>
-        <id>https://v.daum.net/v/20221104134637799</id>
-        <link href="https://v.daum.net/v/20221104134637799"/>
-        <updated>2022-11-04T05:20:09.129Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주연, '낭만닥터 김사부3'도 함께한다]]></title>
-        <id>https://v.daum.net/v/20221104121000082</id>
-        <link href="https://v.daum.net/v/20221104121000082"/>
-        <updated>2022-11-04T03:38:55.852Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
