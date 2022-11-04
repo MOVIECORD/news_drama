@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-04T08:17:41.352Z</updated>
+    <updated>2022-11-04T09:12:28.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박수홍 "박경림, 친동생 같아…명절에 갈데 없을까봐 음식 챙겨줘" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20221104173151347</id>
+        <link href="https://v.daum.net/v/20221104173151347"/>
+        <updated>2022-11-04T09:12:19.903Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주운전' 김새론, 생활고로 카페 알바는 사실…"지금은 그만둬" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221104171645898</id>
@@ -40,7 +47,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["고도소 같아"…서열 지켜야 사는 6남매 본 오은영, 다급히 'STOP!' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <title type="html"><![CDATA["교도소 같아"…서열 지켜야 사는 6남매 본 오은영, 다급히 'STOP!' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20221104151806337</id>
         <link href="https://v.daum.net/v/20221104151806337"/>
         <updated>2022-11-04T07:11:48.732Z</updated>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20221104140007110"/>
         <updated>2022-11-04T05:20:09.121Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘블라썸’ 소주연 “크게 성장한 캐릭터, 아끼는 마음으로 촬영” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20221104135556004</id>
-        <link href="https://v.daum.net/v/20221104135556004"/>
-        <updated>2022-11-04T05:20:09.123Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
