@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-04T06:16:48.879Z</updated>
+    <updated>2022-11-04T07:11:58.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컬투쇼' 김태균 "이태원 참사, 꿈을 막 펼치 젊은 꽃들이 져"]]></title>
+        <id>https://v.daum.net/v/20221104155519407</id>
+        <link href="https://v.daum.net/v/20221104155519407"/>
+        <updated>2022-11-04T07:11:48.732Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 나가던 '천원짜리 변호사', 결방이 밉다]]></title>
+        <id>https://v.daum.net/v/20221104153008575</id>
+        <link href="https://v.daum.net/v/20221104153008575"/>
+        <updated>2022-11-04T07:11:48.732Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고도소 같아"…서열 지켜야 사는 6남매 본 오은영, 다급히 'STOP!']]></title>
+        <id>https://v.daum.net/v/20221104151806337</id>
+        <link href="https://v.daum.net/v/20221104151806337"/>
+        <updated>2022-11-04T07:11:48.732Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금수저' KBO 중계 여파..오늘 10시 40분 방송]]></title>
         <id>https://v.daum.net/v/20221104150251855</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221104121000082"/>
         <updated>2022-11-04T03:38:55.852Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규X전종서 ‘몸값’ 내년 파라마운트+ 글로벌 공개]]></title>
-        <id>https://v.daum.net/v/20221104120346953</id>
-        <link href="https://v.daum.net/v/20221104120346953"/>
-        <updated>2022-11-04T03:38:55.856Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쌍둥이 엄마 이영애 입니다"..손편지와 전한 1000만원]]></title>
-        <id>https://v.daum.net/v/20221104115236636</id>
-        <link href="https://v.daum.net/v/20221104115236636"/>
-        <updated>2022-11-04T03:38:55.856Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘몸값’ 측 “진선규X전종서X장률 예측불가 반전 속 신들린 연기”]]></title>
-        <id>https://v.daum.net/v/20221104114821528</id>
-        <link href="https://v.daum.net/v/20221104114821528"/>
-        <updated>2022-11-04T03:38:55.858Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
