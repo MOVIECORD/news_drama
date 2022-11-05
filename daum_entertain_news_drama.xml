@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-05T15:11:59.096Z</updated>
+    <updated>2022-11-05T16:15:08.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이혼해” 김선아, 김균하 변호 맡은 안재욱에 ‘분노’]]></title>
+        <id>https://v.daum.net/v/20221106005022333</id>
+        <link href="https://v.daum.net/v/20221106005022333"/>
+        <updated>2022-11-05T16:14:58.703Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최대철, 육성재 대신 칼 맞고 죽음…"못 알아봐 미안"]]></title>
+        <id>https://v.daum.net/v/20221106002505268</id>
+        <link href="https://v.daum.net/v/20221106002505268"/>
+        <updated>2022-11-05T16:14:58.705Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['디 엠파이어' 오현경, 권지우에 "내가 생색낼 수 있게 방에서 나와달라" 눈물 호소]]></title>
+        <id>https://v.daum.net/v/20221106001203236</id>
+        <link href="https://v.daum.net/v/20221106001203236"/>
+        <updated>2022-11-05T16:14:58.705Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연우, 육성재 두고 정채연 도발 “걘 절대 가난한 이승천으로 돌아가지 않아”]]></title>
         <id>https://v.daum.net/v/20221105235806145</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221105230748982"/>
         <updated>2022-11-05T14:10:39.131Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천변’ 남궁민, 김지은과 다시 뭉쳤다... 진범 만나 “보고 싶었어”]]></title>
-        <id>https://v.daum.net/v/20221105230631979</id>
-        <link href="https://v.daum.net/v/20221105230631979"/>
-        <updated>2022-11-05T14:10:39.149Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수, 세자빈 '출궁'→문상민에 '세자' 자리 제안]]></title>
-        <id>https://v.daum.net/v/20221105230425973</id>
-        <link href="https://v.daum.net/v/20221105230425973"/>
-        <updated>2022-11-05T14:10:39.151Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, 영장 없이 주성 털었다..장일 “대한민국 무법천지냐” 분노]]></title>
-        <id>https://v.daum.net/v/20221105225735941</id>
-        <link href="https://v.daum.net/v/20221105225735941"/>
-        <updated>2022-11-05T14:10:39.151Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
