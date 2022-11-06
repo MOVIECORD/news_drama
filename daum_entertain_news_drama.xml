@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-06T15:13:53.829Z</updated>
+    <updated>2022-11-06T16:16:38.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜수 “대가 치를 것”, 子 문상민 살해 지시 김해숙에 ‘경고’]]></title>
+        <id>https://v.daum.net/v/20221107005018022</id>
+        <link href="https://v.daum.net/v/20221107005018022"/>
+        <updated>2022-11-06T16:16:30.837Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘김선아 아들’ 권지우, 동성애 비밀 드러나]]></title>
         <id>https://v.daum.net/v/20221106225228363</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221106212751682"/>
         <updated>2022-11-06T13:24:25.970Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼남매’ 임주환, 장미희에 “이하나에게 청혼할 것” 분가 선언]]></title>
-        <id>https://v.daum.net/v/20221106212030641</id>
-        <link href="https://v.daum.net/v/20221106212030641"/>
-        <updated>2022-11-06T12:21:47.353Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
