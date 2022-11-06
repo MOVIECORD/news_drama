@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-06T08:15:09.178Z</updated>
+    <updated>2022-11-06T09:13:15.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가우스전자' 고성희 "꽁꽁 숨겼던 진짜 나 보여줄 수 있어서 즐거웠다"]]></title>
+        <id>https://v.daum.net/v/20221106174805668</id>
+        <link href="https://v.daum.net/v/20221106174805668"/>
+        <updated>2022-11-06T09:13:02.242Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문예원, 웨딩드레스 입고 오열…충격 빠트린 사건은?]]></title>
         <id>https://v.daum.net/v/20221106170342777</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221106124916119"/>
         <updated>2022-11-06T04:21:40.956Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막 내린 하석진의 오랜 복수극…옥택연·정은지, 희망 안긴 움직임]]></title>
-        <id>https://v.daum.net/v/20221106115023279</id>
-        <link href="https://v.daum.net/v/20221106115023279"/>
-        <updated>2022-11-06T03:20:35.461Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
