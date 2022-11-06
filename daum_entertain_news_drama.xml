@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-06T07:11:38.171Z</updated>
+    <updated>2022-11-06T08:15:09.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문예원, 웨딩드레스 입고 오열…충격 빠트린 사건은?]]></title>
+        <id>https://v.daum.net/v/20221106170342777</id>
+        <link href="https://v.daum.net/v/20221106170342777"/>
+        <updated>2022-11-06T08:15:00.283Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문예원, 웨딩드레스 입고 주저앉아 폭풍 눈물…정우진 부축]]></title>
+        <id>https://v.daum.net/v/20221106162852259</id>
+        <link href="https://v.daum.net/v/20221106162852259"/>
+        <updated>2022-11-06T08:15:00.284Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아･안재욱, ‘죽은 주세빈 연인’ 아들 권지우 위해 부부싸움 휴정]]></title>
         <id>https://v.daum.net/v/20221106154951518</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221106115023279"/>
         <updated>2022-11-06T03:20:35.461Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘나가는 '슈룹', 비판 옳지만 사극적 허용 이해해야]]></title>
-        <id>https://v.daum.net/v/20221106115019278</id>
-        <link href="https://v.daum.net/v/20221106115019278"/>
-        <updated>2022-11-06T03:20:35.464Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 무슨 연기를 이렇게 맛있게 해?]]></title>
-        <id>https://v.daum.net/v/20221106113819070</id>
-        <link href="https://v.daum.net/v/20221106113819070"/>
-        <updated>2022-11-06T03:20:35.468Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
