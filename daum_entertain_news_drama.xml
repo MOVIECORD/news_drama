@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-07T08:18:21.282Z</updated>
+    <updated>2022-11-07T09:12:58.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주현영, 또 사회초년생…주기자와 뭐가 다를까?]]></title>
+        <id>https://v.daum.net/v/20221107181007345</id>
+        <link href="https://v.daum.net/v/20221107181007345"/>
+        <updated>2022-11-07T09:12:50.754Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 송중기·이성민·신현빈, 짜릿한 전쟁 예고]]></title>
+        <id>https://v.daum.net/v/20221107175826972</id>
+        <link href="https://v.daum.net/v/20221107175826972"/>
+        <updated>2022-11-07T09:12:50.754Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블라인드' 옥택연 "다음에는 밝은 역할로 컴백"]]></title>
+        <id>https://v.daum.net/v/20221107174500628</id>
+        <link href="https://v.daum.net/v/20221107174500628"/>
+        <updated>2022-11-07T09:12:50.754Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엉망진창 된 교실 속 박지훈-최현욱-홍경]]></title>
         <id>https://v.daum.net/v/20221107171730709</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221107153001794"/>
         <updated>2022-11-07T07:12:49.681Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연기가 美쳤어요!"..'연매살' 이서진에 곽선영까지, '믿보배'들의 자부심]]></title>
-        <id>https://v.daum.net/v/20221107152119498</id>
-        <link href="https://v.daum.net/v/20221107152119498"/>
-        <updated>2022-11-07T07:12:49.681Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연매살' 이서진 "출연? 어쩔 수 없이..빠질 수 없었다"]]></title>
-        <id>https://v.daum.net/v/20221107151556311</id>
-        <link href="https://v.daum.net/v/20221107151556311"/>
-        <updated>2022-11-07T07:12:49.681Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연예인 매니저'된 이서진→주현영, 역지사지 연기 어떨까]]></title>
-        <id>https://v.daum.net/v/20221107151539307</id>
-        <link href="https://v.daum.net/v/20221107151539307"/>
-        <updated>2022-11-07T07:12:49.681Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
