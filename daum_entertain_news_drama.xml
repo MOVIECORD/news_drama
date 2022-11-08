@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-08T16:17:00.234Z</updated>
+    <updated>2022-11-08T17:21:15.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진선규vs이희준 캐스팅 신경전..주현영, 이서진에 "나는 가족 아니냐" 눈물]]></title>
+        <id>https://v.daum.net/v/20221109011742739</id>
+        <link href="https://v.daum.net/v/20221109011742739"/>
+        <updated>2022-11-08T17:21:06.681Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진선규vs이희준, 변영주 감독 차기작 캐스팅 두고 몸싸움→극적 화해]]></title>
         <id>https://v.daum.net/v/20221109003117342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221108210009466"/>
         <updated>2022-11-08T12:27:36.422Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 차광수와 대면.. "지금이 기회야"]]></title>
-        <id>https://v.daum.net/v/20221108203228758</id>
-        <link href="https://v.daum.net/v/20221108203228758"/>
-        <updated>2022-11-08T12:27:36.424Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
