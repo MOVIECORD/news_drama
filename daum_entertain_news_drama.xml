@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-09T09:12:43.865Z</updated>
+    <updated>2022-11-09T10:13:36.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘진검승부’ 도경수·김창완, 살얼음판 같은 독대 “한 방 기대해달라”]]></title>
+        <id>https://v.daum.net/v/20221109182213616</id>
+        <link href="https://v.daum.net/v/20221109182213616"/>
+        <updated>2022-11-09T10:13:29.232Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이런 선배 어디 없나…장규리, 멋쁨 매력+강렬 걸크러시에 심쿵]]></title>
         <id>https://v.daum.net/v/20221109180109946</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221109161719960</id>
         <link href="https://v.daum.net/v/20221109161719960"/>
         <updated>2022-11-09T08:17:52.066Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱, 이번엔 뇌섹남 시간 여행자..'어쩌나 마주친, 그대']]></title>
-        <id>https://v.daum.net/v/20221109160939554</id>
-        <link href="https://v.daum.net/v/20221109160939554"/>
-        <updated>2022-11-09T07:13:56.308Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
