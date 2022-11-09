@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-09T20:14:10.225Z</updated>
+    <updated>2022-11-09T21:12:57.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘진검승부’ 날아다닌 도경수, KBS 수목극 구원투수 됐다]]></title>
+        <id>https://v.daum.net/v/20221110061106111</id>
+        <link href="https://v.daum.net/v/20221110061106111"/>
+        <updated>2022-11-09T21:12:49.248Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['푸드 크로니클' 이욱정 PD "음식 맛있을 땐 카메라가 먹어…부러워마시길"]]></title>
+        <id>https://v.daum.net/v/20221110060026812</id>
+        <link href="https://v.daum.net/v/20221110060026812"/>
+        <updated>2022-11-09T21:12:49.248Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박순천, 이아현 편만 드는 시어머니에 섭섭함 토로 → 정혜선 가출]]></title>
         <id>https://v.daum.net/v/20221109214503641</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221109182213616"/>
         <updated>2022-11-09T10:13:29.232Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 선배 어디 없나…장규리, 멋쁨 매력+강렬 걸크러시에 심쿵]]></title>
-        <id>https://v.daum.net/v/20221109180109946</id>
-        <link href="https://v.daum.net/v/20221109180109946"/>
-        <updated>2022-11-09T09:12:36.595Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천원짜리 변호사' 측, 제작사·작가 불화설 부인 "사실무근"]]></title>
-        <id>https://v.daum.net/v/20221109180008864</id>
-        <link href="https://v.daum.net/v/20221109180008864"/>
-        <updated>2022-11-09T09:12:36.597Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
