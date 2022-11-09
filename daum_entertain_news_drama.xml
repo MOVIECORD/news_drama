@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-09T12:28:41.190Z</updated>
+    <updated>2022-11-09T13:41:01.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박순천, 이아현 편만 드는 시어머니에 섭섭함 토로 → 정혜선 가출]]></title>
+        <id>https://v.daum.net/v/20221109214503641</id>
+        <link href="https://v.daum.net/v/20221109214503641"/>
+        <updated>2022-11-09T13:40:54.540Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“불화는 사실무근” ‘천원짜리 변호사’ 해명에도 계속되는 논란]]></title>
         <id>https://v.daum.net/v/20221109210928302</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221109180008864"/>
         <updated>2022-11-09T09:12:36.597Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘약한영웅’이 온다..플레이리스트, 기대평 이벤트 깜짝 공개]]></title>
-        <id>https://v.daum.net/v/20221109175202640</id>
-        <link href="https://v.daum.net/v/20221109175202640"/>
-        <updated>2022-11-09T09:12:36.597Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
