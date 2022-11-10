@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-10T13:44:43.683Z</updated>
+    <updated>2022-11-10T14:25:07.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준영, 이혜리X박수영 비밀 지켜주는 센스 발휘..."저도 공무원 준비 중"]]></title>
+        <id>https://v.daum.net/v/20221110225101167</id>
+        <link href="https://v.daum.net/v/20221110225101167"/>
+        <updated>2022-11-10T14:24:58.884Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘바달집’ 김민하 “‘파친코’ 첫 촬영 안동에서…감회 새롭다”]]></title>
         <id>https://v.daum.net/v/20221110224115106</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221110193827590"/>
         <updated>2022-11-10T11:11:54.751Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규 "대사 2~3줄도 못 외우는 스타일, 숙지 비결은 무조건 연습"]]></title>
-        <id>https://v.daum.net/v/20221110192504398</id>
-        <link href="https://v.daum.net/v/20221110192504398"/>
-        <updated>2022-11-10T11:11:54.751Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
