@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-11T20:13:47.275Z</updated>
+    <updated>2022-11-11T21:12:26.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민 가고 김래원 온다… '소방서 옆 경찰서']]></title>
+        <id>https://v.daum.net/v/20221112060514371</id>
+        <link href="https://v.daum.net/v/20221112060514371"/>
+        <updated>2022-11-11T21:12:18.023Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악재 겹친 ‘소방서 옆 경찰서’ 흥행 성공할까]]></title>
+        <id>https://v.daum.net/v/20221112060309348</id>
+        <link href="https://v.daum.net/v/20221112060309348"/>
+        <updated>2022-11-11T21:12:18.032Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김규선, 권단아 눈독들이는 반효정에 결심..."한별이 털끝만큼도 건들지마"]]></title>
+        <id>https://v.daum.net/v/20221112060204305</id>
+        <link href="https://v.daum.net/v/20221112060204305"/>
+        <updated>2022-11-11T21:12:18.032Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘금수저’ 육성재→연우 재발견, 더 아쉬운 편파 홍보 논란]]></title>
+        <id>https://v.daum.net/v/20221112060105268</id>
+        <link href="https://v.daum.net/v/20221112060105268"/>
+        <updated>2022-11-11T21:12:18.038Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12회 종영 '천원짜리 변호사'가 남긴 것…남궁민, 김지은, 불화설]]></title>
         <id>https://v.daum.net/v/20221112051025941</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221111231018356"/>
         <updated>2022-11-11T14:13:53.401Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천원짜리 변호사' 이덕화, 남궁민에 김지은 "잘 이끌어주게"]]></title>
-        <id>https://v.daum.net/v/20221111230712313</id>
-        <link href="https://v.daum.net/v/20221111230712313"/>
-        <updated>2022-11-11T14:13:53.402Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천변' 남궁민, 이청아 진범 권혁범에 경고 "나 보고 싶었지?"]]></title>
-        <id>https://v.daum.net/v/20221111223232799</id>
-        <link href="https://v.daum.net/v/20221111223232799"/>
-        <updated>2022-11-11T13:38:18.584Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금수저' 장률, 손여은 찾아가 "내 엄마였어?"→총격 소리]]></title>
-        <id>https://v.daum.net/v/20221111223052753</id>
-        <link href="https://v.daum.net/v/20221111223052753"/>
-        <updated>2022-11-11T13:38:18.588Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 김지은 금수저 신분 알고 있었다 "내가 바보입니까?"]]></title>
-        <id>https://v.daum.net/v/20221111222857702</id>
-        <link href="https://v.daum.net/v/20221111222857702"/>
-        <updated>2022-11-11T13:38:18.588Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
