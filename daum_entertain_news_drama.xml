@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-12T07:12:20.524Z</updated>
+    <updated>2022-11-12T08:15:53.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박세영, 번아웃 뚫고 '제갈길'…"완벽주의 내려놨죠"]]></title>
+        <id>https://v.daum.net/v/20221112170151737</id>
+        <link href="https://v.daum.net/v/20221112170151737"/>
+        <updated>2022-11-12T08:15:44.454Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김승수x김소은, 급속도 진전..한껏 꾸미고 식사]]></title>
+        <id>https://v.daum.net/v/20221112162013211</id>
+        <link href="https://v.daum.net/v/20221112162013211"/>
+        <updated>2022-11-12T08:15:44.459Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 김혜수, 김해숙 악행 폭로했나..王 최원영 '극대노']]></title>
         <id>https://v.daum.net/v/20221112155219866</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221112142154122"/>
         <updated>2022-11-12T06:15:02.946Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼남매가 용감하게’ 왕빛나 이유진, 과거 어떤 인연이었길래]]></title>
-        <id>https://v.daum.net/v/20221112141543067</id>
-        <link href="https://v.daum.net/v/20221112141543067"/>
-        <updated>2022-11-12T06:15:02.947Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘디 엠파이어’ 김선아 “최선의 결과 만들기 위해 치열하게 고민” 종영소감]]></title>
-        <id>https://v.daum.net/v/20221112140444956</id>
-        <link href="https://v.daum.net/v/20221112140444956"/>
-        <updated>2022-11-12T05:13:15.140Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
