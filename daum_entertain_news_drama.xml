@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-13T14:10:50.208Z</updated>
+    <updated>2022-11-13T15:12:16.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['디 엠파이어' 안재욱, 김선아에게 "주세빈 당신이 죽였잖아" 확신]]></title>
+        <id>https://v.daum.net/v/20221113235618461</id>
+        <link href="https://v.daum.net/v/20221113235618461"/>
+        <updated>2022-11-13T15:12:07.578Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김래원, '소방서 옆 경찰서'에 핀 '해바라기']]></title>
+        <id>https://v.daum.net/v/20221113231256187</id>
+        <link href="https://v.daum.net/v/20221113231256187"/>
+        <updated>2022-11-13T15:12:07.587Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥자연 "유선호는 껍데기만 남자" 비밀 폭로→김혜수, 반격 성공]]></title>
         <id>https://v.daum.net/v/20221113231007170</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['슈룹' 강찬희, 유선호 협박.."내 앞길 막으면 너라도 죽일 것"]]></title>
+        <title type="html"><![CDATA['슈룹' 강찬희, 유선호에 경고.."내 앞길 막으면 너라도 죽일 것"]]></title>
         <id>https://v.daum.net/v/20221113221739651</id>
         <link href="https://v.daum.net/v/20221113221739651"/>
         <updated>2022-11-13T13:25:45.234Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221113213939307"/>
         <updated>2022-11-13T13:25:45.238Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼남매가’ 김소은, 구남친 양대혁 김지안 양다리 알았다 ‘패닉’]]></title>
-        <id>https://v.daum.net/v/20221113213158239</id>
-        <link href="https://v.daum.net/v/20221113213158239"/>
-        <updated>2022-11-13T13:25:45.238Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가 용감하게' 이하나, ♥임주환에 "우리 같이 도망갈까?"]]></title>
-        <id>https://v.daum.net/v/20221113212622157</id>
-        <link href="https://v.daum.net/v/20221113212622157"/>
-        <updated>2022-11-13T13:25:45.238Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
