@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-13T07:11:18.161Z</updated>
+    <updated>2022-11-13T08:15:35.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[신구 비난받던 손자 사망, 파국으로 치달아]]></title>
+        <title type="html"><![CDATA[‘안재욱 불륜녀’ 주세빈, 김선아가 죽였나? 오늘 진범 공개]]></title>
+        <id>https://v.daum.net/v/20221113171035691</id>
+        <link href="https://v.daum.net/v/20221113171035691"/>
+        <updated>2022-11-13T08:15:26.171Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘신구 비난받던 손자’ 권지우 사망, 파국으로 치달아]]></title>
         <id>https://v.daum.net/v/20221113160407499</id>
         <link href="https://v.daum.net/v/20221113160407499"/>
         <updated>2022-11-13T07:11:08.581Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221113134008087"/>
         <updated>2022-11-13T05:14:10.926Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수, 후궁 소생 왕자들도 품는 배포…국모의 품격]]></title>
-        <id>https://v.daum.net/v/20221113132506888</id>
-        <link href="https://v.daum.net/v/20221113132506888"/>
-        <updated>2022-11-13T04:26:17.032Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
