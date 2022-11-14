@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-14T13:43:50.354Z</updated>
+    <updated>2022-11-14T14:18:12.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘, 자신 지분 노리는 권상우와 신경전..."속이 아주 시커멓구만"]]></title>
+        <id>https://v.daum.net/v/20221114230201398</id>
+        <link href="https://v.daum.net/v/20221114230201398"/>
+        <updated>2022-11-14T14:18:03.255Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 강하늘, 하지원에 취중진담.."저 누나가 참 좋아요"]]></title>
+        <id>https://v.daum.net/v/20221114230040388</id>
+        <link href="https://v.daum.net/v/20221114230040388"/>
+        <updated>2022-11-14T14:18:03.257Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커튼콜' 지승현, 강하늘 의심.. 정지소 도움으로 위기 모면]]></title>
         <id>https://v.daum.net/v/20221114221811048</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221114192236683"/>
         <updated>2022-11-14T11:12:00.850Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각성한 배인혁, 한지현과 본격 로맨스?..초밀착 눈빛 교환에 스파크]]></title>
-        <id>https://v.daum.net/v/20221114180244897</id>
-        <link href="https://v.daum.net/v/20221114180244897"/>
-        <updated>2022-11-14T09:13:38.753Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['몸값' 진선규, 연기에 진심인 배우가 연습에 매진했을 때]]></title>
-        <id>https://v.daum.net/v/20221114180148881</id>
-        <link href="https://v.daum.net/v/20221114180148881"/>
-        <updated>2022-11-14T09:13:38.754Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
