@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-14T20:13:51.040Z</updated>
+    <updated>2022-11-14T21:12:19.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 강하늘, 하지원에 취중고백→권상우와 대면]]></title>
+        <id>https://v.daum.net/v/20221115060002170</id>
+        <link href="https://v.daum.net/v/20221115060002170"/>
+        <updated>2022-11-14T21:12:09.324Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['치얼업' 김현진, "내가 혼자 좋아하는 거야"…테이아 앞에서 한지현에 대한 '진심 고백']]></title>
+        <id>https://v.daum.net/v/20221115060000167</id>
+        <link href="https://v.daum.net/v/20221115060000167"/>
+        <updated>2022-11-14T21:12:09.342Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“반찬 싸줘도 XX” 김수미, 며느리 ‘서효림’에 분노]]></title>
         <id>https://v.daum.net/v/20221115003115237</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221114204608061"/>
         <updated>2022-11-14T12:27:33.174Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 강지섭, '죽음 위장' 박하나 정체 알았다 "내곁에 있었어"]]></title>
-        <id>https://v.daum.net/v/20221114203600895</id>
-        <link href="https://v.daum.net/v/20221114203600895"/>
-        <updated>2022-11-14T12:27:33.174Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하나, 보육원 온 손창민에 "오래 그리워했다"]]></title>
-        <id>https://v.daum.net/v/20221114203127840</id>
-        <link href="https://v.daum.net/v/20221114203127840"/>
-        <updated>2022-11-14T12:27:33.174Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
