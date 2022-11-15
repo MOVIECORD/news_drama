@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-15T20:14:13.064Z</updated>
+    <updated>2022-11-15T21:10:59.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘형사록’ 이성민 “공황장애 연기 첫 도전…뛰는 신 많아 골반 아파”]]></title>
+        <id>https://v.daum.net/v/20221116060607839</id>
+        <link href="https://v.daum.net/v/20221116060607839"/>
+        <updated>2022-11-15T21:10:50.646Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘형사록’ 이성민 “이학주, 연기 잘해…보통 아닌 친구”]]></title>
+        <id>https://v.daum.net/v/20221116060509813</id>
+        <link href="https://v.daum.net/v/20221116060509813"/>
+        <updated>2022-11-15T21:10:50.648Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 수현, 육아맘 배우에 설움→이서진X주현영 '비밀스러운 관계']]></title>
+        <id>https://v.daum.net/v/20221116053001414</id>
+        <link href="https://v.daum.net/v/20221116053001414"/>
+        <updated>2022-11-15T21:10:50.650Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 곽선영X노상현 '화끈' 넥타이 키스, 이서진 주현영 불륜 오해]]></title>
         <id>https://v.daum.net/v/20221116004004853</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221115195347475"/>
         <updated>2022-11-15T11:10:08.936Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 김규선, 딸 권단아 잃고 오열 "엄마가 찾으러 갈게"]]></title>
-        <id>https://v.daum.net/v/20221115193338064</id>
-        <link href="https://v.daum.net/v/20221115193338064"/>
-        <updated>2022-11-15T11:10:08.941Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록' 이성민 "새 인물 나올 때마다 의심스러운 점이 묘미"]]></title>
-        <id>https://v.daum.net/v/20221115185922459</id>
-        <link href="https://v.daum.net/v/20221115185922459"/>
-        <updated>2022-11-15T10:13:24.940Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이학주, 결혼반지 보여준 새신랑…"안정감 생겨"]]></title>
-        <id>https://v.daum.net/v/20221115185002265</id>
-        <link href="https://v.daum.net/v/20221115185002265"/>
-        <updated>2022-11-15T10:13:24.940Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
