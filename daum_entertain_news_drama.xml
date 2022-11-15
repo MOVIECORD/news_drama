@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-15T15:13:08.895Z</updated>
+    <updated>2022-11-15T16:17:14.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 곽선영X노상현 '화끈' 넥타이 키스, 이서진 주현영 불륜 오해]]></title>
+        <id>https://v.daum.net/v/20221116004004853</id>
+        <link href="https://v.daum.net/v/20221116004004853"/>
+        <updated>2022-11-15T16:17:06.430Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 이서진, 주현영과 비밀스러운 관계 들킬까 조마조마]]></title>
+        <id>https://v.daum.net/v/20221116002251793</id>
+        <link href="https://v.daum.net/v/20221116002251793"/>
+        <updated>2022-11-15T16:17:06.430Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 육아 때문에 미팅 망친 수현, 서러움에 눈물]]></title>
         <id>https://v.daum.net/v/20221115233248148</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221115185002265"/>
         <updated>2022-11-15T10:13:24.940Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천원짜리' 감독, 잦은 결방·회차 축소 해명 "마음만으론 안 되는 일 있더라"]]></title>
-        <id>https://v.daum.net/v/20221115184901234</id>
-        <link href="https://v.daum.net/v/20221115184901234"/>
-        <updated>2022-11-15T10:13:24.947Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불륜"vs"반박 증거 있어"…이소라 논란에도 '돌싱외전' 정상 방송]]></title>
-        <id>https://v.daum.net/v/20221115184330133</id>
-        <link href="https://v.daum.net/v/20221115184330133"/>
-        <updated>2022-11-15T10:13:24.948Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
