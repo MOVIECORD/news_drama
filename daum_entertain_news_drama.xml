@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-15T21:10:59.264Z</updated>
+    <updated>2022-11-15T22:11:37.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘썸바디’ 김영광, 연쇄살인마가 된 ‘로코킹’]]></title>
+        <id>https://v.daum.net/v/20221116063007062</id>
+        <link href="https://v.daum.net/v/20221116063007062"/>
+        <updated>2022-11-15T22:11:28.854Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음주운전' 홍기준, '커튼콜' 조선족으로 복귀..연기 잘하니 더 씁쓸]]></title>
+        <id>https://v.daum.net/v/20221116062118997</id>
+        <link href="https://v.daum.net/v/20221116062118997"/>
+        <updated>2022-11-15T22:11:28.855Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘형사록’ 이성민 “공황장애 연기 첫 도전…뛰는 신 많아 골반 아파”]]></title>
         <id>https://v.daum.net/v/20221116060607839</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221115200848826"/>
         <updated>2022-11-15T11:10:08.935Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 강지섭, 동생 박하나 모른 척.."조금만 기다려"]]></title>
-        <id>https://v.daum.net/v/20221115200658795</id>
-        <link href="https://v.daum.net/v/20221115200658795"/>
-        <updated>2022-11-15T11:10:08.936Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오윤홍, 김규선 딸 권단아 찾으려다 낭떨어지 사고]]></title>
-        <id>https://v.daum.net/v/20221115195347475</id>
-        <link href="https://v.daum.net/v/20221115195347475"/>
-        <updated>2022-11-15T11:10:08.936Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
