@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-15T10:13:33.767Z</updated>
+    <updated>2022-11-15T11:10:17.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강지섭, 박하나 애써 모른 척…"조금만 기다려"]]></title>
+        <id>https://v.daum.net/v/20221115200848826</id>
+        <link href="https://v.daum.net/v/20221115200848826"/>
+        <updated>2022-11-15T11:10:08.935Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 강지섭, 동생 박하나 모른 척.."조금만 기다려"]]></title>
+        <id>https://v.daum.net/v/20221115200658795</id>
+        <link href="https://v.daum.net/v/20221115200658795"/>
+        <updated>2022-11-15T11:10:08.936Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 오윤홍, 김규선 딸 권단아 찾으려다 낭떨어지 사고]]></title>
+        <id>https://v.daum.net/v/20221115195347475</id>
+        <link href="https://v.daum.net/v/20221115195347475"/>
+        <updated>2022-11-15T11:10:08.936Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 김규선, 딸 권단아 잃고 오열 "엄마가 찾으러 갈게"]]></title>
+        <id>https://v.daum.net/v/20221115193338064</id>
+        <link href="https://v.daum.net/v/20221115193338064"/>
+        <updated>2022-11-15T11:10:08.941Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['형사록' 이성민 "새 인물 나올 때마다 의심스러운 점이 묘미"]]></title>
         <id>https://v.daum.net/v/20221115185922459</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221115170118914"/>
         <updated>2022-11-15T08:16:02.232Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기해, 인생 한 방 노리다가 생긴 초능력?]]></title>
-        <id>https://v.daum.net/v/20221115165402649</id>
-        <link href="https://v.daum.net/v/20221115165402649"/>
-        <updated>2022-11-15T08:16:02.233Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지현♥배인혁, 짝사랑 종지부 찍나..우산 아래 오가는 멜로 눈빛]]></title>
-        <id>https://v.daum.net/v/20221115165049532</id>
-        <link href="https://v.daum.net/v/20221115165049532"/>
-        <updated>2022-11-15T08:16:02.237Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완, 軍에서 찾은 연기 원동력…"쉼 없이 달려"]]></title>
-        <id>https://v.daum.net/v/20221115165002507</id>
-        <link href="https://v.daum.net/v/20221115165002507"/>
-        <updated>2022-11-15T08:16:02.237Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진 ‘국민사형투표’ 출연, 박성웅과 재회]]></title>
-        <id>https://v.daum.net/v/20221115164833468</id>
-        <link href="https://v.daum.net/v/20221115164833468"/>
-        <updated>2022-11-15T08:16:02.237Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
