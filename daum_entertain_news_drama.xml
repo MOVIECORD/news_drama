@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-16T21:11:08.773Z</updated>
+    <updated>2022-11-16T22:12:45.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘얼룩’ 차학연 “꿈꿔왔던 작품…이렇게 몰입한 적 처음”]]></title>
+        <id>https://v.daum.net/v/20221117063017814</id>
+        <link href="https://v.daum.net/v/20221117063017814"/>
+        <updated>2022-11-16T22:11:42.351Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신예 배우들 안방극장 점령]]></title>
+        <id>https://v.daum.net/v/20221117063011801</id>
+        <link href="https://v.daum.net/v/20221117063011801"/>
+        <updated>2022-11-16T22:11:42.354Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜리, 이준영 향한 마음 확인..."미치게 챙겨주고 싶고 설레"]]></title>
         <id>https://v.daum.net/v/20221117060203427</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20221116195123571</id>
         <link href="https://v.daum.net/v/20221116195123571"/>
         <updated>2022-11-16T11:10:40.289Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈·최현욱·홍경 '약한영웅', 전율 부르는 OTT 웰메이드 명작의 탄생]]></title>
-        <id>https://v.daum.net/v/20221116193403228</id>
-        <link href="https://v.daum.net/v/20221116193403228"/>
-        <updated>2022-11-16T11:10:40.294Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 의식 깨어난 오윤홍 밀쳐 사망]]></title>
-        <id>https://v.daum.net/v/20221116192957139</id>
-        <link href="https://v.daum.net/v/20221116192957139"/>
-        <updated>2022-11-16T11:10:40.294Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
