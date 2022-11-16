@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-16T20:12:58.559Z</updated>
+    <updated>2022-11-16T21:11:08.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜리, 이준영 향한 마음 확인..."미치게 챙겨주고 싶고 설레"]]></title>
+        <id>https://v.daum.net/v/20221117060203427</id>
+        <link href="https://v.daum.net/v/20221117060203427"/>
+        <updated>2022-11-16T21:10:57.876Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['커피맛 아는' 정동원 "女후배 울렸다, 수입 직접 관리"]]></title>
+        <id>https://v.daum.net/v/20221117060011259</id>
+        <link href="https://v.daum.net/v/20221117060011259"/>
+        <updated>2022-11-16T21:10:57.889Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뉴연플리’ 오유진→유정후, ‘연플리’ 고사 도전..명대사 맞히기]]></title>
         <id>https://v.daum.net/v/20221116210445114</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221116192957139"/>
         <updated>2022-11-16T11:10:40.294Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["때릴 때 냉철하게" 박지훈, 학폭 처단 나섰다…'D.P.' 감독이 기획한 '약한영웅']]></title>
-        <id>https://v.daum.net/v/20221116190802690</id>
-        <link href="https://v.daum.net/v/20221116190802690"/>
-        <updated>2022-11-16T10:13:13.560Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“매 순간 전력투구”…‘약한영웅’ 박지훈·최현욱·홍경의 앙상블]]></title>
-        <id>https://v.daum.net/v/20221116184506138</id>
-        <link href="https://v.daum.net/v/20221116184506138"/>
-        <updated>2022-11-16T10:13:13.560Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
