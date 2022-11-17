@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-17T03:40:47.182Z</updated>
+    <updated>2022-11-17T04:15:43.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜리X이준영, 달달 캠핑 데이트 “감정 격변 맞을 것”]]></title>
+        <id>https://v.daum.net/v/20221117131111208</id>
+        <link href="https://v.daum.net/v/20221117131111208"/>
+        <updated>2022-11-17T04:14:41.468Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복덩이들고' 송가인X김호중, 복 주고 힐링 얻고…역조공 대성공]]></title>
         <id>https://v.daum.net/v/20221117122947297</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221117103248901"/>
         <updated>2022-11-17T02:50:24.683Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 데이지, '태풍의 신부' 애절한 사랑 테마 '그대 곁이면' 20일 공개]]></title>
-        <id>https://v.daum.net/v/20221117103158873</id>
-        <link href="https://v.daum.net/v/20221117103158873"/>
-        <updated>2022-11-17T02:50:24.685Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
