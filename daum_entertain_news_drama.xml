@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-17T14:12:24.459Z</updated>
+    <updated>2022-11-17T15:13:18.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['바달집4', 독립운동가 이상룡 선생 생가로…뜻깊은 안동 여행]]></title>
+        <id>https://v.daum.net/v/20221117232548088</id>
+        <link href="https://v.daum.net/v/20221117232548088"/>
+        <updated>2022-11-17T15:12:16.448Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배누리, 전 남편과 닮은 백성현에 혼란..."왜 자꾸 똑같은 말을...내가 왜 이러지?"]]></title>
         <id>https://v.daum.net/v/20221117210002626</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221117180638402"/>
         <updated>2022-11-17T09:12:12.234Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록' 이성민 "이학주, 물건이더라. 감독이 캐스팅에 엄청 공들여"]]></title>
-        <id>https://v.daum.net/v/20221117180103210</id>
-        <link href="https://v.daum.net/v/20221117180103210"/>
-        <updated>2022-11-17T09:12:12.234Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
