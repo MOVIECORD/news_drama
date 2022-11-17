@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-17T10:13:32.403Z</updated>
+    <updated>2022-11-17T11:11:01.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수영 "소녀시대 활동 밤샘 후 첫 촬영…오히려 에너지 받아"]]></title>
+        <id>https://v.daum.net/v/20221117195008566</id>
+        <link href="https://v.daum.net/v/20221117195008566"/>
+        <updated>2022-11-17T11:09:58.777Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 이현석, 김규선에 데이트 신청 "시간 좀 내요"]]></title>
+        <id>https://v.daum.net/v/20221117194720504</id>
+        <link href="https://v.daum.net/v/20221117194720504"/>
+        <updated>2022-11-17T11:09:58.778Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 이현석, 말없이 사라진 김규선 찾아내 '간병']]></title>
+        <id>https://v.daum.net/v/20221117193216298</id>
+        <link href="https://v.daum.net/v/20221117193216298"/>
+        <updated>2022-11-17T11:09:58.781Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주3회 '재벌집'…송중기 "광고 많이 팔렸나" 너스레]]></title>
         <id>https://v.daum.net/v/20221117191002910</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221117162425205"/>
         <updated>2022-11-17T08:17:21.041Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오점 없어서 95점"…최수영X윤박, 'K-로코' 다 담았다]]></title>
-        <id>https://v.daum.net/v/20221117161329702</id>
-        <link href="https://v.daum.net/v/20221117161329702"/>
-        <updated>2022-11-17T08:17:21.063Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["케미 100점"...'팬레터' 최수영X윤박, 4부작이라 더 자신있는 이유]]></title>
-        <id>https://v.daum.net/v/20221117161045568</id>
-        <link href="https://v.daum.net/v/20221117161045568"/>
-        <updated>2022-11-17T08:17:21.066Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 죽었다가 눈 떠보니 '재벌집 막내아들']]></title>
-        <id>https://v.daum.net/v/20221117160756448</id>
-        <link href="https://v.daum.net/v/20221117160756448"/>
-        <updated>2022-11-17T07:11:02.899Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
