@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-18T18:15:37.474Z</updated>
+    <updated>2022-11-18T19:10:21.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 김래원, 촉법소년이라 괜찮다는 진범의 조롱에 "너 촉법 아니야" 응수]]></title>
+        <id>https://v.daum.net/v/20221119032400283</id>
+        <link href="https://v.daum.net/v/20221119032400283"/>
+        <updated>2022-11-18T19:10:10.050Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김설현, 번아웃 직장인의 일상이란]]></title>
         <id>https://v.daum.net/v/20221119030010069</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221118231259973"/>
         <updated>2022-11-18T15:12:00.255Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 6억 달러 주인 됐다…"전액 자유자재 인출 가능"]]></title>
-        <id>https://v.daum.net/v/20221118225732865</id>
-        <link href="https://v.daum.net/v/20221118225732865"/>
-        <updated>2022-11-18T14:12:16.010Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
