@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-18T20:12:49.074Z</updated>
+    <updated>2022-11-18T21:12:00.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한지완, 가짜딸 사실 들킬까 교통사고 자처...반효정에 협상 제안]]></title>
+        <id>https://v.daum.net/v/20221119060201763</id>
+        <link href="https://v.daum.net/v/20221119060201763"/>
+        <updated>2022-11-18T21:10:52.997Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안정환 ‘마지막’ 카드부터 구자철 데뷔...‘카타르’ 3色 중계 열전]]></title>
+        <id>https://v.daum.net/v/20221119060020679</id>
+        <link href="https://v.daum.net/v/20221119060020679"/>
+        <updated>2022-11-18T21:10:53.005Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토사구팽 당한 송중기, 재벌가 머슴→막내아들로 회귀 ‘재벌집’ 첫방]]></title>
+        <id>https://v.daum.net/v/20221119052908569</id>
+        <link href="https://v.daum.net/v/20221119052908569"/>
+        <updated>2022-11-18T21:10:53.011Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기, 골프채 머리 맞고 변기 수리까지 “머슴살이”]]></title>
+        <id>https://v.daum.net/v/20221119052607560</id>
+        <link href="https://v.daum.net/v/20221119052607560"/>
+        <updated>2022-11-18T21:10:53.011Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집 막내아들' 송중기, 총 맞고 추락→과거로 회귀]]></title>
         <id>https://v.daum.net/v/20221119043002368</id>
         <link href="https://v.daum.net/v/20221119043002368"/>
-        <updated>2022-11-18T20:12:38.806Z</updated>
+        <updated>2022-11-18T21:10:53.013Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221119000201375"/>
         <updated>2022-11-18T15:12:00.248Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 페이퍼 컴퍼니 고발…"검찰보다 먼저 움직여야"]]></title>
-        <id>https://v.daum.net/v/20221119000035346</id>
-        <link href="https://v.daum.net/v/20221119000035346"/>
-        <updated>2022-11-18T15:12:00.251Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘재벌집 막내아들’ 배신 당해 죽은 송중기, 재벌 3세로 회귀]]></title>
-        <id>https://v.daum.net/v/20221118235435261</id>
-        <link href="https://v.daum.net/v/20221118235435261"/>
-        <updated>2022-11-18T15:12:00.252Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 여중생 죽음에 의문→중학생 범인 검거 성공 "네 폰 다 털렸어"]]></title>
-        <id>https://v.daum.net/v/20221118233119091</id>
-        <link href="https://v.daum.net/v/20221118233119091"/>
-        <updated>2022-11-18T15:12:00.253Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑질 당한 송중기, 커피 뿌려지고·변기 수리하고]]></title>
-        <id>https://v.daum.net/v/20221118232630033</id>
-        <link href="https://v.daum.net/v/20221118232630033"/>
-        <updated>2022-11-18T15:12:00.255Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
