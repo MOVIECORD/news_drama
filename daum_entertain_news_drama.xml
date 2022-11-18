@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-18T17:14:30.285Z</updated>
+    <updated>2022-11-18T18:15:37.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김설현, 번아웃 직장인의 일상이란]]></title>
+        <id>https://v.daum.net/v/20221119030010069</id>
+        <link href="https://v.daum.net/v/20221119030010069"/>
+        <updated>2022-11-18T18:15:24.703Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 공승연, 잘못된 처치로 음독 환자 못 구했다…죽음 앞에 '망연자실']]></title>
+        <id>https://v.daum.net/v/20221119024200034</id>
+        <link href="https://v.daum.net/v/20221119024200034"/>
+        <updated>2022-11-18T18:15:24.704Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, 박진영 배신에 숨져→재벌家 막내로 회귀‥인생2막]]></title>
         <id>https://v.daum.net/v/20221119005247668</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221118225732865"/>
         <updated>2022-11-18T14:12:16.010Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원, 김민서 죽음에 의문…수사 시작]]></title>
-        <id>https://v.daum.net/v/20221118225056824</id>
-        <link href="https://v.daum.net/v/20221118225056824"/>
-        <updated>2022-11-18T14:12:16.011Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 공승연, 옆 집 살게된 김래원에 "거기 귀신 나와요"]]></title>
-        <id>https://v.daum.net/v/20221118224419799</id>
-        <link href="https://v.daum.net/v/20221118224419799"/>
-        <updated>2022-11-18T14:12:16.015Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
