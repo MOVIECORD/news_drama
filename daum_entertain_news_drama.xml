@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-18T16:17:10.010Z</updated>
+    <updated>2022-11-18T17:14:30.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -31,6 +31,13 @@
         <id>https://v.daum.net/v/20221119001104473</id>
         <link href="https://v.daum.net/v/20221119001104473"/>
         <updated>2022-11-18T15:12:00.248Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기, 1995년 재벌 3세로 회귀]]></title>
+        <id>https://v.daum.net/v/20221119001021466</id>
+        <link href="https://v.daum.net/v/20221119001021466"/>
+        <updated>2022-11-18T17:14:17.809Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221118224419799"/>
         <updated>2022-11-18T14:12:16.015Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["6억 달러 입금"..송중기, 첫 등장부터 귀티]]></title>
-        <id>https://v.daum.net/v/20221118223921769</id>
-        <link href="https://v.daum.net/v/20221118223921769"/>
-        <updated>2022-11-18T14:12:16.016Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
