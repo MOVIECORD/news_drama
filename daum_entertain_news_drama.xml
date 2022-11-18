@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-18T21:12:00.256Z</updated>
+    <updated>2022-11-18T22:12:10.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매가 용감하게' 김소은, '한방 없는' 우려가 현실로?]]></title>
+        <id>https://v.daum.net/v/20221119070002239</id>
+        <link href="https://v.daum.net/v/20221119070002239"/>
+        <updated>2022-11-18T22:11:58.202Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김래원, "진짜 사람을 물어죽였네"..7년전 사건 밝혀지나]]></title>
+        <id>https://v.daum.net/v/20221119065419176</id>
+        <link href="https://v.daum.net/v/20221119065419176"/>
+        <updated>2022-11-18T22:11:58.207Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지완, 가짜딸 사실 들킬까 교통사고 자처...반효정에 협상 제안]]></title>
         <id>https://v.daum.net/v/20221119060201763</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221119001021466"/>
         <updated>2022-11-18T17:14:17.809Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘재벌집 막내아들’ 순양家에 살해된 송중기, 이성민 손자 됐다]]></title>
-        <id>https://v.daum.net/v/20221119000230378</id>
-        <link href="https://v.daum.net/v/20221119000230378"/>
-        <updated>2022-11-18T15:12:00.248Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 상습도박→불법촬영 '촉법소년' 검거.."처벌 안받아" 뻔뻔]]></title>
-        <id>https://v.daum.net/v/20221119000201375</id>
-        <link href="https://v.daum.net/v/20221119000201375"/>
-        <updated>2022-11-18T15:12:00.248Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
