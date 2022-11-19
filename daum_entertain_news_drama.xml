@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-19T15:12:27.966Z</updated>
+    <updated>2022-11-19T16:15:15.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜수, 子 친자 논란 해결→문상민=세자, 경합 최종 승리]]></title>
+        <id>https://v.daum.net/v/20221120005323087</id>
+        <link href="https://v.daum.net/v/20221120005323087"/>
+        <updated>2022-11-19T16:15:00.322Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["미래 알고있나" 이성민, '회귀' 송중기 추궁→후계자감 인정]]></title>
+        <id>https://v.daum.net/v/20221120005023082</id>
+        <link href="https://v.daum.net/v/20221120005023082"/>
+        <updated>2022-11-19T16:15:00.323Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 송중기, 회귀→이성민 눈에 들었다.."이번 생은 기회"]]></title>
+        <id>https://v.daum.net/v/20221120001426889</id>
+        <link href="https://v.daum.net/v/20221120001426889"/>
+        <updated>2022-11-19T16:15:00.323Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 문상민 세자 경합 우승…궁 밖에서 자란 이유]]></title>
         <id>https://v.daum.net/v/20221120000109807</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221119225833565"/>
         <updated>2022-11-19T14:10:26.474Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원, 공승연에 "나 같은 스타일은 만나봐야"]]></title>
-        <id>https://v.daum.net/v/20221119225547561</id>
-        <link href="https://v.daum.net/v/20221119225547561"/>
-        <updated>2022-11-19T14:10:26.474Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈룹’ 성남대군 문상민, 친자 의혹 벗고 왕세자 됐다]]></title>
-        <id>https://v.daum.net/v/20221119224341511</id>
-        <link href="https://v.daum.net/v/20221119224341511"/>
-        <updated>2022-11-19T14:10:26.481Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살해당한 송중기, 재벌家 막내아들 됐다 “말도 안돼”]]></title>
-        <id>https://v.daum.net/v/20221119224018495</id>
-        <link href="https://v.daum.net/v/20221119224018495"/>
-        <updated>2022-11-19T14:10:26.482Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
