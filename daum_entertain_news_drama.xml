@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-19T07:10:34.570Z</updated>
+    <updated>2022-11-19T08:15:17.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘프리즘’ 김민철X홍서희, 발레 전공 학생 변신‥예고 영상 공개]]></title>
+        <id>https://v.daum.net/v/20221119163323524</id>
+        <link href="https://v.daum.net/v/20221119163323524"/>
+        <updated>2022-11-19T08:15:05.967Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덮중기 커밍순..대학생 된 송중기, 이성민家 역공 들어가나]]></title>
+        <id>https://v.daum.net/v/20221119161902387</id>
+        <link href="https://v.daum.net/v/20221119161902387"/>
+        <updated>2022-11-19T08:15:05.968Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하나♥임주환, 애정행각 딱 들켰다]]></title>
         <id>https://v.daum.net/v/20221119155436094</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221119132403697"/>
         <updated>2022-11-19T05:10:39.143Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈·최현욱·홍경 '약한영웅', 19禁인데…웨이브 신규 유료 가입자 견인 '1위']]></title>
-        <id>https://v.daum.net/v/20221119132003670</id>
-        <link href="https://v.daum.net/v/20221119132003670"/>
-        <updated>2022-11-19T05:10:39.145Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집’ 김강훈→송중기 짜릿한 성장…인생 2회차 시작]]></title>
-        <id>https://v.daum.net/v/20221119130659567</id>
-        <link href="https://v.daum.net/v/20221119130659567"/>
-        <updated>2022-11-19T04:13:39.962Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
