@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-19T16:15:15.576Z</updated>
+    <updated>2022-11-19T17:10:20.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원x손호준, 사체 유기 사건 해결! 연기 공조도 훌륭]]></title>
+        <id>https://v.daum.net/v/20221120014317224</id>
+        <link href="https://v.daum.net/v/20221120014317224"/>
+        <updated>2022-11-19T17:10:09.746Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수, 子 친자 논란 해결→문상민=세자, 경합 최종 승리]]></title>
         <id>https://v.daum.net/v/20221120005323087</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221119230752581"/>
         <updated>2022-11-19T14:10:26.471Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["말도 안돼" 송중기, 박진영 배신에 '죽음'→순양家 막내아들로 회귀]]></title>
-        <id>https://v.daum.net/v/20221119225833565</id>
-        <link href="https://v.daum.net/v/20221119225833565"/>
-        <updated>2022-11-19T14:10:26.474Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
