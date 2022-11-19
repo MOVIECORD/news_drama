@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-19T05:10:50.386Z</updated>
+    <updated>2022-11-19T06:14:21.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원·손호준, 802호 사건 특급 공조]]></title>
+        <id>https://v.daum.net/v/20221119150912622</id>
+        <link href="https://v.daum.net/v/20221119150912622"/>
+        <updated>2022-11-19T06:14:09.674Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뻔한 회귀·복수 '재벌집 막내아들'…진부한 클리셰 탈피가 관건]]></title>
+        <id>https://v.daum.net/v/20221119144417372</id>
+        <link href="https://v.daum.net/v/20221119144417372"/>
+        <updated>2022-11-19T06:14:09.677Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘팬레터’ 최수영X윤박, 즉석 팬미팅부터 심쿵 타임까지]]></title>
+        <id>https://v.daum.net/v/20221119141923163</id>
+        <link href="https://v.daum.net/v/20221119141923163"/>
+        <updated>2022-11-19T06:14:09.677Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥자연 이어 김가은도 강등?..김혜수, 엄중한 벌 내린다]]></title>
+        <id>https://v.daum.net/v/20221119141131096</id>
+        <link href="https://v.daum.net/v/20221119141131096"/>
+        <updated>2022-11-19T06:14:09.678Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소방서 옆 경찰서’ 김래원-손호준, 미제사건 재수사 시작]]></title>
         <id>https://v.daum.net/v/20221119140745056</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221119120001134"/>
         <updated>2022-11-19T03:05:51.208Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 김혜수, 산 넘어 산..문상민 친아들 아니었어?]]></title>
-        <id>https://v.daum.net/v/20221119115820118</id>
-        <link href="https://v.daum.net/v/20221119115820118"/>
-        <updated>2022-11-19T03:05:51.208Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['美친 진돗개' 김래원, 촉법소년 사이다 참교육에 시청률 껑충]]></title>
-        <id>https://v.daum.net/v/20221119115402079</id>
-        <link href="https://v.daum.net/v/20221119115402079"/>
-        <updated>2022-11-19T03:05:51.208Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘약한영웅’ 호평 속 입소문 확산, 신예들이 해냈다]]></title>
-        <id>https://v.daum.net/v/20221119115146052</id>
-        <link href="https://v.daum.net/v/20221119115146052"/>
-        <updated>2022-11-19T03:05:51.208Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼2' 이재욱 찾아온 단 하나의 빛 고윤정..새로운 이야기 시작]]></title>
-        <id>https://v.daum.net/v/20221119114903033</id>
-        <link href="https://v.daum.net/v/20221119114903033"/>
-        <updated>2022-11-19T03:05:51.208Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
