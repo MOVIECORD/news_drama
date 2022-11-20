@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-20T05:11:56.501Z</updated>
+    <updated>2022-11-20T06:14:34.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하나, 한복 입고 임주환네 주방行→정수영·문예원 텃세]]></title>
+        <id>https://v.daum.net/v/20221120142923462</id>
+        <link href="https://v.daum.net/v/20221120142923462"/>
+        <updated>2022-11-20T06:14:24.526Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하나, 한복 입고 임주환네 주방 들어갔다..요리하는 이유는?]]></title>
         <id>https://v.daum.net/v/20221120140553097</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120101203403"/>
         <updated>2022-11-20T03:14:42.131Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 중전 김혜수 소생 문상민, 세자 경합의 승리자 '최고 12.9%']]></title>
-        <id>https://v.daum.net/v/20221120093445767</id>
-        <link href="https://v.daum.net/v/20221120093445767"/>
-        <updated>2022-11-20T01:04:13.467Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
