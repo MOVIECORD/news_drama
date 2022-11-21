@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-21T21:12:15.000Z</updated>
+    <updated>2022-11-21T22:11:37.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 "날 찌질이로 만들어‥터프남 이미지 돌려놔" 정색]]></title>
+        <id>https://v.daum.net/v/20221122065315744</id>
+        <link href="https://v.daum.net/v/20221122065315744"/>
+        <updated>2022-11-21T22:11:27.176Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["싱크로율 안 맞아"... 안보현, '이번 생도 잘 부탁해' 미스캐스팅?]]></title>
+        <id>https://v.daum.net/v/20221122064010617</id>
+        <link href="https://v.daum.net/v/20221122064010617"/>
+        <updated>2022-11-21T22:11:27.177Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사회적 이슈’ 드라마 인기몰이]]></title>
+        <id>https://v.daum.net/v/20221122063012535</id>
+        <link href="https://v.daum.net/v/20221122063012535"/>
+        <updated>2022-11-21T22:11:27.180Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오나라·박호산, 격정 키스신→이서진·주현영, 정혜영에 들통]]></title>
         <id>https://v.daum.net/v/20221122050001233</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221121221901478"/>
         <updated>2022-11-21T13:36:39.429Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아하아' 김설현, 퇴사 선언 "견디게 해주고 견디라고 하지"]]></title>
-        <id>https://v.daum.net/v/20221121221204392</id>
-        <link href="https://v.daum.net/v/20221121221204392"/>
-        <updated>2022-11-21T13:36:39.429Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아하아' 김설현, 6년 만난 남자친구에게 이별 통보 받았다]]></title>
-        <id>https://v.daum.net/v/20221121220313300</id>
-        <link href="https://v.daum.net/v/20221121220313300"/>
-        <updated>2022-11-21T13:36:39.446Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['줄식당' 산다라박이 반한 힙포 맛집은?…해물찜부터 한우곱창까지]]></title>
-        <id>https://v.daum.net/v/20221121212226776</id>
-        <link href="https://v.daum.net/v/20221121212226776"/>
-        <updated>2022-11-21T12:22:45.252Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
