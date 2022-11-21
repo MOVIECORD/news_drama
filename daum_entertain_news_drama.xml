@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-21T03:12:55.507Z</updated>
+    <updated>2022-11-21T04:21:11.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사장님을 잠금해제’ 박성웅 채종협 서은수, 본격 하이브리드 공조]]></title>
+        <id>https://v.daum.net/v/20221121123522156</id>
+        <link href="https://v.daum.net/v/20221121123522156"/>
+        <updated>2022-11-21T04:20:09.390Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집' 티파니 영, 송중기 조력자로 첫 드라마 데뷔]]></title>
         <id>https://v.daum.net/v/20221121121003617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221121103652537"/>
         <updated>2022-11-21T03:11:53.397Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최시원, 이다희와 열애에 케이크 싸대기 ‘역대급 후폭풍’]]></title>
-        <id>https://v.daum.net/v/20221121100732374</id>
-        <link href="https://v.daum.net/v/20221121100732374"/>
-        <updated>2022-11-21T03:11:53.398Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
