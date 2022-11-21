@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-21T22:11:37.953Z</updated>
+    <updated>2022-11-21T23:12:45.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 ‘아무것도 하고 싶지 않아’ 김설현, 인생 파업 선언]]></title>
+        <id>https://v.daum.net/v/20221122081027815</id>
+        <link href="https://v.daum.net/v/20221122081027815"/>
+        <updated>2022-11-21T23:12:35.505Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 박호산X오나라X영탁, 키스신부터 발연기 드라마 살린 특별출연]]></title>
+        <id>https://v.daum.net/v/20221122080737766</id>
+        <link href="https://v.daum.net/v/20221122080737766"/>
+        <updated>2022-11-21T23:12:35.505Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앙숙 박호산·오나라, 파격 키스신 눈길…영탁 ‘발연기’ 특별출연]]></title>
+        <id>https://v.daum.net/v/20221122080545722</id>
+        <link href="https://v.daum.net/v/20221122080545722"/>
+        <updated>2022-11-21T23:12:35.507Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뜨겁게 안녕' 이대호 "할머니·아내는 내 삶의 빛"]]></title>
+        <id>https://v.daum.net/v/20221122072405120</id>
+        <link href="https://v.daum.net/v/20221122072405120"/>
+        <updated>2022-11-21T23:12:35.507Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영탁 "날 찌질이로 만들어‥터프남 이미지 돌려놔" 정색]]></title>
         <id>https://v.daum.net/v/20221122065315744</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221121230220889"/>
         <updated>2022-11-21T14:10:19.275Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 마지막 흥행작은 '대장금'→'시청률 2.7%' 전작…女지휘자 도전]]></title>
-        <id>https://v.daum.net/v/20221121225902831</id>
-        <link href="https://v.daum.net/v/20221121225902831"/>
-        <updated>2022-11-21T14:10:19.276Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아하아’ 설현은 왜 ‘인생파업’을 선언했나? 연이은 상실에 ‘퇴사선언’]]></title>
-        <id>https://v.daum.net/v/20221121224030688</id>
-        <link href="https://v.daum.net/v/20221121224030688"/>
-        <updated>2022-11-21T14:10:19.277Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인생 파업이다"..'아하아' 김설현, 자발적 백수 됐다]]></title>
-        <id>https://v.daum.net/v/20221121222252539</id>
-        <link href="https://v.daum.net/v/20221121222252539"/>
-        <updated>2022-11-21T13:36:39.382Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백성현, 인턴 경합 1등 바라는 배누리 꿈 응원..."내가 그 꿈 지켜주겠다"]]></title>
-        <id>https://v.daum.net/v/20221121221901478</id>
-        <link href="https://v.daum.net/v/20221121221901478"/>
-        <updated>2022-11-21T13:36:39.429Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
