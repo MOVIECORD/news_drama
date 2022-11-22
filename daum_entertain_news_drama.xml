@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-22T13:27:55.314Z</updated>
+    <updated>2022-11-22T14:11:54.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 정혜영, 주현영 존재 알았다..바람피운 이서진 '원망']]></title>
+        <id>https://v.daum.net/v/20221122225826499</id>
+        <link href="https://v.daum.net/v/20221122225826499"/>
+        <updated>2022-11-22T14:11:42.587Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최윤라, 백성현과 연락하는 배누리에 날 선 경계..."나 몰래 연락 주고 받으려고?"]]></title>
         <id>https://v.daum.net/v/20221122211901868</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221122164901215"/>
         <updated>2022-11-22T08:16:53.565Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원 측 "박지은 작가·김수현 '눈물의 여왕', 긍정 검토 중"]]></title>
-        <id>https://v.daum.net/v/20221122164320951</id>
-        <link href="https://v.daum.net/v/20221122164320951"/>
-        <updated>2022-11-22T08:16:53.566Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
