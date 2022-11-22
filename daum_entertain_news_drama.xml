@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-22T06:16:03.741Z</updated>
+    <updated>2022-11-22T07:11:45.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유수빈, '집사부' 하차 후 7개월..'약한영웅' 은장고 일진 '깜짝']]></title>
+        <id>https://v.daum.net/v/20221122155049633</id>
+        <link href="https://v.daum.net/v/20221122155049633"/>
+        <updated>2022-11-22T07:11:35.480Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지원, ‘눈물의 여왕’ 주연…김수현과 호흡]]></title>
+        <id>https://v.daum.net/v/20221122154330260</id>
+        <link href="https://v.daum.net/v/20221122154330260"/>
+        <updated>2022-11-22T07:11:35.487Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생 파업한 김설현, 시골 입성…임시완 만난다]]></title>
+        <id>https://v.daum.net/v/20221122153025732</id>
+        <link href="https://v.daum.net/v/20221122153025732"/>
+        <updated>2022-11-22T07:11:35.489Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스물다섯 스물하나' 이쁜이 맞아?..최현욱, '약한영웅' 새로 쓴 인생캐]]></title>
+        <id>https://v.daum.net/v/20221122152548544</id>
+        <link href="https://v.daum.net/v/20221122152548544"/>
+        <updated>2022-11-22T07:11:35.491Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강하늘 아내' 정지소, 인생 최대 위기…고두심 눈물]]></title>
         <id>https://v.daum.net/v/20221122151207990</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221122121022938"/>
         <updated>2022-11-22T04:15:03.962Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록' 이학주 "반짝이는 배우보다 레벨 3정도의 뭔가 아는 배우 되고파"]]></title>
-        <id>https://v.daum.net/v/20221122120108692</id>
-        <link href="https://v.daum.net/v/20221122120108692"/>
-        <updated>2022-11-22T03:07:24.845Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘썸바디’ 정지우 감독 “김영광을 사랑하며 찍은 작품”]]></title>
-        <id>https://v.daum.net/v/20221122115931556</id>
-        <link href="https://v.daum.net/v/20221122115931556"/>
-        <updated>2022-11-22T03:07:24.845Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘썸바디’ 정지우 감독 “첫 시리즈 힘들었다, 내공이 다른 영역”]]></title>
-        <id>https://v.daum.net/v/20221122115921548</id>
-        <link href="https://v.daum.net/v/20221122115921548"/>
-        <updated>2022-11-22T03:07:24.845Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민호·공효진, '별들에게 물어봐' 스틸 최초 공개…기대감↑]]></title>
-        <id>https://v.daum.net/v/20221122115828533</id>
-        <link href="https://v.daum.net/v/20221122115828533"/>
-        <updated>2022-11-22T03:07:24.845Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
