@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-22T11:10:34.512Z</updated>
+    <updated>2022-11-22T12:25:10.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤라, 백성현과 연락하는 배누리에 날 선 경계..."나 몰래 연락 주고 받으려고?"]]></title>
+        <id>https://v.daum.net/v/20221122211901868</id>
+        <link href="https://v.daum.net/v/20221122211901868"/>
+        <updated>2022-11-22T12:24:07.807Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지훈, ‘약한영웅’으로 포텐 터진 배우..첫 터닝포인트]]></title>
         <id>https://v.daum.net/v/20221122195317310</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221122164320951"/>
         <updated>2022-11-22T08:16:53.566Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['약한영웅' 박지훈 "시은의 외로움에 공감, 영혼 갈아넣었죠" ①]]></title>
-        <id>https://v.daum.net/v/20221122164306935</id>
-        <link href="https://v.daum.net/v/20221122164306935"/>
-        <updated>2022-11-22T08:16:53.567Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
