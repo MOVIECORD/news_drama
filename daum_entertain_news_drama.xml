@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-22T08:17:56.746Z</updated>
+    <updated>2022-11-22T09:12:13.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조인, '사랑의 이해' 출연...유연석X문가영 호흡]]></title>
+        <id>https://v.daum.net/v/20221122180056664</id>
+        <link href="https://v.daum.net/v/20221122180056664"/>
+        <updated>2022-11-22T09:12:03.701Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘, '아내' 정지소 있는데 자꾸 하지원에게 끌리네]]></title>
+        <id>https://v.daum.net/v/20221122175903589</id>
+        <link href="https://v.daum.net/v/20221122175903589"/>
+        <updated>2022-11-22T09:12:03.703Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['약한영웅' 박지훈 "뼛속까지 나쁜 악역도 도전하고파" ③]]></title>
+        <id>https://v.daum.net/v/20221122173515867</id>
+        <link href="https://v.daum.net/v/20221122173515867"/>
+        <updated>2022-11-22T09:12:03.712Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘약한영웅’ 박지훈 “친구에게 ‘많이 배웠다’고 연락 와..시즌2 기대중”]]></title>
+        <id>https://v.daum.net/v/20221122172018364</id>
+        <link href="https://v.daum.net/v/20221122172018364"/>
+        <updated>2022-11-22T09:12:03.714Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지훈 "쉴 시간 無, 쉬는 방법 몰라…'약한영웅'에 피·땀·눈물 쏟아"]]></title>
         <id>https://v.daum.net/v/20221122170605932</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221122161219573"/>
         <updated>2022-11-22T08:16:53.583Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유수빈, '집사부' 하차 후 7개월..'약한영웅' 은장고 일진 '깜짝']]></title>
-        <id>https://v.daum.net/v/20221122155049633</id>
-        <link href="https://v.daum.net/v/20221122155049633"/>
-        <updated>2022-11-22T07:11:35.480Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원, ‘눈물의 여왕’ 주연…김수현과 호흡]]></title>
-        <id>https://v.daum.net/v/20221122154330260</id>
-        <link href="https://v.daum.net/v/20221122154330260"/>
-        <updated>2022-11-22T07:11:35.487Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생 파업한 김설현, 시골 입성…임시완 만난다]]></title>
-        <id>https://v.daum.net/v/20221122153025732</id>
-        <link href="https://v.daum.net/v/20221122153025732"/>
-        <updated>2022-11-22T07:11:35.489Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스물다섯 스물하나' 이쁜이 맞아?..최현욱, '약한영웅' 새로 쓴 인생캐]]></title>
-        <id>https://v.daum.net/v/20221122152548544</id>
-        <link href="https://v.daum.net/v/20221122152548544"/>
-        <updated>2022-11-22T07:11:35.491Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
