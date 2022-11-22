@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-22T09:12:13.886Z</updated>
+    <updated>2022-11-22T10:14:06.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘약한영웅’ 박지훈 “홍경은 정석, 최현욱은 자유분방...둘에게 많이 배워”]]></title>
+        <id>https://v.daum.net/v/20221122184117862</id>
+        <link href="https://v.daum.net/v/20221122184117862"/>
+        <updated>2022-11-22T10:13:03.595Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지원, 김수현 만나나…"'눈물의 여왕' 긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20221122181642136</id>
+        <link href="https://v.daum.net/v/20221122181642136"/>
+        <updated>2022-11-22T10:13:03.596Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조인, '사랑의 이해' 출연...유연석X문가영 호흡]]></title>
         <id>https://v.daum.net/v/20221122180056664</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221122162918249"/>
         <updated>2022-11-22T08:16:53.570Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 "인정 받고 싶었다…무서움도 느껴"]]></title>
-        <id>https://v.daum.net/v/20221122162002910</id>
-        <link href="https://v.daum.net/v/20221122162002910"/>
-        <updated>2022-11-22T08:16:53.572Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원, 김수현 만날까 “‘눈물의 여왕’ 긍정 검토 중”]]></title>
-        <id>https://v.daum.net/v/20221122161219573</id>
-        <link href="https://v.daum.net/v/20221122161219573"/>
-        <updated>2022-11-22T08:16:53.583Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
