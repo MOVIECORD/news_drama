@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-23T21:11:14.539Z</updated>
+    <updated>2022-11-23T22:11:04.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['55억 기부' 션 "부잣집 아들설, 사실 아냐"]]></title>
+        <id>https://v.daum.net/v/20221124065130939</id>
+        <link href="https://v.daum.net/v/20221124065130939"/>
+        <updated>2022-11-23T22:10:54.487Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 애들 무섭네…'약한영웅'·'3인칭복수', 달라진 학원물]]></title>
+        <id>https://v.daum.net/v/20221124062218699</id>
+        <link href="https://v.daum.net/v/20221124062218699"/>
+        <updated>2022-11-23T22:10:54.488Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지훈 '약한영웅', 알을 깨는 소년들은 위태롭지만 강하다]]></title>
         <id>https://v.daum.net/v/20221124060006236</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221123162529585"/>
         <updated>2022-11-23T08:14:29.152Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민이 등장하면 숨이 막힌다]]></title>
-        <id>https://v.daum.net/v/20221123160918918</id>
-        <link href="https://v.daum.net/v/20221123160918918"/>
-        <updated>2022-11-23T07:11:01.293Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정치 '술도녀2'도 특별 출연..의리의 '이선빈 전 남친']]></title>
-        <id>https://v.daum.net/v/20221123155829451</id>
-        <link href="https://v.daum.net/v/20221123155829451"/>
-        <updated>2022-11-23T07:11:01.295Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
