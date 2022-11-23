@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-23T20:11:54.663Z</updated>
+    <updated>2022-11-23T21:11:14.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지훈 '약한영웅', 알을 깨는 소년들은 위태롭지만 강하다]]></title>
+        <id>https://v.daum.net/v/20221124060006236</id>
+        <link href="https://v.daum.net/v/20221124060006236"/>
+        <updated>2022-11-23T21:10:12.174Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['치얼업' 화제성=송중기·김혜수급인데 '무한 결방' 굴욕…편성 희생양]]></title>
+        <id>https://v.daum.net/v/20221124055901208</id>
+        <link href="https://v.daum.net/v/20221124055901208"/>
+        <updated>2022-11-23T21:10:12.176Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘태풍의 신부’ 강지섭, 박하나X박윤재 관계에 충격... 지수원, 기억 되찾나?]]></title>
         <id>https://v.daum.net/v/20221123202830640</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221123155829451"/>
         <updated>2022-11-23T07:11:01.295Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱 “약한영웅 전과 후로 많이 바뀌어, 후회 없는 작품”]]></title>
-        <id>https://v.daum.net/v/20221123155629364</id>
-        <link href="https://v.daum.net/v/20221123155629364"/>
-        <updated>2022-11-23T07:11:01.295Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경 “약한영웅=처절한 사투, 한 장면도 쉽지 않았다”]]></title>
-        <id>https://v.daum.net/v/20221123154229716</id>
-        <link href="https://v.daum.net/v/20221123154229716"/>
-        <updated>2022-11-23T07:11:01.295Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
