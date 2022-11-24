@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-24T08:16:07.544Z</updated>
+    <updated>2022-11-24T09:12:08.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['썸바디' 김영광 "정지우 감독 믿고 노출신 촬영···연기 만족도는 95점"]]></title>
+        <id>https://v.daum.net/v/20221124171714811</id>
+        <link href="https://v.daum.net/v/20221124171714811"/>
+        <updated>2022-11-24T09:11:57.631Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['썸바디' 정지우 감독 "김영광 무궁무진한 가능성, 강해림 고유한 매력있어"]]></title>
         <id>https://v.daum.net/v/20221124170138080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221124142139186"/>
         <updated>2022-11-24T06:14:09.979Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복귀 후 첫 인터뷰' MC딩동 "실수 반복 않겠습니다"]]></title>
-        <id>https://v.daum.net/v/20221124141042786</id>
-        <link href="https://v.daum.net/v/20221124141042786"/>
-        <updated>2022-11-24T06:14:09.983Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
