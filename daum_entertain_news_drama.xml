@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-24T10:12:44.786Z</updated>
+    <updated>2022-11-24T11:10:52.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고두심X강하늘 '커튼콜' 명장면 베스트5]]></title>
+        <id>https://v.daum.net/v/20221124191549180</id>
+        <link href="https://v.daum.net/v/20221124191549180"/>
+        <updated>2022-11-24T11:09:43.595Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임현기 "악보만 1만8천개…음악예능 사운드, 제가 책임집니다"①]]></title>
         <id>https://v.daum.net/v/20221124190512976</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221124144015843"/>
         <updated>2022-11-24T06:14:09.972Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진서연·차예련, '행복배틀'로 만날까 "긍정 검토"]]></title>
-        <id>https://v.daum.net/v/20221124143419608</id>
-        <link href="https://v.daum.net/v/20221124143419608"/>
-        <updated>2022-11-24T06:14:09.975Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
