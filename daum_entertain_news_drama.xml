@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-24T21:10:25.485Z</updated>
+    <updated>2022-11-24T22:11:41.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['바달집4' 이재욱, "나한테 자리 뺏기면 어떡해" 로운 도발…요리 실력 발휘]]></title>
+        <id>https://v.daum.net/v/20221125064729985</id>
+        <link href="https://v.daum.net/v/20221125064729985"/>
+        <updated>2022-11-24T22:10:39.356Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘파친코2’ 내년부터 촬영…이민호 ‘한류 시동’]]></title>
+        <id>https://v.daum.net/v/20221125063015862</id>
+        <link href="https://v.daum.net/v/20221125063015862"/>
+        <updated>2022-11-24T22:10:39.368Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정수환, 배누리에 "내 대나무 숲 좀 해줄래요?"]]></title>
         <id>https://v.daum.net/v/20221125060202577</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221124154101703"/>
         <updated>2022-11-24T07:10:54.371Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오늘은 좀 매울지도 몰라’ 한석규X김서형, 특별한 부부 케미]]></title>
-        <id>https://v.daum.net/v/20221124154026677</id>
-        <link href="https://v.daum.net/v/20221124154026677"/>
-        <updated>2022-11-24T07:10:54.377Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오엔터 '소녀 리버스', 버추얼 예능 콘텐츠 물꼬 틀까]]></title>
-        <id>https://v.daum.net/v/20221124153245279</id>
-        <link href="https://v.daum.net/v/20221124153245279"/>
-        <updated>2022-11-24T07:10:54.380Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
