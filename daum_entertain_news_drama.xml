@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-25T20:12:31.266Z</updated>
+    <updated>2022-11-25T21:10:21.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“함정을 덫으로” 송중기, 조한철 욕망 자극 ‘형제의 난’ 유도]]></title>
+        <id>https://v.daum.net/v/20221126051714100</id>
+        <link href="https://v.daum.net/v/20221126051714100"/>
+        <updated>2022-11-25T21:10:10.155Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“장기판 주인” 송중기, 빚더미 순양家 IMF 위기로 내몰았다]]></title>
         <id>https://v.daum.net/v/20221126050806996</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221125223435166"/>
         <updated>2022-11-25T14:10:31.905Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 오승아, 박윤재와 결혼 원해.. 손창민에 애원]]></title>
-        <id>https://v.daum.net/v/20221125213126653</id>
-        <link href="https://v.daum.net/v/20221125213126653"/>
-        <updated>2022-11-25T13:21:34.740Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
