@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-25T21:10:21.175Z</updated>
+    <updated>2022-11-25T22:10:47.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이제 시작" 송중기가 불붙인 순양家 집안 싸움‥최후 승자 누굴까]]></title>
+        <id>https://v.daum.net/v/20221126065528965</id>
+        <link href="https://v.daum.net/v/20221126065528965"/>
+        <updated>2022-11-25T22:10:35.952Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["주3회? 오히려 좋아" 송중기와 대박난 '재벌집 막내아들']]></title>
+        <id>https://v.daum.net/v/20221126063008826</id>
+        <link href="https://v.daum.net/v/20221126063008826"/>
+        <updated>2022-11-25T22:10:35.953Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“함정을 덫으로” 송중기, 조한철 욕망 자극 ‘형제의 난’ 유도]]></title>
         <id>https://v.daum.net/v/20221126051714100</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221125225120468"/>
         <updated>2022-11-25T14:10:31.900Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 박혁권 최애 도넛 가게 韓 들여와‥“투자의 정석”]]></title>
-        <id>https://v.daum.net/v/20221125224221303</id>
-        <link href="https://v.daum.net/v/20221125224221303"/>
-        <updated>2022-11-25T14:10:31.905Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 뺑소니범 응급 조치에 "산소가 아깝다"]]></title>
-        <id>https://v.daum.net/v/20221125223435166</id>
-        <link href="https://v.daum.net/v/20221125223435166"/>
-        <updated>2022-11-25T14:10:31.905Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
