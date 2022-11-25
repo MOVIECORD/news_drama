@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-25T13:22:36.981Z</updated>
+    <updated>2022-11-25T14:10:42.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한심한 놈" 이성민, 윤제문 뺨 때려치며 '극대노']]></title>
+        <id>https://v.daum.net/v/20221125230413659</id>
+        <link href="https://v.daum.net/v/20221125230413659"/>
+        <updated>2022-11-25T14:10:31.900Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 천선화에 감춰진 비밀 찾기 시작..손창민 의심]]></title>
+        <id>https://v.daum.net/v/20221125225120468</id>
+        <link href="https://v.daum.net/v/20221125225120468"/>
+        <updated>2022-11-25T14:10:31.900Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기, 박혁권 최애 도넛 가게 韓 들여와‥“투자의 정석”]]></title>
+        <id>https://v.daum.net/v/20221125224221303</id>
+        <link href="https://v.daum.net/v/20221125224221303"/>
+        <updated>2022-11-25T14:10:31.905Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김래원, 뺑소니범 응급 조치에 "산소가 아깝다"]]></title>
+        <id>https://v.daum.net/v/20221125223435166</id>
+        <link href="https://v.daum.net/v/20221125223435166"/>
+        <updated>2022-11-25T14:10:31.905Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의 신부' 오승아, 박윤재와 결혼 원해.. 손창민에 애원]]></title>
         <id>https://v.daum.net/v/20221125213126653</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221125164252559"/>
         <updated>2022-11-25T08:14:59.226Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘팬레터를’ 최수영 “4부작, 적응할 때쯤 끝나 섭섭” 종영소감]]></title>
-        <id>https://v.daum.net/v/20221125164045504</id>
-        <link href="https://v.daum.net/v/20221125164045504"/>
-        <updated>2022-11-25T08:14:59.226Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이다희, 美친 소화력으로 ‘캐아일체’ 증명..케미 터지는 호연까지]]></title>
-        <id>https://v.daum.net/v/20221125155441269</id>
-        <link href="https://v.daum.net/v/20221125155441269"/>
-        <updated>2022-11-25T07:10:26.685Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성스러운 아이돌', 김민규 입대로 제작발표회 사전 녹화]]></title>
-        <id>https://v.daum.net/v/20221125155001126</id>
-        <link href="https://v.daum.net/v/20221125155001126"/>
-        <updated>2022-11-25T07:10:26.685Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끔찍한 7세 여아 뺑소니 사고..김래원x손호준x공승연 '분노 폭발']]></title>
-        <id>https://v.daum.net/v/20221125154921111</id>
-        <link href="https://v.daum.net/v/20221125154921111"/>
-        <updated>2022-11-25T07:10:26.685Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
