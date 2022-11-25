@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-25T07:10:41.378Z</updated>
+    <updated>2022-11-25T08:15:09.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜리가 선사한 공감의 힘…유쾌한 웃음 속 진한 감동 선사]]></title>
+        <id>https://v.daum.net/v/20221125165102755</id>
+        <link href="https://v.daum.net/v/20221125165102755"/>
+        <updated>2022-11-25T08:14:59.221Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고인의 집사' 혜리가 특별한 이유]]></title>
+        <id>https://v.daum.net/v/20221125164729675</id>
+        <link href="https://v.daum.net/v/20221125164729675"/>
+        <updated>2022-11-25T08:14:59.226Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사장님을 잠금해제' 원작 작가 "웹툰과 미친 싱크로율, 신의 캐스팅" 극찬]]></title>
+        <id>https://v.daum.net/v/20221125164252559</id>
+        <link href="https://v.daum.net/v/20221125164252559"/>
+        <updated>2022-11-25T08:14:59.226Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘팬레터를’ 최수영 “4부작, 적응할 때쯤 끝나 섭섭” 종영소감]]></title>
+        <id>https://v.daum.net/v/20221125164045504</id>
+        <link href="https://v.daum.net/v/20221125164045504"/>
+        <updated>2022-11-25T08:14:59.226Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이다희, 美친 소화력으로 ‘캐아일체’ 증명..케미 터지는 호연까지]]></title>
         <id>https://v.daum.net/v/20221125155441269</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221125140150666"/>
         <updated>2022-11-25T05:10:56.944Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 출신 정예인 "나이 먹어 순수함 많이 사라져"]]></title>
-        <id>https://v.daum.net/v/20221125135003274</id>
-        <link href="https://v.daum.net/v/20221125135003274"/>
-        <updated>2022-11-25T05:10:56.957Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘, 메소드 기절신부터 바다 질주 투혼까지 ‘디테일의 神’]]></title>
-        <id>https://v.daum.net/v/20221125134559186</id>
-        <link href="https://v.daum.net/v/20221125134559186"/>
-        <updated>2022-11-25T05:10:56.960Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일당백집사’ 현실과 맞닿은 판타지, 이혜리가 특별한 이유]]></title>
-        <id>https://v.daum.net/v/20221125133348868</id>
-        <link href="https://v.daum.net/v/20221125133348868"/>
-        <updated>2022-11-25T05:10:56.966Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길 눈빛에 치이고, 차은우 얼굴에 홀린다..'아일랜드' 티저 화제]]></title>
-        <id>https://v.daum.net/v/20221125132822736</id>
-        <link href="https://v.daum.net/v/20221125132822736"/>
-        <updated>2022-11-25T05:10:56.968Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
