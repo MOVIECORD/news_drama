@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-25T09:11:28.698Z</updated>
+    <updated>2022-11-25T10:13:08.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["재벌집 막내아들"의 미끼, 시청자가 덥썩 물다!]]></title>
+        <id>https://v.daum.net/v/20221125191048412</id>
+        <link href="https://v.daum.net/v/20221125191048412"/>
+        <updated>2022-11-25T10:12:57.641Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁 발연기도 커버했다..최수린의 '미친 연기력']]></title>
+        <id>https://v.daum.net/v/20221125183202914</id>
+        <link href="https://v.daum.net/v/20221125183202914"/>
+        <updated>2022-11-25T10:12:57.643Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사장님을 잠금해제' 원작자 "채종협x서은수x박성웅=미친 싱크로율, 神의 캐스팅”]]></title>
         <id>https://v.daum.net/v/20221125180552406</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221125151854347"/>
         <updated>2022-11-25T07:10:26.686Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이프릴 출신 윤채경 "카페 알바·운영까지 해보고파"]]></title>
-        <id>https://v.daum.net/v/20221125151149129</id>
-        <link href="https://v.daum.net/v/20221125151149129"/>
-        <updated>2022-11-25T06:14:46.683Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안 볼 수가 없잖아?..'금혼령' 김영대x박주현, 2차 티저 오픈]]></title>
-        <id>https://v.daum.net/v/20221125150923034</id>
-        <link href="https://v.daum.net/v/20221125150923034"/>
-        <updated>2022-11-25T06:14:46.695Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
