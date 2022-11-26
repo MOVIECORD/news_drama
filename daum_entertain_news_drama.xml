@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-26T00:52:34.243Z</updated>
+    <updated>2022-11-26T02:22:39.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이서진, 일만 잘하면 뭐하나…소속사 위기+혼외자 이슈에 이혼 위기]]></title>
+        <id>https://v.daum.net/v/20221126103602062</id>
+        <link href="https://v.daum.net/v/20221126103602062"/>
+        <updated>2022-11-26T02:21:36.702Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 송중기 빅픽처→이성민, 국가 부도 선포에 '패닉']]></title>
+        <id>https://v.daum.net/v/20221126100640783</id>
+        <link href="https://v.daum.net/v/20221126100640783"/>
+        <updated>2022-11-26T02:21:36.704Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 13.2% 돌파…송중기 소름 돋는 빅픽처]]></title>
+        <id>https://v.daum.net/v/20221126100620776</id>
+        <link href="https://v.daum.net/v/20221126100620776"/>
+        <updated>2022-11-26T02:21:36.705Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 송중기, 이성민 반격 "이제 시작"…11.8% 자체 최고]]></title>
+        <id>https://v.daum.net/v/20221126100002651</id>
+        <link href="https://v.daum.net/v/20221126100002651"/>
+        <updated>2022-11-26T02:21:36.712Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수 “아이 父 찾으러 왔다” 갓난 손주에 충격…중궁전 풍파 계속]]></title>
         <id>https://v.daum.net/v/20221126091919299</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221126080042534"/>
         <updated>2022-11-25T23:11:06.275Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원X공승연, 보험 사기단 덜미 잡았다!]]></title>
-        <id>https://v.daum.net/v/20221126074901394</id>
-        <link href="https://v.daum.net/v/20221126074901394"/>
-        <updated>2022-11-25T23:11:06.275Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개쓰레기들아"...김래원, 아동학대범에 극대노]]></title>
-        <id>https://v.daum.net/v/20221126072002243</id>
-        <link href="https://v.daum.net/v/20221126072002243"/>
-        <updated>2022-11-25T23:11:06.278Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 송중기, 순양家 복수시작.. IMF시작과 함께 7500억원 빚더미]]></title>
-        <id>https://v.daum.net/v/20221126071743223</id>
-        <link href="https://v.daum.net/v/20221126071743223"/>
-        <updated>2022-11-25T23:11:06.288Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["YS·서태지·J책가방"..'재벌집' 응답하라 송중기!]]></title>
-        <id>https://v.daum.net/v/20221126071601213</id>
-        <link href="https://v.daum.net/v/20221126071601213"/>
-        <updated>2022-11-25T23:11:06.288Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
