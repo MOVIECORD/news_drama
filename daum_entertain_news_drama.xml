@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-26T16:14:55.075Z</updated>
+    <updated>2022-11-26T17:10:41.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 김래원, "누구 목숨 값이 이렇게 비싸?"…함정 수사 시작]]></title>
+        <id>https://v.daum.net/v/20221127011801648</id>
+        <link href="https://v.daum.net/v/20221127011801648"/>
+        <updated>2022-11-26T17:09:39.429Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강희찬, 김재범 꼬임에 넘어가 역모 결심→김재범, 죽은 태인세자 동생으로 밝혀져]]></title>
+        <id>https://v.daum.net/v/20221127011525630</id>
+        <link href="https://v.daum.net/v/20221127011525630"/>
+        <updated>2022-11-26T17:09:39.430Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, 父 해고 막았지만..母의 죽음, 회귀 전과 동일 ‘충격’]]></title>
         <id>https://v.daum.net/v/20221127005318548</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221126225509587"/>
         <updated>2022-11-26T14:09:30.143Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 티파니영 덕 위기 모면…'HW' 서명=하워드 휴즈?]]></title>
-        <id>https://v.daum.net/v/20221126225052524</id>
-        <link href="https://v.daum.net/v/20221126225052524"/>
-        <updated>2022-11-26T14:09:30.144Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 임주환♥이하나, 가족들 몰래 혼인 신고→둘만의 언약식]]></title>
-        <id>https://v.daum.net/v/20221126225002511</id>
-        <link href="https://v.daum.net/v/20221126225002511"/>
-        <updated>2022-11-26T14:09:30.145Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
