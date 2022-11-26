@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-26T10:10:51.929Z</updated>
+    <updated>2022-11-26T11:08:53.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 문성민·오예주, 첫 날밤 실패한 신혼부부]]></title>
+        <id>https://v.daum.net/v/20221126200812051</id>
+        <link href="https://v.daum.net/v/20221126200812051"/>
+        <updated>2022-11-26T11:08:42.944Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손호준, 카리스마+스윗함 다 있네..'소방서' 보물]]></title>
+        <id>https://v.daum.net/v/20221126195118797</id>
+        <link href="https://v.daum.net/v/20221126195118797"/>
+        <updated>2022-11-26T11:08:42.949Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민, 후계자 자리 누구에게?…속내를 알 수 없네]]></title>
         <id>https://v.daum.net/v/20221126172703556</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221126140817673"/>
         <updated>2022-11-26T05:10:01.472Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈룹’ 문상민 품 안긴 오예주, 첫날밤 합궁 거부한 부부에 변화 생기나]]></title>
-        <id>https://v.daum.net/v/20221126135042520</id>
-        <link href="https://v.daum.net/v/20221126135042520"/>
-        <updated>2022-11-26T05:10:01.472Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 회귀 전 母 서정연 재등장 '엇갈린 인연']]></title>
-        <id>https://v.daum.net/v/20221126132739291</id>
-        <link href="https://v.daum.net/v/20221126132739291"/>
-        <updated>2022-11-26T05:10:01.476Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
