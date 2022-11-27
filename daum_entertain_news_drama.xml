@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-27T08:14:29.450Z</updated>
+    <updated>2022-11-27T09:11:20.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정부터 김혜수까지…남편 최원영 "어안이 벙벙, 꿈 같았죠"]]></title>
+        <id>https://v.daum.net/v/20221127180101983</id>
+        <link href="https://v.daum.net/v/20221127180101983"/>
+        <updated>2022-11-27T09:10:18.456Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정재성, 최수영 학폭 의혹 제기…가짜뉴스 '권선징악' 엔딩]]></title>
         <id>https://v.daum.net/v/20221127155633980</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221127134430981"/>
         <updated>2022-11-27T05:10:30.473Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 종호→신용재, '재벌집 막내아들' OST 라인업도 재벌급]]></title>
-        <id>https://v.daum.net/v/20221127134043956</id>
-        <link href="https://v.daum.net/v/20221127134043956"/>
-        <updated>2022-11-27T05:10:30.473Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
