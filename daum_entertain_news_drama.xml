@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-28T07:11:50.931Z</updated>
+    <updated>2022-11-28T08:14:49.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤박 “따뜻한 마음과 감성 잘 전달됐으면” 종영소감]]></title>
+        <id>https://v.daum.net/v/20221128165501738</id>
+        <link href="https://v.daum.net/v/20221128165501738"/>
+        <updated>2022-11-28T08:14:39.367Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기 효과! '재벌집 막내아들' 영향력 있는 드라마 1위]]></title>
+        <id>https://v.daum.net/v/20221128165411704</id>
+        <link href="https://v.daum.net/v/20221128165411704"/>
+        <updated>2022-11-28T08:14:39.376Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니 콘텐츠 쇼케이스 '블루 카펫'…정해인·이동휘·허성태 등 참석]]></title>
+        <id>https://v.daum.net/v/20221128165318671</id>
+        <link href="https://v.daum.net/v/20221128165318671"/>
+        <updated>2022-11-28T08:14:39.376Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이혜리 "이준영과 본격 로맨스…달달한 모습이 설렘 안길 것"]]></title>
+        <id>https://v.daum.net/v/20221128165308659</id>
+        <link href="https://v.daum.net/v/20221128165308659"/>
+        <updated>2022-11-28T08:14:39.381Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아하아’ 측 “깜찍 신스틸러 강아지 등장, 김설현과 찰떡케미 기대”]]></title>
         <id>https://v.daum.net/v/20221128160415571</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221128140840931"/>
         <updated>2022-11-28T05:11:54.419Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커튼콜’ 하지원X고두심, 눈부신 미모 투샷]]></title>
-        <id>https://v.daum.net/v/20221128140531845</id>
-        <link href="https://v.daum.net/v/20221128140531845"/>
-        <updated>2022-11-28T05:11:54.420Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환혼’ 사랑꾼 유준상X오나라, 어른 로맨스 예고]]></title>
-        <id>https://v.daum.net/v/20221128140112736</id>
-        <link href="https://v.daum.net/v/20221128140112736"/>
-        <updated>2022-11-28T05:11:54.421Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금혼령’ 박주현X김영대, 최강 비주얼 조합]]></title>
-        <id>https://v.daum.net/v/20221128135545502</id>
-        <link href="https://v.daum.net/v/20221128135545502"/>
-        <updated>2022-11-28T05:11:54.421Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['올빼미' 김성철 "영화 통해 '소현세자'에 대한 관심이 커지길 바래"]]></title>
-        <id>https://v.daum.net/v/20221128135434483</id>
-        <link href="https://v.daum.net/v/20221128135434483"/>
-        <updated>2022-11-28T05:11:54.422Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
