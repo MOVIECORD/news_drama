@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-28T08:14:49.810Z</updated>
+    <updated>2022-11-28T09:13:10.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지옥’ 박정자 맞아? '재벌집' 김신록 부티 줄줄..서슬퍼런 존재감]]></title>
+        <id>https://v.daum.net/v/20221128174617350</id>
+        <link href="https://v.daum.net/v/20221128174617350"/>
+        <updated>2022-11-28T09:12:58.618Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤박 “따뜻한 마음과 감성 잘 전달됐으면” 종영소감]]></title>
         <id>https://v.daum.net/v/20221128165501738</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221128150035107"/>
         <updated>2022-11-28T06:15:08.329Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 피부 보정에 태클 걸어도 범접 불가 대박 조짐]]></title>
-        <id>https://v.daum.net/v/20221128140840931</id>
-        <link href="https://v.daum.net/v/20221128140840931"/>
-        <updated>2022-11-28T05:11:54.419Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
