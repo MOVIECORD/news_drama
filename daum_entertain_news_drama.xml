@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-28T09:13:10.646Z</updated>
+    <updated>2022-11-28T10:13:10.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정인지 "'팬레터' 촬영장 분위기 점점 더 좋아져"']]></title>
+        <id>https://v.daum.net/v/20221128185825001</id>
+        <link href="https://v.daum.net/v/20221128185825001"/>
+        <updated>2022-11-28T10:12:59.715Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미성숙한 '약한영웅', 그래서 강했다]]></title>
+        <id>https://v.daum.net/v/20221128182325401</id>
+        <link href="https://v.daum.net/v/20221128182325401"/>
+        <updated>2022-11-28T10:12:59.717Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘지옥’ 박정자 맞아? 김신록 ‘재벌집 막내아들’서 서슬퍼런 존재감]]></title>
+        <id>https://v.daum.net/v/20221128182243386</id>
+        <link href="https://v.daum.net/v/20221128182243386"/>
+        <updated>2022-11-28T10:12:59.718Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지옥’ 박정자 맞아? '재벌집' 김신록 부티 줄줄..서슬퍼런 존재감]]></title>
         <id>https://v.daum.net/v/20221128174617350</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221128151851755"/>
         <updated>2022-11-28T07:10:48.718Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜리♥이준영 로맨스 이제 달린다→반전 가득 2막]]></title>
-        <id>https://v.daum.net/v/20221128151036500</id>
-        <link href="https://v.daum.net/v/20221128151036500"/>
-        <updated>2022-11-28T06:15:08.322Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘술도녀→D.P.’ 시즌2 귀환 OTT 드라마, 형만 한 아우 될까]]></title>
-        <id>https://v.daum.net/v/20221128150046113</id>
-        <link href="https://v.daum.net/v/20221128150046113"/>
-        <updated>2022-11-28T06:15:08.322Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국vs가나 월드컵 경기..'동상이몽2'·'커튼콜' 등 대거 결방]]></title>
-        <id>https://v.daum.net/v/20221128150035107</id>
-        <link href="https://v.daum.net/v/20221128150035107"/>
-        <updated>2022-11-28T06:15:08.329Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
