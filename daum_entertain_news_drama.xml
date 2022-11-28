@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-28T05:12:05.389Z</updated>
+    <updated>2022-11-28T06:16:11.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜리♥이준영 로맨스 이제 달린다→반전 가득 2막]]></title>
+        <id>https://v.daum.net/v/20221128151036500</id>
+        <link href="https://v.daum.net/v/20221128151036500"/>
+        <updated>2022-11-28T06:15:08.322Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘술도녀→D.P.’ 시즌2 귀환 OTT 드라마, 형만 한 아우 될까]]></title>
+        <id>https://v.daum.net/v/20221128150046113</id>
+        <link href="https://v.daum.net/v/20221128150046113"/>
+        <updated>2022-11-28T06:15:08.322Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국vs가나 월드컵 경기..'동상이몽2'·'커튼콜' 등 대거 결방]]></title>
+        <id>https://v.daum.net/v/20221128150035107</id>
+        <link href="https://v.daum.net/v/20221128150035107"/>
+        <updated>2022-11-28T06:15:08.329Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기 피부 보정에 태클 걸어도 범접 불가 대박 조짐]]></title>
         <id>https://v.daum.net/v/20221128140840931</id>
@@ -48,13 +69,6 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 인기 요인은 '인생역전'…시청자들 대리만족]]></title>
-        <id>https://v.daum.net/v/20221128135032372</id>
-        <link href="https://v.daum.net/v/20221128135032372"/>
-        <updated>2022-11-28T05:11:54.425Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘일당백집사’ 이혜리 “2막선 산 사람들 이야기 중심, 엄청난 반전도”]]></title>
         <id>https://v.daum.net/v/20221128132821786</id>
         <link href="https://v.daum.net/v/20221128132821786"/>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221128121443241"/>
         <updated>2022-11-28T03:25:02.599Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘치얼업’ 결방 세례 못 피한 비운의 청춘물]]></title>
-        <id>https://v.daum.net/v/20221128121222193</id>
-        <link href="https://v.daum.net/v/20221128121222193"/>
-        <updated>2022-11-28T03:25:02.600Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈룹’ 속 빨간 슈룹, 파란 슈룹, 찢어진 슈룹들]]></title>
-        <id>https://v.daum.net/v/20221128120727051</id>
-        <link href="https://v.daum.net/v/20221128120727051"/>
-        <updated>2022-11-28T03:25:02.602Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
