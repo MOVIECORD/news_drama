@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-28T21:10:27.045Z</updated>
+    <updated>2022-11-28T22:12:01.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['약한영웅' 박지훈, 피 땀 눈물은 배신하지 않는다]]></title>
+        <id>https://v.daum.net/v/20221129070031860</id>
+        <link href="https://v.daum.net/v/20221129070031860"/>
+        <updated>2022-11-28T22:10:52.857Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소현은 외도→손준호는 주식 돈 날려..결국 이서진 '기절']]></title>
+        <id>https://v.daum.net/v/20221129065526763</id>
+        <link href="https://v.daum.net/v/20221129065526763"/>
+        <updated>2022-11-28T22:10:52.858Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입체적 캐릭터로…안방극장에 녹아든 성소수자]]></title>
+        <id>https://v.daum.net/v/20221129063008515</id>
+        <link href="https://v.daum.net/v/20221129063008515"/>
+        <updated>2022-11-28T22:10:52.863Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소현♥손준호, 쇼윈도 부부였나..외도 포착 "가식덩어리"]]></title>
         <id>https://v.daum.net/v/20221128224522941</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221128182243386"/>
         <updated>2022-11-28T10:12:59.718Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지옥’ 박정자 맞아? '재벌집' 김신록 부티 줄줄..서슬퍼런 존재감]]></title>
-        <id>https://v.daum.net/v/20221128174617350</id>
-        <link href="https://v.daum.net/v/20221128174617350"/>
-        <updated>2022-11-28T09:12:58.618Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤박 “따뜻한 마음과 감성 잘 전달됐으면” 종영소감]]></title>
-        <id>https://v.daum.net/v/20221128165501738</id>
-        <link href="https://v.daum.net/v/20221128165501738"/>
-        <updated>2022-11-28T08:14:39.367Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 효과! '재벌집 막내아들' 영향력 있는 드라마 1위]]></title>
-        <id>https://v.daum.net/v/20221128165411704</id>
-        <link href="https://v.daum.net/v/20221128165411704"/>
-        <updated>2022-11-28T08:14:39.376Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
