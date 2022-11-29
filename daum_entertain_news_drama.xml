@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T20:12:51.460Z</updated>
+    <updated>2022-11-29T21:11:36.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 허성태, 회사서 갑질..심소영에 "실무에서 손 떼"]]></title>
+        <id>https://v.daum.net/v/20221130054001908</id>
+        <link href="https://v.daum.net/v/20221130054001908"/>
+        <updated>2022-11-29T21:11:26.158Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커튼콜' 하지원, 강하늘 정체 알게 돼···정유진 "그 사람 연극배우"]]></title>
         <id>https://v.daum.net/v/20221130013021880</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221129201018206</id>
         <link href="https://v.daum.net/v/20221129201018206"/>
         <updated>2022-11-29T12:21:27.443Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 김규선, 입양 거절 "장서희 위해 신장 기증"]]></title>
-        <id>https://v.daum.net/v/20221129195826931</id>
-        <link href="https://v.daum.net/v/20221129195826931"/>
-        <updated>2022-11-29T11:10:00.977Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
