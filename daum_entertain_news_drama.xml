@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T14:11:12.691Z</updated>
+    <updated>2022-11-29T15:13:09.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 곽선영, 퇴사 위기 모면..톱스타 김지훈 데려왔다]]></title>
+        <id>https://v.daum.net/v/20221130001139299</id>
+        <link href="https://v.daum.net/v/20221130001139299"/>
+        <updated>2022-11-29T15:12:06.250Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 새 대표 허성태, 직원들에 파격 제안 "성과급 천만 원"]]></title>
+        <id>https://v.daum.net/v/20221129232159741</id>
+        <link href="https://v.daum.net/v/20221129232159741"/>
+        <updated>2022-11-29T15:12:06.261Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 허성태, 회사 대표 됐다 "수익 극대화" 호언장담]]></title>
         <id>https://v.daum.net/v/20221129230522603</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221129190122824"/>
         <updated>2022-11-29T10:12:19.365Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아하아' 김설현, 만취해 흑역사 생성..임시완 당황]]></title>
-        <id>https://v.daum.net/v/20221129184821533</id>
-        <link href="https://v.daum.net/v/20221129184821533"/>
-        <updated>2022-11-29T10:12:19.365Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만취한 설현X당황한 임시완…한밤 중 생긴 일]]></title>
-        <id>https://v.daum.net/v/20221129184442413</id>
-        <link href="https://v.daum.net/v/20221129184442413"/>
-        <updated>2022-11-29T10:12:19.372Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
