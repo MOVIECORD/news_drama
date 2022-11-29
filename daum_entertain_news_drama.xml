@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T09:11:38.591Z</updated>
+    <updated>2022-11-29T10:12:34.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원이 이렇게 웃겼나?..'소방서 옆 경찰서' 열광할 수밖에 없는 이유]]></title>
+        <id>https://v.daum.net/v/20221129190122824</id>
+        <link href="https://v.daum.net/v/20221129190122824"/>
+        <updated>2022-11-29T10:12:19.365Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아하아' 김설현, 만취해 흑역사 생성..임시완 당황]]></title>
+        <id>https://v.daum.net/v/20221129184821533</id>
+        <link href="https://v.daum.net/v/20221129184821533"/>
+        <updated>2022-11-29T10:12:19.365Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만취한 설현X당황한 임시완…한밤 중 생긴 일]]></title>
+        <id>https://v.daum.net/v/20221129184442413</id>
+        <link href="https://v.daum.net/v/20221129184442413"/>
+        <updated>2022-11-29T10:12:19.372Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘, 고두심 손 잡고 잔 사연?]]></title>
         <id>https://v.daum.net/v/20221129181005460</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221129163522185"/>
         <updated>2022-11-29T08:14:45.117Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들', 크리스마스에 종영…"2일 결방"]]></title>
-        <id>https://v.daum.net/v/20221129163058035</id>
-        <link href="https://v.daum.net/v/20221129163058035"/>
-        <updated>2022-11-29T08:14:45.118Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTBC, 송중기·‘재벌집 막내아들’에 큰절이라도 올려야 할 판]]></title>
-        <id>https://v.daum.net/v/20221129162515777</id>
-        <link href="https://v.daum.net/v/20221129162515777"/>
-        <updated>2022-11-29T08:14:45.119Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오좀매' 한석규 "요리? 혼자 지낸 시간 많아 자주 해 먹어"]]></title>
-        <id>https://v.daum.net/v/20221129162122609</id>
-        <link href="https://v.daum.net/v/20221129162122609"/>
-        <updated>2022-11-29T08:14:45.121Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
