@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T12:21:37.279Z</updated>
+    <updated>2022-11-29T13:23:28.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노상현, 진짜 고두심 손자로 밝혀져···강하늘 가짜 행세인 것도 알았다]]></title>
+        <id>https://v.daum.net/v/20221129222250158</id>
+        <link href="https://v.daum.net/v/20221129222250158"/>
+        <updated>2022-11-29T13:23:16.989Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최윤라, "나 이렇게 만든 건 오빠야"...배누리 좋아한다는 백성현 고백에 질투 폭발]]></title>
         <id>https://v.daum.net/v/20221129211302149</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221129170801409"/>
         <updated>2022-11-29T08:14:45.109Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효자촌' 남규홍 PD "방송 엔딩 사상 가장 강렬한 여운 남길 것"]]></title>
-        <id>https://v.daum.net/v/20221129170214206</id>
-        <link href="https://v.daum.net/v/20221129170214206"/>
-        <updated>2022-11-29T08:14:45.111Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
