@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T15:13:09.241Z</updated>
+    <updated>2022-11-29T16:15:18.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배인혁, "둘이 있을 땐 10배로 더 잘할게"...삐친 한지현에 달달한 뽀뽀 애교]]></title>
+        <id>https://v.daum.net/v/20221130002601427</id>
+        <link href="https://v.daum.net/v/20221130002601427"/>
+        <updated>2022-11-29T16:15:06.116Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 곽선영, 퇴사 위기 모면..톱스타 김지훈 데려왔다]]></title>
         <id>https://v.daum.net/v/20221130001139299</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221129194709694"/>
         <updated>2022-11-29T11:10:00.977Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원이 이렇게 웃겼나?..'소방서 옆 경찰서' 열광할 수밖에 없는 이유]]></title>
-        <id>https://v.daum.net/v/20221129190122824</id>
-        <link href="https://v.daum.net/v/20221129190122824"/>
-        <updated>2022-11-29T10:12:19.365Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
