@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T03:22:22.135Z</updated>
+    <updated>2022-11-29T04:14:00.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선영, '일타 스캔들' 출연…전도연·정경호와 호흡]]></title>
+        <id>https://v.daum.net/v/20221129131028792</id>
+        <link href="https://v.daum.net/v/20221129131028792"/>
+        <updated>2022-11-29T04:13:49.783Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김명수, 해병대 전역 후 복귀작은 ‘회계법인’?.."긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20221129123520280</id>
+        <link href="https://v.daum.net/v/20221129123520280"/>
+        <updated>2022-11-29T04:13:49.784Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌집 막내아들’ 어디까지 올라가나? 시청률+화제성+OTT 올킬]]></title>
         <id>https://v.daum.net/v/20221129120337671</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221129095124898"/>
         <updated>2022-11-29T00:55:36.115Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘, 또 위기..하지원 말고 정유진에 먼저 들키나]]></title>
-        <id>https://v.daum.net/v/20221129094820772</id>
-        <link href="https://v.daum.net/v/20221129094820772"/>
-        <updated>2022-11-29T00:55:36.117Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간풍선’ 측 “이보희X정보석 현실부부 뺨치는 연기, 카타르시스 안긴다”]]></title>
-        <id>https://v.daum.net/v/20221129094254563</id>
-        <link href="https://v.daum.net/v/20221129094254563"/>
-        <updated>2022-11-29T00:55:36.118Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
