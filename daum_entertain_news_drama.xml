@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-29T06:14:53.203Z</updated>
+    <updated>2022-11-29T07:11:57.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘은 좀 매울지도 몰라' 한석규X김서형X진호은이 전하는 따스한 울림··· 음식과 가족의 진정한 의미]]></title>
+        <id>https://v.daum.net/v/20221129161020107</id>
+        <link href="https://v.daum.net/v/20221129161020107"/>
+        <updated>2022-11-29T07:10:55.167Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['2년 만 컴백' 한석규, '오매라' 만둣국 대신 김치밥 제안한 이유]]></title>
+        <id>https://v.daum.net/v/20221129155519361</id>
+        <link href="https://v.daum.net/v/20221129155519361"/>
+        <updated>2022-11-29T07:10:55.176Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["뜨겁기보단 따뜻"…'오매라', 한석규가 전할 가족과 사랑의 레시피]]></title>
+        <id>https://v.daum.net/v/20221129153519537</id>
+        <link href="https://v.daum.net/v/20221129153519537"/>
+        <updated>2022-11-29T07:10:55.178Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["봄 직 하지 않을까"…한석규X김서형X진호은, 뜨겁기보다 따뜻한 밥상 '오좀매']]></title>
         <id>https://v.daum.net/v/20221129151121625</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221129143105057"/>
         <updated>2022-11-29T06:14:42.246Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석규 “김서형 날 선 이미지지만 다른 모습이 더 인상적”]]></title>
-        <id>https://v.daum.net/v/20221129142843968</id>
-        <link href="https://v.daum.net/v/20221129142843968"/>
-        <updated>2022-11-29T06:14:42.247Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오매라' 김서형 "날선 이미지→편안하게 힘 빼고 연기"]]></title>
-        <id>https://v.daum.net/v/20221129142722929</id>
-        <link href="https://v.daum.net/v/20221129142722929"/>
-        <updated>2022-11-29T06:14:42.247Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오늘은 좀 매울지도 몰라’ 김서형 “한석규 출연 소식에 출연 결심”]]></title>
-        <id>https://v.daum.net/v/20221129142706915</id>
-        <link href="https://v.daum.net/v/20221129142706915"/>
-        <updated>2022-11-29T06:14:42.249Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
