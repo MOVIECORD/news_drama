@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-30T20:12:05.018Z</updated>
+    <updated>2022-11-30T21:11:27.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오늘은 좀 매울지도 몰라’ 부부로 만난 한석규X김서형, 위기의 왓챠 구할까]]></title>
+        <id>https://v.daum.net/v/20221201060306964</id>
+        <link href="https://v.daum.net/v/20221201060306964"/>
+        <updated>2022-11-30T21:10:25.529Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김래원·공승연, 손호준 빼고 은밀한 공조]]></title>
+        <id>https://v.daum.net/v/20221201060007711</id>
+        <link href="https://v.daum.net/v/20221201060007711"/>
+        <updated>2022-11-30T21:10:25.529Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들'로 잭팟 터뜨린 이 제작사…'제2의 우영우' 실현?]]></title>
+        <id>https://v.daum.net/v/20221201060004698</id>
+        <link href="https://v.daum.net/v/20221201060004698"/>
+        <updated>2022-11-30T21:10:25.529Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘금혼령’ 박주현·김영대·김우석, 직접 밝힌 관전포인트]]></title>
         <id>https://v.daum.net/v/20221201040009843</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221130202805557"/>
         <updated>2022-11-30T12:22:12.540Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하나 "지수원=친母 아닐까…무슨 생각 하는거야"]]></title>
-        <id>https://v.daum.net/v/20221130201800348</id>
-        <link href="https://v.daum.net/v/20221130201800348"/>
-        <updated>2022-11-30T12:22:12.550Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 지수원 의심.."우리 엄마 아닐까"]]></title>
-        <id>https://v.daum.net/v/20221130200612013</id>
-        <link href="https://v.daum.net/v/20221130200612013"/>
-        <updated>2022-11-30T11:09:43.283Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석, 반효정 움직였다 "장서희 살려주세요"]]></title>
-        <id>https://v.daum.net/v/20221130195024661</id>
-        <link href="https://v.daum.net/v/20221130195024661"/>
-        <updated>2022-11-30T11:09:43.293Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
