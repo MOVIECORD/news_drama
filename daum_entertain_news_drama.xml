@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-11-30T18:15:19.981Z</updated>
+    <updated>2022-11-30T19:09:45.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘금혼령’ 박주현·김영대·김우석, 직접 밝힌 관전포인트]]></title>
+        <id>https://v.daum.net/v/20221201040009843</id>
+        <link href="https://v.daum.net/v/20221201040009843"/>
+        <updated>2022-11-30T19:09:33.376Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일당백집사' 한동희, 이준영 집 찾아왔으나→혜리, 이준영에 먼저 고백]]></title>
         <id>https://v.daum.net/v/20221201013016022</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221130195024661</id>
         <link href="https://v.daum.net/v/20221130195024661"/>
         <updated>2022-11-30T11:09:43.293Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 김규선 입양 거절.."한지완과 자매 관계 싫어"]]></title>
-        <id>https://v.daum.net/v/20221130192334067</id>
-        <link href="https://v.daum.net/v/20221130192334067"/>
-        <updated>2022-11-30T11:09:43.294Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
