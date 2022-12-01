@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-01T09:12:47.523Z</updated>
+    <updated>2022-12-01T10:13:20.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["스며들었다" 이성경♥김영광 로맨스에 빠져버린 감독 '자신감 통제불능']]></title>
+        <id>https://v.daum.net/v/20221201183301628</id>
+        <link href="https://v.daum.net/v/20221201183301628"/>
+        <updated>2022-12-01T10:13:10.119Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니+, 최민식·손석구·정해인 업고 잭팟 터뜨릴까]]></title>
         <id>https://v.daum.net/v/20221201180801991</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221201154639476"/>
         <updated>2022-12-01T07:10:57.176Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최애민식♥"..'카지노' 강윤성 감독, 왜 최민식이어야 했나?]]></title>
-        <id>https://v.daum.net/v/20221201154248274</id>
-        <link href="https://v.daum.net/v/20221201154248274"/>
-        <updated>2022-12-01T07:10:57.179Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
