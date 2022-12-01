@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-01T15:12:35.897Z</updated>
+    <updated>2022-12-01T17:23:28.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원, 방화 살인범으로 긴급 체포]]></title>
+        <id>https://v.daum.net/v/20221202020006900</id>
+        <link href="https://v.daum.net/v/20221202020006900"/>
+        <updated>2022-12-01T17:23:17.697Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준영♥이혜리, 마음 통했다.."좋아해요” 설레는 입맞춤]]></title>
+        <id>https://v.daum.net/v/20221202005021334</id>
+        <link href="https://v.daum.net/v/20221202005021334"/>
+        <updated>2022-12-01T17:23:17.697Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준영 “좋아해요”, ♥혜리에 고백→첫키스]]></title>
         <id>https://v.daum.net/v/20221201231238286</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221201183301628"/>
         <updated>2022-12-01T10:13:10.119Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+, 최민식·손석구·정해인 업고 잭팟 터뜨릴까]]></title>
-        <id>https://v.daum.net/v/20221201180801991</id>
-        <link href="https://v.daum.net/v/20221201180801991"/>
-        <updated>2022-12-01T09:11:45.121Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구혜선 측 "'여배우 진술서' 원본 있어…유튜버 무혐의에 항고"]]></title>
-        <id>https://v.daum.net/v/20221201173936013</id>
-        <link href="https://v.daum.net/v/20221201173936013"/>
-        <updated>2022-12-01T09:11:45.125Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
