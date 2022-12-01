@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-01T08:17:38.721Z</updated>
+    <updated>2022-12-01T09:12:47.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+, 최민식·손석구·정해인 업고 잭팟 터뜨릴까]]></title>
+        <id>https://v.daum.net/v/20221201180801991</id>
+        <link href="https://v.daum.net/v/20221201180801991"/>
+        <updated>2022-12-01T09:11:45.121Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구혜선 측 "'여배우 진술서' 원본 있어…유튜버 무혐의에 항고"]]></title>
+        <id>https://v.daum.net/v/20221201173936013</id>
+        <link href="https://v.daum.net/v/20221201173936013"/>
+        <updated>2022-12-01T09:11:45.125Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김영광·이성경, 사귀는거 아니냐 말 나와"..'사말' 감독도 의심]]></title>
         <id>https://v.daum.net/v/20221201171022961</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221201154248274"/>
         <updated>2022-12-01T07:10:57.179Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘묻고 시즌2로 가’ 최민식 ‘카지노’]]></title>
-        <id>https://v.daum.net/v/20221201153839047</id>
-        <link href="https://v.daum.net/v/20221201153839047"/>
-        <updated>2022-12-01T07:10:57.184Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["햄버거 세트처럼"…최민식·손석구에 이동휘까지 든든한 '카지노']]></title>
-        <id>https://v.daum.net/v/20221201153101640</id>
-        <link href="https://v.daum.net/v/20221201153101640"/>
-        <updated>2022-12-01T07:10:57.185Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
