@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T07:11:45.412Z</updated>
+    <updated>2022-12-02T08:14:33.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이보영 '대행사', JTBC '재벌집' 후속 확정…내년 1월 7일 첫방]]></title>
+        <id>https://v.daum.net/v/20221202164951654</id>
+        <link href="https://v.daum.net/v/20221202164951654"/>
+        <updated>2022-12-02T08:13:25.379Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죄수복 입은 김래원..범죄자 된 형사라니 또 어떤 뒤통수를?]]></title>
+        <id>https://v.daum.net/v/20221202164010386</id>
+        <link href="https://v.daum.net/v/20221202164010386"/>
+        <updated>2022-12-02T08:13:25.380Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김래원X손호준X공승연 '소방서 옆 경찰서', 반환점 돌았다…2막 관전 포인트 셋]]></title>
+        <id>https://v.daum.net/v/20221202161601751</id>
+        <link href="https://v.daum.net/v/20221202161601751"/>
+        <updated>2022-12-02T08:13:25.386Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프리즘' 김민철·홍서희, 찬란히 빛난 청춘들의 불완전하고 아름다운 꿈]]></title>
         <id>https://v.daum.net/v/20221202160833554</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221202121840331"/>
         <updated>2022-12-02T04:12:42.105Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아티스트컴퍼니 "신예 유정후, 임성한 신작 '선녀 두리안' 논의 중"]]></title>
-        <id>https://v.daum.net/v/20221202120418074</id>
-        <link href="https://v.daum.net/v/20221202120418074"/>
-        <updated>2022-12-02T03:16:07.246Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커튼콜’ 강하늘, 실제인지 연기인지 구분 안 될 찐 손주 모멘트]]></title>
-        <id>https://v.daum.net/v/20221202120349063</id>
-        <link href="https://v.daum.net/v/20221202120349063"/>
-        <updated>2022-12-02T03:16:07.248Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린 지윤, 설현X임시완 '아하아'로 첫 OST 도전..'난 기다릴게요' 오늘 발매]]></title>
-        <id>https://v.daum.net/v/20221202111225401</id>
-        <link href="https://v.daum.net/v/20221202111225401"/>
-        <updated>2022-12-02T02:18:11.595Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
