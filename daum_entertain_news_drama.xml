@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T05:11:07.959Z</updated>
+    <updated>2022-12-02T06:14:50.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 이정은 "고수·허준호에 염치 불구 귀찮게 하는 중"]]></title>
+        <id>https://v.daum.net/v/20221202144856974</id>
+        <link href="https://v.daum.net/v/20221202144856974"/>
+        <updated>2022-12-02T06:13:48.614Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰에 갇힌 스티브 잡스 아니 박성웅 “사장 살려”]]></title>
         <id>https://v.daum.net/v/20221202135228042</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221202103459822</id>
         <link href="https://v.daum.net/v/20221202103459822"/>
         <updated>2022-12-02T02:18:11.598Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환혼2’ 신승호, 모태 세자 위엄 폭발하는 위풍당당 포스]]></title>
-        <id>https://v.daum.net/v/20221202103216706</id>
-        <link href="https://v.daum.net/v/20221202103216706"/>
-        <updated>2022-12-02T02:18:11.601Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
