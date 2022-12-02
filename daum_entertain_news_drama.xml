@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T09:11:00.389Z</updated>
+    <updated>2022-12-02T10:13:20.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['금혼령' 박주현 "김영대-김우석과 또래, 잘 들어주고 공감해 줘"]]></title>
+        <title type="html"><![CDATA[조현영→박초롱, 만남·이별 담은 웹드라마 '러브로큰' 티저 공개]]></title>
+        <id>https://v.daum.net/v/20221202190205246</id>
+        <link href="https://v.daum.net/v/20221202190205246"/>
+        <updated>2022-12-02T10:12:18.380Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 박주현 "김영대-김우석과 또래, 잘 들어주고 공감해줘"]]></title>
         <id>https://v.daum.net/v/20221202180000287</id>
         <link href="https://v.daum.net/v/20221202180000287"/>
         <updated>2022-12-02T09:10:50.713Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202134519896"/>
         <updated>2022-12-02T05:10:05.734Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔로알토 ‘소방서 옆 경찰서’ OST 불렀다]]></title>
-        <id>https://v.daum.net/v/20221202134011780</id>
-        <link href="https://v.daum.net/v/20221202134011780"/>
-        <updated>2022-12-02T05:10:05.745Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
