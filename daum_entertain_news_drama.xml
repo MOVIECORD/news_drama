@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T13:19:35.149Z</updated>
+    <updated>2022-12-02T14:10:20.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원, 방화 살해 용의자로 체포 "모든 정황이 널 가리키고 있어"]]></title>
+        <id>https://v.daum.net/v/20221202223935689</id>
+        <link href="https://v.daum.net/v/20221202223935689"/>
+        <updated>2022-12-02T14:10:09.583Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김래원, 방화 살인범으로 몰렸다 '위기']]></title>
+        <id>https://v.daum.net/v/20221202222410573</id>
+        <link href="https://v.daum.net/v/20221202222410573"/>
+        <updated>2022-12-02T14:10:09.583Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 손호준, 컨테이너 화재 장소서 시신 발견]]></title>
+        <id>https://v.daum.net/v/20221202222135551</id>
+        <link href="https://v.daum.net/v/20221202222135551"/>
+        <updated>2022-12-02T14:10:09.584Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손호준, 위험 무릅쓰고 화재 진압]]></title>
         <id>https://v.daum.net/v/20221202221002424</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221202180000287"/>
         <updated>2022-12-02T09:10:50.713Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주연, 최시원 향한 직진으로 눈도장 “너무 애틋해 보내기 싫다” 종영 소감]]></title>
-        <id>https://v.daum.net/v/20221202175643196</id>
-        <link href="https://v.daum.net/v/20221202175643196"/>
-        <updated>2022-12-02T09:10:50.713Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수x문상민 효과?..'슈룹', 사극인데 전세계 열풍 왜]]></title>
-        <id>https://v.daum.net/v/20221202175238126</id>
-        <link href="https://v.daum.net/v/20221202175238126"/>
-        <updated>2022-12-02T09:10:50.721Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민철, 비뚤어진 선택…안방극장 충격에 빠뜨린 ‘대반전 엔딩’]]></title>
-        <id>https://v.daum.net/v/20221202171701309</id>
-        <link href="https://v.daum.net/v/20221202171701309"/>
-        <updated>2022-12-02T09:10:50.721Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
