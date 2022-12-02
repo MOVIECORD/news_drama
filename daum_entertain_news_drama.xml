@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T22:11:36.581Z</updated>
+    <updated>2022-12-02T23:10:48.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원, 송중기 無 '재벌집' 빈집털이 성공..시청률 1위]]></title>
+        <id>https://v.daum.net/v/20221203074708042</id>
+        <link href="https://v.daum.net/v/20221203074708042"/>
+        <updated>2022-12-02T23:10:38.557Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김래원X공승연, 위기 속 피어나는 로맨스?...묘한 핑크빛 무드]]></title>
         <id>https://v.daum.net/v/20221203071002697</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202222135551"/>
         <updated>2022-12-02T14:10:09.584Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손호준, 위험 무릅쓰고 화재 진압]]></title>
-        <id>https://v.daum.net/v/20221202221002424</id>
-        <link href="https://v.daum.net/v/20221202221002424"/>
-        <updated>2022-12-02T13:18:32.127Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
