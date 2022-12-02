@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T03:17:09.755Z</updated>
+    <updated>2022-12-02T04:12:53.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환혼' 신승호, 무덕인 없지만..이재욱 거슬리는 공존과 대립의 관계]]></title>
+        <id>https://v.daum.net/v/20221202123117569</id>
+        <link href="https://v.daum.net/v/20221202123117569"/>
+        <updated>2022-12-02T04:12:42.103Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박성웅 “韓 스티브 잡스 같은 캐릭터, CEO 같아 보이려 고민”]]></title>
+        <id>https://v.daum.net/v/20221202121840331</id>
+        <link href="https://v.daum.net/v/20221202121840331"/>
+        <updated>2022-12-02T04:12:42.105Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아티스트컴퍼니 "신예 유정후, 임성한 신작 '선녀 두리안' 논의 중"]]></title>
         <id>https://v.daum.net/v/20221202120418074</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221202100416513"/>
         <updated>2022-12-02T02:18:11.609Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김신록→김남희 ‘순양家 빌런’ 모아보니 머리 지끈]]></title>
-        <id>https://v.daum.net/v/20221202095311055</id>
-        <link href="https://v.daum.net/v/20221202095311055"/>
-        <updated>2022-12-02T02:18:11.611Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아무말 대잔치 하며 연기"…이선빈·한선화·정은지, 리얼 찐친 케미]]></title>
-        <id>https://v.daum.net/v/20221202095236040</id>
-        <link href="https://v.daum.net/v/20221202095236040"/>
-        <updated>2022-12-02T02:18:11.616Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
