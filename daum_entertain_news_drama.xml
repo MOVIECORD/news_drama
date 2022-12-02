@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T10:13:20.950Z</updated>
+    <updated>2022-12-02T11:07:47.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 이현석, 김규선에 거절당했지만 복수 돕는다]]></title>
+        <id>https://v.daum.net/v/20221202200402959</id>
+        <link href="https://v.daum.net/v/20221202200402959"/>
+        <updated>2022-12-02T11:07:36.721Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 한지완, 프러포즈 받고 복수 꿈꾸는 김규선 '멱살']]></title>
+        <id>https://v.daum.net/v/20221202193010480</id>
+        <link href="https://v.daum.net/v/20221202193010480"/>
+        <updated>2022-12-02T11:07:36.725Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조현영→박초롱, 만남·이별 담은 웹드라마 '러브로큰' 티저 공개]]></title>
         <id>https://v.daum.net/v/20221202190205246</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221202144856974"/>
         <updated>2022-12-02T06:13:48.614Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰에 갇힌 스티브 잡스 아니 박성웅 “사장 살려”]]></title>
-        <id>https://v.daum.net/v/20221202135228042</id>
-        <link href="https://v.daum.net/v/20221202135228042"/>
-        <updated>2022-12-02T05:10:05.734Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민철, 1위 향한 열망에 비뚤어진 선택..충격 빠뜨린 ‘대반전 엔딩’]]></title>
-        <id>https://v.daum.net/v/20221202134519896</id>
-        <link href="https://v.daum.net/v/20221202134519896"/>
-        <updated>2022-12-02T05:10:05.734Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
