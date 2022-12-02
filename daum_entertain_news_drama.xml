@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T02:19:13.956Z</updated>
+    <updated>2022-12-02T03:17:09.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아티스트컴퍼니 "신예 유정후, 임성한 신작 '선녀 두리안' 논의 중"]]></title>
+        <id>https://v.daum.net/v/20221202120418074</id>
+        <link href="https://v.daum.net/v/20221202120418074"/>
+        <updated>2022-12-02T03:16:07.246Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘커튼콜’ 강하늘, 실제인지 연기인지 구분 안 될 찐 손주 모멘트]]></title>
+        <id>https://v.daum.net/v/20221202120349063</id>
+        <link href="https://v.daum.net/v/20221202120349063"/>
+        <updated>2022-12-02T03:16:07.248Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이칠린 지윤, 설현X임시완 '아하아'로 첫 OST 도전..'난 기다릴게요' 오늘 발매]]></title>
         <id>https://v.daum.net/v/20221202111225401</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221202095236040"/>
         <updated>2022-12-02T02:18:11.616Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간풍선’ 이성재 이상우 윤주상, 제사상 뒤엎어질 뻔한 이유]]></title>
-        <id>https://v.daum.net/v/20221202095000943</id>
-        <link href="https://v.daum.net/v/20221202095000943"/>
-        <updated>2022-12-02T00:52:52.689Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집 막내아들’ 송중기, “할아버지, 돈에도 도의는 필요합니다”]]></title>
-        <id>https://v.daum.net/v/20221202094802870</id>
-        <link href="https://v.daum.net/v/20221202094802870"/>
-        <updated>2022-12-02T00:52:52.693Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
