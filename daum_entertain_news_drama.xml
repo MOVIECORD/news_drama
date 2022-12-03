@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-03T08:15:03.468Z</updated>
+    <updated>2022-12-03T09:10:57.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['용감한 형사들2' 청주 해장국집 살인사건, 황당한 범행동기]]></title>
+        <id>https://v.daum.net/v/20221203174358328</id>
+        <link href="https://v.daum.net/v/20221203174358328"/>
+        <updated>2022-12-03T09:09:54.607Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 측 "나영석 PD 섭외, 백승룡 감독+이서진 요청 덕분"]]></title>
+        <id>https://v.daum.net/v/20221203173608272</id>
+        <link href="https://v.daum.net/v/20221203173608272"/>
+        <updated>2022-12-03T09:09:54.607Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소방서 옆 경찰서' 김래원X손호준, '스모킹 건' 추적...증거 부수기 통할까]]></title>
         <id>https://v.daum.net/v/20221203161041652</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221203112817114"/>
         <updated>2022-12-03T03:11:42.198Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무나 진보적인 김혜수에게 연기 스트레스는 가당치 않다]]></title>
-        <id>https://v.daum.net/v/20221203111107974</id>
-        <link href="https://v.daum.net/v/20221203111107974"/>
-        <updated>2022-12-03T03:11:42.205Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연매살’ 제작진 “예능국 후배 감독+이서진 요청에 나영석PD 섭외”]]></title>
-        <id>https://v.daum.net/v/20221203110436925</id>
-        <link href="https://v.daum.net/v/20221203110436925"/>
-        <updated>2022-12-03T02:08:36.004Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
