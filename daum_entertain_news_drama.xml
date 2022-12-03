@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-02T23:10:48.234Z</updated>
+    <updated>2022-12-03T00:50:39.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이성민 때문에 母사망' 송중기, 순양에 전면전 선포 후 위기]]></title>
+        <id>https://v.daum.net/v/20221203093853078</id>
+        <link href="https://v.daum.net/v/20221203093853078"/>
+        <updated>2022-12-03T00:49:36.905Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수, 배인혁 죽인 김재범과 독대..복수의 대물림 끊길까]]></title>
+        <id>https://v.daum.net/v/20221203085728598</id>
+        <link href="https://v.daum.net/v/20221203085728598"/>
+        <updated>2022-12-03T00:49:36.909Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“자수하러 왔다” 김래원, 진범 찾고 사이다 엔딩→순간 최고 시청률 12.3%]]></title>
+        <id>https://v.daum.net/v/20221203083921484</id>
+        <link href="https://v.daum.net/v/20221203083921484"/>
+        <updated>2022-12-03T00:49:36.909Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘종이의 집:공동경제구역’ 파트2, 강도단의 의심과 분열..왜 그들은 조폐국을 노렸나]]></title>
+        <id>https://v.daum.net/v/20221203082823390</id>
+        <link href="https://v.daum.net/v/20221203082823390"/>
+        <updated>2022-12-03T00:49:36.910Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김래원, 송중기 無 '재벌집' 빈집털이 성공..시청률 1위]]></title>
         <id>https://v.daum.net/v/20221203074708042</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221202231533030"/>
         <updated>2022-12-02T15:10:12.700Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 절체절명 위기...방화 살인 누명 벗을까]]></title>
-        <id>https://v.daum.net/v/20221202231102971</id>
-        <link href="https://v.daum.net/v/20221202231102971"/>
-        <updated>2022-12-02T15:10:12.701Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 방화 살해 용의자로 체포 "모든 정황이 널 가리키고 있어"]]></title>
-        <id>https://v.daum.net/v/20221202223935689</id>
-        <link href="https://v.daum.net/v/20221202223935689"/>
-        <updated>2022-12-02T14:10:09.583Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 방화 살인범으로 몰렸다 '위기']]></title>
-        <id>https://v.daum.net/v/20221202222410573</id>
-        <link href="https://v.daum.net/v/20221202222410573"/>
-        <updated>2022-12-02T14:10:09.583Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 손호준, 컨테이너 화재 장소서 시신 발견]]></title>
-        <id>https://v.daum.net/v/20221202222135551</id>
-        <link href="https://v.daum.net/v/20221202222135551"/>
-        <updated>2022-12-02T14:10:09.584Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
