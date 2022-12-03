@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-03T03:12:45.127Z</updated>
+    <updated>2022-12-03T04:13:28.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 송중기·박지현, 묘한 분위기 포착]]></title>
+        <id>https://v.daum.net/v/20221203131106758</id>
+        <link href="https://v.daum.net/v/20221203131106758"/>
+        <updated>2022-12-03T04:12:26.208Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살', 나영석이 뜬다!..백승룡 PD-이서진의 섭외 합작]]></title>
         <id>https://v.daum.net/v/20221203112817114</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203082823390"/>
         <updated>2022-12-03T00:49:36.910Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 송중기 無 '재벌집' 빈집털이 성공..시청률 1위]]></title>
-        <id>https://v.daum.net/v/20221203074708042</id>
-        <link href="https://v.daum.net/v/20221203074708042"/>
-        <updated>2022-12-02T23:10:38.557Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
