@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-03T07:09:31.450Z</updated>
+    <updated>2022-12-03T08:15:03.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원X손호준, '스모킹 건' 추적...증거 부수기 통할까]]></title>
+        <id>https://v.daum.net/v/20221203161041652</id>
+        <link href="https://v.daum.net/v/20221203161041652"/>
+        <updated>2022-12-03T08:14:01.197Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘열아홉 해달들’ 김재원 신은수, 위태롭고 불완전한 두 열아홉]]></title>
         <id>https://v.daum.net/v/20221203153327187</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203110436925"/>
         <updated>2022-12-03T02:08:36.004Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고깃집과 당구장" 박지훈x최현욱x홍경 뽑은 '약한영웅' 명장면은?]]></title>
-        <id>https://v.daum.net/v/20221203110219900</id>
-        <link href="https://v.daum.net/v/20221203110219900"/>
-        <updated>2022-12-03T02:08:36.005Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
