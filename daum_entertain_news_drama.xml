@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-03T19:08:38.551Z</updated>
+    <updated>2022-12-03T20:11:19.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“끈 떨어진 연” 김도현, 송중기 배신→김남희 손 잡았다]]></title>
+        <id>https://v.daum.net/v/20221204050806493</id>
+        <link href="https://v.daum.net/v/20221204050806493"/>
+        <updated>2022-12-03T20:11:08.392Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김승수, 김소은 고백에 "20대 딸 있다"]]></title>
         <id>https://v.daum.net/v/20221204020949835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203233019245"/>
         <updated>2022-12-03T15:10:07.759Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 공승연, 철벽 치는 김래원에게 "재수 없고 뻔뻔"]]></title>
-        <id>https://v.daum.net/v/20221203232940240</id>
-        <link href="https://v.daum.net/v/20221203232940240"/>
-        <updated>2022-12-03T15:10:07.760Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
