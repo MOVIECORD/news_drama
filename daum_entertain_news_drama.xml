@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-03T16:14:08.547Z</updated>
+    <updated>2022-12-03T17:09:55.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재범, 김의성 죽인 후→친아들 강찬희 손에 죽으며 "네가 적통이다"]]></title>
+        <id>https://v.daum.net/v/20221204013322742</id>
+        <link href="https://v.daum.net/v/20221204013322742"/>
+        <updated>2022-12-03T17:08:53.765Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, 정계까지 손 뻗나‥김도현에 "청와대로 보낼 것"]]></title>
         <id>https://v.daum.net/v/20221204005020564</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203232309225"/>
         <updated>2022-12-03T15:10:07.761Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 박혁권, 무혐의로 풀려났다..송중기에 "너 인생 2회차지"]]></title>
-        <id>https://v.daum.net/v/20221203232049221</id>
-        <link href="https://v.daum.net/v/20221203232049221"/>
-        <updated>2022-12-03T15:10:07.765Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
