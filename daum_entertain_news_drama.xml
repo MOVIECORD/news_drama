@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-04T09:10:02.923Z</updated>
+    <updated>2022-12-04T10:11:42.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["다음생엔 꼭"..J와 P가 블랙프라이데이를 보내는법]]></title>
+        <id>https://v.daum.net/v/20221204182920932</id>
+        <link href="https://v.daum.net/v/20221204182920932"/>
+        <updated>2022-12-04T10:11:29.711Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 하지원X권상우 우아한 만찬→폭탄선언 '궁금증↑']]></title>
+        <id>https://v.daum.net/v/20221204182100834</id>
+        <link href="https://v.daum.net/v/20221204182100834"/>
+        <updated>2022-12-04T10:11:29.713Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈룹' 세자들의 비극사, 중전 김혜수의 궁중 분투기 마지막 이야기]]></title>
         <id>https://v.daum.net/v/20221204175458423</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20221204135717196</id>
         <link href="https://v.daum.net/v/20221204135717196"/>
         <updated>2022-12-04T05:09:39.375Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 김혜수의 마지막 궁중 분투…갈등 빠진 최원영 '슬픈 눈빛']]></title>
-        <id>https://v.daum.net/v/20221204134306032</id>
-        <link href="https://v.daum.net/v/20221204134306032"/>
-        <updated>2022-12-04T05:09:39.376Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소방서 옆 경찰서’ 숨가쁜 스토리속 유머와 휴머니즘 ‘반짝’]]></title>
-        <id>https://v.daum.net/v/20221204134117007</id>
-        <link href="https://v.daum.net/v/20221204134117007"/>
-        <updated>2022-12-04T05:09:39.378Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
