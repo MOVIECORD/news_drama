@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-04T05:09:50.363Z</updated>
+    <updated>2022-12-04T06:13:14.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["풋풋하고 설레"…'치얼업' 한지현♥배인혁, 탄력 받은 로맨스]]></title>
+        <id>https://v.daum.net/v/20221204150002172</id>
+        <link href="https://v.daum.net/v/20221204150002172"/>
+        <updated>2022-12-04T06:13:02.579Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['치얼업' 한지현♥배인혁, 설렘 모먼트…'도우 폐인' 양성]]></title>
+        <id>https://v.daum.net/v/20221204145908159</id>
+        <link href="https://v.daum.net/v/20221204145908159"/>
+        <updated>2022-12-04T06:13:02.582Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘커튼콜’ 하지원-권상우, 심상치 않은 기류 “큰 심경 변화”]]></title>
+        <id>https://v.daum.net/v/20221204145338057</id>
+        <link href="https://v.daum.net/v/20221204145338057"/>
+        <updated>2022-12-04T06:13:02.585Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차세대 K-콘텐츠 이끌 보물의 서막]]></title>
         <id>https://v.daum.net/v/20221204140156291</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221204121017093"/>
         <updated>2022-12-04T03:12:28.513Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연매살’ 이서진-주현영-정혜영-김영아, 불편한 사자대면 포착]]></title>
-        <id>https://v.daum.net/v/20221204120037925</id>
-        <link href="https://v.daum.net/v/20221204120037925"/>
-        <updated>2022-12-04T03:12:28.517Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원, 의식불명→수술…공승연 눈물 엔딩]]></title>
-        <id>https://v.daum.net/v/20221204114541688</id>
-        <link href="https://v.daum.net/v/20221204114541688"/>
-        <updated>2022-12-04T03:12:28.519Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 무안대군 윤상현 "김혜수와의 1분 1초가 소중했다" 종영 소감]]></title>
-        <id>https://v.daum.net/v/20221204114124649</id>
-        <link href="https://v.daum.net/v/20221204114124649"/>
-        <updated>2022-12-04T03:12:28.522Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
