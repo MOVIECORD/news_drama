@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-04T06:13:14.037Z</updated>
+    <updated>2022-12-04T07:10:26.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김혜수, 권해효에 마지막 기회…비극사 바로 잡을까]]></title>
+        <id>https://v.daum.net/v/20221204153647801</id>
+        <link href="https://v.daum.net/v/20221204153647801"/>
+        <updated>2022-12-04T07:09:16.201Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["풋풋하고 설레"…'치얼업' 한지현♥배인혁, 탄력 받은 로맨스]]></title>
         <id>https://v.daum.net/v/20221204150002172</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221204131007549"/>
         <updated>2022-12-04T04:13:07.900Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼어죽을 연애따위'가 그린 연애 리얼리티의 민낯]]></title>
-        <id>https://v.daum.net/v/20221204121017093</id>
-        <link href="https://v.daum.net/v/20221204121017093"/>
-        <updated>2022-12-04T03:12:28.513Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
