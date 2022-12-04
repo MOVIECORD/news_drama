@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-04T11:08:45.784Z</updated>
+    <updated>2022-12-04T12:19:49.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 임주환 아들 생모, 이하나에 접근했다 '긴장']]></title>
+        <id>https://v.daum.net/v/20221204210141163</id>
+        <link href="https://v.daum.net/v/20221204210141163"/>
+        <updated>2022-12-04T12:18:47.169Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소은, '애아빠' 김승수 거절에 오열 "내가 좋다는데"]]></title>
+        <id>https://v.daum.net/v/20221204203139979</id>
+        <link href="https://v.daum.net/v/20221204203139979"/>
+        <updated>2022-12-04T12:18:47.173Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 김승수, ♥김소은 고백 거절하고 홀로 눈물 '애틋']]></title>
+        <id>https://v.daum.net/v/20221204202053897</id>
+        <link href="https://v.daum.net/v/20221204202053897"/>
+        <updated>2022-12-04T12:18:47.174Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다음생엔 꼭"..J와 P가 블랙프라이데이를 보내는법]]></title>
         <id>https://v.daum.net/v/20221204182920932</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221204145338057"/>
         <updated>2022-12-04T06:13:02.585Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차세대 K-콘텐츠 이끌 보물의 서막]]></title>
-        <id>https://v.daum.net/v/20221204140156291</id>
-        <link href="https://v.daum.net/v/20221204140156291"/>
-        <updated>2022-12-04T05:09:39.366Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈룹' 김혜수, 이래서 비싸도 원톱 배우 캐스팅하는 거 아니겠나]]></title>
-        <id>https://v.daum.net/v/20221204140138287</id>
-        <link href="https://v.daum.net/v/20221204140138287"/>
-        <updated>2022-12-04T05:09:39.372Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연이어 독살된 세자들의 비극史 속 김혜수의 마지막은?]]></title>
-        <id>https://v.daum.net/v/20221204135717196</id>
-        <link href="https://v.daum.net/v/20221204135717196"/>
-        <updated>2022-12-04T05:09:39.375Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
