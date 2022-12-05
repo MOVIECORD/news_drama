@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-05T10:13:00.165Z</updated>
+    <updated>2022-12-05T11:10:13.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박윤재, 손창민 제안에 "박하나 불이익 없게 해달라"]]></title>
+        <id>https://v.daum.net/v/20221205200714558</id>
+        <link href="https://v.daum.net/v/20221205200714558"/>
+        <updated>2022-12-05T11:09:11.651Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선에 자백 "네 엄마 훔쳤어"]]></title>
+        <id>https://v.daum.net/v/20221205200603545</id>
+        <link href="https://v.daum.net/v/20221205200603545"/>
+        <updated>2022-12-05T11:09:11.652Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선 신경쓰는 오창석에 '분노']]></title>
+        <id>https://v.daum.net/v/20221205200459535</id>
+        <link href="https://v.daum.net/v/20221205200459535"/>
+        <updated>2022-12-05T11:09:11.653Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박윤재, 박하나 위해 미국行 결정…"어떤 불이익 없도록"]]></title>
+        <id>https://v.daum.net/v/20221205200438528</id>
+        <link href="https://v.daum.net/v/20221205200438528"/>
+        <updated>2022-12-05T11:09:11.654Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은 "10대들의 전지현? 더 즐길 걸…'공주야' 불릴 때 행복"]]></title>
         <id>https://v.daum.net/v/20221205185001607</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221205170245767"/>
         <updated>2022-12-05T08:14:14.913Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 원작 드라마 여주, 주목해라 이제 박주현이다]]></title>
-        <id>https://v.daum.net/v/20221205164521252</id>
-        <link href="https://v.daum.net/v/20221205164521252"/>
-        <updated>2022-12-05T08:14:14.913Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창훈, '대행사' 합류...이보영과 호흡]]></title>
-        <id>https://v.daum.net/v/20221205164330192</id>
-        <link href="https://v.daum.net/v/20221205164330192"/>
-        <updated>2022-12-05T08:14:14.918Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페퍼톤스 ‘치얼업’ 9번째 OST 공개, 프로듀싱→가창까지 다 하네]]></title>
-        <id>https://v.daum.net/v/20221205162553621</id>
-        <link href="https://v.daum.net/v/20221205162553621"/>
-        <updated>2022-12-05T08:14:14.918Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3인칭 복수' 신예은 "학창시절엔 동안 소리 한번도 못 들어"]]></title>
-        <id>https://v.daum.net/v/20221205160620948</id>
-        <link href="https://v.daum.net/v/20221205160620948"/>
-        <updated>2022-12-05T07:10:38.762Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
