@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-05T09:11:08.274Z</updated>
+    <updated>2022-12-05T10:13:00.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신예은 "10대들의 전지현? 더 즐길 걸…'공주야' 불릴 때 행복"]]></title>
+        <id>https://v.daum.net/v/20221205185001607</id>
+        <link href="https://v.daum.net/v/20221205185001607"/>
+        <updated>2022-12-05T10:12:48.591Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 정치·활극·로맨스, 잘 차린 밥상]]></title>
+        <id>https://v.daum.net/v/20221205181840066</id>
+        <link href="https://v.daum.net/v/20221205181840066"/>
+        <updated>2022-12-05T10:12:48.597Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['3인칭 복수' 신예은, 디즈니 "공주" 된 '10대들의 전지현']]></title>
+        <id>https://v.daum.net/v/20221205181820056</id>
+        <link href="https://v.daum.net/v/20221205181820056"/>
+        <updated>2022-12-05T10:12:48.603Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅마마→강다니엘, ‘술도녀2’ OST 라인업 공개]]></title>
         <id>https://v.daum.net/v/20221205180430705</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221205160620948"/>
         <updated>2022-12-05T07:10:38.762Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성·백종원도 동참…김남길 길스토리 기부쇼, 뜻깊은 나눔 속 성료]]></title>
-        <id>https://v.daum.net/v/20221205160425880</id>
-        <link href="https://v.daum.net/v/20221205160425880"/>
-        <updated>2022-12-05T07:10:38.763Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["놀라움 넘어 경악" 하지원, 강하늘 진짜 정체 알았다]]></title>
-        <id>https://v.daum.net/v/20221205160241800</id>
-        <link href="https://v.daum.net/v/20221205160241800"/>
-        <updated>2022-12-05T07:10:38.763Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥트' 정해인 "한쪽 눈 가리고 연기, 눈빛 절반 되는 핸디캡"]]></title>
-        <id>https://v.daum.net/v/20221205160025688</id>
-        <link href="https://v.daum.net/v/20221205160025688"/>
-        <updated>2022-12-05T07:10:38.764Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
