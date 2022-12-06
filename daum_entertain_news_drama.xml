@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-06T14:10:21.936Z</updated>
+    <updated>2022-12-06T15:11:14.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 이서진, '주현영=딸' 실토.."회사 그만두겠다"]]></title>
+        <id>https://v.daum.net/v/20221207000943974</id>
+        <link href="https://v.daum.net/v/20221207000943974"/>
+        <updated>2022-12-06T15:11:03.150Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["주현영 내 딸"...‘연매살’ 이서진, 류현경X다니엘 헤니 고소에 고백]]></title>
+        <id>https://v.daum.net/v/20221206235324797</id>
+        <link href="https://v.daum.net/v/20221206235324797"/>
+        <updated>2022-12-06T15:11:03.152Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 곽선영, 술 취해 허성태와 키스 "없던 일로 해"]]></title>
+        <id>https://v.daum.net/v/20221206232816699</id>
+        <link href="https://v.daum.net/v/20221206232816699"/>
+        <updated>2022-12-06T15:11:03.153Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연매살' 곽선영 "허성태와 키스했다...아무것도 아닌 악수 느낌"]]></title>
+        <id>https://v.daum.net/v/20221206232330678</id>
+        <link href="https://v.daum.net/v/20221206232330678"/>
+        <updated>2022-12-06T15:11:03.158Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연매살' 류현경, 다니엘 헤니와 작품? "됐다 그래요"]]></title>
         <id>https://v.daum.net/v/20221206230749609</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221206193033245"/>
         <updated>2022-12-06T11:09:27.058Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈 "현타 오는 신들 많았다"…다 내려놓은 '술도녀2']]></title>
-        <id>https://v.daum.net/v/20221206193002238</id>
-        <link href="https://v.daum.net/v/20221206193002238"/>
-        <updated>2022-12-06T11:09:27.059Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['약한영웅' 최현욱의 치열한 성장은 낭만이 된다]]></title>
-        <id>https://v.daum.net/v/20221206184238556</id>
-        <link href="https://v.daum.net/v/20221206184238556"/>
-        <updated>2022-12-06T10:11:19.392Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“미친X처럼 행동하라”.. ‘대행사’ 이보영, 아우라 가득 첫 스틸 공개]]></title>
-        <id>https://v.daum.net/v/20221206184030511</id>
-        <link href="https://v.daum.net/v/20221206184030511"/>
-        <updated>2022-12-06T10:11:19.393Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥트' 미이케 타카시 감독 "K-드라마의 힘, K-웹툰도 충격적, K-추위도 대단해"]]></title>
-        <id>https://v.daum.net/v/20221206181228901</id>
-        <link href="https://v.daum.net/v/20221206181228901"/>
-        <updated>2022-12-06T10:11:19.395Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
