@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-07T09:11:03.134Z</updated>
+    <updated>2022-12-07T10:11:47.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['약한영웅' 홍경, 의도하지 않고도 전달하는 힘]]></title>
+        <id>https://v.daum.net/v/20221207191026673</id>
+        <link href="https://v.daum.net/v/20221207191026673"/>
+        <updated>2022-12-07T10:11:35.936Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 김가은 "데뷔작서 만난 김혜수와 12년만 재회, 많이 배웠다"]]></title>
+        <id>https://v.daum.net/v/20221207185014200</id>
+        <link href="https://v.daum.net/v/20221207185014200"/>
+        <updated>2022-12-07T10:11:35.938Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채종협 "박성웅과 호흡 걱정 無"…박성웅 "계좌번호 보낼게" 웃음]]></title>
+        <id>https://v.daum.net/v/20221207185003192</id>
+        <link href="https://v.daum.net/v/20221207185003192"/>
+        <updated>2022-12-07T10:11:35.938Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김가은 “태소용이 사랑받을줄이야…‘슈룹’하길 잘했다”]]></title>
+        <id>https://v.daum.net/v/20221207182023255</id>
+        <link href="https://v.daum.net/v/20221207182023255"/>
+        <updated>2022-12-07T10:11:35.938Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘환혼2’ 부활한 이재욱, 괴물 잡는 괴물됐다]]></title>
         <id>https://v.daum.net/v/20221207175629474</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221207164849624"/>
         <updated>2022-12-07T08:13:53.609Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문상민 측 “‘웨딩 임파서블’ 검토 중인 작품”]]></title>
-        <id>https://v.daum.net/v/20221207164413469</id>
-        <link href="https://v.daum.net/v/20221207164413469"/>
-        <updated>2022-12-07T08:13:53.614Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 측 "'웨딩 임파서블' 출연 제안받고 긍정 검토 중"]]></title>
-        <id>https://v.daum.net/v/20221207164115385</id>
-        <link href="https://v.daum.net/v/20221207164115385"/>
-        <updated>2022-12-07T08:13:53.617Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문상민, '웨딩 임파서블' 주인공 물망.."연출진과 미팅"]]></title>
-        <id>https://v.daum.net/v/20221207163907323</id>
-        <link href="https://v.daum.net/v/20221207163907323"/>
-        <updated>2022-12-07T08:13:53.617Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열아홉 해달들' 신은수·김재원이 펼칠 애틋한 첫사랑 이야기]]></title>
-        <id>https://v.daum.net/v/20221207163722274</id>
-        <link href="https://v.daum.net/v/20221207163722274"/>
-        <updated>2022-12-07T08:13:53.619Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
