@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-07T15:11:25.748Z</updated>
+    <updated>2022-12-07T16:15:34.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘우영우’ ‘파친코’, 미국 크리틱스 초이스 어워즈 후보]]></title>
+        <id>https://v.daum.net/v/20221208003011550</id>
+        <link href="https://v.daum.net/v/20221208003011550"/>
+        <updated>2022-12-07T16:14:31.800Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이범수 측 "학생 차별·폭언 없었다...허위사실에 법적 조치"]]></title>
         <id>https://v.daum.net/v/20221207213444093</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221207175629474"/>
         <updated>2022-12-07T09:10:49.412Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS 측 "열혈사제 시즌2? 논의 중..확정 NO"]]></title>
-        <id>https://v.daum.net/v/20221207175350409</id>
-        <link href="https://v.daum.net/v/20221207175350409"/>
-        <updated>2022-12-07T09:10:49.413Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
