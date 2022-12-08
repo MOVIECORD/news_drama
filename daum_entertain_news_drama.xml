@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-08T20:11:31.328Z</updated>
+    <updated>2022-12-08T21:11:47.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평행우주 세계관 ‘금혼령’의 발칙한 상상, 시청자에 통할까]]></title>
+        <id>https://v.daum.net/v/20221209060406638</id>
+        <link href="https://v.daum.net/v/20221209060406638"/>
+        <updated>2022-12-08T21:10:44.229Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동래 래몽래인 대표 "좋은 IP, 회사 브랜드 이미지 높여" ①]]></title>
+        <id>https://v.daum.net/v/20221209060015446</id>
+        <link href="https://v.daum.net/v/20221209060015446"/>
+        <updated>2022-12-08T21:10:44.232Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동래 래몽래인 대표 "뉴미디어 중요성…젊은 기획자 확충" ②]]></title>
+        <id>https://v.daum.net/v/20221209060008427</id>
+        <link href="https://v.daum.net/v/20221209060008427"/>
+        <updated>2022-12-08T21:10:44.233Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['결혼에 진심' 김준연=안동 김씨..말로만 듣던 종갓집]]></title>
         <id>https://v.daum.net/v/20221209002517935</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221208193214163"/>
         <updated>2022-12-08T11:09:32.787Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종혁 "'브로드웨이 42번가'에 5번 출연, 이젠 대표 배우죠"]]></title>
-        <id>https://v.daum.net/v/20221208191528943</id>
-        <link href="https://v.daum.net/v/20221208191528943"/>
-        <updated>2022-12-08T11:09:32.788Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 만화 찢고 나온 김영대…"만장일치 캐스팅"]]></title>
-        <id>https://v.daum.net/v/20221208185018572</id>
-        <link href="https://v.daum.net/v/20221208185018572"/>
-        <updated>2022-12-08T10:12:39.216Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치얼업' 장규리, 비하인드 꽉 채우는 안구정화 '꽃 미모']]></title>
-        <id>https://v.daum.net/v/20221208175146184</id>
-        <link href="https://v.daum.net/v/20221208175146184"/>
-        <updated>2022-12-08T09:11:09.475Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
