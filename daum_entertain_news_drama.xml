@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-08T12:19:40.230Z</updated>
+    <updated>2022-12-08T13:19:22.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 오승아, 박윤재에 "곁에 남을 사람은 나"→박하나 위기]]></title>
+        <id>https://v.daum.net/v/20221208213021214</id>
+        <link href="https://v.daum.net/v/20221208213021214"/>
+        <updated>2022-12-08T13:19:10.704Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백성현, 복귀한 배누리 신경X어색한 기류...최윤라 경계]]></title>
+        <id>https://v.daum.net/v/20221208212702169</id>
+        <link href="https://v.daum.net/v/20221208212702169"/>
+        <updated>2022-12-08T13:19:10.725Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지완, "누가 불쌍한지 똑바로 알아"...자신 동정하는 김규선에 날 선 신경전]]></title>
         <id>https://v.daum.net/v/20221208210702918</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221208174539028"/>
         <updated>2022-12-08T09:11:09.488Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["권진영 대표 대리처방 비난은 인권말살…법적조치"]]></title>
-        <id>https://v.daum.net/v/20221208174453987</id>
-        <link href="https://v.daum.net/v/20221208174453987"/>
-        <updated>2022-12-08T09:11:09.491Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['응칠' 돌아온다?… 서인국 "10주년 촬영" 깜짝 스포]]></title>
-        <id>https://v.daum.net/v/20221208165759043</id>
-        <link href="https://v.daum.net/v/20221208165759043"/>
-        <updated>2022-12-08T08:14:02.061Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
