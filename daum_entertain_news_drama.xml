@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-09T19:11:31.072Z</updated>
+    <updated>2022-12-09T20:12:17.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“허위 제보 증거 확보” 검사 신현빈, 송중기 복수 발목 잡나]]></title>
+        <id>https://v.daum.net/v/20221210051005446</id>
+        <link href="https://v.daum.net/v/20221210051005446"/>
+        <updated>2022-12-09T20:11:15.008Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기, 신현빈과 재회로 러브라인?…허위 제보 역풍 위기]]></title>
+        <id>https://v.daum.net/v/20221210050012372</id>
+        <link href="https://v.daum.net/v/20221210050012372"/>
+        <updated>2022-12-09T20:11:15.011Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집' 송중기, 이성민力 얻어 이사회 소집→김신록·신현빈과 대립]]></title>
         <id>https://v.daum.net/v/20221210002530186</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221209230317759"/>
         <updated>2022-12-09T14:09:50.924Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 경리, 김영대 유혹 "더우면 옷 벗겨주겠다"]]></title>
-        <id>https://v.daum.net/v/20221209225306721</id>
-        <link href="https://v.daum.net/v/20221209225306721"/>
-        <updated>2022-12-09T14:09:50.925Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민, 송중기 애교에 녹았나…귀여운 손자 소원에 '웃음']]></title>
-        <id>https://v.daum.net/v/20221209224824700</id>
-        <link href="https://v.daum.net/v/20221209224824700"/>
-        <updated>2022-12-09T14:09:50.926Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
