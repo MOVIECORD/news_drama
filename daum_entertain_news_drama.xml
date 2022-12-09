@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-09T07:10:19.408Z</updated>
+    <updated>2022-12-09T08:14:49.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사장님을 잠금해제' 서은수, 연기 변신...존재감을 잠금해제]]></title>
+        <id>https://v.daum.net/v/20221209162448863</id>
+        <link href="https://v.daum.net/v/20221209162448863"/>
+        <updated>2022-12-09T08:13:41.688Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금혼령', '옷소매' 이어 '사극 명가' MBC 이름값 지킬까]]></title>
         <id>https://v.daum.net/v/20221209160050140</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221209132245438"/>
         <updated>2022-12-09T05:10:09.268Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롤리' 김현주·박희순·김무열·정수빈, 네 사람의 복잡미묘 관계]]></title>
-        <id>https://v.daum.net/v/20221209132109414</id>
-        <link href="https://v.daum.net/v/20221209132109414"/>
-        <updated>2022-12-09T05:10:09.269Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
