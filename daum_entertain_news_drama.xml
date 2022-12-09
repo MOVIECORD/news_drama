@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-09T20:12:17.289Z</updated>
+    <updated>2022-12-09T21:10:11.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기, 생활고 父 도둑질 모른 척→대학 진학 포기]]></title>
+        <id>https://v.daum.net/v/20221210051606471</id>
+        <link href="https://v.daum.net/v/20221210051606471"/>
+        <updated>2022-12-09T21:10:00.857Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“무제한 보상” 송중기, Y2K 공포 역이용 100억 벌었다 ‘대박’]]></title>
+        <id>https://v.daum.net/v/20221210051405464</id>
+        <link href="https://v.daum.net/v/20221210051405464"/>
+        <updated>2022-12-09T21:10:00.873Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“허위 제보 증거 확보” 검사 신현빈, 송중기 복수 발목 잡나]]></title>
         <id>https://v.daum.net/v/20221210051005446</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221209231007786"/>
         <updated>2022-12-09T15:10:43.430Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김신록, 주식 투자 실패…1400억 잃었다]]></title>
-        <id>https://v.daum.net/v/20221209230532767</id>
-        <link href="https://v.daum.net/v/20221209230532767"/>
-        <updated>2022-12-09T14:09:50.922Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 송중기, 신현빈과 재회..김신록 공금 횡령 제보]]></title>
-        <id>https://v.daum.net/v/20221209230317759</id>
-        <link href="https://v.daum.net/v/20221209230317759"/>
-        <updated>2022-12-09T14:09:50.924Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
