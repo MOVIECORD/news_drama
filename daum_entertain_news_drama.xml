@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-09T15:10:54.899Z</updated>
+    <updated>2022-12-09T16:14:38.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 송중기, 이성민力 얻어 이사회 소집→김신록·신현빈과 대립]]></title>
+        <id>https://v.daum.net/v/20221210002530186</id>
+        <link href="https://v.daum.net/v/20221210002530186"/>
+        <updated>2022-12-09T16:14:28.622Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, 허위 제보 의혹에 위기?…신현빈에 뒤통수 맞나]]></title>
         <id>https://v.daum.net/v/20221209235813962</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 송중기의 위기vs김신록의 몰락?..신현빈, 검사 활약]]></title>
+        <title type="html"><![CDATA['재벌집 막내아들' 검사된 신현빈, 김신록 아닌 송중기 잡나..반전 엔딩]]></title>
         <id>https://v.daum.net/v/20221209235123946</id>
         <link href="https://v.daum.net/v/20221209235123946"/>
         <updated>2022-12-09T15:10:43.430Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221209224824700</id>
         <link href="https://v.daum.net/v/20221209224824700"/>
         <updated>2022-12-09T14:09:50.926Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 경찰서 떠나는 이도엽에 "너 체포영상 나왔어"]]></title>
-        <id>https://v.daum.net/v/20221209223858651</id>
-        <link href="https://v.daum.net/v/20221209223858651"/>
-        <updated>2022-12-09T14:09:50.928Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
