@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-10T07:09:45.293Z</updated>
+    <updated>2022-12-10T08:13:18.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종이의 집: 공동경제구역 파트2' 한국만의 정서와 상황 담은 완성도 높은 마무리, 드디어 종결!]]></title>
+        <id>https://v.daum.net/v/20221210165424244</id>
+        <link href="https://v.daum.net/v/20221210165424244"/>
+        <updated>2022-12-10T08:13:07.679Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘금혼령’ 박주현 궁 입성, 축 늘어져 김우석에 업힌 이유]]></title>
+        <id>https://v.daum.net/v/20221210165255233</id>
+        <link href="https://v.daum.net/v/20221210165255233"/>
+        <updated>2022-12-10T08:13:07.680Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금혼령' 박주현, 왕 김영대와 겸상 '궁궐 분투기' 시작]]></title>
         <id>https://v.daum.net/v/20221210153037497</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210113602743"/>
         <updated>2022-12-10T03:11:13.593Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 문수아, 오늘 '재벌집 막내아들' OST 발매..데뷔 첫 참여]]></title>
-        <id>https://v.daum.net/v/20221210113517734</id>
-        <link href="https://v.daum.net/v/20221210113517734"/>
-        <updated>2022-12-10T03:11:13.604Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술도녀2'·'금혼령', 느슨한 '재벌집'·'소옆경' 긴장시킨 발랄함]]></title>
-        <id>https://v.daum.net/v/20221210113126707</id>
-        <link href="https://v.daum.net/v/20221210113126707"/>
-        <updated>2022-12-10T03:11:13.604Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
