@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-10T17:09:20.090Z</updated>
+    <updated>2022-12-10T18:12:38.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[E와 I의 옷 사기···매장 직원이 아는 척 할 때]]></title>
+        <id>https://v.daum.net/v/20221211030207512</id>
+        <link href="https://v.daum.net/v/20221211030207512"/>
+        <updated>2022-12-10T18:12:27.559Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“갑시다 서방님” 고윤정, 이재욱에 정략결혼 위기 속 ‘청혼’]]></title>
         <id>https://v.daum.net/v/20221211005226072</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221210232443786"/>
         <updated>2022-12-10T15:10:18.568Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나도 버려진 아이였다" 공승연, 김래원에 출생의 비밀 고백]]></title>
-        <id>https://v.daum.net/v/20221210231927774</id>
-        <link href="https://v.daum.net/v/20221210231927774"/>
-        <updated>2022-12-10T15:10:18.572Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
