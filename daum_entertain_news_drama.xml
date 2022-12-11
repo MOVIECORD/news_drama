@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-11T19:09:51.965Z</updated>
+    <updated>2022-12-11T20:10:38.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내 무섭다” 이성민, 김남희 배후 충격에 섬망 ‘연기대상감 찬사’]]></title>
+        <id>https://v.daum.net/v/20221212050906163</id>
+        <link href="https://v.daum.net/v/20221212050906163"/>
+        <updated>2022-12-11T20:10:26.419Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성민, 송중기 못 알아봐 "날 죽이려는 무서운 아이"]]></title>
+        <id>https://v.daum.net/v/20221212050008888</id>
+        <link href="https://v.daum.net/v/20221212050008888"/>
+        <updated>2022-12-11T20:10:26.423Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 이성민, 오줌까지 지렸다 "두 시간만 살게해도"]]></title>
+        <id>https://v.daum.net/v/20221212044921853</id>
+        <link href="https://v.daum.net/v/20221212044921853"/>
+        <updated>2022-12-11T20:10:26.427Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재욱, 고윤정 구하기 위해 “나와 이미 혼인했다” 선포]]></title>
         <id>https://v.daum.net/v/20221212005021175</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221211230815813"/>
         <updated>2022-12-11T14:09:05.842Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 주가 조작 무혐의…신현빈과 뜨거운 포옹]]></title>
-        <id>https://v.daum.net/v/20221211225920791</id>
-        <link href="https://v.daum.net/v/20221211225920791"/>
-        <updated>2022-12-11T14:09:05.843Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민·송중기 교통사고, 둘 다 살았다…박지훈 대신 사고]]></title>
-        <id>https://v.daum.net/v/20221211225829790</id>
-        <link href="https://v.daum.net/v/20221211225829790"/>
-        <updated>2022-12-11T14:09:05.858Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민·송중기 구사일생…박지훈이 살렸다]]></title>
-        <id>https://v.daum.net/v/20221211225129761</id>
-        <link href="https://v.daum.net/v/20221211225129761"/>
-        <updated>2022-12-11T14:09:05.859Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
