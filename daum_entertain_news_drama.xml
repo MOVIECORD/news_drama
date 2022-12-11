@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-11T08:13:02.071Z</updated>
+    <updated>2022-12-11T09:10:24.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["주식투자 동아리의 전설 존재" 뉴키드 이민욱, 냉∙온탕 매력]]></title>
+        <id>https://v.daum.net/v/20221211174215483</id>
+        <link href="https://v.daum.net/v/20221211174215483"/>
+        <updated>2022-12-11T09:10:14.149Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌집’ 신현빈 숨겨진 키플레이어, 활약은 이제부터]]></title>
         <id>https://v.daum.net/v/20221211163526557</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221211111924959</id>
         <link href="https://v.daum.net/v/20221211111924959"/>
         <updated>2022-12-11T02:23:48.432Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 송중기는 2016 송중기를 넘을 수 있을까]]></title>
-        <id>https://v.daum.net/v/20221211111521913</id>
-        <link href="https://v.daum.net/v/20221211111521913"/>
-        <updated>2022-12-11T02:23:48.437Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
