@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-11T02:23:57.038Z</updated>
+    <updated>2022-12-11T03:17:13.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슈룹' 문상민 "최애 맛집에 제 사인이 걸렸죠…동남아 팬들 인기 실감나요"]]></title>
+        <id>https://v.daum.net/v/20221211120103667</id>
+        <link href="https://v.daum.net/v/20221211120103667"/>
+        <updated>2022-12-11T03:17:02.983Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 신현빈, 순양가의 저승사자vs송중기의 연인..본격 활약 시작했다]]></title>
+        <id>https://v.daum.net/v/20221211112620057</id>
+        <link href="https://v.daum.net/v/20221211112620057"/>
+        <updated>2022-12-11T03:17:02.984Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금혼령' 김우석, 서브 앓이 일으킬 짝사랑 서사 본격 시작..성공적 사극 데뷔]]></title>
         <id>https://v.daum.net/v/20221211112330024</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221211094849203"/>
         <updated>2022-12-11T00:57:22.847Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영대, 세자빈 향한 그리움 주체 못한 채 박주현에 포옹]]></title>
-        <id>https://v.daum.net/v/20221211093601033</id>
-        <link href="https://v.daum.net/v/20221211093601033"/>
-        <updated>2022-12-11T00:57:22.850Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 박주현, 궁궐 입성 후 사기극 시작..시청률은 하락 '3.4%']]></title>
-        <id>https://v.daum.net/v/20221211093334008</id>
-        <link href="https://v.daum.net/v/20221211093334008"/>
-        <updated>2022-12-11T00:57:22.850Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
