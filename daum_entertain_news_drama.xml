@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-12T19:12:30.720Z</updated>
+    <updated>2022-12-12T20:10:26.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연매살' 이순재, 치매의심..하차 위기→ 곽선영·노상현 재회]]></title>
+        <id>https://v.daum.net/v/20221213050001405</id>
+        <link href="https://v.daum.net/v/20221213050001405"/>
+        <updated>2022-12-12T20:10:15.542Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치얼업' 배인혁, "네가 다치지 않아서 다행이야"…한지현 대신 임지호 칼 맞았다]]></title>
         <id>https://v.daum.net/v/20221213015402709</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212230612824"/>
         <updated>2022-12-12T14:10:23.076Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하지원, 강하늘·성동일·정지소와 연극 합세 “내가 전부 지킬 것”]]></title>
-        <id>https://v.daum.net/v/20221212230332811</id>
-        <link href="https://v.daum.net/v/20221212230332811"/>
-        <updated>2022-12-12T14:10:23.076Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
