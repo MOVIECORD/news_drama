@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-12T21:10:40.234Z</updated>
+    <updated>2022-12-12T22:11:38.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이순재, 치매 증상에 심소영 찾았다…"기억 잃기 전 사과하려고"]]></title>
+        <id>https://v.daum.net/v/20221213070003796</id>
+        <link href="https://v.daum.net/v/20221213070003796"/>
+        <updated>2022-12-12T22:10:36.750Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['88세' 이순재, 눈물샘 자극한 현역 최고령 대배우]]></title>
+        <id>https://v.daum.net/v/20221213065622761</id>
+        <link href="https://v.daum.net/v/20221213065622761"/>
+        <updated>2022-12-12T22:10:36.751Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하지원, 성동일X강하늘 연극 합류..“고두심+추억+호텔 전부 지킬 것”]]></title>
+        <id>https://v.daum.net/v/20221213065323734</id>
+        <link href="https://v.daum.net/v/20221213065323734"/>
+        <updated>2022-12-12T22:10:36.751Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기·이성민 ‘일’ 냈다…‘재벌집’ 20% 인기 요인은?]]></title>
+        <id>https://v.daum.net/v/20221213063018537</id>
+        <link href="https://v.daum.net/v/20221213063018537"/>
+        <updated>2022-12-12T22:10:36.753Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이현석, 김규선 무죄 증명 결심...반효정, '한지완=진범' 알았다]]></title>
         <id>https://v.daum.net/v/20221213060201267</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221212235837060"/>
         <updated>2022-12-12T15:11:48.391Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연매살' 이순재, 치매 의심 증상→심소영 복귀 "걱정마, 나 멀쩡하니까"]]></title>
-        <id>https://v.daum.net/v/20221212234402991</id>
-        <link href="https://v.daum.net/v/20221212234402991"/>
-        <updated>2022-12-12T15:11:48.394Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 노상현, 화목한 고두심X강하늘에 씁쓸]]></title>
-        <id>https://v.daum.net/v/20221212232805886</id>
-        <link href="https://v.daum.net/v/20221212232805886"/>
-        <updated>2022-12-12T15:11:48.396Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연매살' 이순재, 치매 증상.. 영화 촬영 무산 위기]]></title>
-        <id>https://v.daum.net/v/20221212232754883</id>
-        <link href="https://v.daum.net/v/20221212232754883"/>
-        <updated>2022-12-12T15:11:48.398Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배인혁, "같이 하게 해 줘"...이별 고한 한지현 손 맞잡았다]]></title>
-        <id>https://v.daum.net/v/20221212231501847</id>
-        <link href="https://v.daum.net/v/20221212231501847"/>
-        <updated>2022-12-12T15:11:48.399Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
