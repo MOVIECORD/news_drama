@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-13T09:11:29.919Z</updated>
+    <updated>2022-12-13T10:12:16.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지우학' 임재혁, AAA 아이콘상 수상..봉준호 감독 수상소감 패러디]]></title>
+        <id>https://v.daum.net/v/20221213182920890</id>
+        <link href="https://v.daum.net/v/20221213182920890"/>
+        <updated>2022-12-13T10:12:05.673Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선호, AAA 아이돌플러스 인기상.."좋은 사람이자 배우로"]]></title>
         <id>https://v.daum.net/v/20221213174349756</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221213141629122"/>
         <updated>2022-12-13T06:14:33.291Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아하아’ 김설현, 임시완 붙잡을까…여행지서 깊은 대화]]></title>
-        <id>https://v.daum.net/v/20221213141511077</id>
-        <link href="https://v.daum.net/v/20221213141511077"/>
-        <updated>2022-12-13T06:14:33.292Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
