@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-14T09:11:52.946Z</updated>
+    <updated>2022-12-14T10:12:27.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“씨름을?” 박지현, ‘재벌집’ 언론사 사주 딸인데 가짜뉴스 피해]]></title>
+        <id>https://v.daum.net/v/20221214190318086</id>
+        <link href="https://v.daum.net/v/20221214190318086"/>
+        <updated>2022-12-14T10:12:16.153Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우'부터 '연매살'..주현영, 감동·재미 다 잡은 MZ아이콘]]></title>
         <id>https://v.daum.net/v/20221214181025919</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221214160201886"/>
         <updated>2022-12-14T07:10:37.294Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민=명장면, 말해 뭐해…섬망 발현 그 후 미치게 궁금]]></title>
-        <id>https://v.daum.net/v/20221214155604599</id>
-        <link href="https://v.daum.net/v/20221214155604599"/>
-        <updated>2022-12-14T07:10:37.297Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
