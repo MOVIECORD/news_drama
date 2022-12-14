@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-14T15:11:36.096Z</updated>
+    <updated>2022-12-14T16:15:27.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오겜2’, 英매체 선정 ‘2023 기대되는 TV쇼’ 1위]]></title>
+        <id>https://v.daum.net/v/20221215003013864</id>
+        <link href="https://v.daum.net/v/20221215003013864"/>
+        <updated>2022-12-14T16:14:24.711Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송덕호, 이준영 동생 죽인 진범이였나?..."평생 죄인으로 살겠다"]]></title>
         <id>https://v.daum.net/v/20221214232401318</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221214180602816"/>
         <updated>2022-12-14T09:10:46.405Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치얼업' 배인혁 "연기 지치지 않냐고? 몸 편하면 취미"]]></title>
-        <id>https://v.daum.net/v/20221214180122704</id>
-        <link href="https://v.daum.net/v/20221214180122704"/>
-        <updated>2022-12-14T09:10:46.406Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
