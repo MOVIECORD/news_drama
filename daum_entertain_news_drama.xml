@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-14T14:10:36.365Z</updated>
+    <updated>2022-12-14T15:11:36.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송덕호, 이준영 동생 죽인 진범이였나?..."평생 죄인으로 살겠다"]]></title>
+        <id>https://v.daum.net/v/20221214232401318</id>
+        <link href="https://v.daum.net/v/20221214232401318"/>
+        <updated>2022-12-14T15:11:25.148Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박윤재, 父 살해 증거 찾나…손창민 만년필 수리→오승아 '당황']]></title>
         <id>https://v.daum.net/v/20221214210838148</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221214180122704"/>
         <updated>2022-12-14T09:10:46.406Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘치얼업’ 한지현 “엔딩크레딧 올라갈 때 눈물..도해이와 싱크로율 99.9%”]]></title>
-        <id>https://v.daum.net/v/20221214175918601</id>
-        <link href="https://v.daum.net/v/20221214175918601"/>
-        <updated>2022-12-14T09:10:46.408Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
