@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-15T15:13:34.600Z</updated>
+    <updated>2022-12-15T16:15:20.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송덕호, 완전 범죄 발각 위기에 이혜리 목 졸랐다..."어떻게 알았어?"]]></title>
+        <id>https://v.daum.net/v/20221216001902900</id>
+        <link href="https://v.daum.net/v/20221216001902900"/>
+        <updated>2022-12-15T16:15:08.749Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일당백집사' 송덕호, 진실 알아챈 이혜리 목 졸라 "어떻게 알았어"]]></title>
         <id>https://v.daum.net/v/20221215233708537</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221215201950316"/>
         <updated>2022-12-15T12:20:04.127Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승아, 만년필 녹음 빼냈다…박윤재는 증거 확보 못해]]></title>
-        <id>https://v.daum.net/v/20221215201444222</id>
-        <link href="https://v.daum.net/v/20221215201444222"/>
-        <updated>2022-12-15T12:20:04.127Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
