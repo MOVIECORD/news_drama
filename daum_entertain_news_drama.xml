@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-15T13:20:24.640Z</updated>
+    <updated>2022-12-15T14:11:44.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일당백집사' 이혜리, 최재환 동료와 만남..수상한 송덕호]]></title>
+        <id>https://v.daum.net/v/20221215230029352</id>
+        <link href="https://v.daum.net/v/20221215230029352"/>
+        <updated>2022-12-15T14:10:42.045Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신현빈은 '혹평' 박지현은 '호평', 냉온탕 오가는 '재벌집' 여자들]]></title>
+        <id>https://v.daum.net/v/20221215222001111</id>
+        <link href="https://v.daum.net/v/20221215222001111"/>
+        <updated>2022-12-15T14:10:42.048Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일당백집사' 진범 찾는 이혜리, 최재환에 "당신이 안 죽였잖아"]]></title>
         <id>https://v.daum.net/v/20221215221847103</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20221215200346030</id>
         <link href="https://v.daum.net/v/20221215200346030"/>
         <updated>2022-12-15T11:13:28.724Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선 목숨 위협 "네가 사라져야 해"]]></title>
-        <id>https://v.daum.net/v/20221215200129002</id>
-        <link href="https://v.daum.net/v/20221215200129002"/>
-        <updated>2022-12-15T11:13:28.728Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김무열, 또 보좌관…4년만 복귀작 '트롤리'인 이유]]></title>
-        <id>https://v.daum.net/v/20221215195002806</id>
-        <link href="https://v.daum.net/v/20221215195002806"/>
-        <updated>2022-12-15T11:13:28.731Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
