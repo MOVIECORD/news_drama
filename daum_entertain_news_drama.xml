@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-15T10:13:07.273Z</updated>
+    <updated>2022-12-15T11:13:40.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문태유, '사랑의 이해' 캐스팅…유연석과 호흡]]></title>
+        <id>https://v.daum.net/v/20221215200346030</id>
+        <link href="https://v.daum.net/v/20221215200346030"/>
+        <updated>2022-12-15T11:13:28.724Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 김규선 목숨 위협 "네가 사라져야 해"]]></title>
+        <id>https://v.daum.net/v/20221215200129002</id>
+        <link href="https://v.daum.net/v/20221215200129002"/>
+        <updated>2022-12-15T11:13:28.728Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김무열, 또 보좌관…4년만 복귀작 '트롤리'인 이유]]></title>
+        <id>https://v.daum.net/v/20221215195002806</id>
+        <link href="https://v.daum.net/v/20221215195002806"/>
+        <updated>2022-12-15T11:13:28.731Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 김시헌, 한지완 경고에 김규선 정체 숨겼다]]></title>
+        <id>https://v.daum.net/v/20221215193458541</id>
+        <link href="https://v.daum.net/v/20221215193458541"/>
+        <updated>2022-12-15T11:13:28.733Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소방서 옆 경찰서' 측 김래원x강기둥 액션 극찬.."만능 배우"]]></title>
         <id>https://v.daum.net/v/20221215185820904</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221215164749324"/>
         <updated>2022-12-15T08:14:15.686Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 강하늘 하지원에 고백이후 들통난 연극…가짜 손자의 운명은?]]></title>
-        <id>https://v.daum.net/v/20221215164215148</id>
-        <link href="https://v.daum.net/v/20221215164215148"/>
-        <updated>2022-12-15T08:14:15.688Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["MBTI도 같아"...'트롤리' 김현주X박희순 부부 호흡 기대되는 이유]]></title>
-        <id>https://v.daum.net/v/20221215162930717</id>
-        <link href="https://v.daum.net/v/20221215162930717"/>
-        <updated>2022-12-15T08:14:15.698Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간 풍선' 이상우 "김소연 실제로 고부갈등? 생각도 하기 싫어"]]></title>
-        <id>https://v.daum.net/v/20221215162116420</id>
-        <link href="https://v.daum.net/v/20221215162116420"/>
-        <updated>2022-12-15T08:14:15.702Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롤리' 박희순-김무열, 친해서 더 기대되는 브로맨스 "운명 공동체"]]></title>
-        <id>https://v.daum.net/v/20221215162105408</id>
-        <link href="https://v.daum.net/v/20221215162105408"/>
-        <updated>2022-12-15T08:14:15.702Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
