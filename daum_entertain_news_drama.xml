@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-15T08:14:26.203Z</updated>
+    <updated>2022-12-15T09:11:21.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슈룹’ 김재범 “보여줄 캐릭터 많다..하고 싶은 역할로 시청률 20% 만들것”]]></title>
+        <id>https://v.daum.net/v/20221215180421705</id>
+        <link href="https://v.daum.net/v/20221215180421705"/>
+        <updated>2022-12-15T09:11:09.386Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주종혁·배윤경의 우당탕탕 로맨스…'아쉬탕가' 관전 포인트]]></title>
+        <id>https://v.daum.net/v/20221215173842070</id>
+        <link href="https://v.daum.net/v/20221215173842070"/>
+        <updated>2022-12-15T09:11:09.388Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김현주X박희순 '트롤리', '음주운전 하차' 김새론 흔적無…"선입견 없이 봐달라"]]></title>
+        <id>https://v.daum.net/v/20221215172902727</id>
+        <link href="https://v.daum.net/v/20221215172902727"/>
+        <updated>2022-12-15T09:11:09.391Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["대본만 봐도 8kg 감량"…'빨간 풍선' 문영남 작가 매운맛 통할까]]></title>
+        <id>https://v.daum.net/v/20221215171936375</id>
+        <link href="https://v.daum.net/v/20221215171936375"/>
+        <updated>2022-12-15T09:11:09.396Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 신예 정수빈 "가장 늦게 합류, 누가 되지 않게 진심으로 노력"]]></title>
         <id>https://v.daum.net/v/20221215165100454</id>
@@ -55,7 +83,7 @@
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언타이틀 서정환→클릭비 김상혁, SBS 예능으로 재데뷔 도전]]></title>
+        <title type="html"><![CDATA[언타이틀 서정환→클릭비 김상혁, 재데뷔 예능 도전]]></title>
         <id>https://v.daum.net/v/20221215162041391</id>
         <link href="https://v.daum.net/v/20221215162041391"/>
         <updated>2022-12-15T08:14:15.702Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221215161557222"/>
         <updated>2022-12-15T08:14:15.702Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롤리' 김현주 보며 매 순간 감탄했다는 박희순, 왜?]]></title>
-        <id>https://v.daum.net/v/20221215161540214</id>
-        <link href="https://v.daum.net/v/20221215161540214"/>
-        <updated>2022-12-15T08:14:15.703Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사장님을 잠금해제’ 채종협X서은수, 환상의 팀플레이 작전 개시]]></title>
-        <id>https://v.daum.net/v/20221215160115633</id>
-        <link href="https://v.daum.net/v/20221215160115633"/>
-        <updated>2022-12-15T07:10:22.785Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송덕호 네가 진범이니? 웃는 거 소름 끼쳐]]></title>
-        <id>https://v.daum.net/v/20221215155713407</id>
-        <link href="https://v.daum.net/v/20221215155713407"/>
-        <updated>2022-12-15T07:10:22.789Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간풍선' 홍수현 "처음 도전해본 칼단발…지인도 못 알아볼 정도"]]></title>
-        <id>https://v.daum.net/v/20221215155648378</id>
-        <link href="https://v.daum.net/v/20221215155648378"/>
-        <updated>2022-12-15T07:10:22.790Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
