@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-16T06:13:29.535Z</updated>
+    <updated>2022-12-16T07:09:44.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 김래원→손호준, 신원불상 환자 발가락보고 충격 빠진 이유]]></title>
+        <id>https://v.daum.net/v/20221216154303505</id>
+        <link href="https://v.daum.net/v/20221216154303505"/>
+        <updated>2022-12-16T07:09:34.402Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서지훈, 김소현·황민현과 삼각관계…'소용없어 거짓말' 주인공 캐스팅]]></title>
         <id>https://v.daum.net/v/20221216145901008</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221216121411183"/>
         <updated>2022-12-16T04:12:40.094Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤태화, '태풍의 신부' OST 가창…'그렇게 너를 보냈어' 18일 공개]]></title>
-        <id>https://v.daum.net/v/20221216120221994</id>
-        <link href="https://v.daum.net/v/20221216120221994"/>
-        <updated>2022-12-16T03:11:37.801Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
