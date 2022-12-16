@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-16T16:14:53.071Z</updated>
+    <updated>2022-12-16T17:10:12.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기, 2002년 월드컵으로 위기 극복?…김현에 '경고']]></title>
+        <id>https://v.daum.net/v/20221217012003173</id>
+        <link href="https://v.daum.net/v/20221217012003173"/>
+        <updated>2022-12-16T17:10:02.135Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘재벌집’ 송중기·이성민 살인교사 범인=김현..“환갑넘은 내 아들, 병풍되는 꼴 못봐”]]></title>
+        <id>https://v.daum.net/v/20221217011522128</id>
+        <link href="https://v.daum.net/v/20221217011522128"/>
+        <updated>2022-12-16T17:10:02.137Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김현, 송중기 살인교사 지시한 진범…"어떻게든 이성민 지켜야"]]></title>
         <id>https://v.daum.net/v/20221217001002632</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221216222611453"/>
         <updated>2022-12-16T15:12:15.514Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양쪽 엄지발가락이 없네?..김래원 동공지진]]></title>
-        <id>https://v.daum.net/v/20221216211421127</id>
-        <link href="https://v.daum.net/v/20221216211421127"/>
-        <updated>2022-12-16T12:17:49.553Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 父 살해한 진범 알았다.."아버지" 오열]]></title>
-        <id>https://v.daum.net/v/20221216210129875</id>
-        <link href="https://v.daum.net/v/20221216210129875"/>
-        <updated>2022-12-16T12:17:49.555Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
