@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-16T13:14:49.267Z</updated>
+    <updated>2022-12-16T14:09:41.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성민, 계속된 섬망증상…송중기 "물러나게 될 것" 경고]]></title>
+        <id>https://v.daum.net/v/20221216230826912</id>
+        <link href="https://v.daum.net/v/20221216230826912"/>
+        <updated>2022-12-16T14:09:30.114Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 송중기, 섬망 증세로 고집부리는 이상민에 '버럭']]></title>
+        <id>https://v.daum.net/v/20221216225736790</id>
+        <link href="https://v.daum.net/v/20221216225736790"/>
+        <updated>2022-12-16T14:09:30.119Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원, 곽지혜 의심 "왜 거짓말 했어"]]></title>
+        <id>https://v.daum.net/v/20221216224427659</id>
+        <link href="https://v.daum.net/v/20221216224427659"/>
+        <updated>2022-12-16T14:09:30.120Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손호준, 공승연에 "너 좋은 사람이야"]]></title>
+        <id>https://v.daum.net/v/20221216223844575</id>
+        <link href="https://v.daum.net/v/20221216223844575"/>
+        <updated>2022-12-16T14:09:30.124Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양쪽 엄지발가락이 없네?..김래원 동공지진]]></title>
         <id>https://v.daum.net/v/20221216211421127</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221216173609384"/>
         <updated>2022-12-16T09:09:47.426Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재성, '갑질' 은행 지점장 됐다…'사랑의 이해' 출연]]></title>
-        <id>https://v.daum.net/v/20221216170918811</id>
-        <link href="https://v.daum.net/v/20221216170918811"/>
-        <updated>2022-12-16T08:13:28.925Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간 풍선’ 서지혜-홍수현-이상우-설정환, 극과 극 텐션 파티 포착]]></title>
-        <id>https://v.daum.net/v/20221216164414157</id>
-        <link href="https://v.daum.net/v/20221216164414157"/>
-        <updated>2022-12-16T08:13:28.926Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경' 김래원→손호준, 신원불상 환자 발가락보고 충격 빠진 이유]]></title>
-        <id>https://v.daum.net/v/20221216154303505</id>
-        <link href="https://v.daum.net/v/20221216154303505"/>
-        <updated>2022-12-16T07:09:34.402Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지훈, 김소현·황민현과 삼각관계…'소용없어 거짓말' 주인공 캐스팅]]></title>
-        <id>https://v.daum.net/v/20221216145901008</id>
-        <link href="https://v.daum.net/v/20221216145901008"/>
-        <updated>2022-12-16T06:13:18.292Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
