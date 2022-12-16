@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-16T14:09:41.338Z</updated>
+    <updated>2022-12-16T15:12:25.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현, 송중기 살인교사 지시한 진범…"어떻게든 이성민 지켜야"]]></title>
+        <id>https://v.daum.net/v/20221217001002632</id>
+        <link href="https://v.daum.net/v/20221217001002632"/>
+        <updated>2022-12-16T15:12:15.499Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘재벌집’ 이성민, 이사회 등장..송중기, 순양금융지주 사장됐다]]></title>
+        <id>https://v.daum.net/v/20221216235920459</id>
+        <link href="https://v.daum.net/v/20221216235920459"/>
+        <updated>2022-12-16T15:12:15.499Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원, 곽지혜에 동병상련 "어른들이 미안"]]></title>
+        <id>https://v.daum.net/v/20221216235427397</id>
+        <link href="https://v.daum.net/v/20221216235427397"/>
+        <updated>2022-12-16T15:12:15.500Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교통사고 진범=김현 반전, 사장 송중기 끌어내릴 ‘왕자의 난’ 발발]]></title>
+        <id>https://v.daum.net/v/20221216234951350</id>
+        <link href="https://v.daum.net/v/20221216234951350"/>
+        <updated>2022-12-16T15:12:15.500Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집 막내아들' 김현, 살해교사 진범이었다...할머니의 섬뜩한 민낯]]></title>
+        <id>https://v.daum.net/v/20221216234530305</id>
+        <link href="https://v.daum.net/v/20221216234530305"/>
+        <updated>2022-12-16T15:12:15.506Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 김현, 살인교사 진범..'섬망' 이성민에 "이제야 내 사람"]]></title>
+        <id>https://v.daum.net/v/20221216233941224</id>
+        <link href="https://v.daum.net/v/20221216233941224"/>
+        <updated>2022-12-16T15:12:15.506Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소방서 옆 경찰서' 공승연, 손호준에 "어쩜 그리 한결같아"]]></title>
+        <id>https://v.daum.net/v/20221216231052935</id>
+        <link href="https://v.daum.net/v/20221216231052935"/>
+        <updated>2022-12-16T15:12:15.507Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 송중기, 이성민 등장으로 금융 지주 회사 대표 선정]]></title>
+        <id>https://v.daum.net/v/20221216230925925</id>
+        <link href="https://v.daum.net/v/20221216230925925"/>
+        <updated>2022-12-16T15:12:15.511Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민, 계속된 섬망증상…송중기 "물러나게 될 것" 경고]]></title>
         <id>https://v.daum.net/v/20221216230826912</id>
@@ -34,6 +90,13 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김래원, 신생아 유기 사건 친부 찾기...촉 빗나갔다]]></title>
+        <id>https://v.daum.net/v/20221216222611453</id>
+        <link href="https://v.daum.net/v/20221216222611453"/>
+        <updated>2022-12-16T15:12:15.514Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[양쪽 엄지발가락이 없네?..김래원 동공지진]]></title>
         <id>https://v.daum.net/v/20221216211421127</id>
         <link href="https://v.daum.net/v/20221216211421127"/>
@@ -46,68 +109,5 @@
         <link href="https://v.daum.net/v/20221216210129875"/>
         <updated>2022-12-16T12:17:49.555Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 손창민 악행 증거 손안에...박하나X박윤재 통한의 눈물]]></title>
-        <id>https://v.daum.net/v/20221216203430415</id>
-        <link href="https://v.daum.net/v/20221216203430415"/>
-        <updated>2022-12-16T12:17:49.560Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 강지섭, '박윤재 父 살인범= 손창민' 알았다]]></title>
-        <id>https://v.daum.net/v/20221216202949345</id>
-        <link href="https://v.daum.net/v/20221216202949345"/>
-        <updated>2022-12-16T12:17:49.582Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강지섭, 임호 위협한 손창민 음성 듣고 충격..."혹시 아버지가 산들이 아버지를?"]]></title>
-        <id>https://v.daum.net/v/20221216202501253</id>
-        <link href="https://v.daum.net/v/20221216202501253"/>
-        <updated>2022-12-16T12:17:49.584Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 김규선, 3년만 반효정 손자며느리로 등장]]></title>
-        <id>https://v.daum.net/v/20221216195314607</id>
-        <link href="https://v.daum.net/v/20221216195314607"/>
-        <updated>2022-12-16T11:09:05.171Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석, 김규선 교통사고에 "어쩔 수 없어"]]></title>
-        <id>https://v.daum.net/v/20221216193324199</id>
-        <link href="https://v.daum.net/v/20221216193324199"/>
-        <updated>2022-12-16T11:09:05.172Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[래퍼 블루, 1년만 신곡 '안아줘' MV 공개…먹먹한 이별 감성]]></title>
-        <id>https://v.daum.net/v/20221216180101954</id>
-        <link href="https://v.daum.net/v/20221216180101954"/>
-        <updated>2022-12-16T09:09:47.423Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재성, '사랑의 이해' 출연...유연석X문가영과 호흡]]></title>
-        <id>https://v.daum.net/v/20221216174901701</id>
-        <link href="https://v.daum.net/v/20221216174901701"/>
-        <updated>2022-12-16T09:09:47.424Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 강하늘X하지원, 고백 엔딩 비하인드...디테일 살아있네]]></title>
-        <id>https://v.daum.net/v/20221216174529624</id>
-        <link href="https://v.daum.net/v/20221216174529624"/>
-        <updated>2022-12-16T09:09:47.425Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소방서’ 김래원 찾던 장기실종자, 사망 아니었나…신원불상 환자 등장]]></title>
-        <id>https://v.daum.net/v/20221216173609384</id>
-        <link href="https://v.daum.net/v/20221216173609384"/>
-        <updated>2022-12-16T09:09:47.426Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
