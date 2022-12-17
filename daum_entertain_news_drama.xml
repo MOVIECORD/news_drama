@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-17T03:11:22.739Z</updated>
+    <updated>2022-12-17T04:12:16.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 역대 사제복 비주얼 경신]]></title>
+        <id>https://v.daum.net/v/20221217130532806</id>
+        <link href="https://v.daum.net/v/20221217130532806"/>
+        <updated>2022-12-17T04:12:05.500Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘재벌집 막내아들’ 측 “송중기 신현빈 충돌 거세진다”]]></title>
+        <id>https://v.daum.net/v/20221217130405797</id>
+        <link href="https://v.daum.net/v/20221217130405797"/>
+        <updated>2022-12-17T04:12:05.502Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['송중기 아빠' 김영재, 진정한 재벌집 막내아들 진윤기에 몰입]]></title>
+        <id>https://v.daum.net/v/20221217122628613</id>
+        <link href="https://v.daum.net/v/20221217122628613"/>
+        <updated>2022-12-17T04:12:05.502Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌집’ 송중기 아빠 김영재, 순양家 관심 없었는데…아들 도우려 나선다]]></title>
         <id>https://v.daum.net/v/20221217120341466</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221217095124121"/>
         <updated>2022-12-17T02:05:04.644Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 송중기·이성민 살인교사범, 김현이었다…월드컵 승부수 될까]]></title>
-        <id>https://v.daum.net/v/20221217094802097</id>
-        <link href="https://v.daum.net/v/20221217094802097"/>
-        <updated>2022-12-17T00:49:33.450Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환혼’ 고윤정-황민현, 물에 젖은 채 아찔한 재회]]></title>
-        <id>https://v.daum.net/v/20221217094348057</id>
-        <link href="https://v.daum.net/v/20221217094348057"/>
-        <updated>2022-12-17T00:49:33.451Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 박주현, 왕 김영대 끌어당겨 입 맞췄다…파격 엔딩]]></title>
-        <id>https://v.daum.net/v/20221217094040027</id>
-        <link href="https://v.daum.net/v/20221217094040027"/>
-        <updated>2022-12-17T00:49:33.452Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
