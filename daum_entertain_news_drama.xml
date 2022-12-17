@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-17T09:10:02.668Z</updated>
+    <updated>2022-12-17T10:10:12.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박선영, 어머니의 한없는 욕망…하드 캐리 열연]]></title>
+        <id>https://v.daum.net/v/20221217184701278</id>
+        <link href="https://v.daum.net/v/20221217184701278"/>
+        <updated>2022-12-17T10:10:02.416Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["자기 얼굴 완전 똥색”..F남친, T여친 독설에 어질어질]]></title>
+        <id>https://v.daum.net/v/20221217183023193</id>
+        <link href="https://v.daum.net/v/20221217183023193"/>
+        <updated>2022-12-17T10:10:02.416Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘법쩐’ 이선균X문채원에 조연 라인업도 어마어마..오는 1월 6일 첫 방송]]></title>
         <id>https://v.daum.net/v/20221217180724027</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221217135131109"/>
         <updated>2022-12-17T05:09:05.283Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 측 "송중기·신현빈 충돌…'살해 지시' 김현, 예상치 못한 전개"]]></title>
-        <id>https://v.daum.net/v/20221217133446997</id>
-        <link href="https://v.daum.net/v/20221217133446997"/>
-        <updated>2022-12-17T05:09:05.286Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민 위해 비밀 지키려는 송중기 vs 파헤치려는 신현빈 '충돌']]></title>
-        <id>https://v.daum.net/v/20221217132702936</id>
-        <link href="https://v.daum.net/v/20221217132702936"/>
-        <updated>2022-12-17T05:09:05.287Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
