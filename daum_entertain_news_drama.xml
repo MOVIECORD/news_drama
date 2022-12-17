@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-17T05:09:16.042Z</updated>
+    <updated>2022-12-17T06:12:07.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['커튼콜' 큰판 제안→달빛 고백 레전드 엔딩 베스트5]]></title>
+        <id>https://v.daum.net/v/20221217145149535</id>
+        <link href="https://v.daum.net/v/20221217145149535"/>
+        <updated>2022-12-17T06:11:56.300Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘금혼령’ 박주현X김우석, 쌈과 썸 사이 핑크빛 기류]]></title>
+        <id>https://v.daum.net/v/20221217143428429</id>
+        <link href="https://v.daum.net/v/20221217143428429"/>
+        <updated>2022-12-17T06:11:56.304Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배인혁 "♥한지현과 키스신 후 둘 다 감기…응원 안무 연습하다 10kg 빠져"]]></title>
+        <id>https://v.daum.net/v/20221217143101402</id>
+        <link href="https://v.daum.net/v/20221217143101402"/>
+        <updated>2022-12-17T06:11:56.304Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신현빈, 살인교사 진범=김현 파헤친다..덮으려는 송중기와 갈등]]></title>
+        <id>https://v.daum.net/v/20221217141024278</id>
+        <link href="https://v.daum.net/v/20221217141024278"/>
+        <updated>2022-12-17T06:11:56.304Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집' 이성민 비밀 지키려는 송중기..신현빈과 거센 충돌]]></title>
         <id>https://v.daum.net/v/20221217135131109</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221217111202023"/>
         <updated>2022-12-17T03:11:12.379Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['캐나다 체크인' 이효리 "언어 장벽으로 대화 아쉽, 영어공부 시작"]]></title>
-        <id>https://v.daum.net/v/20221217111107011</id>
-        <link href="https://v.daum.net/v/20221217111107011"/>
-        <updated>2022-12-17T03:11:12.384Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기란 바로 이런 것, 이성민의 독보적인 아우라]]></title>
-        <id>https://v.daum.net/v/20221217111012997</id>
-        <link href="https://v.daum.net/v/20221217111012997"/>
-        <updated>2022-12-17T03:11:12.386Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권유나, 옷 고르다가 분노.."브이로그 말고 사진 보여달라고!"]]></title>
-        <id>https://v.daum.net/v/20221217110142897</id>
-        <link href="https://v.daum.net/v/20221217110142897"/>
-        <updated>2022-12-17T02:05:04.636Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뉴연플리’ 김선빈X배현준, 사랑과 우정 사이 고민 종료 "첫사랑=우정"]]></title>
-        <id>https://v.daum.net/v/20221217105941829</id>
-        <link href="https://v.daum.net/v/20221217105941829"/>
-        <updated>2022-12-17T02:05:04.644Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
