@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-17T07:08:58.437Z</updated>
+    <updated>2022-12-17T08:12:59.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현주, 숨겨진 비밀 공개 D-2..박희순과 부부연기 어떨까]]></title>
+        <id>https://v.daum.net/v/20221217164820489</id>
+        <link href="https://v.daum.net/v/20221217164820489"/>
+        <updated>2022-12-17T08:12:48.637Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['섬망' 이성민, 초점 없는 눈빛까지 완벽]]></title>
+        <id>https://v.daum.net/v/20221217161321193</id>
+        <link href="https://v.daum.net/v/20221217161321193"/>
+        <updated>2022-12-17T08:12:48.648Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커튼콜', 여기가 '엔딩 찐맛집'..레전드 엔딩 베스트5]]></title>
         <id>https://v.daum.net/v/20221217153216905</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221217120341466"/>
         <updated>2022-12-17T03:11:12.372Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 신현빈, 현장서 이렇게 집중하네]]></title>
-        <id>https://v.daum.net/v/20221217115333355</id>
-        <link href="https://v.daum.net/v/20221217115333355"/>
-        <updated>2022-12-17T03:11:12.372Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정소민 잊었나?..황민현, 물에 젖은 고윤정 보고 '동공지진']]></title>
-        <id>https://v.daum.net/v/20221217111739059</id>
-        <link href="https://v.daum.net/v/20221217111739059"/>
-        <updated>2022-12-17T03:11:12.373Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
