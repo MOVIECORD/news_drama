@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-18T10:10:17.804Z</updated>
+    <updated>2022-12-18T11:09:03.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3회 남은 '재벌집', 이성민 벌써 사망?…죽어도 못 보내]]></title>
+        <id>https://v.daum.net/v/20221218193831387</id>
+        <link href="https://v.daum.net/v/20221218193831387"/>
+        <updated>2022-12-18T11:08:01.553Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“커플 다 죽었으면” ’셋셋남녀’ 이유진, 김소은♥︎강병훈 커플 싸움에 혼자 상처]]></title>
         <id>https://v.daum.net/v/20221218182028547</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221218140620213</id>
         <link href="https://v.daum.net/v/20221218140620213"/>
         <updated>2022-12-18T05:09:24.335Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 이성민, 죽어서도 반전…"송중기 유산 없다" 충격 유언장]]></title>
-        <id>https://v.daum.net/v/20221218135348009</id>
-        <link href="https://v.daum.net/v/20221218135348009"/>
-        <updated>2022-12-18T05:09:24.336Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
