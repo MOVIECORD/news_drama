@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-18T03:11:45.258Z</updated>
+    <updated>2022-12-18T04:11:59.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아무것도 하고 싶지 않아’ 김설현, 할머니 위한 한글 선생님 변신]]></title>
+        <id>https://v.daum.net/v/20221218123034131</id>
+        <link href="https://v.daum.net/v/20221218123034131"/>
+        <updated>2022-12-18T04:11:49.633Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금혼령' 김우석, 김영대·박주현과 미묘한 기류…삼각관계 본격 신호탄]]></title>
         <id>https://v.daum.net/v/20221218120356806</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221218095737827</id>
         <link href="https://v.daum.net/v/20221218095737827"/>
         <updated>2022-12-18T02:07:33.976Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 or 이성민…연기 대상도 순양家 집안 싸움]]></title>
-        <id>https://v.daum.net/v/20221218093017474</id>
-        <link href="https://v.daum.net/v/20221218093017474"/>
-        <updated>2022-12-18T00:49:24.267Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
