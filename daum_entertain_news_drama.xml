@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-18T08:12:24.853Z</updated>
+    <updated>2022-12-18T09:10:50.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨간 풍선' 홍수현, 똑단발 비주얼에 연기 변신까지…시선 집중]]></title>
+        <id>https://v.daum.net/v/20221218171525634</id>
+        <link href="https://v.daum.net/v/20221218171525634"/>
+        <updated>2022-12-18T09:09:41.336Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김현진 "'짝녀' 한지현과 등댓불 돌아가는 내내 키스…'치얼업'으로 대학 로망 실현"]]></title>
         <id>https://v.daum.net/v/20221218170002464</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218134958956"/>
         <updated>2022-12-18T05:09:24.339Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 이재욱♥︎고윤정, 뜨거운 포옹으로 운명 로맨스 불붙었다]]></title>
-        <id>https://v.daum.net/v/20221218133829854</id>
-        <link href="https://v.daum.net/v/20221218133829854"/>
-        <updated>2022-12-18T05:09:24.340Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
