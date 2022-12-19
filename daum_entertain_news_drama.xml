@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-19T15:13:38.083Z</updated>
+    <updated>2022-12-19T16:16:23.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바드림' 故 김환성 추억…노유민 "항상 그리워"]]></title>
+        <id>https://v.daum.net/v/20221220002446165</id>
+        <link href="https://v.daum.net/v/20221220002446165"/>
+        <updated>2022-12-19T16:16:13.519Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고수·허준호, 다시 '망자' 보인다! 김동휘 대면→新영혼마을 발견]]></title>
         <id>https://v.daum.net/v/20221219235926950</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221219215420222"/>
         <updated>2022-12-19T13:17:13.794Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 고수 "실속만 챙겨"..보이스피싱범 제압 '용감한 시민상']]></title>
-        <id>https://v.daum.net/v/20221219212744998</id>
-        <link href="https://v.daum.net/v/20221219212744998"/>
-        <updated>2022-12-19T13:17:13.794Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
