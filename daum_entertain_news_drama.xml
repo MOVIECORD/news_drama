@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-19T09:11:18.759Z</updated>
+    <updated>2022-12-19T10:14:07.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['약한영웅' 한준희 감독 "'D.P' 시즌2, 1편의 기대감 기분 좋게 배신할 것"]]></title>
+        <id>https://v.daum.net/v/20221219182717764</id>
+        <link href="https://v.daum.net/v/20221219182717764"/>
+        <updated>2022-12-19T10:13:04.321Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['약한영웅' 한준희 감독 "연시은의 꼿꼿함에 끌려 드라마화 결정"]]></title>
+        <id>https://v.daum.net/v/20221219182050611</id>
+        <link href="https://v.daum.net/v/20221219182050611"/>
+        <updated>2022-12-19T10:13:04.321Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연매살’ 황세온 “연기? 사람 힘들게 해서 좋다..글로벌 활약 원해”]]></title>
         <id>https://v.daum.net/v/20221219175754010</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221219155237770"/>
         <updated>2022-12-19T07:09:43.518Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 치부책 NO→박지현 임신…'부부의 세계' 넘을 치트키]]></title>
-        <id>https://v.daum.net/v/20221219155018715</id>
-        <link href="https://v.daum.net/v/20221219155018715"/>
-        <updated>2022-12-19T07:09:43.520Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술꾼2' 이선빈·한선화·정은지 도시 복귀전…주간 유료가입기여자수 2주 연속 1위]]></title>
-        <id>https://v.daum.net/v/20221219151905674</id>
-        <link href="https://v.daum.net/v/20221219151905674"/>
-        <updated>2022-12-19T07:09:43.521Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
