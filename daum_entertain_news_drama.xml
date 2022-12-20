@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-20T16:14:44.456Z</updated>
+    <updated>2022-12-20T17:10:03.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트롤리' 박희순 "디지털성범죄 바로 잡을 것"→피의자 의대생 투신]]></title>
+        <id>https://v.daum.net/v/20221221011517068</id>
+        <link href="https://v.daum.net/v/20221221011517068"/>
+        <updated>2022-12-20T17:09:50.994Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 고수X안소희, 실종자 권아름 죽인 진범 찾았다]]></title>
         <id>https://v.daum.net/v/20221220235009540</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221220203900738"/>
         <updated>2022-12-20T12:19:06.049Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지수원, 진실의 편지에 오열...배그린 父, "죽은 아내 이름으로 살게 했다"]]></title>
-        <id>https://v.daum.net/v/20221220203002569</id>
-        <link href="https://v.daum.net/v/20221220203002569"/>
-        <updated>2022-12-20T12:19:06.049Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
