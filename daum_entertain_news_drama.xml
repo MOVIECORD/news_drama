@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-21T13:16:50.370Z</updated>
+    <updated>2022-12-21T14:09:51.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석, ‘영포점 여신’ 문가영에 관심]]></title>
+        <id>https://v.daum.net/v/20221221230925468</id>
+        <link href="https://v.daum.net/v/20221221230925468"/>
+        <updated>2022-12-21T14:09:37.195Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정용화X차태현X곽선영, 신경과학팀 완성]]></title>
         <id>https://v.daum.net/v/20221221220101977</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221221184255708"/>
         <updated>2022-12-21T10:11:17.019Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 패뷸러스' 채수빈·최민호, 화려한 패션 업계 속 뜨거운 청춘의 얼굴]]></title>
-        <id>https://v.daum.net/v/20221221183031459</id>
-        <link href="https://v.daum.net/v/20221221183031459"/>
-        <updated>2022-12-21T10:11:17.019Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
