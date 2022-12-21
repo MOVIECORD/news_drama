@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-21T03:12:42.819Z</updated>
+    <updated>2022-12-21T04:13:05.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 측 "조수민 합류, 박주현 조력자 등장"]]></title>
+        <id>https://v.daum.net/v/20221221130544780</id>
+        <link href="https://v.daum.net/v/20221221130544780"/>
+        <updated>2022-12-21T04:12:55.141Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일당백집사’ 한동희 “잘 챙겨준 이혜리 선배님, 배려에 감동받아”]]></title>
+        <id>https://v.daum.net/v/20221221123138163</id>
+        <link href="https://v.daum.net/v/20221221123138163"/>
+        <updated>2022-12-21T04:12:55.144Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘트롤리’ 김현주, 휘몰아친 사건들 속 美친 연기]]></title>
+        <id>https://v.daum.net/v/20221221121708898</id>
+        <link href="https://v.daum.net/v/20221221121708898"/>
+        <updated>2022-12-21T04:12:55.144Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽시양, '진짜가 나타나다!' 하차..제작진 후임 물색 중]]></title>
         <id>https://v.daum.net/v/20221221115252139</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221221102327116"/>
         <updated>2022-12-21T02:07:05.873Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽시양, '진짜가 나타났다' 하차…"원만히 협의"]]></title>
-        <id>https://v.daum.net/v/20221221100706431</id>
-        <link href="https://v.daum.net/v/20221221100706431"/>
-        <updated>2022-12-21T02:07:05.873Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새벽X전혜원X이도엽 ‘양들의 침묵’ 심리물 탄생]]></title>
-        <id>https://v.daum.net/v/20221221100534360</id>
-        <link href="https://v.daum.net/v/20221221100534360"/>
-        <updated>2022-12-21T02:07:05.874Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커튼콜’, “모든게 연극이었다” 결국 진실 폭로→황우슬혜 배신에 충격]]></title>
-        <id>https://v.daum.net/v/20221221100304275</id>
-        <link href="https://v.daum.net/v/20221221100304275"/>
-        <updated>2022-12-21T02:07:05.876Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
