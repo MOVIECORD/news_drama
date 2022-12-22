@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-22T09:11:18.433Z</updated>
+    <updated>2022-12-22T10:11:15.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남길, '아일랜드' 출연 주저한 이유 "원작 열렬한 팬…실사화 부담"]]></title>
+        <id>https://v.daum.net/v/20221222191008700</id>
+        <link href="https://v.daum.net/v/20221222191008700"/>
+        <updated>2022-12-22T10:11:05.411Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아일랜드' 차은우 "요한 캐릭터에 매력 느껴 도전하고 싶었다"]]></title>
+        <id>https://v.daum.net/v/20221222184349283</id>
+        <link href="https://v.daum.net/v/20221222184349283"/>
+        <updated>2022-12-22T10:11:05.416Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서예지 지운 '아일랜드', 이다희에겐 간절했던 인생작]]></title>
         <id>https://v.daum.net/v/20221222175119898</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221222163558432"/>
         <updated>2022-12-22T08:13:35.550Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커튼콜' 고두심, 거목같은 뿌리깊은 연기력 "시청자 울린 명연기"]]></title>
-        <id>https://v.daum.net/v/20221222162942203</id>
-        <link href="https://v.daum.net/v/20221222162942203"/>
-        <updated>2022-12-22T08:13:35.550Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김신록♥김도현 미방 키스신→김남희♥박지현 결혼식 비하인드 공개]]></title>
-        <id>https://v.daum.net/v/20221222162602066</id>
-        <link href="https://v.daum.net/v/20221222162602066"/>
-        <updated>2022-12-22T08:13:35.550Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
