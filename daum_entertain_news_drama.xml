@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-22T12:19:20.334Z</updated>
+    <updated>2022-12-22T13:17:15.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차예련 "♥주상욱 위해 발 마사지도 한다"…알콩달콩 부부]]></title>
+        <id>https://v.daum.net/v/20221222215006438</id>
+        <link href="https://v.daum.net/v/20221222215006438"/>
+        <updated>2022-12-22T13:17:05.252Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장경준, "너 바닥이구나"...배누리 망신주려던 김해미에 실망]]></title>
         <id>https://v.daum.net/v/20221222210902883</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221222175119898</id>
         <link href="https://v.daum.net/v/20221222175119898"/>
         <updated>2022-12-22T09:10:16.167Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 김규선, '사이다 복수' 휘몰아칠까 "기대하셔도 좋아요"]]></title>
-        <id>https://v.daum.net/v/20221222174343688</id>
-        <link href="https://v.daum.net/v/20221222174343688"/>
-        <updated>2022-12-22T09:10:16.168Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
