@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T10:11:17.145Z</updated>
+    <updated>2022-12-23T11:09:01.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 장서희, 친딸=김규선에 충격! 한지완 “오창석이 악마”]]></title>
+        <id>https://v.daum.net/v/20221223195229884</id>
+        <link href="https://v.daum.net/v/20221223195229884"/>
+        <updated>2022-12-23T11:08:51.102Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희, 김규선 존재 알았다 "내 친딸이라고?"]]></title>
+        <id>https://v.daum.net/v/20221223194231713</id>
+        <link href="https://v.daum.net/v/20221223194231713"/>
+        <updated>2022-12-23T11:08:51.104Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 주새벽과 은밀한 거래 "김규선 가해자 알고 있다고?"]]></title>
+        <id>https://v.daum.net/v/20221223192418502</id>
+        <link href="https://v.daum.net/v/20221223192418502"/>
+        <updated>2022-12-23T11:08:51.105Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[복수극으로 돌아오는 송혜교, 블랙수트 뚫는 숨막히는 아우라]]></title>
         <id>https://v.daum.net/v/20221223181803600</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221223145930359"/>
         <updated>2022-12-23T06:13:38.710Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원 사면초가, 조승연은 왜 아들을 못 잡아먹어 안달일까]]></title>
-        <id>https://v.daum.net/v/20221223145244178</id>
-        <link href="https://v.daum.net/v/20221223145244178"/>
-        <updated>2022-12-23T06:13:38.711Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정석, 멜로 사극 '세작'으로 복귀할까 "긍정 검토 중"]]></title>
-        <id>https://v.daum.net/v/20221223145150159</id>
-        <link href="https://v.daum.net/v/20221223145150159"/>
-        <updated>2022-12-23T06:13:38.713Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손예은 PD “‘네가 빠진 세계’ 인기? 나나→현석·금동현 덕분”]]></title>
-        <id>https://v.daum.net/v/20221223143906847</id>
-        <link href="https://v.daum.net/v/20221223143906847"/>
-        <updated>2022-12-23T06:13:38.713Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
