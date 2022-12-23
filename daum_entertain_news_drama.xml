@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T20:10:58.576Z</updated>
+    <updated>2022-12-23T21:09:07.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베스트 액터' 이준영 "남은 20대 불태워보고 싶어요"]]></title>
+        <id>https://v.daum.net/v/20221224060014756</id>
+        <link href="https://v.daum.net/v/20221224060014756"/>
+        <updated>2022-12-23T21:08:56.776Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자다깨도 미남 조규성 "샤워하고 거울볼때 부모님께 감사"]]></title>
+        <id>https://v.daum.net/v/20221224060002728</id>
+        <link href="https://v.daum.net/v/20221224060002728"/>
+        <updated>2022-12-23T21:08:56.776Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 김래원, 죄책감으로 사직서 제출…공승연, 김래원에 "난 그 한 사람을 찾은 것 같다" 고백]]></title>
         <id>https://v.daum.net/v/20221224032400335</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221223205003637"/>
         <updated>2022-12-23T12:17:47.569Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 박윤재 사망에 오열 " 나만 두고 가면 어떡해"]]></title>
-        <id>https://v.daum.net/v/20221223203633507</id>
-        <link href="https://v.daum.net/v/20221223203633507"/>
-        <updated>2022-12-23T12:17:47.569Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 박하나, 박윤재 죽음에 “악마가 돼줄게”...손창민 신임 얻었다]]></title>
-        <id>https://v.daum.net/v/20221223203001402</id>
-        <link href="https://v.daum.net/v/20221223203001402"/>
-        <updated>2022-12-23T12:17:47.569Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
