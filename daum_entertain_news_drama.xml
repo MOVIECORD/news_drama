@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T03:11:49.341Z</updated>
+    <updated>2022-12-23T04:12:27.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오예주 "비 대표님의 '슈룹' 카메오 출연, 든든했죠…상대역 대사까지 같이 연습"]]></title>
+        <id>https://v.daum.net/v/20221223130102318</id>
+        <link href="https://v.daum.net/v/20221223130102318"/>
+        <updated>2022-12-23T04:12:17.288Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민 떠난 '재벌집 막내아들', '부부의 세계' 넘어 신기록 쓸까]]></title>
         <id>https://v.daum.net/v/20221223121005714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223103805626"/>
         <updated>2022-12-23T02:08:59.949Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집 막내아들' 승계 전쟁 마지막장…송중기, 순양 주인 될까]]></title>
-        <id>https://v.daum.net/v/20221223103356513</id>
-        <link href="https://v.daum.net/v/20221223103356513"/>
-        <updated>2022-12-23T02:08:59.949Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
