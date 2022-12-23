@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T18:12:44.786Z</updated>
+    <updated>2022-12-23T19:09:02.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 김래원, 죄책감으로 사직서 제출…공승연, 김래원에 "난 그 한 사람을 찾은 것 같다" 고백]]></title>
+        <id>https://v.daum.net/v/20221224032400335</id>
+        <link href="https://v.daum.net/v/20221224032400335"/>
+        <updated>2022-12-23T19:08:50.491Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 이소이 납치범 허지원, 김래원에 "이소이가 이렇게 된 것 모두 네 책임" 비난]]></title>
         <id>https://v.daum.net/v/20221224023600125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223203001402"/>
         <updated>2022-12-23T12:17:47.569Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손창민, 목숨 구해준 박하나 옹호…"시답잖은 모함 마"]]></title>
-        <id>https://v.daum.net/v/20221223201407168</id>
-        <link href="https://v.daum.net/v/20221223201407168"/>
-        <updated>2022-12-23T12:17:47.570Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
