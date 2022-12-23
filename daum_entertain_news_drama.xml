@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-23T09:10:15.486Z</updated>
+    <updated>2022-12-23T10:11:17.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복수극으로 돌아오는 송혜교, 블랙수트 뚫는 숨막히는 아우라]]></title>
+        <id>https://v.daum.net/v/20221223181803600</id>
+        <link href="https://v.daum.net/v/20221223181803600"/>
+        <updated>2022-12-23T10:11:06.906Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고민시, '아무도 없는 숲속에서' 출연 검토 중..김윤석∙윤계상 만날까]]></title>
         <id>https://v.daum.net/v/20221223175435167</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223143906847"/>
         <updated>2022-12-23T06:13:38.713Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환혼’ 이재욱-임철수, 낙수 무덤 앞 3년만 재회 포착]]></title>
-        <id>https://v.daum.net/v/20221223142051301</id>
-        <link href="https://v.daum.net/v/20221223142051301"/>
-        <updated>2022-12-23T06:13:38.719Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
