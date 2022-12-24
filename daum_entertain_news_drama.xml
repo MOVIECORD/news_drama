@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-24T21:08:48.574Z</updated>
+    <updated>2022-12-24T22:09:19.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기, 행복하나 했더니 회귀 전 송중기가 '말썽'‥또 교통사고 당해]]></title>
+        <id>https://v.daum.net/v/20221225065531025</id>
+        <link href="https://v.daum.net/v/20221225065531025"/>
+        <updated>2022-12-24T22:09:08.802Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 고윤정 향한 마음 ‘자각’.."너 때문에 돌았나봐”]]></title>
+        <id>https://v.daum.net/v/20221225064928993</id>
+        <link href="https://v.daum.net/v/20221225064928993"/>
+        <updated>2022-12-24T22:09:08.813Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“너 때문에 돌아” 이재욱, 고윤정과 처가서 하룻밤]]></title>
+        <id>https://v.daum.net/v/20221225061119859</id>
+        <link href="https://v.daum.net/v/20221225061119859"/>
+        <updated>2022-12-24T22:09:08.813Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘환혼2’ 서혜원, 짝사랑 황민현 살리려다 박은혜에 납치 감금]]></title>
         <id>https://v.daum.net/v/20221225060728841</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221225043001263"/>
         <updated>2022-12-24T20:10:02.352Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["활약 못한 후보들에 감사" 신동엽, 10년 만에 대상 품었다]]></title>
-        <id>https://v.daum.net/v/20221225012103952</id>
-        <link href="https://v.daum.net/v/20221225012103952"/>
-        <updated>2022-12-24T17:08:30.147Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱 “너 때문에 돌겠다”, 고윤정=낙수 발견하고 ‘혼란’]]></title>
-        <id>https://v.daum.net/v/20221225005025786</id>
-        <link href="https://v.daum.net/v/20221225005025786"/>
-        <updated>2022-12-24T16:12:59.308Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 또 교통사고 "예외 없는 법칙‥날 죽인 건 나"]]></title>
-        <id>https://v.daum.net/v/20221225005020784</id>
-        <link href="https://v.daum.net/v/20221225005020784"/>
-        <updated>2022-12-24T16:12:59.321Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
