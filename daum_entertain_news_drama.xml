@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-24T19:09:03.464Z</updated>
+    <updated>2022-12-24T20:10:12.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["날 죽인건 나"…송중기, 7000억 유산 기부→회귀 전 자신 손에 사망?]]></title>
+        <id>https://v.daum.net/v/20221225050005290</id>
+        <link href="https://v.daum.net/v/20221225050005290"/>
+        <updated>2022-12-24T20:10:02.348Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["상상 그 이상의 결말"…'재벌집', 오늘 종영]]></title>
+        <id>https://v.daum.net/v/20221225044022270</id>
+        <link href="https://v.daum.net/v/20221225044022270"/>
+        <updated>2022-12-24T20:10:02.350Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 송중기, 순양 주인 됐지만 교통사고..범인은 회귀 전 자신]]></title>
+        <id>https://v.daum.net/v/20221225043001263</id>
+        <link href="https://v.daum.net/v/20221225043001263"/>
+        <updated>2022-12-24T20:10:02.352Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["활약 못한 후보들에 감사" 신동엽, 10년 만에 대상 품었다]]></title>
         <id>https://v.daum.net/v/20221225012103952</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221224234908370"/>
         <updated>2022-12-24T15:09:50.258Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집’ 송중기를 죽인 사람은 송중기... 절체절명 위기]]></title>
-        <id>https://v.daum.net/v/20221224234300325</id>
-        <link href="https://v.daum.net/v/20221224234300325"/>
-        <updated>2022-12-24T15:09:50.258Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“날 죽인 사람은 나” 순양 회장 된 송중기, 교통사고 충격 반전 ‘재벌집 막내아들’]]></title>
-        <id>https://v.daum.net/v/20221224234024304</id>
-        <link href="https://v.daum.net/v/20221224234024304"/>
-        <updated>2022-12-24T15:09:50.261Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 신현빈에 긴급 체포…"결국 이렇게 다시 만나"]]></title>
-        <id>https://v.daum.net/v/20221224232851207</id>
-        <link href="https://v.daum.net/v/20221224232851207"/>
-        <updated>2022-12-24T15:09:50.267Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
