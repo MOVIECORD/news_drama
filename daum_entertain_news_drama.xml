@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-24T06:12:07.904Z</updated>
+    <updated>2022-12-24T07:09:11.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현주X박희순, 평온한 일상 파고든 균열]]></title>
+        <id>https://v.daum.net/v/20221224160027760</id>
+        <link href="https://v.daum.net/v/20221224160027760"/>
+        <updated>2022-12-24T07:09:00.804Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2회 남은 '재벌집' 결말, "이 모든게 꿈?" VS "원작 그대로"]]></title>
+        <id>https://v.daum.net/v/20221224153005503</id>
+        <link href="https://v.daum.net/v/20221224153005503"/>
+        <updated>2022-12-24T07:09:00.805Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘금혼령’ 고문실 끌려간 박주현, 피투성이 몰골]]></title>
+        <id>https://v.daum.net/v/20221224152804486</id>
+        <link href="https://v.daum.net/v/20221224152804486"/>
+        <updated>2022-12-24T07:09:00.805Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“적당히 좀 해” ‘뷔아이피셜’ MBTI FvsT가 영화 보는 법]]></title>
         <id>https://v.daum.net/v/20221224143512094</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221224114215888"/>
         <updated>2022-12-24T03:11:01.963Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 라이벌은 크리스마스…이성민 없지만 송중기 있다]]></title>
-        <id>https://v.daum.net/v/20221224113352810</id>
-        <link href="https://v.daum.net/v/20221224113352810"/>
-        <updated>2022-12-24T03:11:01.964Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부부된 이재욱, 고윤정 어깨 감싸며 다정한 남편미 폭발]]></title>
-        <id>https://v.daum.net/v/20221224111801645</id>
-        <link href="https://v.daum.net/v/20221224111801645"/>
-        <updated>2022-12-24T03:11:01.970Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현X김영대X김우석, 본격 삼각관계→일촉즉발 위기]]></title>
-        <id>https://v.daum.net/v/20221224111457609</id>
-        <link href="https://v.daum.net/v/20221224111457609"/>
-        <updated>2022-12-24T03:11:01.971Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
