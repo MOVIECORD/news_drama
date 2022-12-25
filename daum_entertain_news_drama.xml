@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-25T10:11:00.376Z</updated>
+    <updated>2022-12-25T11:08:11.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘X하지원, 긴장+설렘 가득]]></title>
+        <id>https://v.daum.net/v/20221225195726705</id>
+        <link href="https://v.daum.net/v/20221225195726705"/>
+        <updated>2022-12-25T11:08:01.098Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 품에 안긴 고윤정 머리 쓰담쓰담]]></title>
+        <id>https://v.daum.net/v/20221225195716701</id>
+        <link href="https://v.daum.net/v/20221225195716701"/>
+        <updated>2022-12-25T11:08:01.100Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연예인 매니저로 살아남기' 황세온, 범상치 않은 개성으로 뭉치다]]></title>
         <id>https://v.daum.net/v/20221225180042640</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221225141722101"/>
         <updated>2022-12-25T06:12:20.755Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱X고윤정 심쿵 허그 “로맨틱 무드 더 짙어진다”]]></title>
-        <id>https://v.daum.net/v/20221225133900501</id>
-        <link href="https://v.daum.net/v/20221225133900501"/>
-        <updated>2022-12-25T05:09:25.984Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집’ 송중기 향한 또 한번의 테러, 오버랩 되는 옛 장면들]]></title>
-        <id>https://v.daum.net/v/20221225125131906</id>
-        <link href="https://v.daum.net/v/20221225125131906"/>
-        <updated>2022-12-25T04:12:27.006Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
