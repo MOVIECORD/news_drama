@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-27T09:11:13.330Z</updated>
+    <updated>2022-12-27T10:12:02.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최민호 "채수빈과 키스신, 열정적으로…입술 주변 립글로즈 가득"]]></title>
+        <id>https://v.daum.net/v/20221227185018717</id>
+        <link href="https://v.daum.net/v/20221227185018717"/>
+        <updated>2022-12-27T10:10:59.870Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 제작진 "고수·최명빈 사이 관계, 서서히 공개"]]></title>
+        <id>https://v.daum.net/v/20221227183643505</id>
+        <link href="https://v.daum.net/v/20221227183643505"/>
+        <updated>2022-12-27T10:10:59.871Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[믿보배, 맞네! 이병헌·김혜수·송중기..2022 안방 접수]]></title>
         <id>https://v.daum.net/v/20221227180018360</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221227150656602"/>
         <updated>2022-12-27T06:13:33.331Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 하준, 쾌속 전개 이끈 현실 히어로..시청자도 카타르시스]]></title>
-        <id>https://v.daum.net/v/20221227150456530</id>
-        <link href="https://v.daum.net/v/20221227150456530"/>
-        <updated>2022-12-27T06:13:33.334Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원x손호준x공승연, 시즌2에서 만나요~]]></title>
-        <id>https://v.daum.net/v/20221227150130396</id>
-        <link href="https://v.daum.net/v/20221227150130396"/>
-        <updated>2022-12-27T06:13:33.334Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
