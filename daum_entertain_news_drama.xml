@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-28T04:12:40.256Z</updated>
+    <updated>2022-12-28T05:10:24.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타 스캔들' 유제원 감독X양희승 작가, '고교처세왕·오나귀' 이후 의기투합]]></title>
+        <id>https://v.daum.net/v/20221228135628576</id>
+        <link href="https://v.daum.net/v/20221228135628576"/>
+        <updated>2022-12-28T05:10:13.191Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아하아' 신은수, "따스한 온기 전해 받으셨길" 종영 소감]]></title>
+        <id>https://v.daum.net/v/20221228135438531</id>
+        <link href="https://v.daum.net/v/20221228135438531"/>
+        <updated>2022-12-28T05:10:13.196Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘커튼콜’ 지승현, “함께할 수 있어 행복..더 좋은 작품으로 찾아뵐 것 ” 종영 소감]]></title>
+        <id>https://v.daum.net/v/20221228135205460</id>
+        <link href="https://v.daum.net/v/20221228135205460"/>
+        <updated>2022-12-28T05:10:13.196Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미씽2’ 반기리 작가의 ‘따뜻한’ 판타지]]></title>
+        <id>https://v.daum.net/v/20221228134428214</id>
+        <link href="https://v.daum.net/v/20221228134428214"/>
+        <updated>2022-12-28T05:10:13.197Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌집’ 티파니 영 “소녀시대 응원 든든, 멤버들 연기에 영향받아”]]></title>
         <id>https://v.daum.net/v/20221228125536262</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221228121436642"/>
         <updated>2022-12-28T04:12:30.664Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 "'재벌집' 엔딩, 마음과 귀 열리는 스토리"]]></title>
-        <id>https://v.daum.net/v/20221228121108586</id>
-        <link href="https://v.daum.net/v/20221228121108586"/>
-        <updated>2022-12-28T04:12:30.668Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김도현 "'재벌집 막내아들' 결말 혹평 이해해..18부작이었다면"]]></title>
-        <id>https://v.daum.net/v/20221228120932525</id>
-        <link href="https://v.daum.net/v/20221228120932525"/>
-        <updated>2022-12-28T03:11:18.486Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 티파니 "송중기 리더십·케어에 감동"]]></title>
-        <id>https://v.daum.net/v/20221228120136244</id>
-        <link href="https://v.daum.net/v/20221228120136244"/>
-        <updated>2022-12-28T03:11:18.486Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 패뷸러스' 채수빈 "딸바보父, 내 키스신 절대 안봐..불쾌해하셔"]]></title>
-        <id>https://v.daum.net/v/20221228114827694</id>
-        <link href="https://v.daum.net/v/20221228114827694"/>
-        <updated>2022-12-28T03:11:18.486Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
