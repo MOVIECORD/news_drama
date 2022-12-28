@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-28T10:12:36.467Z</updated>
+    <updated>2022-12-28T11:10:03.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채수빈 "최민호와 격정적 키스신, 힘들더라…마음만은 18살인데 곧 서른"]]></title>
+        <id>https://v.daum.net/v/20221228200702531</id>
+        <link href="https://v.daum.net/v/20221228200702531"/>
+        <updated>2022-12-28T11:09:00.347Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민 신뢰 얻으려 거짓말]]></title>
+        <id>https://v.daum.net/v/20221228200527511</id>
+        <link href="https://v.daum.net/v/20221228200527511"/>
+        <updated>2022-12-28T11:09:00.349Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 장서희X김규선, 이현석 도움으로 모든 진실 알았다]]></title>
+        <id>https://v.daum.net/v/20221228195645379</id>
+        <link href="https://v.daum.net/v/20221228195645379"/>
+        <updated>2022-12-28T11:09:00.353Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 오창석, 가짜 딸 한지완에 마음 돌아섰다]]></title>
+        <id>https://v.daum.net/v/20221228192923086</id>
+        <link href="https://v.daum.net/v/20221228192923086"/>
+        <updated>2022-12-28T11:09:00.355Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오지호, '재벌집' 신작 '가면의 여왕' 출연…김선아와 재회]]></title>
         <id>https://v.daum.net/v/20221228190000750</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221228172813476"/>
         <updated>2022-12-28T09:10:14.558Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김정현X임수향, 한여름 눈처럼 다가온 판타지 로맨스]]></title>
-        <id>https://v.daum.net/v/20221228170836730</id>
-        <link href="https://v.daum.net/v/20221228170836730"/>
-        <updated>2022-12-28T08:13:46.350Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 김현 "베테랑 송중기→큰산 이성민, 에너지에 소름 쫙"]]></title>
-        <id>https://v.daum.net/v/20221228170818726</id>
-        <link href="https://v.daum.net/v/20221228170818726"/>
-        <updated>2022-12-28T08:13:46.350Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간 풍선' 문영남표 가족극 제대로 通했다…"충격과 반전의 서사 이어질 것"]]></title>
-        <id>https://v.daum.net/v/20221228170715684</id>
-        <link href="https://v.daum.net/v/20221228170715684"/>
-        <updated>2022-12-28T08:13:46.356Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기 선생님 조한철 "제자 박지현·티파니, 다시 만나 뿌듯해"]]></title>
-        <id>https://v.daum.net/v/20221228170140510</id>
-        <link href="https://v.daum.net/v/20221228170140510"/>
-        <updated>2022-12-28T08:13:46.356Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
