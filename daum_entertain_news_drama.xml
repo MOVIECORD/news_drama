@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-28T13:16:13.458Z</updated>
+    <updated>2022-12-28T14:10:25.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전도연 정경호 '일타 스캔들', 유제원 감독X양희승 작가 호흡 기대]]></title>
+        <id>https://v.daum.net/v/20221228223321058</id>
+        <link href="https://v.daum.net/v/20221228223321058"/>
+        <updated>2022-12-28T14:09:23.279Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문가영·정가람, 사내 스캔들 진짜? 집 앞 미묘한 기류]]></title>
+        <id>https://v.daum.net/v/20221228221507925</id>
+        <link href="https://v.daum.net/v/20221228221507925"/>
+        <updated>2022-12-28T14:09:23.280Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박순천, 백성현과 배누리 데이트 장면 목격..."네가 왜 해미 남자친구를?"]]></title>
         <id>https://v.daum.net/v/20221228205302025</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221228190000750"/>
         <updated>2022-12-28T10:11:33.384Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 가고 송혜교 온다! 2023년 첫 화제작 찜 한 '더 글로리']]></title>
-        <id>https://v.daum.net/v/20221228185140658</id>
-        <link href="https://v.daum.net/v/20221228185140658"/>
-        <updated>2022-12-28T10:11:33.388Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간풍선' 제작진 "앞으로 예상 뛰어넘는 충격+반전 있다"]]></title>
-        <id>https://v.daum.net/v/20221228183158295</id>
-        <link href="https://v.daum.net/v/20221228183158295"/>
-        <updated>2022-12-28T10:11:33.391Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
