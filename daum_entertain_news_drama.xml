@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-28T21:09:30.439Z</updated>
+    <updated>2022-12-28T22:10:12.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김도현 "김신록과 부부 연기…뽀뽀·다리 주무르기 다 애드리브"]]></title>
+        <id>https://v.daum.net/v/20221229065004892</id>
+        <link href="https://v.daum.net/v/20221229065004892"/>
+        <updated>2022-12-28T22:10:00.403Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애인·학폭 피해자 등 ‘약자들의 반란’…편견을 깼다]]></title>
+        <id>https://v.daum.net/v/20221229063016735</id>
+        <link href="https://v.daum.net/v/20221229063016735"/>
+        <updated>2022-12-28T22:10:00.403Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“우리는 뭘 잘못해서 늙은 게 아니에요.”…마음속 별처럼 박히는 말말말]]></title>
+        <id>https://v.daum.net/v/20221229063014732</id>
+        <link href="https://v.daum.net/v/20221229063014732"/>
+        <updated>2022-12-28T22:10:00.412Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘혜교의 남자’ 이도현 vs ‘꽃미남 사제’ 차은우]]></title>
+        <id>https://v.daum.net/v/20221229063012730</id>
+        <link href="https://v.daum.net/v/20221229063012730"/>
+        <updated>2022-12-28T22:10:00.414Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨뜻미지근한 ‘카지노’ 최민식 뒷심 발휘할까]]></title>
         <id>https://v.daum.net/v/20221229060603533</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221228201101588"/>
         <updated>2022-12-28T12:18:16.097Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수린, 박하나에 분노…"子 강지섭과 살림 차리냐"]]></title>
-        <id>https://v.daum.net/v/20221228200851559</id>
-        <link href="https://v.daum.net/v/20221228200851559"/>
-        <updated>2022-12-28T12:18:16.105Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채수빈 "최민호와 격정적 키스신, 힘들더라…마음만은 18살인데 곧 서른"]]></title>
-        <id>https://v.daum.net/v/20221228200702531</id>
-        <link href="https://v.daum.net/v/20221228200702531"/>
-        <updated>2022-12-28T11:09:00.347Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민 신뢰 얻으려 거짓말]]></title>
-        <id>https://v.daum.net/v/20221228200527511</id>
-        <link href="https://v.daum.net/v/20221228200527511"/>
-        <updated>2022-12-28T11:09:00.349Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 장서희X김규선, 이현석 도움으로 모든 진실 알았다]]></title>
-        <id>https://v.daum.net/v/20221228195645379</id>
-        <link href="https://v.daum.net/v/20221228195645379"/>
-        <updated>2022-12-28T11:09:00.353Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
