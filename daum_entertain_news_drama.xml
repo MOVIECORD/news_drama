@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-29T12:18:32.174Z</updated>
+    <updated>2022-12-29T13:16:07.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이경, 이미주와 무슨 사이? "노코멘트"]]></title>
+        <id>https://v.daum.net/v/20221229220355179</id>
+        <link href="https://v.daum.net/v/20221229220355179"/>
+        <updated>2022-12-29T13:15:05.461Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 지수원 정체 깨달았다…눈물의 '모녀 상봉']]></title>
         <id>https://v.daum.net/v/20221229205438984</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229175423099"/>
         <updated>2022-12-29T09:10:01.931Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민 오늘 ‘뉴스룸’ 출격, ‘재벌집 막내아들’ 진양철 비화 공개]]></title>
-        <id>https://v.daum.net/v/20221229172721272</id>
-        <link href="https://v.daum.net/v/20221229172721272"/>
-        <updated>2022-12-29T09:10:01.934Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
