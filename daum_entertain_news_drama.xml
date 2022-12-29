@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-29T19:09:12.447Z</updated>
+    <updated>2022-12-29T20:11:04.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문채원VS박훈, 김미숙 의문사 둘러싸고 살벌 대치]]></title>
+        <id>https://v.daum.net/v/20221230050009474</id>
+        <link href="https://v.daum.net/v/20221230050009474"/>
+        <updated>2022-12-29T20:10:53.989Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대상' 전현무 "외아들로 외롭게 커…'나혼산'은 가족" 눈물 [2022 MBC ...]]></title>
         <id>https://v.daum.net/v/20221230005220620</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229205438984"/>
         <updated>2022-12-29T12:18:21.114Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하나, "정말 우리 엄마였어"...지수원과 뜨거운 포옹]]></title>
-        <id>https://v.daum.net/v/20221229204503761</id>
-        <link href="https://v.daum.net/v/20221229204503761"/>
-        <updated>2022-12-29T12:18:21.115Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
