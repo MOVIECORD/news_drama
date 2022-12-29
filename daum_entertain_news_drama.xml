@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-29T09:11:10.630Z</updated>
+    <updated>2022-12-29T10:12:00.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연말 영화관 데이트 국룰?"...'뷔아이피셜' 팝콘 하나 먹을 때도 설렘 폭발]]></title>
+        <id>https://v.daum.net/v/20221229185831450</id>
+        <link href="https://v.daum.net/v/20221229185831450"/>
+        <updated>2022-12-29T10:10:57.941Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이도현, 김은숙 극찬 받으며 컴백…인생캐 추가 예고]]></title>
         <id>https://v.daum.net/v/20221229180417339</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221229141738743"/>
         <updated>2022-12-29T06:12:53.955Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간 풍선’ 측 “처월드에 찍소리 못했던 이성재 격변 일으킨다”]]></title>
-        <id>https://v.daum.net/v/20221229140924522</id>
-        <link href="https://v.daum.net/v/20221229140924522"/>
-        <updated>2022-12-29T05:09:51.128Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
