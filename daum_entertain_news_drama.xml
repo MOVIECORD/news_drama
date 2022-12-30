@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T16:12:54.919Z</updated>
+    <updated>2022-12-30T17:10:18.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이학주 "이성민 선배 폭발적 집중력에 한수 배워"]]></title>
+        <id>https://v.daum.net/v/20221231020110708</id>
+        <link href="https://v.daum.net/v/20221231020110708"/>
+        <updated>2022-12-30T17:09:16.450Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 손호준, 김래원에 "넌 범죄자들한테 분노하고 잡아넣는 게 어울려" 위로]]></title>
         <id>https://v.daum.net/v/20221231005401529</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230225501924"/>
         <updated>2022-12-30T14:09:32.526Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 조승연 좌절 "이러면 판 꼬이는데"]]></title>
-        <id>https://v.daum.net/v/20221230225144910</id>
-        <link href="https://v.daum.net/v/20221230225144910"/>
-        <updated>2022-12-30T14:09:32.536Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
