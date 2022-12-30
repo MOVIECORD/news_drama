@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T07:10:04.643Z</updated>
+    <updated>2022-12-30T08:13:40.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 오늘 최종화…김래원X손호준X공승연 "시즌2도 열심히 촬영 중"]]></title>
+        <id>https://v.daum.net/v/20221230170808558</id>
+        <link href="https://v.daum.net/v/20221230170808558"/>
+        <updated>2022-12-30T08:13:30.922Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어차피 우승은 이영지? '쇼미더머니' 첫 女우승자 나올까]]></title>
+        <id>https://v.daum.net/v/20221230163910981</id>
+        <link href="https://v.daum.net/v/20221230163910981"/>
+        <updated>2022-12-30T08:13:30.923Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사잠' 채종협, 이유 있는 여심 잠금해제]]></title>
+        <id>https://v.daum.net/v/20221230161706560</id>
+        <link href="https://v.daum.net/v/20221230161706560"/>
+        <updated>2022-12-30T08:13:30.923Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성오, 이 남자 온도차 어쩌나..'외강내유 매력'에 빠져]]></title>
         <id>https://v.daum.net/v/20221230160859379</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221230135602928"/>
         <updated>2022-12-30T05:10:05.946Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 드디어 문가영 와락 끌어안았다 ‘임팩트 甲’]]></title>
-        <id>https://v.daum.net/v/20221230135318860</id>
-        <link href="https://v.daum.net/v/20221230135318860"/>
-        <updated>2022-12-30T05:10:05.948Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서' 김래원X손호준X공승연 "시즌2 온다"…종영 소감 전해]]></title>
-        <id>https://v.daum.net/v/20221230135139825</id>
-        <link href="https://v.daum.net/v/20221230135139825"/>
-        <updated>2022-12-30T05:10:05.949Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소옆경’ 김래원-손호준-공승연 “시즌2 떡밥 놓치지 마세요” 종영소감]]></title>
-        <id>https://v.daum.net/v/20221230134904758</id>
-        <link href="https://v.daum.net/v/20221230134904758"/>
-        <updated>2022-12-30T05:10:05.951Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
