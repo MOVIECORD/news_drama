@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T09:10:23.410Z</updated>
+    <updated>2022-12-30T10:11:51.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MBC는 이종석, SBS·KBS는 오리무중…연기대상은 누구에게]]></title>
+        <id>https://v.daum.net/v/20221230183901900</id>
+        <link href="https://v.daum.net/v/20221230183901900"/>
+        <updated>2022-12-30T10:10:49.238Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기, "KBS 연기대상 뜬다"..후크 갈등 후 첫 공식석상]]></title>
         <id>https://v.daum.net/v/20221230180839646</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230141939533"/>
         <updated>2022-12-30T06:13:40.930Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소옆경’ 손지윤 진짜 부검의 아니었어? “많이 배우고 느꼈다”]]></title>
-        <id>https://v.daum.net/v/20221230141029255</id>
-        <link href="https://v.daum.net/v/20221230141029255"/>
-        <updated>2022-12-30T06:13:40.930Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
