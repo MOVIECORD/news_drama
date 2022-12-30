@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T15:10:54.791Z</updated>
+    <updated>2022-12-30T16:12:54.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경' 손호준, 김래원에 "넌 범죄자들한테 분노하고 잡아넣는 게 어울려" 위로]]></title>
+        <id>https://v.daum.net/v/20221231005401529</id>
+        <link href="https://v.daum.net/v/20221231005401529"/>
+        <updated>2022-12-30T16:12:44.340Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 화재 사건' 화염사고 결말..시즌 2 암시]]></title>
         <id>https://v.daum.net/v/20221231000044335</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230225144910"/>
         <updated>2022-12-30T14:09:32.536Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤아, '빅마우스'로 최우수연기상 "부담감 있었다"…수영, 눈물 연기 '폭소']]></title>
-        <id>https://v.daum.net/v/20221230224802900</id>
-        <link href="https://v.daum.net/v/20221230224802900"/>
-        <updated>2022-12-30T14:09:32.538Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
