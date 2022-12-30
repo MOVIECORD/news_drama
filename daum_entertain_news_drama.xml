@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T08:13:40.943Z</updated>
+    <updated>2022-12-30T09:10:23.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승기, "KBS 연기대상 뜬다"..후크 갈등 후 첫 공식석상]]></title>
+        <id>https://v.daum.net/v/20221230180839646</id>
+        <link href="https://v.daum.net/v/20221230180839646"/>
+        <updated>2022-12-30T09:10:12.732Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도현, ‘더 글로리’로 1년 만에 컴백..파격 변신 예고]]></title>
+        <id>https://v.daum.net/v/20221230173442118</id>
+        <link href="https://v.daum.net/v/20221230173442118"/>
+        <updated>2022-12-30T09:10:12.732Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경' 오늘 최종화…김래원X손호준X공승연 "시즌2도 열심히 촬영 중"]]></title>
         <id>https://v.daum.net/v/20221230170808558</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221230141029255"/>
         <updated>2022-12-30T06:13:40.930Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금혼령' 이번 주 결방..MBC '연기대상'·'가요대제전' 편성]]></title>
-        <id>https://v.daum.net/v/20221230135643942</id>
-        <link href="https://v.daum.net/v/20221230135643942"/>
-        <updated>2022-12-30T05:10:05.946Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시즌1 종영 앞둔 '소방서 옆 경찰서'…김래원 "시즌2 열심히 촬영 중"]]></title>
-        <id>https://v.daum.net/v/20221230135602928</id>
-        <link href="https://v.daum.net/v/20221230135602928"/>
-        <updated>2022-12-30T05:10:05.946Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
