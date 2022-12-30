@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-30T21:10:06.529Z</updated>
+    <updated>2022-12-30T22:10:50.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 김은숙의 회색 세계, 송혜교의 처음 보는 얼굴]]></title>
+        <id>https://v.daum.net/v/20221231070040885</id>
+        <link href="https://v.daum.net/v/20221231070040885"/>
+        <updated>2022-12-30T22:09:48.018Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대상 이종석 "내가 많이 좋아해, 고마워" 깜짝 고백…'빅마우스'는 4관왕]]></title>
+        <id>https://v.daum.net/v/20221231065601807</id>
+        <link href="https://v.daum.net/v/20221231065601807"/>
+        <updated>2022-12-30T22:09:48.020Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에일리, 이재욱♥고윤정 ‘환혼’ 마지막 OST 가창…1월1일 발표]]></title>
         <id>https://v.daum.net/v/20221231060009429</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221230232635116"/>
         <updated>2022-12-30T15:10:43.508Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석, 대상 소감서 여친 언급? '술렁'…"내가 오랫동안 많이 좋아해"]]></title>
-        <id>https://v.daum.net/v/20221230232102088</id>
-        <link href="https://v.daum.net/v/20221230232102088"/>
-        <updated>2022-12-30T15:10:43.508Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종석, 두 번째 대상 "20대땐 몰랐던 상의 의미"]]></title>
-        <id>https://v.daum.net/v/20221230231841065</id>
-        <link href="https://v.daum.net/v/20221230231841065"/>
-        <updated>2022-12-30T15:10:43.508Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
