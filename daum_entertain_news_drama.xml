@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-31T17:08:33.490Z</updated>
+    <updated>2022-12-31T18:11:42.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['이방원' 주상욱·'법대로' 이승기, 대상 공동 수상 '이변']]></title>
+        <title type="html"><![CDATA[최원영 "김혜수와 호흡? 모든 순간이 배움이고 꿈결 같았다"]]></title>
+        <id>https://v.daum.net/v/20230101025548189</id>
+        <link href="https://v.daum.net/v/20230101025548189"/>
+        <updated>2022-12-31T18:11:31.678Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최원영 "아내 심이영 내조, 20년 배우 생활에 큰 도움됐다"]]></title>
+        <id>https://v.daum.net/v/20230101024447180</id>
+        <link href="https://v.daum.net/v/20230101024447180"/>
+        <updated>2022-12-31T18:11:31.678Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주상욱·이승기, KBS 연기대상 공동 수상…이변 연출]]></title>
         <id>https://v.daum.net/v/20230101020152102</id>
         <link href="https://v.daum.net/v/20230101020152102"/>
         <updated>2022-12-31T17:08:22.770Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230101010219735"/>
         <updated>2022-12-31T16:12:46.958Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준·강한나·이혜리, 우수상에 울컥 "많은 생각 스쳐가"]]></title>
-        <id>https://v.daum.net/v/20230101005955700</id>
-        <link href="https://v.daum.net/v/20230101005955700"/>
-        <updated>2022-12-31T16:12:46.962Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'붉은 단심' 3번 거절했는데…" 이준·강한나·이혜리, 미니시리즈 우수상]]></title>
-        <id>https://v.daum.net/v/20230101005844696</id>
-        <link href="https://v.daum.net/v/20230101005844696"/>
-        <updated>2022-12-31T16:12:46.962Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
