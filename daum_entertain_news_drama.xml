@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2022-12-31T04:12:20.298Z</updated>
+    <updated>2022-12-31T05:09:23.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존 선택한 첫 SBS 드라마 ‘법쩐’ 글로벌 팬 만난다]]></title>
+        <id>https://v.daum.net/v/20221231133430155</id>
+        <link href="https://v.daum.net/v/20221231133430155"/>
+        <updated>2022-12-31T05:09:12.807Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘환혼’ 이재욱 고윤정 로맨스 이상기류 포착, 아찔한 설렘]]></title>
+        <id>https://v.daum.net/v/20221231132315095</id>
+        <link href="https://v.daum.net/v/20221231132315095"/>
+        <updated>2022-12-31T05:09:12.807Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['용감한 형사들2' "결혼하자"는 여친 토막 살인한 군인 남친]]></title>
         <id>https://v.daum.net/v/20221231125514923</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221231100011385"/>
         <updated>2022-12-31T02:07:08.229Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연매살' 신현승, 준비된 배우…"이순재와 호흡, 큰 영광"]]></title>
-        <id>https://v.daum.net/v/20221231100002368</id>
-        <link href="https://v.daum.net/v/20221231100002368"/>
-        <updated>2022-12-31T02:07:08.230Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간풍선’ 서지혜 남친 설정환, 머리채 잡혔다‥응징 총공세]]></title>
-        <id>https://v.daum.net/v/20221231095528323</id>
-        <link href="https://v.daum.net/v/20221231095528323"/>
-        <updated>2022-12-31T02:07:08.231Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
