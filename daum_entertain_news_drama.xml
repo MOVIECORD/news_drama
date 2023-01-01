@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-01T06:12:41.645Z</updated>
+    <updated>2023-01-01T07:09:45.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에일리, 오늘 '환혼' OST 발매..이재욱♥︎고윤정 설렘 극대화]]></title>
+        <id>https://v.daum.net/v/20230101154110923</id>
+        <link href="https://v.daum.net/v/20230101154110923"/>
+        <updated>2023-01-01T07:09:35.104Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두뇌공조' 왜 기대 되나?]]></title>
+        <id>https://v.daum.net/v/20230101153501835</id>
+        <link href="https://v.daum.net/v/20230101153501835"/>
+        <updated>2023-01-01T07:09:35.106Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공승연·강기둥 “故이힘찬 PD께 감사”..‘소옆경’ 오는 7월 시즌2로 컴백]]></title>
         <id>https://v.daum.net/v/20230101140241335</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230101093712825"/>
         <updated>2023-01-01T00:57:57.461Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준기, 연기대상 같은 최우수상]]></title>
-        <id>https://v.daum.net/v/20230101093617812</id>
-        <link href="https://v.daum.net/v/20230101093617812"/>
-        <updated>2023-01-01T00:57:57.461Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱♥고윤정, 심쿵 키스 "너를 봐야겠기에 왔어"]]></title>
-        <id>https://v.daum.net/v/20230101091803414</id>
-        <link href="https://v.daum.net/v/20230101091803414"/>
-        <updated>2023-01-01T00:57:57.463Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
