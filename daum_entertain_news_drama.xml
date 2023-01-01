@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-01T10:11:28.213Z</updated>
+    <updated>2023-01-01T11:08:36.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고윤정, 이재욱과 애정전선 위기?…'폭풍 눈물' 예고]]></title>
+        <id>https://v.daum.net/v/20230101200239141</id>
+        <link href="https://v.daum.net/v/20230101200239141"/>
+        <updated>2023-01-01T11:08:26.030Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘최우수상’ 이준기, 못다한 수상소감 “응원과 사랑 덕에 수상..팬들 너무 사랑한다”]]></title>
         <id>https://v.daum.net/v/20230101163046717</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230101100925491</id>
         <link href="https://v.daum.net/v/20230101100925491"/>
         <updated>2023-01-01T02:27:43.575Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민·이준기 아니었다..김남길, 예상깨고 3년만에 대상 받은 이유]]></title>
-        <id>https://v.daum.net/v/20230101095121085</id>
-        <link href="https://v.daum.net/v/20230101095121085"/>
-        <updated>2023-01-01T00:57:57.456Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
