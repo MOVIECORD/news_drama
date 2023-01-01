@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-01T15:09:52.161Z</updated>
+    <updated>2023-01-01T16:12:59.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고윤정, 기억 찾았다..♥이재욱에 ‘환혼 자국’ 들켜 “너 누구야”]]></title>
+        <id>https://v.daum.net/v/20230102005021737</id>
+        <link href="https://v.daum.net/v/20230102005021737"/>
+        <updated>2023-01-01T16:12:50.064Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, 이성민 “날 제일 닮은 손주” 진심에 눈물 '주요 명장면']]></title>
         <id>https://v.daum.net/v/20230102000918580</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230101212437704"/>
         <updated>2023-01-01T13:13:36.464Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 이하나, 기억 상실 증세…임주환에 "너 왜 여깄어?"]]></title>
-        <id>https://v.daum.net/v/20230101210533578</id>
-        <link href="https://v.daum.net/v/20230101210533578"/>
-        <updated>2023-01-01T12:17:33.744Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
