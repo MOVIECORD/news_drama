@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T12:18:52.088Z</updated>
+    <updated>2023-01-02T13:17:40.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 김동휘, 고수 목숨 구했다 '살벌']]></title>
+        <id>https://v.daum.net/v/20230102221320076</id>
+        <link href="https://v.daum.net/v/20230102221320076"/>
+        <updated>2023-01-02T13:17:29.395Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정수환, "보고가 아니라 고자질"...배누리 실수 언급하는 최윤라에 팩폭]]></title>
+        <id>https://v.daum.net/v/20230102211908391</id>
+        <link href="https://v.daum.net/v/20230102211908391"/>
+        <updated>2023-01-02T13:17:29.418Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘형사록’·‘유세풍’ 작가도 오펜 출신, 스토리텔러 7기 모집]]></title>
         <id>https://v.daum.net/v/20230102210626200</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230102172836016"/>
         <updated>2023-01-02T09:10:47.805Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지원, 사랑스러운 여교사로 '미씽2' 합류]]></title>
-        <id>https://v.daum.net/v/20230102170725444</id>
-        <link href="https://v.daum.net/v/20230102170725444"/>
-        <updated>2023-01-02T08:13:48.919Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우 이탈리아어까지 하네? 역대급 비주얼 사제 강렬]]></title>
-        <id>https://v.daum.net/v/20230102161717768</id>
-        <link href="https://v.daum.net/v/20230102161717768"/>
-        <updated>2023-01-02T08:13:48.921Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
