@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T04:14:13.367Z</updated>
+    <updated>2023-01-02T05:10:42.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아일랜드', 김남길의 차원 다른 판타지 액션…티빙 유료가입기여자수 2위]]></title>
+        <id>https://v.daum.net/v/20230102135513147</id>
+        <link href="https://v.daum.net/v/20230102135513147"/>
+        <updated>2023-01-02T05:10:31.956Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["SM 어렸을 땐 좋았지만" 소시 떠나 美간 티파니영, '재벌집' 조연배우로 돌아온 이유]]></title>
+        <id>https://v.daum.net/v/20230102135502136</id>
+        <link href="https://v.daum.net/v/20230102135502136"/>
+        <updated>2023-01-02T05:10:31.957Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['술도녀2', 마냥 술먹는 게 아니었네..러브라인에 감동까지]]></title>
+        <id>https://v.daum.net/v/20230102134816908</id>
+        <link href="https://v.daum.net/v/20230102134816908"/>
+        <updated>2023-01-02T05:10:31.957Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아일랜드' 차원이 다른 판타지 액션 드라마의 탄생]]></title>
+        <id>https://v.daum.net/v/20230102134602854</id>
+        <link href="https://v.daum.net/v/20230102134602854"/>
+        <updated>2023-01-02T05:10:31.957Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계묘년 여는 1월 신작 드라마, 대작 쏟아진다]]></title>
         <id>https://v.daum.net/v/20230102131107830</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230102111822958"/>
         <updated>2023-01-02T03:11:13.020Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고윤정, 낙수 기억 찾고 180도 변신..결국 이재욱과 이별]]></title>
-        <id>https://v.daum.net/v/20230102110924532</id>
-        <link href="https://v.daum.net/v/20230102110924532"/>
-        <updated>2023-01-02T02:09:46.273Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 이상우 향한 적극 돌진…둘만의 아슬한 드라이브]]></title>
-        <id>https://v.daum.net/v/20230102110601368</id>
-        <link href="https://v.daum.net/v/20230102110601368"/>
-        <updated>2023-01-02T02:09:46.273Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순수 짝사랑남' 김현진, '2022 SBS 연기대상' 2관왕 영예]]></title>
-        <id>https://v.daum.net/v/20230102105040523</id>
-        <link href="https://v.daum.net/v/20230102105040523"/>
-        <updated>2023-01-02T02:09:46.274Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱, 거침없는 직진 로맨스]]></title>
-        <id>https://v.daum.net/v/20230102104041092</id>
-        <link href="https://v.daum.net/v/20230102104041092"/>
-        <updated>2023-01-02T02:09:46.276Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
