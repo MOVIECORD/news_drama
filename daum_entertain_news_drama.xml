@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T22:09:48.101Z</updated>
+    <updated>2023-01-02T23:11:36.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현주, 살인자 될 수 밖에 없었던 이유…박희순·류현경·기태영과 4자 대면]]></title>
+        <id>https://v.daum.net/v/20230103075302850</id>
+        <link href="https://v.daum.net/v/20230103075302850"/>
+        <updated>2023-01-02T23:10:33.159Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류현경, 복수심으로 가득차 김현주 위협]]></title>
+        <id>https://v.daum.net/v/20230103074026655</id>
+        <link href="https://v.daum.net/v/20230103074026655"/>
+        <updated>2023-01-02T23:10:33.169Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트롤리' 김현주 과거서 모두 드러나, 숨기고 싶었던 박희순과 대면!]]></title>
+        <id>https://v.daum.net/v/20230103072256441</id>
+        <link href="https://v.daum.net/v/20230103072256441"/>
+        <updated>2023-01-02T23:10:33.171Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김현주의 슬픈 과거는 '살인자 누명'…박희순 비밀 알게 될까]]></title>
+        <id>https://v.daum.net/v/20230103071348351</id>
+        <link href="https://v.daum.net/v/20230103071348351"/>
+        <updated>2023-01-02T23:10:33.173Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌집 막내아들' 박지현, 소소하지만 확실한 욕망]]></title>
         <id>https://v.daum.net/v/20230103070027128</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230102235024612"/>
         <updated>2023-01-02T15:10:57.816Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['회사 퇴출' 정용화, 차태현 팀 합류→티격태격 공조 시작]]></title>
-        <id>https://v.daum.net/v/20230102235008609</id>
-        <link href="https://v.daum.net/v/20230102235008609"/>
-        <updated>2023-01-02T15:10:57.817Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 고수, 첫사랑 임선우 찾았다…아이 실종 사건 발생]]></title>
-        <id>https://v.daum.net/v/20230102235003608</id>
-        <link href="https://v.daum.net/v/20230102235003608"/>
-        <updated>2023-01-02T15:10:57.818Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남현우, 허준호X고수에 임선우 거처 오픈 ..."난 잠복한 형사"]]></title>
-        <id>https://v.daum.net/v/20230102232501514</id>
-        <link href="https://v.daum.net/v/20230102232501514"/>
-        <updated>2023-01-02T15:10:57.819Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 정용화, 문서 위조로 퇴출→차태현과 공조.."기대해"]]></title>
-        <id>https://v.daum.net/v/20230102231433440</id>
-        <link href="https://v.daum.net/v/20230102231433440"/>
-        <updated>2023-01-02T15:10:57.819Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
