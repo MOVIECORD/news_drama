@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T08:13:59.716Z</updated>
+    <updated>2023-01-02T09:10:59.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대행사’ 작가 “이보영 캐스팅 100% 신뢰, 각 회차 엔딩 기대해도 좋을 것”]]></title>
+        <id>https://v.daum.net/v/20230102175601886</id>
+        <link href="https://v.daum.net/v/20230102175601886"/>
+        <updated>2023-01-02T09:10:47.804Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[믿고 보는 송혜교x김은숙…'더 글로리', 韓 넘어 전 세계 홀렸다]]></title>
+        <id>https://v.daum.net/v/20230102175002710</id>
+        <link href="https://v.daum.net/v/20230102175002710"/>
+        <updated>2023-01-02T09:10:47.804Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 실종 아동 돌아보게 만드는 선한 영향력]]></title>
+        <id>https://v.daum.net/v/20230102173515239</id>
+        <link href="https://v.daum.net/v/20230102173515239"/>
+        <updated>2023-01-02T09:10:47.804Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연예인 매니저로 살아남기' 신현승이 빠진 연기의 매력]]></title>
+        <id>https://v.daum.net/v/20230102172836016</id>
+        <link href="https://v.daum.net/v/20230102172836016"/>
+        <updated>2023-01-02T09:10:47.805Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤지원, 사랑스러운 여교사로 '미씽2' 합류]]></title>
         <id>https://v.daum.net/v/20230102170725444</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230102151019225"/>
         <updated>2023-01-02T06:13:53.704Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 정용화X차태현, 용두용미 노리는 뇌과학 브로맨스]]></title>
-        <id>https://v.daum.net/v/20230102150344998</id>
-        <link href="https://v.daum.net/v/20230102150344998"/>
-        <updated>2023-01-02T06:13:53.704Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["용두사미 없다"…차태현·정용화, '두뇌공조' 향한 대박 확신]]></title>
-        <id>https://v.daum.net/v/20230102150246953</id>
-        <link href="https://v.daum.net/v/20230102150246953"/>
-        <updated>2023-01-02T06:13:53.704Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“MBTI까지 바뀌었다” 정용화X차태현, 과몰입 부르는 두 남자 ‘두뇌공조’]]></title>
-        <id>https://v.daum.net/v/20230102145735727</id>
-        <link href="https://v.daum.net/v/20230102145735727"/>
-        <updated>2023-01-02T06:13:53.709Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘두뇌공조’ 차태현 “세 번 연속 형사 역할, 부담스럽지만…차이 有”]]></title>
-        <id>https://v.daum.net/v/20230102145414590</id>
-        <link href="https://v.daum.net/v/20230102145414590"/>
-        <updated>2023-01-02T06:13:53.709Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
