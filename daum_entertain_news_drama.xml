@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-02T07:10:13.801Z</updated>
+    <updated>2023-01-02T08:13:59.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤지원, 사랑스러운 여교사로 '미씽2' 합류]]></title>
+        <id>https://v.daum.net/v/20230102170725444</id>
+        <link href="https://v.daum.net/v/20230102170725444"/>
+        <updated>2023-01-02T08:13:48.919Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우 이탈리아어까지 하네? 역대급 비주얼 사제 강렬]]></title>
+        <id>https://v.daum.net/v/20230102161717768</id>
+        <link href="https://v.daum.net/v/20230102161717768"/>
+        <updated>2023-01-02T08:13:48.921Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두뇌공조' 차태현, 뇌 과학과 만난 코미디의 대가]]></title>
         <id>https://v.daum.net/v/20230102155752088</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230102145414590"/>
         <updated>2023-01-02T06:13:53.709Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이제 낙수다' 고윤정, 기억 찾고 180도 변신]]></title>
-        <id>https://v.daum.net/v/20230102145133483</id>
-        <link href="https://v.daum.net/v/20230102145133483"/>
-        <updated>2023-01-02T06:13:53.709Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 곽선영 "차태현과 함께 해 영광, 항상 배려해주신다"]]></title>
-        <id>https://v.daum.net/v/20230102144654260</id>
-        <link href="https://v.daum.net/v/20230102144654260"/>
-        <updated>2023-01-02T06:13:53.709Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
