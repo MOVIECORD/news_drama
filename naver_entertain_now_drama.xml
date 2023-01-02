@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=225</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 드라마</title>
-    <updated>2023-01-02T18:12:33.589Z</updated>
+    <updated>2023-01-02T19:08:27.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스브스夜] '동상이몽2' 아유미, K-제사상 차리기 도전…시父, "필요하면 말만 해" 며느리 사랑 '눈길']]></title>
+        <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000291019</id>
+        <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000291019"/>
+        <updated>2023-01-02T19:08:27.165Z</updated>
+        <content type="html"><![CDATA[아유미가 K-제사 문화 배우기에 돌입했다. 2일 방송된 SBS '동상이몽 시즌2-너는 내 운명'(이하 '동상이몽2')에서는 K-며느리로 거듭나기 위한 아유미의 도전이 공개됐다. 이날 아유미는 남편 권기범과 함께 방산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['동상이몽2' 임창정, 술과 이별식…서하얀, 야니표 '맞춤 안주' 요리]]></title>
         <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000291018</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=311&amp;aid=0001541969"/>
         <updated>2023-01-02T13:17:39.859Z</updated>
         <content type="html"><![CDATA['미씽: 그들이 있었다2' 고수가 김동휘의 정체를 의심했다. 2일 방송된 tvN 월화드라마 '미씽: 그들이 있었다2'(이하 '미씽2') 5회에서는 김욱(고수 분)이 오일용(김동휘)을 추궁하는 모습이 그려졌다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수환, "보고가 아니라 고자질"...배누리 실수 언급하는 최윤라에 팩폭('내 눈에 콩깍지')]]></title>
-        <id>https://entertain.naver.com/now/read?oid=312&amp;aid=0000589045</id>
-        <link href="https://entertain.naver.com/now/read?oid=312&amp;aid=0000589045"/>
-        <updated>2023-01-02T13:17:39.863Z</updated>
-        <content type="html"><![CDATA['내 눈에 콩깍지' 최윤라가 정수환과 대립했다. 2일 밤 방송된 KBS2TV 일일드라마 '내 눈에 콩깍지'에서는 이영이(배누리 분)가 대량주문한 식재료로 독거노인 기부 도시락을 만들어 위기를 넘겼다. 이날 이영이와]]></content>
     </entry>
 </feed>
