@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T15:11:55.761Z</updated>
+    <updated>2023-01-03T16:15:50.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정용화X차태현, 장호일 진범 잡으며 첫 공조 성공...정동환, 정용화 예의주시]]></title>
+        <id>https://v.daum.net/v/20230104004506800</id>
+        <link href="https://v.daum.net/v/20230104004506800"/>
+        <updated>2023-01-03T16:14:47.617Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['30대 된' 최민호 "바뀐 연애관…이젠 하나만 안 맞아도 망설여져"]]></title>
+        <id>https://v.daum.net/v/20230104004502799</id>
+        <link href="https://v.daum.net/v/20230104004502799"/>
+        <updated>2023-01-03T16:14:47.635Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나도 살인자"…'미씽2' 김동휘, 고수에 마약 조직원이었던 과거 고백]]></title>
         <id>https://v.daum.net/v/20230103235002453</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230103201537653"/>
         <updated>2023-01-03T12:19:34.328Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 강지섭에 "손창민 살인죄 물을 것"]]></title>
-        <id>https://v.daum.net/v/20230103200757533</id>
-        <link href="https://v.daum.net/v/20230103200757533"/>
-        <updated>2023-01-03T11:09:04.754Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 김선혜, 반효정 의심 "아들 죽이려 브레이크 조작"]]></title>
-        <id>https://v.daum.net/v/20230103200739530</id>
-        <link href="https://v.daum.net/v/20230103200739530"/>
-        <updated>2023-01-03T11:09:04.754Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
