@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T21:10:32.713Z</updated>
+    <updated>2023-01-03T22:10:25.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 김동휘, 마약 조직원이었다…고수에 "나도 살인자" 고백]]></title>
+        <id>https://v.daum.net/v/20230104070502455</id>
+        <link href="https://v.daum.net/v/20230104070502455"/>
+        <updated>2023-01-03T22:10:15.692Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정용화, 살인 사건 진범 밝혔다→차태현 '비리경찰'로 제보]]></title>
+        <id>https://v.daum.net/v/20230104070017329</id>
+        <link href="https://v.daum.net/v/20230104070017329"/>
+        <updated>2023-01-03T22:10:15.699Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이색 소재로…변신 꾀하는 스타 작가들]]></title>
+        <id>https://v.daum.net/v/20230104063013951</id>
+        <link href="https://v.daum.net/v/20230104063013951"/>
+        <updated>2023-01-03T22:10:15.702Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유퀴즈'와 '골때녀'에 흐르는 '라스'의 유전자]]></title>
         <id>https://v.daum.net/v/20230104060009425</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230103210622360"/>
         <updated>2023-01-03T12:19:34.313Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롤리' 김현주·박희순·류현경·기태영, 위태로운 사자대면]]></title>
-        <id>https://v.daum.net/v/20230103205123134</id>
-        <link href="https://v.daum.net/v/20230103205123134"/>
-        <updated>2023-01-03T12:19:34.315Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강지섭, 父 손창민 만행에 분노→지수원, 김영옥에 정체 들키나]]></title>
-        <id>https://v.daum.net/v/20230103205002123</id>
-        <link href="https://v.daum.net/v/20230103205002123"/>
-        <updated>2023-01-03T12:19:34.318Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 손창민, 김영옥에 지수원 정체 알렸다 “기억 찾았는지 확인해야..”]]></title>
-        <id>https://v.daum.net/v/20230103202930832</id>
-        <link href="https://v.daum.net/v/20230103202930832"/>
-        <updated>2023-01-03T12:19:34.320Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
