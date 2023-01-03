@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T14:10:39.129Z</updated>
+    <updated>2023-01-03T15:11:55.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나도 살인자"…'미씽2' 김동휘, 고수에 마약 조직원이었던 과거 고백]]></title>
+        <id>https://v.daum.net/v/20230103235002453</id>
+        <link href="https://v.daum.net/v/20230103235002453"/>
+        <updated>2023-01-03T15:11:44.494Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동휘, "저 놈이 날 죽였어요"...고수에게 골리앗 존재 알렸다]]></title>
+        <id>https://v.daum.net/v/20230103233001386</id>
+        <link href="https://v.daum.net/v/20230103233001386"/>
+        <updated>2023-01-03T15:11:44.498Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김아송, 母 예지원에 돌직구…"차태현에 양육비는 제대로 주냐"]]></title>
         <id>https://v.daum.net/v/20230103225942234</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230103200739530"/>
         <updated>2023-01-03T11:09:04.754Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식, 범상치 않은 왕세자 변신...‘청춘월담’ 1차 티저 영상]]></title>
-        <id>https://v.daum.net/v/20230103194506148</id>
-        <link href="https://v.daum.net/v/20230103194506148"/>
-        <updated>2023-01-03T11:09:04.757Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연 “정경호 상냥하고 친절, 사람 끄는 매력有”]]></title>
-        <id>https://v.daum.net/v/20230103192241858</id>
-        <link href="https://v.daum.net/v/20230103192241858"/>
-        <updated>2023-01-03T11:09:04.757Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
