@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T03:11:37.073Z</updated>
+    <updated>2023-01-03T04:12:55.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전배수·길해연·조은지·이재원 ‘남이 될 수 있을까’ 합류]]></title>
+        <id>https://v.daum.net/v/20230103131201956</id>
+        <link href="https://v.daum.net/v/20230103131201956"/>
+        <updated>2023-01-03T04:12:43.665Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 서브병 유발 정가람, 순정파 연하남의 정석]]></title>
+        <id>https://v.daum.net/v/20230103123404290</id>
+        <link href="https://v.daum.net/v/20230103123404290"/>
+        <updated>2023-01-03T04:12:43.665Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부’ 측 “이경영 출연” 한석규와 재회]]></title>
+        <id>https://v.daum.net/v/20230103121710061</id>
+        <link href="https://v.daum.net/v/20230103121710061"/>
+        <updated>2023-01-03T04:12:43.665Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 이보영 "비바람 몰아쳐 드릴 것"...조력자 공개]]></title>
         <id>https://v.daum.net/v/20230103115330401</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230103102027559"/>
         <updated>2023-01-03T02:08:48.267Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연 “정경호, 상냥함과 친절함으로 사람 끌어들이는 매력있다”]]></title>
-        <id>https://v.daum.net/v/20230103101647390</id>
-        <link href="https://v.daum.net/v/20230103101647390"/>
-        <updated>2023-01-03T02:08:48.269Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘두뇌공조’ 정용화, 1년 6개월만 안방극장 복귀…이전과는 다르다]]></title>
-        <id>https://v.daum.net/v/20230103101540352</id>
-        <link href="https://v.daum.net/v/20230103101540352"/>
-        <updated>2023-01-03T02:08:48.272Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연 “정경호, 상냥함으로 사람 끌어들이는 매력 있어”]]></title>
-        <id>https://v.daum.net/v/20230103100718039</id>
-        <link href="https://v.daum.net/v/20230103100718039"/>
-        <updated>2023-01-03T02:08:48.274Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
