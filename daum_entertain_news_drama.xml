@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-03T12:19:45.518Z</updated>
+    <updated>2023-01-03T13:18:04.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조각미남 최시원, 100kg 거구로 완성한 인생캐]]></title>
+        <id>https://v.daum.net/v/20230103215022726</id>
+        <link href="https://v.daum.net/v/20230103215022726"/>
+        <updated>2023-01-03T13:17:53.242Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 고수, 첫사랑 임선우와 재회…최명빈 친부 아니었다]]></title>
         <id>https://v.daum.net/v/20230103211844462</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103183713276"/>
         <updated>2023-01-03T10:11:18.401Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교·한소희, 이응복 감독 빠진 ‘자백의 대가’ 출연할까]]></title>
-        <id>https://v.daum.net/v/20230103180806637</id>
-        <link href="https://v.daum.net/v/20230103180806637"/>
-        <updated>2023-01-03T09:11:06.224Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
