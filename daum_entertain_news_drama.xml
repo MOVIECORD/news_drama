@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-04T08:13:48.829Z</updated>
+    <updated>2023-01-04T09:10:48.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌집' 언제 끝났더라? '더 글로리' 보느라]]></title>
+        <id>https://v.daum.net/v/20230104175530452</id>
+        <link href="https://v.daum.net/v/20230104175530452"/>
+        <updated>2023-01-04T09:10:37.685Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강남좀비', 지일주·박지연의 보급형 좀비 액션극 통할까]]></title>
         <id>https://v.daum.net/v/20230104165954818</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230104135656616"/>
         <updated>2023-01-04T05:09:48.063Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금새록, 스케이트 잘 타면서 유연석 앞에선 못 타는 척 ‘반전 매력’]]></title>
-        <id>https://v.daum.net/v/20230104135314533</id>
-        <link href="https://v.daum.net/v/20230104135314533"/>
-        <updated>2023-01-04T05:09:48.065Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
