@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-04T05:09:58.567Z</updated>
+    <updated>2023-01-04T06:13:40.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재록 ‘법쩐’ 합류, 이선균·김홍파와 호흡..카리스마 열연 ‘기대’]]></title>
+        <id>https://v.daum.net/v/20230104145342980</id>
+        <link href="https://v.daum.net/v/20230104145342980"/>
+        <updated>2023-01-04T06:13:29.830Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석 vs 정가람, 깜짝 선물로 비롯된 또 다른 파란의 시작]]></title>
+        <id>https://v.daum.net/v/20230104144127447</id>
+        <link href="https://v.daum.net/v/20230104144127447"/>
+        <updated>2023-01-04T06:13:29.832Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송지우, '금혼령' 이어 '더 글로리'까지 존재감 열일]]></title>
         <id>https://v.daum.net/v/20230104140003694</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230104114302464</id>
         <link href="https://v.daum.net/v/20230104114302464"/>
         <updated>2023-01-04T03:11:33.247Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 유명 가수 돌연사 범인 매니저였다…정용화·차태현 사건 해결]]></title>
-        <id>https://v.daum.net/v/20230104114001344</id>
-        <link href="https://v.daum.net/v/20230104114001344"/>
-        <updated>2023-01-04T03:11:33.250Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 허원서, ‘청춘월담’ 캐스팅..박형식 호위무사로 훈훈 케미]]></title>
-        <id>https://v.daum.net/v/20230104113719233</id>
-        <link href="https://v.daum.net/v/20230104113719233"/>
-        <updated>2023-01-04T03:11:33.251Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
