@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-04T21:10:35.046Z</updated>
+    <updated>2023-01-04T22:10:41.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 악마의 미소 임지연...임팩트 있는 빌런이 뜬다]]></title>
+        <id>https://v.daum.net/v/20230105070003559</id>
+        <link href="https://v.daum.net/v/20230105070003559"/>
+        <updated>2023-01-04T22:10:31.458Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학폭의 현실 고발한 ‘더 글로리’…메시지의 힘]]></title>
+        <id>https://v.daum.net/v/20230105063011126</id>
+        <link href="https://v.daum.net/v/20230105063011126"/>
+        <updated>2023-01-04T22:10:31.476Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’ 임지연·박성훈·이무생, 몰입 더한 ‘명품 악역’]]></title>
+        <id>https://v.daum.net/v/20230105063009122</id>
+        <link href="https://v.daum.net/v/20230105063009122"/>
+        <updated>2023-01-04T22:10:31.476Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['약한영웅'서 '더 글로리'까지… K드라마 중심 소재로 떠오른 '학폭']]></title>
         <id>https://v.daum.net/v/20230105060022609</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230104192124022"/>
         <updated>2023-01-04T11:09:25.511Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덕문스님 "방탄소년단 RM, 생각의 크기 남달라"]]></title>
-        <id>https://v.daum.net/v/20230104182804161</id>
-        <link href="https://v.daum.net/v/20230104182804161"/>
-        <updated>2023-01-04T10:12:09.501Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 언제 끝났더라? '더 글로리' 보느라]]></title>
-        <id>https://v.daum.net/v/20230104175530452</id>
-        <link href="https://v.daum.net/v/20230104175530452"/>
-        <updated>2023-01-04T09:10:37.685Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강남좀비', 지일주·박지연의 보급형 좀비 액션극 통할까]]></title>
-        <id>https://v.daum.net/v/20230104165954818</id>
-        <link href="https://v.daum.net/v/20230104165954818"/>
-        <updated>2023-01-04T08:13:37.556Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
