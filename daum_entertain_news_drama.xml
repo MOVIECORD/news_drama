@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-04T20:12:23.738Z</updated>
+    <updated>2023-01-04T21:10:35.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['약한영웅'서 '더 글로리'까지… K드라마 중심 소재로 떠오른 '학폭']]></title>
+        <id>https://v.daum.net/v/20230105060022609</id>
+        <link href="https://v.daum.net/v/20230105060022609"/>
+        <updated>2023-01-04T21:10:23.259Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채수빈, "결혼은 현실이지만 마음이 끌리는 男만날 것 같다"]]></title>
+        <id>https://v.daum.net/v/20230105060013587</id>
+        <link href="https://v.daum.net/v/20230105060013587"/>
+        <updated>2023-01-04T21:10:23.261Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[200억 대작인데…'더글로리'에 밀려난 '아일랜드', 이다희 연기력도 '글쎄']]></title>
         <id>https://v.daum.net/v/20230104212401016</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230104165954818"/>
         <updated>2023-01-04T08:13:37.556Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길, 반인반요 캐릭터 완성]]></title>
-        <id>https://v.daum.net/v/20230104163615952</id>
-        <link href="https://v.daum.net/v/20230104163615952"/>
-        <updated>2023-01-04T08:13:37.562Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕·중전 노리는 양동근X박선영 빌런..긴장감↑]]></title>
-        <id>https://v.daum.net/v/20230104160857021</id>
-        <link href="https://v.daum.net/v/20230104160857021"/>
-        <updated>2023-01-04T07:09:46.233Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
