@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-05T13:20:23.833Z</updated>
+    <updated>2023-01-05T14:10:48.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤준원, 새 드라마 '우연일까' 출연]]></title>
+        <id>https://v.daum.net/v/20230105224302103</id>
+        <link href="https://v.daum.net/v/20230105224302103"/>
+        <updated>2023-01-05T14:10:38.181Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 유연석·문가영, 불 꺼진 사무실에 갇혔다?]]></title>
+        <id>https://v.daum.net/v/20230105223301041</id>
+        <link href="https://v.daum.net/v/20230105223301041"/>
+        <updated>2023-01-05T14:10:38.194Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최윤라, "난 오빠를 되찾을거야"...백성현 향한 집착X광기 시작]]></title>
         <id>https://v.daum.net/v/20230105212302218</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230105174003569"/>
         <updated>2023-01-05T09:10:54.972Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 이성민·송중기→'대행사' 이보영·조성하 바통터치]]></title>
-        <id>https://v.daum.net/v/20230105171026657</id>
-        <link href="https://v.daum.net/v/20230105171026657"/>
-        <updated>2023-01-05T08:14:08.477Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호 "전도연과 연기 호흡, 가문의 영광"]]></title>
-        <id>https://v.daum.net/v/20230105165631139</id>
-        <link href="https://v.daum.net/v/20230105165631139"/>
-        <updated>2023-01-05T08:14:08.478Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
