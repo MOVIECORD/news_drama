@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-05T12:19:36.739Z</updated>
+    <updated>2023-01-05T13:20:23.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤라, "난 오빠를 되찾을거야"...백성현 향한 집착X광기 시작]]></title>
+        <id>https://v.daum.net/v/20230105212302218</id>
+        <link href="https://v.daum.net/v/20230105212302218"/>
+        <updated>2023-01-05T13:20:11.421Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘태풍의 신부’ 손창민, 기억 찾은 지수원 납치→박하나 오열 ‘충격 엔딩’]]></title>
         <id>https://v.daum.net/v/20230105203500512</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105165631139"/>
         <updated>2023-01-05T08:14:08.478Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교만 낯설어? '더 글로리' 흥행 속 이무생→신예은의 재발견]]></title>
-        <id>https://v.daum.net/v/20230105165601123</id>
-        <link href="https://v.daum.net/v/20230105165601123"/>
-        <updated>2023-01-05T08:14:08.478Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
