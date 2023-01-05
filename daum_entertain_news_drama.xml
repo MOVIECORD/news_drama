@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-05T20:11:36.550Z</updated>
+    <updated>2023-01-05T21:10:09.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최민호 "신인시절 섰던 서울가요대상 MC 영광"]]></title>
+        <id>https://v.daum.net/v/20230106060011999</id>
+        <link href="https://v.daum.net/v/20230106060011999"/>
+        <updated>2023-01-05T21:09:58.692Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아·오윤아, 채널A ‘가면의 여왕’ 출연 확정]]></title>
         <id>https://v.daum.net/v/20230106003008805</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105195049580"/>
         <updated>2023-01-05T11:09:32.104Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제가 착하게 생겼나요?"…이보영, 욕망지향적 독한 상사로 변신]]></title>
-        <id>https://v.daum.net/v/20230105185002367</id>
-        <link href="https://v.daum.net/v/20230105185002367"/>
-        <updated>2023-01-05T10:11:49.731Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
