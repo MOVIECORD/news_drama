@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-05T10:12:01.397Z</updated>
+    <updated>2023-01-05T11:10:34.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정혜수입니다"..'마녀의게임' 한지완, 스텔라 정 정체에 '깜짝']]></title>
+        <id>https://v.daum.net/v/20230105195049580</id>
+        <link href="https://v.daum.net/v/20230105195049580"/>
+        <updated>2023-01-05T11:09:32.104Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제가 착하게 생겼나요?"…이보영, 욕망지향적 독한 상사로 변신]]></title>
         <id>https://v.daum.net/v/20230105185002367</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230105160351276"/>
         <updated>2023-01-05T07:09:43.057Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현, '더 글로리'로 인생캐 경신..송혜교와 밀도 있는 열연]]></title>
-        <id>https://v.daum.net/v/20230105155633981</id>
-        <link href="https://v.daum.net/v/20230105155633981"/>
-        <updated>2023-01-05T07:09:43.059Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
