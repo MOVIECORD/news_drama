@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-06T11:09:40.584Z</updated>
+    <updated>2023-01-06T12:29:56.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 황민현에 '인상 팍'→금새 화기애애 "사진 찍다 화해한 썰 풀어요"]]></title>
+        <id>https://v.daum.net/v/20230106204932840</id>
+        <link href="https://v.daum.net/v/20230106204932840"/>
+        <updated>2023-01-06T12:29:45.780Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 지수원 납치범으로 손창민 의심 "강백산!"]]></title>
+        <id>https://v.daum.net/v/20230106204137726</id>
+        <link href="https://v.daum.net/v/20230106204137726"/>
+        <updated>2023-01-06T12:29:45.781Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍의 신부’ 母 납치 된 박하나, 복수 위해 강지섭 이용 “결혼해줘”]]></title>
+        <id>https://v.daum.net/v/20230106203500629</id>
+        <link href="https://v.daum.net/v/20230106203500629"/>
+        <updated>2023-01-06T12:29:45.782Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박하나, 납치된 지수원 찾으려 강지섭에게 청혼..."나랑 결혼해줘"]]></title>
+        <id>https://v.daum.net/v/20230106203301588</id>
+        <link href="https://v.daum.net/v/20230106203301588"/>
+        <updated>2023-01-06T12:29:45.783Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마녀의게임' 김시헌, 장서희 위해 자수 결심→오창석에 당했다]]></title>
         <id>https://v.daum.net/v/20230106195536890</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230106172824219"/>
         <updated>2023-01-06T09:10:55.559Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충격에 빠진 김영대, 김우석과 '보쌈꾼 조직 추적' 사투]]></title>
-        <id>https://v.daum.net/v/20230106170520681</id>
-        <link href="https://v.daum.net/v/20230106170520681"/>
-        <updated>2023-01-06T08:13:46.350Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS "수목극 잠정 중단 NO, 수시 편성"]]></title>
-        <id>https://v.daum.net/v/20230106170507674</id>
-        <link href="https://v.daum.net/v/20230106170507674"/>
-        <updated>2023-01-06T08:13:46.350Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성오, '임팩트 甲']]></title>
-        <id>https://v.daum.net/v/20230106170401645</id>
-        <link href="https://v.daum.net/v/20230106170401645"/>
-        <updated>2023-01-06T08:13:46.352Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 이선균, 15년만에 SBS 드라마로…금토극 명성 이을까]]></title>
-        <id>https://v.daum.net/v/20230106170312628</id>
-        <link href="https://v.daum.net/v/20230106170312628"/>
-        <updated>2023-01-06T08:13:46.353Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
