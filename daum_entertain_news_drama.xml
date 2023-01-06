@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-06T03:12:31.073Z</updated>
+    <updated>2023-01-06T04:12:48.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 조민욱, "몸을 잘 쓰는 배우..시즌2에서 뵐게요"]]></title>
+        <id>https://v.daum.net/v/20230106130431286</id>
+        <link href="https://v.daum.net/v/20230106130431286"/>
+        <updated>2023-01-06T04:12:37.214Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS 수목극 잠정 중단…‘어쩌다 마주친, 그대’ 월화극 편성]]></title>
+        <id>https://v.daum.net/v/20230106123807908</id>
+        <link href="https://v.daum.net/v/20230106123807908"/>
+        <updated>2023-01-06T04:12:37.224Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 파트2, 3월 10일 공개? 넷플릭스 "아직 미정"]]></title>
+        <id>https://v.daum.net/v/20230106123430829</id>
+        <link href="https://v.daum.net/v/20230106123430829"/>
+        <updated>2023-01-06T04:12:37.231Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장영남X김선영X황보라, 보기만 해도 재밌네…신스틸러 군단]]></title>
         <id>https://v.daum.net/v/20230106115423936</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230106094300537"/>
         <updated>2023-01-06T00:52:51.285Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 조민욱 “이도현, 현장 낯선 나 많이 배려해주더라”]]></title>
-        <id>https://v.daum.net/v/20230106094020431</id>
-        <link href="https://v.daum.net/v/20230106094020431"/>
-        <updated>2023-01-06T00:52:51.286Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성오 혈투 끝에 사망→채종협♥서은수 눈물]]></title>
-        <id>https://v.daum.net/v/20230106093938391</id>
-        <link href="https://v.daum.net/v/20230106093938391"/>
-        <updated>2023-01-06T00:52:51.290Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간 풍선’ 바람 들통났나? 이성재X윤주상 살 떨리는 독대 포착]]></title>
-        <id>https://v.daum.net/v/20230106093914379</id>
-        <link href="https://v.daum.net/v/20230106093914379"/>
-        <updated>2023-01-06T00:52:51.290Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
