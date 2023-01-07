@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-07T08:12:50.960Z</updated>
+    <updated>2023-01-07T09:09:33.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제나 오르테가 또 본다..넷플릭스 '웬즈데이' 시즌2 제작 확정]]></title>
+        <id>https://v.daum.net/v/20230107173005583</id>
+        <link href="https://v.daum.net/v/20230107173005583"/>
+        <updated>2023-01-07T09:09:23.476Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 김영대, 박주현에 커지는 마음…진심 전할 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230107172406541</id>
+        <link href="https://v.daum.net/v/20230107172406541"/>
+        <updated>2023-01-07T09:09:23.476Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법쩐' 이선균, 몽골로 떠났던 이유 밝혀진다]]></title>
         <id>https://v.daum.net/v/20230107170710437</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230107115401767"/>
         <updated>2023-01-07T03:11:30.738Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 이선균, 10년 만의 귀환 엔딩…시청률 8.7% 출발]]></title>
-        <id>https://v.daum.net/v/20230107112338456</id>
-        <link href="https://v.daum.net/v/20230107112338456"/>
-        <updated>2023-01-07T03:11:30.739Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노민우, '금혼령' 특별 출연…일촉즉발 위기 조성→강렬한 존재감]]></title>
-        <id>https://v.daum.net/v/20230107111023329</id>
-        <link href="https://v.daum.net/v/20230107111023329"/>
-        <updated>2023-01-07T02:11:23.497Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
