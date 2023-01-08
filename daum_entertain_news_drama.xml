@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-08T18:11:57.283Z</updated>
+    <updated>2023-01-08T19:09:01.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환혼2' 이재욱·고윤정, 화조 물리쳤다→부부로 새 삶]]></title>
+        <id>https://v.daum.net/v/20230109033000129</id>
+        <link href="https://v.daum.net/v/20230109033000129"/>
+        <updated>2023-01-08T19:08:50.040Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1년 시한부 임원’ 이보영, 조성하에 독기 품었다..김대곤 팀원 강등]]></title>
         <id>https://v.daum.net/v/20230109010721608</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108221514823"/>
         <updated>2023-01-08T14:08:55.216Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼2' 도상우, 화조 차지→박은혜·오나라·유준상 장례식]]></title>
-        <id>https://v.daum.net/v/20230108221416820</id>
-        <link href="https://v.daum.net/v/20230108221416820"/>
-        <updated>2023-01-08T14:08:55.218Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
