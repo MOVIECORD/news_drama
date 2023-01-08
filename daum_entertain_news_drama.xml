@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-08T06:12:56.102Z</updated>
+    <updated>2023-01-08T07:10:15.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍수현 vs 윤미라 아수라장 고부전쟁, 여기에 서지혜가 왜 나와]]></title>
+        <id>https://v.daum.net/v/20230108152819404</id>
+        <link href="https://v.daum.net/v/20230108152819404"/>
+        <updated>2023-01-08T07:09:12.994Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘법쩐’ 글로벌 돈장사꾼 이선균 참교육 시동..“가족은 냅뒀어야지!”]]></title>
         <id>https://v.daum.net/v/20230108150229805</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108113024330"/>
         <updated>2023-01-08T03:11:46.523Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금혼령’ 박주현X김영대, 입맞춤으로 마음 확인…궁궐 떠난 김우석]]></title>
-        <id>https://v.daum.net/v/20230108112701264</id>
-        <link href="https://v.daum.net/v/20230108112701264"/>
-        <updated>2023-01-08T03:11:46.524Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
