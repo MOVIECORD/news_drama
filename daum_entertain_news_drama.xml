@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-09T13:19:45.521Z</updated>
+    <updated>2023-01-09T14:12:53.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 김동휘, 고수에 마약 배달원 과거 고백…진범 정윤재 잡을까]]></title>
+        <id>https://v.daum.net/v/20230109225006079</id>
+        <link href="https://v.daum.net/v/20230109225006079"/>
+        <updated>2023-01-09T14:12:42.363Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김향기에게 사랑의 라이벌이? ‘풍우커플’ 흔드는 옹주의 등장]]></title>
         <id>https://v.daum.net/v/20230109220830829</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230109183509744"/>
         <updated>2023-01-09T10:12:35.405Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈, 러블리+긍정 에너지…'술도녀2' 촬영 비하인드]]></title>
-        <id>https://v.daum.net/v/20230109173838279</id>
-        <link href="https://v.daum.net/v/20230109173838279"/>
-        <updated>2023-01-09T09:11:10.930Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
