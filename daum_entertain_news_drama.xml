@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-09T12:20:55.090Z</updated>
+    <updated>2023-01-09T13:19:45.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김향기에게 사랑의 라이벌이? ‘풍우커플’ 흔드는 옹주의 등장]]></title>
+        <id>https://v.daum.net/v/20230109220830829</id>
+        <link href="https://v.daum.net/v/20230109220830829"/>
+        <updated>2023-01-09T13:19:34.864Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 이정은, 실종 아동 김하언 영혼 마을 떠나자 '감격']]></title>
+        <id>https://v.daum.net/v/20230109220559806</id>
+        <link href="https://v.daum.net/v/20230109220559806"/>
+        <updated>2023-01-09T13:19:34.867Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 김동휘, 고수에 과거사 고백…"정윤재가 골리앗"]]></title>
         <id>https://v.daum.net/v/20230109211747194</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230109173838279"/>
         <updated>2023-01-09T09:11:10.930Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 정경호♥장도연, 10살 나이차 뛰어넘는 사랑 보여줄까]]></title>
-        <id>https://v.daum.net/v/20230109173002002</id>
-        <link href="https://v.daum.net/v/20230109173002002"/>
-        <updated>2023-01-09T09:11:10.930Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 이해’ 유연석-문가영-금새록-정가람, 각양각색 사랑의 형태]]></title>
-        <id>https://v.daum.net/v/20230109170802202</id>
-        <link href="https://v.daum.net/v/20230109170802202"/>
-        <updated>2023-01-09T08:14:21.208Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
