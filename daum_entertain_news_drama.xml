@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-10T20:11:19.651Z</updated>
+    <updated>2023-01-10T21:10:49.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교가 열고 한소희·고현정이 닫는다…'더글로리' 대박에도 안심 못하는 이유]]></title>
+        <id>https://v.daum.net/v/20230111060802296</id>
+        <link href="https://v.daum.net/v/20230111060802296"/>
+        <updated>2023-01-10T21:10:38.046Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힐링→로맨스까지 업그레이드 ‘유세풍2’ 이젠 시청률까지 잡을까]]></title>
+        <id>https://v.daum.net/v/20230111060105126</id>
+        <link href="https://v.daum.net/v/20230111060105126"/>
+        <updated>2023-01-10T21:10:38.046Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["회당 수억 피해"…'더 글로리'·'재벌집' 울린 中 도둑시청]]></title>
+        <id>https://v.daum.net/v/20230111060024040</id>
+        <link href="https://v.daum.net/v/20230111060024040"/>
+        <updated>2023-01-10T21:10:38.050Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['두뇌공조' 곽선영, 부상→두뇌개조.."미쳤습니다"]]></title>
+        <id>https://v.daum.net/v/20230111060014012</id>
+        <link href="https://v.daum.net/v/20230111060014012"/>
+        <updated>2023-01-10T21:10:38.050Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이태원 클라쓰’ OST ‘시작’ MV 1억뷰…2020년대 작품 최초]]></title>
         <id>https://v.daum.net/v/20230111000009744</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230110202412245"/>
         <updated>2023-01-10T12:19:46.543Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나·강지섭, 둘만의 결혼식..손창민과 대면]]></title>
-        <id>https://v.daum.net/v/20230110201121052</id>
-        <link href="https://v.daum.net/v/20230110201121052"/>
-        <updated>2023-01-10T12:19:46.545Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 장서희, 선우재덕에 이혼 요구 "마음대로 살고 싶어"]]></title>
-        <id>https://v.daum.net/v/20230110195458718</id>
-        <link href="https://v.daum.net/v/20230110195458718"/>
-        <updated>2023-01-10T11:09:45.083Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 반효정, 子 죽인 김시헌에 분노 "살려두지 않겠어"]]></title>
-        <id>https://v.daum.net/v/20230110192812210</id>
-        <link href="https://v.daum.net/v/20230110192812210"/>
-        <updated>2023-01-10T11:09:45.083Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세' 최현욱, '약한영웅' 찍고 'D.P.' 시즌2 출연]]></title>
-        <id>https://v.daum.net/v/20230110192016063</id>
-        <link href="https://v.daum.net/v/20230110192016063"/>
-        <updated>2023-01-10T11:09:45.083Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
