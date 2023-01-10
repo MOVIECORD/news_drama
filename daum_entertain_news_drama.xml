@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-10T04:14:29.382Z</updated>
+    <updated>2023-01-10T05:09:55.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식x전소니, 누명과 저주? 특별한 관계성]]></title>
+        <id>https://v.daum.net/v/20230110140845893</id>
+        <link href="https://v.daum.net/v/20230110140845893"/>
+        <updated>2023-01-10T05:09:44.691Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미씽2’ 남현우, 고수X김동휘 향해 권총 장전…’충격 전개’ 예고]]></title>
+        <id>https://v.daum.net/v/20230110134331052</id>
+        <link href="https://v.daum.net/v/20230110134331052"/>
+        <updated>2023-01-10T05:09:44.692Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균X문채원 '법쩐', 동시간대 1위로 출발…"통쾌함 안길 것"]]></title>
         <id>https://v.daum.net/v/20230110130856070</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230110103513481"/>
         <updated>2023-01-10T02:18:46.914Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술도녀2' 최시원, '강북구 앓이' 양산 중…든든美 홀릭]]></title>
-        <id>https://v.daum.net/v/20230110103127315</id>
-        <link href="https://v.daum.net/v/20230110103127315"/>
-        <updated>2023-01-10T02:18:46.914Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위너 김진우, ‘순정복서’ 출연 확정..김소혜의 첫사랑]]></title>
-        <id>https://v.daum.net/v/20230110102920179</id>
-        <link href="https://v.daum.net/v/20230110102920179"/>
-        <updated>2023-01-10T02:18:46.914Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
