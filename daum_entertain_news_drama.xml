@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-10T10:11:19.645Z</updated>
+    <updated>2023-01-10T11:09:56.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희, 선우재덕에 이혼 요구 "마음대로 살고 싶어"]]></title>
+        <id>https://v.daum.net/v/20230110195458718</id>
+        <link href="https://v.daum.net/v/20230110195458718"/>
+        <updated>2023-01-10T11:09:45.083Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 반효정, 子 죽인 김시헌에 분노 "살려두지 않겠어"]]></title>
+        <id>https://v.daum.net/v/20230110192812210</id>
+        <link href="https://v.daum.net/v/20230110192812210"/>
+        <updated>2023-01-10T11:09:45.083Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대세' 최현욱, '약한영웅' 찍고 'D.P.' 시즌2 출연]]></title>
+        <id>https://v.daum.net/v/20230110192016063</id>
+        <link href="https://v.daum.net/v/20230110192016063"/>
+        <updated>2023-01-10T11:09:45.083Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로맨스 몰빵한 '유세풍2', 김민재♥김향기에 심쿵할 준비 완료]]></title>
         <id>https://v.daum.net/v/20230110185002531</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230110160927459"/>
         <updated>2023-01-10T07:09:53.648Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재♥김향기 멜로신, 가슴 콩닥콩닥 거려서 잠 못 이룰정도라니]]></title>
-        <id>https://v.daum.net/v/20230110160509262</id>
-        <link href="https://v.daum.net/v/20230110160509262"/>
-        <updated>2023-01-10T07:09:53.652Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱 측, “'D.P.' 시즌2 출연 맞아”..한준희 감독과 재회]]></title>
-        <id>https://v.daum.net/v/20230110160220147</id>
-        <link href="https://v.daum.net/v/20230110160220147"/>
-        <updated>2023-01-10T07:09:53.655Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선 정신과 의사 유세풍', 시즌2의 무기는 로맨스]]></title>
-        <id>https://v.daum.net/v/20230110154818615</id>
-        <link href="https://v.daum.net/v/20230110154818615"/>
-        <updated>2023-01-10T07:09:53.655Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
