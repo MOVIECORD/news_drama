@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-11T12:20:38.132Z</updated>
+    <updated>2023-01-11T13:22:05.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최태준, '아일랜드' 역대급 캐릭터..연기 변신]]></title>
+        <id>https://v.daum.net/v/20230111220401658</id>
+        <link href="https://v.daum.net/v/20230111220401658"/>
+        <updated>2023-01-11T13:21:54.708Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유세풍2' 첫방 D-day..김민재x김향기x김상경 혼쭐내러 왔습니다]]></title>
+        <id>https://v.daum.net/v/20230111214115224</id>
+        <link href="https://v.daum.net/v/20230111214115224"/>
+        <updated>2023-01-11T13:21:54.722Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유동근 "오랜만에 무대…'연극배우' 수식어는 못 달 것 같아"]]></title>
         <id>https://v.daum.net/v/20230111204010380</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230111151601611</id>
         <link href="https://v.daum.net/v/20230111151601611"/>
         <updated>2023-01-11T07:20:32.311Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 넷플릭스 비영어권 1위, 누적 시청 1억 시간 돌파]]></title>
-        <id>https://v.daum.net/v/20230111151502564</id>
-        <link href="https://v.daum.net/v/20230111151502564"/>
-        <updated>2023-01-11T07:20:32.311Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 이해’ 유연석-문가영-금새록, 고백 후 첫 삼자대면 포착]]></title>
-        <id>https://v.daum.net/v/20230111144554207</id>
-        <link href="https://v.daum.net/v/20230111144554207"/>
-        <updated>2023-01-11T06:13:55.595Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
