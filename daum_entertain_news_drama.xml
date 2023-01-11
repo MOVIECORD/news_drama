@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-11T08:15:30.380Z</updated>
+    <updated>2023-01-11T09:13:50.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["하이퍼리얼리즘인 줄" 문영남 작가X서지혜 '빨간풍선', 이러니 공감할 수밖에]]></title>
+        <id>https://v.daum.net/v/20230111180654599</id>
+        <link href="https://v.daum.net/v/20230111180654599"/>
+        <updated>2023-01-11T09:12:48.121Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조윤수 ‘사랑의 이해’ 합류…러브라인 흔드나]]></title>
+        <id>https://v.daum.net/v/20230111172100896</id>
+        <link href="https://v.daum.net/v/20230111172100896"/>
+        <updated>2023-01-11T09:12:48.142Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 연기력 논란은 옛말…'외모' 아닌 '연기'로 인정받았다]]></title>
         <id>https://v.daum.net/v/20230111170002023</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230111135138088"/>
         <updated>2023-01-11T05:10:18.243Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유세풍2’ 측 “김민재X김향기 설레는 재회, 로맨스 깊어진다”]]></title>
-        <id>https://v.daum.net/v/20230111135122079</id>
-        <link href="https://v.daum.net/v/20230111135122079"/>
-        <updated>2023-01-11T05:10:18.243Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재♥김향기 꿀 떨어지는 재회, 오늘부터 시작]]></title>
-        <id>https://v.daum.net/v/20230111134031820</id>
-        <link href="https://v.daum.net/v/20230111134031820"/>
-        <updated>2023-01-11T05:10:18.244Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
