@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-11T22:11:55.861Z</updated>
+    <updated>2023-01-11T23:10:52.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민규X고보결 ‘성스러운 아이돌’ 2월 15일 첫방송 확정]]></title>
+        <id>https://v.daum.net/v/20230112080430632</id>
+        <link href="https://v.daum.net/v/20230112080430632"/>
+        <updated>2023-01-11T23:10:41.434Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석, 금새록에 마음 열고…문가영, 이별통보 정가람에 손 내밀었다]]></title>
+        <id>https://v.daum.net/v/20230112075530472</id>
+        <link href="https://v.daum.net/v/20230112075530472"/>
+        <updated>2023-01-11T23:10:41.434Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임수향 "김정현과 로맨스 드라마 커플 중 가장 많이 싸울 것"]]></title>
+        <id>https://v.daum.net/v/20230112074924359</id>
+        <link href="https://v.daum.net/v/20230112074924359"/>
+        <updated>2023-01-11T23:10:41.434Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꼭두의 계절’ 임수향 “로맨스 드라마 커플 중 가장 많이 싸울듯”]]></title>
+        <id>https://v.daum.net/v/20230112072409972</id>
+        <link href="https://v.daum.net/v/20230112072409972"/>
+        <updated>2023-01-11T23:10:41.434Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 글로리’ 속 송혜교만큼 눈에 띄는 ‘학폭’ 가해자 삼인방]]></title>
         <id>https://v.daum.net/v/20230112070302737</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230111230329140"/>
         <updated>2023-01-11T15:21:16.674Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태준, '아일랜드' 역대급 캐릭터..연기 변신]]></title>
-        <id>https://v.daum.net/v/20230111220401658</id>
-        <link href="https://v.daum.net/v/20230111220401658"/>
-        <updated>2023-01-11T13:21:54.708Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍2' 첫방 D-day..김민재x김향기x김상경 혼쭐내러 왔습니다]]></title>
-        <id>https://v.daum.net/v/20230111214115224</id>
-        <link href="https://v.daum.net/v/20230111214115224"/>
-        <updated>2023-01-11T13:21:54.722Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유동근 "오랜만에 무대…'연극배우' 수식어는 못 달 것 같아"]]></title>
-        <id>https://v.daum.net/v/20230111204010380</id>
-        <link href="https://v.daum.net/v/20230111204010380"/>
-        <updated>2023-01-11T12:19:35.902Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 손창민, 박하나 합병 제안 승낙]]></title>
-        <id>https://v.daum.net/v/20230111203217240</id>
-        <link href="https://v.daum.net/v/20230111203217240"/>
-        <updated>2023-01-11T12:19:35.904Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
