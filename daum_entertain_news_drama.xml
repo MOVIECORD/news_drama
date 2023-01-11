@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-11T15:21:28.427Z</updated>
+    <updated>2023-01-11T16:20:39.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재♥김향기 포옹 재회→조태학 귀신 소동 등 빠른 전개]]></title>
+        <id>https://v.daum.net/v/20230112010023058</id>
+        <link href="https://v.daum.net/v/20230112010023058"/>
+        <updated>2023-01-11T16:20:31.254Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 방 '유세풍2' 김민재♥김향기 재회로 깊어진 로맨스 "그리웠다"]]></title>
         <id>https://v.daum.net/v/20230112001003749</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230111192616180"/>
         <updated>2023-01-11T11:09:25.468Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하이퍼리얼리즘인 줄" 문영남 작가X서지혜 '빨간풍선', 이러니 공감할 수밖에]]></title>
-        <id>https://v.daum.net/v/20230111180654599</id>
-        <link href="https://v.daum.net/v/20230111180654599"/>
-        <updated>2023-01-11T09:12:48.121Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
