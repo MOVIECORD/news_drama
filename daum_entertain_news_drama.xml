@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-12T09:12:59.418Z</updated>
+    <updated>2023-01-12T10:14:09.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“할머니가 위독→울릉도에 배가 안떴다”..김정주의 다사다난한 24시간 편의점 대기조]]></title>
+        <id>https://v.daum.net/v/20230112183620592</id>
+        <link href="https://v.daum.net/v/20230112183620592"/>
+        <updated>2023-01-12T10:13:59.536Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박소담X서인국, '이제 곧 죽습니다' 출연?…"긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230112183026481</id>
+        <link href="https://v.daum.net/v/20230112183026481"/>
+        <updated>2023-01-12T10:13:59.541Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주현 측, NCT 태용과 열애설에 "단순 친구 사이…사실무근"]]></title>
+        <id>https://v.daum.net/v/20230112182431371</id>
+        <link href="https://v.daum.net/v/20230112182431371"/>
+        <updated>2023-01-12T10:13:59.542Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBN "'미스터트롯2' 김용필, 소속 아나운서 아냐"]]></title>
+        <id>https://v.daum.net/v/20230112181319123</id>
+        <link href="https://v.daum.net/v/20230112181319123"/>
+        <updated>2023-01-12T10:13:59.542Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초등교사·의사도 망나니 아닌데…왜 기상캐스터만 '더 글로리' 반박할까]]></title>
         <id>https://v.daum.net/v/20230112180801946</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230112155802476"/>
         <updated>2023-01-12T07:10:25.560Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최민식 추적' 손석구, 고액 도박 현장 잡으려 몰카 촬영까지]]></title>
-        <id>https://v.daum.net/v/20230112155325279</id>
-        <link href="https://v.daum.net/v/20230112155325279"/>
-        <updated>2023-01-12T07:10:25.563Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카지노', 고작 이거 하려고 최민식·손석구 캐스팅한 건가]]></title>
-        <id>https://v.daum.net/v/20230112154709063</id>
-        <link href="https://v.daum.net/v/20230112154709063"/>
-        <updated>2023-01-12T07:10:25.571Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 홍수현 밀어내나…이상우 옆에 찰싹]]></title>
-        <id>https://v.daum.net/v/20230112154329943</id>
-        <link href="https://v.daum.net/v/20230112154329943"/>
-        <updated>2023-01-12T07:10:25.572Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국의 양조위" 정성일, '더 글로리' 사약남이 뜬다]]></title>
-        <id>https://v.daum.net/v/20230112152220041</id>
-        <link href="https://v.daum.net/v/20230112152220041"/>
-        <updated>2023-01-12T07:10:25.574Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
