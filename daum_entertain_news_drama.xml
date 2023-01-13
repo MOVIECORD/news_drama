@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-13T12:21:59.153Z</updated>
+    <updated>2023-01-13T13:19:00.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균, 문채원과 10년만에 재회..."많이 늦었지"]]></title>
+        <id>https://v.daum.net/v/20230113221024611</id>
+        <link href="https://v.daum.net/v/20230113221024611"/>
+        <updated>2023-01-13T13:18:51.124Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성재·윤주상·윤미라·김혜선 동상이몽]]></title>
+        <id>https://v.daum.net/v/20230113215743480</id>
+        <link href="https://v.daum.net/v/20230113215743480"/>
+        <updated>2023-01-13T13:18:51.126Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 지수원 감금된 정신병원 찾았다…'눈물의 재회' 성공?]]></title>
         <id>https://v.daum.net/v/20230113204515744</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230113171455350"/>
         <updated>2023-01-13T12:21:46.225Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채아, SBS '꽃선비 열애사' 출연 확정..쉼 없는 열일 행보]]></title>
-        <id>https://v.daum.net/v/20230113170424024</id>
-        <link href="https://v.daum.net/v/20230113170424024"/>
-        <updated>2023-01-13T12:21:46.231Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금혼령’ 김우석 날카로운 눈빛, 다급히 박선영 찾아간 사연은?]]></title>
-        <id>https://v.daum.net/v/20230113165650778</id>
-        <link href="https://v.daum.net/v/20230113165650778"/>
-        <updated>2023-01-13T12:21:46.237Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
