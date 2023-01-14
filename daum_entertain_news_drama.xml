@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-14T04:12:22.536Z</updated>
+    <updated>2023-01-14T05:09:29.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘금혼령’ 박주현X김우석, 낯선 공간에서 애틋한 만남]]></title>
+        <id>https://v.daum.net/v/20230114140717775</id>
+        <link href="https://v.daum.net/v/20230114140717775"/>
+        <updated>2023-01-14T05:09:17.926Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선우정아, 이보영 주연 '대행사' OST 가창…오늘 '말해요' 발매]]></title>
         <id>https://v.daum.net/v/20230114124026254</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114092818458"/>
         <updated>2023-01-14T00:49:38.536Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균X문채원 '법쩐', 최고 10.7% '전 채널 동시간대 1위']]></title>
-        <id>https://v.daum.net/v/20230114092527428</id>
-        <link href="https://v.daum.net/v/20230114092527428"/>
-        <updated>2023-01-14T00:49:38.539Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
