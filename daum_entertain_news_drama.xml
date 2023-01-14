@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-14T02:08:07.295Z</updated>
+    <updated>2023-01-14T03:12:37.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨간 풍선' 서지혜, '친구 남편' 이상우와 키스 1초 전]]></title>
+        <id>https://v.daum.net/v/20230114113900871</id>
+        <link href="https://v.daum.net/v/20230114113900871"/>
+        <updated>2023-01-14T03:11:35.297Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주현, 연기대상 우수상 이름값…'금혼령' 이끄는 열연]]></title>
+        <id>https://v.daum.net/v/20230114112355754</id>
+        <link href="https://v.daum.net/v/20230114112355754"/>
+        <updated>2023-01-14T03:11:35.297Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주현♥︎김영대, 짜릿한 입맞춤→’충격’ 정체 발각까지]]></title>
         <id>https://v.daum.net/v/20230114105231475</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230114082601737"/>
         <updated>2023-01-14T00:49:38.544Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들', 첫방 D-DAY.."전도연X정경호 로맨틱 시너지"]]></title>
-        <id>https://v.daum.net/v/20230114081940693</id>
-        <link href="https://v.daum.net/v/20230114081940693"/>
-        <updated>2023-01-14T00:49:38.546Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현, 긴 머리 풀어 헤치고 ♥김영대와 짜릿 입맞춤…거짓 신기 발각]]></title>
-        <id>https://v.daum.net/v/20230114080401583</id>
-        <link href="https://v.daum.net/v/20230114080401583"/>
-        <updated>2023-01-13T23:10:21.596Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
