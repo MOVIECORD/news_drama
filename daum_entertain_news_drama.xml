@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-15T07:09:40.178Z</updated>
+    <updated>2023-01-15T08:13:18.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정은 붉어진 눈시울..'미씽2’ 측 뭉클+감동 예고]]></title>
+        <id>https://v.daum.net/v/20230115163324699</id>
+        <link href="https://v.daum.net/v/20230115163324699"/>
+        <updated>2023-01-15T08:13:07.551Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘일타 스캔들’ 전도연 입시맘 변신 프로젝트…첫 번째 미션은?]]></title>
         <id>https://v.daum.net/v/20230115153448583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115102403733"/>
         <updated>2023-01-15T02:17:26.438Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간 풍선' 서지혜, 들끓는 욕망+독기 본색 폭발]]></title>
-        <id>https://v.daum.net/v/20230115100819509</id>
-        <link href="https://v.daum.net/v/20230115100819509"/>
-        <updated>2023-01-15T02:17:26.439Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
