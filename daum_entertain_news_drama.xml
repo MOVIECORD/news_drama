@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-15T15:10:53.821Z</updated>
+    <updated>2023-01-15T16:12:56.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오예주 "청하의 밝고 활달한 성격 닮고 싶어요"]]></title>
+        <id>https://v.daum.net/v/20230116003147556</id>
+        <link href="https://v.daum.net/v/20230116003147556"/>
+        <updated>2023-01-15T16:12:46.361Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대행사' 이보영, 손나은과 첫 만남서 기선제압 "사고 치지 마라"]]></title>
+        <id>https://v.daum.net/v/20230116001228491</id>
+        <link href="https://v.daum.net/v/20230116001228491"/>
+        <updated>2023-01-15T16:12:46.361Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼남매' 임주환, 혼외자 죄책감에 이하나에 이혼 선언..정우진 납치]]></title>
         <id>https://v.daum.net/v/20230116000444442</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230115205404101</id>
         <link href="https://v.daum.net/v/20230115205404101"/>
         <updated>2023-01-15T12:17:23.470Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이모 임신 어떻게 알았어?” 이하나 실언, 왕빛나 임신 들통]]></title>
-        <id>https://v.daum.net/v/20230115204543006</id>
-        <link href="https://v.daum.net/v/20230115204543006"/>
-        <updated>2023-01-15T12:17:23.472Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가 용감하게' 임주환, ♥이하나 안고 오열 "나 어떡하지"]]></title>
-        <id>https://v.daum.net/v/20230115203810937</id>
-        <link href="https://v.daum.net/v/20230115203810937"/>
-        <updated>2023-01-15T12:17:23.472Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
