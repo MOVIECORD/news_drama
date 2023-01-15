@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-15T05:09:36.328Z</updated>
+    <updated>2023-01-15T06:13:32.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘일타 스캔들’ 강나언, 투명한 여우로 활약..노윤서와 성적 경쟁]]></title>
+        <id>https://v.daum.net/v/20230115142059194</id>
+        <link href="https://v.daum.net/v/20230115142059194"/>
+        <updated>2023-01-15T06:12:30.382Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 손나은X이보영 첫 만남, 눈만 마주쳐도 '스파크' 튀네]]></title>
         <id>https://v.daum.net/v/20230115134316569</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115100802504"/>
         <updated>2023-01-15T02:17:26.439Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기만 효자인 줄 알았는데 이보영도 효녀였네..‘대행사’ 시청률 쭉쭉 상승]]></title>
-        <id>https://v.daum.net/v/20230115091823833</id>
-        <link href="https://v.daum.net/v/20230115091823833"/>
-        <updated>2023-01-15T00:56:22.533Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
