@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-15T02:17:37.558Z</updated>
+    <updated>2023-01-15T03:12:30.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘빨간 풍선’ 서지혜, 홍수현·이상우 사이 이간질 ‘흥미진진’]]></title>
+        <id>https://v.daum.net/v/20230115113306813</id>
+        <link href="https://v.daum.net/v/20230115113306813"/>
+        <updated>2023-01-15T03:11:28.226Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정경호, 섭식 장애→전도연과 추격전 인연…첫방 4% 출발]]></title>
+        <id>https://v.daum.net/v/20230115111725597</id>
+        <link href="https://v.daum.net/v/20230115111725597"/>
+        <updated>2023-01-15T03:11:28.235Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국보다 미국 먼저…아무도 몰랐던 김민하, '파친코'로 글로벌 존재감]]></title>
         <id>https://v.daum.net/v/20230115110002226</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230115090557693"/>
         <updated>2023-01-15T00:56:22.541Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연X정경호, 달콤 쌉싸름 로맨스의 서막]]></title>
-        <id>https://v.daum.net/v/20230115090053607</id>
-        <link href="https://v.daum.net/v/20230115090053607"/>
-        <updated>2023-01-15T00:56:22.542Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 이보영 사이다 일갈, 시청률 6.5% 대폭 상승]]></title>
-        <id>https://v.daum.net/v/20230115085906511</id>
-        <link href="https://v.daum.net/v/20230115085906511"/>
-        <updated>2023-01-15T00:56:22.542Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
