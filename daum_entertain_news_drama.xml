@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-16T03:12:17.480Z</updated>
+    <updated>2023-01-16T04:14:33.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쓰러진 김현주, 달려온 박희순…그의 진심은?]]></title>
+        <id>https://v.daum.net/v/20230116131224834</id>
+        <link href="https://v.daum.net/v/20230116131224834"/>
+        <updated>2023-01-16T04:13:31.109Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘두뇌공조’ 차태현 노인 분장, 곽선영-스태프 박수 보낸 사연]]></title>
+        <id>https://v.daum.net/v/20230116131108798</id>
+        <link href="https://v.daum.net/v/20230116131108798"/>
+        <updated>2023-01-16T04:13:31.109Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘트롤리’ 제작진 “단단했던 김현주-박희순, 치명적 균열 발생”]]></title>
+        <id>https://v.daum.net/v/20230116130815755</id>
+        <link href="https://v.daum.net/v/20230116130815755"/>
+        <updated>2023-01-16T04:13:31.109Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보영이 '돈시오패스' 된 이유는? "사람들한테 버림받을까, 잊힐까 두려워서"]]></title>
+        <id>https://v.daum.net/v/20230116130332669</id>
+        <link href="https://v.daum.net/v/20230116130332669"/>
+        <updated>2023-01-16T04:13:31.115Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코', 美 크리틱스 어워즈 최우수 외국어 드라마상...'오겜' 바통터치 성공]]></title>
+        <id>https://v.daum.net/v/20230116125138493</id>
+        <link href="https://v.daum.net/v/20230116125138493"/>
+        <updated>2023-01-16T04:13:31.119Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 2막 돌입…감독X작가가 밝힌 관전포인트 넷]]></title>
         <id>https://v.daum.net/v/20230116114408861</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230116100449916"/>
         <updated>2023-01-16T02:14:30.837Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘트롤리’ 감독 “남겨진 성범죄 피해자 투쟁, 응원받길 바라는 마음”]]></title>
-        <id>https://v.daum.net/v/20230116100040720</id>
-        <link href="https://v.daum.net/v/20230116100040720"/>
-        <updated>2023-01-16T02:14:30.838Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영, 전도연 제쳤다… ‘대행사’ 10% 시청률 목전]]></title>
-        <id>https://v.daum.net/v/20230116095535477</id>
-        <link href="https://v.daum.net/v/20230116095535477"/>
-        <updated>2023-01-16T02:14:30.839Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소녀 리버스' 패자부활전 희비교차…드디어 탈락자 정체 공개]]></title>
-        <id>https://v.daum.net/v/20230116095237363</id>
-        <link href="https://v.daum.net/v/20230116095237363"/>
-        <updated>2023-01-16T02:14:30.840Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해', 엔딩→오프닝 유기적 연결로 몰입감↑…깜짝 반전까지]]></title>
-        <id>https://v.daum.net/v/20230116094523094</id>
-        <link href="https://v.daum.net/v/20230116094523094"/>
-        <updated>2023-01-16T00:52:27.926Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지빈, '살인자의 쇼핑목록' 이어 '살인자의 쇼핑몰' 확정..이동욱 만난다]]></title>
-        <id>https://v.daum.net/v/20230116094021882</id>
-        <link href="https://v.daum.net/v/20230116094021882"/>
-        <updated>2023-01-16T00:52:27.926Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
