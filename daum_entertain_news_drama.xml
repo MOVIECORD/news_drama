@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-16T10:12:10.573Z</updated>
+    <updated>2023-01-16T11:10:25.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100kg 됐던 최시원 "'술도녀2' 강북구 서사 공개=소중한 시간" 종영소감]]></title>
+        <id>https://v.daum.net/v/20230116193724676</id>
+        <link href="https://v.daum.net/v/20230116193724676"/>
+        <updated>2023-01-16T11:09:23.294Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 오창석, 한지완 배신 "김시헌 배후 한지완이라고 진술해"]]></title>
+        <id>https://v.daum.net/v/20230116192603554</id>
+        <link href="https://v.daum.net/v/20230116192603554"/>
+        <updated>2023-01-16T11:09:23.294Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 김현주, 병원 이송..한달음에 등장한 박희순]]></title>
         <id>https://v.daum.net/v/20230116184644024</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230116164018326"/>
         <updated>2023-01-16T08:14:23.046Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김다솜 "감정 숨기는 캐릭터, 표정 덜어내는 연습해"]]></title>
-        <id>https://v.daum.net/v/20230116162805812</id>
-        <link href="https://v.daum.net/v/20230116162805812"/>
-        <updated>2023-01-16T08:14:23.049Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌집 막내아들’에 ‘대행사’까지 터졌다 JTBC 함박웃음]]></title>
-        <id>https://v.daum.net/v/20230116162551707</id>
-        <link href="https://v.daum.net/v/20230116162551707"/>
-        <updated>2023-01-16T08:14:23.053Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
