@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-16T09:11:07.081Z</updated>
+    <updated>2023-01-16T10:12:10.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트롤리' 김현주, 병원 이송..한달음에 등장한 박희순]]></title>
+        <id>https://v.daum.net/v/20230116184644024</id>
+        <link href="https://v.daum.net/v/20230116184644024"/>
+        <updated>2023-01-16T10:12:01.247Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['박신혜♥' 최태준, 인간부터 요괴까지 완벽 소화 "'아일랜드' 차은우와 호흡 즐거워"]]></title>
+        <id>https://v.daum.net/v/20230116181115245</id>
+        <link href="https://v.daum.net/v/20230116181115245"/>
+        <updated>2023-01-16T10:12:01.247Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독한 이선균 vs 처절한 이보영…송중기 떠난 자리 두고 '박빙의 경쟁']]></title>
         <id>https://v.daum.net/v/20230116175601760</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230116162551707"/>
         <updated>2023-01-16T08:14:23.053Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6주 어떻게 기다려..파트1 끝낸 '아일랜드' 해외 반응↑]]></title>
-        <id>https://v.daum.net/v/20230116162205542</id>
-        <link href="https://v.daum.net/v/20230116162205542"/>
-        <updated>2023-01-16T08:14:23.054Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파친코'까지, 韓 스토리 통했다…'크리틱스 초이스' 4년 연속 수상]]></title>
-        <id>https://v.daum.net/v/20230116155912616</id>
-        <link href="https://v.daum.net/v/20230116155912616"/>
-        <updated>2023-01-16T07:10:16.571Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
