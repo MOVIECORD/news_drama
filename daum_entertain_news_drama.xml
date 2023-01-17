@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-17T13:18:32.615Z</updated>
+    <updated>2023-01-17T14:10:01.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 정윤재 사망, 영혼 마을서 김동휘와 재회 '살벌']]></title>
+        <id>https://v.daum.net/v/20230117224742009</id>
+        <link href="https://v.daum.net/v/20230117224742009"/>
+        <updated>2023-01-17T14:09:50.990Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 김태우, 고수가 쫓는 마약조직 보스였다]]></title>
+        <id>https://v.daum.net/v/20230117223438910</id>
+        <link href="https://v.daum.net/v/20230117223438910"/>
+        <updated>2023-01-17T14:09:50.990Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김서형 "父 죽음 떠올라…머리부터 발끝까지 에너지 다 끌어모아 소진해 연기"]]></title>
         <id>https://v.daum.net/v/20230117214201273</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230117162600166"/>
         <updated>2023-01-17T08:14:15.014Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 측 "현우진, 정경호 때문에 자문? 사실 무근"]]></title>
-        <id>https://v.daum.net/v/20230117161944957</id>
-        <link href="https://v.daum.net/v/20230117161944957"/>
-        <updated>2023-01-17T08:14:15.014Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강소라, 이혼의 이혼을 위한 이혼에 의한..만렙 이혼 전문 변호사]]></title>
-        <id>https://v.daum.net/v/20230117155555766</id>
-        <link href="https://v.daum.net/v/20230117155555766"/>
-        <updated>2023-01-17T07:10:08.787Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
