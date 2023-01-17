@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-17T08:15:17.425Z</updated>
+    <updated>2023-01-17T09:12:05.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인수 ‘나쁜 엄마’ 출연확정, 라미란·이도현·안은진과 호흡]]></title>
+        <id>https://v.daum.net/v/20230117173007408</id>
+        <link href="https://v.daum.net/v/20230117173007408"/>
+        <updated>2023-01-17T09:11:02.278Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한재석→한은성 활동명 변경, 에이그라운드와 전속계약]]></title>
+        <id>https://v.daum.net/v/20230117171827997</id>
+        <link href="https://v.daum.net/v/20230117171827997"/>
+        <updated>2023-01-17T09:11:02.278Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['FA' 박보검, YG엔터 간다.."션의 영향력"]]></title>
         <id>https://v.daum.net/v/20230117165307119</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230117135452554"/>
         <updated>2023-01-17T05:10:08.519Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차태현 맞아? '모범형사' 된 호구의 뇌]]></title>
-        <id>https://v.daum.net/v/20230117133448876</id>
-        <link href="https://v.daum.net/v/20230117133448876"/>
-        <updated>2023-01-17T05:10:08.520Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박희순, 반전 실체…의대생父 폭행 영상 의도적 촬영→유출]]></title>
-        <id>https://v.daum.net/v/20230117133347855</id>
-        <link href="https://v.daum.net/v/20230117133347855"/>
-        <updated>2023-01-17T05:10:08.523Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
