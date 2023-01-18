@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-18T21:11:04.156Z</updated>
+    <updated>2023-01-18T22:10:57.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유세풍2' 김민재, 병자 자진 시도로 궁지에 몰렸다]]></title>
+        <id>https://v.daum.net/v/20230119070010614</id>
+        <link href="https://v.daum.net/v/20230119070010614"/>
+        <updated>2023-01-18T22:10:47.868Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남이 될 수 있을까' 강소라 "장승조, 나를 아름답게 바라봐준다"]]></title>
+        <id>https://v.daum.net/v/20230119070010615</id>
+        <link href="https://v.daum.net/v/20230119070010615"/>
+        <updated>2023-01-18T22:10:47.868Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영, 정가람과 화해의 키스…유연석에 “헤어질까요?”]]></title>
         <id>https://v.daum.net/v/20230119060143962</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230118200704131"/>
         <updated>2023-01-18T11:09:15.848Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석, 한지완에 이혼 요구 "집행유예로 풀어줄게"]]></title>
-        <id>https://v.daum.net/v/20230118200012988</id>
-        <link href="https://v.daum.net/v/20230118200012988"/>
-        <updated>2023-01-18T11:09:15.849Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 반효정 찾아가 "차라리 죽여줘"]]></title>
-        <id>https://v.daum.net/v/20230118193935648</id>
-        <link href="https://v.daum.net/v/20230118193935648"/>
-        <updated>2023-01-18T11:09:15.850Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
