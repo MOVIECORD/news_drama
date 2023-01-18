@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-18T12:28:04.505Z</updated>
+    <updated>2023-01-18T13:18:21.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재x김향기, 무릎 꿇고 또 위기]]></title>
+        <id>https://v.daum.net/v/20230118215025548</id>
+        <link href="https://v.daum.net/v/20230118215025548"/>
+        <updated>2023-01-18T13:18:09.575Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["전설로 듣던 故강수연, 걱정 앞섰지만 너무 편했다"]]></title>
+        <id>https://v.daum.net/v/20230118213650445</id>
+        <link href="https://v.daum.net/v/20230118213650445"/>
+        <updated>2023-01-18T13:18:09.576Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 강지섭과 혼인신고→박윤재와 재회 '눈물']]></title>
         <id>https://v.daum.net/v/20230118211008142</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230118174602196"/>
         <updated>2023-01-18T09:10:52.647Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변호사 김옥빈x톱배우 유태오, 얼떨결에 계약연애 시작..‘연애대전’ 2월 10일 공개]]></title>
-        <id>https://v.daum.net/v/20230118174317113</id>
-        <link href="https://v.daum.net/v/20230118174317113"/>
-        <updated>2023-01-18T09:10:52.648Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남이 될 수 있을까' 강소라, 결혼→출산 후 이혼 변호사로 컴백]]></title>
-        <id>https://v.daum.net/v/20230118172355414</id>
-        <link href="https://v.daum.net/v/20230118172355414"/>
-        <updated>2023-01-18T09:10:52.649Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
