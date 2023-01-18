@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-18T11:10:18.136Z</updated>
+    <updated>2023-01-18T12:28:04.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나, 강지섭과 혼인신고→박윤재와 재회 '눈물']]></title>
+        <id>https://v.daum.net/v/20230118211008142</id>
+        <link href="https://v.daum.net/v/20230118211008142"/>
+        <updated>2023-01-18T12:27:53.584Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 손창민, 박하나 의심.."이 집에서 나가"]]></title>
+        <id>https://v.daum.net/v/20230118203612586</id>
+        <link href="https://v.daum.net/v/20230118203612586"/>
+        <updated>2023-01-18T12:27:53.585Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박윤재, 끌어안은 박하나·강지섭 사진에 '분노']]></title>
+        <id>https://v.daum.net/v/20230118203016517</id>
+        <link href="https://v.daum.net/v/20230118203016517"/>
+        <updated>2023-01-18T12:27:53.587Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍의 신부’ 박하나, 지수원 놓쳤다... 돌아온 박윤재와 재회]]></title>
+        <id>https://v.daum.net/v/20230118202500444</id>
+        <link href="https://v.daum.net/v/20230118202500444"/>
+        <updated>2023-01-18T12:27:53.587Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나·강지섭, 母 지수원 구출 실패… "손창민, 내 손으로 죽일 것"]]></title>
         <id>https://v.daum.net/v/20230118200745146</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230118172355414"/>
         <updated>2023-01-18T09:10:52.649Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강소라 "前남친이랑 같이 근무? 제 발로 나가게 할 것"]]></title>
-        <id>https://v.daum.net/v/20230118171601171</id>
-        <link href="https://v.daum.net/v/20230118171601171"/>
-        <updated>2023-01-18T09:10:52.649Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['울보 형사' 남현우, "실종자들 하루빨리 집에 돌아가길" 뭉클한 작별]]></title>
-        <id>https://v.daum.net/v/20230118171400099</id>
-        <link href="https://v.daum.net/v/20230118171400099"/>
-        <updated>2023-01-18T09:10:52.653Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강소라, 결혼 4년차 만에 '돌싱'으로 컴백…前남편에겐 미묘한 감정]]></title>
-        <id>https://v.daum.net/v/20230118171007983</id>
-        <link href="https://v.daum.net/v/20230118171007983"/>
-        <updated>2023-01-18T08:13:43.029Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신혼 3년차' 강소라 "이혼 변호사役, 사랑에 대해 더 생각해봐"]]></title>
-        <id>https://v.daum.net/v/20230118171002976</id>
-        <link href="https://v.daum.net/v/20230118171002976"/>
-        <updated>2023-01-18T08:13:43.029Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
