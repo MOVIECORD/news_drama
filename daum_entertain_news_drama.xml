@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-20T05:10:40.050Z</updated>
+    <updated>2023-01-20T06:14:20.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대행사’ 이보영이 또? 조성하 도발에 통쾌한 반격]]></title>
+        <id>https://v.daum.net/v/20230120145212291</id>
+        <link href="https://v.daum.net/v/20230120145212291"/>
+        <updated>2023-01-20T06:14:09.001Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강소라, 장승조 아닌 무진성과 자동차 키스]]></title>
+        <id>https://v.daum.net/v/20230120144317040</id>
+        <link href="https://v.daum.net/v/20230120144317040"/>
+        <updated>2023-01-20T06:14:09.002Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전도연x정경호만?..노윤서→이채민 고딩들도 주목]]></title>
+        <id>https://v.daum.net/v/20230120142312522</id>
+        <link href="https://v.daum.net/v/20230120142312522"/>
+        <updated>2023-01-20T06:14:09.003Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['저승신' 김정현, 억겁의 세월..임수향 만났다]]></title>
+        <id>https://v.daum.net/v/20230120142054435</id>
+        <link href="https://v.daum.net/v/20230120142054435"/>
+        <updated>2023-01-20T06:14:09.003Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영, 무미건조함 버리고 해맑은 미소 장착→설렘 폭발]]></title>
         <id>https://v.daum.net/v/20230120140833110</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230120113249420"/>
         <updated>2023-01-20T03:14:17.158Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정은 선사한 울림, 실종자 돌아보게 하는 뭉클 명대사]]></title>
-        <id>https://v.daum.net/v/20230120112211091</id>
-        <link href="https://v.daum.net/v/20230120112211091"/>
-        <updated>2023-01-20T03:14:17.159Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연x정경호 ‘일타 스캔들’, 두번째 OST 공개..그래쓰 ‘오늘은 맑음’ 22일 발매]]></title>
-        <id>https://v.daum.net/v/20230120111119695</id>
-        <link href="https://v.daum.net/v/20230120111119695"/>
-        <updated>2023-01-20T02:19:21.207Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석x문가영, 이래도 돼?..망설임 없는 입맞춤]]></title>
-        <id>https://v.daum.net/v/20230120110619489</id>
-        <link href="https://v.daum.net/v/20230120110619489"/>
-        <updated>2023-01-20T02:19:21.208Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘없는 영화제’ 출품작 쏟아져…시청자가 직접 최종 수상작 선정]]></title>
-        <id>https://v.daum.net/v/20230120103250157</id>
-        <link href="https://v.daum.net/v/20230120103250157"/>
-        <updated>2023-01-20T02:19:21.209Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
