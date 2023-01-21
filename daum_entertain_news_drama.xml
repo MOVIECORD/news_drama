@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-21T05:09:57.268Z</updated>
+    <updated>2023-01-21T06:13:22.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마른하늘에 물벼락 맞은 전도연]]></title>
+        <id>https://v.daum.net/v/20230121141815114</id>
+        <link href="https://v.daum.net/v/20230121141815114"/>
+        <updated>2023-01-21T06:12:20.014Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수감복 입은 이선균, 피투성이 된 채 쓰러졌다]]></title>
         <id>https://v.daum.net/v/20230121133959744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230121095115529"/>
         <updated>2023-01-21T00:53:13.668Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["위험하고 아찔"… '결혼 말고 동거' 첫 방송 어땠길래]]></title>
-        <id>https://v.daum.net/v/20230121092421203</id>
-        <link href="https://v.daum.net/v/20230121092421203"/>
-        <updated>2023-01-21T00:53:13.675Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
