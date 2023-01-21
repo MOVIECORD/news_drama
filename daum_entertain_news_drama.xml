@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-21T15:09:40.258Z</updated>
+    <updated>2023-01-21T16:14:30.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대행사’ 조성하, 이보영 치려다 진짜 ‘역린’ 건드렸다..손나은 분노]]></title>
+        <id>https://v.daum.net/v/20230122011024468</id>
+        <link href="https://v.daum.net/v/20230122011024468"/>
+        <updated>2023-01-21T16:13:22.884Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 이선균, "이기영과는 비즈니스 파트너" 검찰에 자진 출석]]></title>
+        <id>https://v.daum.net/v/20230122002100336</id>
+        <link href="https://v.daum.net/v/20230122002100336"/>
+        <updated>2023-01-21T16:13:22.885Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘대행사’ 손나은, 이보영 해고 실패..“회사 얼굴이라 못 잘라”]]></title>
         <id>https://v.daum.net/v/20230122000023208</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230121223931907"/>
         <updated>2023-01-21T14:08:54.508Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균·김홍파, 구치소에서 다시 마주한 두 사람]]></title>
-        <id>https://v.daum.net/v/20230121223257870</id>
-        <link href="https://v.daum.net/v/20230121223257870"/>
-        <updated>2023-01-21T14:08:54.511Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 이선균, 살인죄 현행범 됐다..손은서 "내가 돕겠다"]]></title>
-        <id>https://v.daum.net/v/20230121222744827</id>
-        <link href="https://v.daum.net/v/20230121222744827"/>
-        <updated>2023-01-21T14:08:54.513Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
