@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-21T04:12:40.116Z</updated>
+    <updated>2023-01-21T05:09:57.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수감복 입은 이선균, 피투성이 된 채 쓰러졌다]]></title>
+        <id>https://v.daum.net/v/20230121133959744</id>
+        <link href="https://v.daum.net/v/20230121133959744"/>
+        <updated>2023-01-21T05:09:47.309Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교는 물론 이보영·문가영도, 힘 있는 양반들 대신 싸우는 이것]]></title>
         <id>https://v.daum.net/v/20230121130618426</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230121092421203"/>
         <updated>2023-01-21T00:53:13.675Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['송중기 형役' 강기둥 "택시 운전하시는 父, 손님들에게 제 자랑 엄청 하시죠"]]></title>
-        <id>https://v.daum.net/v/20230121090102896</id>
-        <link href="https://v.daum.net/v/20230121090102896"/>
-        <updated>2023-01-21T00:53:13.675Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
