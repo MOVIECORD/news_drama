@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-22T04:12:37.389Z</updated>
+    <updated>2023-01-22T05:10:58.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1조원의 남자..'일타강사' 삼킨 정경호의 연기 열정]]></title>
+        <id>https://v.daum.net/v/20230122134907223</id>
+        <link href="https://v.daum.net/v/20230122134907223"/>
+        <updated>2023-01-22T05:09:55.191Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보영 vs 조성하, 죽일듯이 싸우더니 왜 동지가 됐나]]></title>
+        <id>https://v.daum.net/v/20230122134820218</id>
+        <link href="https://v.daum.net/v/20230122134820218"/>
+        <updated>2023-01-22T05:09:55.191Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘귀염뽀짝+러블리’ 전날 밤 취중 고백 현장 공개]]></title>
+        <id>https://v.daum.net/v/20230122131528947</id>
+        <link href="https://v.daum.net/v/20230122131528947"/>
+        <updated>2023-01-22T05:09:55.193Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘대행사’ 이보영, 적장 조성하와 동행 포착?…새로운 국면 예고]]></title>
+        <id>https://v.daum.net/v/20230122131415934</id>
+        <link href="https://v.daum.net/v/20230122131415934"/>
+        <updated>2023-01-22T05:09:55.197Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘일타 스캔들’ 전도연, 정경호에 '깜짝' 취중 고백…그 결과는?]]></title>
         <id>https://v.daum.net/v/20230122130251881</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230122092542928"/>
         <updated>2023-01-22T00:55:35.509Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연, 정경호와 180도 관계 변화…강렬한 취중고백]]></title>
-        <id>https://v.daum.net/v/20230122091616845</id>
-        <link href="https://v.daum.net/v/20230122091616845"/>
-        <updated>2023-01-22T00:55:35.509Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호, 진짜 과외 받았나..앞에서 옆에서 봐도 '일타강사' 그 자체]]></title>
-        <id>https://v.daum.net/v/20230122091614844</id>
-        <link href="https://v.daum.net/v/20230122091614844"/>
-        <updated>2023-01-22T00:55:35.509Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘편의점 뚝딱이’ 양유진♥︎안세민 결혼..“편의점 하루 쉽니다”]]></title>
-        <id>https://v.daum.net/v/20230122090627738</id>
-        <link href="https://v.daum.net/v/20230122090627738"/>
-        <updated>2023-01-22T00:55:35.514Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금혼령’ 김우석 “너무 행복했다‥이신원 오래 기억해줬으면” 종영소감]]></title>
-        <id>https://v.daum.net/v/20230122085038489</id>
-        <link href="https://v.daum.net/v/20230122085038489"/>
-        <updated>2023-01-22T00:55:35.515Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
