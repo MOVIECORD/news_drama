@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-22T13:13:58.197Z</updated>
+    <updated>2023-01-22T14:09:20.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안소희, 치밀한 작전 설계에 명추리]]></title>
+        <id>https://v.daum.net/v/20230122225411885</id>
+        <link href="https://v.daum.net/v/20230122225411885"/>
+        <updated>2023-01-22T14:09:07.577Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 정우진, 임주환 친자 아니었다…민성욱 거짓 변명]]></title>
+        <id>https://v.daum.net/v/20230122225007871</id>
+        <link href="https://v.daum.net/v/20230122225007871"/>
+        <updated>2023-01-22T14:09:07.578Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일타스캔들’ 정경호, 전도연 딸 의대반 퇴출에 개인과외 제안]]></title>
+        <id>https://v.daum.net/v/20230122224330830</id>
+        <link href="https://v.daum.net/v/20230122224330830"/>
+        <updated>2023-01-22T14:09:07.586Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일타’ 정경호, 전도연에 ‘노윤서 개인과외’ 제안... “대신 조건이”]]></title>
+        <id>https://v.daum.net/v/20230122223430808</id>
+        <link href="https://v.daum.net/v/20230122223430808"/>
+        <updated>2023-01-22T14:09:07.589Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“노윤서 때문에 2등급” 강나언, 열등감 폭발 눈물 펑펑]]></title>
         <id>https://v.daum.net/v/20230122220639693</id>
@@ -34,7 +62,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['삼남매가 용감하게' 김소은♥김승수, 새끼손가락 걸고 결혼 약속]]></title>
+        <title type="html"><![CDATA['삼남매' 김소은, 왕빛나♥이유진 혼전임신 지지 "좋은 아빠 될 것"]]></title>
         <id>https://v.daum.net/v/20230122212336414</id>
         <link href="https://v.daum.net/v/20230122212336414"/>
         <updated>2023-01-22T13:13:47.297Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230122173432058"/>
         <updated>2023-01-22T09:09:41.248Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘법쩐’ 이선균 “평정심? 개싸움에선 없어도 돼!”]]></title>
-        <id>https://v.daum.net/v/20230122165446776</id>
-        <link href="https://v.daum.net/v/20230122165446776"/>
-        <updated>2023-01-22T08:13:01.736Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연, 뿔났다..1인 시위 나선 이유]]></title>
-        <id>https://v.daum.net/v/20230122153536133</id>
-        <link href="https://v.daum.net/v/20230122153536133"/>
-        <updated>2023-01-22T07:09:08.803Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘깡순이’ 전도연 뚜껑 열렸다‥확성기 들고 비장함 폭발]]></title>
-        <id>https://v.daum.net/v/20230122153507127</id>
-        <link href="https://v.daum.net/v/20230122153507127"/>
-        <updated>2023-01-22T07:09:08.805Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연 뚜껑 제대로 열렸다! 확성기 들고 1인 시위]]></title>
-        <id>https://v.daum.net/v/20230122152816063</id>
-        <link href="https://v.daum.net/v/20230122152816063"/>
-        <updated>2023-01-22T07:09:08.807Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
