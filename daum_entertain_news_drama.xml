@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-22T14:09:20.117Z</updated>
+    <updated>2023-01-22T15:09:58.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경호, 거리 두는 전도연 마음 돌릴까 "다시 시작해"]]></title>
+        <id>https://v.daum.net/v/20230122235008130</id>
+        <link href="https://v.daum.net/v/20230122235008130"/>
+        <updated>2023-01-22T15:09:47.409Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정보민, 모태솔로 졸업→기리보이와 결혼 "실감 안 나"]]></title>
+        <id>https://v.daum.net/v/20230122234918126</id>
+        <link href="https://v.daum.net/v/20230122234918126"/>
+        <updated>2023-01-22T15:09:47.410Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안소희, 치밀한 작전 설계에 명추리]]></title>
         <id>https://v.daum.net/v/20230122225411885</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230122203333154"/>
         <updated>2023-01-22T12:17:14.745Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매가 용감하게' 김승수♥김소은, 한밤중 하트 폭탄 '설렘']]></title>
-        <id>https://v.daum.net/v/20230122203013129</id>
-        <link href="https://v.daum.net/v/20230122203013129"/>
-        <updated>2023-01-22T12:17:14.747Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금혼령’ 윤태인 “어떻게 표현할지 촬영 직전까지 고민” 종영소감]]></title>
-        <id>https://v.daum.net/v/20230122173432058</id>
-        <link href="https://v.daum.net/v/20230122173432058"/>
-        <updated>2023-01-22T09:09:41.248Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
