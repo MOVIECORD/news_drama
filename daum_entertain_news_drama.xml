@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-22T02:16:35.397Z</updated>
+    <updated>2023-01-22T03:12:15.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만취한 전도연, 한도 초과 러블리함]]></title>
+        <id>https://v.daum.net/v/20230122112716180</id>
+        <link href="https://v.daum.net/v/20230122112716180"/>
+        <updated>2023-01-22T03:12:04.253Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박환희가 이선균 누나? 10대→20대 다 되는 동안 끝판왕 재등장]]></title>
         <id>https://v.daum.net/v/20230122104010713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230122084804465"/>
         <updated>2023-01-22T00:55:35.517Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 이보영, 손나은 이용해 조성하 물 먹였다..“초짜임원 OUT”]]></title>
-        <id>https://v.daum.net/v/20230122083821401</id>
-        <link href="https://v.daum.net/v/20230122083821401"/>
-        <updated>2023-01-22T00:55:35.518Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
