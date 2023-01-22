@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-22T07:10:11.201Z</updated>
+    <updated>2023-01-22T08:14:04.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘법쩐’ 이선균 “평정심? 개싸움에선 없어도 돼!”]]></title>
+        <id>https://v.daum.net/v/20230122165446776</id>
+        <link href="https://v.daum.net/v/20230122165446776"/>
+        <updated>2023-01-22T08:13:01.736Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연, 뿔났다..1인 시위 나선 이유]]></title>
         <id>https://v.daum.net/v/20230122153536133</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230122103155633"/>
         <updated>2023-01-22T02:16:25.862Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현♥김영대, 드디어 결혼…꽉 닫힌 해피엔딩]]></title>
-        <id>https://v.daum.net/v/20230122095538207</id>
-        <link href="https://v.daum.net/v/20230122095538207"/>
-        <updated>2023-01-22T02:16:25.876Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
