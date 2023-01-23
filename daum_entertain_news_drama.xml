@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-23T11:09:43.741Z</updated>
+    <updated>2023-01-23T12:20:34.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 고수X안소희, 연쇄살인범 잡다 의식 잃은 허준호 구했다]]></title>
+        <id>https://v.daum.net/v/20230123211357508</id>
+        <link href="https://v.daum.net/v/20230123211357508"/>
+        <updated>2023-01-23T12:19:25.247Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 제작진 "정은표 죽음에 얽힌 진실 드러난다"]]></title>
         <id>https://v.daum.net/v/20230123183005565</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123120036548"/>
         <updated>2023-01-23T03:11:42.025Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 재벌3세 손나은 각성, 키 플레이어 등극할까]]></title>
-        <id>https://v.daum.net/v/20230123113007278</id>
-        <link href="https://v.daum.net/v/20230123113007278"/>
-        <updated>2023-01-23T03:11:42.025Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
