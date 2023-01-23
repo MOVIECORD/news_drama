@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-23T12:20:34.359Z</updated>
+    <updated>2023-01-23T13:19:07.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손나은, 각성 모드 시작..키 플레이어 기대해]]></title>
+        <id>https://v.daum.net/v/20230123220829841</id>
+        <link href="https://v.daum.net/v/20230123220829841"/>
+        <updated>2023-01-23T13:18:57.770Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 하준, 정윤재 시신 확인 "살해당해…꼬리 자르기 당한 것"]]></title>
+        <id>https://v.daum.net/v/20230123213940635</id>
+        <link href="https://v.daum.net/v/20230123213940635"/>
+        <updated>2023-01-23T13:18:57.770Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 고수X안소희, 연쇄살인범 잡다 의식 잃은 허준호 구했다]]></title>
         <id>https://v.daum.net/v/20230123211357508</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230123131324040"/>
         <updated>2023-01-23T05:10:19.515Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우X주지훈X최민호X여진구, 매력 대방출]]></title>
-        <id>https://v.daum.net/v/20230123130925009</id>
-        <link href="https://v.daum.net/v/20230123130925009"/>
-        <updated>2023-01-23T04:13:15.716Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현, ‘금혼령’ 종영소감 “소랑이는 사랑 넘치는 나라 만들었을 것”]]></title>
-        <id>https://v.daum.net/v/20230123120036548</id>
-        <link href="https://v.daum.net/v/20230123120036548"/>
-        <updated>2023-01-23T03:11:42.025Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
