@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-23T22:12:48.372Z</updated>
+    <updated>2023-01-23T23:10:54.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["약 복용 중" 채종협, 덤덤히 밝힌 군 면제 사유]]></title>
+        <id>https://v.daum.net/v/20230124080024106</id>
+        <link href="https://v.daum.net/v/20230124080024106"/>
+        <updated>2023-01-23T23:10:43.969Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 김승수, "역시 중년 박보검!"..걸림돌 김소은이 아쉽네]]></title>
+        <id>https://v.daum.net/v/20230124073006824</id>
+        <link href="https://v.daum.net/v/20230124073006824"/>
+        <updated>2023-01-23T23:10:43.969Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 김태우, 고수 위협하려 최명빈에 접근했다 '긴장' 전일야화]]]></title>
         <id>https://v.daum.net/v/20230124071002653</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230123160900383"/>
         <updated>2023-01-23T07:10:19.154Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해', 현실 공감 멜로의 정수]]></title>
-        <id>https://v.daum.net/v/20230123142844618</id>
-        <link href="https://v.daum.net/v/20230123142844618"/>
-        <updated>2023-01-23T06:13:04.904Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타스캔들’ 추락사 유준, 불량미 어디로? 댕댕미 폭발 비하인드]]></title>
-        <id>https://v.daum.net/v/20230123140619468</id>
-        <link href="https://v.daum.net/v/20230123140619468"/>
-        <updated>2023-01-23T05:10:19.509Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
