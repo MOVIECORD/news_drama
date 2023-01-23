@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-23T13:19:07.288Z</updated>
+    <updated>2023-01-23T14:10:36.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 하준, 칼에 찔렸다…김태우, 최명빈에 접근 '살벌']]></title>
+        <id>https://v.daum.net/v/20230123225006032</id>
+        <link href="https://v.daum.net/v/20230123225006032"/>
+        <updated>2023-01-23T14:10:25.743Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손나은, 각성 모드 시작..키 플레이어 기대해]]></title>
         <id>https://v.daum.net/v/20230123220829841</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123134814280"/>
         <updated>2023-01-23T05:10:19.515Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사는 것도 쓴데 먹는 것도 쓰면 무슨 힘으로 버텨?"…이보영 흔든 전혜진의 위로]]></title>
-        <id>https://v.daum.net/v/20230123131324040</id>
-        <link href="https://v.daum.net/v/20230123131324040"/>
-        <updated>2023-01-23T05:10:19.515Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
