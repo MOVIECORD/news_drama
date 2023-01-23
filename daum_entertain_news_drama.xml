@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-23T07:10:28.646Z</updated>
+    <updated>2023-01-23T08:14:25.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[확신의 '더글로리'→심판대 오른 '모범택시'·'아스달', 믿고 보는 시즌2 온다]]></title>
+        <id>https://v.daum.net/v/20230123170101784</id>
+        <link href="https://v.daum.net/v/20230123170101784"/>
+        <updated>2023-01-23T08:14:16.195Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 이정현 "인연의 소중함 느낀 작품" 종영 소감]]></title>
+        <id>https://v.daum.net/v/20230123165451715</id>
+        <link href="https://v.daum.net/v/20230123165451715"/>
+        <updated>2023-01-23T08:14:16.199Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["그렇게 웃지 마" 송혜교 절규·이도현 오열...'더 글로리' 파트2 예고]]></title>
         <id>https://v.daum.net/v/20230123160900383</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230123113006277"/>
         <updated>2023-01-23T03:11:42.034Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌집' 허정도 "송중기, 소문도 없이 깔끔…되게 나이스"]]></title>
-        <id>https://v.daum.net/v/20230123104715892</id>
-        <link href="https://v.daum.net/v/20230123104715892"/>
-        <updated>2023-01-23T02:11:58.278Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘법쩐’ 의리녀 김혜화, 호감캐 된 이유]]></title>
-        <id>https://v.daum.net/v/20230123104224846</id>
-        <link href="https://v.daum.net/v/20230123104224846"/>
-        <updated>2023-01-23T02:11:58.279Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
