@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-24T08:14:41.762Z</updated>
+    <updated>2023-01-24T09:11:18.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식·전소니, 냉탕과 온탕 사이 아슬아슬 두 남녀…극과 극 스틸]]></title>
+        <id>https://v.daum.net/v/20230124175543056</id>
+        <link href="https://v.daum.net/v/20230124175543056"/>
+        <updated>2023-01-24T09:11:06.309Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유세풍2' 김민재♥김향기 직진..과감해진 돌직구 고백]]></title>
         <id>https://v.daum.net/v/20230124170037332</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230124110820824"/>
         <updated>2023-01-24T02:13:11.443Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영의 사이다에 전혜진의 위로 한 스푼이 더해지니]]></title>
-        <id>https://v.daum.net/v/20230124110650800</id>
-        <link href="https://v.daum.net/v/20230124110650800"/>
-        <updated>2023-01-24T02:13:11.443Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
