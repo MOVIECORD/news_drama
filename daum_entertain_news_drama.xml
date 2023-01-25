@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-25T19:09:29.757Z</updated>
+    <updated>2023-01-25T20:11:31.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미끼' 장근석 "5년 만에 복귀? 이렇게까지 오래 걸릴 줄은…"]]></title>
+        <id>https://v.daum.net/v/20230126050207642</id>
+        <link href="https://v.daum.net/v/20230126050207642"/>
+        <updated>2023-01-25T20:11:19.355Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜화, 의리+명분 우직 행보]]></title>
         <id>https://v.daum.net/v/20230126004202341</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125185318197"/>
         <updated>2023-01-25T10:14:16.265Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["덫에 걸리시길" 5년 만의 복귀한 장근석X'악역 백과사전' 허성태의 사기극 스릴러 '미끼']]></title>
-        <id>https://v.daum.net/v/20230125181401499</id>
-        <link href="https://v.daum.net/v/20230125181401499"/>
-        <updated>2023-01-25T10:14:16.266Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
