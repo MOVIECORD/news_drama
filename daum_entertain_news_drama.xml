@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-25T12:20:54.248Z</updated>
+    <updated>2023-01-25T13:17:58.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저주받은 박형식 VS 살인 용의자 전소니, 쟁점은?]]></title>
+        <id>https://v.daum.net/v/20230125214301851</id>
+        <link href="https://v.daum.net/v/20230125214301851"/>
+        <updated>2023-01-25T13:17:49.110Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강지섭, 과거 일 떠올라 패닉→박하나는 최수린 도발]]></title>
         <id>https://v.daum.net/v/20230125204650959</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125174706780"/>
         <updated>2023-01-25T09:10:07.745Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뻔한 이미지 탈피"..수염 덥수룩한 장근석, 5년 공백 깨트린 '미끼']]></title>
-        <id>https://v.daum.net/v/20230125174047577</id>
-        <link href="https://v.daum.net/v/20230125174047577"/>
-        <updated>2023-01-25T09:10:07.746Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
