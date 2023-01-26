@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T02:13:16.987Z</updated>
+    <updated>2023-01-26T03:11:59.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘라스트 원준, '성스러운 아이돌' 출연 확정…데뷔 첫 연기 도전]]></title>
+        <id>https://v.daum.net/v/20230126120306144</id>
+        <link href="https://v.daum.net/v/20230126120306144"/>
+        <updated>2023-01-26T03:11:48.475Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대본만 들어도 달라진 조승우X한혜진..'신성한, 이혼'에 기대 쏠리는 이유]]></title>
+        <id>https://v.daum.net/v/20230126114318362</id>
+        <link href="https://v.daum.net/v/20230126114318362"/>
+        <updated>2023-01-26T03:11:48.475Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형식, '청춘월담'으로 보여줄 무한 매력 "다양한 얼굴 보실 것"]]></title>
+        <id>https://v.daum.net/v/20230126113449017</id>
+        <link href="https://v.daum.net/v/20230126113449017"/>
+        <updated>2023-01-26T03:11:48.476Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답답한데 빠져든다, 시청자들이 '사랑의 이해'에 과몰입하는 까닭]]></title>
+        <id>https://v.daum.net/v/20230126113403980</id>
+        <link href="https://v.daum.net/v/20230126113403980"/>
+        <updated>2023-01-26T03:11:48.477Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이다인, '연인' 출연 확정...3년 만에 안방극장 복귀]]></title>
+        <id>https://v.daum.net/v/20230126111825248</id>
+        <link href="https://v.daum.net/v/20230126111825248"/>
+        <updated>2023-01-26T03:11:48.480Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 석포일러 오동민, 미워할 수 없는 불륜남]]></title>
+        <id>https://v.daum.net/v/20230126111510089</id>
+        <link href="https://v.daum.net/v/20230126111510089"/>
+        <updated>2023-01-26T03:11:48.480Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우다비, '유세풍2'로 증명한 연기 스펙트럼]]></title>
         <id>https://v.daum.net/v/20230126111156934</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20230126102634829"/>
         <updated>2023-01-26T02:13:07.171Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간 풍선’ 서지혜-정보석-최대철-설정환, 조가네 융단폭격 포착]]></title>
-        <id>https://v.daum.net/v/20230126102549802</id>
-        <link href="https://v.daum.net/v/20230126102549802"/>
-        <updated>2023-01-26T02:13:07.173Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민·안은진·이학주·이다인, MBC '연인' 주연 확정]]></title>
-        <id>https://v.daum.net/v/20230126102354707</id>
-        <link href="https://v.daum.net/v/20230126102354707"/>
-        <updated>2023-01-26T02:13:07.176Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’, 박형식이 꼽은 '관전 포인트’는?…팔색조 매력 예고]]></title>
-        <id>https://v.daum.net/v/20230126102119615</id>
-        <link href="https://v.daum.net/v/20230126102119615"/>
-        <updated>2023-01-26T02:13:07.176Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신성한, 이혼' 조승우X한혜진 대본리딩..후끈 연기 케미]]></title>
-        <id>https://v.daum.net/v/20230126100613996</id>
-        <link href="https://v.daum.net/v/20230126100613996"/>
-        <updated>2023-01-26T02:13:07.178Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이학주·이다인 ‘연인’ 합류, 남궁민·안은진과 연기 호흡]]></title>
-        <id>https://v.daum.net/v/20230126100439923</id>
-        <link href="https://v.daum.net/v/20230126100439923"/>
-        <updated>2023-01-26T02:13:07.183Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조승우→한혜진, 대본 리딩부터 연기력 파티…"멋진 작품 만들길"]]></title>
-        <id>https://v.daum.net/v/20230126100338892</id>
-        <link href="https://v.daum.net/v/20230126100338892"/>
-        <updated>2023-01-26T02:13:07.186Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
