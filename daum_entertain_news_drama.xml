@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T20:11:11.201Z</updated>
+    <updated>2023-01-26T21:10:08.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마약 유통→약쟁이…팔수록 놀라운 김히어라, 재발견된 존재감]]></title>
+        <id>https://v.daum.net/v/20230127053301195</id>
+        <link href="https://v.daum.net/v/20230127053301195"/>
+        <updated>2023-01-26T21:09:45.304Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해' 금새록, 문가영에 사과.."네 마음 불편하라고"]]></title>
         <id>https://v.daum.net/v/20230127010022583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230126202930759"/>
         <updated>2023-01-26T12:21:03.443Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 강지섭에 오열 "이용해서 미안해"]]></title>
-        <id>https://v.daum.net/v/20230126201606529</id>
-        <link href="https://v.daum.net/v/20230126201606529"/>
-        <updated>2023-01-26T12:21:03.459Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
