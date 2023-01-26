@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T08:14:05.887Z</updated>
+    <updated>2023-01-26T09:12:00.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금쪽같은' 사고로 母 잃은 중2 아들, 솔루션 거부 "희망고문 하지마"]]></title>
+        <id>https://v.daum.net/v/20230126175013522</id>
+        <link href="https://v.daum.net/v/20230126175013522"/>
+        <updated>2023-01-26T09:10:57.833Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영광·이성경, '더 글로리' 잇는 복수 로맨스 '사랑이라 말해요']]></title>
+        <id>https://v.daum.net/v/20230126174437298</id>
+        <link href="https://v.daum.net/v/20230126174437298"/>
+        <updated>2023-01-26T09:10:57.834Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금혼령' 김우석 "친형 멜로망스 김민석, 없어서는 안 될 존재"]]></title>
+        <id>https://v.daum.net/v/20230126174317246</id>
+        <link href="https://v.daum.net/v/20230126174317246"/>
+        <updated>2023-01-26T09:10:57.835Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우석 "'재벌집'과 경쟁? '금혼령' 만의 매력 믿었죠"]]></title>
         <id>https://v.daum.net/v/20230126171214997</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230126161141687"/>
         <updated>2023-01-26T08:13:54.015Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼' 최강 빌런을 만든 조재윤의 밑거름]]></title>
-        <id>https://v.daum.net/v/20230126152501887</id>
-        <link href="https://v.daum.net/v/20230126152501887"/>
-        <updated>2023-01-26T07:10:24.917Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영, 유연석과 모래성 같은 사랑…마음 정리한다]]></title>
-        <id>https://v.daum.net/v/20230126150641122</id>
-        <link href="https://v.daum.net/v/20230126150641122"/>
-        <updated>2023-01-26T06:13:24.964Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무진성, 설레는 멜로 눈빛…강소라도 무장해제]]></title>
-        <id>https://v.daum.net/v/20230126150623108</id>
-        <link href="https://v.daum.net/v/20230126150623108"/>
-        <updated>2023-01-26T06:13:24.965Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
