@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T06:14:27.329Z</updated>
+    <updated>2023-01-26T07:10:35.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환혼' 최강 빌런을 만든 조재윤의 밑거름]]></title>
+        <id>https://v.daum.net/v/20230126152501887</id>
+        <link href="https://v.daum.net/v/20230126152501887"/>
+        <updated>2023-01-26T07:10:24.917Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영, 유연석과 모래성 같은 사랑…마음 정리한다]]></title>
         <id>https://v.daum.net/v/20230126150641122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230126131036498"/>
         <updated>2023-01-26T04:12:53.647Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘라스트 원준, '성스러운 아이돌' 출연 확정…데뷔 첫 연기 도전]]></title>
-        <id>https://v.daum.net/v/20230126120306144</id>
-        <link href="https://v.daum.net/v/20230126120306144"/>
-        <updated>2023-01-26T03:11:48.475Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
