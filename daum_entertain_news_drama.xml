@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-26T22:10:42.944Z</updated>
+    <updated>2023-01-26T23:11:40.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고보결, 이토록 러블리한 매니저라니]]></title>
+        <id>https://v.daum.net/v/20230127080907215</id>
+        <link href="https://v.daum.net/v/20230127080907215"/>
+        <updated>2023-01-26T23:11:29.705Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미스터트롯2' 21.8% 또 자체 최고…박지현vs진욱 세기의 데스매치]]></title>
+        <id>https://v.daum.net/v/20230127080608175</id>
+        <link href="https://v.daum.net/v/20230127080608175"/>
+        <updated>2023-01-26T23:11:29.707Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 김의성 “코믹 요소 더욱 강화, 통쾌한 복수극 준비했다”]]></title>
+        <id>https://v.daum.net/v/20230127080602174</id>
+        <link href="https://v.daum.net/v/20230127080602174"/>
+        <updated>2023-01-26T23:11:29.708Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이혼녀 변신 강소라, 6년만 복귀도 시들…주연 역량 시험대]]></title>
+        <id>https://v.daum.net/v/20230127080102084</id>
+        <link href="https://v.daum.net/v/20230127080102084"/>
+        <updated>2023-01-26T23:11:29.714Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유세풍2' 김민재♥김향기, 강영석 계략에 빠졌다]]></title>
         <id>https://v.daum.net/v/20230127063003045</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230126235907142"/>
         <updated>2023-01-26T15:10:41.964Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍2' 김상경, 딸 김수안 백성철에 뺏앗겼다]]></title>
-        <id>https://v.daum.net/v/20230126233319005</id>
-        <link href="https://v.daum.net/v/20230126233319005"/>
-        <updated>2023-01-26T15:10:41.964Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍2' 김향기, 강영석에 독설 "의원님이 불편해, 떠나달라"]]></title>
-        <id>https://v.daum.net/v/20230126225304769</id>
-        <link href="https://v.daum.net/v/20230126225304769"/>
-        <updated>2023-01-26T14:09:56.009Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["9등신 같은데"…김고은, 소멸할듯 작은 머리에 긴 다리 '비율 女神 이었네']]></title>
-        <id>https://v.daum.net/v/20230126220005240</id>
-        <link href="https://v.daum.net/v/20230126220005240"/>
-        <updated>2023-01-26T13:19:40.483Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석 살아있었다..반효정 팔순잔치서 등장]]></title>
-        <id>https://v.daum.net/v/20230126204231030</id>
-        <link href="https://v.daum.net/v/20230126204231030"/>
-        <updated>2023-01-26T12:21:03.432Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
