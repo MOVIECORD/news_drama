@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-27T08:13:37.685Z</updated>
+    <updated>2023-01-27T09:11:43.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SBS ‘법쩐’ 자문가 “내 아이디어와 인생 카피”vs제작사 “독자적 창작물”]]></title>
+        <id>https://v.daum.net/v/20230127175021371</id>
+        <link href="https://v.daum.net/v/20230127175021371"/>
+        <updated>2023-01-27T09:10:41.283Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니 웨일스 "'셰어하우스', 끔찍한 건 침대 공유"]]></title>
+        <id>https://v.daum.net/v/20230127175013363</id>
+        <link href="https://v.daum.net/v/20230127175013363"/>
+        <updated>2023-01-27T09:10:41.283Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정현 복귀 받고 유재석 특별출연...'꼭두의 계절', 판타지 정석 '도깨비' 넘을까]]></title>
+        <id>https://v.daum.net/v/20230127174723302</id>
+        <link href="https://v.daum.net/v/20230127174723302"/>
+        <updated>2023-01-27T09:10:41.289Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['남이 될 수 있을까' 조은지, 유쾌한 상여자 매력…'완벽 소화' 열연]]></title>
         <id>https://v.daum.net/v/20230127170930328</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230127153220249"/>
         <updated>2023-01-27T07:10:23.934Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년심판' 시즌2 못 본다..시즌1 흥행 불구 '제작 무산']]></title>
-        <id>https://v.daum.net/v/20230127152837080</id>
-        <link href="https://v.daum.net/v/20230127152837080"/>
-        <updated>2023-01-27T07:10:23.945Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현, '꼭두의 계절'로 선 5년 전 그 자리…로맨스 통할까]]></title>
-        <id>https://v.daum.net/v/20230127151336639</id>
-        <link href="https://v.daum.net/v/20230127151336639"/>
-        <updated>2023-01-27T07:10:23.946Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유X박보검, '동백꽃' 작가 신작 '폭싹 속았수다'서 호흡]]></title>
-        <id>https://v.daum.net/v/20230127151208598</id>
-        <link href="https://v.daum.net/v/20230127151208598"/>
-        <updated>2023-01-27T06:13:35.547Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
