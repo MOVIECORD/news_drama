@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-27T14:10:18.926Z</updated>
+    <updated>2023-01-27T15:12:28.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문채원, 의식불명에서 깨어났다…이선균 변호사로 등장]]></title>
+        <id>https://v.daum.net/v/20230127235006170</id>
+        <link href="https://v.daum.net/v/20230127235006170"/>
+        <updated>2023-01-27T15:11:25.605Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '꼭두의 계절' 김정현, 사망→꼭두로 부활? 임수향 목 조르며 "죽여버려"]]></title>
+        <id>https://v.daum.net/v/20230127232045959</id>
+        <link href="https://v.daum.net/v/20230127232045959"/>
+        <updated>2023-01-27T15:11:25.606Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼭두의 계절' 임수향, 자기 못 알아본 김정현에 "쌍둥이세요?"]]></title>
         <id>https://v.daum.net/v/20230127230153894</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230127194805399"/>
         <updated>2023-01-27T11:09:26.272Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석 생존..그룹 후계자 됐다]]></title>
-        <id>https://v.daum.net/v/20230127193237187</id>
-        <link href="https://v.daum.net/v/20230127193237187"/>
-        <updated>2023-01-27T11:09:26.274Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90도 인사로 사과한 김정현, '꼭두의 계절' 첫방 호평 받을까?]]></title>
-        <id>https://v.daum.net/v/20230127191025884</id>
-        <link href="https://v.daum.net/v/20230127191025884"/>
-        <updated>2023-01-27T10:12:03.184Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
