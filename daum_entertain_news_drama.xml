@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-27T22:10:31.072Z</updated>
+    <updated>2023-01-27T23:10:34.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깨어난 문채원, 이선균 변호사로 나섰다…'법쩐' 최고 12.9%까지]]></title>
+        <id>https://v.daum.net/v/20230128080542471</id>
+        <link href="https://v.daum.net/v/20230128080542471"/>
+        <updated>2023-01-27T23:10:24.158Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선균, 박훈에 대반전 거래 제안 ‘전율’..11%로 자체최고시청률 경신]]></title>
+        <id>https://v.daum.net/v/20230128074221282</id>
+        <link href="https://v.daum.net/v/20230128074221282"/>
+        <updated>2023-01-27T23:10:24.166Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하도영은 김탄처럼 결국 서자였을까?]]></title>
+        <id>https://v.daum.net/v/20230128073005208</id>
+        <link href="https://v.daum.net/v/20230128073005208"/>
+        <updated>2023-01-27T23:10:24.167Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균, 박훈에 솔깃한 제안…"김홍파 무릎 꿇게 만들 수 있어"]]></title>
         <id>https://v.daum.net/v/20230128070019954</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230127222608572"/>
         <updated>2023-01-27T14:10:08.196Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '꼭두의 계절' 임수향, 벚꽃 잎 속 김정현과 설레는 '첫 만남']]></title>
-        <id>https://v.daum.net/v/20230127222416567</id>
-        <link href="https://v.daum.net/v/20230127222416567"/>
-        <updated>2023-01-27T14:10:08.202Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘그때 그곳’에서 복귀한 김정현, 5년 전과 어떻게 달라졌나?]]></title>
-        <id>https://v.daum.net/v/20230127204117321</id>
-        <link href="https://v.daum.net/v/20230127204117321"/>
-        <updated>2023-01-27T12:18:25.837Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하나, 친母 지수원 감금 알았다…"엄마 여깄어" 울컥]]></title>
-        <id>https://v.daum.net/v/20230127203543240</id>
-        <link href="https://v.daum.net/v/20230127203543240"/>
-        <updated>2023-01-27T12:18:25.837Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
