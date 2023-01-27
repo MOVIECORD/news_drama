@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-27T03:12:26.733Z</updated>
+    <updated>2023-01-27T04:13:01.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장승조, ♥강소라와 이혼 이유=선택적 나쁜 놈이었다]]></title>
+        <id>https://v.daum.net/v/20230127125259838</id>
+        <link href="https://v.daum.net/v/20230127125259838"/>
+        <updated>2023-01-27T04:12:31.942Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 범람?..도대체 문태유에게 왜 그래?]]></title>
+        <id>https://v.daum.net/v/20230127123410670</id>
+        <link href="https://v.daum.net/v/20230127123410670"/>
+        <updated>2023-01-27T04:12:31.952Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아 숨겨진 과거 밝혀진다…베일벗은 '판도라', 파격 복수극의 시작]]></title>
         <id>https://v.daum.net/v/20230127114804809</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230127090746627"/>
         <updated>2023-01-27T00:55:18.590Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 손나은♥한준우, 살벌 전쟁 속 훅 들어온 달달함]]></title>
-        <id>https://v.daum.net/v/20230127090538563</id>
-        <link href="https://v.daum.net/v/20230127090538563"/>
-        <updated>2023-01-27T00:55:18.591Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장규리, 대세 배우로 우뚝…'플레이어2' 주인공 꿰찼다]]></title>
-        <id>https://v.daum.net/v/20230127090139412</id>
-        <link href="https://v.daum.net/v/20230127090139412"/>
-        <updated>2023-01-27T00:55:18.592Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
