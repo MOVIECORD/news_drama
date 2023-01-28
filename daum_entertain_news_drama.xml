@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-28T00:53:53.708Z</updated>
+    <updated>2023-01-28T02:16:23.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정현, 알고 보니 1인 3역 '저승神'..'신비로운 설렘' 시작]]></title>
+        <id>https://v.daum.net/v/20230128110802469</id>
+        <link href="https://v.daum.net/v/20230128110802469"/>
+        <updated>2023-01-28T02:16:12.389Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꼭두의 계절’ 김정현·임수향, 길고 긴 인연 시작…첫방 시청률 4.8%]]></title>
+        <id>https://v.daum.net/v/20230128104201022</id>
+        <link href="https://v.daum.net/v/20230128104201022"/>
+        <updated>2023-01-28T02:16:12.389Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정경호, 일타강사의 몰래 과외 문제 될까…지동희 표정 눈길]]></title>
+        <id>https://v.daum.net/v/20230128095626426</id>
+        <link href="https://v.daum.net/v/20230128095626426"/>
+        <updated>2023-01-28T02:16:12.390Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살기 어린 눈빛의 김정현…'꼭두의 계절', 4.8%로 출발]]></title>
+        <id>https://v.daum.net/v/20230128095316394</id>
+        <link href="https://v.daum.net/v/20230128095316394"/>
+        <updated>2023-01-28T02:16:12.390Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정현, 살기 어린 눈빛→♥임수향과 짙은 인연…'꼭두의 계절' 4.8% 출발]]></title>
+        <id>https://v.daum.net/v/20230128095302393</id>
+        <link href="https://v.daum.net/v/20230128095302393"/>
+        <updated>2023-01-28T02:16:12.393Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘빨간풍선’ 미묘하게 달라진 서지혜, 홍수현 이상기류 감지]]></title>
         <id>https://v.daum.net/v/20230128094436310</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230128084229721"/>
         <updated>2023-01-28T00:52:51.325Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균, 박훈에 "거래하자" 제안 '이이제이 작전' 전율…11.1% '법쩐' 최고치]]></title>
-        <id>https://v.daum.net/v/20230128082602603</id>
-        <link href="https://v.daum.net/v/20230128082602603"/>
-        <updated>2023-01-28T00:52:51.325Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현, '사생활 논란' 사과→1인 2역 꼭두로 부활? 임수향 목 조르며 환생]]></title>
-        <id>https://v.daum.net/v/20230128082516598</id>
-        <link href="https://v.daum.net/v/20230128082516598"/>
-        <updated>2023-01-28T00:52:51.329Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갯마을 차차차'→'일타스캔들'..이봉련, 없어선 안 될 존재감]]></title>
-        <id>https://v.daum.net/v/20230128081502531</id>
-        <link href="https://v.daum.net/v/20230128081502531"/>
-        <updated>2023-01-28T00:52:51.333Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깨어난 문채원, 이선균 변호사로 나섰다…'법쩐' 최고 12.9%까지]]></title>
-        <id>https://v.daum.net/v/20230128080542471</id>
-        <link href="https://v.daum.net/v/20230128080542471"/>
-        <updated>2023-01-27T23:10:24.158Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균, 박훈에 대반전 거래 제안 ‘전율’..11%로 자체최고시청률 경신]]></title>
-        <id>https://v.daum.net/v/20230128074221282</id>
-        <link href="https://v.daum.net/v/20230128074221282"/>
-        <updated>2023-01-27T23:10:24.166Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
