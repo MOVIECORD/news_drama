@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-28T05:10:33.247Z</updated>
+    <updated>2023-01-28T06:12:53.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼭두의 계절' 김정현X임수향, 이름값 하는 달콤살벌 로맨스]]></title>
+        <id>https://v.daum.net/v/20230128151227397</id>
+        <link href="https://v.daum.net/v/20230128151227397"/>
+        <updated>2023-01-28T06:12:42.834Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘대행사’ 제대로 각성한 재벌 3세 손나은, VC그룹 승계 전쟁 뛰어든다]]></title>
+        <id>https://v.daum.net/v/20230128142813012</id>
+        <link href="https://v.daum.net/v/20230128142813012"/>
+        <updated>2023-01-28T06:12:42.835Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사랑의 이해’ 문가영 “이리저리 흔들리는 모습 자체 보여주려 해”]]></title>
         <id>https://v.daum.net/v/20230128140431836</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230128095316394"/>
         <updated>2023-01-28T02:16:12.390Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현, 살기 어린 눈빛→♥임수향과 짙은 인연…'꼭두의 계절' 4.8% 출발]]></title>
-        <id>https://v.daum.net/v/20230128095302393</id>
-        <link href="https://v.daum.net/v/20230128095302393"/>
-        <updated>2023-01-28T02:16:12.393Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간풍선’ 미묘하게 달라진 서지혜, 홍수현 이상기류 감지]]></title>
-        <id>https://v.daum.net/v/20230128094436310</id>
-        <link href="https://v.daum.net/v/20230128094436310"/>
-        <updated>2023-01-28T00:52:51.321Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
