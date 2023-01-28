@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-28T15:11:35.709Z</updated>
+    <updated>2023-01-28T16:13:02.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼭두의 계절' 김정현, 임수향에게만 복종.."내 여자다"]]></title>
+        <id>https://v.daum.net/v/20230129010658011</id>
+        <link href="https://v.daum.net/v/20230129010658011"/>
+        <updated>2023-01-28T16:12:50.474Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 김홍파, "난 절대로 안 죽는다…이번 판은 네가 졌다" 이선균에 '판정승']]></title>
+        <id>https://v.daum.net/v/20230129010300008</id>
+        <link href="https://v.daum.net/v/20230129010300008"/>
+        <updated>2023-01-28T16:12:50.474Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문가영 "안수영은 '안개' 같은 인물"]]></title>
+        <id>https://v.daum.net/v/20230129010005000</id>
+        <link href="https://v.daum.net/v/20230129010005000"/>
+        <updated>2023-01-28T16:12:50.474Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정경호, 전도연 집에서 하룻밤… 손에 벨트 든 채 발각]]></title>
+        <id>https://v.daum.net/v/20230129001009872</id>
+        <link href="https://v.daum.net/v/20230129001009872"/>
+        <updated>2023-01-28T16:12:50.492Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정경호, 혼술하는 전도연 말리러 등장 “할 수 있는 매너 최대한 짜낸 것”]]></title>
         <id>https://v.daum.net/v/20230129000329836</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230128225306439"/>
         <updated>2023-01-28T14:09:06.506Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김정현 전생.."임수향, 내 운명"]]></title>
-        <id>https://v.daum.net/v/20230128225243435</id>
-        <link href="https://v.daum.net/v/20230128225243435"/>
-        <updated>2023-01-28T14:09:06.506Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 정경호, 술 취해 전도연 집에서 동침..딱 걸렸다]]></title>
-        <id>https://v.daum.net/v/20230128225229433</id>
-        <link href="https://v.daum.net/v/20230128225229433"/>
-        <updated>2023-01-28T14:09:06.508Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타스캔들’ 정경호, 전도연 집에서 외박 들통‥ 신재하 이봉련 오해]]></title>
-        <id>https://v.daum.net/v/20230128224759412</id>
-        <link href="https://v.daum.net/v/20230128224759412"/>
-        <updated>2023-01-28T14:09:06.511Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영, 회장 딸 손나은 능력 인정 “아무것도 모른다는 말 취소”]]></title>
-        <id>https://v.daum.net/v/20230128224749411</id>
-        <link href="https://v.daum.net/v/20230128224749411"/>
-        <updated>2023-01-28T14:09:06.512Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
