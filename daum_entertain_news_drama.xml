@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-28T02:16:23.883Z</updated>
+    <updated>2023-01-28T03:12:42.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 박훈, 희열·분노·고뇌 격정의 빌런 3단계]]></title>
+        <id>https://v.daum.net/v/20230128113125734</id>
+        <link href="https://v.daum.net/v/20230128113125734"/>
+        <updated>2023-01-28T03:11:39.792Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전도연x정경호, 윈윈 작전 돌입]]></title>
+        <id>https://v.daum.net/v/20230128112623667</id>
+        <link href="https://v.daum.net/v/20230128112623667"/>
+        <updated>2023-01-28T03:11:39.793Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문가영, 유연석·정가람 양다리? "이리저리 흔들리는 모습 보여주려 했다"]]></title>
+        <id>https://v.daum.net/v/20230128112303632</id>
+        <link href="https://v.daum.net/v/20230128112303632"/>
+        <updated>2023-01-28T03:11:39.795Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정현, 알고 보니 1인 3역 '저승神'..'신비로운 설렘' 시작]]></title>
         <id>https://v.daum.net/v/20230128110802469</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230128090610976"/>
         <updated>2023-01-28T00:52:51.324Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 첫방, 김정현 복귀 합격점? 순간 시청률 5.5%...판타지 서사시 서막]]></title>
-        <id>https://v.daum.net/v/20230128090141908</id>
-        <link href="https://v.daum.net/v/20230128090141908"/>
-        <updated>2023-01-28T00:52:51.324Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살기 어린 김정현..'꼭두의 계절', 첫방송 최고 5.5%로 출발]]></title>
-        <id>https://v.daum.net/v/20230128090139907</id>
-        <link href="https://v.daum.net/v/20230128090139907"/>
-        <updated>2023-01-28T00:52:51.324Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연X정경호, 의미심장 회동..재능기부 '윈윈' 작전 돌입]]></title>
-        <id>https://v.daum.net/v/20230128084229721</id>
-        <link href="https://v.daum.net/v/20230128084229721"/>
-        <updated>2023-01-28T00:52:51.325Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
