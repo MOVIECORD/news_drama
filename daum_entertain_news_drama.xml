@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-29T09:10:32.224Z</updated>
+    <updated>2023-01-29T10:11:47.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌 여주가 문제…손나은·김다솜의 역량 부족, 연기력 논란 도마 위]]></title>
+        <id>https://v.daum.net/v/20230129190602054</id>
+        <link href="https://v.daum.net/v/20230129190602054"/>
+        <updated>2023-01-29T10:10:44.756Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서지혜·이상우, 뜨거운 밤 보낸 후..홍수현과 어색]]></title>
+        <id>https://v.daum.net/v/20230129181751296</id>
+        <link href="https://v.daum.net/v/20230129181751296"/>
+        <updated>2023-01-29T10:10:44.757Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꼭두의 계절' 김다솜, 임수향과 팽팽한 기싸움…첫 등장부터 강렬한 임팩트]]></title>
         <id>https://v.daum.net/v/20230129175446891</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230129143828275"/>
         <updated>2023-01-29T06:12:27.077Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들'에는 두 배 이상 튀어 오른 시청률보다 중요한 게 있다]]></title>
-        <id>https://v.daum.net/v/20230129141058724</id>
-        <link href="https://v.daum.net/v/20230129141058724"/>
-        <updated>2023-01-29T06:12:27.078Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타 스캔들’ 전도연X정경호, 초밀착 투샷 포착?…설렘 지수 ‘폭발’]]></title>
-        <id>https://v.daum.net/v/20230129134043228</id>
-        <link href="https://v.daum.net/v/20230129134043228"/>
-        <updated>2023-01-29T05:09:35.951Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
