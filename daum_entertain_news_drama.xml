@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-29T14:10:28.775Z</updated>
+    <updated>2023-01-29T15:10:09.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경호, 전도연 어깨에 기댔다..'제자 사망' 과거사 충격→비밀과외 발각?]]></title>
+        <id>https://v.daum.net/v/20230129235921998</id>
+        <link href="https://v.daum.net/v/20230129235921998"/>
+        <updated>2023-01-29T15:09:57.578Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 정경호, 전도연 위로에 되찾은 기운..로맨스 시작?]]></title>
         <id>https://v.daum.net/v/20230129224821753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129202525720"/>
         <updated>2023-01-29T12:17:12.935Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 왕빛나, 이유진 교통사고 소리에 충격 '눈물']]></title>
-        <id>https://v.daum.net/v/20230129201812666</id>
-        <link href="https://v.daum.net/v/20230129201812666"/>
-        <updated>2023-01-29T12:17:12.939Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
