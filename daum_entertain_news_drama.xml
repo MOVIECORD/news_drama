@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-29T15:10:09.396Z</updated>
+    <updated>2023-01-29T16:14:07.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전도연·정경호, 밀착 스킨십 속 가까워진 거리…정경호 충격 과거사]]></title>
+        <id>https://v.daum.net/v/20230130002708226</id>
+        <link href="https://v.daum.net/v/20230130002708226"/>
+        <updated>2023-01-29T16:13:04.346Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정경호, 전도연 어깨에 기댔다..'제자 사망' 과거사 충격→비밀과외 발각?]]></title>
         <id>https://v.daum.net/v/20230129235921998</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129202639726"/>
         <updated>2023-01-29T12:17:12.934Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“넌 둘째 부인이야” 이하나… 안지혜 비아냥에 ‘머리채’ 잡고 분노]]></title>
-        <id>https://v.daum.net/v/20230129202525720</id>
-        <link href="https://v.daum.net/v/20230129202525720"/>
-        <updated>2023-01-29T12:17:12.935Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
