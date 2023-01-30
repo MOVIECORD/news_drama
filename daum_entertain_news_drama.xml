@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-30T11:10:03.808Z</updated>
+    <updated>2023-01-30T12:20:17.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트롤리’ 김현주·박희순, 과거 개인사 공개 두고 또 갈등 최고조]]></title>
+        <id>https://v.daum.net/v/20230130210237389</id>
+        <link href="https://v.daum.net/v/20230130210237389"/>
+        <updated>2023-01-30T12:20:08.355Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리2' 결말은 '꽃'에 답이 있다...김은숙 드라마 공식]]></title>
+        <id>https://v.daum.net/v/20230130202530889</id>
+        <link href="https://v.daum.net/v/20230130202530889"/>
+        <updated>2023-01-30T12:20:08.360Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나·강지섭, 손창민 지하실 열쇠 찾았다]]></title>
+        <id>https://v.daum.net/v/20230130202339865</id>
+        <link href="https://v.daum.net/v/20230130202339865"/>
+        <updated>2023-01-30T12:20:08.360Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의 신부' 손창민 "지수원, 지하실에서 나갈 수 없어"]]></title>
         <id>https://v.daum.net/v/20230130200629665</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230130171120533"/>
         <updated>2023-01-30T08:14:14.705Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고수X하준, 김태우와 파이널 매치…긴장감 폭발]]></title>
-        <id>https://v.daum.net/v/20230130163325244</id>
-        <link href="https://v.daum.net/v/20230130163325244"/>
-        <updated>2023-01-30T08:14:14.707Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장근석이라는 '미끼'를 물어버렸다…독보적 카리스마]]></title>
-        <id>https://v.daum.net/v/20230130155435579</id>
-        <link href="https://v.daum.net/v/20230130155435579"/>
-        <updated>2023-01-30T07:10:32.935Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영 독보적 존재감 ‘대행사’ 주말극 평정하나]]></title>
-        <id>https://v.daum.net/v/20230130155359541</id>
-        <link href="https://v.daum.net/v/20230130155359541"/>
-        <updated>2023-01-30T07:10:32.944Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
