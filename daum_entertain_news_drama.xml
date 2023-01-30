@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-30T14:10:30.874Z</updated>
+    <updated>2023-01-30T15:11:56.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조선의 사랑꾼’ 윤기원 “내 여친, 관지림 닮아.. 재혼 생각도 긍정적”]]></title>
+        <id>https://v.daum.net/v/20230130234000765</id>
+        <link href="https://v.daum.net/v/20230130234000765"/>
+        <updated>2023-01-30T15:11:45.073Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미씽2' 이정은, 시신 발견됐지만 영혼 마을에 남았다 '반전']]></title>
         <id>https://v.daum.net/v/20230130221227307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130173932457"/>
         <updated>2023-01-30T09:11:41.756Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카지노' 강윤성 감독 "'더 글로리' 흥행, 솔직히 부러웠지만.."]]></title>
-        <id>https://v.daum.net/v/20230130173359245</id>
-        <link href="https://v.daum.net/v/20230130173359245"/>
-        <updated>2023-01-30T09:11:41.756Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
