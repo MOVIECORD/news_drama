@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-30T21:09:53.606Z</updated>
+    <updated>2023-01-30T22:10:47.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타' 이민재, 삼각로맨스 불 지피는 '직진남' 계보 잇는다]]></title>
+        <id>https://v.daum.net/v/20230131070530906</id>
+        <link href="https://v.daum.net/v/20230131070530906"/>
+        <updated>2023-01-30T22:10:37.599Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 스타작가 전쟁터 된 ‘섬과 시골’]]></title>
+        <id>https://v.daum.net/v/20230131063007476</id>
+        <link href="https://v.daum.net/v/20230131063007476"/>
+        <updated>2023-01-30T22:10:37.601Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 김현주, "그거뿐이라니…나한테 먼저 물어봤어야지" 박희순에 실망]]></title>
         <id>https://v.daum.net/v/20230131013901406</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230130175319867"/>
         <updated>2023-01-30T09:11:41.750Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세컨 하우스' 어성우 디자이너 “주거, 옷장과 같은 공간”]]></title>
-        <id>https://v.daum.net/v/20230130175315864</id>
-        <link href="https://v.daum.net/v/20230130175315864"/>
-        <updated>2023-01-30T09:11:41.754Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강윤성 감독 "사고 걱정...현금 소매치기 당해" #최민식]]></title>
-        <id>https://v.daum.net/v/20230130175005777</id>
-        <link href="https://v.daum.net/v/20230130175005777"/>
-        <updated>2023-01-30T09:11:41.754Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
