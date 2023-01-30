@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-30T10:12:31.094Z</updated>
+    <updated>2023-01-30T11:10:03.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 손창민 "지수원, 지하실에서 나갈 수 없어"]]></title>
+        <id>https://v.daum.net/v/20230130200629665</id>
+        <link href="https://v.daum.net/v/20230130200629665"/>
+        <updated>2023-01-30T11:09:01.247Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 이채민, 달달함 한도초과]]></title>
         <id>https://v.daum.net/v/20230130191131602</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130155359541"/>
         <updated>2023-01-30T07:10:32.944Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기, 英 여친 케이티와 한 달 만 혼인신고…임신·재혼설 맞았다]]></title>
-        <id>https://v.daum.net/v/20230130153126417</id>
-        <link href="https://v.daum.net/v/20230130153126417"/>
-        <updated>2023-01-30T07:10:32.945Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
