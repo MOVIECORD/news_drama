@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-31T10:11:39.705Z</updated>
+    <updated>2023-01-31T11:09:57.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손창민, '박하나=강바람' 알았다…"이 집에 숨어든 이유가 뭐야"]]></title>
+        <id>https://v.daum.net/v/20230131200517976</id>
+        <link href="https://v.daum.net/v/20230131200517976"/>
+        <updated>2023-01-31T11:09:42.050Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, 오창석과 결국 이혼…반효정 찾아갔다]]></title>
+        <id>https://v.daum.net/v/20230131194210485</id>
+        <link href="https://v.daum.net/v/20230131194210485"/>
+        <updated>2023-01-31T11:09:42.052Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심수봉, 남진·설운도 소속사 루체엔터테인먼트 전속 계약]]></title>
+        <id>https://v.daum.net/v/20230131191856141</id>
+        <link href="https://v.daum.net/v/20230131191856141"/>
+        <updated>2023-01-31T11:09:42.054Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실화 모티프 '다음 소희' 정주리 감독 "배두나 꼭 필요, 김시은은 보자마자 소희였다"]]></title>
         <id>https://v.daum.net/v/20230131185326747</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230131160741799"/>
         <updated>2023-01-31T07:09:58.017Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘카지노’ 강윤성 감독 “‘범죄도시’ 흥행 후에도 작품 네 편 무산”]]></title>
-        <id>https://v.daum.net/v/20230131160011442</id>
-        <link href="https://v.daum.net/v/20230131160011442"/>
-        <updated>2023-01-31T07:09:58.029Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘카지노’ 강윤성 감독 “최민식의 찰진 욕? 대본엔 없던 표현”]]></title>
-        <id>https://v.daum.net/v/20230131160009435</id>
-        <link href="https://v.daum.net/v/20230131160009435"/>
-        <updated>2023-01-31T07:09:58.033Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 카메라 밖 순한 '골든리트리버美']]></title>
-        <id>https://v.daum.net/v/20230131153747537</id>
-        <link href="https://v.daum.net/v/20230131153747537"/>
-        <updated>2023-01-31T07:09:58.035Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
