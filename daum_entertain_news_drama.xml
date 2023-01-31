@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-31T15:11:43.448Z</updated>
+    <updated>2023-01-31T16:14:27.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타' 오의식, '아스퍼거 증후군' 연기로 시청자 울렸다, 웃겼다]]></title>
+        <id>https://v.daum.net/v/20230201010030819</id>
+        <link href="https://v.daum.net/v/20230201010030819"/>
+        <updated>2023-01-31T16:14:15.502Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '미씽2' 고수, 새 영혼 마을 찾고 열린 결말…임시완 깜짝 등장]]></title>
         <id>https://v.daum.net/v/20230131233002226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230131183514471"/>
         <updated>2023-01-31T10:11:28.972Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['병역 비리' 송덕호 하차..'이로운 사기' 측 "캐스팅 중, 일정 차질 없다"]]></title>
-        <id>https://v.daum.net/v/20230131181327964</id>
-        <link href="https://v.daum.net/v/20230131181327964"/>
-        <updated>2023-01-31T10:11:28.974Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
