@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-01-31T12:20:55.676Z</updated>
+    <updated>2023-01-31T13:22:50.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 고수, 김태우에 납치된 김동휘 구했다]]></title>
+        <id>https://v.daum.net/v/20230131220204666</id>
+        <link href="https://v.daum.net/v/20230131220204666"/>
+        <updated>2023-01-31T13:22:40.163Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미씽2' 이정은, 시동생에 살해한 것 알고 분노 '오열']]></title>
+        <id>https://v.daum.net/v/20230131214747483</id>
+        <link href="https://v.daum.net/v/20230131214747483"/>
+        <updated>2023-01-31T13:22:40.165Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내 눈에 콩깍지’ 정수환, 출생의 비밀 안 백성현에 불안 호소 “두려워”]]></title>
         <id>https://v.daum.net/v/20230131210900914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230131164611519"/>
         <updated>2023-01-31T08:13:52.929Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사장님을 잠금해제' 채종협의 이유 있는 성장]]></title>
-        <id>https://v.daum.net/v/20230131164222353</id>
-        <link href="https://v.daum.net/v/20230131164222353"/>
-        <updated>2023-01-31T08:13:52.932Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고윤정 측 “JTBC ‘이제 곧 죽습니다’ 긍정 검토 중”]]></title>
-        <id>https://v.daum.net/v/20230131163342979</id>
-        <link href="https://v.daum.net/v/20230131163342979"/>
-        <updated>2023-01-31T08:13:52.932Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
