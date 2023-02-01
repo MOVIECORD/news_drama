@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-01T13:19:35.456Z</updated>
+    <updated>2023-02-01T14:10:33.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유세풍2' 강영석, 거짓 상소로 김민재♥김향기 이간질 "거리 둬라"]]></title>
+        <id>https://v.daum.net/v/20230201230407019</id>
+        <link href="https://v.daum.net/v/20230201230407019"/>
+        <updated>2023-02-01T14:10:23.816Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 천산화 행방 알았다…母 지수원과 '눈물의 재회']]></title>
         <id>https://v.daum.net/v/20230201204729317</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201173520062"/>
         <updated>2023-02-01T09:11:38.342Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 김동휘 "울컥하고 감동받는 순간 많아…성장의 시간"]]></title>
-        <id>https://v.daum.net/v/20230201172627716</id>
-        <link href="https://v.daum.net/v/20230201172627716"/>
-        <updated>2023-02-01T09:11:38.344Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
