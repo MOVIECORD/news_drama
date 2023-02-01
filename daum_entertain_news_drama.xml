@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-01T10:13:02.941Z</updated>
+    <updated>2023-02-01T11:10:39.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘환혼’ 박은혜, 배우 2막의 시작…“이제는 진짜 연기하고파”]]></title>
+        <id>https://v.daum.net/v/20230201200219560</id>
+        <link href="https://v.daum.net/v/20230201200219560"/>
+        <updated>2023-02-01T11:09:37.295Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["몰카 아니냐"...박형식 향한 쏟아지는 칭찬]]></title>
         <id>https://v.daum.net/v/20230201185007800</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201161443258"/>
         <updated>2023-02-01T08:15:52.550Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리베이터 속 유연석, 문가영에 '애타는 눈빛' 활활]]></title>
-        <id>https://v.daum.net/v/20230201160457843</id>
-        <link href="https://v.daum.net/v/20230201160457843"/>
-        <updated>2023-02-01T07:10:30.112Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
