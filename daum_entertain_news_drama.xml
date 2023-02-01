@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-01T02:35:40.797Z</updated>
+    <updated>2023-02-01T03:20:49.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박희순, 아들 정택현 사망 당일 만났다…수상한 행적 '반전']]></title>
+        <id>https://v.daum.net/v/20230201120945042</id>
+        <link href="https://v.daum.net/v/20230201120945042"/>
+        <updated>2023-02-01T03:20:37.747Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘유세풍2’ 김민재 김향기 김상경 위기, 빌런 백성철과 재대립]]></title>
+        <id>https://v.daum.net/v/20230201115035438</id>
+        <link href="https://v.daum.net/v/20230201115035438"/>
+        <updated>2023-02-01T03:20:37.759Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명불허전 허준호, '미씽2'로 입증한 저력..시즌10까지 갈까]]></title>
         <id>https://v.daum.net/v/20230201113116703</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230201092503840"/>
         <updated>2023-02-01T00:59:44.269Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀신 보는' 윤찬영·'영혼' 방민아..'딜리버리맨' 페어 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20230201092219751</id>
-        <link href="https://v.daum.net/v/20230201092219751"/>
-        <updated>2023-02-01T00:59:44.272Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고수→하준, 모두가 빛난 인생 연기…'미씽2'이 남긴 것]]></title>
-        <id>https://v.daum.net/v/20230201092202744</id>
-        <link href="https://v.daum.net/v/20230201092202744"/>
-        <updated>2023-02-01T00:59:44.275Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
