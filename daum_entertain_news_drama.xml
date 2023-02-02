@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-02T10:12:53.590Z</updated>
+    <updated>2023-02-02T11:10:07.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민에 "천산화 꼭 가져오겠다"]]></title>
+        <id>https://v.daum.net/v/20230202200641802</id>
+        <link href="https://v.daum.net/v/20230202200641802"/>
+        <updated>2023-02-02T11:09:55.508Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희 "김규선은 내 친딸" 발표]]></title>
+        <id>https://v.daum.net/v/20230202192059014</id>
+        <link href="https://v.daum.net/v/20230202192059014"/>
+        <updated>2023-02-02T11:09:55.514Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민재, 이별 선택 김향기 마음 돌릴까?…’절절’ 눈빛 포착]]></title>
         <id>https://v.daum.net/v/20230202182639137</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230202161931423"/>
         <updated>2023-02-02T08:13:59.870Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱 측 "'이제 곧 죽습니다' 특별출연 검토 중"]]></title>
-        <id>https://v.daum.net/v/20230202161221173</id>
-        <link href="https://v.daum.net/v/20230202161221173"/>
-        <updated>2023-02-02T08:13:59.870Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 화제작 '얼럿', AXN서 동시 방영 확정]]></title>
-        <id>https://v.daum.net/v/20230202160342834</id>
-        <link href="https://v.daum.net/v/20230202160342834"/>
-        <updated>2023-02-02T07:09:50.558Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
