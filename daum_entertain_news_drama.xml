@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-02T12:21:07.669Z</updated>
+    <updated>2023-02-02T13:20:48.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리', 파트2 앞두고 복습...이 캐릭터 주목]]></title>
+        <id>https://v.daum.net/v/20230202215003264</id>
+        <link href="https://v.daum.net/v/20230202215003264"/>
+        <updated>2023-02-02T13:19:46.463Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나 "약속 지킬 필요 없어"…손창민 앞에서 서류 파쇄]]></title>
         <id>https://v.daum.net/v/20230202211002823</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202173054691"/>
         <updated>2023-02-02T09:11:28.491Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 전수진, 츄 공개지지…"또 한 명 이 바닥에서 보내려고"]]></title>
-        <id>https://v.daum.net/v/20230202171526229</id>
-        <link href="https://v.daum.net/v/20230202171526229"/>
-        <updated>2023-02-02T09:11:28.492Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
