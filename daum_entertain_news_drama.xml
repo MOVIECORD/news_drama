@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-02T02:18:29.539Z</updated>
+    <updated>2023-02-02T03:13:00.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김우석 ‘청춘월담’ 특별출연, 미스터리 활약 기대해]]></title>
+        <id>https://v.daum.net/v/20230202114802485</id>
+        <link href="https://v.daum.net/v/20230202114802485"/>
+        <updated>2023-02-02T03:12:49.678Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영등위, ‘피지컬:100’ 스포 논란에 “넷플릭스 설명, 사실 아냐”]]></title>
+        <id>https://v.daum.net/v/20230202113917973</id>
+        <link href="https://v.daum.net/v/20230202113917973"/>
+        <updated>2023-02-02T03:12:49.683Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제목은 '사랑의 이해'인데, 이 사랑 도무지 이해할 수 없다는 분들에게]]></title>
+        <id>https://v.daum.net/v/20230202113516727</id>
+        <link href="https://v.daum.net/v/20230202113516727"/>
+        <updated>2023-02-02T03:12:49.684Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지창욱 측 "'동백꽃' 감독 신작 '웰컴 투 삼달리' 긍정 검토"...신혜선은 '미정']]></title>
+        <id>https://v.daum.net/v/20230202112651246</id>
+        <link href="https://v.daum.net/v/20230202112651246"/>
+        <updated>2023-02-02T03:12:49.684Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘청춘월담’ 박형식→전소니, 애틋한 로맨스 시작…6일 첫 방송]]></title>
         <id>https://v.daum.net/v/20230202111343426</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230202095705296"/>
         <updated>2023-02-02T02:18:18.184Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜는 친구 남편 유혹･정유민은 불륜..같은 처지 자매 ‘오열’]]></title>
-        <id>https://v.daum.net/v/20230202095030017</id>
-        <link href="https://v.daum.net/v/20230202095030017"/>
-        <updated>2023-02-02T00:54:00.960Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2 탈색남' 정윤재 "탈모 걱정 살짝, 두피 각질도 엄청나"]]></title>
-        <id>https://v.daum.net/v/20230202094610867</id>
-        <link href="https://v.daum.net/v/20230202094610867"/>
-        <updated>2023-02-02T00:54:00.962Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려대 졸업생' 정윤재 "백수 생활 걱정됐지만 기죽지 않아, 연기=내 선택"]]></title>
-        <id>https://v.daum.net/v/20230202094604860</id>
-        <link href="https://v.daum.net/v/20230202094604860"/>
-        <updated>2023-02-02T00:54:00.964Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['BH 신인' 정윤재 "김세정과 스터디 멤버, 뭐든 정석으로 하는 친구"]]></title>
-        <id>https://v.daum.net/v/20230202094602858</id>
-        <link href="https://v.daum.net/v/20230202094602858"/>
-        <updated>2023-02-02T00:54:00.967Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
