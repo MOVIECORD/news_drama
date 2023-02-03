@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-03T10:12:28.319Z</updated>
+    <updated>2023-02-03T11:10:16.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민에 "천산화 계발서? 내 머릿속에.."]]></title>
+        <id>https://v.daum.net/v/20230203200357288</id>
+        <link href="https://v.daum.net/v/20230203200357288"/>
+        <updated>2023-02-03T11:10:05.136Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우석이 '금혼령'을 통해 이룬 첫 번째 목표]]></title>
         <id>https://v.daum.net/v/20230203181147884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230203135503249"/>
         <updated>2023-02-03T05:10:30.169Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈의 자신감…'모범택시2', 시청률 16% 넘어설까]]></title>
-        <id>https://v.daum.net/v/20230203135002105</id>
-        <link href="https://v.daum.net/v/20230203135002105"/>
-        <updated>2023-02-03T05:10:30.170Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
