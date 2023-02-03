@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-03T14:10:35.635Z</updated>
+    <updated>2023-02-03T15:12:16.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균 "썩어빠진 것들, 싹 다 쓸어버려야지"]]></title>
+        <id>https://v.daum.net/v/20230203235010181</id>
+        <link href="https://v.daum.net/v/20230203235010181"/>
+        <updated>2023-02-03T15:11:13.459Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 이선균 "기생충 한 두마리 목표 아냐"→김홍파와 거래]]></title>
+        <id>https://v.daum.net/v/20230203233505126</id>
+        <link href="https://v.daum.net/v/20230203233505126"/>
+        <updated>2023-02-03T15:11:13.460Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜선·최대철, 말없이 눈물만..왜?]]></title>
+        <id>https://v.daum.net/v/20230203231901035</id>
+        <link href="https://v.daum.net/v/20230203231901035"/>
+        <updated>2023-02-03T15:11:13.462Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['법쩐' 이선균, 문채원에 애잔한 위로 "돈 있으면 지낼만해"]]></title>
         <id>https://v.daum.net/v/20230203224722884</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230203172739853"/>
         <updated>2023-02-03T09:11:41.667Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호 "수학 이해 안돼서 외워…100명 학생 앞 강의도"]]></title>
-        <id>https://v.daum.net/v/20230203172000658</id>
-        <link href="https://v.daum.net/v/20230203172000658"/>
-        <updated>2023-02-03T09:11:41.672Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS+법정물은 흥행 보증 수표?..‘법쩐’까지 터졌다]]></title>
-        <id>https://v.daum.net/v/20230203171016435</id>
-        <link href="https://v.daum.net/v/20230203171016435"/>
-        <updated>2023-02-03T08:13:43.503Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지현, 이민기와 호흡 맞춘다…"'룩앳미' 女주인공 출연"]]></title>
-        <id>https://v.daum.net/v/20230203161754833</id>
-        <link href="https://v.daum.net/v/20230203161754833"/>
-        <updated>2023-02-03T08:13:43.504Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
