@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-03T09:12:44.796Z</updated>
+    <updated>2023-02-03T10:12:28.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김우석이 '금혼령'을 통해 이룬 첫 번째 목표]]></title>
+        <id>https://v.daum.net/v/20230203181147884</id>
+        <link href="https://v.daum.net/v/20230203181147884"/>
+        <updated>2023-02-03T10:12:17.370Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갈 곳 잃은 임수향, 김정현과 90일간 계약 연애 체결?]]></title>
         <id>https://v.daum.net/v/20230203174742370</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230203135002105</id>
         <link href="https://v.daum.net/v/20230203135002105"/>
         <updated>2023-02-03T05:10:30.170Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석·정준하·이미주가 왜 여기서 나와? '꼭두의 계절' 출연]]></title>
-        <id>https://v.daum.net/v/20230203134930089</id>
-        <link href="https://v.daum.net/v/20230203134930089"/>
-        <updated>2023-02-03T05:10:30.171Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
