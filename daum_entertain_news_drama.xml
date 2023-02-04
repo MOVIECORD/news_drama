@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-04T05:09:46.723Z</updated>
+    <updated>2023-02-04T06:14:17.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너무나 충격적인 '미끼', 그래서 더 마음이 아리다]]></title>
+        <id>https://v.daum.net/v/20230204143254542</id>
+        <link href="https://v.daum.net/v/20230204143254542"/>
+        <updated>2023-02-04T06:13:14.863Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일타 스캔들’ 더욱 가까워지는 전도연과 정경호, 풋살장 나들이]]></title>
+        <id>https://v.daum.net/v/20230204142337435</id>
+        <link href="https://v.daum.net/v/20230204142337435"/>
+        <updated>2023-02-04T06:13:14.872Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정현, 인간 ♥임수향에 반응하는 심장..설렘 지수 최고조]]></title>
         <id>https://v.daum.net/v/20230204140342213</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204095106880"/>
         <updated>2023-02-04T02:10:05.123Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미씽2' 정윤재 "김필중 연기 위해 탈색 10회…시즌3 나왔으면" ①]]></title>
-        <id>https://v.daum.net/v/20230204095056874</id>
-        <link href="https://v.daum.net/v/20230204095056874"/>
-        <updated>2023-02-04T00:51:20.164Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신보라 정체는 환각, 가정 폭력으로 죽은 손민호 여자친구 ‘충격’]]></title>
-        <id>https://v.daum.net/v/20230204094349816</id>
-        <link href="https://v.daum.net/v/20230204094349816"/>
-        <updated>2023-02-04T00:51:20.167Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
