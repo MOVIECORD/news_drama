@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-04T15:10:55.298Z</updated>
+    <updated>2023-02-04T16:13:32.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경호, 유부녀 전도연 사랑하게 됐다..눈물겨운 입덕 부정]]></title>
+        <id>https://v.daum.net/v/20230205004327884</id>
+        <link href="https://v.daum.net/v/20230205004327884"/>
+        <updated>2023-02-04T16:13:21.067Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꼭두의 계절' 임수향, 김정현과 인연 깨달았다 "왜 이제 왔냐"]]></title>
+        <id>https://v.daum.net/v/20230205002648841</id>
+        <link href="https://v.daum.net/v/20230205002648841"/>
+        <updated>2023-02-04T16:13:21.068Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박훈, 김홍파 대신 이선균과 한 배 탔다...내부 고발]]></title>
         <id>https://v.daum.net/v/20230205000217727</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204225342445"/>
         <updated>2023-02-04T14:09:22.634Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문채원 "윗선까지 싹쓸이 할 것"]]></title>
-        <id>https://v.daum.net/v/20230204224840438</id>
-        <link href="https://v.daum.net/v/20230204224840438"/>
-        <updated>2023-02-04T14:09:22.635Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호 "내가 미친거냐 유부녀한테" 심쿵에 멘붕. 전도연母 정체 알았다]]></title>
-        <id>https://v.daum.net/v/20230204224603429</id>
-        <link href="https://v.daum.net/v/20230204224603429"/>
-        <updated>2023-02-04T14:09:22.635Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
