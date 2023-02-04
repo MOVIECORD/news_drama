@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-04T10:10:49.311Z</updated>
+    <updated>2023-02-04T11:09:08.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타 스캔들' 전도연·정경호, 풋살장 나들이…"치열 감정에 변환점 온다"]]></title>
+        <id>https://v.daum.net/v/20230204195852332</id>
+        <link href="https://v.daum.net/v/20230204195852332"/>
+        <updated>2023-02-04T11:08:56.779Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대행사' 이보영, 산 넘어 산…왕회장 전국환 부름 받은 이유는?]]></title>
+        <id>https://v.daum.net/v/20230204191259025</id>
+        <link href="https://v.daum.net/v/20230204191259025"/>
+        <updated>2023-02-04T11:08:56.785Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이보영, 손나은 망신 줬는데…왕회장 부름 받았다]]></title>
         <id>https://v.daum.net/v/20230204180508401</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204134240038"/>
         <updated>2023-02-04T05:09:36.906Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈이 가요, 눈이 가..전소니에게 눈이 가요]]></title>
-        <id>https://v.daum.net/v/20230204132255910</id>
-        <link href="https://v.daum.net/v/20230204132255910"/>
-        <updated>2023-02-04T05:09:36.906Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘법쩐’ 문채원X박훈, 미스터리 기자회견…빈틈없는 두뇌 싸움]]></title>
-        <id>https://v.daum.net/v/20230204131335844</id>
-        <link href="https://v.daum.net/v/20230204131335844"/>
-        <updated>2023-02-04T05:09:36.906Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
