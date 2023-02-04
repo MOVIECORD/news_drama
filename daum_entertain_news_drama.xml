@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-04T07:10:06.566Z</updated>
+    <updated>2023-02-04T08:13:01.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼자산다' 전현무, 22년 한라산 정기→23년 디톡스…연초마다 터진다]]></title>
+        <id>https://v.daum.net/v/20230204165035844</id>
+        <link href="https://v.daum.net/v/20230204165035844"/>
+        <updated>2023-02-04T08:12:49.611Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정경호, '제자母' 10살 연상 전도연과 나이차 극복…형사·의사·강사까지 직업 불문 매력]]></title>
+        <id>https://v.daum.net/v/20230204164301801</id>
+        <link href="https://v.daum.net/v/20230204164301801"/>
+        <updated>2023-02-04T08:12:49.612Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우리의 디데이’ 신보라, 학창시절 세상 떠난 손민호 여자친구..환영 자각에 혼란]]></title>
         <id>https://v.daum.net/v/20230204160718541</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204130009749"/>
         <updated>2023-02-04T04:12:03.571Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜･이상우, 뜨거운 밤 이후 키스..불륜현장 들켰다 ‘경악’]]></title>
-        <id>https://v.daum.net/v/20230204105949798</id>
-        <link href="https://v.daum.net/v/20230204105949798"/>
-        <updated>2023-02-04T02:10:05.102Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠수이별로 배신 당한 유연석, 꽁꽁 숨은 문가영 또 찾을까]]></title>
-        <id>https://v.daum.net/v/20230204104416614</id>
-        <link href="https://v.daum.net/v/20230204104416614"/>
-        <updated>2023-02-04T02:10:05.103Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
