@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-05T03:15:43.092Z</updated>
+    <updated>2023-02-05T04:12:29.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수면장애 이보영, 잠옷 차림으로 거리 배회까지…건강 적신호]]></title>
+        <id>https://v.daum.net/v/20230205130335837</id>
+        <link href="https://v.daum.net/v/20230205130335837"/>
+        <updated>2023-02-05T04:12:20.233Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연X정경호 ‘일타스캔들’ 측 “오늘 촬영 종료, 비공개 쫑파티”]]></title>
         <id>https://v.daum.net/v/20230205112143425</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205085006163"/>
         <updated>2023-02-05T00:57:23.973Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촬영장 비타민서 빌런으로…'소옆경' 반전 배우 이도엽]]></title>
-        <id>https://v.daum.net/v/20230205084007093</id>
-        <link href="https://v.daum.net/v/20230205084007093"/>
-        <updated>2023-02-05T00:57:23.973Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
