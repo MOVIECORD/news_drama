@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-05T14:09:25.107Z</updated>
+    <updated>2023-02-05T15:10:01.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사' 전국환, 이보영에 "조복래 vs 손나은 중 누구 손 잡겠냐"]]></title>
+        <id>https://v.daum.net/v/20230205234759641</id>
+        <link href="https://v.daum.net/v/20230205234759641"/>
+        <updated>2023-02-05T15:09:50.713Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대행사' 한준우, 손나은 청혼에 덥석 구청行 "혼인신고부터 하자"]]></title>
+        <id>https://v.daum.net/v/20230205231700542</id>
+        <link href="https://v.daum.net/v/20230205231700542"/>
+        <updated>2023-02-05T15:09:50.716Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보영, 공원에서 잠옷 차림으로 기상 ''나도 무서워"]]></title>
+        <id>https://v.daum.net/v/20230205230910505</id>
+        <link href="https://v.daum.net/v/20230205230910505"/>
+        <updated>2023-02-05T15:09:50.717Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 이보영, 몽유병 깨닫고 좌절.."나도 내가 무서워"]]></title>
         <id>https://v.daum.net/v/20230205230744497</id>
         <link href="https://v.daum.net/v/20230205230744497"/>
         <updated>2023-02-05T14:09:13.779Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 정경호♥전도연, 썸 타는 사이 딱 걸렸네…"미혼 밝혀라"]]></title>
-        <id>https://v.daum.net/v/20230205225017407</id>
-        <link href="https://v.daum.net/v/20230205225017407"/>
-        <updated>2023-02-05T14:09:13.781Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['일타스캔들' 정경호, ♥전도연 건물주 됐다..단순 母와 인연?]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230205213136951"/>
         <updated>2023-02-05T13:14:07.497Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 김소은, 김승수에 청혼..김경화 "보고싶었어, 여보"]]></title>
-        <id>https://v.daum.net/v/20230205213117950</id>
-        <link href="https://v.daum.net/v/20230205213117950"/>
-        <updated>2023-02-05T13:14:07.502Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“다른 女사이에서 낳은 아이니?” 김용림→민성욱… 친자불일치 감정서에 '폭발']]></title>
-        <id>https://v.daum.net/v/20230205212225888</id>
-        <link href="https://v.daum.net/v/20230205212225888"/>
-        <updated>2023-02-05T13:14:07.502Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
