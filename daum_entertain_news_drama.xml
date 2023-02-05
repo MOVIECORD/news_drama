@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-05T04:12:29.773Z</updated>
+    <updated>2023-02-05T05:10:05.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이보영뿐만 아니라 이 땅의 모든 을들이 마주하고 있는 것]]></title>
+        <id>https://v.daum.net/v/20230205134714476</id>
+        <link href="https://v.daum.net/v/20230205134714476"/>
+        <updated>2023-02-05T05:09:53.278Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꼭두' 손소망, 유쾌한 간호사 변신…임수향·김다솜 절친 활약]]></title>
+        <id>https://v.daum.net/v/20230205134155412</id>
+        <link href="https://v.daum.net/v/20230205134155412"/>
+        <updated>2023-02-05T05:09:53.279Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수면장애 이보영, 잠옷 차림으로 거리 배회까지…건강 적신호]]></title>
         <id>https://v.daum.net/v/20230205130335837</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230205085521203"/>
         <updated>2023-02-05T00:57:23.972Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불패신화' 이보영, 정신과약 부작용 '충격']]></title>
-        <id>https://v.daum.net/v/20230205085104172</id>
-        <link href="https://v.daum.net/v/20230205085104172"/>
-        <updated>2023-02-05T00:57:23.972Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유부녀한테…" 정경호, 전도연에 푹 빠졌다 '최고 10.9%']]></title>
-        <id>https://v.daum.net/v/20230205085006163</id>
-        <link href="https://v.daum.net/v/20230205085006163"/>
-        <updated>2023-02-05T00:57:23.973Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
