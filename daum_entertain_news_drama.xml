@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-06T21:11:23.734Z</updated>
+    <updated>2023-02-06T22:10:39.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트롤리' 정수빈, 김현주에 진실 폭로 "박희순과 서정연은 불륜…박희순이 정택현 죽였을 수도"]]></title>
+        <id>https://v.daum.net/v/20230207064817552</id>
+        <link href="https://v.daum.net/v/20230207064817552"/>
+        <updated>2023-02-06T22:10:28.523Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트롤리' 김현주, "당신 대체 그 날 누구 만났어?"…박희순 의심]]></title>
+        <id>https://v.daum.net/v/20230207062702343</id>
+        <link href="https://v.daum.net/v/20230207062702343"/>
+        <updated>2023-02-06T22:10:28.523Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출소 후 치킨·경호원과 사랑?, '재벌집'만 있나? '대행사' 속 재벌 흔적찾기]]></title>
         <id>https://v.daum.net/v/20230207060002906</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230206211923856"/>
         <updated>2023-02-06T12:26:24.631Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘트롤리’ 김현주, 박희순에 서늘한 눈빛…부부 갈등 최고조]]></title>
-        <id>https://v.daum.net/v/20230206210838712</id>
-        <link href="https://v.daum.net/v/20230206210838712"/>
-        <updated>2023-02-06T12:26:24.633Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소니, 일가족 살인사건 용의자 됐다? 남장 후 도주중]]></title>
-        <id>https://v.daum.net/v/20230206205100451</id>
-        <link href="https://v.daum.net/v/20230206205100451"/>
-        <updated>2023-02-06T12:26:24.637Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
