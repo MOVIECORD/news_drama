@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-06T20:12:49.856Z</updated>
+    <updated>2023-02-06T21:11:23.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출소 후 치킨·경호원과 사랑?, '재벌집'만 있나? '대행사' 속 재벌 흔적찾기]]></title>
+        <id>https://v.daum.net/v/20230207060002906</id>
+        <link href="https://v.daum.net/v/20230207060002906"/>
+        <updated>2023-02-06T21:10:21.497Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스', 장동윤X설인아X추영우 청춘 케미 예고...3월 6일 첫방]]></title>
         <id>https://v.daum.net/v/20230207020530586</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230206205100451"/>
         <updated>2023-02-06T12:26:24.637Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 손창민 악행에 오열 "죽여 버릴 거야"]]></title>
-        <id>https://v.daum.net/v/20230206204640400</id>
-        <link href="https://v.daum.net/v/20230206204640400"/>
-        <updated>2023-02-06T12:26:24.639Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
