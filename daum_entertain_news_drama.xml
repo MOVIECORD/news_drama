@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-06T04:13:27.666Z</updated>
+    <updated>2023-02-06T05:11:26.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판 커진 ‘대행사’ 이보영, 조복래 대신 손나은 선택할까]]></title>
+        <id>https://v.daum.net/v/20230206135245694</id>
+        <link href="https://v.daum.net/v/20230206135245694"/>
+        <updated>2023-02-06T05:10:24.072Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘법쩐’ 이건명 비참한 최후 “책임감 막중했던 시간” 퇴장 소감]]></title>
+        <id>https://v.daum.net/v/20230206134704543</id>
+        <link href="https://v.daum.net/v/20230206134704543"/>
+        <updated>2023-02-06T05:10:24.074Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오아시스’ 교복 입은 장동윤·설인아·추영우, 그 시절 고교생 변신]]></title>
         <id>https://v.daum.net/v/20230206130351587</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230206093152107"/>
         <updated>2023-02-06T00:51:41.808Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 이상우와 불륜 목격한 이상숙에 안절부절]]></title>
-        <id>https://v.daum.net/v/20230206093023034</id>
-        <link href="https://v.daum.net/v/20230206093023034"/>
-        <updated>2023-02-06T00:51:41.808Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지겹고 식상한 변호사, 조승우가 연기하면 다를까]]></title>
-        <id>https://v.daum.net/v/20230206093022032</id>
-        <link href="https://v.daum.net/v/20230206093022032"/>
-        <updated>2023-02-06T00:51:41.816Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
