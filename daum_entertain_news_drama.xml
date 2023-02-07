@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-07T12:20:03.679Z</updated>
+    <updated>2023-02-07T13:19:07.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘약한영웅’ 김수겸,  ‘방과 후 전쟁활동’ 출연확정]]></title>
+        <id>https://v.daum.net/v/20230207220214913</id>
+        <link href="https://v.daum.net/v/20230207220214913"/>
+        <updated>2023-02-07T13:18:57.562Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임세미 ‘방과 후 전쟁활동’ 출연확정]]></title>
+        <id>https://v.daum.net/v/20230207215701839</id>
+        <link href="https://v.daum.net/v/20230207215701839"/>
+        <updated>2023-02-07T13:18:57.562Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 전소니, 분노하는 박형식에 "귀신의 서 밀서 받았다"]]></title>
+        <id>https://v.daum.net/v/20230207214219639</id>
+        <link href="https://v.daum.net/v/20230207214219639"/>
+        <updated>2023-02-07T13:18:57.563Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중고마켓 인연 김재영·윤소희, 썸 타다 키스까지]]></title>
+        <id>https://v.daum.net/v/20230207212204376</id>
+        <link href="https://v.daum.net/v/20230207212204376"/>
+        <updated>2023-02-07T13:18:57.565Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민재♥김향기 꽁냥꽁냥→김상경vs강영석 심상치 않네]]></title>
         <id>https://v.daum.net/v/20230207211119222</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230207191947224"/>
         <updated>2023-02-07T11:09:13.001Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승기♥이다인, 결별설 틀렸고 결혼설 맞았다…이유비·이민호 축하]]></title>
-        <id>https://v.daum.net/v/20230207190952102</id>
-        <link href="https://v.daum.net/v/20230207190952102"/>
-        <updated>2023-02-07T10:11:32.835Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나랑 결혼해 줄래"..이승기, 만인의 프러포즈송 이다인 위해]]></title>
-        <id>https://v.daum.net/v/20230207190347023</id>
-        <link href="https://v.daum.net/v/20230207190347023"/>
-        <updated>2023-02-07T10:11:32.836Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동거, 이렇게 해보면 어때요?…'셰어하우스'·'고스트' 신박하네]]></title>
-        <id>https://v.daum.net/v/20230207183002445</id>
-        <link href="https://v.daum.net/v/20230207183002445"/>
-        <updated>2023-02-07T10:11:32.837Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원작 설정 살려 새롭게 각색"..韓색채 제대로 입힌 '청춘월담' 매력]]></title>
-        <id>https://v.daum.net/v/20230207181316025</id>
-        <link href="https://v.daum.net/v/20230207181316025"/>
-        <updated>2023-02-07T10:11:32.846Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
