@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-07T02:13:40.282Z</updated>
+    <updated>2023-02-07T03:11:53.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이름값 증명한 정웅인, 박형식 사냥터로 내몰고 빌런 포스]]></title>
+        <id>https://v.daum.net/v/20230207114414923</id>
+        <link href="https://v.daum.net/v/20230207114414923"/>
+        <updated>2023-02-07T03:11:41.355Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임세미, 고3 담임 된다..티빙 '방과 후 전쟁활동' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230207114357918</id>
+        <link href="https://v.daum.net/v/20230207114357918"/>
+        <updated>2023-02-07T03:11:41.356Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정현 녹음실서 포착, 노래까지 잘하는 건 반칙]]></title>
+        <id>https://v.daum.net/v/20230207113849741</id>
+        <link href="https://v.daum.net/v/20230207113849741"/>
+        <updated>2023-02-07T03:11:41.369Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘피지컬: 100’ 장호기PD “특공대로 복무, 당시 기억도 기획에 영향”]]></title>
+        <id>https://v.daum.net/v/20230207112937357</id>
+        <link href="https://v.daum.net/v/20230207112937357"/>
+        <updated>2023-02-07T03:11:41.369Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소지섭 측 "웹툰 원작 드라마 '광장', 출연 검토 중"]]></title>
         <id>https://v.daum.net/v/20230207110010817</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230207093750421"/>
         <updated>2023-02-07T00:53:30.291Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과 후 전쟁활동' 드디어 공개..신현수X문상민 등 신예 출격]]></title>
-        <id>https://v.daum.net/v/20230207093044121</id>
-        <link href="https://v.daum.net/v/20230207093044121"/>
-        <updated>2023-02-07T00:53:30.292Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식x전소니 '청춘월담', 제2의 '백일의 낭군님' 맞네..첫방 최고시청률 5%]]></title>
-        <id>https://v.daum.net/v/20230207092023720</id>
-        <link href="https://v.daum.net/v/20230207092023720"/>
-        <updated>2023-02-07T00:53:30.293Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재♥김향기 꽁냥모드, 위기 속 더욱 견고해졌다]]></title>
-        <id>https://v.daum.net/v/20230207091602579</id>
-        <link href="https://v.daum.net/v/20230207091602579"/>
-        <updated>2023-02-07T00:53:30.294Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2회 남은 ‘법쩐’ 측 “모든 떡밥 회수하는 통쾌한 전개 이어질 것”]]></title>
-        <id>https://v.daum.net/v/20230207091152442</id>
-        <link href="https://v.daum.net/v/20230207091152442"/>
-        <updated>2023-02-07T00:53:30.296Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
