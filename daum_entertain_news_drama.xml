@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-07T08:15:05.721Z</updated>
+    <updated>2023-02-07T09:11:38.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재영·윤소희, 이러다 열애설 뜨겠어…짜릿 키스신]]></title>
+        <id>https://v.daum.net/v/20230207180127743</id>
+        <link href="https://v.daum.net/v/20230207180127743"/>
+        <updated>2023-02-07T09:11:29.432Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김유정 "데뷔 20주년에 연극 도전? 너무 하고 싶었을 뿐이에요"]]></title>
+        <id>https://v.daum.net/v/20230207174825390</id>
+        <link href="https://v.daum.net/v/20230207174825390"/>
+        <updated>2023-02-07T09:11:29.433Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임세미, '방과 후 전쟁활동' 출연…2023년 열일 예고]]></title>
+        <id>https://v.daum.net/v/20230207174204203</id>
+        <link href="https://v.daum.net/v/20230207174204203"/>
+        <updated>2023-02-07T09:11:29.438Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트롤리' 김현주, 남편 박희순X절친 서정연 불륜 삼자대면]]></title>
         <id>https://v.daum.net/v/20230207160630842</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230207142926085"/>
         <updated>2023-02-07T06:13:53.503Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 1차 티저, 더 악랄하고 집요한 빌런 온다]]></title>
-        <id>https://v.daum.net/v/20230207142901067</id>
-        <link href="https://v.daum.net/v/20230207142901067"/>
-        <updated>2023-02-07T06:13:53.506Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피지컬: 100’ 장호기PD “예상 뛰어넘는 일들이 많이 펼쳐질 것”]]></title>
-        <id>https://v.daum.net/v/20230207142216787</id>
-        <link href="https://v.daum.net/v/20230207142216787"/>
-        <updated>2023-02-07T06:13:53.507Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’ 박형식, 살인사건 용의자 전소니 포획…서슬 퍼런 추궁]]></title>
-        <id>https://v.daum.net/v/20230207142032717</id>
-        <link href="https://v.daum.net/v/20230207142032717"/>
-        <updated>2023-02-07T06:13:53.508Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
