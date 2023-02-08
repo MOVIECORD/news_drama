@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-08T12:19:54.610Z</updated>
+    <updated>2023-02-08T13:20:13.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['두뇌공조' 정용화, 차태현→정동환까지…만능 케미스트리]]></title>
+        <id>https://v.daum.net/v/20230208221752654</id>
+        <link href="https://v.daum.net/v/20230208221752654"/>
+        <updated>2023-02-08T13:20:01.841Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김민재에게 닥친 시련, ♥김향기 실종에 절망]]></title>
+        <id>https://v.daum.net/v/20230208221509619</id>
+        <link href="https://v.daum.net/v/20230208221509619"/>
+        <updated>2023-02-08T13:20:01.855Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전도연x정경호 로코에 해외도 반했다..'일타스캔들' 넷플릭스 비영어 5위]]></title>
+        <id>https://v.daum.net/v/20230208215223104</id>
+        <link href="https://v.daum.net/v/20230208215223104"/>
+        <updated>2023-02-08T13:20:01.861Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 유연석 떠난 문가영, 예고 없는 이별의 끝은?]]></title>
+        <id>https://v.daum.net/v/20230208213215622</id>
+        <link href="https://v.daum.net/v/20230208213215622"/>
+        <updated>2023-02-08T13:20:01.870Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유세풍2', 김향기 실종사건 발생 …절망에 빠진 김민재]]></title>
         <id>https://v.daum.net/v/20230208205653830</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230208182525146"/>
         <updated>2023-02-08T10:13:01.173Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 운명의 소용돌이 가운데서 느껴지는 묘한 기시감]]></title>
-        <id>https://v.daum.net/v/20230208180937707</id>
-        <link href="https://v.daum.net/v/20230208180937707"/>
-        <updated>2023-02-08T09:11:33.813Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장우 "한마디로 X자식…가스라이팅+정치질"]]></title>
-        <id>https://v.daum.net/v/20230208175005088</id>
-        <link href="https://v.daum.net/v/20230208175005088"/>
-        <updated>2023-02-08T09:11:33.813Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현주·차태현 와도 ‘백약이 무효’..애국가 시청률=지상파 월화극]]></title>
-        <id>https://v.daum.net/v/20230208174923071</id>
-        <link href="https://v.daum.net/v/20230208174923071"/>
-        <updated>2023-02-08T09:11:33.814Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캔디도 슈퍼우먼도 가라! 이보영·문가영, 안방 유리천장 깬 여우들]]></title>
-        <id>https://v.daum.net/v/20230208173003461</id>
-        <link href="https://v.daum.net/v/20230208173003461"/>
-        <updated>2023-02-08T09:11:33.815Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
