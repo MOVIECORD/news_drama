@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-08T20:12:07.706Z</updated>
+    <updated>2023-02-08T21:10:17.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘청춘월담’ 박형식, 왕세자 계보 잇는다]]></title>
+        <id>https://v.daum.net/v/20230209060056581</id>
+        <link href="https://v.daum.net/v/20230209060056581"/>
+        <updated>2023-02-08T21:10:07.334Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수현, ‘불륜’ 서지혜·이상우에게 한 방 날릴 차례]]></title>
         <id>https://v.daum.net/v/20230209040012284</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230208202631403"/>
         <updated>2023-02-08T12:19:43.688Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀의 게임’ 장서희, 목숨 위협 하는 오창석 설득...반효정 배신하나?]]></title>
-        <id>https://v.daum.net/v/20230208200903107</id>
-        <link href="https://v.daum.net/v/20230208200903107"/>
-        <updated>2023-02-08T11:09:13.604Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
