@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-08T22:10:30.491Z</updated>
+    <updated>2023-02-08T23:12:08.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 2023년 SBS 시즌제 드라마 첫 타자 등판]]></title>
+        <id>https://v.daum.net/v/20230209080916431</id>
+        <link href="https://v.daum.net/v/20230209080916431"/>
+        <updated>2023-02-08T23:11:00.213Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아일랜드’ 성준, 김남길과 본격 대립 시작…오는 24일 파트2 공개]]></title>
+        <id>https://v.daum.net/v/20230209080739389</id>
+        <link href="https://v.daum.net/v/20230209080739389"/>
+        <updated>2023-02-08T23:11:00.215Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연, '방과 후 전쟁활동' 출연..전투적 열일 행보]]></title>
+        <id>https://v.daum.net/v/20230209075349075</id>
+        <link href="https://v.daum.net/v/20230209075349075"/>
+        <updated>2023-02-08T23:11:00.217Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연애대전’ 김옥빈 “18년만에 첫 로코, 완전히 망가졌죠”]]></title>
         <id>https://v.daum.net/v/20230209063015059</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230208215223104"/>
         <updated>2023-02-08T13:20:01.861Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 이해’ 유연석 떠난 문가영, 예고 없는 이별의 끝은?]]></title>
-        <id>https://v.daum.net/v/20230208213215622</id>
-        <link href="https://v.daum.net/v/20230208213215622"/>
-        <updated>2023-02-08T13:20:01.870Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유세풍2', 김향기 실종사건 발생 …절망에 빠진 김민재]]></title>
-        <id>https://v.daum.net/v/20230208205653830</id>
-        <link href="https://v.daum.net/v/20230208205653830"/>
-        <updated>2023-02-08T12:19:43.682Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 강지섭과 묘한 감정 속 포옹 "고마워"]]></title>
-        <id>https://v.daum.net/v/20230208204438651</id>
-        <link href="https://v.daum.net/v/20230208204438651"/>
-        <updated>2023-02-08T12:19:43.682Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
