@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-09T18:13:52.582Z</updated>
+    <updated>2023-02-09T19:09:25.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍수현, 이상우 불륜 못참고 이혼하나? 눈물 식사]]></title>
+        <id>https://v.daum.net/v/20230210040012647</id>
+        <link href="https://v.daum.net/v/20230210040012647"/>
+        <updated>2023-02-09T19:09:15.251Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민재♥김향기, 혼례 치르고 부부됐다…2세까지 예고]]></title>
         <id>https://v.daum.net/v/20230210003353673</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230209203830121"/>
         <updated>2023-02-09T12:21:46.506Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박윤재, 박하나 조언에 복수 시작… 차광수 체포]]></title>
-        <id>https://v.daum.net/v/20230209203728107</id>
-        <link href="https://v.daum.net/v/20230209203728107"/>
-        <updated>2023-02-09T12:21:46.506Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
