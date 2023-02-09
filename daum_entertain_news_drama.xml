@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-09T08:14:46.103Z</updated>
+    <updated>2023-02-09T09:11:32.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준혁 측 "'비밀의 숲' 스핀오프 '좋거나 나쁜 동재' 출연 확정"]]></title>
+        <id>https://v.daum.net/v/20230209175405922</id>
+        <link href="https://v.daum.net/v/20230209175405922"/>
+        <updated>2023-02-09T09:11:20.276Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘금쪽이 서동재’ 이준혁 ‘비숲’ 스핀오프 출연확정]]></title>
+        <id>https://v.daum.net/v/20230209172756076</id>
+        <link href="https://v.daum.net/v/20230209172756076"/>
+        <updated>2023-02-09T09:11:20.284Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마로 뭉친 인피니트! 김명수VS 이성열, MBC '넘버스' 출연]]></title>
+        <id>https://v.daum.net/v/20230209172602002</id>
+        <link href="https://v.daum.net/v/20230209172602002"/>
+        <updated>2023-02-09T09:11:20.284Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["어서 와~환영해"..'더 글로리' 파트2 티저 영상 조회수 '폭발']]></title>
+        <id>https://v.daum.net/v/20230209172350925</id>
+        <link href="https://v.daum.net/v/20230209172350925"/>
+        <updated>2023-02-09T09:11:20.289Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약류 위반혐의 연예인 규제는? 방송사 "그때그때 달라요"]]></title>
         <id>https://v.daum.net/v/20230209171003479</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230209144450100"/>
         <updated>2023-02-09T06:14:42.146Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강준규, ‘각자의 사정’ 종영 소감 “표현 방식 많이 배워…행복했다”]]></title>
-        <id>https://v.daum.net/v/20230209143021520</id>
-        <link href="https://v.daum.net/v/20230209143021520"/>
-        <updated>2023-02-09T06:14:42.152Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들'부터 '눈물의 여왕'까지…tvN, 2023년 작정한 라인업]]></title>
-        <id>https://v.daum.net/v/20230209142806432</id>
-        <link href="https://v.daum.net/v/20230209142806432"/>
-        <updated>2023-02-09T06:14:42.152Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['느그 동재' 이준혁 주인공! '비밀의 숲' 스핀오프 제작 확정]]></title>
-        <id>https://v.daum.net/v/20230209142757424</id>
-        <link href="https://v.daum.net/v/20230209142757424"/>
-        <updated>2023-02-09T06:14:42.156Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환혼'→'더 글로리' 스튜디오 드래곤, 22년 총 매출 6979억원]]></title>
-        <id>https://v.daum.net/v/20230209142330242</id>
-        <link href="https://v.daum.net/v/20230209142330242"/>
-        <updated>2023-02-09T06:14:42.159Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
