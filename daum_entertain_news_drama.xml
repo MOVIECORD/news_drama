@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T09:11:49.142Z</updated>
+    <updated>2023-02-10T10:12:31.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤찬영x방민아x김민석, 남다른 하이텐션 '찐이야']]></title>
+        <id>https://v.daum.net/v/20230210183121052</id>
+        <link href="https://v.daum.net/v/20230210183121052"/>
+        <updated>2023-02-10T10:12:20.265Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하도영·전재준 폭력→손명오 부활?…의문 가득 '더 글로리' 파트2]]></title>
+        <id>https://v.daum.net/v/20230210183003024</id>
+        <link href="https://v.daum.net/v/20230210183003024"/>
+        <updated>2023-02-10T10:12:20.266Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['딜리버리맨' 러블리 영혼 방민아, '극과 극' 첫 스틸 공개]]></title>
+        <id>https://v.daum.net/v/20230210182408937</id>
+        <link href="https://v.daum.net/v/20230210182408937"/>
+        <updated>2023-02-10T10:12:20.269Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태국 드라마→'SNL' 크루까지…'카지노' 이해우가 전한 연기에 대한 진심]]></title>
         <id>https://v.daum.net/v/20230210175004106</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230210150522917"/>
         <updated>2023-02-10T06:14:32.090Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 문가영 "연애는 문가영처럼…집착까진 안 한다"]]></title>
-        <id>https://v.daum.net/v/20230210150519914</id>
-        <link href="https://v.daum.net/v/20230210150519914"/>
-        <updated>2023-02-10T06:14:32.091Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김정현X임수향X김다솜, 기억상실 삼각 제대로 꼬였네]]></title>
-        <id>https://v.daum.net/v/20230210150452900</id>
-        <link href="https://v.daum.net/v/20230210150452900"/>
-        <updated>2023-02-10T06:14:32.091Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방민아 “기억 없는 귀신 캐릭터, 자유롭게 연기했다”]]></title>
-        <id>https://v.daum.net/v/20230210145110457</id>
-        <link href="https://v.daum.net/v/20230210145110457"/>
-        <updated>2023-02-10T06:14:32.093Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
