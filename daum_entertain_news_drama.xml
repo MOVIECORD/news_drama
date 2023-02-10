@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T21:09:59.141Z</updated>
+    <updated>2023-02-10T22:10:56.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차태현♥곽선영, 작정하고 연애 시작…뽀뽀 포착]]></title>
+        <id>https://v.daum.net/v/20230211070007742</id>
+        <link href="https://v.daum.net/v/20230211070007742"/>
+        <updated>2023-02-10T22:10:45.139Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시사교양 PD가 만든 화제작 '피지컬:100'… 흥행 비결 '셋']]></title>
         <id>https://v.daum.net/v/20230211060011188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210223405320"/>
         <updated>2023-02-10T14:10:47.643Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균, 박훈에 "몸 조심해. 넌 이제 내 거잖아"]]></title>
-        <id>https://v.daum.net/v/20230210223346317</id>
-        <link href="https://v.daum.net/v/20230210223346317"/>
-        <updated>2023-02-10T14:10:47.643Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
