@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T08:14:49.493Z</updated>
+    <updated>2023-02-10T09:11:49.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태국 드라마→'SNL' 크루까지…'카지노' 이해우가 전한 연기에 대한 진심]]></title>
+        <id>https://v.daum.net/v/20230210175004106</id>
+        <link href="https://v.daum.net/v/20230210175004106"/>
+        <updated>2023-02-10T09:11:38.506Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영 "나와 닮은 안수영, 낯설기도…소리내어 운 적 없는 모습 비슷"]]></title>
         <id>https://v.daum.net/v/20230210171005858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210145110457"/>
         <updated>2023-02-10T06:14:32.093Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기용, '히어로는 아닙니다만' 주연 물망..전역 후 복귀작 될까]]></title>
-        <id>https://v.daum.net/v/20230210144510254</id>
-        <link href="https://v.daum.net/v/20230210144510254"/>
-        <updated>2023-02-10T06:14:32.093Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
