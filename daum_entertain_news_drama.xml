@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T12:19:34.364Z</updated>
+    <updated>2023-02-10T13:20:41.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 문채원, 박훈과 기싸움 "짖으라면 짖고, 물라면 물고"]]></title>
+        <id>https://v.daum.net/v/20230210221721185</id>
+        <link href="https://v.daum.net/v/20230210221721185"/>
+        <updated>2023-02-10T13:19:38.832Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내 남편은 건드리지 마"…'이상윤 부인' 이지아, 살벌 경고]]></title>
+        <id>https://v.daum.net/v/20230210221505166</id>
+        <link href="https://v.daum.net/v/20230210221505166"/>
+        <updated>2023-02-10T13:19:38.840Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강유석, 이선균에 "뭘 하든 법대로 해"]]></title>
+        <id>https://v.daum.net/v/20230210221046121</id>
+        <link href="https://v.daum.net/v/20230210221046121"/>
+        <updated>2023-02-10T13:19:38.842Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수원, 진짜 정신 돌아왔나? 자신 죽이러 온 손창민 '제지']]></title>
         <id>https://v.daum.net/v/20230210205002139</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230210175004106"/>
         <updated>2023-02-10T09:11:38.506Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영 "나와 닮은 안수영, 낯설기도…소리내어 운 적 없는 모습 비슷"]]></title>
-        <id>https://v.daum.net/v/20230210171005858</id>
-        <link href="https://v.daum.net/v/20230210171005858"/>
-        <updated>2023-02-10T08:14:37.637Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대행사' 이보영vs조성하→손나은vs조복래, 전쟁 속 든든한 지원군도 ‘주목’]]></title>
-        <id>https://v.daum.net/v/20230210162921570</id>
-        <link href="https://v.daum.net/v/20230210162921570"/>
-        <updated>2023-02-10T08:14:37.637Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형수 “철없는 팀장도 애정으로 보듬어준 시청자들에 감사”]]></title>
-        <id>https://v.daum.net/v/20230210160954002</id>
-        <link href="https://v.daum.net/v/20230210160954002"/>
-        <updated>2023-02-10T07:11:38.337Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
