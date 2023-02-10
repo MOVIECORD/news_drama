@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T15:11:25.483Z</updated>
+    <updated>2023-02-10T16:14:47.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균, 박훈에게 당했다]]></title>
+        <id>https://v.daum.net/v/20230211005001132</id>
+        <link href="https://v.daum.net/v/20230211005001132"/>
+        <updated>2023-02-10T16:14:32.177Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꼭두의 계절' 임수향 "사라져" 한마디에 김정현 저승行]]></title>
+        <id>https://v.daum.net/v/20230211002023015</id>
+        <link href="https://v.daum.net/v/20230211002023015"/>
+        <updated>2023-02-10T16:14:32.178Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금혼령' 정보민 "사랑스러운 역할만 했는데, '칼단발'로 캐릭터 변신 하고싶죠"]]></title>
         <id>https://v.daum.net/v/20230211000702949</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230210205002139"/>
         <updated>2023-02-10T12:19:24.764Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 박하나 복수 숨긴 애틋포옹에 최수린 눈물 "용서 못 해"]]></title>
-        <id>https://v.daum.net/v/20230210204600091</id>
-        <link href="https://v.daum.net/v/20230210204600091"/>
-        <updated>2023-02-10T12:19:24.765Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 최수린, 박하나 연기에 혼란 "내 딸 아니야"]]></title>
-        <id>https://v.daum.net/v/20230210202353776</id>
-        <link href="https://v.daum.net/v/20230210202353776"/>
-        <updated>2023-02-10T12:19:24.766Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
