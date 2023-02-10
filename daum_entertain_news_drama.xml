@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-10T07:11:49.316Z</updated>
+    <updated>2023-02-10T08:14:49.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문가영 "나와 닮은 안수영, 낯설기도…소리내어 운 적 없는 모습 비슷"]]></title>
+        <id>https://v.daum.net/v/20230210171005858</id>
+        <link href="https://v.daum.net/v/20230210171005858"/>
+        <updated>2023-02-10T08:14:37.637Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대행사' 이보영vs조성하→손나은vs조복래, 전쟁 속 든든한 지원군도 ‘주목’]]></title>
+        <id>https://v.daum.net/v/20230210162921570</id>
+        <link href="https://v.daum.net/v/20230210162921570"/>
+        <updated>2023-02-10T08:14:37.637Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형수 “철없는 팀장도 애정으로 보듬어준 시청자들에 감사”]]></title>
         <id>https://v.daum.net/v/20230210160954002</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230210144510254"/>
         <updated>2023-02-10T06:14:32.093Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 문가영 "수영·상수 돈까스 먹고, 정종현 돈 갚았을 것" ③]]></title>
-        <id>https://v.daum.net/v/20230210144022117</id>
-        <link href="https://v.daum.net/v/20230210144022117"/>
-        <updated>2023-02-10T06:14:32.094Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 문가영 "답답해서 못본다는데 시청률 올라…신기" ②]]></title>
-        <id>https://v.daum.net/v/20230210144012111</id>
-        <link href="https://v.daum.net/v/20230210144012111"/>
-        <updated>2023-02-10T06:14:32.094Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
