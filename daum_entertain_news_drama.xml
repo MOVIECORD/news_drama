@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-11T08:14:19.207Z</updated>
+    <updated>2023-02-11T09:10:31.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미끼’ 이성욱, 열혈 형사에서 왜 방관자 됐나..극과 극 모습에 '파트2' 기대감 상승 이성욱]]></title>
+        <id>https://v.daum.net/v/20230211180622733</id>
+        <link href="https://v.daum.net/v/20230211180622733"/>
+        <updated>2023-02-11T09:10:21.311Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["불륜 들킨 서지혜♥이상우, 순탄치 않은 미래" 홍수현의 결정적 한 방은?]]></title>
         <id>https://v.daum.net/v/20230211165805803</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230211122101773"/>
         <updated>2023-02-11T04:12:43.164Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍수현, 살얼음 불륜 삼자대면 포착→서지혜 눈물 펑펑 예고]]></title>
-        <id>https://v.daum.net/v/20230211112107310</id>
-        <link href="https://v.daum.net/v/20230211112107310"/>
-        <updated>2023-02-11T03:12:35.974Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
