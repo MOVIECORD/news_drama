@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-11T15:10:22.938Z</updated>
+    <updated>2023-02-11T16:13:32.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사' 이보영 "매출 50% 상승 못 시키면 퇴사"]]></title>
+        <id>https://v.daum.net/v/20230212002608052</id>
+        <link href="https://v.daum.net/v/20230212002608052"/>
+        <updated>2023-02-11T16:13:21.520Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법쩐' 이선균, 원 팀과 함께 김홍파-박훈에 '복수 성공']]></title>
+        <id>https://v.daum.net/v/20230212001800039</id>
+        <link href="https://v.daum.net/v/20230212001800039"/>
+        <updated>2023-02-11T16:13:21.526Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보영, 母 김미경 재회→손나은♥한준우 관계, VC그룹이 알아]]></title>
+        <id>https://v.daum.net/v/20230212001045024</id>
+        <link href="https://v.daum.net/v/20230212001045024"/>
+        <updated>2023-02-11T16:13:21.529Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 한주우, 조성하 꺼림직한 응원에 "내가 약점"]]></title>
         <id>https://v.daum.net/v/20230212000722012</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230211224118653"/>
         <updated>2023-02-11T14:09:20.957Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박훈, 이선균 주변인들 탈탈 털기 시작 "눈만 마주쳐도 죄"]]></title>
-        <id>https://v.daum.net/v/20230211223646617</id>
-        <link href="https://v.daum.net/v/20230211223646617"/>
-        <updated>2023-02-11T14:09:20.958Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타’ 정경호 “나 혼자 좋아해” 전도연 불륜 스캔들 해명]]></title>
-        <id>https://v.daum.net/v/20230211223454602</id>
-        <link href="https://v.daum.net/v/20230211223454602"/>
-        <updated>2023-02-11T14:09:20.958Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타’ 정경호, 전도연 향한 마음 인정→“혼자 좋아했습니다” 공개고백]]></title>
-        <id>https://v.daum.net/v/20230211223200563</id>
-        <link href="https://v.daum.net/v/20230211223200563"/>
-        <updated>2023-02-11T14:09:20.959Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
