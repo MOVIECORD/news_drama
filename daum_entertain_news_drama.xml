@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-11T09:10:31.072Z</updated>
+    <updated>2023-02-11T10:10:36.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타 스캔들' 노윤서, 신비로운 분위기 속 느껴지는 따뜻한 공감]]></title>
+        <id>https://v.daum.net/v/20230211185540169</id>
+        <link href="https://v.daum.net/v/20230211185540169"/>
+        <updated>2023-02-11T10:10:25.741Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2막 시작 '일타 스캔들', 시청률 3배→깊어진 전도연♥정경호]]></title>
+        <id>https://v.daum.net/v/20230211183501995</id>
+        <link href="https://v.daum.net/v/20230211183501995"/>
+        <updated>2023-02-11T10:10:25.752Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미끼’ 이성욱, 열혈 형사에서 왜 방관자 됐나..극과 극 모습에 '파트2' 기대감 상승 이성욱]]></title>
         <id>https://v.daum.net/v/20230211180622733</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230211132703131"/>
         <updated>2023-02-11T05:10:04.277Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘법쩐’ 이선균 “여러모로 고민 많은 작품, 통쾌한 복수하고 싶었다”]]></title>
-        <id>https://v.daum.net/v/20230211132142105</id>
-        <link href="https://v.daum.net/v/20230211132142105"/>
-        <updated>2023-02-11T05:10:04.280Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전도연X정경호 로맨스 더 깊어진다"…본격 2막 돌입]]></title>
-        <id>https://v.daum.net/v/20230211122101773</id>
-        <link href="https://v.daum.net/v/20230211122101773"/>
-        <updated>2023-02-11T04:12:43.164Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
