@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-11T06:13:25.964Z</updated>
+    <updated>2023-02-11T07:10:03.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘빨간풍선’ 서지혜 이상우, 불륜 발각 후 무슨 일이]]></title>
+        <id>https://v.daum.net/v/20230211155850330</id>
+        <link href="https://v.daum.net/v/20230211155850330"/>
+        <updated>2023-02-11T07:09:52.859Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['저승신' 김정현, 눈앞 응급환자에 '의사 가면' 벗을까]]></title>
+        <id>https://v.daum.net/v/20230211153400109</id>
+        <link href="https://v.daum.net/v/20230211153400109"/>
+        <updated>2023-02-11T07:09:52.859Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의사 탈 쓴 저승신 김정현, 기억 돌아왔다는 거짓말 들킬 위기]]></title>
         <id>https://v.daum.net/v/20230211150312851</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230211105008991"/>
         <updated>2023-02-11T02:12:55.931Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 정가람 "문가영의 미소, 어미새가 아기새 보듯…"]]></title>
-        <id>https://v.daum.net/v/20230211105003987</id>
-        <link href="https://v.daum.net/v/20230211105003987"/>
-        <updated>2023-02-11T02:12:55.931Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 손나은 vs 조복래 VC그룹 승계 다툼, 이보영 선택은]]></title>
-        <id>https://v.daum.net/v/20230211104813963</id>
-        <link href="https://v.daum.net/v/20230211104813963"/>
-        <updated>2023-02-11T02:12:55.931Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
