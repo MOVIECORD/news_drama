@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-12T16:14:31.722Z</updated>
+    <updated>2023-02-12T17:10:33.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강유석 "'법쩐' 위해 정장 맞춰…몰입 깬단 비판도 충고로 수용"]]></title>
+        <id>https://v.daum.net/v/20230213020101580</id>
+        <link href="https://v.daum.net/v/20230213020101580"/>
+        <updated>2023-02-12T17:09:31.307Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최종' 정의를 향한 몸부림···이선균x문채원x강유석 제자리로]]></title>
+        <id>https://v.daum.net/v/20230213014422567</id>
+        <link href="https://v.daum.net/v/20230213014422567"/>
+        <updated>2023-02-12T17:09:31.320Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대행사' 김미경, 35년 전 버린 딸 이보영에 "엄마 용서하지 마"]]></title>
         <id>https://v.daum.net/v/20230213002543347</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230212223630863"/>
         <updated>2023-02-12T14:10:08.736Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 정경호, 전도연에 직진 고백 "내가 그쪽 좋아해요"]]></title>
-        <id>https://v.daum.net/v/20230212215648651</id>
-        <link href="https://v.daum.net/v/20230212215648651"/>
-        <updated>2023-02-12T13:16:06.248Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 정경호, 전도연과 스캔들 후 '환불 행진+화염식 퇴출 시위']]></title>
-        <id>https://v.daum.net/v/20230212215425635</id>
-        <link href="https://v.daum.net/v/20230212215425635"/>
-        <updated>2023-02-12T13:16:06.248Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
