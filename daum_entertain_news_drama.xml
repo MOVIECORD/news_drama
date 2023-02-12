@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-12T15:10:36.995Z</updated>
+    <updated>2023-02-12T16:14:31.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사' 김미경, 35년 전 버린 딸 이보영에 "엄마 용서하지 마"]]></title>
+        <id>https://v.daum.net/v/20230213002543347</id>
+        <link href="https://v.daum.net/v/20230213002543347"/>
+        <updated>2023-02-12T16:13:28.505Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이보영X김미경, 35년 만 재회→송영창, 딸 손나은 사랑 인정]]></title>
         <id>https://v.daum.net/v/20230212235144144</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230212215425635"/>
         <updated>2023-02-12T13:16:06.248Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 전처 김경화, 김소은에 "죽을 때까지만 김승수와 같이 있게 해줘"]]></title>
-        <id>https://v.daum.net/v/20230212215016594</id>
-        <link href="https://v.daum.net/v/20230212215016594"/>
-        <updated>2023-02-12T13:16:06.255Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
