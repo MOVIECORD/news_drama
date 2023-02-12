@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-12T06:13:43.675Z</updated>
+    <updated>2023-02-12T07:09:37.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서지혜와 불륜' 이상우, 상간녀로 만든 홍수현 미행]]></title>
+        <id>https://v.daum.net/v/20230212153001336</id>
+        <link href="https://v.daum.net/v/20230212153001336"/>
+        <updated>2023-02-12T07:09:27.085Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘빨간 풍선’ 반전 있나? 이상우, 이혼한 아내 홍수현 미행한다]]></title>
+        <id>https://v.daum.net/v/20230212152453241</id>
+        <link href="https://v.daum.net/v/20230212152453241"/>
+        <updated>2023-02-12T07:09:27.086Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향, 시청률 아쉽지만‥물만난 로코퀸]]></title>
         <id>https://v.daum.net/v/20230212151143886</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230212110358369"/>
         <updated>2023-02-12T02:21:06.995Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀양청년 성공기'쓴 정가람, "나랑 닮은 종현 이해한다"]]></title>
-        <id>https://v.daum.net/v/20230212110026289</id>
-        <link href="https://v.daum.net/v/20230212110026289"/>
-        <updated>2023-02-12T02:21:06.995Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, "'사랑의 고구마'? 'NO이해'? 정의가 안되는 게 사랑이죠"]]></title>
-        <id>https://v.daum.net/v/20230212110003241</id>
-        <link href="https://v.daum.net/v/20230212110003241"/>
-        <updated>2023-02-12T02:21:06.996Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
