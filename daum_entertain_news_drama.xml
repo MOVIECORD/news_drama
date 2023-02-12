@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-12T02:21:17.895Z</updated>
+    <updated>2023-02-12T03:14:33.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑의 이해’ 정가람 “사랑? 제 밥그룻부터 챙길 줄 알아야”]]></title>
+        <id>https://v.daum.net/v/20230212120003148</id>
+        <link href="https://v.daum.net/v/20230212120003148"/>
+        <updated>2023-02-12T03:14:22.847Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서지혜, 이상우와의 관계 탄로 났다 "압도적 열연"]]></title>
+        <id>https://v.daum.net/v/20230212115845132</id>
+        <link href="https://v.daum.net/v/20230212115845132"/>
+        <updated>2023-02-12T03:14:22.854Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이보영, “조복래-손나은 공공의 적이 되라” 지령 받아]]></title>
         <id>https://v.daum.net/v/20230212111152484</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230212092450765"/>
         <updated>2023-02-12T00:58:04.372Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘역시’ 김호중 , ‘불후’ 첫 출연한 에스페로에 ‘우승 트로피’ 선사]]></title>
-        <id>https://v.daum.net/v/20230212092326759</id>
-        <link href="https://v.daum.net/v/20230212092326759"/>
-        <updated>2023-02-12T00:58:04.372Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’ 박형식X전소니, 살인사건서 새로운 정황 발견…궁금증 고조]]></title>
-        <id>https://v.daum.net/v/20230212091659679</id>
-        <link href="https://v.daum.net/v/20230212091659679"/>
-        <updated>2023-02-12T00:58:04.372Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
