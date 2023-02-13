@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T10:13:45.500Z</updated>
+    <updated>2023-02-13T11:09:57.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 오창석, 김규선에 청혼 “재결합 최선..우리에겐 한별 있다”]]></title>
+        <id>https://v.daum.net/v/20230213193700617</id>
+        <link href="https://v.daum.net/v/20230213193700617"/>
+        <updated>2023-02-13T11:09:46.357Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 김규선, 오창석 프러포즈에 고민 "시간이 필요해"]]></title>
+        <id>https://v.daum.net/v/20230213193010520</id>
+        <link href="https://v.daum.net/v/20230213193010520"/>
+        <updated>2023-02-13T11:09:46.357Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해' 정가람 "폭행신 몰입해 부상당해···이후 촬영 CG 처리"]]></title>
         <id>https://v.daum.net/v/20230213190027025</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230213163425501</id>
         <link href="https://v.daum.net/v/20230213163425501"/>
         <updated>2023-02-13T08:15:06.110Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 이해' 문태유 "데뷔 초 힘들던 생계…아직 당시 버릇 남아있다"]]></title>
-        <id>https://v.daum.net/v/20230213163018318</id>
-        <link href="https://v.daum.net/v/20230213163018318"/>
-        <updated>2023-02-13T08:15:06.111Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애대전' 김옥빈 "'일타스캔들'에 푹빠져..전도연, '나이듦'의 두려움 없애줬다"]]></title>
-        <id>https://v.daum.net/v/20230213161218512</id>
-        <link href="https://v.daum.net/v/20230213161218512"/>
-        <updated>2023-02-13T08:15:06.115Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
