@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T12:20:52.416Z</updated>
+    <updated>2023-02-13T13:21:44.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 박형식, 전소니·윤종석 사이 고민 "누구 손 잡을까"]]></title>
+        <id>https://v.daum.net/v/20230213214452358</id>
+        <link href="https://v.daum.net/v/20230213214452358"/>
+        <updated>2023-02-13T13:20:42.166Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍의 신부’ 박하나, 강지섭 향한 사랑 확인...지수원 각막 이식 결심]]></title>
+        <id>https://v.daum.net/v/20230213213001189</id>
+        <link href="https://v.daum.net/v/20230213213001189"/>
+        <updated>2023-02-13T13:20:42.174Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의 신부' 박하나, 오승아 함정에 오열 "강지섭 못 보는 줄"]]></title>
         <id>https://v.daum.net/v/20230213211922081</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230213181747192"/>
         <updated>2023-02-13T10:12:43.115Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희정, '비밀의 여자' 출연 확정…이선호와 母子 케미 예고]]></title>
-        <id>https://v.daum.net/v/20230213181433138</id>
-        <link href="https://v.daum.net/v/20230213181433138"/>
-        <updated>2023-02-13T10:12:43.117Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유태오 "♥니키리, 가장 무서운 비평가…원하는 수식어 無"]]></title>
-        <id>https://v.daum.net/v/20230213175005444</id>
-        <link href="https://v.daum.net/v/20230213175005444"/>
-        <updated>2023-02-13T09:12:39.701Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
