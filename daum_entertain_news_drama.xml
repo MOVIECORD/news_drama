@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T08:16:14.032Z</updated>
+    <updated>2023-02-13T09:13:42.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유태오 "♥니키리, 가장 무서운 비평가…원하는 수식어 無"]]></title>
+        <id>https://v.daum.net/v/20230213175005444</id>
+        <link href="https://v.daum.net/v/20230213175005444"/>
+        <updated>2023-02-13T09:12:39.701Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연애대전' 김옥빈 "젊을때 로코 많이 해둘걸..편협했던 과거 후회"]]></title>
+        <id>https://v.daum.net/v/20230213174319270</id>
+        <link href="https://v.daum.net/v/20230213174319270"/>
+        <updated>2023-02-13T09:12:39.703Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연애대전’ 유태오 “김지훈과 키스신이요? 15번은 찍었죠”]]></title>
+        <id>https://v.daum.net/v/20230213173017837</id>
+        <link href="https://v.daum.net/v/20230213173017837"/>
+        <updated>2023-02-13T09:12:39.704Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연애대전’ 유태오 “늘 롤 모델 필요한데 이번엔 현빈 씨였죠”]]></title>
+        <id>https://v.daum.net/v/20230213173010826</id>
+        <link href="https://v.daum.net/v/20230213173010826"/>
+        <updated>2023-02-13T09:12:39.706Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[표예진, 달콤살벌 매력 발산…스승 이태선 앞 고군분투]]></title>
+        <id>https://v.daum.net/v/20230213172633677</id>
+        <link href="https://v.daum.net/v/20230213172633677"/>
+        <updated>2023-02-13T09:12:39.708Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["짱구처럼 밉지 않게"…유태오, '연애대전' 남강호 표현법]]></title>
         <id>https://v.daum.net/v/20230213170138720</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230213153621188"/>
         <updated>2023-02-13T07:11:22.208Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김옥빈 “비혼 NO…어떤 장르든 다 잘한다는 평가 듣고파”‘연애대전’]]></title>
-        <id>https://v.daum.net/v/20230213153559167</id>
-        <link href="https://v.daum.net/v/20230213153559167"/>
-        <updated>2023-02-13T07:11:22.210Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김옥빈 “데뷔 후 첫 로코 도전, 젊을 때 많이 할 걸 후회”‘연애대전’]]></title>
-        <id>https://v.daum.net/v/20230213153519149</id>
-        <link href="https://v.daum.net/v/20230213153519149"/>
-        <updated>2023-02-13T07:11:22.211Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간풍선' 홍수현 사무실 속 대형 그림..알고 보니 솔비 작품]]></title>
-        <id>https://v.daum.net/v/20230213153328087</id>
-        <link href="https://v.daum.net/v/20230213153328087"/>
-        <updated>2023-02-13T07:11:22.211Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노선 이탈 ‘대행사’에 뜬금 신파? 독한 이보영도 쉬어갈 때]]></title>
-        <id>https://v.daum.net/v/20230213153154995</id>
-        <link href="https://v.daum.net/v/20230213153154995"/>
-        <updated>2023-02-13T07:11:22.212Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애대전' 김옥빈 "과거 남자애들과 매일 쌈박질..초6 이후로 끊었다"]]></title>
-        <id>https://v.daum.net/v/20230213152322680</id>
-        <link href="https://v.daum.net/v/20230213152322680"/>
-        <updated>2023-02-13T07:11:22.213Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
