@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T13:21:44.586Z</updated>
+    <updated>2023-02-13T14:11:07.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 전소니, 박형식과 거래 "귀신의 서 비밀 풀 것"]]></title>
+        <id>https://v.daum.net/v/20230213223236805</id>
+        <link href="https://v.daum.net/v/20230213223236805"/>
+        <updated>2023-02-13T14:10:56.328Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 전소니·윤종석 사이 고민 "누구 손 잡을까"]]></title>
         <id>https://v.daum.net/v/20230213214452358</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213185002788"/>
         <updated>2023-02-13T10:12:43.114Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타 스캔들’ 정경호, ♥︎전도연 첫 키스에 ‘애교’ 폭발…”확인하지 마!”]]></title>
-        <id>https://v.daum.net/v/20230213181747192</id>
-        <link href="https://v.daum.net/v/20230213181747192"/>
-        <updated>2023-02-13T10:12:43.115Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
