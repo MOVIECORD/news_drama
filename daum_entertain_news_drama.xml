@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T21:10:22.968Z</updated>
+    <updated>2023-02-13T22:11:12.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연애대전’ 유태오 “컸던 공허함, 연기로 채웠죠”]]></title>
+        <id>https://v.daum.net/v/20230214063018965</id>
+        <link href="https://v.daum.net/v/20230214063018965"/>
+        <updated>2023-02-13T22:11:00.795Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성범죄 다룬 ‘트롤리’ 이 가혹한 드라마의 힘겨운 완주]]></title>
         <id>https://v.daum.net/v/20230214060006460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230213202400260"/>
         <updated>2023-02-13T12:20:41.132Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 오창석, 이현석에 "김규선은 내 여자"]]></title>
-        <id>https://v.daum.net/v/20230213202230245</id>
-        <link href="https://v.daum.net/v/20230213202230245"/>
-        <updated>2023-02-13T12:20:41.134Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
