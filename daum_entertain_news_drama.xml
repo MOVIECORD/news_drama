@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-13T09:13:42.136Z</updated>
+    <updated>2023-02-13T10:13:45.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 이해' 정가람 "폭행신 몰입해 부상당해···이후 촬영 CG 처리"]]></title>
+        <id>https://v.daum.net/v/20230213190027025</id>
+        <link href="https://v.daum.net/v/20230213190027025"/>
+        <updated>2023-02-13T10:12:43.112Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김옥빈 "'일타' 전도연, 후배들 가야할 길…비혼주의 NO"]]></title>
+        <id>https://v.daum.net/v/20230213185002788</id>
+        <link href="https://v.daum.net/v/20230213185002788"/>
+        <updated>2023-02-13T10:12:43.114Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일타 스캔들’ 정경호, ♥︎전도연 첫 키스에 ‘애교’ 폭발…”확인하지 마!”]]></title>
+        <id>https://v.daum.net/v/20230213181747192</id>
+        <link href="https://v.daum.net/v/20230213181747192"/>
+        <updated>2023-02-13T10:12:43.115Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희정, '비밀의 여자' 출연 확정…이선호와 母子 케미 예고]]></title>
+        <id>https://v.daum.net/v/20230213181433138</id>
+        <link href="https://v.daum.net/v/20230213181433138"/>
+        <updated>2023-02-13T10:12:43.117Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유태오 "♥니키리, 가장 무서운 비평가…원하는 수식어 無"]]></title>
         <id>https://v.daum.net/v/20230213175005444</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230213161218512"/>
         <updated>2023-02-13T08:15:06.115Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애대전' 김옥빈, 유태오 '신기한 배우'라고 표현한 이유]]></title>
-        <id>https://v.daum.net/v/20230213160138035</id>
-        <link href="https://v.daum.net/v/20230213160138035"/>
-        <updated>2023-02-13T07:11:22.205Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빨간 풍선’ 고급스런 대형 그림, 알고보니 솔비 작품]]></title>
-        <id>https://v.daum.net/v/20230213155947922</id>
-        <link href="https://v.daum.net/v/20230213155947922"/>
-        <updated>2023-02-13T07:11:22.207Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연애대전’ 김옥빈 “어릴 적 친구들이 ‘이거 너잖아’ 연락와”]]></title>
-        <id>https://v.daum.net/v/20230213153909260</id>
-        <link href="https://v.daum.net/v/20230213153909260"/>
-        <updated>2023-02-13T07:11:22.207Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김옥빈 “‘일타스캔들’ 푹 빠져…전도연 보며 자신감 얻어”]]></title>
-        <id>https://v.daum.net/v/20230213153621188</id>
-        <link href="https://v.daum.net/v/20230213153621188"/>
-        <updated>2023-02-13T07:11:22.208Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
