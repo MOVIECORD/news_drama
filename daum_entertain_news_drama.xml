@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-14T09:13:04.105Z</updated>
+    <updated>2023-02-14T10:13:27.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달달 로코에 스릴러 한 스푼..장영남, '일타스캔들' 남다른 무게감]]></title>
+        <id>https://v.daum.net/v/20230214190823765</id>
+        <link href="https://v.daum.net/v/20230214190823765"/>
+        <updated>2023-02-14T10:13:16.135Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미드 '브레이킹 배드', 한국서 리메이크된다]]></title>
         <id>https://v.daum.net/v/20230214180330147</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230214133856906"/>
         <updated>2023-02-14T05:10:48.185Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고보결 팬심 숨기고 위장면접, 프리패스상 NO 헐크 돌변]]></title>
-        <id>https://v.daum.net/v/20230214132323471</id>
-        <link href="https://v.daum.net/v/20230214132323471"/>
-        <updated>2023-02-14T05:10:48.185Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
