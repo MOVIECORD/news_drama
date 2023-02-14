@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-14T12:21:45.294Z</updated>
+    <updated>2023-02-14T13:22:34.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['입대' 앞둔 김민재 "멋있게 군대 다녀오는 게 인생의 목표, 쉬는 시간 되겠죠"]]></title>
+        <id>https://v.daum.net/v/20230214220102524</id>
+        <link href="https://v.daum.net/v/20230214220102524"/>
+        <updated>2023-02-14T13:22:22.836Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 전소니X표예진, 애틋 재회 "아씨께 내내 고마웠다"]]></title>
+        <id>https://v.daum.net/v/20230214213420174</id>
+        <link href="https://v.daum.net/v/20230214213420174"/>
+        <updated>2023-02-14T13:22:22.839Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 전소니에 "어릴 때 얼굴 남아있구나"]]></title>
         <id>https://v.daum.net/v/20230214210834818</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230214190823765"/>
         <updated>2023-02-14T10:13:16.135Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미드 '브레이킹 배드', 한국서 리메이크된다]]></title>
-        <id>https://v.daum.net/v/20230214180330147</id>
-        <link href="https://v.daum.net/v/20230214180330147"/>
-        <updated>2023-02-14T09:12:01.710Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['36세' 김옥빈, 로코 첫 도전 "연애는 내가 리드…아기 낳고 잘 살고 싶어"]]></title>
-        <id>https://v.daum.net/v/20230214175801906</id>
-        <link href="https://v.daum.net/v/20230214175801906"/>
-        <updated>2023-02-14T09:12:01.710Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
