@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-14T10:13:27.063Z</updated>
+    <updated>2023-02-14T11:10:36.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑의 이해' 금새록 "지하철 타고 다니며 한남동서 직접 '촬영 소품' 준비했죠"]]></title>
+        <id>https://v.daum.net/v/20230214195902642</id>
+        <link href="https://v.daum.net/v/20230214195902642"/>
+        <updated>2023-02-14T11:10:27.210Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희, 눈물의 자백 "다 밝히겠다"]]></title>
+        <id>https://v.daum.net/v/20230214195130522</id>
+        <link href="https://v.daum.net/v/20230214195130522"/>
+        <updated>2023-02-14T11:10:27.212Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["누군가 남긴 글이 위로가 되길"…금새록의 진심]]></title>
+        <id>https://v.daum.net/v/20230214195002494</id>
+        <link href="https://v.daum.net/v/20230214195002494"/>
+        <updated>2023-02-14T11:10:27.220Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희, 김규선 위해 "오윤홍 사고 진실 말할 것"]]></title>
+        <id>https://v.daum.net/v/20230214192312063</id>
+        <link href="https://v.daum.net/v/20230214192312063"/>
+        <updated>2023-02-14T11:10:27.221Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달달 로코에 스릴러 한 스푼..장영남, '일타스캔들' 남다른 무게감]]></title>
         <id>https://v.daum.net/v/20230214190823765</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230214141030969"/>
         <updated>2023-02-14T06:14:50.638Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘두뇌공조’ 정용화X차태현 절친됐나? 소주회동 포착 “더 가까워진다”]]></title>
-        <id>https://v.daum.net/v/20230214140804849</id>
-        <link href="https://v.daum.net/v/20230214140804849"/>
-        <updated>2023-02-14T05:10:48.183Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소니, 정혼자 윤종석과 추리대결 투지 폭발]]></title>
-        <id>https://v.daum.net/v/20230214134145964</id>
-        <link href="https://v.daum.net/v/20230214134145964"/>
-        <updated>2023-02-14T05:10:48.184Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김정현 표정만 봐도 시간 순삭…연기력 "인정"]]></title>
-        <id>https://v.daum.net/v/20230214133924925</id>
-        <link href="https://v.daum.net/v/20230214133924925"/>
-        <updated>2023-02-14T05:10:48.185Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식 눈빛 한방에…극적 몰입 완성]]></title>
-        <id>https://v.daum.net/v/20230214133856906</id>
-        <link href="https://v.daum.net/v/20230214133856906"/>
-        <updated>2023-02-14T05:10:48.185Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
