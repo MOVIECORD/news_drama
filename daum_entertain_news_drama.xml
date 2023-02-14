@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-14T05:10:59.057Z</updated>
+    <updated>2023-02-14T06:15:53.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금새록 "유연석, 스태프들 무거운 장비까지 옮겨주는 멋진 선배"]]></title>
+        <id>https://v.daum.net/v/20230214150802037</id>
+        <link href="https://v.daum.net/v/20230214150802037"/>
+        <updated>2023-02-14T06:14:50.636Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금새록 "뉴진스 '하입보이' 커버댄스 도전하고파, 춤 관련 영화 환영"]]></title>
+        <id>https://v.daum.net/v/20230214150708001</id>
+        <link href="https://v.daum.net/v/20230214150708001"/>
+        <updated>2023-02-14T06:14:50.637Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["멋지다 전도연~ 브라보!" '일타스캔들'로 입증한 진가]]></title>
+        <id>https://v.daum.net/v/20230214141030969</id>
+        <link href="https://v.daum.net/v/20230214141030969"/>
+        <updated>2023-02-14T06:14:50.638Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘두뇌공조’ 정용화X차태현 절친됐나? 소주회동 포착 “더 가까워진다”]]></title>
         <id>https://v.daum.net/v/20230214140804849</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 김정현]]></title>
+        <title type="html"><![CDATA['꼭두의 계절' 김정현 표정만 봐도 시간 순삭…연기력 "인정"]]></title>
         <id>https://v.daum.net/v/20230214133924925</id>
         <link href="https://v.daum.net/v/20230214133924925"/>
         <updated>2023-02-14T05:10:48.185Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230214114131404"/>
         <updated>2023-02-14T03:15:20.059Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우연, MBC 일일극 컴백..'하늘의 인연' 주연 발탁]]></title>
-        <id>https://v.daum.net/v/20230214114127397</id>
-        <link href="https://v.daum.net/v/20230214114127397"/>
-        <updated>2023-02-14T03:15:20.060Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 이해’ 금새록 “역할 위해 7㎏ 감량, 얼굴 동그랗게 나오는 편”]]></title>
-        <id>https://v.daum.net/v/20230214113159040</id>
-        <link href="https://v.daum.net/v/20230214113159040"/>
-        <updated>2023-02-14T03:15:20.062Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑의 이해’ 금새록 “밀어내는 유연석, 그토록 사랑한 이유는”]]></title>
-        <id>https://v.daum.net/v/20230214113150036</id>
-        <link href="https://v.daum.net/v/20230214113150036"/>
-        <updated>2023-02-14T03:15:20.063Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
