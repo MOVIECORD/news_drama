@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-15T22:11:25.971Z</updated>
+    <updated>2023-02-15T23:11:22.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나는 솔로’, 각양각생 매력의 개성파 특집 13기 멤버 공개]]></title>
+        <id>https://v.daum.net/v/20230216080941449</id>
+        <link href="https://v.daum.net/v/20230216080941449"/>
+        <updated>2023-02-15T23:11:11.367Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오승준, '유괴의 날' 합류…'윤계상 아역' 열연 예고]]></title>
+        <id>https://v.daum.net/v/20230216074357973</id>
+        <link href="https://v.daum.net/v/20230216074357973"/>
+        <updated>2023-02-15T23:11:11.370Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍승범, 훈훈한 비주얼+아이돌 리더 표본]]></title>
+        <id>https://v.daum.net/v/20230216073912898</id>
+        <link href="https://v.daum.net/v/20230216073912898"/>
+        <updated>2023-02-15T23:11:11.371Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 홍승범, 화려한 아이돌 비주얼→짠내 고군분투…뒷수습 전문 리더]]></title>
+        <id>https://v.daum.net/v/20230216073708874</id>
+        <link href="https://v.daum.net/v/20230216073708874"/>
+        <updated>2023-02-15T23:11:11.375Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고딩엄빠3’ 김하윤, 워커홀릭 남편에게 “둘만의 시간 보낸 적 없어”]]></title>
+        <id>https://v.daum.net/v/20230216072414703</id>
+        <link href="https://v.daum.net/v/20230216072414703"/>
+        <updated>2023-02-15T23:11:11.375Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2'부터 '성스러운 아이돌'까지…2월 드라마 새 판 짠다]]></title>
         <id>https://v.daum.net/v/20230216070532523</id>
@@ -73,41 +108,6 @@
         <id>https://v.daum.net/v/20230215202927657</id>
         <link href="https://v.daum.net/v/20230215202927657"/>
         <updated>2023-02-15T12:21:22.869Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 박윤재, 시한부 판정 받았다.. 박하나와 눈물의 포옹]]></title>
-        <id>https://v.daum.net/v/20230215202901646</id>
-        <link href="https://v.daum.net/v/20230215202901646"/>
-        <updated>2023-02-15T12:21:22.872Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박윤재, 박하나·강지섭 이마 키스에 '질투']]></title>
-        <id>https://v.daum.net/v/20230215200329270</id>
-        <link href="https://v.daum.net/v/20230215200329270"/>
-        <updated>2023-02-15T11:11:22.641Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀의 게임’ 오창석, 김선혜 협박 “이현석 천하家 핏줄 아닌 거 폭로할 것”]]></title>
-        <id>https://v.daum.net/v/20230215195406092</id>
-        <link href="https://v.daum.net/v/20230215195406092"/>
-        <updated>2023-02-15T11:11:22.642Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 반효정, 김선혜에 30년간 속았다 "이현석 나가"]]></title>
-        <id>https://v.daum.net/v/20230215195143058</id>
-        <link href="https://v.daum.net/v/20230215195143058"/>
-        <updated>2023-02-15T11:11:22.650Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 이현석, 천하家 핏줄 아니었다.."말도 안 돼"]]></title>
-        <id>https://v.daum.net/v/20230215194208893</id>
-        <link href="https://v.daum.net/v/20230215194208893"/>
-        <updated>2023-02-15T11:11:22.651Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
