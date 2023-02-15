@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-15T14:12:05.018Z</updated>
+    <updated>2023-02-15T15:12:00.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 방 '성스러운 아이돌' 김민규, 이세계 아이돌로 등장…고보결과 운명적 만남]]></title>
+        <id>https://v.daum.net/v/20230216000016853</id>
+        <link href="https://v.daum.net/v/20230216000016853"/>
+        <updated>2023-02-15T15:11:49.475Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 이세계서 현실로…아이돌 돼 방송 사고 '충격']]></title>
+        <id>https://v.daum.net/v/20230215231429597</id>
+        <link href="https://v.daum.net/v/20230215231429597"/>
+        <updated>2023-02-15T15:11:49.475Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 마왕 이장우와 전투로 강렬 첫 등장]]></title>
+        <id>https://v.daum.net/v/20230215225707480</id>
+        <link href="https://v.daum.net/v/20230215225707480"/>
+        <updated>2023-02-15T15:11:49.475Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서브여주'가 서러운 시대는 끝났다…박지현→차주영→금새록, 올바른 '서브' 활용법]]></title>
         <id>https://v.daum.net/v/20230215224602414</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230215165725478"/>
         <updated>2023-02-15T08:14:46.565Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간풍선' 불륜 막장? 역시 문영남인가..국내 넷플릭스 톱2]]></title>
-        <id>https://v.daum.net/v/20230215165721474</id>
-        <link href="https://v.daum.net/v/20230215165721474"/>
-        <updated>2023-02-15T08:14:46.570Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피크타임’ “아이돌 팀전 서바이벌과 화려한 심사위원들, 많·관·부”]]></title>
-        <id>https://v.daum.net/v/20230215165409354</id>
-        <link href="https://v.daum.net/v/20230215165409354"/>
-        <updated>2023-02-15T08:14:46.572Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오아시스’ 쌍절곤 소녀 설인아, 새파란 체육복에 머리핀도 찰떡]]></title>
-        <id>https://v.daum.net/v/20230215164924126</id>
-        <link href="https://v.daum.net/v/20230215164924126"/>
-        <updated>2023-02-15T08:14:46.574Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
