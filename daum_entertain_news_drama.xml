@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T10:12:16.256Z</updated>
+    <updated>2023-02-16T11:10:10.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 선우재덕 "오윤홍 죽인 진범=딸 한지완" 폭로]]></title>
+        <id>https://v.daum.net/v/20230216195058716</id>
+        <link href="https://v.daum.net/v/20230216195058716"/>
+        <updated>2023-02-16T11:10:00.091Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 이현석, 반효정에 쫓겨났다.."유심원 나가"]]></title>
+        <id>https://v.daum.net/v/20230216192956318</id>
+        <link href="https://v.daum.net/v/20230216192956318"/>
+        <updated>2023-02-16T11:10:00.092Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성재 VS 최대철, 드디어 만났다!]]></title>
         <id>https://v.daum.net/v/20230216190421888</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230216151200009"/>
         <updated>2023-02-16T06:14:04.618Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정예빈, 손나은 라이벌다운 럭셔리 분위기]]></title>
-        <id>https://v.daum.net/v/20230216135848872</id>
-        <link href="https://v.daum.net/v/20230216135848872"/>
-        <updated>2023-02-16T05:11:10.804Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“치열이형!” 전도연 동생 오의식, 정경호에 푹 빠져 ‘일타스캔들’ 활력 견인]]></title>
-        <id>https://v.daum.net/v/20230216135514716</id>
-        <link href="https://v.daum.net/v/20230216135514716"/>
-        <updated>2023-02-16T05:11:10.805Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
