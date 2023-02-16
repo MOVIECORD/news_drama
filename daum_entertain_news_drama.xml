@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T03:15:17.767Z</updated>
+    <updated>2023-02-16T04:13:52.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이영애, '모범택시2'도 특별출연"…제6의 멤버 활약 이어간다]]></title>
+        <id>https://v.daum.net/v/20230216130354285</id>
+        <link href="https://v.daum.net/v/20230216130354285"/>
+        <updated>2023-02-16T04:13:41.413Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이영애, 시즌2에서도 목소리 특별 출연]]></title>
+        <id>https://v.daum.net/v/20230216130240247</id>
+        <link href="https://v.daum.net/v/20230216130240247"/>
+        <updated>2023-02-16T04:13:41.413Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤찬영 ‘존경하는 재판장님’ 한국판 출연하나 “긍정 검토중”]]></title>
+        <id>https://v.daum.net/v/20230216122017425</id>
+        <link href="https://v.daum.net/v/20230216122017425"/>
+        <updated>2023-02-16T04:13:41.413Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타' 신재하, 슈트에 캐주얼까지 싹 가능..이러니 정경호랑 환상 투샷]]></title>
         <id>https://v.daum.net/v/20230216120126796</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230216100451396"/>
         <updated>2023-02-16T02:19:19.960Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선우정아, 배우 데뷔...이나영 드라마 '박하경 여행기' 합류]]></title>
-        <id>https://v.daum.net/v/20230216100330347</id>
-        <link href="https://v.daum.net/v/20230216100330347"/>
-        <updated>2023-02-16T02:19:19.963Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 이보영 “조성하=악역 아닌 경쟁자, 귀엽게 보이기도”]]></title>
-        <id>https://v.daum.net/v/20230216100048191</id>
-        <link href="https://v.daum.net/v/20230216100048191"/>
-        <updated>2023-02-16T02:19:19.963Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 인기 드라마 '최애', 한국판 리메이크 확정]]></title>
-        <id>https://v.daum.net/v/20230216100025169</id>
-        <link href="https://v.daum.net/v/20230216100025169"/>
-        <updated>2023-02-16T02:19:19.963Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
