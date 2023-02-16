@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T05:12:13.674Z</updated>
+    <updated>2023-02-16T06:14:16.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송중기, 영화 촬영도 아내 케이티·뱃속 아기와 함께…헝가리 출국]]></title>
+        <id>https://v.daum.net/v/20230216151200009</id>
+        <link href="https://v.daum.net/v/20230216151200009"/>
+        <updated>2023-02-16T06:14:04.618Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정예빈, 손나은 라이벌다운 럭셔리 분위기]]></title>
         <id>https://v.daum.net/v/20230216135848872</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216114721054"/>
         <updated>2023-02-16T03:15:06.689Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지우학' 윤찬영, 미드 '존경하는 재판장님' 한국판 출연]]></title>
-        <id>https://v.daum.net/v/20230216114318886</id>
-        <link href="https://v.daum.net/v/20230216114318886"/>
-        <updated>2023-02-16T03:15:06.689Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
