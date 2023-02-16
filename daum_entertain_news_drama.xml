@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T13:22:52.449Z</updated>
+    <updated>2023-02-16T14:11:36.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 고보결, 램브러리 고백한 김민규에 '오열']]></title>
+        <id>https://v.daum.net/v/20230216225620269</id>
+        <link href="https://v.daum.net/v/20230216225620269"/>
+        <updated>2023-02-16T14:10:34.459Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈, '카지노' 시즌2 특별 출연…히든카드로 활약]]></title>
+        <id>https://v.daum.net/v/20230216225053234</id>
+        <link href="https://v.daum.net/v/20230216225053234"/>
+        <updated>2023-02-16T14:10:34.473Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 이 세계 대신관 정체 고백…고보결 '오열']]></title>
+        <id>https://v.daum.net/v/20230216224355156</id>
+        <link href="https://v.daum.net/v/20230216224355156"/>
+        <updated>2023-02-16T14:10:34.474Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈 “기억남는 에피소드? 학교폭력→現대세배우가 된 '최현욱' 등장”]]></title>
         <id>https://v.daum.net/v/20230216220329802</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230216165652507"/>
         <updated>2023-02-16T08:14:36.703Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 광희→'일타스캔들' 이상이, 특출 제대로..시선 뺏은 씬스틸러★]]></title>
-        <id>https://v.daum.net/v/20230216164620176</id>
-        <link href="https://v.daum.net/v/20230216164620176"/>
-        <updated>2023-02-16T08:14:36.713Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아일랜드' 김남길→차은우 꼽은 파트2 관전포인트]]></title>
-        <id>https://v.daum.net/v/20230216160324554</id>
-        <link href="https://v.daum.net/v/20230216160324554"/>
-        <updated>2023-02-16T07:10:51.070Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김완선·엄정화·이효리·보아·화사, tvN '댄스가수 유랑단' 출연]]></title>
-        <id>https://v.daum.net/v/20230216160157391</id>
-        <link href="https://v.daum.net/v/20230216160157391"/>
-        <updated>2023-02-16T07:10:51.070Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
