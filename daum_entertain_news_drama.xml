@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T20:11:36.998Z</updated>
+    <updated>2023-02-16T21:11:15.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금새록 "답답했던 '사랑의 이해'? 비밀 일기장 같았어요"]]></title>
+        <id>https://v.daum.net/v/20230217060014407</id>
+        <link href="https://v.daum.net/v/20230217060014407"/>
+        <updated>2023-02-16T21:10:12.804Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타스캔들' 성공 요인은...행선네 가족의 무공해 매력]]></title>
         <id>https://v.daum.net/v/20230217050530670</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230216200956147</id>
         <link href="https://v.daum.net/v/20230216200956147"/>
         <updated>2023-02-16T12:20:17.814Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 선우재덕 "오윤홍 죽인 진범=딸 한지완" 폭로]]></title>
-        <id>https://v.daum.net/v/20230216195058716</id>
-        <link href="https://v.daum.net/v/20230216195058716"/>
-        <updated>2023-02-16T11:10:00.091Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
