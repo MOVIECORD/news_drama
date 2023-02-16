@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T21:11:15.038Z</updated>
+    <updated>2023-02-16T22:10:42.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“시즌3 언제하지?” 이제훈…. 시즌2 시작도 전인데 다음 시즌 예고 ‘깜짝’]]></title>
+        <id>https://v.daum.net/v/20230217065618185</id>
+        <link href="https://v.daum.net/v/20230217065618185"/>
+        <updated>2023-02-16T22:10:31.278Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 대신관→아이돌 결심..고보결 은인]]></title>
+        <id>https://v.daum.net/v/20230217063012945</id>
+        <link href="https://v.daum.net/v/20230217063012945"/>
+        <updated>2023-02-16T22:10:31.281Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금새록 "답답했던 '사랑의 이해'? 비밀 일기장 같았어요"]]></title>
         <id>https://v.daum.net/v/20230217060014407</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230216203651564</id>
         <link href="https://v.daum.net/v/20230216203651564"/>
         <updated>2023-02-16T12:20:17.806Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 최수린, 박하나 정체 알고 분노의 따귀 “복수하려 들어와”]]></title>
-        <id>https://v.daum.net/v/20230216203500548</id>
-        <link href="https://v.daum.net/v/20230216203500548"/>
-        <updated>2023-02-16T12:20:17.811Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 강지섭, 박하나 껴안은 윤산들에 분노]]></title>
-        <id>https://v.daum.net/v/20230216200956147</id>
-        <link href="https://v.daum.net/v/20230216200956147"/>
-        <updated>2023-02-16T12:20:17.814Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
