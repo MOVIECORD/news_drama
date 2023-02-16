@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-16T15:12:29.170Z</updated>
+    <updated>2023-02-16T16:15:39.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 이세계X현실 신성 계약…'망돌' 성공기 시작]]></title>
+        <id>https://v.daum.net/v/20230217005002100</id>
+        <link href="https://v.daum.net/v/20230217005002100"/>
+        <updated>2023-02-16T16:15:29.117Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규 "노예 계약 맺었다..난 망돌 우연우"]]></title>
+        <id>https://v.daum.net/v/20230217001850943</id>
+        <link href="https://v.daum.net/v/20230217001850943"/>
+        <updated>2023-02-16T16:15:29.118Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, 과거 고보결 구했다 "사람 치유=소명"]]></title>
         <id>https://v.daum.net/v/20230216234510612</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230216190421888"/>
         <updated>2023-02-16T10:12:05.306Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 문채원, 처음 보는 무채색의 얼굴]]></title>
-        <id>https://v.daum.net/v/20230216185415666</id>
-        <link href="https://v.daum.net/v/20230216185415666"/>
-        <updated>2023-02-16T10:12:05.307Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베일 벗은 '카지노' 시즌2, 디즈니+ 효자로 등극할까]]></title>
-        <id>https://v.daum.net/v/20230216183002259</id>
-        <link href="https://v.daum.net/v/20230216183002259"/>
-        <updated>2023-02-16T10:12:05.329Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
