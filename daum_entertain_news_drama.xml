@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-17T21:10:26.676Z</updated>
+    <updated>2023-02-17T22:10:52.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미스터트롯2' 김용필, 김연자·박선주도 빠져든 '마력 보이스']]></title>
+        <id>https://v.daum.net/v/20230218070021686</id>
+        <link href="https://v.daum.net/v/20230218070021686"/>
+        <updated>2023-02-17T22:10:41.655Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈X김의성, 도박 조직 쫓는다..복수 나선 심소영]]></title>
+        <id>https://v.daum.net/v/20230218070002648</id>
+        <link href="https://v.daum.net/v/20230218070002648"/>
+        <updated>2023-02-17T22:10:41.655Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['첫방' 이제훈의 느와르, 감옥 상탈 눈길→불법도박사이트 위장 추업]]></title>
+        <id>https://v.daum.net/v/20230218065618609</id>
+        <link href="https://v.daum.net/v/20230218065618609"/>
+        <updated>2023-02-17T22:10:41.655Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈, '인터넷 불법 도박 조직'에 위장 취업…피해자 구출, 성공할까?]]></title>
         <id>https://v.daum.net/v/20230218060311243</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230217221511145"/>
         <updated>2023-02-17T13:19:36.108Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교 母 서사→박성훈 노출…'더 글로리' 파트2, 지옥행 시작]]></title>
-        <id>https://v.daum.net/v/20230217211002411</id>
-        <link href="https://v.daum.net/v/20230217211002411"/>
-        <updated>2023-02-17T12:19:41.565Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박윤재, 웨딩드레스 입은 박하나에 '혼란']]></title>
-        <id>https://v.daum.net/v/20230217204239049</id>
-        <link href="https://v.daum.net/v/20230217204239049"/>
-        <updated>2023-02-17T12:19:41.566Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘태풍의 신부’ 강지섭, 박하나 위해 희생 자처 “날 죽여 복수완성”]]></title>
-        <id>https://v.daum.net/v/20230217203830002</id>
-        <link href="https://v.daum.net/v/20230217203830002"/>
-        <updated>2023-02-17T12:19:41.567Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
