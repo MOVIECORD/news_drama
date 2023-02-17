@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-17T16:14:19.206Z</updated>
+    <updated>2023-02-17T17:10:59.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '모범택시2' 이제훈, 해외까지 나가다→시즌1에 이은 박진감]]></title>
+        <id>https://v.daum.net/v/20230218011920030</id>
+        <link href="https://v.daum.net/v/20230218011920030"/>
+        <updated>2023-02-17T17:10:48.389Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈, 도박 조직에 납치→복수 각오한 심소영]]></title>
         <id>https://v.daum.net/v/20230218000015662</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217190723660"/>
         <updated>2023-02-17T10:12:38.145Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리가 사랑했던 모든 것' 조준영, '스피릿 핑거스' 주인공 발탁]]></title>
-        <id>https://v.daum.net/v/20230217175402419</id>
-        <link href="https://v.daum.net/v/20230217175402419"/>
-        <updated>2023-02-17T09:11:21.112Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
