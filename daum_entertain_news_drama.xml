@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-18T06:13:12.220Z</updated>
+    <updated>2023-02-18T07:10:42.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차태현, ♥곽선영과 이별…사직서 제출]]></title>
+        <id>https://v.daum.net/v/20230218155503167</id>
+        <link href="https://v.daum.net/v/20230218155503167"/>
+        <updated>2023-02-18T07:10:30.802Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서지혜, 못 참고 터졌다…갈팡질팡하는 이상우에 폭주]]></title>
+        <id>https://v.daum.net/v/20230218154229041</id>
+        <link href="https://v.daum.net/v/20230218154229041"/>
+        <updated>2023-02-18T07:10:30.806Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘빨간풍선’ 내연녀 서지혜, 갈팡질팡 유부남 이상우에 폭발]]></title>
+        <id>https://v.daum.net/v/20230218153050989</id>
+        <link href="https://v.daum.net/v/20230218153050989"/>
+        <updated>2023-02-18T07:10:30.807Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 최강 부캐 '왕따오지' 소환…심소영 재회하나]]></title>
         <id>https://v.daum.net/v/20230218150512850</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230218112753264"/>
         <updated>2023-02-18T03:12:20.201Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영 배신한 사람이 누구야? 믿는 도끼에 발등 찍혔다]]></title>
-        <id>https://v.daum.net/v/20230218112023207</id>
-        <link href="https://v.daum.net/v/20230218112023207"/>
-        <updated>2023-02-18T03:12:20.203Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잊지 않고 기다린 보람이란 이런 것, 폭발적 반응 일으킨 '모범택시2']]></title>
-        <id>https://v.daum.net/v/20230218111450157</id>
-        <link href="https://v.daum.net/v/20230218111450157"/>
-        <updated>2023-02-18T02:16:15.011Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 코쿤 서래마켓 성황→이주승 마더즈 투어…최고 11.1%]]></title>
-        <id>https://v.daum.net/v/20230218111212142</id>
-        <link href="https://v.daum.net/v/20230218111212142"/>
-        <updated>2023-02-18T02:16:15.019Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
