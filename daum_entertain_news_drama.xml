@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-18T08:14:18.578Z</updated>
+    <updated>2023-02-18T09:11:25.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈 "마지막 상의 탈의"…혼신의 힘 갈아넣은 '모범택시2' 흥행 이끄나]]></title>
+        <id>https://v.daum.net/v/20230218174101653</id>
+        <link href="https://v.daum.net/v/20230218174101653"/>
+        <updated>2023-02-18T09:10:16.864Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨간풍선' 서지혜∙이상우, 술자리 폭발..제작진 "전혀 예상 못한 국면으로"]]></title>
         <id>https://v.daum.net/v/20230218165023019</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218122017686"/>
         <updated>2023-02-18T05:10:17.903Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 홍수현 남편 이상우 뺏고도 모자랐나? 한바다 코스프레 '충격']]></title>
-        <id>https://v.daum.net/v/20230218120402544</id>
-        <link href="https://v.daum.net/v/20230218120402544"/>
-        <updated>2023-02-18T03:12:20.199Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
