@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-18T18:12:53.949Z</updated>
+    <updated>2023-02-18T19:10:07.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, "우리는 반드시 여기서 나갈 것"…피해자들과 본격적인 탈출 계획]]></title>
+        <id>https://v.daum.net/v/20230219034500123</id>
+        <link href="https://v.daum.net/v/20230219034500123"/>
+        <updated>2023-02-18T19:09:04.961Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 해외불법도박 일당 타진→표예진 경찰 사표·신재하 등장]]></title>
         <id>https://v.daum.net/v/20230219013022013</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218231010553"/>
         <updated>2023-02-18T15:10:07.573Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 불법 도박 운영자=비리경찰... 표예진, 이제훈과 다시 뭉쳤다]]></title>
-        <id>https://v.daum.net/v/20230218230830543</id>
-        <link href="https://v.daum.net/v/20230218230830543"/>
-        <updated>2023-02-18T14:09:13.930Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
