@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-19T06:13:26.032Z</updated>
+    <updated>2023-02-19T07:10:22.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달달' 정경호♥'수줍' 전도연..'일타스캔들' 불붙은 연애→시청률 또?]]></title>
+        <id>https://v.daum.net/v/20230219154523686</id>
+        <link href="https://v.daum.net/v/20230219154523686"/>
+        <updated>2023-02-19T07:10:12.144Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[표예진 없었으면 어쩔 뻔?..그야말로 똑소리 난다]]></title>
+        <id>https://v.daum.net/v/20230219154014584</id>
+        <link href="https://v.daum.net/v/20230219154014584"/>
+        <updated>2023-02-19T07:10:12.167Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해' 문태유 "수영과 뜻밖 하룻밤, 첫사랑과 절친의 교제, 이런 고약한 사랑"]]></title>
         <id>https://v.daum.net/v/20230219150002926</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230219102617718"/>
         <updated>2023-02-19T02:21:05.204Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연·정경호 사랑 시작한 '일타' 주말 왕좌수성…이보영·이제훈 각축전]]></title>
-        <id>https://v.daum.net/v/20230219102606714</id>
-        <link href="https://v.daum.net/v/20230219102606714"/>
-        <updated>2023-02-19T02:21:05.205Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, 이상우와 불륜 들통…"그냥 가보려고요"]]></title>
-        <id>https://v.daum.net/v/20230219102509698</id>
-        <link href="https://v.daum.net/v/20230219102509698"/>
-        <updated>2023-02-19T02:21:05.206Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
