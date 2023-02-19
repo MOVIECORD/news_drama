@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-19T08:13:51.473Z</updated>
+    <updated>2023-02-19T09:10:45.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모범택시→일타스캔들..신재하를 주목하라]]></title>
+        <id>https://v.daum.net/v/20230219174819737</id>
+        <link href="https://v.daum.net/v/20230219174819737"/>
+        <updated>2023-02-19T09:10:34.590Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['일타 스캔들' 소박한 반찬이 주는 따뜻함, 로맨스도 공감가게]]></title>
+        <id>https://v.daum.net/v/20230219172448351</id>
+        <link href="https://v.daum.net/v/20230219172448351"/>
+        <updated>2023-02-19T09:10:34.606Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['달달' 정경호♥'수줍' 전도연..'일타스캔들' 불붙은 연애→시청률 또?]]></title>
         <id>https://v.daum.net/v/20230219154523686</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230219105312310"/>
         <updated>2023-02-19T02:21:05.203Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 박형식·전소니, 여기가 관계성 맛집이네]]></title>
-        <id>https://v.daum.net/v/20230219103237871</id>
-        <link href="https://v.daum.net/v/20230219103237871"/>
-        <updated>2023-02-19T02:21:05.204Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현♥임수향, 극적 키스…저주 해방 거부하고 사랑 택했다]]></title>
-        <id>https://v.daum.net/v/20230219102617718</id>
-        <link href="https://v.daum.net/v/20230219102617718"/>
-        <updated>2023-02-19T02:21:05.204Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
