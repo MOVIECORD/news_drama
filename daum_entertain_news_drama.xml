@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-20T03:18:24.986Z</updated>
+    <updated>2023-02-20T04:14:42.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타'·'대행사·'모범2' 10%대인데…'꼭두의 계절' 1.4% 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230220123006782</id>
+        <link href="https://v.daum.net/v/20230220123006782"/>
+        <updated>2023-02-20T04:13:40.452Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수현, 흑화 후 서지혜에 반격…"바퀴벌레는 놔주는 게 아냐"]]></title>
         <id>https://v.daum.net/v/20230220121014521</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220103604693"/>
         <updated>2023-02-20T02:23:41.015Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영 "수영과 상수는 함께 돈가스 먹었을 것, 중요한 건 방향"]]></title>
-        <id>https://v.daum.net/v/20230220103002472</id>
-        <link href="https://v.daum.net/v/20230220103002472"/>
-        <updated>2023-02-20T02:23:41.020Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
