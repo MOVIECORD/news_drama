@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-21T03:17:06.089Z</updated>
+    <updated>2023-02-21T04:14:00.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민규X고보결, 연예부 기자와 합동 몸싸움]]></title>
+        <id>https://v.daum.net/v/20230221130610014</id>
+        <link href="https://v.daum.net/v/20230221130610014"/>
+        <updated>2023-02-21T04:13:48.482Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영광·이성경 '사랑이라 말해요', 복수의 중심서 펼쳐지는 위로와 공감]]></title>
+        <id>https://v.daum.net/v/20230221125608837</id>
+        <link href="https://v.daum.net/v/20230221125608837"/>
+        <updated>2023-02-21T04:13:48.484Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑이라 말해요' 이성경 "김영광과 실제 절친…현장서 피해다녔다"]]></title>
+        <id>https://v.daum.net/v/20230221123836607</id>
+        <link href="https://v.daum.net/v/20230221123836607"/>
+        <updated>2023-02-21T04:13:48.500Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["서로 피해다녔다" 김영광♥이성경, 위로 품은 '사랑이라 말해요']]></title>
+        <id>https://v.daum.net/v/20230221122502413</id>
+        <link href="https://v.daum.net/v/20230221122502413"/>
+        <updated>2023-02-21T04:13:48.500Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑이라 말해요' 김영광X이성경, 일상을 위로하는 복수극의 탄생]]></title>
         <id>https://v.daum.net/v/20230221121521239</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230221115501482"/>
         <updated>2023-02-21T03:16:55.186Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑이라’ 안희연 “김영광, 그런 등짝이어서 감사했다”]]></title>
-        <id>https://v.daum.net/v/20230221115406433</id>
-        <link href="https://v.daum.net/v/20230221115406433"/>
-        <updated>2023-02-21T03:16:55.187Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요' 김영광 "현장에서 도망 다녀, 이유는…"]]></title>
-        <id>https://v.daum.net/v/20230221115336414</id>
-        <link href="https://v.daum.net/v/20230221115336414"/>
-        <updated>2023-02-21T03:16:55.188Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요' 성준 "이성경, 고교 친구 만난 것처럼 편해"]]></title>
-        <id>https://v.daum.net/v/20230221114939276</id>
-        <link href="https://v.daum.net/v/20230221114939276"/>
-        <updated>2023-02-21T03:16:55.191Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요' 김영광 "현장에서 이성경 피해다닌 이유는..."]]></title>
-        <id>https://v.daum.net/v/20230221114722165</id>
-        <link href="https://v.daum.net/v/20230221114722165"/>
-        <updated>2023-02-21T03:16:55.193Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
