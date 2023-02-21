@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-21T21:11:30.532Z</updated>
+    <updated>2023-02-21T22:11:29.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문채원 “유튜브 개설이요? 제가요?”]]></title>
+        <id>https://v.daum.net/v/20230222070313005</id>
+        <link href="https://v.daum.net/v/20230222070313005"/>
+        <updated>2023-02-21T22:11:15.902Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘법쩐’ 문채원 “이선균 사람냄새 나는 연기에 감탄하면서 촬영”]]></title>
+        <id>https://v.daum.net/v/20230222070309001</id>
+        <link href="https://v.daum.net/v/20230222070309001"/>
+        <updated>2023-02-21T22:11:15.905Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카지노'→'법쩐', 배우 손은서의 화양연화 ①]]></title>
+        <id>https://v.daum.net/v/20230222070022908</id>
+        <link href="https://v.daum.net/v/20230222070022908"/>
+        <updated>2023-02-21T22:11:15.911Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘일타스캔들’ 속 국가대표 반찬가게…충북 청주 운리단길 SNS 인증샷 붐]]></title>
+        <id>https://v.daum.net/v/20230222063013526</id>
+        <link href="https://v.daum.net/v/20230222063013526"/>
+        <updated>2023-02-21T22:11:15.912Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 박형식, 믿었던 전소니에 배신감 '분노']]></title>
+        <id>https://v.daum.net/v/20230222063005516</id>
+        <link href="https://v.daum.net/v/20230222063005516"/>
+        <updated>2023-02-21T22:11:15.914Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 전소니 향한 배신감에 분노]]></title>
         <id>https://v.daum.net/v/20230221221205057</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230221184219910"/>
         <updated>2023-02-21T10:12:24.916Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 하율리, 김순옥 사단 합류...'판도라' 박기웅 아내 출연]]></title>
-        <id>https://v.daum.net/v/20230221175246651</id>
-        <link href="https://v.daum.net/v/20230221175246651"/>
-        <updated>2023-02-21T09:11:17.880Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 정용화, 수상한 택배 박스에 동공 지진]]></title>
-        <id>https://v.daum.net/v/20230221173105053</id>
-        <link href="https://v.daum.net/v/20230221173105053"/>
-        <updated>2023-02-21T09:11:17.882Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’ 박형식, 우리 저하가 달라졌어요?…전소니 향한 ‘성심 가득’ 간호]]></title>
-        <id>https://v.daum.net/v/20230221161441410</id>
-        <link href="https://v.daum.net/v/20230221161441410"/>
-        <updated>2023-02-21T08:14:27.241Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요' 이성경 "김영광, 내 성향 잘 알아"]]></title>
-        <id>https://v.daum.net/v/20230221155009365</id>
-        <link href="https://v.daum.net/v/20230221155009365"/>
-        <updated>2023-02-21T07:10:44.649Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현 ‘꼭두의 계절’ 후반부 활약 기대되는 이유]]></title>
-        <id>https://v.daum.net/v/20230221151753941</id>
-        <link href="https://v.daum.net/v/20230221151753941"/>
-        <updated>2023-02-21T07:10:44.650Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
