@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T20:12:30.516Z</updated>
+    <updated>2023-02-22T21:10:38.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어서와' 캐나다 친구들, 채끝살부터 꽃갈비까지 '강릉 한우 플렉스']]></title>
+        <id>https://v.daum.net/v/20230223055914159</id>
+        <link href="https://v.daum.net/v/20230223055914159"/>
+        <updated>2023-02-22T21:10:28.966Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동윤, '까까머리+까무잡잡'...180도 달라진 모습]]></title>
         <id>https://v.daum.net/v/20230223010530489</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230222193546602"/>
         <updated>2023-02-22T11:10:05.363Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종♥하희라도 가짜뉴스 피해…소속사 "선처없이 법적대응"]]></title>
-        <id>https://v.daum.net/v/20230222185222597</id>
-        <link href="https://v.daum.net/v/20230222185222597"/>
-        <updated>2023-02-22T10:12:14.533Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
