@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T03:15:44.704Z</updated>
+    <updated>2023-02-22T04:14:07.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경호♥전도연, 열선 커플이라더니..훈훈 아닌 후끈한 로맨스]]></title>
+        <id>https://v.daum.net/v/20230222122817984</id>
+        <link href="https://v.daum.net/v/20230222122817984"/>
+        <updated>2023-02-22T04:13:54.902Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플레이리스트, 훌루와 손 잡고 '플레이, 플리’ 제작..日 진출 신호탄]]></title>
         <id>https://v.daum.net/v/20230222121504776</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230222103013951</id>
         <link href="https://v.daum.net/v/20230222103013951"/>
         <updated>2023-02-22T02:20:54.607Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서진이네' 이서진 "나이 있는데 누구 밑에서 일할 수 없어 독립"]]></title>
-        <id>https://v.daum.net/v/20230222102022483</id>
-        <link href="https://v.daum.net/v/20230222102022483"/>
-        <updated>2023-02-22T02:20:54.609Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
