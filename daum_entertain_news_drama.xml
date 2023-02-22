@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T02:21:06.366Z</updated>
+    <updated>2023-02-22T03:15:44.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플레이리스트, 훌루와 손 잡고 '플레이, 플리’ 제작..日 진출 신호탄]]></title>
+        <id>https://v.daum.net/v/20230222121504776</id>
+        <link href="https://v.daum.net/v/20230222121504776"/>
+        <updated>2023-02-22T03:15:33.328Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' PD "딱딱한 법정물 아닌 유쾌한 휴먼드라마..조승우 호연 덕분"]]></title>
+        <id>https://v.daum.net/v/20230222120418589</id>
+        <link href="https://v.daum.net/v/20230222120418589"/>
+        <updated>2023-02-22T03:15:33.330Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['피지컬:100' 넷플릭스 1위로 종영…최종 우승자는 우진용]]></title>
+        <id>https://v.daum.net/v/20230222113306150</id>
+        <link href="https://v.daum.net/v/20230222113306150"/>
+        <updated>2023-02-22T03:15:33.338Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신예은, '더 글로리' 호평에 차차기작도 선점? "'정년이' 긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230222112910966</id>
+        <link href="https://v.daum.net/v/20230222112910966"/>
+        <updated>2023-02-22T03:15:33.339Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아일랜드’ 차은우 “아스트로 멤버들 반응? 이 작품은 봐줄만하다고”]]></title>
         <id>https://v.daum.net/v/20230222112017517</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230222102022483"/>
         <updated>2023-02-22T02:20:54.609Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두' 김정현, 촘촘하게 쌓아 올린 내공…1인 2역도 '완벽 소화']]></title>
-        <id>https://v.daum.net/v/20230222101737357</id>
-        <link href="https://v.daum.net/v/20230222101737357"/>
-        <updated>2023-02-22T02:20:54.610Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서진이네' 나영석 PD "박서준→방탄소년단 뷔, 창업계획 짜고 있어"]]></title>
-        <id>https://v.daum.net/v/20230222101557299</id>
-        <link href="https://v.daum.net/v/20230222101557299"/>
-        <updated>2023-02-22T02:20:54.615Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 신예은 ‘정년이’ 출연할까 “긍정 검토중”]]></title>
-        <id>https://v.daum.net/v/20230222100312786</id>
-        <link href="https://v.daum.net/v/20230222100312786"/>
-        <updated>2023-02-22T02:20:54.618Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워너비 부부 이지아·이상윤, 귀여운 딸과 가족사진]]></title>
-        <id>https://v.daum.net/v/20230222100207735</id>
-        <link href="https://v.daum.net/v/20230222100207735"/>
-        <updated>2023-02-22T02:20:54.619Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
