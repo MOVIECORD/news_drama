@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T13:22:10.607Z</updated>
+    <updated>2023-02-22T14:11:51.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 고보결, 김민규에 "매력이 없다"]]></title>
+        <id>https://v.daum.net/v/20230222230622552</id>
+        <link href="https://v.daum.net/v/20230222230622552"/>
+        <updated>2023-02-22T14:10:42.776Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 고보결, 김민규 쓰러지자 '대성통곡']]></title>
+        <id>https://v.daum.net/v/20230222225653443</id>
+        <link href="https://v.daum.net/v/20230222225653443"/>
+        <updated>2023-02-22T14:10:42.793Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나·지수원, 母女 사이 들키나…손창민, 유전자 검사지 발견]]></title>
         <id>https://v.daum.net/v/20230222204848921</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230222175045063"/>
         <updated>2023-02-22T09:11:43.642Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간풍선' 측 "결말? 충격+쾌감 동시에…현실적이면서 공감 부를 것"]]></title>
-        <id>https://v.daum.net/v/20230222174440899</id>
-        <link href="https://v.daum.net/v/20230222174440899"/>
-        <updated>2023-02-22T09:11:43.642Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간 풍선' 측 "충격과 쾌감의 문영남 표 결말, 기대해달라"]]></title>
-        <id>https://v.daum.net/v/20230222173404561</id>
-        <link href="https://v.daum.net/v/20230222173404561"/>
-        <updated>2023-02-22T09:11:43.644Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
