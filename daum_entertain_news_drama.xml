@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T15:12:52.509Z</updated>
+    <updated>2023-02-22T16:14:47.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장동윤, '까까머리+까무잡잡'...180도 달라진 모습]]></title>
+        <id>https://v.daum.net/v/20230223010530489</id>
+        <link href="https://v.daum.net/v/20230223010530489"/>
+        <updated>2023-02-22T16:14:35.441Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유퀴즈' 장미란 편 중단 사고…제작진 "차주에 다시 방송, 죄송"]]></title>
+        <id>https://v.daum.net/v/20230223004721352</id>
+        <link href="https://v.daum.net/v/20230223004721352"/>
+        <updated>2023-02-22T16:14:35.441Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마왕 이장우, 김민규 훼방…"이 세상서도 즐겁게 놀아보자"]]></title>
         <id>https://v.daum.net/v/20230223000217998</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230222185222597"/>
         <updated>2023-02-22T10:12:14.533Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아일랜드' 차은우 "요한 役 '편해 보였다'는 반응, 신기하고 좋았어요"]]></title>
-        <id>https://v.daum.net/v/20230222181134654</id>
-        <link href="https://v.daum.net/v/20230222181134654"/>
-        <updated>2023-02-22T10:12:14.534Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 연기·가수·예능 "다 재밌다"는 '10년차 배우']]></title>
-        <id>https://v.daum.net/v/20230222181003617</id>
-        <link href="https://v.daum.net/v/20230222181003617"/>
-        <updated>2023-02-22T09:11:43.634Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
