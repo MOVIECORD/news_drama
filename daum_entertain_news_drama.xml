@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T11:10:15.923Z</updated>
+    <updated>2023-02-22T12:21:01.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나·지수원, 母女 사이 들키나…손창민, 유전자 검사지 발견]]></title>
+        <id>https://v.daum.net/v/20230222204848921</id>
+        <link href="https://v.daum.net/v/20230222204848921"/>
+        <updated>2023-02-22T12:20:49.870Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍의 신부’ 강지섭·박하나·박윤재, 힘 모아 손창민 비자금 장부 찾기 시작]]></title>
+        <id>https://v.daum.net/v/20230222203311658</id>
+        <link href="https://v.daum.net/v/20230222203311658"/>
+        <updated>2023-02-22T12:20:49.872Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍’ 지수원 우려가 현실로? 손창민, 박하나 유전자 검사지 발견]]></title>
+        <id>https://v.daum.net/v/20230222203100629</id>
+        <link href="https://v.daum.net/v/20230222203100629"/>
+        <updated>2023-02-22T12:20:49.880Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 박윤재와 동맹 "손창민 비자금 장부 찾아"]]></title>
+        <id>https://v.daum.net/v/20230222202502532</id>
+        <link href="https://v.daum.net/v/20230222202502532"/>
+        <updated>2023-02-22T12:20:49.880Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 강지섭, 박하나에 "우린 이뤄질 수 없어"]]></title>
+        <id>https://v.daum.net/v/20230222202108462</id>
+        <link href="https://v.daum.net/v/20230222202108462"/>
+        <updated>2023-02-22T12:20:49.880Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 매몰찬 강지섭에 눈물…"다시 봄이 오게 해놓고"]]></title>
         <id>https://v.daum.net/v/20230222200313179</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230222173404561"/>
         <updated>2023-02-22T09:11:43.644Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혜미리예채파' 혜리 "막내 벗어나…맏언니가 오히려 편해"]]></title>
-        <id>https://v.daum.net/v/20230222172247201</id>
-        <link href="https://v.daum.net/v/20230222172247201"/>
-        <updated>2023-02-22T09:11:43.644Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편당 제작비 3억…한반도 땅의 가치 알릴 KBS '히든어스']]></title>
-        <id>https://v.daum.net/v/20230222170255539</id>
-        <link href="https://v.daum.net/v/20230222170255539"/>
-        <updated>2023-02-22T08:14:23.614Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경호랑 로맨스만?..전도연, '일타스캔들' 스타일링도 美쳤다]]></title>
-        <id>https://v.daum.net/v/20230222165245119</id>
-        <link href="https://v.daum.net/v/20230222165245119"/>
-        <updated>2023-02-22T08:14:23.622Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 제작진, 13기 男 성병 의혹에 "불편함 없도록 만들 것"]]></title>
-        <id>https://v.daum.net/v/20230222163433316</id>
-        <link href="https://v.daum.net/v/20230222163433316"/>
-        <updated>2023-02-22T08:14:23.624Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 13기 출연자, 전 연인 폭로에 "사실 아냐…책임 물을 것"]]></title>
-        <id>https://v.daum.net/v/20230222162147850</id>
-        <link href="https://v.daum.net/v/20230222162147850"/>
-        <updated>2023-02-22T08:14:23.626Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
