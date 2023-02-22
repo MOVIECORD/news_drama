@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T05:11:33.287Z</updated>
+    <updated>2023-02-22T06:15:53.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 허원서, 눈에 띄는 루키…까칠·엉뚱·허당 매력]]></title>
+        <id>https://v.daum.net/v/20230222151332909</id>
+        <link href="https://v.daum.net/v/20230222151332909"/>
+        <updated>2023-02-22T06:14:51.536Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B1A4 공찬도 BL 도전!..'비의도적 연애담' 3월 17일 공개]]></title>
+        <id>https://v.daum.net/v/20230222145655089</id>
+        <link href="https://v.daum.net/v/20230222145655089"/>
+        <updated>2023-02-22T06:14:51.540Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS, 'TV 문학관' UHD 복원..'김혜수 청춘 시절 다시본다']]></title>
+        <id>https://v.daum.net/v/20230222144935828</id>
+        <link href="https://v.daum.net/v/20230222144935828"/>
+        <updated>2023-02-22T06:14:51.542Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아일랜드’ 차은우 “연기, 경험 쌓일수록 어려워…매순간 최선으로”]]></title>
+        <id>https://v.daum.net/v/20230222142618905</id>
+        <link href="https://v.daum.net/v/20230222142618905"/>
+        <updated>2023-02-22T06:14:51.543Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차서원X공찬 BL드라마 '비의도적 연애담', 3월 17일 티빙 공개]]></title>
         <id>https://v.daum.net/v/20230222140507993</id>
@@ -13,7 +41,7 @@
         <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['빨간풍선'측 "충격과 쾌감, 하지만 너무나 현실적인 문영남표 결말 기대해 달라"]]></title>
+        <title type="html"><![CDATA['빨간풍선'측 "충격과 쾌감, 하지만 현실적인 문영남표 결말 기대해 달라"]]></title>
         <id>https://v.daum.net/v/20230222135118507</id>
         <link href="https://v.daum.net/v/20230222135118507"/>
         <updated>2023-02-22T05:11:22.361Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230222112017517"/>
         <updated>2023-02-22T02:20:54.593Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X세대 이서진 잡는 MZ 인턴 뷔…'서진이네', 코믹 오피스물 탄생]]></title>
-        <id>https://v.daum.net/v/20230222111830429</id>
-        <link href="https://v.daum.net/v/20230222111830429"/>
-        <updated>2023-02-22T02:20:54.595Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 천호진, 차학연 父 변신...스틸만 봐도 '내공' 폭발]]></title>
-        <id>https://v.daum.net/v/20230222111158034</id>
-        <link href="https://v.daum.net/v/20230222111158034"/>
-        <updated>2023-02-22T02:20:54.596Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아일랜드’ 김남길이 보여준 파트1 열연 모멘트]]></title>
-        <id>https://v.daum.net/v/20230222105103914</id>
-        <link href="https://v.daum.net/v/20230222105103914"/>
-        <updated>2023-02-22T02:20:54.598Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서진이네' 박서준 "최우식·뷔와 사적 모임 알려져…조심스럽다"]]></title>
-        <id>https://v.daum.net/v/20230222104926848</id>
-        <link href="https://v.daum.net/v/20230222104926848"/>
-        <updated>2023-02-22T02:20:54.600Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
