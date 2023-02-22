@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T10:12:25.441Z</updated>
+    <updated>2023-02-22T11:10:15.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나, 매몰찬 강지섭에 눈물…"다시 봄이 오게 해놓고"]]></title>
+        <id>https://v.daum.net/v/20230222200313179</id>
+        <link href="https://v.daum.net/v/20230222200313179"/>
+        <updated>2023-02-22T11:10:05.354Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 오창석 의심 "반효정 손자 아니야?"]]></title>
+        <id>https://v.daum.net/v/20230222195801068</id>
+        <link href="https://v.daum.net/v/20230222195801068"/>
+        <updated>2023-02-22T11:10:05.359Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최최차차' 차은우 "완벽? 지칠 땐 남들 수상소감 본다…차근차근 달성해가는 게 내 방식"]]></title>
+        <id>https://v.daum.net/v/20230222195701051</id>
+        <link href="https://v.daum.net/v/20230222195701051"/>
+        <updated>2023-02-22T11:10:05.360Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희, 오창석에 "가짜 손자 들키지 마"]]></title>
+        <id>https://v.daum.net/v/20230222193546602</id>
+        <link href="https://v.daum.net/v/20230222193546602"/>
+        <updated>2023-02-22T11:10:05.363Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수종♥하희라도 가짜뉴스 피해…소속사 "선처없이 법적대응"]]></title>
         <id>https://v.daum.net/v/20230222185222597</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230222162147850"/>
         <updated>2023-02-22T08:14:23.626Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 최윤영·이채영·신고은, 세 여자 둘러싼 전대미문의 비밀]]></title>
-        <id>https://v.daum.net/v/20230222161759683</id>
-        <link href="https://v.daum.net/v/20230222161759683"/>
-        <updated>2023-02-22T08:14:23.627Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성규 측 “‘파친코’ 시즌2 출연? 드릴 말씀 없다”]]></title>
-        <id>https://v.daum.net/v/20230222160252059</id>
-        <link href="https://v.daum.net/v/20230222160252059"/>
-        <updated>2023-02-22T07:10:42.947Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간풍선' 막판 관전포인트…"충격+쾌감 but 현실적, 공감할 것"]]></title>
-        <id>https://v.daum.net/v/20230222155342650</id>
-        <link href="https://v.daum.net/v/20230222155342650"/>
-        <updated>2023-02-22T07:10:42.952Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성규 측 "'파친코2' 출연? 드릴 말씀 없다"]]></title>
-        <id>https://v.daum.net/v/20230222155211597</id>
-        <link href="https://v.daum.net/v/20230222155211597"/>
-        <updated>2023-02-22T07:10:42.957Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
