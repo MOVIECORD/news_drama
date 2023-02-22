@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-22T09:11:54.866Z</updated>
+    <updated>2023-02-22T10:12:25.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종♥하희라도 가짜뉴스 피해…소속사 "선처없이 법적대응"]]></title>
+        <id>https://v.daum.net/v/20230222185222597</id>
+        <link href="https://v.daum.net/v/20230222185222597"/>
+        <updated>2023-02-22T10:12:14.533Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아일랜드' 차은우 "요한 役 '편해 보였다'는 반응, 신기하고 좋았어요"]]></title>
+        <id>https://v.daum.net/v/20230222181134654</id>
+        <link href="https://v.daum.net/v/20230222181134654"/>
+        <updated>2023-02-22T10:12:14.534Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 연기·가수·예능 "다 재밌다"는 '10년차 배우']]></title>
         <id>https://v.daum.net/v/20230222181003617</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230222155211597"/>
         <updated>2023-02-22T07:10:42.957Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 허원서, 눈에 띄는 루키…까칠·엉뚱·허당 매력]]></title>
-        <id>https://v.daum.net/v/20230222151332909</id>
-        <link href="https://v.daum.net/v/20230222151332909"/>
-        <updated>2023-02-22T06:14:51.536Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B1A4 공찬도 BL 도전!..'비의도적 연애담' 3월 17일 공개]]></title>
-        <id>https://v.daum.net/v/20230222145655089</id>
-        <link href="https://v.daum.net/v/20230222145655089"/>
-        <updated>2023-02-22T06:14:51.540Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
