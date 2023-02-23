@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-23T10:12:45.785Z</updated>
+    <updated>2023-02-23T11:10:07.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박윤재, 남은 인생 한 달뿐…"오승아와 결혼식 날 죽을 것"]]></title>
+        <id>https://v.daum.net/v/20230223200649344</id>
+        <link href="https://v.daum.net/v/20230223200649344"/>
+        <updated>2023-02-23T11:09:57.672Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 반효정, 오창석에 분노 "욕심이 과해"]]></title>
+        <id>https://v.daum.net/v/20230223195857071</id>
+        <link href="https://v.daum.net/v/20230223195857071"/>
+        <updated>2023-02-23T11:09:57.674Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 이현석, 반효정에 선전포고 “천하그룹 주인이 될 것”]]></title>
+        <id>https://v.daum.net/v/20230223194219767</id>
+        <link href="https://v.daum.net/v/20230223194219767"/>
+        <updated>2023-02-23T11:09:57.679Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 장서희, 딸 김규선 위해 "천하그룹 손에 넣겠다"]]></title>
+        <id>https://v.daum.net/v/20230223192952538</id>
+        <link href="https://v.daum.net/v/20230223192952538"/>
+        <updated>2023-02-23T11:09:57.680Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불트' 제작진 "황영웅 논란, 과거사 파악 한계…시간 걸리는 점 양해"]]></title>
         <id>https://v.daum.net/v/20230223180441715</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230223141203413"/>
         <updated>2023-02-23T06:14:20.092Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서진이네' 이서진 매출 압박 견디는 박서준→뷔의 피나는 고군분투]]></title>
-        <id>https://v.daum.net/v/20230223140327080</id>
-        <link href="https://v.daum.net/v/20230223140327080"/>
-        <updated>2023-02-23T05:10:38.443Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민규X고보결, ‘머리 쓰담’ 투샷 포착…설렘 증폭]]></title>
-        <id>https://v.daum.net/v/20230223135024636</id>
-        <link href="https://v.daum.net/v/20230223135024636"/>
-        <updated>2023-02-23T05:10:38.444Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 해외서도 통할까, 홍콩→태국 16개국 방영 서비스]]></title>
-        <id>https://v.daum.net/v/20230223134153359</id>
-        <link href="https://v.daum.net/v/20230223134153359"/>
-        <updated>2023-02-23T05:10:38.447Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽동연, 박지은 작가 ‘눈물의 여왕’ 출연…김지원과 호흡]]></title>
-        <id>https://v.daum.net/v/20230223134113329</id>
-        <link href="https://v.daum.net/v/20230223134113329"/>
-        <updated>2023-02-23T05:10:38.448Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
