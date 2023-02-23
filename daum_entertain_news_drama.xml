@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-23T14:12:53.191Z</updated>
+    <updated>2023-02-23T15:12:59.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 고보결에 "슬퍼지는 일 있으면 내가 찾아가마"]]></title>
+        <id>https://v.daum.net/v/20230223235305786</id>
+        <link href="https://v.daum.net/v/20230223235305786"/>
+        <updated>2023-02-23T15:12:48.054Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 고보결 손 맞잡고 "사랑이었어"]]></title>
+        <id>https://v.daum.net/v/20230223231915597</id>
+        <link href="https://v.daum.net/v/20230223231915597"/>
+        <updated>2023-02-23T15:12:48.057Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, 이세계서 현실로 영혼 뒤바뀐 단서 찾았다]]></title>
         <id>https://v.daum.net/v/20230223231052552</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230223192952538"/>
         <updated>2023-02-23T11:09:57.680Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불트' 제작진 "황영웅 논란, 과거사 파악 한계…시간 걸리는 점 양해"]]></title>
-        <id>https://v.daum.net/v/20230223180441715</id>
-        <link href="https://v.daum.net/v/20230223180441715"/>
-        <updated>2023-02-23T09:11:19.207Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요' 이성경, 민낯·공허한 눈빛…'감성 멜로 최적화' 변신]]></title>
-        <id>https://v.daum.net/v/20230223180059621</id>
-        <link href="https://v.daum.net/v/20230223180059621"/>
-        <updated>2023-02-23T09:11:19.223Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
