@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-24T04:15:02.669Z</updated>
+    <updated>2023-02-24T05:10:54.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['남이 될 수 있을까' 조은지 "비취 솔직함에 공감해주셔서 감사"]]></title>
+        <id>https://v.daum.net/v/20230224135440758</id>
+        <link href="https://v.daum.net/v/20230224135440758"/>
+        <updated>2023-02-24T05:10:43.840Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교·홍수현·이보영, 캐릭터 위해 머리도 싹둑…40대 '올드 패션'의 프레쉬한 맛]]></title>
+        <id>https://v.daum.net/v/20230224132802053</id>
+        <link href="https://v.daum.net/v/20230224132802053"/>
+        <updated>2023-02-24T05:10:43.841Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모범택시2’ 김의성, 이제훈 위협당한 코타야 사건 현장 뜬다]]></title>
         <id>https://v.daum.net/v/20230224130320591</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대행사' 이끄는 건 총수가 아닌 '머슴'들!]]></title>
+        <title type="html"><![CDATA['대행사' 이끄는 건 총수가 아니라  '머슴'들!]]></title>
         <id>https://v.daum.net/v/20230224113627218</id>
         <link href="https://v.daum.net/v/20230224113627218"/>
         <updated>2023-02-24T03:14:47.705Z</updated>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230224111301241</id>
         <link href="https://v.daum.net/v/20230224111301241"/>
         <updated>2023-02-24T02:18:10.696Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남이 될 수 있을까' 성숙한 이별 보여준 결말···강소라-장승조 재회 후 만남 반복 끊었다]]></title>
-        <id>https://v.daum.net/v/20230224110556982</id>
-        <link href="https://v.daum.net/v/20230224110556982"/>
-        <updated>2023-02-24T02:18:10.706Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희, 믿고 보는 생활 연기…'스마트폰' 글로벌 2위 등극]]></title>
-        <id>https://v.daum.net/v/20230224105731631</id>
-        <link href="https://v.daum.net/v/20230224105731631"/>
-        <updated>2023-02-24T02:18:10.709Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
