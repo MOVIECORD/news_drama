@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-24T10:12:17.340Z</updated>
+    <updated>2023-02-24T11:11:03.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 손창민, 박하나·지수원 유전자 검사 발견..'분노']]></title>
+        <id>https://v.daum.net/v/20230224200426840</id>
+        <link href="https://v.daum.net/v/20230224200426840"/>
+        <updated>2023-02-24T11:10:00.827Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, ‘가짜 손자’ 오창석 협박…김규선, 긴급 기자회견]]></title>
+        <id>https://v.daum.net/v/20230224195421691</id>
+        <link href="https://v.daum.net/v/20230224195421691"/>
+        <updated>2023-02-24T11:10:00.829Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 이현석, 오창석에 경고 "박살내줄게"]]></title>
+        <id>https://v.daum.net/v/20230224194930624</id>
+        <link href="https://v.daum.net/v/20230224194930624"/>
+        <updated>2023-02-24T11:10:00.830Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 반효정, 오창석에 주의 "누구든 천하그룹 넘볼 수 없게 해"]]></title>
+        <id>https://v.daum.net/v/20230224192626339</id>
+        <link href="https://v.daum.net/v/20230224192626339"/>
+        <updated>2023-02-24T11:10:00.831Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장승조, '남이 될 수 있을까' 종영 소감 "저에게 또 다른 도전이자 시작"]]></title>
         <id>https://v.daum.net/v/20230224183951758</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230224170016645"/>
         <updated>2023-02-24T08:14:23.725Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주명, 최초 씨름 드라마 '모래에도 꽃이 핀다' 여주 낙점]]></title>
-        <id>https://v.daum.net/v/20230224164226184</id>
-        <link href="https://v.daum.net/v/20230224164226184"/>
-        <updated>2023-02-24T08:14:23.727Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘성스러운 아이돌’ 박상남, 미스터리한 사감재로 강렬 등장]]></title>
-        <id>https://v.daum.net/v/20230224164032133</id>
-        <link href="https://v.daum.net/v/20230224164032133"/>
-        <updated>2023-02-24T08:14:23.730Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김순옥 작가 ‘7인의 탈출’ 측 “시즌2 준비 중”]]></title>
-        <id>https://v.daum.net/v/20230224154143451</id>
-        <link href="https://v.daum.net/v/20230224154143451"/>
-        <updated>2023-02-24T07:11:07.242Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘성스러운 아이돌’ 김서하, 톱배우로 변신‥비주얼+연기력으로 눈도장]]></title>
-        <id>https://v.daum.net/v/20230224153642267</id>
-        <link href="https://v.daum.net/v/20230224153642267"/>
-        <updated>2023-02-24T07:11:07.243Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
