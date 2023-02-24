@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-24T13:20:46.039Z</updated>
+    <updated>2023-02-24T14:11:08.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 노인 사기 고상호에 분노 "돌려줘야지"]]></title>
+        <id>https://v.daum.net/v/20230224225527797</id>
+        <link href="https://v.daum.net/v/20230224225527797"/>
+        <updated>2023-02-24T14:10:59.392Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 정체 노출 걱정 김의성에 "가만있지 않아"]]></title>
+        <id>https://v.daum.net/v/20230224223127578</id>
+        <link href="https://v.daum.net/v/20230224223127578"/>
+        <updated>2023-02-24T14:10:59.393Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김서하, 톱배우 변신…김민규와 예사롭지 않은 대면]]></title>
         <id>https://v.daum.net/v/20230224221129384</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230224182428506"/>
         <updated>2023-02-24T10:12:04.710Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피지컬: 100’ 김다영, 학폭 논란에 “많은 고민과 반성”]]></title>
-        <id>https://v.daum.net/v/20230224180725232</id>
-        <link href="https://v.daum.net/v/20230224180725232"/>
-        <updated>2023-02-24T09:11:31.694Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍완표, '조선변호사' 합류…우도환x보나와 호흡]]></title>
-        <id>https://v.daum.net/v/20230224175030898</id>
-        <link href="https://v.daum.net/v/20230224175030898"/>
-        <updated>2023-02-24T09:11:31.694Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
