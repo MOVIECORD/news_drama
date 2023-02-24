@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-24T11:11:03.150Z</updated>
+    <updated>2023-02-24T12:20:42.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손창민, 박윤재에 박하나 살해 지시…또 다른 악행 예고]]></title>
+        <id>https://v.daum.net/v/20230224205658515</id>
+        <link href="https://v.daum.net/v/20230224205658515"/>
+        <updated>2023-02-24T12:20:31.137Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍의 신부’ 손창민, 박윤재에 박하나 살해 지시 "네 손으로 죽여"]]></title>
+        <id>https://v.daum.net/v/20230224203400217</id>
+        <link href="https://v.daum.net/v/20230224203400217"/>
+        <updated>2023-02-24T12:20:31.148Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 오창석, 가짜 손자 들통나나?...김규선 긴급 기자회견 ‘위기↑’]]></title>
+        <id>https://v.daum.net/v/20230224202703157</id>
+        <link href="https://v.daum.net/v/20230224202703157"/>
+        <updated>2023-02-24T12:20:31.149Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 강지섭, 박하나 진심에 울컥..포옹으로 응원]]></title>
+        <id>https://v.daum.net/v/20230224201927039</id>
+        <link href="https://v.daum.net/v/20230224201927039"/>
+        <updated>2023-02-24T12:20:31.150Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의 신부' 손창민, 박하나·지수원 유전자 검사 발견..'분노']]></title>
         <id>https://v.daum.net/v/20230224200426840</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230224172914361"/>
         <updated>2023-02-24T09:11:31.696Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['딜리버리맨', 강솔X박대희 감독이 직접 밝힌 하이텐션 수사극]]></title>
-        <id>https://v.daum.net/v/20230224170550820</id>
-        <link href="https://v.daum.net/v/20230224170550820"/>
-        <updated>2023-02-24T08:14:23.718Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈센트블루, '일타스캔들' 감동 잇는다…26일 새 OST 발매]]></title>
-        <id>https://v.daum.net/v/20230224170426786</id>
-        <link href="https://v.daum.net/v/20230224170426786"/>
-        <updated>2023-02-24T08:14:23.722Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘딜리버리맨’ 강솔X박대희 감독이 밝힌 #다양한 장르 #케미 #반전]]></title>
-        <id>https://v.daum.net/v/20230224170026654</id>
-        <link href="https://v.daum.net/v/20230224170026654"/>
-        <updated>2023-02-24T08:14:23.724Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현X임수향, 입맞춤으로 마음 확인…로맨스 '기대감 UP']]></title>
-        <id>https://v.daum.net/v/20230224170016645</id>
-        <link href="https://v.daum.net/v/20230224170016645"/>
-        <updated>2023-02-24T08:14:23.725Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
