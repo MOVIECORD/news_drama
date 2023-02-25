@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-25T05:10:46.695Z</updated>
+    <updated>2023-02-25T06:13:41.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 김의성, 장노인 변신 ‘노인 사기꾼’ 미끼 된다]]></title>
+        <id>https://v.daum.net/v/20230225150600300</id>
+        <link href="https://v.daum.net/v/20230225150600300"/>
+        <updated>2023-02-25T06:13:29.307Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빨간 풍선' 수상함 증폭! ‘의문의 커피 권유’그 후..불안 서지혜 VS 미소 홍수현]]></title>
+        <id>https://v.daum.net/v/20230225145426203</id>
+        <link href="https://v.daum.net/v/20230225145426203"/>
+        <updated>2023-02-25T06:13:29.309Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 앞둔 '대행사' 관전 포인트..이보영의 마지막 반격?]]></title>
+        <id>https://v.daum.net/v/20230225143826059</id>
+        <link href="https://v.daum.net/v/20230225143826059"/>
+        <updated>2023-02-25T06:13:29.313Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대국민 사과' 황영웅, '불타는 트롯맨' 하차는 없다]]></title>
         <id>https://v.daum.net/v/20230225134901643</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230225101827882"/>
         <updated>2023-02-25T02:21:02.829Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간 풍선' 홍수현, 복수 결심하고 돌변 도발 "이상우∙서지혜 충격"]]></title>
-        <id>https://v.daum.net/v/20230225100522706</id>
-        <link href="https://v.daum.net/v/20230225100522706"/>
-        <updated>2023-02-25T02:21:02.833Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혼한 홍수현·이상우, 옷장에 숨어든 서지혜 앞 입맞춤]]></title>
-        <id>https://v.daum.net/v/20230225095901584</id>
-        <link href="https://v.daum.net/v/20230225095901584"/>
-        <updated>2023-02-25T02:21:02.833Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대행사' 이보영 인생캐 추가요..팩폭부터 눈물까지 다 품었다]]></title>
-        <id>https://v.daum.net/v/20230225095626560</id>
-        <link href="https://v.daum.net/v/20230225095626560"/>
-        <updated>2023-02-25T02:21:02.835Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
