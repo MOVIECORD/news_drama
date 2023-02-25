@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-25T07:11:37.897Z</updated>
+    <updated>2023-02-25T08:13:11.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대행사’ 신수정 "이보영 주치의로 함께해 행복했다" 종영소감]]></title>
+        <id>https://v.daum.net/v/20230225164220267</id>
+        <link href="https://v.daum.net/v/20230225164220267"/>
+        <updated>2023-02-25T08:12:59.609Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스케일 커진 ‘아일랜드’ 파트2, 6주 기다린 보람 있다]]></title>
+        <id>https://v.daum.net/v/20230225161931037</id>
+        <link href="https://v.daum.net/v/20230225161931037"/>
+        <updated>2023-02-25T08:12:59.611Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘빨간풍선’ 서지혜 홍수현 극과 극 온도차 여행, 20년 우정 향방은]]></title>
         <id>https://v.daum.net/v/20230225153550643</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230225110829380"/>
         <updated>2023-02-25T02:21:02.811Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 이번엔 농부도기다… 新전원일기 예고]]></title>
-        <id>https://v.daum.net/v/20230225110548361</id>
-        <link href="https://v.daum.net/v/20230225110548361"/>
-        <updated>2023-02-25T02:21:02.812Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타스캔들' 정경호, 한밤중 전도연 집 방문..달달 데이트 예고]]></title>
-        <id>https://v.daum.net/v/20230225102429934</id>
-        <link href="https://v.daum.net/v/20230225102429934"/>
-        <updated>2023-02-25T02:21:02.819Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
