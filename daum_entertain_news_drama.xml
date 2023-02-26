@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-26T03:22:54.093Z</updated>
+    <updated>2023-02-26T04:13:28.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["너 때문에 못 죽겠잖아"..김수진, '대행사' 전체를 흔든 눈물]]></title>
+        <id>https://v.daum.net/v/20230226130627928</id>
+        <link href="https://v.daum.net/v/20230226130627928"/>
+        <updated>2023-02-26T04:13:19.176Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보영, 박지일 도움으로 ‘매출 50% 상승’→최종화 극적 반전]]></title>
+        <id>https://v.daum.net/v/20230226125132702</id>
+        <link href="https://v.daum.net/v/20230226125132702"/>
+        <updated>2023-02-26T04:13:19.182Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['일타' 강나언, 노윤서 머리채 잡았다..수능에 미쳐버린 괴물?]]></title>
+        <id>https://v.daum.net/v/20230226122530496</id>
+        <link href="https://v.daum.net/v/20230226122530496"/>
+        <updated>2023-02-26T04:13:19.189Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수진 “시청자 관심 뿌듯, 즐겁게 연기했던 현장” 종영소감]]></title>
         <id>https://v.daum.net/v/20230226114234848</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230226101528446"/>
         <updated>2023-02-26T02:37:00.072Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 묵직한 한 방 날린 장현성 “모든 순간 즐겁고 행복했다”]]></title>
-        <id>https://v.daum.net/v/20230226101111368</id>
-        <link href="https://v.daum.net/v/20230226101111368"/>
-        <updated>2023-02-26T02:37:00.088Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노윤서, 쇠구슬 살인범 신재하 만나고 실종→충격의 교통사고]]></title>
-        <id>https://v.daum.net/v/20230226101028365</id>
-        <link href="https://v.daum.net/v/20230226101028365"/>
-        <updated>2023-02-26T02:37:00.092Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈의 복수, 통쾌함엔 끝이 없다..'모범택시2' 유쾌한 운행]]></title>
-        <id>https://v.daum.net/v/20230226100957353</id>
-        <link href="https://v.daum.net/v/20230226100957353"/>
-        <updated>2023-02-26T02:37:00.092Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
