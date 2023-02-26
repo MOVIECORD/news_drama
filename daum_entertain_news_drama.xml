@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-26T02:37:10.699Z</updated>
+    <updated>2023-02-26T03:22:54.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수진 “시청자 관심 뿌듯, 즐겁게 연기했던 현장” 종영소감]]></title>
+        <id>https://v.daum.net/v/20230226114234848</id>
+        <link href="https://v.daum.net/v/20230226114234848"/>
+        <updated>2023-02-26T03:22:43.020Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타스캔들' 노윤서, '쇠구슬 살인범' 신재하 만나 실종→전도연 위기]]></title>
         <id>https://v.daum.net/v/20230226110146182</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230226100957353"/>
         <updated>2023-02-26T02:37:00.092Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["해이가 사라졌다"..'일타스캔들' 노윤서 교통사고→전도연 위기]]></title>
-        <id>https://v.daum.net/v/20230226100036197</id>
-        <link href="https://v.daum.net/v/20230226100036197"/>
-        <updated>2023-02-26T01:00:52.288Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
