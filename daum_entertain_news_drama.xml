@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-26T05:10:36.101Z</updated>
+    <updated>2023-02-26T06:14:31.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타스캔들', 전도연♥정경호 로맨스 최대 위기..병원서 포착]]></title>
+        <id>https://v.daum.net/v/20230226141331757</id>
+        <link href="https://v.daum.net/v/20230226141331757"/>
+        <updated>2023-02-26T06:13:29.602Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우, 얼굴도 본업도 '열일']]></title>
+        <id>https://v.daum.net/v/20230226141227743</id>
+        <link href="https://v.daum.net/v/20230226141227743"/>
+        <updated>2023-02-26T06:13:29.603Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더욱 편안해진 전도연과 한층 비장해진 이보영, 뭐가 달라졌길래]]></title>
         <id>https://v.daum.net/v/20230226140626670</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230226110009078"/>
         <updated>2023-02-26T02:37:00.035Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롤리' 류현경 "결말, 처음부터 알고 있었죠"]]></title>
-        <id>https://v.daum.net/v/20230226110002069</id>
-        <link href="https://v.daum.net/v/20230226110002069"/>
-        <updated>2023-02-26T02:37:00.043Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대행사' 장현성, 역시 이보영 조력자..'믿는 도끼'의 묵직한 한방]]></title>
-        <id>https://v.daum.net/v/20230226105022943</id>
-        <link href="https://v.daum.net/v/20230226105022943"/>
-        <updated>2023-02-26T02:37:00.061Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
