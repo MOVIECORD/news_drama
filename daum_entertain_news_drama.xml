@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-27T03:17:32.543Z</updated>
+    <updated>2023-02-27T04:14:16.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연기력 논란’ 손나은 “엉뚱한 한나 이해…성장하는 모습에 신경”]]></title>
+        <id>https://v.daum.net/v/20230227122401678</id>
+        <link href="https://v.daum.net/v/20230227122401678"/>
+        <updated>2023-02-27T04:14:06.517Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨간풍선' 홍수현 "미모보단 '연기' 택해야죠, 언제까지고 예쁠 수는 없는 노릇"]]></title>
         <id>https://v.daum.net/v/20230227120002916</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227111030644"/>
         <updated>2023-02-27T02:21:12.334Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불륜남녀 재회→중꺾마 엔딩..‘빨간 풍선’ 시청자들은 용납 못한 결말]]></title>
-        <id>https://v.daum.net/v/20230227110434395</id>
-        <link href="https://v.daum.net/v/20230227110434395"/>
-        <updated>2023-02-27T02:21:12.335Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
