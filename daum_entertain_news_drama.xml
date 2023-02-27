@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-27T09:12:20.052Z</updated>
+    <updated>2023-02-27T10:12:55.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["황민현·조규성 Let's Go!"...'걘 역시 북방계' 진아진, CC 꿈은 꿀 수 있잖아요]]></title>
+        <id>https://v.daum.net/v/20230227183059529</id>
+        <link href="https://v.daum.net/v/20230227183059529"/>
+        <updated>2023-02-27T10:12:44.374Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘대행사’ 비서실장 정승길 “광고라는 세계의 이면과 그 안의 여러 욕망을 들여다보게 해” 종영 소감]]></title>
         <id>https://v.daum.net/v/20230227175126359</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227155411608"/>
         <updated>2023-02-27T07:11:13.044Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍수현, 서지혜 불륜 추궁? A4용지 6장 대사였다 "'빨간풍선'=가장 감동 작품"]]></title>
-        <id>https://v.daum.net/v/20230227153444859</id>
-        <link href="https://v.daum.net/v/20230227153444859"/>
-        <updated>2023-02-27T07:11:13.047Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
