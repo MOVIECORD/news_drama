@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-27T20:13:49.424Z</updated>
+    <updated>2023-02-27T21:11:40.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사'도 성공…이보영, '경단녀'·'워킹맘' 아닌 '믿보배']]></title>
+        <id>https://v.daum.net/v/20230228060016231</id>
+        <link href="https://v.daum.net/v/20230228060016231"/>
+        <updated>2023-02-27T21:10:37.443Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AXN, 美 화제작 ‘팬핸들’ 국내 최초 방영]]></title>
         <id>https://v.daum.net/v/20230227230738904</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227192738901"/>
         <updated>2023-02-27T11:10:07.678Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["황민현·조규성 Let's Go!"...'걘 역시 북방계' 진아진, CC 꿈은 꿀 수 있잖아요]]></title>
-        <id>https://v.daum.net/v/20230227183059529</id>
-        <link href="https://v.daum.net/v/20230227183059529"/>
-        <updated>2023-02-27T10:12:44.374Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
