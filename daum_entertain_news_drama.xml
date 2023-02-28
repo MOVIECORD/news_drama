@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-28T11:10:55.530Z</updated>
+    <updated>2023-02-28T12:21:09.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나, 손창민에 복수 예고…"엎드려 죽음 구걸할 것"]]></title>
+        <id>https://v.daum.net/v/20230228205007052</id>
+        <link href="https://v.daum.net/v/20230228205007052"/>
+        <updated>2023-02-28T12:20:58.428Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍’ 박하나, 손창민에 복수선언 “내 발밑에 엎드려 구걸하게 만들 것”]]></title>
+        <id>https://v.daum.net/v/20230228202930776</id>
+        <link href="https://v.daum.net/v/20230228202930776"/>
+        <updated>2023-02-28T12:20:58.428Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 박하나, 연행된 오승아에 "벌받는 것 당연"]]></title>
+        <id>https://v.daum.net/v/20230228202727755</id>
+        <link href="https://v.daum.net/v/20230228202727755"/>
+        <updated>2023-02-28T12:20:58.438Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태풍의 신부' 최수린, 박하나에 "겁없이 오승아를 경찰에?"]]></title>
+        <id>https://v.daum.net/v/20230228202326673</id>
+        <link href="https://v.daum.net/v/20230228202326673"/>
+        <updated>2023-02-28T12:20:58.446Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오승아, 경찰에 연행…박하나 "벌 받는 게 당연" 미소]]></title>
         <id>https://v.daum.net/v/20230228200423359</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230228172627830"/>
         <updated>2023-02-28T09:12:42.204Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차서원♥공찬, 도자기 말고 사랑 굽는 중]]></title>
-        <id>https://v.daum.net/v/20230228172427769</id>
-        <link href="https://v.daum.net/v/20230228172427769"/>
-        <updated>2023-02-28T09:12:42.204Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두뇌공조' 이색X재미 남기고 종영…"쫄깃 특급 서사 기대"]]></title>
-        <id>https://v.daum.net/v/20230228163926965</id>
-        <link href="https://v.daum.net/v/20230228163926965"/>
-        <updated>2023-02-28T08:15:33.999Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫 성인 연기' 윤찬영 "대학교 다니면서 읽은 대본, 도전 정신 생겨"]]></title>
-        <id>https://v.daum.net/v/20230228163209661</id>
-        <link href="https://v.daum.net/v/20230228163209661"/>
-        <updated>2023-02-28T08:15:34.001Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['딜리버리맨' 방민아 "8살 어린 윤찬영과 로맨스, 부담감 있어"]]></title>
-        <id>https://v.daum.net/v/20230228163206660</id>
-        <link href="https://v.daum.net/v/20230228163206660"/>
-        <updated>2023-02-28T08:15:34.002Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
