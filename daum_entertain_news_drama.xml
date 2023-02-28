@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-28T15:12:02.025Z</updated>
+    <updated>2023-02-28T16:15:05.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불트' 황영웅, 사생활 논란에도 결승 1차전 최종 1위...진짜 우승?]]></title>
+        <id>https://v.daum.net/v/20230301010148056</id>
+        <link href="https://v.daum.net/v/20230301010148056"/>
+        <updated>2023-02-28T16:14:50.875Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오의식, 삼촌의 눈물..시청자도 눈물]]></title>
         <id>https://v.daum.net/v/20230228234926653</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230228192827776"/>
         <updated>2023-02-28T11:09:53.034Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아육대' 저리가라..'청춘월담' 박형식 vs 윤종석, 치열한 격구 한 판]]></title>
-        <id>https://v.daum.net/v/20230228192228674</id>
-        <link href="https://v.daum.net/v/20230228192228674"/>
-        <updated>2023-02-28T11:09:53.037Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
