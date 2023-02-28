@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-28T09:12:52.653Z</updated>
+    <updated>2023-02-28T10:13:04.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['딜리버리맨' 방민아, 8살 연하 윤찬영과 로맨스? "오! 좋았다"]]></title>
+        <id>https://v.daum.net/v/20230228185002132</id>
+        <link href="https://v.daum.net/v/20230228185002132"/>
+        <updated>2023-02-28T10:12:53.961Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['피지컬:100' PD "매끄럽지 않은 진행 죄송하지만…"]]></title>
+        <id>https://v.daum.net/v/20230228182553723</id>
+        <link href="https://v.daum.net/v/20230228182553723"/>
+        <updated>2023-02-28T10:12:53.961Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈 종호, 오늘 '청춘월담' OST 발매..박형식♥︎전소니 마음 노래]]></title>
         <id>https://v.daum.net/v/20230228180727215</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230228161738010"/>
         <updated>2023-02-28T08:15:34.006Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['딜리버리맨' 윤찬영 "첫 성인연기…좀비 아닌 귀신과 소통"]]></title>
-        <id>https://v.daum.net/v/20230228161537952</id>
-        <link href="https://v.daum.net/v/20230228161537952"/>
-        <updated>2023-02-28T08:15:34.007Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서준영·윤다영→이윤성·김시은, '금이야 옥이야' 황금 라인업]]></title>
-        <id>https://v.daum.net/v/20230228161127795</id>
-        <link href="https://v.daum.net/v/20230228161127795"/>
-        <updated>2023-02-28T08:15:34.008Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
