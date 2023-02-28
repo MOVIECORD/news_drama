@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-28T10:13:04.453Z</updated>
+    <updated>2023-02-28T11:10:55.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오승아, 경찰에 연행…박하나 "벌 받는 게 당연" 미소]]></title>
+        <id>https://v.daum.net/v/20230228200423359</id>
+        <link href="https://v.daum.net/v/20230228200423359"/>
+        <updated>2023-02-28T11:09:53.029Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 반효정, 의식 없는 장서희에 "이 악물고 버텨내"]]></title>
+        <id>https://v.daum.net/v/20230228195435170</id>
+        <link href="https://v.daum.net/v/20230228195435170"/>
+        <updated>2023-02-28T11:09:53.030Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 선우재덕, 오창석 소환 요청.."신경 쓸일 많아질 것"]]></title>
+        <id>https://v.daum.net/v/20230228192827776</id>
+        <link href="https://v.daum.net/v/20230228192827776"/>
+        <updated>2023-02-28T11:09:53.034Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아육대' 저리가라..'청춘월담' 박형식 vs 윤종석, 치열한 격구 한 판]]></title>
+        <id>https://v.daum.net/v/20230228192228674</id>
+        <link href="https://v.daum.net/v/20230228192228674"/>
+        <updated>2023-02-28T11:09:53.037Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['딜리버리맨' 방민아, 8살 연하 윤찬영과 로맨스? "오! 좋았다"]]></title>
         <id>https://v.daum.net/v/20230228185002132</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230228163206660"/>
         <updated>2023-02-28T08:15:34.002Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민석 "7년 전엔 살아남기 위해 연기, 많이 아쉬워"]]></title>
-        <id>https://v.daum.net/v/20230228163001560</id>
-        <link href="https://v.daum.net/v/20230228163001560"/>
-        <updated>2023-02-28T08:15:34.003Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, 파란만장 이혼기…화려한 '감성퀸' 컴백]]></title>
-        <id>https://v.daum.net/v/20230228162635409</id>
-        <link href="https://v.daum.net/v/20230228162635409"/>
-        <updated>2023-02-28T08:15:34.004Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍수현 “죽기살기로 찍은 ‘빨간풍선’, 에너지 다 쏟아부어..잘될줄 알았다”]]></title>
-        <id>https://v.daum.net/v/20230228161926069</id>
-        <link href="https://v.daum.net/v/20230228161926069"/>
-        <updated>2023-02-28T08:15:34.005Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은형 "욕망 정제하지 않는 캐릭터 매력 있어"]]></title>
-        <id>https://v.daum.net/v/20230228161738010</id>
-        <link href="https://v.daum.net/v/20230228161738010"/>
-        <updated>2023-02-28T08:15:34.006Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
