@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-02-28T14:12:25.598Z</updated>
+    <updated>2023-02-28T15:12:02.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오의식, 삼촌의 눈물..시청자도 눈물]]></title>
+        <id>https://v.daum.net/v/20230228234926653</id>
+        <link href="https://v.daum.net/v/20230228234926653"/>
+        <updated>2023-02-28T15:11:52.183Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정승길, '대행사'로 입증한 연기 품격]]></title>
         <id>https://v.daum.net/v/20230228224126340</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230228192228674"/>
         <updated>2023-02-28T11:09:53.037Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['딜리버리맨' 방민아, 8살 연하 윤찬영과 로맨스? "오! 좋았다"]]></title>
-        <id>https://v.daum.net/v/20230228185002132</id>
-        <link href="https://v.daum.net/v/20230228185002132"/>
-        <updated>2023-02-28T10:12:53.961Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
