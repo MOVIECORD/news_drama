@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-01T14:12:30.099Z</updated>
+    <updated>2023-03-01T15:12:39.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 마왕 이장우와 재회…목숨 지킬까]]></title>
+        <id>https://v.daum.net/v/20230301235631114</id>
+        <link href="https://v.daum.net/v/20230301235631114"/>
+        <updated>2023-03-01T15:12:28.689Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 이장우, 김민규에 살해 협박 "공포 느꼈으면 해"]]></title>
         <id>https://v.daum.net/v/20230301230322880</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230301182806066"/>
         <updated>2023-03-01T10:12:38.555Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 박형식·전소니, 도성 살인사건의 마지막 글자 알아냈다]]></title>
-        <id>https://v.daum.net/v/20230301170113605</id>
-        <link href="https://v.daum.net/v/20230301170113605"/>
-        <updated>2023-03-01T08:15:02.592Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
