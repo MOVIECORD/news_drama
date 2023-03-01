@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-01T21:10:44.836Z</updated>
+    <updated>2023-03-01T22:10:55.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["마약 4종 투약 의심"..소환조사 앞둔 유아인, 무슨말 할까]]></title>
+        <id>https://v.daum.net/v/20230302070001049</id>
+        <link href="https://v.daum.net/v/20230302070001049"/>
+        <updated>2023-03-01T22:10:44.603Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘장르물 대가’ 김은희 작가, 두 토끼 잡을까]]></title>
+        <id>https://v.daum.net/v/20230302063007746</id>
+        <link href="https://v.daum.net/v/20230302063007746"/>
+        <updated>2023-03-01T22:10:44.604Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, 마왕 이장우와 재회…목숨 지킬까]]></title>
         <id>https://v.daum.net/v/20230301235631114</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230301185928470"/>
         <updated>2023-03-01T10:12:38.555Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“수완이 좋으셔” ‘걘역시북방계’ 치믈리에 동아리 회장의 비밀]]></title>
-        <id>https://v.daum.net/v/20230301184027247</id>
-        <link href="https://v.daum.net/v/20230301184027247"/>
-        <updated>2023-03-01T10:12:38.555Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌·권상우·김태희, 톱스타 탈세 논란에.."성실히 납부"]]></title>
-        <id>https://v.daum.net/v/20230301182806066</id>
-        <link href="https://v.daum.net/v/20230301182806066"/>
-        <updated>2023-03-01T10:12:38.555Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
