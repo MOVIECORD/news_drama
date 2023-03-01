@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-01T13:22:34.318Z</updated>
+    <updated>2023-03-01T14:12:30.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 이장우, 김민규에 살해 협박 "공포 느꼈으면 해"]]></title>
+        <id>https://v.daum.net/v/20230301230322880</id>
+        <link href="https://v.daum.net/v/20230301230322880"/>
+        <updated>2023-03-01T14:11:27.314Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["코카인까지"..유아인, 투약 의심 마약 4종→경찰 소환조사 임박]]></title>
+        <id>https://v.daum.net/v/20230301230202870</id>
+        <link href="https://v.daum.net/v/20230301230202870"/>
+        <updated>2023-03-01T14:11:27.315Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 고보결, 김민규 대신관 정체 확인하고 '충격']]></title>
+        <id>https://v.daum.net/v/20230301224816789</id>
+        <link href="https://v.daum.net/v/20230301224816789"/>
+        <updated>2023-03-01T14:11:27.316Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유아인, 코카인·케타민 등 4가지 마약 검출..곧 소환 조사]]></title>
         <id>https://v.daum.net/v/20230301221627513</id>
         <link href="https://v.daum.net/v/20230301221627513"/>
-        <updated>2023-03-01T13:22:23.754Z</updated>
+        <updated>2023-03-01T14:11:27.317Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230301170113605"/>
         <updated>2023-03-01T08:15:02.592Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희 "억대 세금 추징? 불미스러운 일 없었다"]]></title>
-        <id>https://v.daum.net/v/20230301165738537</id>
-        <link href="https://v.daum.net/v/20230301165738537"/>
-        <updated>2023-03-01T08:15:02.594Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 표예진, 진지↔코믹 오가는 온도차 열연]]></title>
-        <id>https://v.daum.net/v/20230301165148419</id>
-        <link href="https://v.daum.net/v/20230301165148419"/>
-        <updated>2023-03-01T08:15:02.596Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘꼭두의 계절’ 임수향 담아낸 한계절, 전율 부른 명장면 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230301161442716</id>
-        <link href="https://v.daum.net/v/20230301161442716"/>
-        <updated>2023-03-01T08:15:02.601Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
