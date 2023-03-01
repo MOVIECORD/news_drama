@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-01T12:21:40.909Z</updated>
+    <updated>2023-03-01T13:22:34.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유아인, 코카인·케타민 등 4가지 마약 검출..곧 소환 조사]]></title>
+        <id>https://v.daum.net/v/20230301221627513</id>
+        <link href="https://v.daum.net/v/20230301221627513"/>
+        <updated>2023-03-01T13:22:23.754Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태풍의 신부' 강지섭, 손창민으로부터 박하나 보호 지시.."밀착 경호해라"]]></title>
         <id>https://v.daum.net/v/20230301211925035</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230301161442716</id>
         <link href="https://v.daum.net/v/20230301161442716"/>
         <updated>2023-03-01T08:15:02.601Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘성스러운 아이돌’ 김민규, 깨물하트 애교 특훈에 죽상]]></title>
-        <id>https://v.daum.net/v/20230301160247431</id>
-        <link href="https://v.daum.net/v/20230301160247431"/>
-        <updated>2023-03-01T07:11:54.425Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
