@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-01T07:12:04.770Z</updated>
+    <updated>2023-03-01T08:15:13.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 박형식·전소니, 도성 살인사건의 마지막 글자 알아냈다]]></title>
+        <id>https://v.daum.net/v/20230301170113605</id>
+        <link href="https://v.daum.net/v/20230301170113605"/>
+        <updated>2023-03-01T08:15:02.592Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태희 "억대 세금 추징? 불미스러운 일 없었다"]]></title>
+        <id>https://v.daum.net/v/20230301165738537</id>
+        <link href="https://v.daum.net/v/20230301165738537"/>
+        <updated>2023-03-01T08:15:02.594Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 표예진, 진지↔코믹 오가는 온도차 열연]]></title>
+        <id>https://v.daum.net/v/20230301165148419</id>
+        <link href="https://v.daum.net/v/20230301165148419"/>
+        <updated>2023-03-01T08:15:02.596Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꼭두의 계절’ 임수향 담아낸 한계절, 전율 부른 명장면 살펴보니]]></title>
+        <id>https://v.daum.net/v/20230301161442716</id>
+        <link href="https://v.daum.net/v/20230301161442716"/>
+        <updated>2023-03-01T08:15:02.601Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘성스러운 아이돌’ 김민규, 깨물하트 애교 특훈에 죽상]]></title>
         <id>https://v.daum.net/v/20230301160247431</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230301110942106"/>
         <updated>2023-03-01T02:39:56.575Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예은X려운, 상큼 하숙집 주인 vs 냉미남의 아찔한 첫 만남]]></title>
-        <id>https://v.daum.net/v/20230301102930133</id>
-        <link href="https://v.daum.net/v/20230301102930133"/>
-        <updated>2023-03-01T02:39:56.576Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불타는 트롯맨' 황영웅 1위… 시청률 상승세는 꺾여]]></title>
-        <id>https://v.daum.net/v/20230301101016768</id>
-        <link href="https://v.daum.net/v/20230301101016768"/>
-        <updated>2023-03-01T02:39:56.577Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불효소송' 유동근, 자식개조프로젝트 '가족끼리 왜 이래' 3월3일 첫방송]]></title>
-        <id>https://v.daum.net/v/20230301100001483</id>
-        <link href="https://v.daum.net/v/20230301100001483"/>
-        <updated>2023-03-01T01:01:05.438Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃선비 열애사' 신예은∙려운, 아찔하고 기막힌 인연..조선의 홍보왕vs냉미남]]></title>
-        <id>https://v.daum.net/v/20230301095926474</id>
-        <link href="https://v.daum.net/v/20230301095926474"/>
-        <updated>2023-03-01T01:01:05.441Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
