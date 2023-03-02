@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-02T14:12:40.524Z</updated>
+    <updated>2023-03-02T15:14:23.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 고보결, 김민규에 "같은 세상에 태어날걸"]]></title>
+        <id>https://v.daum.net/v/20230303001007845</id>
+        <link href="https://v.daum.net/v/20230303001007845"/>
+        <updated>2023-03-02T15:13:20.497Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규 병원서 엄살 "신성력 사라져"]]></title>
+        <id>https://v.daum.net/v/20230303000544770</id>
+        <link href="https://v.daum.net/v/20230303000544770"/>
+        <updated>2023-03-02T15:13:20.497Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 고보결, 김민규에 과거사 고백 '눈물']]></title>
+        <id>https://v.daum.net/v/20230302233136467</id>
+        <link href="https://v.daum.net/v/20230302233136467"/>
+        <updated>2023-03-02T15:13:20.497Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 예지원, 김민규 걱정 "너 스폰 받았어?"]]></title>
         <id>https://v.daum.net/v/20230302230521333</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230302195549299"/>
         <updated>2023-03-02T11:10:21.388Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 한지완, 오윤홍 살해 혐의 부인 "다 오창석 짓"]]></title>
-        <id>https://v.daum.net/v/20230302193435914</id>
-        <link href="https://v.daum.net/v/20230302193435914"/>
-        <updated>2023-03-02T11:10:21.388Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불트' 측 "황영웅 피해자들에 합의금 지급? 사실무근…엄중 대응"]]></title>
-        <id>https://v.daum.net/v/20230302191828672</id>
-        <link href="https://v.daum.net/v/20230302191828672"/>
-        <updated>2023-03-02T11:10:21.388Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조승우 "한혜진, 미드필더"...정문성 "조승우는 개?"]]></title>
-        <id>https://v.daum.net/v/20230302185009255</id>
-        <link href="https://v.daum.net/v/20230302185009255"/>
-        <updated>2023-03-02T10:12:02.541Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
