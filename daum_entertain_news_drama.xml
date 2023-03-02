@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-02T10:12:14.468Z</updated>
+    <updated>2023-03-02T11:10:34.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["성공, 뭣이 중헌디"…이보영, 세상의 '고아인'들에게 묻다]]></title>
+        <id>https://v.daum.net/v/20230302200148421</id>
+        <link href="https://v.daum.net/v/20230302200148421"/>
+        <updated>2023-03-02T11:10:21.378Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, 오창석 비밀 폭로 “반효정 친손자 아냐”]]></title>
+        <id>https://v.daum.net/v/20230302195549299</id>
+        <link href="https://v.daum.net/v/20230302195549299"/>
+        <updated>2023-03-02T11:10:21.388Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 한지완, 오윤홍 살해 혐의 부인 "다 오창석 짓"]]></title>
+        <id>https://v.daum.net/v/20230302193435914</id>
+        <link href="https://v.daum.net/v/20230302193435914"/>
+        <updated>2023-03-02T11:10:21.388Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불트' 측 "황영웅 피해자들에 합의금 지급? 사실무근…엄중 대응"]]></title>
+        <id>https://v.daum.net/v/20230302191828672</id>
+        <link href="https://v.daum.net/v/20230302191828672"/>
+        <updated>2023-03-02T11:10:21.388Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조승우 "한혜진, 미드필더"...정문성 "조승우는 개?"]]></title>
         <id>https://v.daum.net/v/20230302185009255</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230302161813759"/>
         <updated>2023-03-02T08:15:32.335Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지옥’ 정진수役 시즌1 유아인→시즌2 김성철..양동근x문근영 합류]]></title>
-        <id>https://v.daum.net/v/20230302161220533</id>
-        <link href="https://v.daum.net/v/20230302161220533"/>
-        <updated>2023-03-02T08:15:32.337Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30초 대본으로 30분 연기 가능”..‘신성한, 이혼’ 티키타카 자부심으로 흥행 이어갈까]]></title>
-        <id>https://v.daum.net/v/20230302160427203</id>
-        <link href="https://v.daum.net/v/20230302160427203"/>
-        <updated>2023-03-02T07:11:12.853Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성철, '마약 투약 혐의' 유아인 대신 '지옥2' 합류…문근영 특별출연]]></title>
-        <id>https://v.daum.net/v/20230302155502737</id>
-        <link href="https://v.daum.net/v/20230302155502737"/>
-        <updated>2023-03-02T07:11:12.859Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신성한, 이혼' 인간미 장착하고 변호사 개업한 조승우]]></title>
-        <id>https://v.daum.net/v/20230302155126576</id>
-        <link href="https://v.daum.net/v/20230302155126576"/>
-        <updated>2023-03-02T07:11:12.860Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
