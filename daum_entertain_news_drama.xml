@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-03T02:47:02.080Z</updated>
+    <updated>2023-03-03T04:27:20.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 해외서 또 터졌다! 이제훈 인기 시너지 亞순위 수직상승]]></title>
+        <id>https://v.daum.net/v/20230303132511553</id>
+        <link href="https://v.daum.net/v/20230303132511553"/>
+        <updated>2023-03-03T04:27:10.208Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이제훈-신재하, 한 지붕 두 택시기사]]></title>
+        <id>https://v.daum.net/v/20230303131851392</id>
+        <link href="https://v.daum.net/v/20230303131851392"/>
+        <updated>2023-03-03T04:27:10.216Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불타는 트롯맨' 측 "경찰 수사? 통보 없었다"]]></title>
+        <id>https://v.daum.net/v/20230303131600341</id>
+        <link href="https://v.daum.net/v/20230303131600341"/>
+        <updated>2023-03-03T04:27:10.216Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘카지노2’ 이동휘의 배신 조짐..“우정과 돈은 물과 기름”]]></title>
+        <id>https://v.daum.net/v/20230303123742673</id>
+        <link href="https://v.daum.net/v/20230303123742673"/>
+        <updated>2023-03-03T04:27:10.217Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신성한, 이혼' 첫 방송 D-1, 케미스트리→메인 서사…관전 포인트 4]]></title>
         <id>https://v.daum.net/v/20230303112016150</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230303104027490"/>
         <updated>2023-03-03T02:45:58.798Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성스러운 아이돌' 신명성, 최재현 열애설에 예민…연기 스펙트럼 증명]]></title>
-        <id>https://v.daum.net/v/20230303103112097</id>
-        <link href="https://v.daum.net/v/20230303103112097"/>
-        <updated>2023-03-03T02:45:58.800Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일타스캔들’ 종영 아쉬움 달래는 비하인드컷 “모든 배우가 분위기메이커”]]></title>
-        <id>https://v.daum.net/v/20230303102513836</id>
-        <link href="https://v.daum.net/v/20230303102513836"/>
-        <updated>2023-03-03T02:45:58.801Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안태환, 김순옥 사단 합류…'판도라' 출연 확정]]></title>
-        <id>https://v.daum.net/v/20230303102204723</id>
-        <link href="https://v.daum.net/v/20230303102204723"/>
-        <updated>2023-03-03T02:45:58.802Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동윤, 피범벅+부은 눈 포착..한순간 선택의 결과]]></title>
-        <id>https://v.daum.net/v/20230303101627513</id>
-        <link href="https://v.daum.net/v/20230303101627513"/>
-        <updated>2023-03-03T02:45:58.805Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
