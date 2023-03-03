@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-03T15:12:31.263Z</updated>
+    <updated>2023-03-03T16:14:29.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 표예진에 “나랑 결혼해 줄래요?” 잉꼬부부로 변신]]></title>
+        <id>https://v.daum.net/v/20230304003128616</id>
+        <link href="https://v.daum.net/v/20230304003128616"/>
+        <updated>2023-03-03T16:14:19.881Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우도환X김지연, 비주얼·연기·케미 3박자 기대]]></title>
+        <id>https://v.daum.net/v/20230304003005612</id>
+        <link href="https://v.daum.net/v/20230304003005612"/>
+        <updated>2023-03-03T16:14:19.881Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신재하, 이제훈과 이웃사촌 됐다… “자주 놀러 와도 돼요?”]]></title>
+        <id>https://v.daum.net/v/20230304002629590</id>
+        <link href="https://v.daum.net/v/20230304002629590"/>
+        <updated>2023-03-03T16:14:19.881Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈X표예진, 김도윤에 발각 위기.."부부 아니지?"]]></title>
         <id>https://v.daum.net/v/20230304000427459</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230303205001652"/>
         <updated>2023-03-03T12:19:56.268Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 강지섭에 고백→손창민 '해임 위기']]></title>
-        <id>https://v.daum.net/v/20230303204616607</id>
-        <link href="https://v.daum.net/v/20230303204616607"/>
-        <updated>2023-03-03T12:19:56.272Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 손창민, 子 강지섭 혼수상태에 패닉 "박하나가 죽었어야"]]></title>
-        <id>https://v.daum.net/v/20230303203630446</id>
-        <link href="https://v.daum.net/v/20230303203630446"/>
-        <updated>2023-03-03T12:19:56.276Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태풍의 신부' 박하나, 로즈마리 어워즈 우승..손창민 '분노']]></title>
-        <id>https://v.daum.net/v/20230303201622096</id>
-        <link href="https://v.daum.net/v/20230303201622096"/>
-        <updated>2023-03-03T12:19:56.278Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
