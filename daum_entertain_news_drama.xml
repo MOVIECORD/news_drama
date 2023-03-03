@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-03T09:15:57.268Z</updated>
+    <updated>2023-03-03T10:12:17.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사' 이보영, 공감 대신 이해하는 마음으로]]></title>
+        <id>https://v.daum.net/v/20230303183927229</id>
+        <link href="https://v.daum.net/v/20230303183927229"/>
+        <updated>2023-03-03T10:12:06.669Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["중요한건 꺾이는 마음"..'걘역시북방계', 댄스동아리서 '남방계男' 찾기 실패]]></title>
+        <id>https://v.daum.net/v/20230303183926227</id>
+        <link href="https://v.daum.net/v/20230303183926227"/>
+        <updated>2023-03-03T10:12:06.670Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기다렸어 연진아···'더 글로리' 파트2 나눈 이유 이거였네]]></title>
         <id>https://v.daum.net/v/20230303181332504</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230303153648793"/>
         <updated>2023-03-03T07:14:11.461Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류혜영 측 “‘착한사나이’ 출연 긍정 논의 중”]]></title>
-        <id>https://v.daum.net/v/20230303150629851</id>
-        <link href="https://v.daum.net/v/20230303150629851"/>
-        <updated>2023-03-03T06:20:14.826Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재성, '판도라' 교활하고 능글맞은 정치인 변신]]></title>
-        <id>https://v.daum.net/v/20230303150407792</id>
-        <link href="https://v.daum.net/v/20230303150407792"/>
-        <updated>2023-03-03T06:20:14.828Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
