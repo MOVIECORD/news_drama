@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-03T12:20:58.664Z</updated>
+    <updated>2023-03-03T13:19:34.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나혼산’ 이유진, 알고 보니 이효정 아들…“아빠는 일산 이연복”]]></title>
+        <id>https://v.daum.net/v/20230303221802736</id>
+        <link href="https://v.daum.net/v/20230303221802736"/>
+        <updated>2023-03-03T13:19:22.983Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손창민, 박하나 이어 자식들에 배신 당하나]]></title>
         <id>https://v.daum.net/v/20230303205001652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230303173648290"/>
         <updated>2023-03-03T09:15:46.166Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재성, '판도라: 조작된 낙원' 출연 확정…명품 연기 기대↑]]></title>
-        <id>https://v.daum.net/v/20230303171741647</id>
-        <link href="https://v.daum.net/v/20230303171741647"/>
-        <updated>2023-03-03T09:15:46.167Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
