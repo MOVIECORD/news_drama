@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-04T08:13:57.265Z</updated>
+    <updated>2023-03-04T09:11:03.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['일타 스캔들'→'모범택시2' 신재하, 주말 밤을 사로잡다]]></title>
+        <id>https://v.daum.net/v/20230304180430788</id>
+        <link href="https://v.daum.net/v/20230304180430788"/>
+        <updated>2023-03-04T09:10:52.915Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진, 이혼 스캔들→조승우 찾아간 사연]]></title>
+        <id>https://v.daum.net/v/20230304174516596</id>
+        <link href="https://v.daum.net/v/20230304174516596"/>
+        <updated>2023-03-04T09:10:52.916Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘빨간풍선’ 정유민 “‘대선배’ 이성재와 불륜연기, 눈앞이 캄캄”]]></title>
         <id>https://v.daum.net/v/20230304171028353</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230304141215479"/>
         <updated>2023-03-04T06:13:35.244Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, 이혼 스캔들 구설수…커리어 최대 위기]]></title>
-        <id>https://v.daum.net/v/20230304140849444</id>
-        <link href="https://v.daum.net/v/20230304140849444"/>
-        <updated>2023-03-04T05:10:23.906Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신성한 이혼’ 한혜진 이혼 스캔들, 커리어 흔들]]></title>
-        <id>https://v.daum.net/v/20230304134004015</id>
-        <link href="https://v.daum.net/v/20230304134004015"/>
-        <updated>2023-03-04T05:10:23.906Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
