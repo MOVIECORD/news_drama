@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-04T00:53:45.659Z</updated>
+    <updated>2023-03-04T02:16:57.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['특파원보고 세계는 지금' 튀르키예·시리아 지진 그 이후]]></title>
+        <id>https://v.daum.net/v/20230304110854919</id>
+        <link href="https://v.daum.net/v/20230304110854919"/>
+        <updated>2023-03-04T02:16:42.875Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조승우, '비밀의 숲'과는 다를 '신성한, 이혼'…3연속 히트 미션]]></title>
+        <id>https://v.daum.net/v/20230304104327645</id>
+        <link href="https://v.daum.net/v/20230304104327645"/>
+        <updated>2023-03-04T02:16:42.877Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 정경호, 전도연 보자마자 '와락'..사랑담은 도시락 배달에 로맨틱 지수 UP]]></title>
         <id>https://v.daum.net/v/20230304095218026</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230304080623003"/>
         <updated>2023-03-03T23:11:32.686Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 표예진에 깜짝 프러포즈…김도윤 급습에 '당황']]></title>
-        <id>https://v.daum.net/v/20230304080002884</id>
-        <link href="https://v.daum.net/v/20230304080002884"/>
-        <updated>2023-03-03T23:11:32.686Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈X표예진 깜짝 결혼에…최고 19.7% 독보적 1위]]></title>
-        <id>https://v.daum.net/v/20230304075230860</id>
-        <link href="https://v.daum.net/v/20230304075230860"/>
-        <updated>2023-03-03T23:11:32.689Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
