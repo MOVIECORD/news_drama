@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-04T09:11:03.623Z</updated>
+    <updated>2023-03-04T10:12:13.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정유민 “내게 기회를 준 ‘빨간풍선’..기대에 보답하고파”]]></title>
+        <id>https://v.daum.net/v/20230304182730052</id>
+        <link href="https://v.daum.net/v/20230304182730052"/>
+        <updated>2023-03-04T10:11:10.413Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들'→'모범택시2' 신재하, 주말 밤을 사로잡다]]></title>
         <id>https://v.daum.net/v/20230304180430788</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304142148575"/>
         <updated>2023-03-04T06:13:35.243Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나랑 결혼해 줄래요?" 표예진, 이제훈과 신혼부부 부캐 완벽]]></title>
-        <id>https://v.daum.net/v/20230304141215479</id>
-        <link href="https://v.daum.net/v/20230304141215479"/>
-        <updated>2023-03-04T06:13:35.244Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
