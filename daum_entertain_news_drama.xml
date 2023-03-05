@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-05T02:56:36.865Z</updated>
+    <updated>2023-03-05T03:25:05.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨간풍선' 서지혜 "난 친구한테 할 말 다 하는 스타일, '조은강'하곤 달라요"]]></title>
+        <id>https://v.daum.net/v/20230305120102089</id>
+        <link href="https://v.daum.net/v/20230305120102089"/>
+        <updated>2023-03-05T03:24:56.180Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불후' 설운도·이찬원, 세월 넘은 선후배…애절한 '잃어버린 30년']]></title>
         <id>https://v.daum.net/v/20230305115351930</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230305090927973"/>
         <updated>2023-03-05T01:01:52.338Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["로맨스 아닌 스캔들"…'일타' 최악의 엔딩, 용두사미로 전락한 황당 전개]]></title>
-        <id>https://v.daum.net/v/20230305090802959</id>
-        <link href="https://v.daum.net/v/20230305090802959"/>
-        <updated>2023-03-05T01:01:52.340Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
