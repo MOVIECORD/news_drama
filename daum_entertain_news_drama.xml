@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-05T03:25:05.917Z</updated>
+    <updated>2023-03-05T04:13:19.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한혜진, 불륜 동영상 유출에도 꺾이지 않은 모성애..조승우도 감동]]></title>
+        <id>https://v.daum.net/v/20230305123426571</id>
+        <link href="https://v.daum.net/v/20230305123426571"/>
+        <updated>2023-03-05T04:13:08.083Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빨간풍선' 서지혜 "난 친구한테 할 말 다 하는 스타일, '조은강'하곤 달라요"]]></title>
         <id>https://v.daum.net/v/20230305120102089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230305091012984"/>
         <updated>2023-03-05T01:01:52.336Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향, 이 구역 '케미 퀸'…만났다 하면 착붙 호흡]]></title>
-        <id>https://v.daum.net/v/20230305090927973</id>
-        <link href="https://v.daum.net/v/20230305090927973"/>
-        <updated>2023-03-05T01:01:52.338Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
