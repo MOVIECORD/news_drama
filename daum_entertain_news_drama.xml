@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-06T09:12:43.744Z</updated>
+    <updated>2023-03-06T10:13:45.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아날로그 감성"…장동윤·설인아·추영우, 80년대 시대극 선택한 이유]]></title>
+        <id>https://v.daum.net/v/20230306185002676</id>
+        <link href="https://v.daum.net/v/20230306185002676"/>
+        <updated>2023-03-06T10:12:41.912Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아일랜드' 티빙 드라마 중 유료가입기여자수 1위…새로 쓰는 흥행]]></title>
+        <id>https://v.daum.net/v/20230306183711458</id>
+        <link href="https://v.daum.net/v/20230306183711458"/>
+        <updated>2023-03-06T10:12:41.913Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘일타 스캔들’, 드라마인지 ‘나는 솔로‘인지]]></title>
         <id>https://v.daum.net/v/20230306181003669</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230306160517949"/>
         <updated>2023-03-06T07:10:55.838Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 시대극 '오아시스'…"불꽃 같은 청춘들의 이야기"]]></title>
-        <id>https://v.daum.net/v/20230306160244837</id>
-        <link href="https://v.daum.net/v/20230306160244837"/>
-        <updated>2023-03-06T07:10:55.838Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희 "배우에게 큰 힘은 지지받는 것…어떻게 응원받을 수 있나 고민"]]></title>
-        <id>https://v.daum.net/v/20230306160150770</id>
-        <link href="https://v.daum.net/v/20230306160150770"/>
-        <updated>2023-03-06T07:10:55.844Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
