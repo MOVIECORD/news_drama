@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-06T11:10:31.634Z</updated>
+    <updated>2023-03-06T12:22:06.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나, 강지섭 희생으로 비자금 장부 확보… "손창민 벌할 수 있어" 감격]]></title>
+        <id>https://v.daum.net/v/20230306203239318</id>
+        <link href="https://v.daum.net/v/20230306203239318"/>
+        <updated>2023-03-06T12:21:55.947Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘태풍’ 박윤재X박하나, 손창민 비자금 장부 확보 “드디어 벌할 수 있게 돼”]]></title>
+        <id>https://v.daum.net/v/20230306202731233</id>
+        <link href="https://v.daum.net/v/20230306202731233"/>
+        <updated>2023-03-06T12:21:55.948Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 박윤재 진심 알았다… 강지섭 "날 인질로 삼아"]]></title>
         <id>https://v.daum.net/v/20230306200609962</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230306174801983"/>
         <updated>2023-03-06T09:12:33.390Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 감독 "'비밀의 남자' 20% 돌파...전작 영광 이을 것"]]></title>
-        <id>https://v.daum.net/v/20230306174233849</id>
-        <link href="https://v.daum.net/v/20230306174233849"/>
-        <updated>2023-03-06T09:12:33.392Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혜미리예채파' 김채원 "내향적이라 초반에 살짝 기 빨려"]]></title>
-        <id>https://v.daum.net/v/20230306171855981</id>
-        <link href="https://v.daum.net/v/20230306171855981"/>
-        <updated>2023-03-06T09:12:33.394Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
