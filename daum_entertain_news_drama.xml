@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-06T21:12:13.106Z</updated>
+    <updated>2023-03-06T22:12:37.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 장동윤, ♥︎설인아와 입맞춤➝추영우 대신 살인죄]]></title>
+        <id>https://v.daum.net/v/20230307065028461</id>
+        <link href="https://v.daum.net/v/20230307065028461"/>
+        <updated>2023-03-06T22:11:34.777Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["진짜 또라이네" 추영우, 설인아 앞 웃통 깠다]]></title>
         <id>https://v.daum.net/v/20230307053003629</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230306194816662"/>
         <updated>2023-03-06T11:10:20.390Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀의 게임’ 반효정 눈물, 가짜 손자 밝혀진 오창석에 “너마저 허깨비”]]></title>
-        <id>https://v.daum.net/v/20230306193600521</id>
-        <link href="https://v.daum.net/v/20230306193600521"/>
-        <updated>2023-03-06T11:10:20.405Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
