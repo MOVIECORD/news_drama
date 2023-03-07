@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T20:12:19.474Z</updated>
+    <updated>2023-03-07T21:11:26.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스' 늦깎이 대학생 구혜선 "후배들과 어울리려 '이것' 연구"]]></title>
+        <id>https://v.daum.net/v/20230308055837956</id>
+        <link href="https://v.daum.net/v/20230308055837956"/>
+        <updated>2023-03-07T21:10:14.632Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동윤·설인아 입맞춤...'오아시스' 첫방부터 8.2% 기록]]></title>
         <id>https://v.daum.net/v/20230308020530209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307200349186"/>
         <updated>2023-03-07T11:10:08.471Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 오창석, 반효정 치매환자 몰아 요양원에 가뒀다]]></title>
-        <id>https://v.daum.net/v/20230307195107929</id>
-        <link href="https://v.daum.net/v/20230307195107929"/>
-        <updated>2023-03-07T11:10:08.496Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
