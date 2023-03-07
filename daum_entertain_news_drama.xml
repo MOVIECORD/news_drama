@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T14:11:33.994Z</updated>
+    <updated>2023-03-07T15:13:20.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 설인아, 살인누명 쓴 장동윤에 "그럴 애 아니잖아"]]></title>
+        <id>https://v.daum.net/v/20230308000628662</id>
+        <link href="https://v.daum.net/v/20230308000628662"/>
+        <updated>2023-03-07T15:12:11.861Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 추영우, 장동윤에 부탁.."형이 죽였다고 해줘"]]></title>
+        <id>https://v.daum.net/v/20230307233327297</id>
+        <link href="https://v.daum.net/v/20230307233327297"/>
+        <updated>2023-03-07T15:12:11.862Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스' 추영우, 장동윤♥설인아 사이 알고 배신감 폭발]]></title>
         <id>https://v.daum.net/v/20230307223727954</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230307194508843"/>
         <updated>2023-03-07T11:10:08.510Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['송가인 조카' 조은서, 호텔리어로 완벽 변신…웹드 여주 발탁]]></title>
-        <id>https://v.daum.net/v/20230307194035811</id>
-        <link href="https://v.daum.net/v/20230307194035811"/>
-        <updated>2023-03-07T11:10:08.510Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 오창석, 살아남기 위해 거짓말 "반효정=치매"]]></title>
-        <id>https://v.daum.net/v/20230307193559659</id>
-        <link href="https://v.daum.net/v/20230307193559659"/>
-        <updated>2023-03-07T11:10:08.510Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
