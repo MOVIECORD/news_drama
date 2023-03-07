@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T12:21:21.365Z</updated>
+    <updated>2023-03-07T13:22:30.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 박형식, 전소니에 숨긴 애틋한 속마음…'보고 싶었다']]></title>
+        <id>https://v.daum.net/v/20230307221232802</id>
+        <link href="https://v.daum.net/v/20230307221232802"/>
+        <updated>2023-03-07T13:22:19.188Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 전소니에 애틋한 진심…'보고 싶었다']]></title>
         <id>https://v.daum.net/v/20230307210944070</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307181436160"/>
         <updated>2023-03-07T10:12:46.973Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아VS장희진, 누가 더 '눈물' 연기 잘할까…김순옥표 복수극 '판도라']]></title>
-        <id>https://v.daum.net/v/20230307181101059</id>
-        <link href="https://v.daum.net/v/20230307181101059"/>
-        <updated>2023-03-07T10:12:46.975Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
