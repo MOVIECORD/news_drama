@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T09:12:20.213Z</updated>
+    <updated>2023-03-07T10:12:57.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘청춘월담’ 표예진, 스승 이태선 ‘기 살리기’ 프로젝트 돌입]]></title>
+        <id>https://v.daum.net/v/20230307181436160</id>
+        <link href="https://v.daum.net/v/20230307181436160"/>
+        <updated>2023-03-07T10:12:46.973Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지아VS장희진, 누가 더 '눈물' 연기 잘할까…김순옥표 복수극 '판도라']]></title>
+        <id>https://v.daum.net/v/20230307181101059</id>
+        <link href="https://v.daum.net/v/20230307181101059"/>
+        <updated>2023-03-07T10:12:46.975Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사극판 남편찾기?..‘꽃선비 열애사’ 신예은X려운·강훈·정건주 ‘2인 포스터’ 3종 공개]]></title>
         <id>https://v.daum.net/v/20230307180627923</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230307155715217"/>
         <updated>2023-03-07T07:10:11.606Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마약혐의' 유아인, 신체 압수수색→자택 압수수색..본격 소환 조사]]></title>
-        <id>https://v.daum.net/v/20230307155027874</id>
-        <link href="https://v.daum.net/v/20230307155027874"/>
-        <updated>2023-03-07T07:10:11.607Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이지아 6kg 감량"…김순옥표 '판도라'의 상자 열린다]]></title>
-        <id>https://v.daum.net/v/20230307154708761</id>
-        <link href="https://v.daum.net/v/20230307154708761"/>
-        <updated>2023-03-07T07:10:11.608Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
