@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-07T04:13:46.299Z</updated>
+    <updated>2023-03-07T05:11:23.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 장동윤VS추영우, 상처투성이 몰골로 대치 "송두리째 바뀐다"]]></title>
+        <id>https://v.daum.net/v/20230307135718300</id>
+        <link href="https://v.daum.net/v/20230307135718300"/>
+        <updated>2023-03-07T05:11:10.777Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선빈, JTBC ‘나쁜엄마’ 합류…안하무인 금수저→이도현과 호흡]]></title>
+        <id>https://v.daum.net/v/20230307133114501</id>
+        <link href="https://v.daum.net/v/20230307133114501"/>
+        <updated>2023-03-07T05:11:10.778Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이봉련 "오의식과 러브라인? 미리 알고 있었죠…시청자 반응도 이해돼"]]></title>
         <id>https://v.daum.net/v/20230307131002849</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230307112044023"/>
         <updated>2023-03-07T02:37:05.714Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대행사’ 조복래 “여동생役 손나은, 항상 준비 잘 해오는 배우”]]></title>
-        <id>https://v.daum.net/v/20230307112034016</id>
-        <link href="https://v.daum.net/v/20230307112034016"/>
-        <updated>2023-03-07T02:37:05.717Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3년만 복귀' 안재현 "강자에게 강하고 약자에겐 약한 역할"]]></title>
-        <id>https://v.daum.net/v/20230307111326620</id>
-        <link href="https://v.daum.net/v/20230307111326620"/>
-        <updated>2023-03-07T02:37:05.718Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
