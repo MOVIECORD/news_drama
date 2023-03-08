@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-08T03:19:57.932Z</updated>
+    <updated>2023-03-08T04:14:37.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노정의X이채민 ‘하이라키’로 만날까 “검토 중”]]></title>
+        <id>https://v.daum.net/v/20230308130025933</id>
+        <link href="https://v.daum.net/v/20230308130025933"/>
+        <updated>2023-03-08T04:13:34.900Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박하나, 르블랑서 손창민 무너뜨렸다 “죽을 때까지 감옥에”]]></title>
+        <id>https://v.daum.net/v/20230308122436453</id>
+        <link href="https://v.daum.net/v/20230308122436453"/>
+        <updated>2023-03-08T04:13:34.902Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비밀의 여자’ 작가 “세 여주인공, 어느 누구도 단선적이지 않아”]]></title>
         <id>https://v.daum.net/v/20230308121118173</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230308103415642"/>
         <updated>2023-03-08T02:26:24.086Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손 없는 날' 신동엽X한가인, '150년 터줏대감' 안성 대가족 새 시작 응원]]></title>
-        <id>https://v.daum.net/v/20230308102503234</id>
-        <link href="https://v.daum.net/v/20230308102503234"/>
-        <updated>2023-03-08T02:26:24.100Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈-표예진, 짝사랑 or 동료애]]></title>
-        <id>https://v.daum.net/v/20230308101729840</id>
-        <link href="https://v.daum.net/v/20230308101729840"/>
-        <updated>2023-03-08T02:26:24.102Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
