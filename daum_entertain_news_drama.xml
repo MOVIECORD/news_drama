@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-09T13:23:03.029Z</updated>
+    <updated>2023-03-09T14:12:23.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 염라대왕 장영남과 거래했다]]></title>
+        <id>https://v.daum.net/v/20230309224417699</id>
+        <link href="https://v.daum.net/v/20230309224417699"/>
+        <updated>2023-03-09T14:11:13.989Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["잘 썼다"…김은숙도 무서워한 '더 글로리2' 미리보니]]></title>
         <id>https://v.daum.net/v/20230309205008493</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309164058695"/>
         <updated>2023-03-09T08:14:47.897Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피크타임' 측 "김현재 학폭, 교우·담임 교사·경찰 통해 확인 중"]]></title>
-        <id>https://v.daum.net/v/20230309162726031</id>
-        <link href="https://v.daum.net/v/20230309162726031"/>
-        <updated>2023-03-09T08:14:47.899Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
