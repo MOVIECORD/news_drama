@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-09T10:13:28.419Z</updated>
+    <updated>2023-03-09T11:11:57.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김유석·전혜연→서한결·정우연·진주형 ‘하늘의 인연’ 출연확정]]></title>
+        <id>https://v.daum.net/v/20230309191327937</id>
+        <link href="https://v.daum.net/v/20230309191327937"/>
+        <updated>2023-03-09T11:10:54.771Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장서희 복수극 '마녀의 게임', 3일 연속 결방...WBC 중계 여파]]></title>
         <id>https://v.daum.net/v/20230309184627539</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309152827103"/>
         <updated>2023-03-09T07:11:18.746Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍김동전' PD "언니쓰 민효린, 첫방 후 바로 연락…놀러오길" ③]]></title>
-        <id>https://v.daum.net/v/20230309151944752</id>
-        <link href="https://v.daum.net/v/20230309151944752"/>
-        <updated>2023-03-09T07:11:18.753Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
