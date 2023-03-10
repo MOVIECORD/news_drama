@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-10T04:13:54.971Z</updated>
+    <updated>2023-03-10T05:11:59.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대행사' 신수정, '더 리치' 출연 확정..김하늘 만난다]]></title>
+        <id>https://v.daum.net/v/20230310140437560</id>
+        <link href="https://v.daum.net/v/20230310140437560"/>
+        <updated>2023-03-10T05:10:57.548Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 이장우, 잔인한 마왕 캐릭터 200% 구현]]></title>
+        <id>https://v.daum.net/v/20230310133228706</id>
+        <link href="https://v.daum.net/v/20230310133228706"/>
+        <updated>2023-03-10T05:10:57.549Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미쳐 버린 손창민, 죽은 박윤재→박하나♥강지섭 해피엔딩]]></title>
         <id>https://v.daum.net/v/20230310131117343</id>
@@ -39,13 +53,6 @@
         <link href="https://v.daum.net/v/20230310121816637"/>
         <updated>2023-03-10T03:22:56.909Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고보결, 김민규에 "널 좋아하나 봐" 본심 고백→이마 키스]]></title>
-        <id>https://v.daum.net/v/20230310121214539</id>
-        <link href="https://v.daum.net/v/20230310121214539"/>
-        <updated>2023-03-10T03:22:56.918Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["'나는 신이다'로 JMS 탈퇴"…PD가 신변 위협 속 시즌2 결심한 이유]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230310104732513"/>
         <updated>2023-03-10T02:27:44.330Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차서원X공찬, 역대급 설레는 로맨스…스킨십 장면 포착]]></title>
-        <id>https://v.daum.net/v/20230310103627063</id>
-        <link href="https://v.daum.net/v/20230310103627063"/>
-        <updated>2023-03-10T02:27:44.331Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
