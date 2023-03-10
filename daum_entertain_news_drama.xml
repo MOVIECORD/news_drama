@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-10T13:22:51.030Z</updated>
+    <updated>2023-03-10T14:11:06.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주원 월급루팡↔다크 히어로, 이중생활 포착]]></title>
+        <id>https://v.daum.net/v/20230310230601733</id>
+        <link href="https://v.daum.net/v/20230310230601733"/>
+        <updated>2023-03-10T14:10:55.072Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선호 "매사 진지하지만 고집 있는 모습 비슷"]]></title>
+        <id>https://v.daum.net/v/20230310230502717</id>
+        <link href="https://v.daum.net/v/20230310230502717"/>
+        <updated>2023-03-10T14:10:55.072Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["때렸다"vs"기억 안난다"…결국 현실로 다가온 '더 글로리']]></title>
         <id>https://v.daum.net/v/20230310221012264</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230310174223263"/>
         <updated>2023-03-10T09:11:59.628Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 의미심장한 이채영 표정, 어떤 파국 불러오나]]></title>
-        <id>https://v.daum.net/v/20230310174049216</id>
-        <link href="https://v.daum.net/v/20230310174049216"/>
-        <updated>2023-03-10T09:11:59.629Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["용서 엔딩 없다"..'더 글로리', 송혜교 복수로 완성될 용두용미]]></title>
-        <id>https://v.daum.net/v/20230310171528562</id>
-        <link href="https://v.daum.net/v/20230310171528562"/>
-        <updated>2023-03-10T09:11:59.629Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
