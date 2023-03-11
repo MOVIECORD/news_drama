@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-11T14:09:19.436Z</updated>
+    <updated>2023-03-11T15:09:48.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘신성한, 이혼’ 한혜진, 조승우와 한솥밥... ‘쓰임’ 증명하고 채용돼]]></title>
+        <id>https://v.daum.net/v/20230311234100319</id>
+        <link href="https://v.daum.net/v/20230311234100319"/>
+        <updated>2023-03-11T15:09:37.274Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“변호를 X같이” 조승우, 여동생 죽음 얽힌 전배수와 악연 드러나 ‘신성한 이혼’]]></title>
+        <id>https://v.daum.net/v/20230311233728291</id>
+        <link href="https://v.daum.net/v/20230311233728291"/>
+        <updated>2023-03-11T15:09:37.276Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['판도라' 이지아=킬러 오영…'절친' 장희진 父 살해 진범]]></title>
+        <id>https://v.daum.net/v/20230311232626193</id>
+        <link href="https://v.daum.net/v/20230311232626193"/>
+        <updated>2023-03-11T15:09:37.277Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 분노 유발 빌런 김도윤 처단 성공]]></title>
+        <id>https://v.daum.net/v/20230311232557192</id>
+        <link href="https://v.daum.net/v/20230311232557192"/>
+        <updated>2023-03-11T15:09:37.279Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' 황정민, 조승우에 이혼 상담 "시어머니 폭행했다"]]></title>
+        <id>https://v.daum.net/v/20230311232052170</id>
+        <link href="https://v.daum.net/v/20230311232052170"/>
+        <updated>2023-03-11T15:09:37.280Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 불구덩이서 살아 돌아왔다 "어른들이 미안해"]]></title>
         <id>https://v.daum.net/v/20230311230500124</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230311223000874"/>
         <updated>2023-03-11T14:09:08.636Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 박기웅, ♥장희진 두고 한수연과 불륜…뜨거운 키스]]></title>
-        <id>https://v.daum.net/v/20230311222328843</id>
-        <link href="https://v.daum.net/v/20230311222328843"/>
-        <updated>2023-03-11T14:09:08.637Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '판도라' 이지아, 장희진 父 살해 킬러.."내가 오영이었다"]]></title>
-        <id>https://v.daum.net/v/20230311222236841</id>
-        <link href="https://v.daum.net/v/20230311222236841"/>
-        <updated>2023-03-11T14:09:08.638Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈♥표예진, 가짜부부 행세 들통..무릎 꿇었다]]></title>
-        <id>https://v.daum.net/v/20230311222227838</id>
-        <link href="https://v.daum.net/v/20230311222227838"/>
-        <updated>2023-03-11T14:09:08.641Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 장희진, ♥박기웅·한수연과 불륜 의심..女귀걸이 발견]]></title>
-        <id>https://v.daum.net/v/20230311221827816</id>
-        <link href="https://v.daum.net/v/20230311221827816"/>
-        <updated>2023-03-11T14:09:08.642Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈X표예진, 신혼부부 행세 들통… 김도윤 "내 마음에 쏙 들어"]]></title>
-        <id>https://v.daum.net/v/20230311221504804</id>
-        <link href="https://v.daum.net/v/20230311221504804"/>
-        <updated>2023-03-11T14:09:08.644Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
