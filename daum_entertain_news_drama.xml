@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-11T21:09:06.117Z</updated>
+    <updated>2023-03-11T22:09:55.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소은♥김승수, 나이차 극복 혼인신고···오희은은 경찰 신고]]></title>
+        <id>https://v.daum.net/v/20230312065317860</id>
+        <link href="https://v.daum.net/v/20230312065317860"/>
+        <updated>2023-03-11T22:09:43.691Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['판도라' 이상윤, 기억 잃은 ♥이지아에 로맨틱 키스 "과거 상관없어"]]></title>
         <id>https://v.daum.net/v/20230312060131430</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312050706040"/>
         <updated>2023-03-11T20:10:47.068Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 이지아, 6kg 빼고 귀 찢어지고…킬러 액션 본격 시작]]></title>
-        <id>https://v.daum.net/v/20230312045523968</id>
-        <link href="https://v.daum.net/v/20230312045523968"/>
-        <updated>2023-03-11T20:10:47.071Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
