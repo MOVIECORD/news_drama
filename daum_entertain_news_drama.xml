@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-11T15:09:48.276Z</updated>
+    <updated>2023-03-11T16:12:52.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["법공부 동력=빡침" 조승우, 죽은 여동생 위해 변호사 됐다]]></title>
+        <id>https://v.daum.net/v/20230312003245524</id>
+        <link href="https://v.daum.net/v/20230312003245524"/>
+        <updated>2023-03-11T16:12:42.687Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유태오 "♥니키리에 결혼 첫 선물, 7천불 C사 명품백"]]></title>
+        <id>https://v.daum.net/v/20230312002445500</id>
+        <link href="https://v.daum.net/v/20230312002445500"/>
+        <updated>2023-03-11T16:12:42.689Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘신성한, 이혼’ 한혜진, 조승우와 한솥밥... ‘쓰임’ 증명하고 채용돼]]></title>
         <id>https://v.daum.net/v/20230311234100319</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230311223905923"/>
         <updated>2023-03-11T14:09:08.629Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너무 미안" 이제훈, 불법 입양 부동산 빌런에 '분노']]></title>
-        <id>https://v.daum.net/v/20230311223203882</id>
-        <link href="https://v.daum.net/v/20230311223203882"/>
-        <updated>2023-03-11T14:09:08.631Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘판도라’ 이지아, 15년 만에 기억 찾았다 “대통령 당선인 살해한 킬러”]]></title>
-        <id>https://v.daum.net/v/20230311223000874</id>
-        <link href="https://v.daum.net/v/20230311223000874"/>
-        <updated>2023-03-11T14:09:08.636Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
