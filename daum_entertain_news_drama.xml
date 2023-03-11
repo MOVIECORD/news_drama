@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-11T03:12:39.162Z</updated>
+    <updated>2023-03-11T04:12:46.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 아동 구하려 불구덩이 뛰어들었다]]></title>
+        <id>https://v.daum.net/v/20230311130405502</id>
+        <link href="https://v.daum.net/v/20230311130405502"/>
+        <updated>2023-03-11T04:12:34.388Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이제훈, 파렴치한 어른들 응징한다‥분노 폭주]]></title>
+        <id>https://v.daum.net/v/20230311130401501</id>
+        <link href="https://v.daum.net/v/20230311130401501"/>
+        <updated>2023-03-11T04:12:34.390Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’, 용두용서 없어 더 아름다운 용두용미]]></title>
+        <id>https://v.daum.net/v/20230311125902470</id>
+        <link href="https://v.daum.net/v/20230311125902470"/>
+        <updated>2023-03-11T04:12:34.392Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리','조커'처럼 울고 웃은 송혜교의 망나니 칼춤…이도현과 러브라인은 옥에 티]]></title>
+        <id>https://v.daum.net/v/20230311121802142</id>
+        <link href="https://v.daum.net/v/20230311121802142"/>
+        <updated>2023-03-11T04:12:34.393Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그것이 알고 싶다' 6살 최준원 양 실종 미스터리]]></title>
         <id>https://v.daum.net/v/20230311115027887</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230311093126463"/>
         <updated>2023-03-11T00:48:27.616Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문동은인가"…'더 글로리' PD 학폭 의혹, 사뭇 다른 반응 왜?]]></title>
-        <id>https://v.daum.net/v/20230311093003444</id>
-        <link href="https://v.daum.net/v/20230311093003444"/>
-        <updated>2023-03-11T00:48:27.627Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상윤과 결혼' 이지아, 정신병원에서 '그날'의 진실 찾았다]]></title>
-        <id>https://v.daum.net/v/20230311091101273</id>
-        <link href="https://v.daum.net/v/20230311091101273"/>
-        <updated>2023-03-11T00:48:27.631Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['관록' 장영남의 엄살 "'일타스캔들' 속 민폐일까 걱정"]]></title>
-        <id>https://v.daum.net/v/20230311090156187</id>
-        <link href="https://v.daum.net/v/20230311090156187"/>
-        <updated>2023-03-11T00:48:27.639Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마인→대행사' 조은솔, 천의 얼굴을 가진 배우]]></title>
-        <id>https://v.daum.net/v/20230311090006124</id>
-        <link href="https://v.daum.net/v/20230311090006124"/>
-        <updated>2023-03-11T00:48:27.639Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
