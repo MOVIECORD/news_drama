@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-12T14:09:29.187Z</updated>
+    <updated>2023-03-12T15:11:01.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' 조승우..여동생 장례식 상주 서지 않은 매부에 분노]]></title>
+        <id>https://v.daum.net/v/20230313000628155</id>
+        <link href="https://v.daum.net/v/20230313000628155"/>
+        <updated>2023-03-12T15:09:53.252Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘신성한, 이혼’ 조승우, 동영상 파문 겪은 한혜진에 “세상 사람들 다 아는 일 아냐”]]></title>
+        <id>https://v.daum.net/v/20230312234700948</id>
+        <link href="https://v.daum.net/v/20230312234700948"/>
+        <updated>2023-03-12T15:09:53.252Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' 조승우, 박애란 승소 위해 명예훼손 제안 "거짓말할 것"]]></title>
+        <id>https://v.daum.net/v/20230312234227925</id>
+        <link href="https://v.daum.net/v/20230312234227925"/>
+        <updated>2023-03-12T15:09:53.254Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조승우, 한혜진 채용→'시모 폭행' 황정민 변호…"맞고소 할 것"]]></title>
         <id>https://v.daum.net/v/20230312225931727</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230312215001272"/>
         <updated>2023-03-12T13:14:53.101Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼남매가’ 김승수, 김소은 전남친 양대혁 막말에 주먹 날렸다]]></title>
-        <id>https://v.daum.net/v/20230312213728159</id>
-        <link href="https://v.daum.net/v/20230312213728159"/>
-        <updated>2023-03-12T13:14:53.101Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 김지안, ♥양대혁과 결별.."진짜 나쁜 놈이었구나" 눈물]]></title>
-        <id>https://v.daum.net/v/20230312213326137</id>
-        <link href="https://v.daum.net/v/20230312213326137"/>
-        <updated>2023-03-12T13:14:53.101Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나 X 먹이려고 그랬지?” 양대혁→김지안… 김승수 친딸 아닌거 알고 ‘분노’]]></title>
-        <id>https://v.daum.net/v/20230312212527066</id>
-        <link href="https://v.daum.net/v/20230312212527066"/>
-        <updated>2023-03-12T13:14:53.101Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
