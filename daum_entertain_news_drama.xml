@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-12T05:10:55.854Z</updated>
+    <updated>2023-03-12T06:14:21.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꼭두의 계절' 임수향, 두려움→애절함 시청자心 붙잡은 열연]]></title>
+        <id>https://v.daum.net/v/20230312150526221</id>
+        <link href="https://v.daum.net/v/20230312150526221"/>
+        <updated>2023-03-12T06:13:18.618Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표예진, 이제훈과 초고속 결혼부터 이혼까지..잉꼬부부 케미]]></title>
         <id>https://v.daum.net/v/20230312140726816</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312113002307"/>
         <updated>2023-03-12T03:13:16.820Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식, 카메라 꺼졌을 때 뭐하나?..잔망 폭발 왕세자]]></title>
-        <id>https://v.daum.net/v/20230312112243201</id>
-        <link href="https://v.daum.net/v/20230312112243201"/>
-        <updated>2023-03-12T03:13:16.822Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
