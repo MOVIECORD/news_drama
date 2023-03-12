@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-12T19:09:21.716Z</updated>
+    <updated>2023-03-12T20:11:08.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PD수첩 내공에 OTT 날개 다니 '파급력 최고']]></title>
+        <id>https://v.daum.net/v/20230313050127340</id>
+        <link href="https://v.daum.net/v/20230313050127340"/>
+        <updated>2023-03-12T20:10:57.592Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비밀의 여자’ 핏빛 복수 관전포인트3]]></title>
         <id>https://v.daum.net/v/20230313010126425</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312223319593"/>
         <updated>2023-03-12T14:09:18.628Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 이지아, 킬러였던 과거 기억해냈다..이상윤 대선 출마]]></title>
-        <id>https://v.daum.net/v/20230312223228585</id>
-        <link href="https://v.daum.net/v/20230312223228585"/>
-        <updated>2023-03-12T14:09:18.629Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
