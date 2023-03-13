@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-13T02:12:01.885Z</updated>
+    <updated>2023-03-13T03:11:58.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 감독 학폭은 별개? 글로벌 순위 2위로 '상승']]></title>
+        <id>https://v.daum.net/v/20230313113227821</id>
+        <link href="https://v.daum.net/v/20230313113227821"/>
+        <updated>2023-03-13T03:11:46.130Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엉성한 '판도라', 제작비 186억은 대체 어디에 들어간 건가]]></title>
+        <id>https://v.daum.net/v/20230313112326399</id>
+        <link href="https://v.daum.net/v/20230313112326399"/>
+        <updated>2023-03-13T03:11:46.143Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신성한, 이혼' 김성균, 가슴 시린 로맨스로 시청자 저격]]></title>
         <id>https://v.daum.net/v/20230313111001778</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230313085627432"/>
         <updated>2023-03-13T00:53:55.155Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요' 감독 "무한히 신뢰한 김영광, 기가 막힌 연기 이성경"]]></title>
-        <id>https://v.daum.net/v/20230313085427390</id>
-        <link href="https://v.daum.net/v/20230313085427390"/>
-        <updated>2023-03-13T00:53:55.158Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은숙·송혜교, 자신감 통했다..'더 글로리' 글로벌 2위]]></title>
-        <id>https://v.daum.net/v/20230313084503110</id>
-        <link href="https://v.daum.net/v/20230313084503110"/>
-        <updated>2023-03-13T00:53:55.159Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
