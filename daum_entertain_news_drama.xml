@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-13T21:10:21.028Z</updated>
+    <updated>2023-03-13T22:11:37.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 유폐된 박형식, 전소니에 "아바마마 날 버리려 해" 오열]]></title>
+        <id>https://v.daum.net/v/20230314070022768</id>
+        <link href="https://v.daum.net/v/20230314070022768"/>
+        <updated>2023-03-13T22:10:28.729Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑의 이해' 금새록, 1부터 10까지 박미경이었던 시간들]]></title>
         <id>https://v.daum.net/v/20230314060239151</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230313193050286"/>
         <updated>2023-03-13T11:09:34.018Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오아시스’·’꽃선비 열애사’, 지상파 월화극 구원투수 될까]]></title>
-        <id>https://v.daum.net/v/20230313181126729</id>
-        <link href="https://v.daum.net/v/20230313181126729"/>
-        <updated>2023-03-13T09:18:56.542Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
