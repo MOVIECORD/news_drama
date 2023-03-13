@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-13T18:13:54.305Z</updated>
+    <updated>2023-03-13T19:10:04.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서준영·윤다영·김시후, 얽히고설킨 인연 시작]]></title>
+        <id>https://v.daum.net/v/20230314040127852</id>
+        <link href="https://v.daum.net/v/20230314040127852"/>
+        <updated>2023-03-13T19:09:02.409Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 박성훈, 감독 학폭에 묻히긴 너무 알록달록하잖아]]></title>
         <id>https://v.daum.net/v/20230313233227621</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230313172427251"/>
         <updated>2023-03-13T09:18:56.558Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길X이다희X차은우, K-판타지 액션 새 지평…26개국 TOP10]]></title>
-        <id>https://v.daum.net/v/20230313163310493</id>
-        <link href="https://v.daum.net/v/20230313163310493"/>
-        <updated>2023-03-13T08:16:47.356Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
