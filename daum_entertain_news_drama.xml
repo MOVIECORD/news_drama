@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-13T22:11:37.093Z</updated>
+    <updated>2023-03-13T23:11:41.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연진아, 너 대박났대"…'더글로리2' 공개 3일만 전세계 1위]]></title>
+        <id>https://v.daum.net/v/20230314081101982</id>
+        <link href="https://v.daum.net/v/20230314081101982"/>
+        <updated>2023-03-13T23:11:26.951Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['톡파워' MC 이찬원, 우표 수집 대회 참가 추억 공개]]></title>
+        <id>https://v.daum.net/v/20230314075627658</id>
+        <link href="https://v.daum.net/v/20230314075627658"/>
+        <updated>2023-03-13T23:11:26.952Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 유폐된 박형식, 전소니에 "아바마마 날 버리려 해" 오열]]></title>
         <id>https://v.daum.net/v/20230314070022768</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230313203003257"/>
         <updated>2023-03-13T12:20:50.694Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식 큰일났네..전소니 향해 커지는 마음]]></title>
-        <id>https://v.daum.net/v/20230313202218133</id>
-        <link href="https://v.daum.net/v/20230313202218133"/>
-        <updated>2023-03-13T12:20:50.699Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 전소니, 목적지 잃은 박형식의 등불 된다]]></title>
-        <id>https://v.daum.net/v/20230313193050286</id>
-        <link href="https://v.daum.net/v/20230313193050286"/>
-        <updated>2023-03-13T11:09:34.018Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
