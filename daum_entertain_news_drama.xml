@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-14T09:12:42.108Z</updated>
+    <updated>2023-03-14T10:14:43.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영광♥이성경, 드디어 연애?...‘사랑이라 말해요’ 비하인드 스틸컷]]></title>
+        <id>https://v.daum.net/v/20230314190908719</id>
+        <link href="https://v.daum.net/v/20230314190908719"/>
+        <updated>2023-03-14T10:13:40.146Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'더 글로리'에 도전장"…막장 편견 부술까]]></title>
+        <id>https://v.daum.net/v/20230314185002306</id>
+        <link href="https://v.daum.net/v/20230314185002306"/>
+        <updated>2023-03-14T10:13:40.149Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일타 스캔들' 전도연, 로코퀸의 화려한 귀환]]></title>
         <id>https://v.daum.net/v/20230314175639465</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230314154434280"/>
         <updated>2023-03-14T07:12:07.950Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리2' 이도현, 다정한 망나니…여심 사로잡은 명대사]]></title>
-        <id>https://v.daum.net/v/20230314154343246</id>
-        <link href="https://v.daum.net/v/20230314154343246"/>
-        <updated>2023-03-14T07:12:07.950Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신사와 아가씨' 신창석 PD "'비밀의 여자' 끝으로 KBS 떠나"]]></title>
-        <id>https://v.daum.net/v/20230314154232197</id>
-        <link href="https://v.daum.net/v/20230314154232197"/>
-        <updated>2023-03-14T07:12:07.957Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
