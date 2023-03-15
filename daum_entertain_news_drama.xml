@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-15T09:11:36.180Z</updated>
+    <updated>2023-03-15T10:12:31.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김히어라 "지하철에서 '더 글로리' 시청자들 보니 흥행 와닿더라고요"]]></title>
+        <id>https://v.daum.net/v/20230315190636129</id>
+        <link href="https://v.daum.net/v/20230315190636129"/>
+        <updated>2023-03-15T10:12:21.475Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 악역 신예은, 발랄 객주로..."첫 사극, 망설였다"]]></title>
+        <id>https://v.daum.net/v/20230315185003844</id>
+        <link href="https://v.daum.net/v/20230315185003844"/>
+        <updated>2023-03-15T10:12:21.475Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 차주영, 화제의 노출 "모두 합의" #CG·대역·본인]]></title>
+        <id>https://v.daum.net/v/20230315183002451</id>
+        <link href="https://v.daum.net/v/20230315183002451"/>
+        <updated>2023-03-15T10:12:21.477Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['일타 스캔들' 장영남 "입시보다 아들의 행복이 더 중요하죠"]]></title>
+        <id>https://v.daum.net/v/20230315181436089</id>
+        <link href="https://v.daum.net/v/20230315181436089"/>
+        <updated>2023-03-15T10:12:21.482Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박수홍 "전세대금 없어서 보험 해지" 울컥…친형 횡령 강력 처벌 호소]]></title>
         <id>https://v.daum.net/v/20230315180041686</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230315164926205"/>
         <updated>2023-03-15T08:14:37.490Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강훈, 벌써 사극만 세번째…왜 '꽃선비 열애사'였나]]></title>
-        <id>https://v.daum.net/v/20230315164812156</id>
-        <link href="https://v.daum.net/v/20230315164812156"/>
-        <updated>2023-03-15T08:14:37.492Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준영 측 “‘폭싹 속았수다’ 출연” 아이유·박보검과 호흡]]></title>
-        <id>https://v.daum.net/v/20230315163828834</id>
-        <link href="https://v.daum.net/v/20230315163828834"/>
-        <updated>2023-03-15T08:14:37.500Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오아시스' 진이한, 배려심→뻔뻔함 오가는 두 얼굴]]></title>
-        <id>https://v.daum.net/v/20230315163100557</id>
-        <link href="https://v.daum.net/v/20230315163100557"/>
-        <updated>2023-03-15T08:14:37.504Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃선비 열애사' 신예은 "첫 사극 도전, 모든 대사 녹음해서 들어봐"]]></title>
-        <id>https://v.daum.net/v/20230315162227186</id>
-        <link href="https://v.daum.net/v/20230315162227186"/>
-        <updated>2023-03-15T08:14:37.506Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
