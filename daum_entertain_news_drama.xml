@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-15T12:20:37.079Z</updated>
+    <updated>2023-03-15T13:19:35.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 글로리', 학폭도 막지 못한 복수극...영미권에서도 화제인 이유]]></title>
+        <id>https://v.daum.net/v/20230315215003337</id>
+        <link href="https://v.daum.net/v/20230315215003337"/>
+        <updated>2023-03-15T13:19:26.889Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도연, '더 글로리' 차주영 노출 대역 지목에 "나 아냐..황당"]]></title>
+        <id>https://v.daum.net/v/20230315213526128</id>
+        <link href="https://v.daum.net/v/20230315213526128"/>
+        <updated>2023-03-15T13:19:26.889Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불륜' 이채영X한기웅, 잠든 신고은 앞 키스…"자고갈 것"]]></title>
         <id>https://v.daum.net/v/20230315205810409</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230315174932270"/>
         <updated>2023-03-15T09:11:25.047Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예은, 고데기 버리고 '조선의 F3'와 달콤 로맨스…'꽃선비 열애사']]></title>
-        <id>https://v.daum.net/v/20230315174512131</id>
-        <link href="https://v.daum.net/v/20230315174512131"/>
-        <updated>2023-03-15T09:11:25.048Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS "배우들에 드라마 재방송료 지급 거부? 사실 아니다"]]></title>
-        <id>https://v.daum.net/v/20230315173227661</id>
-        <link href="https://v.daum.net/v/20230315173227661"/>
-        <updated>2023-03-15T09:11:25.053Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
