@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-15T20:11:43.957Z</updated>
+    <updated>2023-03-15T21:10:05.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연진아, 중국이 또 훔쳐 본대"…'더 글로리', 불법유출에 또 몸살]]></title>
+        <id>https://v.daum.net/v/20230316060008585</id>
+        <link href="https://v.daum.net/v/20230316060008585"/>
+        <updated>2023-03-15T21:09:54.888Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, ♥고보결 향한 사랑 자각할까]]></title>
         <id>https://v.daum.net/v/20230315235620277</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230315183002451"/>
         <updated>2023-03-15T10:12:21.477Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타 스캔들' 장영남 "입시보다 아들의 행복이 더 중요하죠"]]></title>
-        <id>https://v.daum.net/v/20230315181436089</id>
-        <link href="https://v.daum.net/v/20230315181436089"/>
-        <updated>2023-03-15T10:12:21.482Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
