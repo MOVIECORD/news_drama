@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-16T14:11:09.047Z</updated>
+    <updated>2023-03-16T15:11:53.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 고보결에 "널 좋아하지 않아"]]></title>
+        <id>https://v.daum.net/v/20230316233456102</id>
+        <link href="https://v.daum.net/v/20230316233456102"/>
+        <updated>2023-03-16T15:11:39.494Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, ♥고보결 향한 사랑 자각]]></title>
         <id>https://v.daum.net/v/20230316225202775</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230316174150592</id>
         <link href="https://v.daum.net/v/20230316174150592"/>
         <updated>2023-03-16T09:12:04.398Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호 측 "'해시의 신루' 논의 끝에 출연하지 않기로"]]></title>
-        <id>https://v.daum.net/v/20230316173732428</id>
-        <link href="https://v.daum.net/v/20230316173732428"/>
-        <updated>2023-03-16T09:12:04.399Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
