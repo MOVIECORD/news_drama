@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-16T15:11:53.743Z</updated>
+    <updated>2023-03-16T16:17:49.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, ♥고보결에 고백 키스 "이미 모든걸 줬다"]]></title>
+        <id>https://v.daum.net/v/20230317003138673</id>
+        <link href="https://v.daum.net/v/20230317003138673"/>
+        <updated>2023-03-16T16:16:46.490Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교X한소희 조합 본다! '자백의 대가' 합류 직접 인증]]></title>
+        <id>https://v.daum.net/v/20230317002113559</id>
+        <link href="https://v.daum.net/v/20230317002113559"/>
+        <updated>2023-03-16T16:16:46.500Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, 고보결에 "널 좋아하지 않아"]]></title>
         <id>https://v.daum.net/v/20230316233456102</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230316180232261"/>
         <updated>2023-03-16T09:12:04.390Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호, ‘망내인’으로 드라마 복귀 “긍정 검토 중”]]></title>
-        <id>https://v.daum.net/v/20230316174505715</id>
-        <link href="https://v.daum.net/v/20230316174505715"/>
-        <updated>2023-03-16T09:12:04.392Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카지노2' 최민식 갈 데까지 갔다..손석구와 마지막 대결 승자는?]]></title>
-        <id>https://v.daum.net/v/20230316174150592</id>
-        <link href="https://v.daum.net/v/20230316174150592"/>
-        <updated>2023-03-16T09:12:04.398Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
