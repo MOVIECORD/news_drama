@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-16T10:13:07.071Z</updated>
+    <updated>2023-03-16T11:09:53.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 오창석 "알츠하이머 반효정 치료하지 마"]]></title>
+        <id>https://v.daum.net/v/20230316195411877</id>
+        <link href="https://v.daum.net/v/20230316195411877"/>
+        <updated>2023-03-16T11:09:43.348Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, 유언장 숨긴 오창석 배신에 충격 “네 성 부숴줄 것”]]></title>
+        <id>https://v.daum.net/v/20230316195400869</id>
+        <link href="https://v.daum.net/v/20230316195400869"/>
+        <updated>2023-03-16T11:09:43.348Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의게임' 장서희, 반효정 행동에 깜짝 "진짜 알츠하이머?"]]></title>
+        <id>https://v.daum.net/v/20230316192915401</id>
+        <link href="https://v.daum.net/v/20230316192915401"/>
+        <updated>2023-03-16T11:09:43.349Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['군입대' 차서원, 깜짝 등장 "♥공찬과 키스신=명장면"]]></title>
         <id>https://v.daum.net/v/20230316191003950</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230316170029798"/>
         <updated>2023-03-16T08:14:09.155Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영의 가슴이 CG든 아니든 뭐가 중요해 "혜정이에게 꼭 필요했던 장면"]]></title>
-        <id>https://v.daum.net/v/20230316165502519</id>
-        <link href="https://v.daum.net/v/20230316165502519"/>
-        <updated>2023-03-16T08:14:09.155Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호 측 "'해시의 신루' 출연하지 않기로 합의"]]></title>
-        <id>https://v.daum.net/v/20230316165421495</id>
-        <link href="https://v.daum.net/v/20230316165421495"/>
-        <updated>2023-03-16T08:14:09.155Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비의도적 연애담' 공찬 "차서원, 마음 한켠에 있어···군 면회 갈 것"]]></title>
-        <id>https://v.daum.net/v/20230316165030310</id>
-        <link href="https://v.daum.net/v/20230316165030310"/>
-        <updated>2023-03-16T08:14:09.155Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
