@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-17T08:14:13.526Z</updated>
+    <updated>2023-03-17T09:12:04.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임지연 "박연진 아니어도 '더 글로리' 했을 것···이사라 역 탐났다"]]></title>
+        <id>https://v.daum.net/v/20230317180032062</id>
+        <link href="https://v.daum.net/v/20230317180032062"/>
+        <updated>2023-03-17T09:11:54.885Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 임지연 "박연진 사랑해…감옥씬 많이 힘들었다"]]></title>
+        <id>https://v.daum.net/v/20230317175002868</id>
+        <link href="https://v.daum.net/v/20230317175002868"/>
+        <updated>2023-03-17T09:11:54.886Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연 "저 말고 '연진이'가 대세죠…너무 미워해 주셔서 뿌듯"]]></title>
         <id>https://v.daum.net/v/20230317171206983</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230317150913464"/>
         <updated>2023-03-17T06:12:43.645Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["조승우와 친구들"...'신성한, 이혼' 42세 아재들 우정 이렇게 웃길 줄이야]]></title>
-        <id>https://v.daum.net/v/20230317150342293</id>
-        <link href="https://v.daum.net/v/20230317150342293"/>
-        <updated>2023-03-17T06:12:43.645Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 임지연 "김은숙 작가, 천사같은 얼굴에 악마같은 심장일 것 같다고 해"]]></title>
-        <id>https://v.daum.net/v/20230317143628237</id>
-        <link href="https://v.daum.net/v/20230317143628237"/>
-        <updated>2023-03-17T06:12:43.666Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
