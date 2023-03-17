@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-17T04:13:25.669Z</updated>
+    <updated>2023-03-17T05:10:33.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정현♥임수향, 결혼한다..웨딩드레스 공개]]></title>
+        <id>https://v.daum.net/v/20230317135113840</id>
+        <link href="https://v.daum.net/v/20230317135113840"/>
+        <updated>2023-03-17T05:10:23.332Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 문예원 "인간적으로도 많이 배우고 성장한 작품" 종영 소감]]></title>
+        <id>https://v.daum.net/v/20230317133755482</id>
+        <link href="https://v.daum.net/v/20230317133755482"/>
+        <updated>2023-03-17T05:10:23.336Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꼭두의 계절’ 임수향, ♥김정현과 셀프 결혼식→달고나 먹방까지]]></title>
+        <id>https://v.daum.net/v/20230317133540311</id>
+        <link href="https://v.daum.net/v/20230317133540311"/>
+        <updated>2023-03-17T05:10:23.338Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타워즈 세계관 합류한 '미나리' 정이삭 감독]]></title>
+        <id>https://v.daum.net/v/20230317131508916</id>
+        <link href="https://v.daum.net/v/20230317131508916"/>
+        <updated>2023-03-17T05:10:23.340Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모범택시2’ 배유람, 사이비 집단 광기 속 혈혈단신 입성]]></title>
         <id>https://v.daum.net/v/20230317130915802</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230317121236918"/>
         <updated>2023-03-17T04:13:15.661Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제2의 임영웅' 안성훈…실패에도 무너지지 않는 오뚝이 정신]]></title>
-        <id>https://v.daum.net/v/20230317121002878</id>
-        <link href="https://v.daum.net/v/20230317121002878"/>
-        <updated>2023-03-17T03:11:47.233Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 임지연 "학폭 검증? 직접 질문은 NO..'천사 얼굴에 악마'라고"]]></title>
-        <id>https://v.daum.net/v/20230317120534828</id>
-        <link href="https://v.daum.net/v/20230317120534828"/>
-        <updated>2023-03-17T03:11:47.233Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 임지연 “연진이 연기 후유증, 미간에 주름이…”]]></title>
-        <id>https://v.daum.net/v/20230317115835660</id>
-        <link href="https://v.daum.net/v/20230317115835660"/>
-        <updated>2023-03-17T03:11:47.233Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 임지연 “엄마도 ‘연진아’라고 불러, 임지연보다 유명”]]></title>
-        <id>https://v.daum.net/v/20230317115829659</id>
-        <link href="https://v.daum.net/v/20230317115829659"/>
-        <updated>2023-03-17T03:11:47.247Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
