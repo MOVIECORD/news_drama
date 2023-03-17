@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-17T09:12:04.656Z</updated>
+    <updated>2023-03-17T10:11:57.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비밀의 여자’ 제작진 “이채영-신고은-박형준, 불행의 서막 닥친다”]]></title>
+        <id>https://v.daum.net/v/20230317183810721</id>
+        <link href="https://v.daum.net/v/20230317183810721"/>
+        <updated>2023-03-17T10:11:46.895Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지연X신동미, 다채로운 관계 속 ‘끈끈 케미’]]></title>
+        <id>https://v.daum.net/v/20230317183204637</id>
+        <link href="https://v.daum.net/v/20230317183204637"/>
+        <updated>2023-03-17T10:11:46.895Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연 "박연진 아니어도 '더 글로리' 했을 것···이사라 역 탐났다"]]></title>
         <id>https://v.daum.net/v/20230317180032062</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230317152039778"/>
         <updated>2023-03-17T07:10:26.837Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선넘은 이채영, 피임약 먹이고 불륜…박형준은 피 흘리고 쓰러져?]]></title>
-        <id>https://v.daum.net/v/20230317151837712</id>
-        <link href="https://v.daum.net/v/20230317151837712"/>
-        <updated>2023-03-17T07:10:26.838Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼식이 삼촌’ 오광록 합류, 송강호X변요한과 호흡]]></title>
-        <id>https://v.daum.net/v/20230317150913464</id>
-        <link href="https://v.daum.net/v/20230317150913464"/>
-        <updated>2023-03-17T06:12:43.645Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
