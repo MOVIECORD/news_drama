@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-17T10:11:57.231Z</updated>
+    <updated>2023-03-17T11:10:06.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신고은, 한기웅 강압적 태도에 분노…"가만있지 않겠다"]]></title>
+        <id>https://v.daum.net/v/20230317200933915</id>
+        <link href="https://v.daum.net/v/20230317200933915"/>
+        <updated>2023-03-17T11:09:51.562Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 오창석에 "너 같은 껌딱지 사양할게"]]></title>
+        <id>https://v.daum.net/v/20230317194018536</id>
+        <link href="https://v.daum.net/v/20230317194018536"/>
+        <updated>2023-03-17T11:09:51.562Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비밀의 여자’ 제작진 “이채영-신고은-박형준, 불행의 서막 닥친다”]]></title>
         <id>https://v.daum.net/v/20230317183810721</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230317154027392"/>
         <updated>2023-03-17T07:10:26.821Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 '베토벤', 시즌 2로 돌아온다.."캐릭터·넘버 변경"]]></title>
-        <id>https://v.daum.net/v/20230317153141089</id>
-        <link href="https://v.daum.net/v/20230317153141089"/>
-        <updated>2023-03-17T07:10:26.828Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 문예원 "인간적으로도 많이 배우고 성장한 작품"]]></title>
-        <id>https://v.daum.net/v/20230317152039778</id>
-        <link href="https://v.daum.net/v/20230317152039778"/>
-        <updated>2023-03-17T07:10:26.837Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
