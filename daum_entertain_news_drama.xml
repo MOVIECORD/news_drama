@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-18T06:14:43.330Z</updated>
+    <updated>2023-03-18T07:09:45.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 신고은, 박형준 피습 범인 밝혀낼까..이채영 분노]]></title>
+        <id>https://v.daum.net/v/20230318160804447</id>
+        <link href="https://v.daum.net/v/20230318160804447"/>
+        <updated>2023-03-18T07:09:33.914Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김히어라 "송혜교, 얼마 안 가니 즐기라고"]]></title>
+        <id>https://v.daum.net/v/20230318155009245</id>
+        <link href="https://v.daum.net/v/20230318155009245"/>
+        <updated>2023-03-18T07:09:33.915Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김히어라 "이사라, 많이 망가져야…너무 많이 보여줬다"]]></title>
+        <id>https://v.daum.net/v/20230318155002244</id>
+        <link href="https://v.daum.net/v/20230318155002244"/>
+        <updated>2023-03-18T07:09:33.925Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진, 정문성에 꽃다발 받고 얼굴 붉혔다]]></title>
+        <id>https://v.daum.net/v/20230318153032093</id>
+        <link href="https://v.daum.net/v/20230318153032093"/>
+        <updated>2023-03-18T07:09:33.932Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차학연 “‘조선변호사’ 대본 보고 ‘이거다!’ 느꼈다”]]></title>
         <id>https://v.daum.net/v/20230318141034284</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230318130751752"/>
         <updated>2023-03-18T04:12:47.357Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 이제훈, 택시 대신 작두 탄다…복수의 굿판]]></title>
-        <id>https://v.daum.net/v/20230318130511724</id>
-        <link href="https://v.daum.net/v/20230318130511724"/>
-        <updated>2023-03-18T04:12:47.366Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 전현무·박나래·이장우, 나란히 '삼진 비만'…금요 예능 1위]]></title>
-        <id>https://v.daum.net/v/20230318130253707</id>
-        <link href="https://v.daum.net/v/20230318130253707"/>
-        <updated>2023-03-18T04:12:47.367Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈, 부캐에 늘 진심…똘기충만 무당돼 교주 처단할까]]></title>
-        <id>https://v.daum.net/v/20230318123717544</id>
-        <link href="https://v.daum.net/v/20230318123717544"/>
-        <updated>2023-03-18T04:12:47.367Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 임지연 "연진아, 용서는 없어! 평생 죗값 치르길"]]></title>
-        <id>https://v.daum.net/v/20230318123142522</id>
-        <link href="https://v.daum.net/v/20230318123142522"/>
-        <updated>2023-03-18T04:12:47.368Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
