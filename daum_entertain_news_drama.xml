@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-18T16:13:17.265Z</updated>
+    <updated>2023-03-18T17:09:38.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소은, ♥김승수와 동거 결정→마지막화 결혼식장에서]]></title>
+        <id>https://v.daum.net/v/20230319012420755</id>
+        <link href="https://v.daum.net/v/20230319012420755"/>
+        <updated>2023-03-18T17:09:26.844Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈 '빙의 연기→작두 타기', 사이비 교주 속여 '응징' 성공]]></title>
         <id>https://v.daum.net/v/20230319011200743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318223955145"/>
         <updated>2023-03-18T14:09:15.039Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김의성 "사이비 종교 신도들, 믿음의 뿌리를 흔들어야 해"]]></title>
-        <id>https://v.daum.net/v/20230318223622130</id>
-        <link href="https://v.daum.net/v/20230318223622130"/>
-        <updated>2023-03-18T14:09:15.040Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
