@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-18T00:53:13.083Z</updated>
+    <updated>2023-03-18T02:09:35.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지아, 심소영에 칼 겨눴다…핏빛 복수 시작하나]]></title>
+        <id>https://v.daum.net/v/20230318105910653</id>
+        <link href="https://v.daum.net/v/20230318105910653"/>
+        <updated>2023-03-18T02:09:23.654Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리' 임지연 "박연진=애증의 존재…일진? 연기자 꿈꿨던 순수한 학생"]]></title>
+        <id>https://v.daum.net/v/20230318104402530</id>
+        <link href="https://v.daum.net/v/20230318104402530"/>
+        <updated>2023-03-18T02:09:23.654Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이제훈, 악질 사이비 잡으려 무지개팀 신력 총 동원…‘무당도기’ 등판]]></title>
+        <id>https://v.daum.net/v/20230318095700893</id>
+        <link href="https://v.daum.net/v/20230318095700893"/>
+        <updated>2023-03-18T02:09:23.654Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연 "'박연진의 마지막, 최고의 벌이지 않나"]]></title>
         <id>https://v.daum.net/v/20230318095012831</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230318083426031"/>
         <updated>2023-03-18T00:53:01.645Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 임지연 "진짜 일진이었냐고? NO…전 순수했어요"]]></title>
-        <id>https://v.daum.net/v/20230318083010989</id>
-        <link href="https://v.daum.net/v/20230318083010989"/>
-        <updated>2023-03-18T00:53:01.647Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정현, 피 흘리며 쓰러졌다..임수향 위한 한걸음]]></title>
-        <id>https://v.daum.net/v/20230318081055861</id>
-        <link href="https://v.daum.net/v/20230318081055861"/>
-        <updated>2023-03-18T00:53:01.649Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여왕벌 등장에 이간질까지…'나는 솔로' 데이트가 판도 바꿀까]]></title>
-        <id>https://v.daum.net/v/20230318080053743</id>
-        <link href="https://v.daum.net/v/20230318080053743"/>
-        <updated>2023-03-17T23:11:00.790Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
