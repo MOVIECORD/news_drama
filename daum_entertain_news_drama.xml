@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-18T09:09:51.870Z</updated>
+    <updated>2023-03-18T10:10:40.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부캐에 진심인 이제훈..'돌+아이' 무당까지 완벽 소화]]></title>
+        <id>https://v.daum.net/v/20230318184040671</id>
+        <link href="https://v.daum.net/v/20230318184040671"/>
+        <updated>2023-03-18T10:10:29.461Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 글로리’ 이도현, ‘다정한 미친놈’ 주여정 그 자체]]></title>
         <id>https://v.daum.net/v/20230318162432584</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318134936092"/>
         <updated>2023-03-18T05:09:43.795Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희정, 이선호와 가깝고도 어려원 ‘찐’ 모자 케미]]></title>
-        <id>https://v.daum.net/v/20230318134510050</id>
-        <link href="https://v.daum.net/v/20230318134510050"/>
-        <updated>2023-03-18T05:09:43.795Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
