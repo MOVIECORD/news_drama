@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-19T15:10:09.762Z</updated>
+    <updated>2023-03-19T16:13:01.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장희진, 父 죽인 이지아 정체에 흑화 "갈기갈기 찢어줄게"]]></title>
+        <id>https://v.daum.net/v/20230320004023960</id>
+        <link href="https://v.daum.net/v/20230320004023960"/>
+        <updated>2023-03-19T16:12:50.893Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' 조승우, 한혜진 향한 신뢰 드러냈다.."아들 지켜낸 사람"]]></title>
+        <id>https://v.daum.net/v/20230320001552863</id>
+        <link href="https://v.daum.net/v/20230320001552863"/>
+        <updated>2023-03-19T16:12:50.893Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“착하면 비명횡사”... ‘신성한, 이혼’ 조승우, 차화연 뒤늦은 추모에 분노]]></title>
         <id>https://v.daum.net/v/20230319234630613</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230319213618894"/>
         <updated>2023-03-19T13:15:43.281Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 이하나, 입원한 ♥임주환에 "민성욱 구하지 말지"]]></title>
-        <id>https://v.daum.net/v/20230319205220595</id>
-        <link href="https://v.daum.net/v/20230319205220595"/>
-        <updated>2023-03-19T12:18:04.119Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“애 생겼니?” 김승수♥김소은… 동거허락→둘째 사위로 인정 ‘깜짝’]]></title>
-        <id>https://v.daum.net/v/20230319204447529</id>
-        <link href="https://v.daum.net/v/20230319204447529"/>
-        <updated>2023-03-19T14:09:26.589Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
