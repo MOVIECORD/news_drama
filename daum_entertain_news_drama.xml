@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-19T14:09:36.439Z</updated>
+    <updated>2023-03-19T15:10:09.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“착하면 비명횡사”... ‘신성한, 이혼’ 조승우, 차화연 뒤늦은 추모에 분노]]></title>
+        <id>https://v.daum.net/v/20230319234630613</id>
+        <link href="https://v.daum.net/v/20230319234630613"/>
+        <updated>2023-03-19T15:09:59.416Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' 차화연, 조승우 찾아와 공현지 조문 요청.."사양"]]></title>
+        <id>https://v.daum.net/v/20230319234151595</id>
+        <link href="https://v.daum.net/v/20230319234151595"/>
+        <updated>2023-03-19T15:09:59.419Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신성한, 이혼' 조승우, 여동생 무덤 찾아 눈물.."나 이렇게 살아야 하냐"]]></title>
         <id>https://v.daum.net/v/20230319225433408</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230319204447529"/>
         <updated>2023-03-19T14:09:26.589Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼남매' 김승수, ♥김소은에 달콤 고백.."사실 첫 눈에 반했어"]]></title>
-        <id>https://v.daum.net/v/20230319203818494</id>
-        <link href="https://v.daum.net/v/20230319203818494"/>
-        <updated>2023-03-19T12:18:04.120Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼남매가 용감하게’ 민성욱, 목숨 구해준 임주환 버리고 도망? “짐 어딨나”]]></title>
-        <id>https://v.daum.net/v/20230319203601488</id>
-        <link href="https://v.daum.net/v/20230319203601488"/>
-        <updated>2023-03-19T12:18:04.122Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
