@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-19T06:15:45.210Z</updated>
+    <updated>2023-03-19T07:10:45.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진짜 신들렸네..이제훈, 무당까지 소화한 대체불가]]></title>
+        <id>https://v.daum.net/v/20230319160322903</id>
+        <link href="https://v.daum.net/v/20230319160322903"/>
+        <updated>2023-03-19T07:09:43.368Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 표예진x이태선, 봄바람 불까?]]></title>
         <id>https://v.daum.net/v/20230319151026768</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230319110210865"/>
         <updated>2023-03-19T02:21:48.485Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 학폭만 있나..핏줄이 더 무서운 가정폭력]]></title>
-        <id>https://v.daum.net/v/20230319110002772</id>
-        <link href="https://v.daum.net/v/20230319110002772"/>
-        <updated>2023-03-19T02:21:48.486Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
