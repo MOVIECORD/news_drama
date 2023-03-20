@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-20T03:12:45.330Z</updated>
+    <updated>2023-03-20T04:14:01.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김의성 코믹 연기 왜 이제야 했나, ‘모범택시2’ 타고 훨훨]]></title>
+        <id>https://v.daum.net/v/20230320122727733</id>
+        <link href="https://v.daum.net/v/20230320122727733"/>
+        <updated>2023-03-20T04:13:49.985Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오아시스’ 추영우·설인아 사이 묘한 분위기, 관계 변화 생기나]]></title>
         <id>https://v.daum.net/v/20230320114809811</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230320100055289"/>
         <updated>2023-03-20T02:14:45.843Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소은 "'더 글로리' 못 봤다, '삼남매가' 챙겨 보기도 바빠"]]></title>
-        <id>https://v.daum.net/v/20230320095901150</id>
-        <link href="https://v.daum.net/v/20230320095901150"/>
-        <updated>2023-03-20T02:14:45.851Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
