@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-21T08:13:58.744Z</updated>
+    <updated>2023-03-21T09:12:17.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비연담’ 공찬, ‘데뷔 13년 차’ BL 새 도전…”’일’이라 생각한 적 없다”]]></title>
+        <id>https://v.daum.net/v/20230321173024320</id>
+        <link href="https://v.daum.net/v/20230321173024320"/>
+        <updated>2023-03-21T09:11:14.089Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 백수장, ‘모범택시2’ 합류..이제훈 만난다]]></title>
+        <id>https://v.daum.net/v/20230321171516865</id>
+        <link href="https://v.daum.net/v/20230321171516865"/>
+        <updated>2023-03-21T09:11:14.094Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 차주영, 알을 깨고 나오다]]></title>
         <id>https://v.daum.net/v/20230321170451538</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230321155112495"/>
         <updated>2023-03-21T07:10:13.032Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하율리, '판도라: 조작된 낙원' 촬영장 사진 공개…존재감 강렬했다]]></title>
-        <id>https://v.daum.net/v/20230321154852349</id>
-        <link href="https://v.daum.net/v/20230321154852349"/>
-        <updated>2023-03-21T07:10:13.034Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“조선시대 열녀, 2023년 대한민국으로” 이세영, ‘열녀박씨 계약결혼뎐’ 출연]]></title>
-        <id>https://v.daum.net/v/20230321154559194</id>
-        <link href="https://v.daum.net/v/20230321154559194"/>
-        <updated>2023-03-21T07:10:13.035Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
