@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-21T18:13:04.246Z</updated>
+    <updated>2023-03-21T19:09:38.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세영, '조선 유교걸' 된다…'열녀박씨 계약결혼뎐' 주인공]]></title>
+        <id>https://v.daum.net/v/20230322040603799</id>
+        <link href="https://v.daum.net/v/20230322040603799"/>
+        <updated>2023-03-21T19:08:35.289Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은, 폐세손 두고 오만석과 거래…"제가 찾겠습니다"]]></title>
         <id>https://v.daum.net/v/20230322012003189</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230321205107151"/>
         <updated>2023-03-21T12:19:00.858Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이채영, 거짓말 들켜 위기..신고은에 "네 오해야" 발뺌]]></title>
-        <id>https://v.daum.net/v/20230321202049888</id>
-        <link href="https://v.daum.net/v/20230321202049888"/>
-        <updated>2023-03-21T12:19:00.858Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
