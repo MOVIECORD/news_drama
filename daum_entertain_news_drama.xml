@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-21T09:12:17.338Z</updated>
+    <updated>2023-03-21T10:11:37.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤찬영, 방민아와 때아닌 냉전..'환장 듀오' 위기]]></title>
+        <id>https://v.daum.net/v/20230321185117589</id>
+        <link href="https://v.daum.net/v/20230321185117589"/>
+        <updated>2023-03-21T10:11:25.929Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['BL 도전' 공찬 밝힌 #차서원 애칭 #남영관 #시즌2]]></title>
+        <id>https://v.daum.net/v/20230321185002558</id>
+        <link href="https://v.daum.net/v/20230321185002558"/>
+        <updated>2023-03-21T10:11:25.929Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비연담’ 공찬, ‘데뷔 13년 차’ BL 새 도전…”’일’이라 생각한 적 없다”]]></title>
         <id>https://v.daum.net/v/20230321173024320</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230321163120339"/>
         <updated>2023-03-21T08:13:47.495Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비연담’ 공찬 “B1A4 멤버들과 로맨스? 오히려 재밌을 듯”]]></title>
-        <id>https://v.daum.net/v/20230321160718331</id>
-        <link href="https://v.daum.net/v/20230321160718331"/>
-        <updated>2023-03-21T07:10:13.024Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨이브, 드라마 '종군기자' 론칭..제작비 1400억원 투입]]></title>
-        <id>https://v.daum.net/v/20230321155112495</id>
-        <link href="https://v.daum.net/v/20230321155112495"/>
-        <updated>2023-03-21T07:10:13.032Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
