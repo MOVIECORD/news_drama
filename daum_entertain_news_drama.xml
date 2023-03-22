@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-22T14:10:22.501Z</updated>
+    <updated>2023-03-22T15:12:43.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현, 송혜교의 망나니→라미란 아들 된다]]></title>
+        <id>https://v.daum.net/v/20230323000009732</id>
+        <link href="https://v.daum.net/v/20230323000009732"/>
+        <updated>2023-03-22T15:11:40.338Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성스러운 아이돌' 김민규, 이세계로 돌아갔다…차주영과 재회]]></title>
+        <id>https://v.daum.net/v/20230322233841580</id>
+        <link href="https://v.daum.net/v/20230322233841580"/>
+        <updated>2023-03-22T15:11:40.348Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성스러운 아이돌' 김민규, ♥고보결 위해 대신관 포기 결심]]></title>
         <id>https://v.daum.net/v/20230322225148287</id>
         <link href="https://v.daum.net/v/20230322225148287"/>
-        <updated>2023-03-22T14:10:10.399Z</updated>
+        <updated>2023-03-22T15:11:40.351Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230322175917957"/>
         <updated>2023-03-22T09:10:35.956Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스튜어디스 혜정이→실장 세진이…차주영, '진짜'에 안겨줄 '영광']]></title>
-        <id>https://v.daum.net/v/20230322174118488</id>
-        <link href="https://v.daum.net/v/20230322174118488"/>
-        <updated>2023-03-22T09:10:35.957Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 임지연의 자격지심, 도전과 성공의 원천]]></title>
-        <id>https://v.daum.net/v/20230322174030468</id>
-        <link href="https://v.daum.net/v/20230322174030468"/>
-        <updated>2023-03-22T09:10:35.959Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
