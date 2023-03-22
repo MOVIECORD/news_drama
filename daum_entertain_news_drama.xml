@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-22T09:10:47.043Z</updated>
+    <updated>2023-03-22T10:11:42.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜정이 어디 갔나…차주영 "'더 글로리' 봤다면 아실 것"]]></title>
+        <id>https://v.daum.net/v/20230322185002360</id>
+        <link href="https://v.daum.net/v/20230322185002360"/>
+        <updated>2023-03-22T10:11:31.075Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘청춘월담’ 윤종석, 청보리 밭 전투 비하인드 공개 “많은 각오 필요”]]></title>
+        <id>https://v.daum.net/v/20230322184604255</id>
+        <link href="https://v.daum.net/v/20230322184604255"/>
+        <updated>2023-03-22T10:11:31.085Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차주영 후광효과 볼까..KBS 주말극 살릴 '진짜가 나타났다']]></title>
+        <id>https://v.daum.net/v/20230322181701497</id>
+        <link href="https://v.daum.net/v/20230322181701497"/>
+        <updated>2023-03-22T10:11:31.087Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도시횟집' 총지배인 맡은 이덕화 “유일무이한 횟집될 것”]]></title>
         <id>https://v.daum.net/v/20230322181001313</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230322162701923"/>
         <updated>2023-03-22T08:13:08.978Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["시청률 50% 기대"…안재현 복귀 '진짜', 주말극 자존심 세울까]]></title>
-        <id>https://v.daum.net/v/20230322162302799</id>
-        <link href="https://v.daum.net/v/20230322162302799"/>
-        <updated>2023-03-22T08:13:08.981Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다!' 안재현, 곽시양 하차 후 합류에 "하루하루 최선 다할 뿐"]]></title>
-        <id>https://v.daum.net/v/20230322162026687</id>
-        <link href="https://v.daum.net/v/20230322162026687"/>
-        <updated>2023-03-22T08:13:08.984Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[려운 까칠남 아니네? 신예은 뒤흔든 심쿵 반전남]]></title>
-        <id>https://v.daum.net/v/20230322161548550</id>
-        <link href="https://v.daum.net/v/20230322161548550"/>
-        <updated>2023-03-22T08:13:08.990Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
