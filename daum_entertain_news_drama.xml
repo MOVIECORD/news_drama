@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-23T07:11:11.689Z</updated>
+    <updated>2023-03-23T08:13:46.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신재하, '모범택시2'→'악인전기' 합류..'열일 대세' 입증]]></title>
+        <id>https://v.daum.net/v/20230323171313964</id>
+        <link href="https://v.daum.net/v/20230323171313964"/>
+        <updated>2023-03-23T08:13:35.213Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["살아있죠, 노상천?"..'미끼' 파트2, 장근석·허성태 돌아온다]]></title>
+        <id>https://v.daum.net/v/20230323165450258</id>
+        <link href="https://v.daum.net/v/20230323165450258"/>
+        <updated>2023-03-23T08:13:35.216Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서준영 "올해 37세…중2병 딸 생겨 젊은아빠 꿈 이뤘다"]]></title>
+        <id>https://v.daum.net/v/20230323165010078</id>
+        <link href="https://v.daum.net/v/20230323165010078"/>
+        <updated>2023-03-23T08:13:35.216Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전효성, 냉철한 과학자+김정태 딸로 ‘딜리버리맨’ 특별출연]]></title>
+        <id>https://v.daum.net/v/20230323164241788</id>
+        <link href="https://v.daum.net/v/20230323164241788"/>
+        <updated>2023-03-23T08:13:35.216Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리', 문화 차이가 만들어 낸 다양한 해외 반응]]></title>
+        <id>https://v.daum.net/v/20230323161942813</id>
+        <link href="https://v.daum.net/v/20230323161942813"/>
+        <updated>2023-03-23T08:13:35.223Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황동혁 감독의 "한미녀는 당신이 1순위", 최민식의 "함께 하자"…배우 김주령을 움직였던 말]]></title>
         <id>https://v.daum.net/v/20230323160801287</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230323152356930"/>
         <updated>2023-03-23T07:10:09.100Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이윤성 ‘금이야 옥이야’로 10년만 복귀 “과연 내가 할 수 있을까 걱정”]]></title>
-        <id>https://v.daum.net/v/20230323151939692</id>
-        <link href="https://v.daum.net/v/20230323151939692"/>
-        <updated>2023-03-23T07:10:09.101Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['37살에 15살 딸 생긴' 서준영 "'아빠' 소리, 행복해"…힐링 가족물 '금이야 옥이야']]></title>
-        <id>https://v.daum.net/v/20230323151902655</id>
-        <link href="https://v.daum.net/v/20230323151902655"/>
-        <updated>2023-03-23T07:10:09.103Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중2병 딸 키우는 싱글대디·재벌집 입양女…"하나의 가정이 단단히 뭉치는 이야기"]]></title>
-        <id>https://v.daum.net/v/20230323151813605</id>
-        <link href="https://v.daum.net/v/20230323151813605"/>
-        <updated>2023-03-23T07:10:09.104Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱글맘→싱글대디…일일극 모토에 참신함 더한 '금이야 옥이야']]></title>
-        <id>https://v.daum.net/v/20230323151020241</id>
-        <link href="https://v.daum.net/v/20230323151020241"/>
-        <updated>2023-03-23T06:13:49.969Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤다영 "서준영과 '금이야 옥이야' 만남..하게 될 사람은 하게 돼"]]></title>
-        <id>https://v.daum.net/v/20230323150959224</id>
-        <link href="https://v.daum.net/v/20230323150959224"/>
-        <updated>2023-03-23T06:13:49.969Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
