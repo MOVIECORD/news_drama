@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-24T15:12:23.941Z</updated>
+    <updated>2023-03-24T16:14:55.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민, 이제훈에 영업 "법의 도움 필요한 사람 알려줘‥소개료는 500원"]]></title>
+        <id>https://v.daum.net/v/20230325004018379</id>
+        <link href="https://v.daum.net/v/20230325004018379"/>
+        <updated>2023-03-24T16:13:52.449Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 의료 사고당할 위기…대리 수술 벌어졌다]]></title>
+        <id>https://v.daum.net/v/20230325001525245</id>
+        <link href="https://v.daum.net/v/20230325001525245"/>
+        <updated>2023-03-24T16:13:52.450Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈, 이번엔 의사다..'천변' 남궁민과 만남]]></title>
         <id>https://v.daum.net/v/20230325000408157</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230324224345136"/>
         <updated>2023-03-24T14:10:12.816Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 빌런 신재하, 이제훈에 "선을 세게 넘으시네"]]></title>
-        <id>https://v.daum.net/v/20230324224016051</id>
-        <link href="https://v.daum.net/v/20230324224016051"/>
-        <updated>2023-03-24T14:10:12.818Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈 쫓는 금사회, 경찰 고위 간부까지 조직원이었다 ‘위기’]]></title>
-        <id>https://v.daum.net/v/20230324221552610</id>
-        <link href="https://v.daum.net/v/20230324221552610"/>
-        <updated>2023-03-24T14:10:12.823Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
