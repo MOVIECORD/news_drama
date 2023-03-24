@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-24T19:08:37.671Z</updated>
+    <updated>2023-03-24T20:11:09.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라디오 드라마의 제작기… ‘듣고, 보니, 그럴싸’]]></title>
+        <id>https://v.daum.net/v/20230325050009091</id>
+        <link href="https://v.daum.net/v/20230325050009091"/>
+        <updated>2023-03-24T20:10:57.632Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민, 이제훈에 영업 "법의 도움 필요한 사람 알려줘‥소개료는 500원"]]></title>
         <id>https://v.daum.net/v/20230325004018379</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324224351137"/>
         <updated>2023-03-24T14:10:12.814Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신재하, 정체 알아챈 이제훈에 비아냥 "선 세게 넘으시네"]]></title>
-        <id>https://v.daum.net/v/20230324224345136</id>
-        <link href="https://v.daum.net/v/20230324224345136"/>
-        <updated>2023-03-24T14:10:12.816Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
