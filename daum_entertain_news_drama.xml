@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-25T08:13:13.577Z</updated>
+    <updated>2023-03-25T09:10:12.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김다솜 "'꼭두의 계절' 8개월, 기억에 남을 것"]]></title>
+        <id>https://v.daum.net/v/20230325180326405</id>
+        <link href="https://v.daum.net/v/20230325180326405"/>
+        <updated>2023-03-25T09:10:01.197Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진, 파리해진 얼굴로 병원行..무슨 일?]]></title>
+        <id>https://v.daum.net/v/20230325180205396</id>
+        <link href="https://v.daum.net/v/20230325180205396"/>
+        <updated>2023-03-25T09:10:01.200Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동휘 "최민식과 연기 후 변화? 지각 안 하게 돼…대배우와 클래스 차이 절감"]]></title>
+        <id>https://v.daum.net/v/20230325180102386</id>
+        <link href="https://v.daum.net/v/20230325180102386"/>
+        <updated>2023-03-25T09:10:01.201Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최민식 "김주령·이혜영과 격정 멜로 원해…연극 복귀? 준비되면"]]></title>
         <id>https://v.daum.net/v/20230325165009888</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230325134250726"/>
         <updated>2023-03-25T05:09:25.814Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신성한 이혼’ 노부부 앞 고개 숙인 한혜진, 얼굴에 드리운 그늘]]></title>
-        <id>https://v.daum.net/v/20230325133411643</id>
-        <link href="https://v.daum.net/v/20230325133411643"/>
-        <updated>2023-03-25T05:09:25.815Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼭두의 계절' 임수향 "8시간 오열해 눈 붓기도"]]></title>
-        <id>https://v.daum.net/v/20230325132852588</id>
-        <link href="https://v.daum.net/v/20230325132852588"/>
-        <updated>2023-03-25T05:09:25.817Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희, 남친 정의제 프로포즈에 감동→충격..묘한 현장 공개]]></title>
-        <id>https://v.daum.net/v/20230325132409506</id>
-        <link href="https://v.daum.net/v/20230325132409506"/>
-        <updated>2023-03-25T05:09:25.823Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
