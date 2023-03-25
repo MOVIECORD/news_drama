@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-25T05:09:38.415Z</updated>
+    <updated>2023-03-25T06:13:18.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘꽃선비 열애사’ 려운 vs 정건주 술 대결, 고주망태 직전 행태]]></title>
+        <id>https://v.daum.net/v/20230325150754596</id>
+        <link href="https://v.daum.net/v/20230325150754596"/>
+        <updated>2023-03-25T06:13:05.974Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카지노' 최민식 "캐릭터 만날 때마다 진한 연애하는 느낌…로코 하고파"]]></title>
+        <id>https://v.daum.net/v/20230325141505021</id>
+        <link href="https://v.daum.net/v/20230325141505021"/>
+        <updated>2023-03-25T06:13:05.976Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 이번에 나이롱 환자 됐다..대리수술 사건 참교육]]></title>
         <id>https://v.daum.net/v/20230325140726961</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230325110201361"/>
         <updated>2023-03-25T03:10:54.313Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘꼭두의 계절’ 임수향 “8시간 동안 오열하기도…연기 잘하는 배우 되고 싶다”]]></title>
-        <id>https://v.daum.net/v/20230325105423263</id>
-        <link href="https://v.daum.net/v/20230325105423263"/>
-        <updated>2023-03-25T02:02:06.870Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘꼭두의 계절’ 김정현♥임수향 재회 키스…저주도 운명도 이겨냈다]]></title>
-        <id>https://v.daum.net/v/20230325105100240</id>
-        <link href="https://v.daum.net/v/20230325105100240"/>
-        <updated>2023-03-25T02:02:06.871Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
