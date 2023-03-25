@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-25T15:09:54.900Z</updated>
+    <updated>2023-03-25T16:12:02.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 대리수술 ‘이항나’ 응징..신재하 계략에 당했다]]></title>
+        <id>https://v.daum.net/v/20230326005325712</id>
+        <link href="https://v.daum.net/v/20230326005325712"/>
+        <updated>2023-03-25T16:11:51.492Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 대리수술 병원장 복수→신재하 계략에 차량 폭발]]></title>
+        <id>https://v.daum.net/v/20230326002526678</id>
+        <link href="https://v.daum.net/v/20230326002526678"/>
+        <updated>2023-03-25T16:11:51.493Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 대리수술 병원장 응징 성공]]></title>
         <id>https://v.daum.net/v/20230325235009573</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230325221837265"/>
         <updated>2023-03-25T14:09:03.921Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“영부인 될 수 있게 도와줄게” 장희진, 이지아 딸 미끼로 협박]]></title>
-        <id>https://v.daum.net/v/20230325220122174</id>
-        <link href="https://v.daum.net/v/20230325220122174"/>
-        <updated>2023-03-25T13:12:21.265Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '진짜가' 백진희, 바람핀 정의제 아이 가졌다..안재현과 ‘악연’으로 첫만남]]></title>
-        <id>https://v.daum.net/v/20230325214108027</id>
-        <link href="https://v.daum.net/v/20230325214108027"/>
-        <updated>2023-03-25T13:12:21.269Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
