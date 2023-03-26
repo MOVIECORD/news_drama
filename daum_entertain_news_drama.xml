@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-26T15:09:47.094Z</updated>
+    <updated>2023-03-26T16:12:22.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신성한, 이혼' 조승우, 조카 또 뺏겼다..노수산나 "기영이 가족 아냐"]]></title>
+        <id>https://v.daum.net/v/20230327003328873</id>
+        <link href="https://v.daum.net/v/20230327003328873"/>
+        <updated>2023-03-26T16:12:12.122Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조승우, 전배수에 설욕 예고…폭력 남편·아들 친자 확인 요청]]></title>
+        <id>https://v.daum.net/v/20230327002005825</id>
+        <link href="https://v.daum.net/v/20230327002005825"/>
+        <updated>2023-03-26T16:12:12.122Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아, 장희진 살리려다 '동생' 권현빈에 칼 맞아]]></title>
         <id>https://v.daum.net/v/20230326235025605</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230326221746226"/>
         <updated>2023-03-26T14:09:03.145Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["널 세팅한 건 이상윤" 이지아, 한수연 마지막 메시지에 '충격']]></title>
-        <id>https://v.daum.net/v/20230326215737041</id>
-        <link href="https://v.daum.net/v/20230326215737041"/>
-        <updated>2023-03-26T13:12:46.949Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 안재현, 백진희 초음파 진찰 "아이가 없어졌다"]]></title>
-        <id>https://v.daum.net/v/20230326215006991</id>
-        <link href="https://v.daum.net/v/20230326215006991"/>
-        <updated>2023-03-26T13:12:46.952Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
