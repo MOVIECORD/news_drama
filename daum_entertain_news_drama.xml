@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-26T08:13:06.311Z</updated>
+    <updated>2023-03-26T09:10:12.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈 '모범택시2', 이 기세라면 '모범택시3' 가능…시즌1 넘어 시청률 17.7%]]></title>
+        <id>https://v.daum.net/v/20230326174502073</id>
+        <link href="https://v.daum.net/v/20230326174502073"/>
+        <updated>2023-03-26T09:10:01.284Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 D-5 '조선변호사' 우도환·김지연·차학연, 끈끈한 팀워크 비결]]></title>
         <id>https://v.daum.net/v/20230326152435724</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326112717132"/>
         <updated>2023-03-26T03:11:06.099Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 후폭풍...학폭 피해자에 용기를 "12년간 90명"]]></title>
-        <id>https://v.daum.net/v/20230326111003840</id>
-        <link href="https://v.daum.net/v/20230326111003840"/>
-        <updated>2023-03-26T02:10:56.984Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
