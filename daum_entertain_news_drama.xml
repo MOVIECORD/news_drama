@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-27T10:12:08.853Z</updated>
+    <updated>2023-03-27T11:09:16.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["피폐해져"…임지연→김은숙 작가, '더 글로리' 후유증]]></title>
+        <id>https://v.daum.net/v/20230327195003403</id>
+        <link href="https://v.daum.net/v/20230327195003403"/>
+        <updated>2023-03-27T11:09:04.884Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 오창석 몰락 위기, 한지완에 “같이 죽자는 거 진심이냐”]]></title>
+        <id>https://v.daum.net/v/20230327194100317</id>
+        <link href="https://v.daum.net/v/20230327194100317"/>
+        <updated>2023-03-27T11:09:04.887Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 반효정X이현석 대화 공개 "가짜 손자 밝혀야"]]></title>
+        <id>https://v.daum.net/v/20230327192924195</id>
+        <link href="https://v.daum.net/v/20230327192924195"/>
+        <updated>2023-03-27T11:09:04.889Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재현 '연기력 논란' 못 지웠다…과장된 표정 '여전', 위기의 주말극]]></title>
         <id>https://v.daum.net/v/20230327185902759</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230327150821937"/>
         <updated>2023-03-27T06:14:00.916Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소니X정웅인, 아슬아슬 대면 현장 포착…긴장감 폭발]]></title>
-        <id>https://v.daum.net/v/20230327150620876</id>
-        <link href="https://v.daum.net/v/20230327150620876"/>
-        <updated>2023-03-27T06:14:00.928Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 "유아인 출연 '승부'·'종말의 바보', 잠정 연기"]]></title>
-        <id>https://v.daum.net/v/20230327150429802</id>
-        <link href="https://v.daum.net/v/20230327150429802"/>
-        <updated>2023-03-27T06:14:00.929Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희, 남친 정의제 외도→안재현과 악연…다이내믹 감정 열연]]></title>
-        <id>https://v.daum.net/v/20230327145603411</id>
-        <link href="https://v.daum.net/v/20230327145603411"/>
-        <updated>2023-03-27T06:14:00.930Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
