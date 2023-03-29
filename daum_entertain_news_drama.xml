@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-29T15:23:19.832Z</updated>
+    <updated>2023-03-29T17:38:02.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, 결혼 후 '패밀리'로 복귀...4월 17일 첫방]]></title>
+        <id>https://v.daum.net/v/20230330010830373</id>
+        <link href="https://v.daum.net/v/20230330010830373"/>
+        <updated>2023-03-29T17:37:50.878Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조선변호사', 경쟁작 '모범택시' 저격했나..홍보 문구 논란]]></title>
+        <id>https://v.daum.net/v/20230330002501107</id>
+        <link href="https://v.daum.net/v/20230330002501107"/>
+        <updated>2023-03-29T17:37:50.880Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘금이야 옥이야’ 윤다영, 서준영 딸 김시은 교통사고 위기…악연 시작되나]]></title>
         <id>https://v.daum.net/v/20230329210616449</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230329175414266"/>
         <updated>2023-03-29T09:11:11.532Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김주령 "'오징어게임'보다 최민식과 주고받는 대사에 출세했음 느껴"]]></title>
-        <id>https://v.daum.net/v/20230329175024139</id>
-        <link href="https://v.daum.net/v/20230329175024139"/>
-        <updated>2023-03-29T09:11:11.532Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스틸러' 주원 "황대명=월급 루팡, 부캐 스컹크=재밌는 영웅"]]></title>
-        <id>https://v.daum.net/v/20230329173951729</id>
-        <link href="https://v.daum.net/v/20230329173951729"/>
-        <updated>2023-03-29T09:11:11.533Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
