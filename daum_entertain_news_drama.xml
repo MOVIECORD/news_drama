@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-29T19:09:47.733Z</updated>
+    <updated>2023-03-29T20:11:30.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성경, 똑 부러지는 '선배 의사' 모드 ON]]></title>
+        <id>https://v.daum.net/v/20230330041531137</id>
+        <link href="https://v.daum.net/v/20230330041531137"/>
+        <updated>2023-03-29T20:11:20.766Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라, 결혼 후 '패밀리'로 복귀...4월 17일 첫방]]></title>
         <id>https://v.daum.net/v/20230330010830373</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329181018916"/>
         <updated>2023-03-29T09:11:11.531Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["택시 타고 불법 복수대행? 우린 합법"…'조선변호사', '모범택시2' 저격했다 갑론을박]]></title>
-        <id>https://v.daum.net/v/20230329175414266</id>
-        <link href="https://v.daum.net/v/20230329175414266"/>
-        <updated>2023-03-29T09:11:11.532Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
