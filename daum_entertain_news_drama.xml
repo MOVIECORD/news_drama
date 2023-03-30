@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-30T13:19:00.357Z</updated>
+    <updated>2023-03-30T14:10:48.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동욱X진기주, 시간 여행자됐다]]></title>
+        <id>https://v.daum.net/v/20230330224602803</id>
+        <link href="https://v.daum.net/v/20230330224602803"/>
+        <updated>2023-03-30T14:10:37.257Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 여자' 최재성, 딸 신고은 노력에도..결국 구치소行]]></title>
         <id>https://v.daum.net/v/20230330205152384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230330163058258"/>
         <updated>2023-03-30T08:14:06.032Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송승하, 칸 국제 시리즈 페스티벌 참석..'미드나잇 호러' 비경쟁부문 진출]]></title>
-        <id>https://v.daum.net/v/20230330162823107</id>
-        <link href="https://v.daum.net/v/20230330162823107"/>
-        <updated>2023-03-30T08:14:06.032Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
