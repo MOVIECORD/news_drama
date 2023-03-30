@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-30T22:10:28.280Z</updated>
+    <updated>2023-03-30T23:11:06.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이제훈, 택시 폭발에 끝내 사망? 장례식 포착]]></title>
+        <id>https://v.daum.net/v/20230331080700892</id>
+        <link href="https://v.daum.net/v/20230331080700892"/>
+        <updated>2023-03-30T23:10:55.269Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["당신 제정신이야?" 서준영, 윤다영 음주 운전 의심→반복된 만남]]></title>
+        <id>https://v.daum.net/v/20230331075004465</id>
+        <link href="https://v.daum.net/v/20230331075004465"/>
+        <updated>2023-03-30T23:10:55.272Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서준영·윤다영, 김시은 교통사고로 인연 시작]]></title>
+        <id>https://v.daum.net/v/20230331074013304</id>
+        <link href="https://v.daum.net/v/20230331074013304"/>
+        <updated>2023-03-30T23:10:55.274Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화제성 1위' 이제훈, 카이스트 출신→유품정리사…'모범택시' 전부터 부캐 부자]]></title>
         <id>https://v.daum.net/v/20230331070002760</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230330194301119"/>
         <updated>2023-03-30T11:09:37.654Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 오창석 자극 "가짜 손자 직접 밝혀"]]></title>
-        <id>https://v.daum.net/v/20230330192344791</id>
-        <link href="https://v.daum.net/v/20230330192344791"/>
-        <updated>2023-03-30T11:09:37.659Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['약한 영웅'·'일타' 이연 "안 보이는 것들과 싸우려니..."]]></title>
-        <id>https://v.daum.net/v/20230330175017600</id>
-        <link href="https://v.daum.net/v/20230330175017600"/>
-        <updated>2023-03-30T09:12:10.049Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[’방과 후 전쟁활동’, 신예 배우들이 보여줄 발칙한 반란]]></title>
-        <id>https://v.daum.net/v/20230330171723270</id>
-        <link href="https://v.daum.net/v/20230330171723270"/>
-        <updated>2023-03-30T09:12:10.052Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
