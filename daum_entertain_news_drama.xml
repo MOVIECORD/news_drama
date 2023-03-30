@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-30T04:13:12.147Z</updated>
+    <updated>2023-03-30T05:11:08.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“벗겨줄게 그 가면” 김선아, 독기 서린 눈빛 포스터]]></title>
+        <id>https://v.daum.net/v/20230330140343587</id>
+        <link href="https://v.daum.net/v/20230330140343587"/>
+        <updated>2023-03-30T05:10:58.751Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑소 세훈, 첫사랑 로맨스로 돌아온다...청춘 케미 예고]]></title>
+        <id>https://v.daum.net/v/20230330135347108</id>
+        <link href="https://v.daum.net/v/20230330135347108"/>
+        <updated>2023-03-30T05:10:58.752Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공승연, '여행을 대신해 드립니다' 출연..전직 아이돌 된다]]></title>
+        <id>https://v.daum.net/v/20230330135342105</id>
+        <link href="https://v.daum.net/v/20230330135342105"/>
+        <updated>2023-03-30T05:10:58.754Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남지현·최현욱·김무열, K-학원물로 뭉쳤다…'하이쿠키' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230330135057989</id>
+        <link href="https://v.daum.net/v/20230330135057989"/>
+        <updated>2023-03-30T05:10:58.754Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연기 그만둘까…가불받던 김건우 “빚 다 갚아. ‘더 글로리’는 영광이자 넘어야 할 산”]]></title>
         <id>https://v.daum.net/v/20230330123910977</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230330111650569"/>
         <updated>2023-03-30T03:11:41.315Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나, 눈물의 만취 라이브 “네가 다 망쳤다고! 복수할 거야”]]></title>
-        <id>https://v.daum.net/v/20230330111338354</id>
-        <link href="https://v.daum.net/v/20230330111338354"/>
-        <updated>2023-03-30T03:11:41.316Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 측 “‘우씨 왕후’ 제안 받고 검토중, 확정 아냐”]]></title>
-        <id>https://v.daum.net/v/20230330111225297</id>
-        <link href="https://v.daum.net/v/20230330111225297"/>
-        <updated>2023-03-30T03:11:41.318Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신고은X이은형X윤지숙, 심각한 분위기 속 한밤중 긴급회동]]></title>
-        <id>https://v.daum.net/v/20230330110439861</id>
-        <link href="https://v.daum.net/v/20230330110439861"/>
-        <updated>2023-03-30T02:07:45.725Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하이 쿠키’ 남지현X최현욱X김무열 출연 확정,K-학원물 온다]]></title>
-        <id>https://v.daum.net/v/20230330110235754</id>
-        <link href="https://v.daum.net/v/20230330110235754"/>
-        <updated>2023-03-30T02:07:45.725Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
