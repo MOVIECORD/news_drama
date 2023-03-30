@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-30T03:11:51.820Z</updated>
+    <updated>2023-03-30T04:13:12.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연기 그만둘까…가불받던 김건우 “빚 다 갚아. ‘더 글로리’는 영광이자 넘어야 할 산”]]></title>
+        <id>https://v.daum.net/v/20230330123910977</id>
+        <link href="https://v.daum.net/v/20230330123910977"/>
+        <updated>2023-03-30T04:13:00.307Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아! TV만 오면.." OTT는 성공, TV는 폭삭]]></title>
+        <id>https://v.daum.net/v/20230330123853965</id>
+        <link href="https://v.daum.net/v/20230330123853965"/>
+        <updated>2023-03-30T04:13:00.307Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 글로리', 영광 아닌 족쇄 될까…신예은·차주영, 차기작이 아쉽다]]></title>
+        <id>https://v.daum.net/v/20230330121301341</id>
+        <link href="https://v.daum.net/v/20230330121301341"/>
+        <updated>2023-03-30T04:13:00.308Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['총 든' 신현수, 고3 이끄는 군 소대장 변신..냉철한 표정]]></title>
         <id>https://v.daum.net/v/20230330120713224</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230330110235754"/>
         <updated>2023-03-30T02:07:45.725Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도봉순'→'강남순' 세계관 완성…박보영·박형식 특별 출연]]></title>
-        <id>https://v.daum.net/v/20230330105401235</id>
-        <link href="https://v.daum.net/v/20230330105401235"/>
-        <updated>2023-03-30T02:07:45.725Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["외지부이올시다!" 우도환X김지연X차학연 '조선변호사', 하이라이트부터 다르네]]></title>
-        <id>https://v.daum.net/v/20230330105047110</id>
-        <link href="https://v.daum.net/v/20230330105047110"/>
-        <updated>2023-03-30T02:07:45.725Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석X전혜연X정우연, 아버지 사이에 둔 딸들의 전쟁]]></title>
-        <id>https://v.daum.net/v/20230330104752981</id>
-        <link href="https://v.daum.net/v/20230330104752981"/>
-        <updated>2023-03-30T02:07:45.726Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
