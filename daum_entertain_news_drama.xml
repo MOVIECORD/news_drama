@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-03-31T15:10:54.030Z</updated>
+    <updated>2023-03-31T16:12:44.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 클럽 블랙썬 잠입→성추행 혐의 체포]]></title>
+        <id>https://v.daum.net/v/20230401003245460</id>
+        <link href="https://v.daum.net/v/20230401003245460"/>
+        <updated>2023-03-31T16:11:42.180Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조선변호사' 우도환, 한양서 첫 송사 승소했지만 이준혁에 납치]]></title>
         <id>https://v.daum.net/v/20230331234510092</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230331200001483"/>
         <updated>2023-03-31T11:09:27.400Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의게임' 이현석, 반효정 유언 공개..오창석 "인정 못해"]]></title>
-        <id>https://v.daum.net/v/20230331194052136</id>
-        <link href="https://v.daum.net/v/20230331194052136"/>
-        <updated>2023-03-31T11:09:27.408Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
