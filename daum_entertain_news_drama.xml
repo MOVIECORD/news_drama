@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-01T00:51:59.906Z</updated>
+    <updated>2023-04-01T02:02:37.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 신재하 속이려 산채로 장례식]]></title>
+        <id>https://v.daum.net/v/20230401104653649</id>
+        <link href="https://v.daum.net/v/20230401104653649"/>
+        <updated>2023-04-01T02:02:26.145Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 의문의 클럽 '블랙썬' 참교육 예고]]></title>
+        <id>https://v.daum.net/v/20230401101843321</id>
+        <link href="https://v.daum.net/v/20230401101843321"/>
+        <updated>2023-04-01T02:02:26.146Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 첫방…우도환, 외지부 ‘강한수 그 자체’]]></title>
+        <id>https://v.daum.net/v/20230401101502293</id>
+        <link href="https://v.daum.net/v/20230401101502293"/>
+        <updated>2023-04-01T02:02:26.146Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 주춤? 전진 위한 후퇴...'조선변호사' 1% 깨고 유쾌한 출발]]></title>
         <id>https://v.daum.net/v/20230401093319790</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230401073222599"/>
         <updated>2023-03-31T23:10:03.441Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폐창고 끌려간 우도환, 몸종된 우주소녀 보나와 묘한 감정?]]></title>
-        <id>https://v.daum.net/v/20230401073006560</id>
-        <link href="https://v.daum.net/v/20230401073006560"/>
-        <updated>2023-03-31T23:10:03.441Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 부활한 이제훈, 클럽 '블랙썬' 겨냥→성범죄 누명]]></title>
-        <id>https://v.daum.net/v/20230401072721541</id>
-        <link href="https://v.daum.net/v/20230401072721541"/>
-        <updated>2023-03-31T23:10:03.450Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '조선변호사' 우도환X김지연, 웃음+감동 다잡았다]]></title>
-        <id>https://v.daum.net/v/20230401072127519</id>
-        <link href="https://v.daum.net/v/20230401072127519"/>
-        <updated>2023-03-31T23:10:03.450Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
