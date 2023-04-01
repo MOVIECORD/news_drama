@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-01T05:09:49.874Z</updated>
+    <updated>2023-04-01T06:12:41.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차주영, 안재현에 선전포고..아슬아슬 분위기]]></title>
+        <id>https://v.daum.net/v/20230401145543903</id>
+        <link href="https://v.daum.net/v/20230401145543903"/>
+        <updated>2023-04-01T06:12:32.089Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차주영, 비혼주의자 안재현에 쇼윈도 부부 제안 선전포고]]></title>
+        <id>https://v.daum.net/v/20230401143505393</id>
+        <link href="https://v.daum.net/v/20230401143505393"/>
+        <updated>2023-04-01T06:12:32.096Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 우도환vs김지연, 살벌한 주량 대결]]></title>
+        <id>https://v.daum.net/v/20230401142110063</id>
+        <link href="https://v.daum.net/v/20230401142110063"/>
+        <updated>2023-04-01T06:12:32.098Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조선변호사' 우도환, 이렇게 능청스러웠다고? 3년 만에 복귀 합격점]]></title>
         <id>https://v.daum.net/v/20230401135311640</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230401112946103"/>
         <updated>2023-04-01T03:10:51.682Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2', 승리 버닝썬 사태 저격?..클럽 집단 폭행·성범죄 신고]]></title>
-        <id>https://v.daum.net/v/20230401112629080</id>
-        <link href="https://v.daum.net/v/20230401112629080"/>
-        <updated>2023-04-01T03:10:51.683Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조승우 라면집 할머니, 김해숙이었다..'신성한, 이혼' 특별출연]]></title>
-        <id>https://v.daum.net/v/20230401110804946</id>
-        <link href="https://v.daum.net/v/20230401110804946"/>
-        <updated>2023-04-01T03:10:51.685Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈, 신재하 속이려 산채로 장례식]]></title>
-        <id>https://v.daum.net/v/20230401104653649</id>
-        <link href="https://v.daum.net/v/20230401104653649"/>
-        <updated>2023-04-01T02:02:26.145Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
