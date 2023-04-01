@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-01T04:12:35.933Z</updated>
+    <updated>2023-04-01T05:09:49.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선변호사' 우도환, 이렇게 능청스러웠다고? 3년 만에 복귀 합격점]]></title>
+        <id>https://v.daum.net/v/20230401135311640</id>
+        <link href="https://v.daum.net/v/20230401135311640"/>
+        <updated>2023-04-01T05:09:38.711Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈, '버닝썬' 아닌 '블랙썬' 가드 됐다…모범적 비주얼에 그렇지 못한 행동거지]]></title>
+        <id>https://v.daum.net/v/20230401132210336</id>
+        <link href="https://v.daum.net/v/20230401132210336"/>
+        <updated>2023-04-01T05:09:38.722Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모범택시2’ 이제훈, 휘황찬란 문신 새기고 블랙썬 위장취업]]></title>
         <id>https://v.daum.net/v/20230401130808170</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230401104653649"/>
         <updated>2023-04-01T02:02:26.145Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈, 의문의 클럽 '블랙썬' 참교육 예고]]></title>
-        <id>https://v.daum.net/v/20230401101843321</id>
-        <link href="https://v.daum.net/v/20230401101843321"/>
-        <updated>2023-04-01T02:02:26.146Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 첫방…우도환, 외지부 ‘강한수 그 자체’]]></title>
-        <id>https://v.daum.net/v/20230401101502293</id>
-        <link href="https://v.daum.net/v/20230401101502293"/>
-        <updated>2023-04-01T02:02:26.146Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
