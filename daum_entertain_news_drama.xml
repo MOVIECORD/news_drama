@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-02T03:12:07.141Z</updated>
+    <updated>2023-04-02T04:12:00.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박기웅, 결국 무너진다…아수라장 만찬 포착]]></title>
+        <id>https://v.daum.net/v/20230402130808486</id>
+        <link href="https://v.daum.net/v/20230402130808486"/>
+        <updated>2023-04-02T04:11:49.962Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘진짜가 나타났다!’ 백진희, 혼전 임신 발각에 협박까지…결국 분노 폭발]]></title>
+        <id>https://v.daum.net/v/20230402123602100</id>
+        <link href="https://v.daum.net/v/20230402123602100"/>
+        <updated>2023-04-02T04:11:49.962Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 우도환, 이준혁 처단 성공…본격 복수 예고]]></title>
+        <id>https://v.daum.net/v/20230402121801917</id>
+        <link href="https://v.daum.net/v/20230402121801917"/>
+        <updated>2023-04-02T04:11:49.962Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시' 이제훈→'범죄도시' 마동석, 다른 히어로 같은 재미]]></title>
         <id>https://v.daum.net/v/20230402121019831</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230402091010771"/>
         <updated>2023-04-02T00:52:36.569Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이지아 동생’ 권현빈 장희진父 죽인 킬러였네]]></title>
-        <id>https://v.daum.net/v/20230402090424706</id>
-        <link href="https://v.daum.net/v/20230402090424706"/>
-        <updated>2023-04-02T00:52:36.575Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, 이혼 대인기피증 극복…조승우 위로에 터진 눈물]]></title>
-        <id>https://v.daum.net/v/20230402082834262</id>
-        <link href="https://v.daum.net/v/20230402082834262"/>
-        <updated>2023-04-02T00:52:36.577Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼전임신' 백진희, 쌍생아 상실…'불임' 차주영 쇼윈도 부부 제안]]></title>
-        <id>https://v.daum.net/v/20230402081410153</id>
-        <link href="https://v.daum.net/v/20230402081410153"/>
-        <updated>2023-04-02T00:52:36.578Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
