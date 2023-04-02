@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-02T17:08:32.297Z</updated>
+    <updated>2023-04-02T18:11:25.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장동윤♥설인아, 우여곡절 끝 결혼? 추영우와 악연ing]]></title>
+        <id>https://v.daum.net/v/20230403030010645</id>
+        <link href="https://v.daum.net/v/20230403030010645"/>
+        <updated>2023-04-02T18:11:13.138Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신성한, 이혼' 한혜진 악플러, 14살 소녀였다.."재수없어서 달아"]]></title>
         <id>https://v.daum.net/v/20230403003855443</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230402212925205"/>
         <updated>2023-04-02T13:11:21.067Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다!' 안재현, 차주영에 청혼 "형식적 결혼하자"]]></title>
-        <id>https://v.daum.net/v/20230402212903200</id>
-        <link href="https://v.daum.net/v/20230402212903200"/>
-        <updated>2023-04-02T13:11:21.068Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
