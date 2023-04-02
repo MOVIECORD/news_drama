@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-02T02:04:44.988Z</updated>
+    <updated>2023-04-02T03:12:07.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시' 이제훈→'범죄도시' 마동석, 다른 히어로 같은 재미]]></title>
+        <id>https://v.daum.net/v/20230402121019831</id>
+        <link href="https://v.daum.net/v/20230402121019831"/>
+        <updated>2023-04-02T03:11:04.136Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백진희, 혼전 임신 발각→차주영 불임 고백..시청률 18.1%]]></title>
+        <id>https://v.daum.net/v/20230402120738791</id>
+        <link href="https://v.daum.net/v/20230402120738791"/>
+        <updated>2023-04-02T03:11:04.137Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 성추행 혐의에 유치장까지..블랙썬 파헤쳤다!]]></title>
+        <id>https://v.daum.net/v/20230402112221986</id>
+        <link href="https://v.daum.net/v/20230402112221986"/>
+        <updated>2023-04-02T03:11:04.138Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형식♥︎전소니, 쌍방 짝사랑으로 속앓이…짙어지는 마음]]></title>
+        <id>https://v.daum.net/v/20230402111146778</id>
+        <link href="https://v.daum.net/v/20230402111146778"/>
+        <updated>2023-04-02T03:11:04.141Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지연이 곧 '조선변호사'…매력 포텐 터진 '1인2역' 엔딩]]></title>
         <id>https://v.daum.net/v/20230402104633342</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230402081410153"/>
         <updated>2023-04-02T00:52:36.578Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라' 장희진父 죽인 진범, 이지아 아닌 권현빈이었다]]></title>
-        <id>https://v.daum.net/v/20230402081235136</id>
-        <link href="https://v.daum.net/v/20230402081235136"/>
-        <updated>2023-04-02T00:52:36.580Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 차주영, 불임 고백→"쇼윈도 부부" 제안…♥안재현에 직진]]></title>
-        <id>https://v.daum.net/v/20230402080846112</id>
-        <link href="https://v.daum.net/v/20230402080846112"/>
-        <updated>2023-04-01T23:09:18.376Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영, 안재현에 '불임' 고백→백진희, '혼전임신' 발각]]></title>
-        <id>https://v.daum.net/v/20230402080202069</id>
-        <link href="https://v.daum.net/v/20230402080202069"/>
-        <updated>2023-04-01T23:09:18.387Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전부 아내 덕이죠"..백성현, 사랑꾼의 '콩깍지']]></title>
-        <id>https://v.daum.net/v/20230402080007006</id>
-        <link href="https://v.daum.net/v/20230402080007006"/>
-        <updated>2023-04-01T23:09:18.389Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
