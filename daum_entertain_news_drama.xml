@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-02T08:12:49.080Z</updated>
+    <updated>2023-04-02T09:09:29.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜싱칼 없는 김지연, MBC 금토극 살릴까…전작 ‘2521’ 지우는 게 관건]]></title>
+        <id>https://v.daum.net/v/20230402175802182</id>
+        <link href="https://v.daum.net/v/20230402175802182"/>
+        <updated>2023-04-02T09:09:17.203Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 얼굴이 49세라니. 엄태웅, 아내 딸과 세월 역주행 근황]]></title>
+        <id>https://v.daum.net/v/20230402175649161</id>
+        <link href="https://v.daum.net/v/20230402175649161"/>
+        <updated>2023-04-02T09:09:17.205Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 김채은, 살벌한 연기로 호평..강렬 존재감]]></title>
+        <id>https://v.daum.net/v/20230402174506994</id>
+        <link href="https://v.daum.net/v/20230402174506994"/>
+        <updated>2023-04-02T09:09:17.206Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임주환 “요즘 다시 사극 욕심도…예능 출연? 항상 열려 있다”]]></title>
+        <id>https://v.daum.net/v/20230402171506466</id>
+        <link href="https://v.daum.net/v/20230402171506466"/>
+        <updated>2023-04-02T09:09:17.208Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동윤·설인아·추영우 '오아시스', 2막 관전 포인트는?]]></title>
         <id>https://v.daum.net/v/20230402161914313</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230402131804607"/>
         <updated>2023-04-02T05:09:11.419Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박기웅, 결국 무너진다…아수라장 만찬 포착]]></title>
-        <id>https://v.daum.net/v/20230402130808486</id>
-        <link href="https://v.daum.net/v/20230402130808486"/>
-        <updated>2023-04-02T04:11:49.962Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가 나타났다!’ 백진희, 혼전 임신 발각에 협박까지…결국 분노 폭발]]></title>
-        <id>https://v.daum.net/v/20230402123602100</id>
-        <link href="https://v.daum.net/v/20230402123602100"/>
-        <updated>2023-04-02T04:11:49.962Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 우도환, 이준혁 처단 성공…본격 복수 예고]]></title>
-        <id>https://v.daum.net/v/20230402121801917</id>
-        <link href="https://v.daum.net/v/20230402121801917"/>
-        <updated>2023-04-02T04:11:49.962Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시' 이제훈→'범죄도시' 마동석, 다른 히어로 같은 재미]]></title>
-        <id>https://v.daum.net/v/20230402121019831</id>
-        <link href="https://v.daum.net/v/20230402121019831"/>
-        <updated>2023-04-02T03:11:04.136Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
