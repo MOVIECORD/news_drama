@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-03T08:14:51.027Z</updated>
+    <updated>2023-04-03T09:11:46.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 허원서, 박형식의 아군? 적군?...출생의 비밀 전격 공개]]></title>
+        <id>https://v.daum.net/v/20230403173845440</id>
+        <link href="https://v.daum.net/v/20230403173845440"/>
+        <updated>2023-04-03T09:10:38.139Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보라 데보라' 윤인나vs윤현민, 신경전 아찔한 첫 만남]]></title>
+        <id>https://v.daum.net/v/20230403171955876</id>
+        <link href="https://v.daum.net/v/20230403171955876"/>
+        <updated>2023-04-03T09:10:38.145Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연애는 전략' 유인나vs'연애는 진정성' 윤현민, '보라 데보라' 첫만남]]></title>
         <id>https://v.daum.net/v/20230403171341655</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230403140426958"/>
         <updated>2023-04-03T05:10:07.457Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘꽃선비 열애사’ 쓰러진 려운에 이화원 발칵‥신예은 간호 중 심쿵 눈맞춤]]></title>
-        <id>https://v.daum.net/v/20230403135524626</id>
-        <link href="https://v.daum.net/v/20230403135524626"/>
-        <updated>2023-04-03T05:10:07.459Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오윤아, '민이 엄마' 벗고 배우로.." “김선아와 함께할 기회 놓치고 싶지 않았다"]]></title>
-        <id>https://v.daum.net/v/20230403135425595</id>
-        <link href="https://v.daum.net/v/20230403135425595"/>
-        <updated>2023-04-03T05:10:07.461Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
