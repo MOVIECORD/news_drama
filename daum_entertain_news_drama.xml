@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-03T21:09:19.064Z</updated>
+    <updated>2023-04-03T22:09:43.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤라 “‘더글로리’ 연진이 능가하는 빌런 도전해보고파”]]></title>
+        <id>https://v.daum.net/v/20230404070901966</id>
+        <link href="https://v.daum.net/v/20230404070901966"/>
+        <updated>2023-04-03T22:09:31.901Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 신예은, "오라버니였어?"…한성부에 끌려간 강훈 보고 충격]]></title>
+        <id>https://v.daum.net/v/20230404064513612</id>
+        <link href="https://v.daum.net/v/20230404064513612"/>
+        <updated>2023-04-03T22:09:31.902Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 이태선♥표예진, 핑크빛 기류.."든든합니다"]]></title>
         <id>https://v.daum.net/v/20230403224623937</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230403194000199"/>
         <updated>2023-04-03T11:09:25.169Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생, 이영애 만난다.."'마에스트라' 男 주인공 확정"]]></title>
-        <id>https://v.daum.net/v/20230403182124774</id>
-        <link href="https://v.daum.net/v/20230403182124774"/>
-        <updated>2023-04-03T10:11:39.782Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BL 웹드 ‘소년을 위로해줘’ 종영 “공개까지 우여곡절 있었지만”]]></title>
-        <id>https://v.daum.net/v/20230403181551632</id>
-        <link href="https://v.daum.net/v/20230403181551632"/>
-        <updated>2023-04-03T10:11:39.782Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
