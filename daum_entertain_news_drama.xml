@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-03T13:15:11.528Z</updated>
+    <updated>2023-04-03T14:09:59.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 이태선♥표예진, 핑크빛 기류.."든든합니다"]]></title>
+        <id>https://v.daum.net/v/20230403224623937</id>
+        <link href="https://v.daum.net/v/20230403224623937"/>
+        <updated>2023-04-03T14:09:48.209Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 허원서, 쌍둥이 형제 도우려 전소니 목숨 위협 '충격']]></title>
+        <id>https://v.daum.net/v/20230403223047697</id>
+        <link href="https://v.daum.net/v/20230403223047697"/>
+        <updated>2023-04-03T14:09:48.210Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 윤종석, '송가멸이' 외치며 자결한 정인겸에 '충격']]></title>
         <id>https://v.daum.net/v/20230403221303261</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230403181551632"/>
         <updated>2023-04-03T10:11:39.782Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 허원서, 박형식의 아군? 적군?...출생의 비밀 전격 공개]]></title>
-        <id>https://v.daum.net/v/20230403173845440</id>
-        <link href="https://v.daum.net/v/20230403173845440"/>
-        <updated>2023-04-03T09:10:38.139Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라 데보라' 윤인나vs윤현민, 신경전 아찔한 첫 만남]]></title>
-        <id>https://v.daum.net/v/20230403171955876</id>
-        <link href="https://v.daum.net/v/20230403171955876"/>
-        <updated>2023-04-03T09:10:38.145Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
