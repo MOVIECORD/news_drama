@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-03T07:10:44.025Z</updated>
+    <updated>2023-04-03T08:14:51.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연애는 전략' 유인나vs'연애는 진정성' 윤현민, '보라 데보라' 첫만남]]></title>
+        <id>https://v.daum.net/v/20230403171341655</id>
+        <link href="https://v.daum.net/v/20230403171341655"/>
+        <updated>2023-04-03T08:14:39.533Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘신성한, 이혼’ 김수형, 악플러로 등장…강렬 존재감]]></title>
+        <id>https://v.daum.net/v/20230403170538334</id>
+        <link href="https://v.daum.net/v/20230403170538334"/>
+        <updated>2023-04-03T08:14:39.533Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼남매' 문예원 "왕빛나 오랜 팬, 누군가에게 기억되는 선배 되고파"]]></title>
+        <id>https://v.daum.net/v/20230403161609389</id>
+        <link href="https://v.daum.net/v/20230403161609389"/>
+        <updated>2023-04-03T08:14:39.535Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스틸러: 일곱 개의 조선통보’ 첫 방송 전 알아야 할 핵심 포인트]]></title>
         <id>https://v.daum.net/v/20230403160533904</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230403135425595"/>
         <updated>2023-04-03T05:10:07.461Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청춘월담’ 표예진, 개성 살인사건 새로운 단서 발견]]></title>
-        <id>https://v.daum.net/v/20230403134609308</id>
-        <link href="https://v.daum.net/v/20230403134609308"/>
-        <updated>2023-04-03T05:10:07.469Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[표예진, 살인사건 새로운 단서 발견?...다크호스로 등장]]></title>
-        <id>https://v.daum.net/v/20230403133925083</id>
-        <link href="https://v.daum.net/v/20230403133925083"/>
-        <updated>2023-04-03T05:10:07.469Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오아시스’ 장동윤 VS 추영우, 냉랭한 대치]]></title>
-        <id>https://v.daum.net/v/20230403132334681</id>
-        <link href="https://v.daum.net/v/20230403132334681"/>
-        <updated>2023-04-03T05:10:07.473Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
