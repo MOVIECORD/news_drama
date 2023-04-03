@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-03T09:11:46.951Z</updated>
+    <updated>2023-04-03T10:11:51.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이무생, 이영애 만난다.."'마에스트라' 男 주인공 확정"]]></title>
+        <id>https://v.daum.net/v/20230403182124774</id>
+        <link href="https://v.daum.net/v/20230403182124774"/>
+        <updated>2023-04-03T10:11:39.782Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BL 웹드 ‘소년을 위로해줘’ 종영 “공개까지 우여곡절 있었지만”]]></title>
+        <id>https://v.daum.net/v/20230403181551632</id>
+        <link href="https://v.daum.net/v/20230403181551632"/>
+        <updated>2023-04-03T10:11:39.782Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 허원서, 박형식의 아군? 적군?...출생의 비밀 전격 공개]]></title>
         <id>https://v.daum.net/v/20230403173845440</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230403144011365"/>
         <updated>2023-04-03T06:13:09.089Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시 2’ 개연성 없는 맛으로 본다]]></title>
-        <id>https://v.daum.net/v/20230403140815089</id>
-        <link href="https://v.daum.net/v/20230403140815089"/>
-        <updated>2023-04-03T05:10:07.455Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이가령 ‘종이달’ 출연, SNS 인플루언서+유튜버 변신]]></title>
-        <id>https://v.daum.net/v/20230403140426958</id>
-        <link href="https://v.daum.net/v/20230403140426958"/>
-        <updated>2023-04-03T05:10:07.457Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
