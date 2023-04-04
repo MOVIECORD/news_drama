@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-04T13:14:33.601Z</updated>
+    <updated>2023-04-04T14:12:07.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 전소니, 세자빈 살인 누명…박형식 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230404223441511</id>
+        <link href="https://v.daum.net/v/20230404223441511"/>
+        <updated>2023-04-04T14:10:59.477Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 전소니 살렸다…허원서에 분노]]></title>
         <id>https://v.daum.net/v/20230404213135429</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404180158561"/>
         <updated>2023-04-04T09:10:47.169Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미끼' 허성태가 악역을 만드는 법]]></title>
-        <id>https://v.daum.net/v/20230404175723421</id>
-        <link href="https://v.daum.net/v/20230404175723421"/>
-        <updated>2023-04-04T09:10:47.173Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
