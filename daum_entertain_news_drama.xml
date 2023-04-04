@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-04T15:10:51.550Z</updated>
+    <updated>2023-04-04T16:13:24.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 장동윤, 父 사망 소식에 오열→총상 입고 바다에 추락]]></title>
+        <id>https://v.daum.net/v/20230405003132281</id>
+        <link href="https://v.daum.net/v/20230405003132281"/>
+        <updated>2023-04-04T16:13:12.299Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은, 오만석에 목숨 위협→'파수꾼' 려운 등장]]></title>
         <id>https://v.daum.net/v/20230404234629950</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404191122209"/>
         <updated>2023-04-04T11:08:44.585Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입소문 난 '홍김동전', OTT 드라마틱한 역주행…77위→8위 껑충]]></title>
-        <id>https://v.daum.net/v/20230404183100315</id>
-        <link href="https://v.daum.net/v/20230404183100315"/>
-        <updated>2023-04-04T10:10:38.920Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
