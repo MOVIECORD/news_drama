@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-04T21:08:59.588Z</updated>
+    <updated>2023-04-04T22:09:56.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정연, ‘방과 후 전쟁활동’ 특별출연..의문의 생존자 첫 등장 ‘긴장감’]]></title>
+        <id>https://v.daum.net/v/20230405070510995</id>
+        <link href="https://v.daum.net/v/20230405070510995"/>
+        <updated>2023-04-04T22:09:44.865Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미끼' 허성태 "맡았던 악역 중 사기꾼 노상천이 제일 나빠"]]></title>
+        <id>https://v.daum.net/v/20230405070507990</id>
+        <link href="https://v.daum.net/v/20230405070507990"/>
+        <updated>2023-04-04T22:09:44.866Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미끼 파트2’ 장근석 “날 깨부수려고 연기 수업…‘꽃미남’ 지울 것”]]></title>
+        <id>https://v.daum.net/v/20230405063022611</id>
+        <link href="https://v.daum.net/v/20230405063022611"/>
+        <updated>2023-04-04T22:09:44.874Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식vs윤종석, 본격 삼각관계…살인 누명 쓴 전소니 구할까]]></title>
         <id>https://v.daum.net/v/20230405060001065</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230404202142040"/>
         <updated>2023-04-04T12:18:16.423Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 딸 주세요" 신고은, 딸 잃어버렸다…이채영 지시일까]]></title>
-        <id>https://v.daum.net/v/20230404200659618</id>
-        <link href="https://v.daum.net/v/20230404200659618"/>
-        <updated>2023-04-04T11:08:44.569Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 선우재덕, 아내 장서희 위해 "복수 돕겠다"]]></title>
-        <id>https://v.daum.net/v/20230404195914384</id>
-        <link href="https://v.daum.net/v/20230404195914384"/>
-        <updated>2023-04-04T11:08:44.576Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나X윤현민, 무슨 첫만남이 이래?]]></title>
-        <id>https://v.daum.net/v/20230404193517752</id>
-        <link href="https://v.daum.net/v/20230404193517752"/>
-        <updated>2023-04-04T11:08:44.577Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
