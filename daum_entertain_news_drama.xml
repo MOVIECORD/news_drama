@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-05T12:22:54.155Z</updated>
+    <updated>2023-04-05T13:22:39.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“여우 오랜만” 경성 불시착 이동욱, 김소연 만났네]]></title>
+        <id>https://v.daum.net/v/20230405212819725</id>
+        <link href="https://v.daum.net/v/20230405212819725"/>
+        <updated>2023-04-05T13:22:27.961Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신고은, 잃어버린 딸 소이 마주쳤다…극적 상봉에 '눈물']]></title>
+        <id>https://v.daum.net/v/20230405212631706</id>
+        <link href="https://v.daum.net/v/20230405212631706"/>
+        <updated>2023-04-05T13:22:27.967Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“행복해야 돼” 라미란·이도현→안은진 특별한 호흡]]></title>
         <id>https://v.daum.net/v/20230405211711558</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230405191002283</id>
         <link href="https://v.daum.net/v/20230405191002283"/>
         <updated>2023-04-05T10:12:17.951Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미끼' 이엘리야 "지난해 집안에 큰 일...크게 와 닿았다"]]></title>
-        <id>https://v.daum.net/v/20230405183003452</id>
-        <link href="https://v.daum.net/v/20230405183003452"/>
-        <updated>2023-04-05T10:12:17.953Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스틸러' 주원, 엘리트의 국보 사수…역사적 팀플레이 예고]]></title>
-        <id>https://v.daum.net/v/20230405180835865</id>
-        <link href="https://v.daum.net/v/20230405180835865"/>
-        <updated>2023-04-05T09:11:49.857Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
