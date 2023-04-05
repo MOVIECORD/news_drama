@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-05T21:11:11.612Z</updated>
+    <updated>2023-04-05T22:09:24.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유퀴즈' 성시경 "날 재수없다 한 남자들, 유튜브 후 팬돼…미안하다 댓글도"]]></title>
+        <id>https://v.daum.net/v/20230406070520443</id>
+        <link href="https://v.daum.net/v/20230406070520443"/>
+        <updated>2023-04-05T22:09:13.507Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이로운 사기’ 홍승범 캐스팅, 천우희X김동욱과 호흡]]></title>
+        <id>https://v.daum.net/v/20230406070518442</id>
+        <link href="https://v.daum.net/v/20230406070518442"/>
+        <updated>2023-04-05T22:09:13.512Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱은 무슨 죄?…KBS 막무가내 편성에 월화극 '겹치기 출연' 난감]]></title>
         <id>https://v.daum.net/v/20230406060301637</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230405203248806"/>
         <updated>2023-04-05T12:22:43.580Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 신고은, 또 당했다... 한기웅 요구대로 이혼 선언]]></title>
-        <id>https://v.daum.net/v/20230405202930747</id>
-        <link href="https://v.daum.net/v/20230405202930747"/>
-        <updated>2023-04-05T12:22:43.594Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 신고은, 딸 잃어버리고 집에서 쫓겨나 '오열']]></title>
-        <id>https://v.daum.net/v/20230405201342476</id>
-        <link href="https://v.daum.net/v/20230405201342476"/>
-        <updated>2023-04-05T12:22:43.596Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
