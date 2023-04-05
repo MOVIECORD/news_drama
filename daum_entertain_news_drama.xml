@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-05T13:22:39.290Z</updated>
+    <updated>2023-04-05T14:11:15.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주원 도둑질 하는 히어로…친일파 후손+약탈자 박살낸다]]></title>
+        <id>https://v.daum.net/v/20230405230210869</id>
+        <link href="https://v.daum.net/v/20230405230210869"/>
+        <updated>2023-04-05T14:11:03.109Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“여우 오랜만” 경성 불시착 이동욱, 김소연 만났네]]></title>
         <id>https://v.daum.net/v/20230405212819725</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230405191758464"/>
         <updated>2023-04-05T11:09:17.130Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이엘리야 "장근석=분위기 메이커…'근짱' 이미지 잘 몰라"]]></title>
-        <id>https://v.daum.net/v/20230405191002283</id>
-        <link href="https://v.daum.net/v/20230405191002283"/>
-        <updated>2023-04-05T10:12:17.951Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
