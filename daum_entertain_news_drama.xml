@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-06T20:10:24.790Z</updated>
+    <updated>2023-04-06T21:09:22.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이국주, 양평 ‘이태리풍 뉴하우스’ 공개..홈 포장마차 재오픈]]></title>
+        <id>https://v.daum.net/v/20230407055107157</id>
+        <link href="https://v.daum.net/v/20230407055107157"/>
+        <updated>2023-04-06T21:09:11.582Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드 봉재현, '조폭 고교생'으로 변신...가해자 응징 예고]]></title>
         <id>https://v.daum.net/v/20230407030031851</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230406195009778</id>
         <link href="https://v.daum.net/v/20230406195009778"/>
         <updated>2023-04-06T11:08:24.580Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미끼' 김홍선 감독 "장근석, '어른됐구나' 생각했죠"]]></title>
-        <id>https://v.daum.net/v/20230406195002770</id>
-        <link href="https://v.daum.net/v/20230406195002770"/>
-        <updated>2023-04-06T11:08:24.581Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
