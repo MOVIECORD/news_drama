@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-06T21:09:22.851Z</updated>
+    <updated>2023-04-06T22:09:50.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘판도라’ 4%대 시청률…‘김순옥 월드’ 한계 왔나]]></title>
+        <id>https://v.daum.net/v/20230407063027768</id>
+        <link href="https://v.daum.net/v/20230407063027768"/>
+        <updated>2023-04-06T22:09:40.413Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화·장나라·라미란, 4월 가족극으로 나란히 컴백]]></title>
+        <id>https://v.daum.net/v/20230407061505600</id>
+        <link href="https://v.daum.net/v/20230407061505600"/>
+        <updated>2023-04-06T22:09:40.421Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이국주, 양평 ‘이태리풍 뉴하우스’ 공개..홈 포장마차 재오픈]]></title>
         <id>https://v.daum.net/v/20230407055107157</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230406195530910"/>
         <updated>2023-04-06T11:08:24.576Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 장서희, 오창석 교도소 보내기 위해 기자회견]]></title>
-        <id>https://v.daum.net/v/20230406195455891</id>
-        <link href="https://v.daum.net/v/20230406195455891"/>
-        <updated>2023-04-06T11:08:24.577Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김홍선 감독 "'손 더 게스트' 시즌 2? 시도는 있었지만"]]></title>
-        <id>https://v.daum.net/v/20230406195009778</id>
-        <link href="https://v.daum.net/v/20230406195009778"/>
-        <updated>2023-04-06T11:08:24.580Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
