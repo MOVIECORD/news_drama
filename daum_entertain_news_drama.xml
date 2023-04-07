@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-07T10:11:08.983Z</updated>
+    <updated>2023-04-07T11:08:37.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, 반효정 죽인 진범으로 오창석 지목]]></title>
+        <id>https://v.daum.net/v/20230407194944259</id>
+        <link href="https://v.daum.net/v/20230407194944259"/>
+        <updated>2023-04-07T11:08:27.261Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기♥이다인 결혼…유재석·강호동→이순재 시상식 뺨 치는 하객]]></title>
         <id>https://v.daum.net/v/20230407182229384</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230407163007383"/>
         <updated>2023-04-07T08:12:56.323Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라! 데보라' 감독 "유인나, 내 기대 훨씬 넘어서는 배우" 극찬]]></title>
-        <id>https://v.daum.net/v/20230407161439931</id>
-        <link href="https://v.daum.net/v/20230407161439931"/>
-        <updated>2023-04-07T08:12:56.326Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
