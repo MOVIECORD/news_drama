@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-07T12:18:48.872Z</updated>
+    <updated>2023-04-07T13:13:57.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, 미소 띤 채정안에 분노 폭발 1초전]]></title>
+        <id>https://v.daum.net/v/20230407214006226</id>
+        <link href="https://v.daum.net/v/20230407214006226"/>
+        <updated>2023-04-07T13:12:50.633Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허성태 살아있었다..뒤쫓던 이성욱 사망→장근석 충격]]></title>
+        <id>https://v.daum.net/v/20230407212109991</id>
+        <link href="https://v.daum.net/v/20230407212109991"/>
+        <updated>2023-04-07T13:12:50.637Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이제 소꿉놀이 그만"..신재하, 이제훈 생존 알면 또 폭주하겠네]]></title>
         <id>https://v.daum.net/v/20230407211721926</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230407170503321"/>
         <updated>2023-04-07T08:12:56.310Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교·박은빈·전도연, 59회 백상 후보..이정재 감독상 후보]]></title>
-        <id>https://v.daum.net/v/20230407170341272</id>
-        <link href="https://v.daum.net/v/20230407170341272"/>
-        <updated>2023-04-07T08:12:56.311Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우도환♥︎김지연, 소원각에서 피어난 묘한 기류]]></title>
-        <id>https://v.daum.net/v/20230407170055198</id>
-        <link href="https://v.daum.net/v/20230407170055198"/>
-        <updated>2023-04-07T08:12:56.314Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
