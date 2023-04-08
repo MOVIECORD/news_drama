@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-08T14:09:18.501Z</updated>
+    <updated>2023-04-08T15:09:28.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 범죄 집합체 '블랙썬' 소탕 성공 '통쾌']]></title>
+        <id>https://v.daum.net/v/20230408235122712</id>
+        <link href="https://v.daum.net/v/20230408235122712"/>
+        <updated>2023-04-08T15:09:17.246Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘신성한, 이혼’ 차화연, 조승우에게 이혼소송 맡긴 이유 “손자 위한 선택”]]></title>
+        <id>https://v.daum.net/v/20230408235000704</id>
+        <link href="https://v.daum.net/v/20230408235000704"/>
+        <updated>2023-04-08T15:09:17.247Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박호산=교구장→이제훈, ‘블랙썬 게이트’ 일망타진 성공]]></title>
+        <id>https://v.daum.net/v/20230408232848576</id>
+        <link href="https://v.daum.net/v/20230408232848576"/>
+        <updated>2023-04-08T15:09:17.247Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이제훈의 화려한 귀환... 신재하 “숨통 끊을 것” 분노]]></title>
+        <id>https://v.daum.net/v/20230408231132457</id>
+        <link href="https://v.daum.net/v/20230408231132457"/>
+        <updated>2023-04-08T15:09:17.249Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 이제훈, 블랙썬 일망타진..신재하 "내가 꼭 죽일 것"]]></title>
+        <id>https://v.daum.net/v/20230408231055454</id>
+        <link href="https://v.daum.net/v/20230408231055454"/>
+        <updated>2023-04-08T15:09:17.253Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신재하 “블랙썬에 왔다고?”, 이제훈 생존에 ‘충격’]]></title>
         <id>https://v.daum.net/v/20230408225242342</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230408212601741"/>
         <updated>2023-04-08T13:10:31.676Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가’ 차주영, 안재현에 ‘불임 거짓말’ 들통... “애 낳아서 도망 못 가게 할 것”]]></title>
-        <id>https://v.daum.net/v/20230408212500738</id>
-        <link href="https://v.daum.net/v/20230408212500738"/>
-        <updated>2023-04-08T13:10:31.678Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 안재현, 차주영 거짓 불임 알고 분노]]></title>
-        <id>https://v.daum.net/v/20230408212419732</id>
-        <link href="https://v.daum.net/v/20230408212419732"/>
-        <updated>2023-04-08T13:10:31.685Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가 나타났다!’ 백진희, 아픈 안재현 밤새 간호...차주영 거짓말 들켰다]]></title>
-        <id>https://v.daum.net/v/20230408212401727</id>
-        <link href="https://v.daum.net/v/20230408212401727"/>
-        <updated>2023-04-08T13:10:31.686Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다!' 안재현, 차주영 거짓말 적발 "나 불임 아냐"]]></title>
-        <id>https://v.daum.net/v/20230408212356724</id>
-        <link href="https://v.daum.net/v/20230408212356724"/>
-        <updated>2023-04-08T13:10:31.688Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['버닝썬' 승리 소환한 '블랙썬' 이제훈…'모범택시2'보다 더 충격적인 현실]]></title>
-        <id>https://v.daum.net/v/20230408205101425</id>
-        <link href="https://v.daum.net/v/20230408205101425"/>
-        <updated>2023-04-08T12:16:01.683Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
