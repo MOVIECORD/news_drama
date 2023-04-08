@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-08T01:55:24.994Z</updated>
+    <updated>2023-04-08T02:22:56.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선변호사' 김지연, 우도환 외지부 해임 선언...엔딩 '초강수' 뒀다]]></title>
+        <id>https://v.daum.net/v/20230408111826630</id>
+        <link href="https://v.daum.net/v/20230408111826630"/>
+        <updated>2023-04-08T02:22:45.277Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["여자는 무조건 참고 살아?"..김지연, 초강수 엔딩]]></title>
+        <id>https://v.daum.net/v/20230408110017446</id>
+        <link href="https://v.daum.net/v/20230408110017446"/>
+        <updated>2023-04-08T02:22:45.279Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조선변호사’ 우도환, 조희봉 향한 또 다른 복수 불씨 지폈다]]></title>
         <id>https://v.daum.net/v/20230408104202294</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230408074750487"/>
         <updated>2023-04-07T23:09:21.017Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신고은, 주애라X한기웅 파렴치한 만행에 ‘충격’]]></title>
-        <id>https://v.daum.net/v/20230408074610477</id>
-        <link href="https://v.daum.net/v/20230408074610477"/>
-        <updated>2023-04-07T23:09:21.017Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선시대에 이혼 송사? '조선변호사' 우도환, 신선하게 취향 저격]]></title>
-        <id>https://v.daum.net/v/20230408074444468</id>
-        <link href="https://v.daum.net/v/20230408074444468"/>
-        <updated>2023-04-07T23:09:21.020Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
