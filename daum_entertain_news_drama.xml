@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-08T03:10:39.653Z</updated>
+    <updated>2023-04-08T04:12:38.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 신재하, 블랙썬 등판한 ‘생환’ 이제훈에 경악]]></title>
+        <id>https://v.daum.net/v/20230408130709399</id>
+        <link href="https://v.daum.net/v/20230408130709399"/>
+        <updated>2023-04-08T04:11:35.926Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장르적 쾌감·따뜻한 메시지, 모두 녹여낸 ‘방과 후 전쟁활동’]]></title>
+        <id>https://v.daum.net/v/20230408130005328</id>
+        <link href="https://v.daum.net/v/20230408130005328"/>
+        <updated>2023-04-08T04:11:35.931Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재현, '백진희母' 김혜옥에 멱살잡이 당했다]]></title>
         <id>https://v.daum.net/v/20230408115907963</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230408080543683"/>
         <updated>2023-04-07T23:09:21.012Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 또 일냈다…마약 소굴 '블랙썬' 스모킹 찾았다 '최고 20.8%']]></title>
-        <id>https://v.daum.net/v/20230408080012579</id>
-        <link href="https://v.daum.net/v/20230408080012579"/>
-        <updated>2023-04-07T23:09:21.012Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원진아 "연기 비전공자 콤플렉스, '파우스트'로 극복했죠"]]></title>
-        <id>https://v.daum.net/v/20230408080008573</id>
-        <link href="https://v.daum.net/v/20230408080008573"/>
-        <updated>2023-04-07T23:09:21.015Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
