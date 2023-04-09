@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-09T03:10:27.560Z</updated>
+    <updated>2023-04-09T04:11:44.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방송史 처음…역사 왜곡 논란 후 2년→다시 사극 열풍]]></title>
+        <id>https://v.daum.net/v/20230409130520928</id>
+        <link href="https://v.daum.net/v/20230409130520928"/>
+        <updated>2023-04-09T04:11:34.278Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시2'도 모범운전한 이제훈, 이제 우두머리만 남았다]]></title>
+        <id>https://v.daum.net/v/20230409130331905</id>
+        <link href="https://v.daum.net/v/20230409130331905"/>
+        <updated>2023-04-09T04:11:34.285Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’ 어린 혜정 송지우 “롤모델은 송혜교·손예진, 이유는…”]]></title>
+        <id>https://v.daum.net/v/20230409130302901</id>
+        <link href="https://v.daum.net/v/20230409130302901"/>
+        <updated>2023-04-09T04:11:34.288Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진, 스타 DJ→공감 실장→좋은 어른]]></title>
+        <id>https://v.daum.net/v/20230409123416573</id>
+        <link href="https://v.daum.net/v/20230409123416573"/>
+        <updated>2023-04-09T04:11:34.291Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘진짜가 나타났다’ 차주영, 결혼 위해 계속 거짓말…안재현 분노]]></title>
         <id>https://v.daum.net/v/20230409120902323</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230409094437002"/>
         <updated>2023-04-09T00:50:43.653Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신성한 이혼' 조승우, 삼촌 아닌 변호사로 "감동 엔딩"]]></title>
-        <id>https://v.daum.net/v/20230409094434001</id>
-        <link href="https://v.daum.net/v/20230409094434001"/>
-        <updated>2023-04-09T00:50:43.659Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['놀면 뭐하니?' 유재석, 동생들과 '간식 케미'로 웃음 선사]]></title>
-        <id>https://v.daum.net/v/20230409092934803</id>
-        <link href="https://v.daum.net/v/20230409092934803"/>
-        <updated>2023-04-09T00:50:43.661Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이달, 블랙썬 가드대장…분노유발 극악무도 빌런]]></title>
-        <id>https://v.daum.net/v/20230409091352615</id>
-        <link href="https://v.daum.net/v/20230409091352615"/>
-        <updated>2023-04-09T00:50:43.661Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영, 결혼이 뭐기에? 연이은 거짓말에 안재현 충격]]></title>
-        <id>https://v.daum.net/v/20230409091200596</id>
-        <link href="https://v.daum.net/v/20230409091200596"/>
-        <updated>2023-04-09T00:50:43.661Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
