@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-09T14:08:25.656Z</updated>
+    <updated>2023-04-09T15:09:24.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['신성한 이혼' 조승우, 차화연에 "밥만 넣어준다고 잘 사는 거겠냐"]]></title>
+        <title type="html"><![CDATA[조승우, 김준의 후견인 됐다…"심장 터지게 아낀다"]]></title>
+        <id>https://v.daum.net/v/20230410000815554</id>
+        <link href="https://v.daum.net/v/20230410000815554"/>
+        <updated>2023-04-09T15:09:15.213Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '신성한 이혼' 조승우, 조카 친권 따냈다…김성균♥강말금 연인]]></title>
+        <id>https://v.daum.net/v/20230409235633410</id>
+        <link href="https://v.daum.net/v/20230409235633410"/>
+        <updated>2023-04-09T15:09:15.214Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '신성한 이혼' 조승우, 조카 후견인 됐다→한혜진 DJ 복귀]]></title>
+        <id>https://v.daum.net/v/20230409235439396</id>
+        <link href="https://v.daum.net/v/20230409235439396"/>
+        <updated>2023-04-09T15:09:15.216Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 ‘신성한, 이혼’ 조승우, 조카 지켰다... 후견인 선임되며 해피엔딩]]></title>
+        <id>https://v.daum.net/v/20230409235430395</id>
+        <link href="https://v.daum.net/v/20230409235430395"/>
+        <updated>2023-04-09T15:09:15.217Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안재현 “내가 백진희 아이 아빠” 거짓말→김혜옥에 멱살 잡혔다]]></title>
+        <id>https://v.daum.net/v/20230409235220391</id>
+        <link href="https://v.daum.net/v/20230409235220391"/>
+        <updated>2023-04-09T15:09:15.219Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신성한 이혼' 조승우, 차화연 설득.."김준의 위해 희생 말아라"]]></title>
         <id>https://v.daum.net/v/20230409230754227</id>
         <link href="https://v.daum.net/v/20230409230754227"/>
         <updated>2023-04-09T14:08:13.707Z</updated>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230409213058684"/>
         <updated>2023-04-09T13:10:54.137Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재현 “내가 애 아빠”, 백진희 아이 지우려는 정의제에 거짓말]]></title>
-        <id>https://v.daum.net/v/20230409212725654</id>
-        <link href="https://v.daum.net/v/20230409212725654"/>
-        <updated>2023-04-09T13:10:54.138Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가’ 안재현 “내가 백진희 애 아빠” 거짓말, 김혜옥에 멱살 잡혀]]></title>
-        <id>https://v.daum.net/v/20230409212456634</id>
-        <link href="https://v.daum.net/v/20230409212456634"/>
-        <updated>2023-04-09T13:10:54.140Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 안재현, 차주영 '거짓 불임' 알았다.."쪽팔려"]]></title>
-        <id>https://v.daum.net/v/20230409205623471</id>
-        <link href="https://v.daum.net/v/20230409205623471"/>
-        <updated>2023-04-09T12:16:26.623Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가’ 김혜옥 “임신한 거 들킨 거야?”…백진희 병원에 데려갔다]]></title>
-        <id>https://v.daum.net/v/20230409205400449</id>
-        <link href="https://v.daum.net/v/20230409205400449"/>
-        <updated>2023-04-09T12:16:26.623Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재현, 차주영 ‘거짓 불임’ 듣고 ‘충격’..백진희에 “쪽팔려”]]></title>
-        <id>https://v.daum.net/v/20230409203326291</id>
-        <link href="https://v.daum.net/v/20230409203326291"/>
-        <updated>2023-04-09T12:16:26.624Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
