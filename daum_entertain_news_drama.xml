@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-09T05:09:47.101Z</updated>
+    <updated>2023-04-09T06:12:53.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차주영, 이젠 혜정이 말고 세진이라 불러다오]]></title>
+        <id>https://v.daum.net/v/20230409151137089</id>
+        <link href="https://v.daum.net/v/20230409151137089"/>
+        <updated>2023-04-09T06:11:51.168Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내가 이 아이 아빠!"…안재현·정의제, 백진희 두고 기싸움]]></title>
+        <id>https://v.daum.net/v/20230409144047516</id>
+        <link href="https://v.daum.net/v/20230409144047516"/>
+        <updated>2023-04-09T06:11:51.170Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['방과후전쟁활동' 성용일 감독 "크리처보단 학생들에 집중"]]></title>
+        <id>https://v.daum.net/v/20230409143201289</id>
+        <link href="https://v.daum.net/v/20230409143201289"/>
+        <updated>2023-04-09T06:11:51.172Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안재현 사정없이 머리채 뜯겼나? 까치집 머리 굴욕]]></title>
+        <id>https://v.daum.net/v/20230409141517884</id>
+        <link href="https://v.daum.net/v/20230409141517884"/>
+        <updated>2023-04-09T06:11:51.173Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지연 작정하고 연기변신, 공주+여종+남장까지]]></title>
         <id>https://v.daum.net/v/20230409140447683</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230409130331905"/>
         <updated>2023-04-09T04:11:34.285Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 어린 혜정 송지우 “롤모델은 송혜교·손예진, 이유는…”]]></title>
-        <id>https://v.daum.net/v/20230409130302901</id>
-        <link href="https://v.daum.net/v/20230409130302901"/>
-        <updated>2023-04-09T04:11:34.288Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, 스타 DJ→공감 실장→좋은 어른]]></title>
-        <id>https://v.daum.net/v/20230409123416573</id>
-        <link href="https://v.daum.net/v/20230409123416573"/>
-        <updated>2023-04-09T04:11:34.291Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가 나타났다’ 차주영, 결혼 위해 계속 거짓말…안재현 분노]]></title>
-        <id>https://v.daum.net/v/20230409120902323</id>
-        <link href="https://v.daum.net/v/20230409120902323"/>
-        <updated>2023-04-09T03:10:15.925Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 우도환X김지연, 합작으로 이혼 송사 마무리]]></title>
-        <id>https://v.daum.net/v/20230409120900321</id>
-        <link href="https://v.daum.net/v/20230409120900321"/>
-        <updated>2023-04-09T03:10:15.929Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
