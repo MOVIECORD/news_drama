@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-10T21:09:30.680Z</updated>
+    <updated>2023-04-10T22:09:31.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 려운, "너였기에, 너라서 그런 것이다"…목숨 걸고 신예은 지켜낸 진심 고백]]></title>
+        <id>https://v.daum.net/v/20230411062703935</id>
+        <link href="https://v.daum.net/v/20230411062703935"/>
+        <updated>2023-04-10T22:09:20.409Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 려운, 오만석에게 위협받는 신예은 구했다…그의 정체는 '파수꾼'?]]></title>
+        <id>https://v.daum.net/v/20230411061806869</id>
+        <link href="https://v.daum.net/v/20230411061806869"/>
+        <updated>2023-04-10T22:09:20.410Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 박형식, 궁 탈출 감행..죽음 위기 전소니 구했다]]></title>
         <id>https://v.daum.net/v/20230410224152379</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230410194530275"/>
         <updated>2023-04-10T11:08:43.791Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀의 게임' 한지완, 법정에서 오창석 배신 "장서희는 범인 아냐"]]></title>
-        <id>https://v.daum.net/v/20230410193243156</id>
-        <link href="https://v.daum.net/v/20230410193243156"/>
-        <updated>2023-04-10T11:08:43.799Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과 후 전쟁활동' 성용일 감독 "호불호 이해, 퀄리티는 의심 안해요"]]></title>
-        <id>https://v.daum.net/v/20230410183408203</id>
-        <link href="https://v.daum.net/v/20230410183408203"/>
-        <updated>2023-04-10T10:11:08.123Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
