@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-10T10:11:17.686Z</updated>
+    <updated>2023-04-10T11:08:55.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영광 "또래 배우들과 거리 둬"…'사랑말' 하며 말수도 줄었다"]]></title>
+        <id>https://v.daum.net/v/20230410200108502</id>
+        <link href="https://v.daum.net/v/20230410200108502"/>
+        <updated>2023-04-10T11:08:43.788Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, 재판정에서 오창석 배신 “반효정 죽인 진범”]]></title>
+        <id>https://v.daum.net/v/20230410194530275</id>
+        <link href="https://v.daum.net/v/20230410194530275"/>
+        <updated>2023-04-10T11:08:43.791Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 한지완, 법정에서 오창석 배신 "장서희는 범인 아냐"]]></title>
+        <id>https://v.daum.net/v/20230410193243156</id>
+        <link href="https://v.daum.net/v/20230410193243156"/>
+        <updated>2023-04-10T11:08:43.799Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과 후 전쟁활동' 성용일 감독 "호불호 이해, 퀄리티는 의심 안해요"]]></title>
         <id>https://v.daum.net/v/20230410183408203</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230410164327947"/>
         <updated>2023-04-10T08:13:10.033Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 우도환X김지연X차학연, 세 남녀의 삼각관계? "기대해도 좋다"]]></title>
-        <id>https://v.daum.net/v/20230410163611555</id>
-        <link href="https://v.daum.net/v/20230410163611555"/>
-        <updated>2023-04-10T08:13:10.037Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다!' 차주영, 행복→불안→분노…극한의 감정 변주]]></title>
-        <id>https://v.daum.net/v/20230410163517496</id>
-        <link href="https://v.daum.net/v/20230410163517496"/>
-        <updated>2023-04-10T08:13:10.039Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤영X이선호, 서로를 향한 엇갈린 감정 변화?]]></title>
-        <id>https://v.daum.net/v/20230410163032230</id>
-        <link href="https://v.daum.net/v/20230410163032230"/>
-        <updated>2023-04-10T08:13:10.041Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
