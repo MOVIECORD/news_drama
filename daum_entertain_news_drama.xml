@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-10T09:11:06.858Z</updated>
+    <updated>2023-04-10T10:11:17.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방과 후 전쟁활동' 성용일 감독 "호불호 이해, 퀄리티는 의심 안해요"]]></title>
+        <id>https://v.daum.net/v/20230410183408203</id>
+        <link href="https://v.daum.net/v/20230410183408203"/>
+        <updated>2023-04-10T10:11:08.123Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['온화 직진' 강훈 VS '냉랭 정색' 조혜주]]></title>
+        <id>https://v.daum.net/v/20230410181530715</id>
+        <link href="https://v.daum.net/v/20230410181530715"/>
+        <updated>2023-04-10T10:11:08.125Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은·려운, 복잡 미묘..왜?]]></title>
         <id>https://v.daum.net/v/20230410181010585</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230410163032230"/>
         <updated>2023-04-10T08:13:10.041Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“김영광♥이성경 사귀는 듯”…열애 의혹 전말]]></title>
-        <id>https://v.daum.net/v/20230410161625492</id>
-        <link href="https://v.daum.net/v/20230410161625492"/>
-        <updated>2023-04-10T08:13:10.046Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이성경·김영광 사귀는 거 같아"…감독도 오해한 '사말' 케미]]></title>
-        <id>https://v.daum.net/v/20230410160825116</id>
-        <link href="https://v.daum.net/v/20230410160825116"/>
-        <updated>2023-04-10T07:09:52.462Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
