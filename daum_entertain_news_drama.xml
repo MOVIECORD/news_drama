@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-11T12:18:29.521Z</updated>
+    <updated>2023-04-11T13:14:17.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘월담' 정웅인, 홍수현 정체에 분노 "모조리 잡아 죽일 것"]]></title>
+        <id>https://v.daum.net/v/20230411212451059</id>
+        <link href="https://v.daum.net/v/20230411212451059"/>
+        <updated>2023-04-11T13:14:06.738Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘금이야 옥이야’ 서준영, 취업 성공…이응경 “윤다경 덕분”]]></title>
         <id>https://v.daum.net/v/20230411211501902</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411173649749"/>
         <updated>2023-04-11T09:10:55.778Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김비주, 사극 이어 시대극…'오아시스' 장동윤 조력자 활약]]></title>
-        <id>https://v.daum.net/v/20230411173407666</id>
-        <link href="https://v.daum.net/v/20230411173407666"/>
-        <updated>2023-04-11T09:10:55.781Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
