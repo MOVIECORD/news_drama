@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-11T14:10:39.356Z</updated>
+    <updated>2023-04-11T15:10:42.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 장동윤, 살아 돌아왔다..설인아와 눈물의 재회]]></title>
+        <id>https://v.daum.net/v/20230412000100619</id>
+        <link href="https://v.daum.net/v/20230412000100619"/>
+        <updated>2023-04-11T15:10:33.111Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 설인아, 추영우에 거리 두기 "선 넘지 마"]]></title>
+        <id>https://v.daum.net/v/20230411231918347</id>
+        <link href="https://v.daum.net/v/20230411231918347"/>
+        <updated>2023-04-11T15:10:33.113Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스' 장동윤, 한국 돌아와 복수 다짐 "다 돌려놓을 것"]]></title>
         <id>https://v.daum.net/v/20230411230730283</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230411185009714"/>
         <updated>2023-04-11T10:11:04.408Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정채율 사망에 ‘웨딩 임파서블’ 측 “일정 내부 논의 단계”]]></title>
-        <id>https://v.daum.net/v/20230411184558662</id>
-        <link href="https://v.daum.net/v/20230411184558662"/>
-        <updated>2023-04-11T10:11:04.410Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좋좋소'·'찐따록' 이태동 감독 "진용진이 '유튜브 봉준호'라고 해줘요"]]></title>
-        <id>https://v.daum.net/v/20230411180609771</id>
-        <link href="https://v.daum.net/v/20230411180609771"/>
-        <updated>2023-04-11T09:10:55.769Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
