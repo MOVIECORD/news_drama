@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-12T15:12:14.918Z</updated>
+    <updated>2023-04-12T16:14:05.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주원, 골동품 도둑 '스컹크'였다…강렬 반전 엔딩]]></title>
+        <id>https://v.daum.net/v/20230413011008076</id>
+        <link href="https://v.daum.net/v/20230413011008076"/>
+        <updated>2023-04-12T16:13:03.386Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장동윤, ♥설인아와 감격 재회...시청률 1위]]></title>
+        <id>https://v.daum.net/v/20230413010030992</id>
+        <link href="https://v.daum.net/v/20230413010030992"/>
+        <updated>2023-04-12T16:13:03.386Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 김재철, 장광 배신에 볼펜으로 상황 역전]]></title>
         <id>https://v.daum.net/v/20230413000913713</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230412195457613"/>
         <updated>2023-04-12T11:09:27.941Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['패밀리' 장나라, 결혼 후 첫 작품 "신랑 앞에서 막춤 추는 아내"]]></title>
-        <id>https://v.daum.net/v/20230412193010276</id>
-        <link href="https://v.daum.net/v/20230412193010276"/>
-        <updated>2023-04-12T11:09:27.942Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 표예진 "좋은 친구들과 추억 담긴 작품, 오래오래 기억될 것"]]></title>
-        <id>https://v.daum.net/v/20230412190006678</id>
-        <link href="https://v.daum.net/v/20230412190006678"/>
-        <updated>2023-04-12T10:10:40.557Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
