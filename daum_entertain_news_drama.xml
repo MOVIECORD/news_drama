@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-12T13:13:48.828Z</updated>
+    <updated>2023-04-12T14:11:11.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 경찰대 수석 이주우, 문제아 낙인..문화재 전담팀 발령]]></title>
+        <id>https://v.daum.net/v/20230412225819126</id>
+        <link href="https://v.daum.net/v/20230412225819126"/>
+        <updated>2023-04-12T14:10:09.025Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[참고 참던 이승기, 결국 입 열었다 "결혼 이후 비하…많이 힘들어"]]></title>
         <id>https://v.daum.net/v/20230412211446927</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230412165002515"/>
         <updated>2023-04-12T08:13:04.330Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하하버스' 하송, 이 세상 사랑둥이 "광희 삼촌도 돌멩이도 다 잘생겼어"]]></title>
-        <id>https://v.daum.net/v/20230412162637523</id>
-        <link href="https://v.daum.net/v/20230412162637523"/>
-        <updated>2023-04-12T08:13:04.331Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
