@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-12T10:10:51.651Z</updated>
+    <updated>2023-04-12T11:09:39.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마녀의 게임’ 한지완, 권단아 납치→‘탈옥’ 오창석 도주]]></title>
+        <id>https://v.daum.net/v/20230412195457613</id>
+        <link href="https://v.daum.net/v/20230412195457613"/>
+        <updated>2023-04-12T11:09:27.941Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장나라, 결혼 후 첫 작품 "신랑 앞에서 막춤 추는 아내"]]></title>
+        <id>https://v.daum.net/v/20230412193010276</id>
+        <link href="https://v.daum.net/v/20230412193010276"/>
+        <updated>2023-04-12T11:09:27.942Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘월담' 표예진 "좋은 친구들과 추억 담긴 작품, 오래오래 기억될 것"]]></title>
         <id>https://v.daum.net/v/20230412190006678</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230412154027482"/>
         <updated>2023-04-12T07:09:33.766Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문성 “‘썸바디’서 김영광에 구타 당해 ‘사말’선 괴롭혀 재밌었다” 종영소감]]></title>
-        <id>https://v.daum.net/v/20230412153830398</id>
-        <link href="https://v.daum.net/v/20230412153830398"/>
-        <updated>2023-04-12T07:09:33.767Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기두 “자식 잃고 사는 부모 역, 참 마음 아팠다” 종영소감]]></title>
-        <id>https://v.daum.net/v/20230412153703350</id>
-        <link href="https://v.daum.net/v/20230412153703350"/>
-        <updated>2023-04-12T07:09:33.769Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
