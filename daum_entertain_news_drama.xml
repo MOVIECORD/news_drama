@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-13T12:18:43.278Z</updated>
+    <updated>2023-04-13T13:14:41.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조한철, 송중기 큰아빠 벗고 '스틸러' 문화재 사수 '의인' 됐다]]></title>
+        <id>https://v.daum.net/v/20230413215622300</id>
+        <link href="https://v.daum.net/v/20230413215622300"/>
+        <updated>2023-04-13T13:13:33.563Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한기웅 "신고은과 이혼할 수 있게 해달라"…합의금 1억 빌미 협박]]></title>
         <id>https://v.daum.net/v/20230413205009190</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230413175009196</id>
         <link href="https://v.daum.net/v/20230413175009196"/>
         <updated>2023-04-13T09:10:30.048Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[54세 조은숙 "여배우, 나이 들면…20대 역할 바랐다"]]></title>
-        <id>https://v.daum.net/v/20230413174701068</id>
-        <link href="https://v.daum.net/v/20230413174701068"/>
-        <updated>2023-04-13T09:10:30.052Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
