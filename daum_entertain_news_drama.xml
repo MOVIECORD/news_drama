@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-14T12:17:54.963Z</updated>
+    <updated>2023-04-14T13:13:05.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여성의, 여성에 의한, 여성을 위한 '퀸메이커']]></title>
+        <id>https://v.daum.net/v/20230414215002246</id>
+        <link href="https://v.daum.net/v/20230414215002246"/>
+        <updated>2023-04-14T13:12:54.632Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미끼' 이엘리야 母, 이미 고인이었다..장근석 "당신 엄마 죽었잖아"]]></title>
+        <id>https://v.daum.net/v/20230414212312863</id>
+        <link href="https://v.daum.net/v/20230414212312863"/>
+        <updated>2023-04-14T13:12:54.632Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 여자' 임혁, 불륜 이채영·한기웅에 "절대 안 돼"]]></title>
         <id>https://v.daum.net/v/20230414210229582</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230414155016234"/>
         <updated>2023-04-14T07:10:01.014Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후전쟁활동' 신현수 "희생신서 감독도 눈물, 내 장례식 같았다"]]></title>
-        <id>https://v.daum.net/v/20230414154859197</id>
-        <link href="https://v.daum.net/v/20230414154859197"/>
-        <updated>2023-04-14T07:10:01.025Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후전쟁활동' 신현수 "날렵함 위해 4kg 감량..신수현 고백 귀여웠다"]]></title>
-        <id>https://v.daum.net/v/20230414154756157</id>
-        <link href="https://v.daum.net/v/20230414154756157"/>
-        <updated>2023-04-14T07:10:01.026Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
