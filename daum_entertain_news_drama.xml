@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-14T11:08:37.536Z</updated>
+    <updated>2023-04-14T12:17:54.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 임혁, 불륜 이채영·한기웅에 "절대 안 돼"]]></title>
+        <id>https://v.daum.net/v/20230414210229582</id>
+        <link href="https://v.daum.net/v/20230414210229582"/>
+        <updated>2023-04-14T12:17:43.756Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비밀의 여자’ 최윤영, 한기웅 이혼 계략 막았다 “이채영과 결혼? 꿈 깨”]]></title>
+        <id>https://v.daum.net/v/20230414202930000</id>
+        <link href="https://v.daum.net/v/20230414202930000"/>
+        <updated>2023-04-14T12:17:43.758Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마녀의 게임' 김규선♥이현석 결혼→오창석 회개 '해피엔딩']]></title>
         <id>https://v.daum.net/v/20230414195647388</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230414154756157"/>
         <updated>2023-04-14T07:10:01.026Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후전쟁활동' 신현수 "주변 반응에 행복, '눈물 셀카' 받기도"]]></title>
-        <id>https://v.daum.net/v/20230414154526057</id>
-        <link href="https://v.daum.net/v/20230414154526057"/>
-        <updated>2023-04-14T07:10:01.028Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 김지연 머슴 분장까지? 우도환과 특별한 공조]]></title>
-        <id>https://v.daum.net/v/20230414153615747</id>
-        <link href="https://v.daum.net/v/20230414153615747"/>
-        <updated>2023-04-14T07:10:01.032Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
