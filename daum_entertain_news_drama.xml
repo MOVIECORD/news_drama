@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-14T10:11:55.017Z</updated>
+    <updated>2023-04-14T11:08:37.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀의 게임' 김규선♥이현석 결혼→오창석 회개 '해피엔딩']]></title>
+        <id>https://v.daum.net/v/20230414195647388</id>
+        <link href="https://v.daum.net/v/20230414195647388"/>
+        <updated>2023-04-14T11:08:26.681Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과 후 전쟁활동' 신현수 "완성본 보며 눈물 펑펑, 정주행만 4번"]]></title>
         <id>https://v.daum.net/v/20230414175029941</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230414153615747"/>
         <updated>2023-04-14T07:10:01.032Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민기, 탈모 스트레스 고백→♥홍윤화와 알콩달콩 '털캉스']]></title>
-        <id>https://v.daum.net/v/20230414152557408</id>
-        <link href="https://v.daum.net/v/20230414152557408"/>
-        <updated>2023-04-14T07:10:01.040Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
