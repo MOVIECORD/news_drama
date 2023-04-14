@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-14T04:12:04.551Z</updated>
+    <updated>2023-04-14T05:11:01.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어쩌다 ‘시간 여행자’가 된 김동욱·진기주]]></title>
+        <id>https://v.daum.net/v/20230414133304723</id>
+        <link href="https://v.daum.net/v/20230414133304723"/>
+        <updated>2023-04-14T05:09:52.469Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 이제훈, 범죄자 소굴 집단 린치에 맨손 액션 폭발]]></title>
+        <id>https://v.daum.net/v/20230414132146471</id>
+        <link href="https://v.daum.net/v/20230414132146471"/>
+        <updated>2023-04-14T05:09:52.474Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차서원x공찬의 러브 스토리, ‘비의도적 연애담’ 일본도 들썩였다]]></title>
+        <id>https://v.daum.net/v/20230414131936437</id>
+        <link href="https://v.daum.net/v/20230414131936437"/>
+        <updated>2023-04-14T05:09:52.475Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['방과 후' 신현수 "임세미와 러브라인 응원 '멘붕'...SNS 반응 봤다"]]></title>
         <id>https://v.daum.net/v/20230414123318795</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230414112333743"/>
         <updated>2023-04-14T02:30:04.355Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 처절한 복수전 속 과몰입 부를 관전 포인트]]></title>
-        <id>https://v.daum.net/v/20230414112053628</id>
-        <link href="https://v.daum.net/v/20230414112053628"/>
-        <updated>2023-04-14T02:30:04.358Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도깨비' 김고은 담임 김난희, '하늘의 인연' 합류]]></title>
-        <id>https://v.daum.net/v/20230414111907559</id>
-        <link href="https://v.daum.net/v/20230414111907559"/>
-        <updated>2023-04-14T02:30:04.359Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘퀸메이커’ 김희애X문소리, 정치 쇼 비즈니스 시작된다]]></title>
-        <id>https://v.daum.net/v/20230414110900101</id>
-        <link href="https://v.daum.net/v/20230414110900101"/>
-        <updated>2023-04-14T02:30:04.361Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
