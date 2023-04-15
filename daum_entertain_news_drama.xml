@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-15T10:10:01.058Z</updated>
+    <updated>2023-04-15T11:09:29.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['퀸메이커' 기대 이상의 서사와 팽팽한 대결, 지금껏 보지 못한 선거전의 끝장판]]></title>
+        <id>https://v.daum.net/v/20230415195442915</id>
+        <link href="https://v.daum.net/v/20230415195442915"/>
+        <updated>2023-04-15T11:08:27.120Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '모범택시2', 시즌3 가나요? 최종회 기대포인트3]]></title>
         <id>https://v.daum.net/v/20230415171721345</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230415134114355"/>
         <updated>2023-04-15T05:09:18.788Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈 "시즌3 원한다" 종영소감…최종회 80분 확대 편성]]></title>
-        <id>https://v.daum.net/v/20230415132328177</id>
-        <link href="https://v.daum.net/v/20230415132328177"/>
-        <updated>2023-04-15T05:09:18.789Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
