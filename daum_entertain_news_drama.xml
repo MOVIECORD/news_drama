@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-15T07:09:01.295Z</updated>
+    <updated>2023-04-15T08:12:03.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미끼' 오연아, 허성태와 밀항 후 고립…첫 번째 살인 피해자]]></title>
+        <id>https://v.daum.net/v/20230415163358011</id>
+        <link href="https://v.daum.net/v/20230415163358011"/>
+        <updated>2023-04-15T08:11:53.048Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박서준·한소희→박보검·아이유 "이게 되네"…안방 들썩 스타워즈]]></title>
+        <id>https://v.daum.net/v/20230415162619961</id>
+        <link href="https://v.daum.net/v/20230415162619961"/>
+        <updated>2023-04-15T08:11:53.053Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신은정X이정진, 로맨틱 와인데이트♥ 분위기 커플 등극...멜로 텐션 기대↑]]></title>
         <id>https://v.daum.net/v/20230415160708827</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230415131936152"/>
         <updated>2023-04-15T05:09:18.791Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 이제훈 “또 다른 이야기 써 갔으면” 시즌3 기원]]></title>
-        <id>https://v.daum.net/v/20230415131512117</id>
-        <link href="https://v.daum.net/v/20230415131512117"/>
-        <updated>2023-04-15T05:09:18.792Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희애와 문소리, 때로는 배우의 이름값이 모든 걸 설명한다]]></title>
-        <id>https://v.daum.net/v/20230415131007076</id>
-        <link href="https://v.daum.net/v/20230415131007076"/>
-        <updated>2023-04-15T04:12:12.805Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
