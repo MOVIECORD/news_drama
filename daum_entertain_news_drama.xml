@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-15T03:10:49.447Z</updated>
+    <updated>2023-04-15T04:12:22.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희애와 문소리, 때로는 배우의 이름값이 모든 걸 설명한다]]></title>
+        <id>https://v.daum.net/v/20230415131007076</id>
+        <link href="https://v.daum.net/v/20230415131007076"/>
+        <updated>2023-04-15T04:12:12.805Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오아시스’ 장동윤의 원상복구는 진이한의 배신으로부터?]]></title>
+        <id>https://v.daum.net/v/20230415125341959</id>
+        <link href="https://v.daum.net/v/20230415125341959"/>
+        <updated>2023-04-15T04:12:12.809Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김규선 "'마녀의 게임' 8개월 동안 내 삶의 전부"]]></title>
+        <id>https://v.daum.net/v/20230415121318693</id>
+        <link href="https://v.daum.net/v/20230415121318693"/>
+        <updated>2023-04-15T04:12:12.810Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조선변호사’ 우도환, 가해자 권아름 사연 듣고 송사 결심]]></title>
         <id>https://v.daum.net/v/20230415114800508</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230415101019551"/>
         <updated>2023-04-15T02:02:21.190Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼씨구' 우도환, 로맨스+코미디+복수 다하는 중]]></title>
-        <id>https://v.daum.net/v/20230415100918534</id>
-        <link href="https://v.daum.net/v/20230415100918534"/>
-        <updated>2023-04-15T02:02:21.191Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년차 주부 엄정화, 벼랑 끝 인생 터닝포인트]]></title>
-        <id>https://v.daum.net/v/20230415100328467</id>
-        <link href="https://v.daum.net/v/20230415100328467"/>
-        <updated>2023-04-15T02:02:21.192Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 이제훈, 집단 린치에도 ‘금사회’ 역습 성공…신재하 분노]]></title>
-        <id>https://v.daum.net/v/20230415095701322</id>
-        <link href="https://v.daum.net/v/20230415095701322"/>
-        <updated>2023-04-15T02:02:21.192Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
