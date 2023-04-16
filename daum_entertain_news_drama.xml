@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-16T06:12:24.961Z</updated>
+    <updated>2023-04-16T07:09:32.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 달렸다···'모범택시2', 반가운 시즌3 시동]]></title>
+        <id>https://v.daum.net/v/20230416155106808</id>
+        <link href="https://v.daum.net/v/20230416155106808"/>
+        <updated>2023-04-16T07:09:18.773Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 표예진 “‘부부호흡’ 이제훈, 존재만으로도 듬직..소중한 사람”]]></title>
+        <id>https://v.daum.net/v/20230416153033361</id>
+        <link href="https://v.daum.net/v/20230416153033361"/>
+        <updated>2023-04-16T07:09:18.776Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모범택시’ 측 “시즌3 제작 확정, 배우들과 논의 시작하는 단계”]]></title>
         <id>https://v.daum.net/v/20230416150951978</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230416132618782"/>
         <updated>2023-04-16T05:09:06.738Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈, 시즌3 나오나.."웃으면서 다시 만나"]]></title>
-        <id>https://v.daum.net/v/20230416132614779</id>
-        <link href="https://v.daum.net/v/20230416132614779"/>
-        <updated>2023-04-16T05:09:06.738Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['죽다 살아난' 엄정화, 명세빈과 불륜 김병철에 반격 시작]]></title>
-        <id>https://v.daum.net/v/20230416132354740</id>
-        <link href="https://v.daum.net/v/20230416132354740"/>
-        <updated>2023-04-16T05:09:06.738Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
