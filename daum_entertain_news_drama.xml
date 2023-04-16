@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-16T02:08:43.502Z</updated>
+    <updated>2023-04-16T03:11:02.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[표예진 "'모범택시' 무지개 운수팀에 소고기 쐈다…다음 타자는 장혁진"]]></title>
+        <id>https://v.daum.net/v/20230416114702282</id>
+        <link href="https://v.daum.net/v/20230416114702282"/>
+        <updated>2023-04-16T03:10:51.822Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이순재, ‘통곡순재’ 변신..가족 행사 중 폭풍 오열]]></title>
+        <id>https://v.daum.net/v/20230416111534901</id>
+        <link href="https://v.daum.net/v/20230416111534901"/>
+        <updated>2023-04-16T03:10:51.825Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙' 역시 엄정화! 여왕이 돌아왔다]]></title>
         <id>https://v.daum.net/v/20230416110520716</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230416083015525"/>
         <updated>2023-04-16T00:51:30.842Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내가 용서한다면 끝”..장희진, 이지아와 복수 위해 공조..봉태규=홍우진 추락사고 범인]]></title>
-        <id>https://v.daum.net/v/20230416082022455</id>
-        <link href="https://v.daum.net/v/20230416082022455"/>
-        <updated>2023-04-16T00:51:30.846Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재현, 임신한 백진희에 결혼 제안…독기 찬 차주영 "내 결혼 망치지마"]]></title>
-        <id>https://v.daum.net/v/20230416081301398</id>
-        <link href="https://v.daum.net/v/20230416081301398"/>
-        <updated>2023-04-16T00:51:30.850Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
