@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-16T13:11:22.354Z</updated>
+    <updated>2023-04-16T14:08:39.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘판도라’ 이지아 또 기억상실? 이상윤 주사 맞고 복수 잊었다]]></title>
+        <id>https://v.daum.net/v/20230416223843847</id>
+        <link href="https://v.daum.net/v/20230416223843847"/>
+        <updated>2023-04-16T14:08:27.752Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사경 헤매던 엄정화, 남편 김병철과 냉랭 분위기]]></title>
+        <id>https://v.daum.net/v/20230416221514701</id>
+        <link href="https://v.daum.net/v/20230416221514701"/>
+        <updated>2023-04-16T14:08:27.754Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백진희 “뱃속 아이 어쩔 거냐”, 안재현·차주영 결혼식서 폭탄발언]]></title>
         <id>https://v.daum.net/v/20230416213111301</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230416180245484"/>
         <updated>2023-04-16T09:10:06.943Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘닥터 차정숙’ 엄정화, 간이식 시급…‘개XX 남편’ 김병철에 현타]]></title>
-        <id>https://v.daum.net/v/20230416172220812</id>
-        <link href="https://v.daum.net/v/20230416172220812"/>
-        <updated>2023-04-16T09:10:06.948Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시' 시즌3 달린다.."배우·작가들과 논의 예정"]]></title>
-        <id>https://v.daum.net/v/20230416171132556</id>
-        <link href="https://v.daum.net/v/20230416171132556"/>
-        <updated>2023-04-16T09:10:06.949Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
