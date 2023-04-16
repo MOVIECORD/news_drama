@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-16T08:12:37.339Z</updated>
+    <updated>2023-04-16T09:10:18.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이순재, 손녀 옆에서 대성통곡…위엄 내려놨다]]></title>
+        <id>https://v.daum.net/v/20230416180245484</id>
+        <link href="https://v.daum.net/v/20230416180245484"/>
+        <updated>2023-04-16T09:10:06.943Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 ‘닥터 차정숙’ 엄정화, 간이식 시급…‘개XX 남편’ 김병철에 현타]]></title>
+        <id>https://v.daum.net/v/20230416172220812</id>
+        <link href="https://v.daum.net/v/20230416172220812"/>
+        <updated>2023-04-16T09:10:06.948Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모범택시' 시즌3 달린다.."배우·작가들과 논의 예정"]]></title>
+        <id>https://v.daum.net/v/20230416171132556</id>
+        <link href="https://v.daum.net/v/20230416171132556"/>
+        <updated>2023-04-16T09:10:06.949Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘 달렸다···'모범택시2', 반가운 시즌3 시동]]></title>
         <id>https://v.daum.net/v/20230416155106808</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230416134845152"/>
         <updated>2023-04-16T05:09:06.728Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 엄정화, 김병철 당황케한 선전포고 뭐길래]]></title>
-        <id>https://v.daum.net/v/20230416134315073</id>
-        <link href="https://v.daum.net/v/20230416134315073"/>
-        <updated>2023-04-16T05:09:06.728Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고 시청률로 종영…'모범택시2' 시즌3 제작할 수밖에]]></title>
-        <id>https://v.daum.net/v/20230416133945018</id>
-        <link href="https://v.daum.net/v/20230416133945018"/>
-        <updated>2023-04-16T05:09:06.738Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃선비 열애사' 측 "지금까지는 서막이었다"…2막 관전포인트 셋]]></title>
-        <id>https://v.daum.net/v/20230416132618782</id>
-        <link href="https://v.daum.net/v/20230416132618782"/>
-        <updated>2023-04-16T05:09:06.738Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
