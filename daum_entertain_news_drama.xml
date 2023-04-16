@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-16T15:10:48.629Z</updated>
+    <updated>2023-04-16T16:12:11.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제니 연기 데뷔작 ‘더 아이돌’, 칸 영화제 초청]]></title>
+        <id>https://v.daum.net/v/20230417003007340</id>
+        <link href="https://v.daum.net/v/20230417003007340"/>
+        <updated>2023-04-16T16:12:00.249Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시’ 다시 돌아온다…시즌3 확정]]></title>
+        <id>https://v.daum.net/v/20230417003005339</id>
+        <link href="https://v.daum.net/v/20230417003005339"/>
+        <updated>2023-04-16T16:12:00.252Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 전공의 시험 합격→의대 동기 명세빈 밑에 들어갔다]]></title>
+        <id>https://v.daum.net/v/20230417001924324</id>
+        <link href="https://v.daum.net/v/20230417001924324"/>
+        <updated>2023-04-16T16:12:00.253Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백진희 “누가 마음대로 결혼하래”, 안재현·차주영 결혼식장 난입]]></title>
         <id>https://v.daum.net/v/20230416235321117</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230416212621243"/>
         <updated>2023-04-16T13:11:10.727Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뱃속 아이는 어쩔 거냐고"…'진짜가' 백진희, 안재현♥차주영 결혼식 막았다]]></title>
-        <id>https://v.daum.net/v/20230416212523238</id>
-        <link href="https://v.daum.net/v/20230416212523238"/>
-        <updated>2023-04-16T13:11:10.728Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 강부자, 유재이 6개월 동거에 노발대발 "당장 가둬라"]]></title>
-        <id>https://v.daum.net/v/20230416205443973</id>
-        <link href="https://v.daum.net/v/20230416205443973"/>
-        <updated>2023-04-16T12:17:01.060Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 안재현, 백진희에 "애 아빠 되고 싶다" 사정]]></title>
-        <id>https://v.daum.net/v/20230416204003873</id>
-        <link href="https://v.daum.net/v/20230416204003873"/>
-        <updated>2023-04-16T12:17:01.076Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
