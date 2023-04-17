@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-17T20:11:40.062Z</updated>
+    <updated>2023-04-17T21:10:39.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘경조사비 200만 원’ 박군, 집 수리는 직접?.. 남편 고집에 한영 가출 선언]]></title>
+        <id>https://v.daum.net/v/20230418060200313</id>
+        <link href="https://v.daum.net/v/20230418060200313"/>
+        <updated>2023-04-17T21:09:36.018Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장혁, 국정원 상사 채정안 등장→신분 노출 위기]]></title>
+        <id>https://v.daum.net/v/20230418053002816</id>
+        <link href="https://v.daum.net/v/20230418053002816"/>
+        <updated>2023-04-17T21:09:36.023Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라, ♥장혁 이중생활 눈치챌까? '장혁 상사' 채정안 소환]]></title>
         <id>https://v.daum.net/v/20230417235026957</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230417203507164"/>
         <updated>2023-04-17T12:19:30.991Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['명랑소녀' 이후 21년 만..장혁x장나라 명불허전 로코 케미]]></title>
-        <id>https://v.daum.net/v/20230417202116026</id>
-        <link href="https://v.daum.net/v/20230417202116026"/>
-        <updated>2023-04-17T12:19:30.991Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 최윤영, 이채영 앞길 막았다 "네 뜻대로 안 돼"]]></title>
-        <id>https://v.daum.net/v/20230417201618959</id>
-        <link href="https://v.daum.net/v/20230417201618959"/>
-        <updated>2023-04-17T12:19:30.998Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
