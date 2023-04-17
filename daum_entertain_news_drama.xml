@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-17T04:12:57.735Z</updated>
+    <updated>2023-04-17T05:11:22.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신재하가 죽인 박종환 "'모범택시2' 사랑 받아 기뻐..문제의식 갖게 됐다"]]></title>
+        <id>https://v.daum.net/v/20230417140033374</id>
+        <link href="https://v.daum.net/v/20230417140033374"/>
+        <updated>2023-04-17T05:10:19.912Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장근석, 냉온 오가는 열연에 탁월한 심리 묘사까지]]></title>
+        <id>https://v.daum.net/v/20230417133256606</id>
+        <link href="https://v.daum.net/v/20230417133256606"/>
+        <updated>2023-04-17T05:10:19.917Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꽃선비 열애사’ 신예은X려운, 애달픈 간호 현장…울컥 포옹까지]]></title>
+        <id>https://v.daum.net/v/20230417132224384</id>
+        <link href="https://v.daum.net/v/20230417132224384"/>
+        <updated>2023-04-17T05:10:19.918Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모범택시2' 이제훈 "유재석·조세호 봤던 사이, '유퀴즈' 편하게 했어요"]]></title>
         <id>https://v.daum.net/v/20230417125320802</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230417115001626"/>
         <updated>2023-04-17T03:10:46.562Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈 "표예진 이상형 고백? 시즌3 염두에 둔 듯" ③]]></title>
-        <id>https://v.daum.net/v/20230417114346431</id>
-        <link href="https://v.daum.net/v/20230417114346431"/>
-        <updated>2023-04-17T03:10:46.562Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈 "연기대상? 기대 전혀 안해요!" ②]]></title>
-        <id>https://v.daum.net/v/20230417114332424</id>
-        <link href="https://v.daum.net/v/20230417114332424"/>
-        <updated>2023-04-17T03:10:46.566Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈 "버닝썬→JMS, 조심스러웠지만…" ①]]></title>
-        <id>https://v.daum.net/v/20230417114323422</id>
-        <link href="https://v.daum.net/v/20230417114323422"/>
-        <updated>2023-04-17T03:10:46.566Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
