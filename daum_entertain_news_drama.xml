@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-18T12:20:30.918Z</updated>
+    <updated>2023-04-18T13:15:25.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장나라, 장혁과 2세 만드나 싶더니...채정안과 오해 쌓여]]></title>
+        <id>https://v.daum.net/v/20230418221000001</id>
+        <link href="https://v.daum.net/v/20230418221000001"/>
+        <updated>2023-04-18T13:15:14.985Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장나라 "얼굴 천재 차은우" …단체 주문에 반색]]></title>
+        <id>https://v.daum.net/v/20230418215456742</id>
+        <link href="https://v.daum.net/v/20230418215456742"/>
+        <updated>2023-04-18T13:15:14.985Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뭉뜬 리턴즈' 촬영 중단? 신봉선 "여권 사라졌다" 비상]]></title>
+        <id>https://v.daum.net/v/20230418213548410</id>
+        <link href="https://v.daum.net/v/20230418213548410"/>
+        <updated>2023-04-18T13:15:14.986Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 장나라vs채정안, 살벌 신경전…눈물로 맞불 작전]]></title>
         <id>https://v.daum.net/v/20230418211326944</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230418195000351"/>
         <updated>2023-04-18T11:08:58.497Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, 이훈 아이 임신→남편 속이고 출산]]></title>
-        <id>https://v.daum.net/v/20230418193756031</id>
-        <link href="https://v.daum.net/v/20230418193756031"/>
-        <updated>2023-04-18T11:08:58.497Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주운전' 김새론 출연 강행?…"'사냥개들' 보고싶지 않아" 누리꾼 '싸늘']]></title>
-        <id>https://v.daum.net/v/20230418190104175</id>
-        <link href="https://v.daum.net/v/20230418190104175"/>
-        <updated>2023-04-18T10:11:01.621Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이게 성공인가요?"···칸 입성한 '몸값' 주역들의 설렘]]></title>
-        <id>https://v.daum.net/v/20230418181957127</id>
-        <link href="https://v.daum.net/v/20230418181957127"/>
-        <updated>2023-04-18T10:11:01.622Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
