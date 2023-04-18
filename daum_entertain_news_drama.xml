@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-18T03:11:48.311Z</updated>
+    <updated>2023-04-18T04:13:03.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장동윤♥설인아, 소파 위 애틋 투샷 “진심 재확인”]]></title>
+        <id>https://v.daum.net/v/20230418130728190</id>
+        <link href="https://v.daum.net/v/20230418130728190"/>
+        <updated>2023-04-18T04:12:01.401Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차승원, 장진 감독 드라마 '킬러들의 수다' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230418124045697</id>
+        <link href="https://v.daum.net/v/20230418124045697"/>
+        <updated>2023-04-18T04:12:01.402Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘청춘월담’ 윤종석 “조선의 엄친아役 위해 5㎏ 감량, 촬영중 외로워지기도”]]></title>
         <id>https://v.daum.net/v/20230418120815172</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230418103716513"/>
         <updated>2023-04-18T01:59:25.795Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채정안, 미모의 상사→장혁·장나라 '패밀리' 뒤흔든 악질 오부장]]></title>
-        <id>https://v.daum.net/v/20230418102657929</id>
-        <link href="https://v.daum.net/v/20230418102657929"/>
-        <updated>2023-04-18T01:59:25.798Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서, 남편 죽자 남편 동생과 결혼…'우씨왕후'로 첫 사극]]></title>
-        <id>https://v.daum.net/v/20230418102301692</id>
-        <link href="https://v.daum.net/v/20230418102301692"/>
-        <updated>2023-04-18T01:59:25.802Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
