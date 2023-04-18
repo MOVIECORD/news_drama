@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-18T08:13:54.218Z</updated>
+    <updated>2023-04-18T09:12:02.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차승원, 장진 감독 ‘킬러들의 수다’ 출연?…“제안받고 검토 중”]]></title>
+        <id>https://v.daum.net/v/20230418174257984</id>
+        <link href="https://v.daum.net/v/20230418174257984"/>
+        <updated>2023-04-18T09:10:59.769Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈이 밝힌 '모범택시2' 남궁민·김소연·문채원 비화]]></title>
+        <id>https://v.daum.net/v/20230418172423386</id>
+        <link href="https://v.daum.net/v/20230418172423386"/>
+        <updated>2023-04-18T09:10:59.773Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추성훈, 오늘 부친상 "비보 듣고 日 출국"]]></title>
+        <id>https://v.daum.net/v/20230418172419381</id>
+        <link href="https://v.daum.net/v/20230418172419381"/>
+        <updated>2023-04-18T09:10:59.773Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가면의 여왕' 김선아·오윤아·신은정·유선, 얽히고설킨 인연 시작]]></title>
         <id>https://v.daum.net/v/20230418165338329</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230418154249555"/>
         <updated>2023-04-18T07:11:06.681Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이채영·한기웅, 최윤영 덫에 걸릴까]]></title>
-        <id>https://v.daum.net/v/20230418153328065</id>
-        <link href="https://v.daum.net/v/20230418153328065"/>
-        <updated>2023-04-18T07:11:06.683Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG "차승원, 장진 감독 '킬러들의 수다' 드라마 출연? 검토 중"]]></title>
-        <id>https://v.daum.net/v/20230418152521692</id>
-        <link href="https://v.daum.net/v/20230418152521692"/>
-        <updated>2023-04-18T07:11:06.694Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이널 라운드 앞둔 ‘피크타임’ 톱6, 일산 스튜디오 '예열']]></title>
-        <id>https://v.daum.net/v/20230418151834376</id>
-        <link href="https://v.daum.net/v/20230418151834376"/>
-        <updated>2023-04-18T07:11:06.695Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
