@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-18T15:12:46.677Z</updated>
+    <updated>2023-04-18T16:12:38.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱포맨' 정대세 "새벽 귀가 후 말 없는 아내에 쫄았다"]]></title>
+        <id>https://v.daum.net/v/20230419001246183</id>
+        <link href="https://v.daum.net/v/20230419001246183"/>
+        <updated>2023-04-18T16:11:36.084Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스' 설인아, 장동윤 살인 누명 씌운 추영우 원망]]></title>
         <id>https://v.daum.net/v/20230418235831975</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230418205003439"/>
         <updated>2023-04-18T12:19:28.402Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 최윤영 "이채영, 거짓말에 발목 잡히겠지"]]></title>
-        <id>https://v.daum.net/v/20230418203601208</id>
-        <link href="https://v.daum.net/v/20230418203601208"/>
-        <updated>2023-04-18T12:19:28.404Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
