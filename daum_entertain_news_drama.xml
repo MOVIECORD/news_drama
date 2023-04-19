@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-19T16:13:20.506Z</updated>
+    <updated>2023-04-19T17:09:28.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백진희♥안재현, 계약 로맨스를 시작하기까지]]></title>
+        <id>https://v.daum.net/v/20230420020009619</id>
+        <link href="https://v.daum.net/v/20230420020009619"/>
+        <updated>2023-04-19T17:09:16.552Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동욱 비현실적 비주얼...'구미호 2'에 제대로 시선집중]]></title>
         <id>https://v.daum.net/v/20230420010530498</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230419182949259</id>
         <link href="https://v.daum.net/v/20230419182949259"/>
         <updated>2023-04-19T10:11:15.344Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 윤종석 "박형식 택한 전소니, 속상하면서도 이해돼"]]></title>
-        <id>https://v.daum.net/v/20230419182941258</id>
-        <link href="https://v.daum.net/v/20230419182941258"/>
-        <updated>2023-04-19T10:11:15.346Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
