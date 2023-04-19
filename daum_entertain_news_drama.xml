@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-19T15:10:53.015Z</updated>
+    <updated>2023-04-19T16:13:20.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱 비현실적 비주얼...'구미호 2'에 제대로 시선집중]]></title>
+        <id>https://v.daum.net/v/20230420010530498</id>
+        <link href="https://v.daum.net/v/20230420010530498"/>
+        <updated>2023-04-19T16:13:09.578Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동욱X진기주, 1987년 진실 파헤칠 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230420010007425</id>
+        <link href="https://v.daum.net/v/20230420010007425"/>
+        <updated>2023-04-19T16:13:09.585Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 이주우, 주원 이중 생활 밝혀낼까 '긴장']]></title>
         <id>https://v.daum.net/v/20230420000209086</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419182941258"/>
         <updated>2023-04-19T10:11:15.346Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘월담' 윤종석 "문무 능통한 '조선의 엄친아' 설정, 고민 多"]]></title>
-        <id>https://v.daum.net/v/20230419182934252</id>
-        <link href="https://v.daum.net/v/20230419182934252"/>
-        <updated>2023-04-19T10:11:15.347Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 백진희X안재현, 미혼모·비혼주의자의 운명적인 만남]]></title>
-        <id>https://v.daum.net/v/20230419182731202</id>
-        <link href="https://v.daum.net/v/20230419182731202"/>
-        <updated>2023-04-19T10:11:15.349Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
