@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-19T20:12:17.279Z</updated>
+    <updated>2023-04-19T21:10:05.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 김채은 “이제훈 먼저 다가와 조언 ‘나만 잘하면 돼’ 결심”]]></title>
+        <id>https://v.daum.net/v/20230420060843743</id>
+        <link href="https://v.daum.net/v/20230420060843743"/>
+        <updated>2023-04-19T21:09:02.877Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘모범택시2’ 윈디 김채은 “과분한 관심 감사, 터닝포인트 작품”]]></title>
+        <id>https://v.daum.net/v/20230420060655728</id>
+        <link href="https://v.daum.net/v/20230420060655728"/>
+        <updated>2023-04-19T21:09:02.878Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백진희♥안재현, 계약 로맨스를 시작하기까지]]></title>
         <id>https://v.daum.net/v/20230420020009619</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230419192159441</id>
         <link href="https://v.daum.net/v/20230419192159441"/>
         <updated>2023-04-19T11:08:36.642Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이단 감독 "시즌제 반가운 일, 못다한 이야기 기약해요"]]></title>
-        <id>https://v.daum.net/v/20230419183028284</id>
-        <link href="https://v.daum.net/v/20230419183028284"/>
-        <updated>2023-04-19T10:11:15.337Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종석 "즐겁고 행복했던 '청춘월담',  과정의 가치 알려줘"]]></title>
-        <id>https://v.daum.net/v/20230419182949259</id>
-        <link href="https://v.daum.net/v/20230419182949259"/>
-        <updated>2023-04-19T10:11:15.344Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
