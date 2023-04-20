@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-20T15:10:30.888Z</updated>
+    <updated>2023-04-20T16:14:22.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백진희, 안재현·차주영 결혼식장 난입…베스트 엔딩4]]></title>
+        <id>https://v.daum.net/v/20230421010007827</id>
+        <link href="https://v.daum.net/v/20230421010007827"/>
+        <updated>2023-04-20T16:13:19.066Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 주원, 조한철X이주우 손잡았다]]></title>
+        <id>https://v.daum.net/v/20230421001419652</id>
+        <link href="https://v.daum.net/v/20230421001419652"/>
+        <updated>2023-04-20T16:13:19.066Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['몸값', 칸 시리즈 각본상으로 증명한 K콘텐츠 몸값 현주소]]></title>
         <id>https://v.daum.net/v/20230421000526593</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420193121808"/>
         <updated>2023-04-20T11:09:26.503Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희X안재현, 미혼모와 비혼주의자의 계약 결혼]]></title>
-        <id>https://v.daum.net/v/20230420182014014</id>
-        <link href="https://v.daum.net/v/20230420182014014"/>
-        <updated>2023-04-20T10:11:12.376Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다' 엔딩 맛집이 여기있네! 시청자 마음 저격 베스트 #4]]></title>
-        <id>https://v.daum.net/v/20230420181830970</id>
-        <link href="https://v.daum.net/v/20230420181830970"/>
-        <updated>2023-04-20T10:11:12.378Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
