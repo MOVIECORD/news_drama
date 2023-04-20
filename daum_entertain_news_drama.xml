@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-20T21:09:58.835Z</updated>
+    <updated>2023-04-20T22:10:29.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 주원, 조한철X이주우 손잡았다…스컹크 정체 고백]]></title>
+        <id>https://v.daum.net/v/20230421065003298</id>
+        <link href="https://v.daum.net/v/20230421065003298"/>
+        <updated>2023-04-20T22:09:21.369Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘몸값’ 칸 시리즈 각본상…韓 드라마 첫 수상 영예]]></title>
+        <id>https://v.daum.net/v/20230421063010105</id>
+        <link href="https://v.daum.net/v/20230421063010105"/>
+        <updated>2023-04-20T22:09:21.371Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['몸값' 전우성 감독, 韓 최초 역사…토종 OTT로 글로벌 성과]]></title>
+        <id>https://v.daum.net/v/20230421063005097</id>
+        <link href="https://v.daum.net/v/20230421063005097"/>
+        <updated>2023-04-20T22:09:21.371Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['흐르다' 이설 "난 여전히 취준생…30대 되고 마음가짐 달라졌죠"]]></title>
         <id>https://v.daum.net/v/20230421060109724</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230420200846619"/>
         <updated>2023-04-20T11:09:26.458Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영, 이선호의 이슬아 존재 언급에…"알지도 못하고 본 적 없어"]]></title>
-        <id>https://v.daum.net/v/20230420200617577</id>
-        <link href="https://v.daum.net/v/20230420200617577"/>
-        <updated>2023-04-20T11:09:26.459Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김시하 괴롭히는 김태연 "저건 네가 깬 거야"]]></title>
-        <id>https://v.daum.net/v/20230420195217204</id>
-        <link href="https://v.daum.net/v/20230420195217204"/>
-        <updated>2023-04-20T11:09:26.495Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 김시하, 조은숙 품으로...비정한 친부 김유석과 재회]]></title>
-        <id>https://v.daum.net/v/20230420193801920</id>
-        <link href="https://v.daum.net/v/20230420193801920"/>
-        <updated>2023-04-20T11:09:26.501Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
