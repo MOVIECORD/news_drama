@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-20T06:15:03.265Z</updated>
+    <updated>2023-04-20T07:10:30.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새단장 ‘맛있는 녀석들’… 이수지 “시어머니, 빨리 나으시길” 눈물]]></title>
+        <id>https://v.daum.net/v/20230420151724725</id>
+        <link href="https://v.daum.net/v/20230420151724725"/>
+        <updated>2023-04-20T07:10:20.790Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유인나, 돌발 행동…아찔한 만취 스피치]]></title>
         <id>https://v.daum.net/v/20230420144707411</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230420113427449"/>
         <updated>2023-04-20T03:10:45.763Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙 '운수 오진 날'·'우씨왕후', 파라마운트+에서도 본다]]></title>
-        <id>https://v.daum.net/v/20230420112959243</id>
-        <link href="https://v.daum.net/v/20230420112959243"/>
-        <updated>2023-04-20T02:33:23.488Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
