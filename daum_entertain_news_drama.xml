@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-20T03:10:57.010Z</updated>
+    <updated>2023-04-20T04:12:40.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 제작진 “우도환 복수, 회 거듭할수록 높은 곳 겨냥”]]></title>
+        <id>https://v.daum.net/v/20230420122545022</id>
+        <link href="https://v.daum.net/v/20230420122545022"/>
+        <updated>2023-04-20T04:12:28.973Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주원, '스틸러' 없었으면 어쩔 뻔..변화무쌍 연기장인]]></title>
+        <id>https://v.daum.net/v/20230420122123954</id>
+        <link href="https://v.daum.net/v/20230420122123954"/>
+        <updated>2023-04-20T04:12:28.974Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 김유석 버린 딸 김시하, 모두를 놀라게 할 대형사고]]></title>
         <id>https://v.daum.net/v/20230420120755770</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420104308034"/>
         <updated>2023-04-20T01:59:54.688Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“돌담져스 총출동”..‘낭만닥터 김사부3’, 17人 메인 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20230420103919917</id>
-        <link href="https://v.daum.net/v/20230420103919917"/>
-        <updated>2023-04-20T01:59:54.690Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김서형, 프랑스 칸 사로잡은 섬세+격정 연기…핑크카펫서 카리스마]]></title>
-        <id>https://v.daum.net/v/20230420101701006</id>
-        <link href="https://v.daum.net/v/20230420101701006"/>
-        <updated>2023-04-20T01:59:54.691Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
