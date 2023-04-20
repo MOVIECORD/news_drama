@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-20T22:10:29.223Z</updated>
+    <updated>2023-04-20T23:10:38.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘진짜가 나타났다’ 차주영, 웨딩드레스 입은 채 망연자실]]></title>
+        <id>https://v.daum.net/v/20230421080359401</id>
+        <link href="https://v.daum.net/v/20230421080359401"/>
+        <updated>2023-04-20T23:10:28.443Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['방과 후 전쟁활동', 파트2 공개 D-Day...3학년 2소대 해맑은 미소 ‘뭉클’]]></title>
+        <id>https://v.daum.net/v/20230421074556017</id>
+        <link href="https://v.daum.net/v/20230421074556017"/>
+        <updated>2023-04-20T23:10:28.454Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘홍김동전’ 조세호·주우재, 냉온탕 넘나든 ‘심장 쫄깃’ 소개팅]]></title>
+        <id>https://v.daum.net/v/20230421073600865</id>
+        <link href="https://v.daum.net/v/20230421073600865"/>
+        <updated>2023-04-20T23:10:28.455Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 주원, 조한철X이주우 손잡았다…스컹크 정체 고백]]></title>
         <id>https://v.daum.net/v/20230421065003298</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230420205008348"/>
         <updated>2023-04-20T12:18:16.489Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나, 인생 최대 흑역사..대환장 파티]]></title>
-        <id>https://v.daum.net/v/20230420204215243</id>
-        <link href="https://v.daum.net/v/20230420204215243"/>
-        <updated>2023-04-20T12:18:16.489Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 방은희, 한기웅X이채영 불륜에 충격 "인간의 탈을 쓰고..."]]></title>
-        <id>https://v.daum.net/v/20230420203200053</id>
-        <link href="https://v.daum.net/v/20230420203200053"/>
-        <updated>2023-04-20T12:18:16.490Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이채영, 이선호 추궁에 거짓말 "본 적도 없다"]]></title>
-        <id>https://v.daum.net/v/20230420200846619</id>
-        <link href="https://v.daum.net/v/20230420200846619"/>
-        <updated>2023-04-20T11:09:26.458Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
