@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-21T06:13:27.836Z</updated>
+    <updated>2023-04-21T07:10:06.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조민규 ‘조선변호사’로 첫 사극 도전, 최무성 아들 된다]]></title>
+        <id>https://v.daum.net/v/20230421155301677</id>
+        <link href="https://v.daum.net/v/20230421155301677"/>
+        <updated>2023-04-21T07:09:55.787Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진기주→서지혜, 파란만장 1987년 여고생]]></title>
         <id>https://v.daum.net/v/20230421145228697</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230421114706163"/>
         <updated>2023-04-21T03:10:43.142Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송민지, 파티 망친 유인나에 분노 "이렇게 엿을 먹여?"]]></title>
-        <id>https://v.daum.net/v/20230421114010926</id>
-        <link href="https://v.daum.net/v/20230421114010926"/>
-        <updated>2023-04-21T03:10:43.148Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
