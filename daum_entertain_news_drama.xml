@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-21T09:10:28.733Z</updated>
+    <updated>2023-04-21T10:10:38.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보라미유, '조선변호사' OST 세 번째 주자…'우린 다시 봄' 발매]]></title>
+        <id>https://v.daum.net/v/20230421182015706</id>
+        <link href="https://v.daum.net/v/20230421182015706"/>
+        <updated>2023-04-21T10:10:27.832Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진기주, 타임머신 타고 1987년 도착…우정고 여고생 스토리]]></title>
         <id>https://v.daum.net/v/20230421180526275</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230421145228697"/>
         <updated>2023-04-21T06:13:16.845Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김보라, 청춘 로코 컴백..장동윤x이주명 '모래에도 꽃이 핀다' 합류]]></title>
-        <id>https://v.daum.net/v/20230421145024637</id>
-        <link href="https://v.daum.net/v/20230421145024637"/>
-        <updated>2023-04-21T06:13:16.845Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
