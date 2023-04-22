@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-22T13:12:13.345Z</updated>
+    <updated>2023-04-22T14:09:19.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['진짜가' 안재현♥백진희, 위장 결혼 시작…차주영 상견례 등장 '충격']]></title>
+        <id>https://v.daum.net/v/20230422225002797</id>
+        <link href="https://v.daum.net/v/20230422225002797"/>
+        <updated>2023-04-22T14:09:07.395Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘판도라’ 이지아, 이상윤 살리고 대신 장희진 총 맞았다]]></title>
+        <id>https://v.daum.net/v/20230422224304778</id>
+        <link href="https://v.daum.net/v/20230422224304778"/>
+        <updated>2023-04-22T14:09:07.396Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['진짜가' 강부자, 안재현 결혼식서 난동부린 백진희에 "꽃뱀이냐"]]></title>
         <id>https://v.daum.net/v/20230422220326592</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230422150453626"/>
         <updated>2023-04-22T06:12:17.795Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희X안재현, 양가 상견례? 차주영 등장에 '깜짝']]></title>
-        <id>https://v.daum.net/v/20230422145904527</id>
-        <link href="https://v.daum.net/v/20230422145904527"/>
-        <updated>2023-04-22T06:12:17.799Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱·진기주→서지혜·이원정, '어마그'가 기대되는 이유]]></title>
-        <id>https://v.daum.net/v/20230422145553502</id>
-        <link href="https://v.daum.net/v/20230422145553502"/>
-        <updated>2023-04-22T06:12:17.814Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
