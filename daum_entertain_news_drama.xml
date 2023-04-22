@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-22T03:10:59.888Z</updated>
+    <updated>2023-04-22T04:12:03.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘퀸메이커’ 김희애, 실크 목줄을 끊다]]></title>
+        <id>https://v.daum.net/v/20230422130002441</id>
+        <link href="https://v.daum.net/v/20230422130002441"/>
+        <updated>2023-04-22T04:11:52.963Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘가면의 여왕’ 측 “김선아→유선, 첫 촬영부터 완벽한 연기 앙상블”]]></title>
+        <id>https://v.daum.net/v/20230422123518326</id>
+        <link href="https://v.daum.net/v/20230422123518326"/>
+        <updated>2023-04-22T04:11:52.965Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허정희 ‘아일랜드’로 칸 시리즈 참석 “꿈의 무대와 같은 곳, 영광”]]></title>
         <id>https://v.daum.net/v/20230422110355521</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230422081301714</id>
         <link href="https://v.daum.net/v/20230422081301714"/>
         <updated>2023-04-22T00:48:29.589Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 우도환·김지연, 핑크빛 마음 확인→자객에 습격 위기]]></title>
-        <id>https://v.daum.net/v/20230422081201710</id>
-        <link href="https://v.daum.net/v/20230422081201710"/>
-        <updated>2023-04-22T00:48:29.591Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너 만나고 변했어" 우도환♥김지연…마음 확인하자마자 자객 습격]]></title>
-        <id>https://v.daum.net/v/20230422080101613</id>
-        <link href="https://v.daum.net/v/20230422080101613"/>
-        <updated>2023-04-21T23:10:03.609Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
