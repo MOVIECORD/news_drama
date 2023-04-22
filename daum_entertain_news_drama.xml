@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-22T21:08:41.112Z</updated>
+    <updated>2023-04-22T22:08:55.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민우혁, 엄정화와 묘한 기류?…”언제 이혼할 거냐” 돌직구]]></title>
+        <id>https://v.daum.net/v/20230423065528691</id>
+        <link href="https://v.daum.net/v/20230423065528691"/>
+        <updated>2023-04-22T22:08:45.766Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시아, 김동준과 부부 된다..'고려거란전쟁' 원정왕후 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230423064001574</id>
+        <link href="https://v.daum.net/v/20230423064001574"/>
+        <updated>2023-04-22T22:08:45.768Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“원나잇 혼전임신” 백진희♥안재현, 가짜 결혼 입 맞췄다]]></title>
         <id>https://v.daum.net/v/20230423060312175</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230423002629371"/>
         <updated>2023-04-22T16:11:48.553Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레지던트 된 엄정화, ♥김병철과 관계 숨기려 “남편 죽어” 거짓말]]></title>
-        <id>https://v.daum.net/v/20230422235132149</id>
-        <link href="https://v.daum.net/v/20230422235132149"/>
-        <updated>2023-04-22T15:10:07.383Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘차정숙’ 엄정화, 김병철과 관계 제대로 감췄다 “내 남편은 고인”]]></title>
-        <id>https://v.daum.net/v/20230422234500097</id>
-        <link href="https://v.daum.net/v/20230422234500097"/>
-        <updated>2023-04-22T15:10:07.384Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
