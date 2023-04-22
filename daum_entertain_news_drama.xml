@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-22T07:09:33.231Z</updated>
+    <updated>2023-04-22T08:12:22.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 우도환 여동생 한소은, 오늘 첫 등장 “복수 기대해주길”]]></title>
+        <id>https://v.daum.net/v/20230422165518923</id>
+        <link href="https://v.daum.net/v/20230422165518923"/>
+        <updated>2023-04-22T08:12:10.526Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의아저씨' OST 불렀던 손디아..엄정화 '닥터 차정숙' Part.2 가창]]></title>
         <id>https://v.daum.net/v/20230422160245327</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230422133623721"/>
         <updated>2023-04-22T05:09:59.410Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘어쩌다 마주친 그대’ 비하인드컷, 김동욱→진기주 초집중 모드]]></title>
-        <id>https://v.daum.net/v/20230422133502710</id>
-        <link href="https://v.daum.net/v/20230422133502710"/>
-        <updated>2023-04-22T05:09:59.427Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
