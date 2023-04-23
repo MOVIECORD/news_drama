@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-23T00:54:12.222Z</updated>
+    <updated>2023-04-23T02:12:35.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우도환, 서늘한 얼굴 뒤 다채로운 매력]]></title>
+        <id>https://v.daum.net/v/20230423104521264</id>
+        <link href="https://v.daum.net/v/20230423104521264"/>
+        <updated>2023-04-23T02:11:32.684Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘꽃선비 열애사’ 측 “이설 찾기 키맨 이준혁 행보 주목”]]></title>
+        <id>https://v.daum.net/v/20230423102228910</id>
+        <link href="https://v.daum.net/v/20230423102228910"/>
+        <updated>2023-04-23T02:11:32.686Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마침내 '빛 발한' 신재하 "본명으로 불리는 것 처음"]]></title>
+        <id>https://v.daum.net/v/20230423101801840</id>
+        <link href="https://v.daum.net/v/20230423101801840"/>
+        <updated>2023-04-23T02:11:32.688Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 돌아온 한석규 명언에 쏟아지는 기대]]></title>
+        <id>https://v.daum.net/v/20230423100859683</id>
+        <link href="https://v.daum.net/v/20230423100859683"/>
+        <updated>2023-04-23T02:11:32.691Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한석규의 '촌철살인' 명대사 TOP7 모아보기]]></title>
+        <id>https://v.daum.net/v/20230423100301581</id>
+        <link href="https://v.daum.net/v/20230423100301581"/>
+        <updated>2023-04-23T02:11:32.693Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가면의 여왕’ 측 “10년 전 살인사건 전말, 첫회부터 휘몰아친다”]]></title>
         <id>https://v.daum.net/v/20230423094830320</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230423083320465"/>
         <updated>2023-04-23T00:53:59.529Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다', 土 방송도 첫 20% 돌파]]></title>
-        <id>https://v.daum.net/v/20230423083304461</id>
-        <link href="https://v.daum.net/v/20230423083304461"/>
-        <updated>2023-04-23T00:53:59.533Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김채은 "'모범택시2', 전환점…잔상 남는 배우 목표"]]></title>
-        <id>https://v.daum.net/v/20230423083012435</id>
-        <link href="https://v.daum.net/v/20230423083012435"/>
-        <updated>2023-04-23T00:53:59.533Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 김채은 "다이어트 열심히...시즌3? 나오고 싶은데"]]></title>
-        <id>https://v.daum.net/v/20230423083008433</id>
-        <link href="https://v.daum.net/v/20230423083008433"/>
-        <updated>2023-04-23T00:53:59.535Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 김채은 "이제훈, 먼저 다가와 조언…감동"]]></title>
-        <id>https://v.daum.net/v/20230423083004428</id>
-        <link href="https://v.daum.net/v/20230423083004428"/>
-        <updated>2023-04-23T00:53:59.544Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 백진희·안재현 가짜부부 합의→차주영 경악..20% 돌파]]></title>
-        <id>https://v.daum.net/v/20230423082829413</id>
-        <link href="https://v.daum.net/v/20230423082829413"/>
-        <updated>2023-04-23T00:53:59.546Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
