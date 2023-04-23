@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-23T07:09:58.917Z</updated>
+    <updated>2023-04-23T08:12:42.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[견미리 야구방망이로…실체 충격, “더러운 피로 감히”]]></title>
+        <id>https://v.daum.net/v/20230423165723434</id>
+        <link href="https://v.daum.net/v/20230423165723434"/>
+        <updated>2023-04-23T08:12:32.022Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아 총 맞았다→견미리 실체 사악했네]]></title>
         <id>https://v.daum.net/v/20230423160037441</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230423100859683"/>
         <updated>2023-04-23T02:11:32.691Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석규의 '촌철살인' 명대사 TOP7 모아보기]]></title>
-        <id>https://v.daum.net/v/20230423100301581</id>
-        <link href="https://v.daum.net/v/20230423100301581"/>
-        <updated>2023-04-23T02:11:32.693Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
