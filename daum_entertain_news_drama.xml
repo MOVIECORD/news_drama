@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-23T02:12:35.092Z</updated>
+    <updated>2023-04-23T03:11:31.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘진짜가 나타났다’ 백진희-안재현, 가짜 부부 속 상견례 현장에 차주영 등장]]></title>
+        <id>https://v.daum.net/v/20230423111201749</id>
+        <link href="https://v.daum.net/v/20230423111201749"/>
+        <updated>2023-04-23T03:10:28.684Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우도환, 서늘한 얼굴 뒤 다채로운 매력]]></title>
         <id>https://v.daum.net/v/20230423104521264</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230423083719497</id>
         <link href="https://v.daum.net/v/20230423083719497"/>
         <updated>2023-04-23T00:53:59.528Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아X오윤아X신은정X유선, 핏빛 브라이덜샤워]]></title>
-        <id>https://v.daum.net/v/20230423083320465</id>
-        <link href="https://v.daum.net/v/20230423083320465"/>
-        <updated>2023-04-23T00:53:59.529Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
