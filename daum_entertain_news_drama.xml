@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-24T19:08:35.416Z</updated>
+    <updated>2023-04-24T20:13:46.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 려운, 신예은에 "너 없이는 아무것도 이룰 수 없어"…입맞춤으로 진심 고백]]></title>
+        <id>https://v.daum.net/v/20230425041501611</id>
+        <link href="https://v.daum.net/v/20230425041501611"/>
+        <updated>2023-04-24T20:12:44.615Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백현·거미·도영·승관, '낭만닥터 김사부3' OST로 뭉쳤다]]></title>
         <id>https://v.daum.net/v/20230425040030496</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230424194930976"/>
         <updated>2023-04-24T11:09:50.718Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 조은숙, 김시하 지키려 애원 "전부 드리겠다"]]></title>
-        <id>https://v.daum.net/v/20230424194148834</id>
-        <link href="https://v.daum.net/v/20230424194148834"/>
-        <updated>2023-04-24T11:09:50.718Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
