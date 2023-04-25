@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T09:10:22.544Z</updated>
+    <updated>2023-04-25T10:10:50.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김철윤, ‘낭만닥터 김사부3’ 출연..한석규 만난다]]></title>
+        <id>https://v.daum.net/v/20230425183232745</id>
+        <link href="https://v.daum.net/v/20230425183232745"/>
+        <updated>2023-04-25T10:10:39.847Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘꽃선비 열애사’ 신예은, 려운 지도 받아 활시위 잡았다..위험 빠지기 전 특단의 조치]]></title>
         <id>https://v.daum.net/v/20230425180523896</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425164347774"/>
         <updated>2023-04-25T08:12:52.111Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['박하경 여행기' 이종필 감독 "이나영, 자연스러운 연기 최고...'박하경' 그 자체"]]></title>
-        <id>https://v.daum.net/v/20230425163847524</id>
-        <link href="https://v.daum.net/v/20230425163847524"/>
-        <updated>2023-04-25T08:12:52.112Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
