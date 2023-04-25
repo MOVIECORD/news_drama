@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T15:11:58.730Z</updated>
+    <updated>2023-04-25T16:13:27.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오아시스', 장동윤X설인아 복수 성공→추영우와 화해]]></title>
+        <id>https://v.daum.net/v/20230426001446345</id>
+        <link href="https://v.daum.net/v/20230426001446345"/>
+        <updated>2023-04-25T16:13:17.028Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 감독 "장혁X장나라 호흡 기대 이상..더할 나위 없이 든든"]]></title>
         <id>https://v.daum.net/v/20230425234336918</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425194016207"/>
         <updated>2023-04-25T11:08:35.216Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희 이런 모습 처음…카지노 씹어먹네]]></title>
-        <id>https://v.daum.net/v/20230425192114785</id>
-        <link href="https://v.daum.net/v/20230425192114785"/>
-        <updated>2023-04-25T11:08:35.216Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
