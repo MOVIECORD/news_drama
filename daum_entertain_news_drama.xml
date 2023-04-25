@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T22:09:39.609Z</updated>
+    <updated>2023-04-25T23:10:24.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[려운·정건주, 서로 정체 알았다..진짜vs가짜 맞대면 엔딩]]></title>
+        <id>https://v.daum.net/v/20230426080908870</id>
+        <link href="https://v.daum.net/v/20230426080908870"/>
+        <updated>2023-04-25T23:10:11.771Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시청률 9.7% 종영' 설인아 "잔잔한 '오아시스'처럼 남기를"]]></title>
+        <id>https://v.daum.net/v/20230426080901858</id>
+        <link href="https://v.daum.net/v/20230426080901858"/>
+        <updated>2023-04-25T23:10:11.777Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가면의 여왕' 김선아·오윤아, 전진기 땅 걸고 욕망 전쟁…충격+반전 전개]]></title>
+        <id>https://v.daum.net/v/20230426075654560</id>
+        <link href="https://v.daum.net/v/20230426075654560"/>
+        <updated>2023-04-25T23:10:11.778Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 장혁, 브루노 킬러 정체 알고 '충격']]></title>
         <id>https://v.daum.net/v/20230426070036567</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230425224603467"/>
         <updated>2023-04-25T14:09:23.133Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['패밀리' 울프에게 총을 쏜 여인의 실체는...설마 장나라?]]></title>
-        <id>https://v.daum.net/v/20230425221800091</id>
-        <link href="https://v.daum.net/v/20230425221800091"/>
-        <updated>2023-04-25T14:09:23.135Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현, '더 글로리'→'나쁜엄마'로 인생캐 경신할까]]></title>
-        <id>https://v.daum.net/v/20230425215448767</id>
-        <link href="https://v.daum.net/v/20230425215448767"/>
-        <updated>2023-04-25T13:13:27.025Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤영, 계획 성공…한기웅, 이채영 과거 알았다]]></title>
-        <id>https://v.daum.net/v/20230425215007682</id>
-        <link href="https://v.daum.net/v/20230425215007682"/>
-        <updated>2023-04-25T13:13:27.027Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
