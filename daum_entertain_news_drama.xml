@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T20:11:38.770Z</updated>
+    <updated>2023-04-25T21:10:04.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오아시스’ 촌스러움의 미학, 시대극으로 선방한 KBS]]></title>
+        <id>https://v.daum.net/v/20230426060106717</id>
+        <link href="https://v.daum.net/v/20230426060106717"/>
+        <updated>2023-04-25T21:09:52.602Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜엄마’ 칼춤 망나니→라미란 아들, 이도현 인생캐 경신할까]]></title>
+        <id>https://v.daum.net/v/20230426055905518</id>
+        <link href="https://v.daum.net/v/20230426055905518"/>
+        <updated>2023-04-25T21:09:52.604Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오아시스', 장동윤X설인아 복수 성공→추영우와 화해]]></title>
         <id>https://v.daum.net/v/20230426001446345</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230425201357938</id>
         <link href="https://v.daum.net/v/20230425201357938"/>
         <updated>2023-04-25T12:19:06.296Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 심이영 이어 조은숙까지... 이번엔 뺑소니 살인]]></title>
-        <id>https://v.daum.net/v/20230425194700333</id>
-        <link href="https://v.daum.net/v/20230425194700333"/>
-        <updated>2023-04-25T11:08:35.215Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 친딸 김시하 입양 소식에 '충격']]></title>
-        <id>https://v.daum.net/v/20230425194016207</id>
-        <link href="https://v.daum.net/v/20230425194016207"/>
-        <updated>2023-04-25T11:08:35.216Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
