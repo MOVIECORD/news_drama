@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T11:08:45.525Z</updated>
+    <updated>2023-04-25T12:19:17.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정빈, 사극→현대극 넘나드는 반전 매력]]></title>
+        <id>https://v.daum.net/v/20230425211803148</id>
+        <link href="https://v.daum.net/v/20230425211803148"/>
+        <updated>2023-04-25T12:19:06.281Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 한기웅, 이채영 과거 알았다 "이선호와 무슨 사이야"]]></title>
+        <id>https://v.daum.net/v/20230425204220472</id>
+        <link href="https://v.daum.net/v/20230425204220472"/>
+        <updated>2023-04-25T12:19:06.286Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최윤영, 한기웅 흔들기 시작…"한 여자로 만족할 인간 아냐"]]></title>
+        <id>https://v.daum.net/v/20230425202008035</id>
+        <link href="https://v.daum.net/v/20230425202008035"/>
+        <updated>2023-04-25T12:19:06.287Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 이채영, 이선호 비밀 폭로 "회사에 전과자 있다"]]></title>
+        <id>https://v.daum.net/v/20230425201611978</id>
+        <link href="https://v.daum.net/v/20230425201611978"/>
+        <updated>2023-04-25T12:19:06.295Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 조은숙 야반도주 분노 "배은망덕한 것"]]></title>
+        <id>https://v.daum.net/v/20230425201357938</id>
+        <link href="https://v.daum.net/v/20230425201357938"/>
+        <updated>2023-04-25T12:19:06.296Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 심이영 이어 조은숙까지... 이번엔 뺑소니 살인]]></title>
         <id>https://v.daum.net/v/20230425194700333</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230425173649891"/>
         <updated>2023-04-25T09:10:11.361Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거래' 유승호·김동휘·유수빈 "친구 납치한 소재, 신선함에 이끌려"]]></title>
-        <id>https://v.daum.net/v/20230425173035716</id>
-        <link href="https://v.daum.net/v/20230425173035716"/>
-        <updated>2023-04-25T09:10:11.362Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["투자 재검토"…웨이브의 가성비 전략 '피의 게임2'→'박하경 여행기']]></title>
-        <id>https://v.daum.net/v/20230425171106079</id>
-        <link href="https://v.daum.net/v/20230425171106079"/>
-        <updated>2023-04-25T08:12:52.093Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이나영 '박하경 여행기', 구교환→한예리 특출과 꾸미는 각양각색 케미]]></title>
-        <id>https://v.daum.net/v/20230425170030603</id>
-        <link href="https://v.daum.net/v/20230425170030603"/>
-        <updated>2023-04-25T08:12:52.102Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'날 것'의 연기, 해보고 싶었다"…유승호, 동창생 납치범 됐다]]></title>
-        <id>https://v.daum.net/v/20230425165401226</id>
-        <link href="https://v.daum.net/v/20230425165401226"/>
-        <updated>2023-04-25T08:12:52.102Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범 웰컴백, 마적단 두목→모던보이 비주얼 난리]]></title>
-        <id>https://v.daum.net/v/20230425165339210</id>
-        <link href="https://v.daum.net/v/20230425165339210"/>
-        <updated>2023-04-25T08:12:52.105Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
