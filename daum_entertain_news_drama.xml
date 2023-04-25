@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T14:10:25.538Z</updated>
+    <updated>2023-04-25T15:11:58.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 감독 "장혁X장나라 호흡 기대 이상..더할 나위 없이 든든"]]></title>
+        <id>https://v.daum.net/v/20230425234336918</id>
+        <link href="https://v.daum.net/v/20230425234336918"/>
+        <updated>2023-04-25T15:10:55.791Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오아시스' 설인아, 추영우에 경고 "장동윤 지킬 것"]]></title>
+        <id>https://v.daum.net/v/20230425232518782</id>
+        <link href="https://v.daum.net/v/20230425232518782"/>
+        <updated>2023-04-25T15:10:55.795Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 장혁♥장나라, 이순재 재혼 찬성…"불효자 되고 싶지 않아"]]></title>
         <id>https://v.daum.net/v/20230425225002490</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230425192114785"/>
         <updated>2023-04-25T11:08:35.216Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김철윤, ‘낭만닥터 김사부3’ 출연..한석규 만난다]]></title>
-        <id>https://v.daum.net/v/20230425183232745</id>
-        <link href="https://v.daum.net/v/20230425183232745"/>
-        <updated>2023-04-25T10:10:39.847Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘꽃선비 열애사’ 신예은, 려운 지도 받아 활시위 잡았다..위험 빠지기 전 특단의 조치]]></title>
-        <id>https://v.daum.net/v/20230425180523896</id>
-        <link href="https://v.daum.net/v/20230425180523896"/>
-        <updated>2023-04-25T09:10:11.347Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
