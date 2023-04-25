@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-25T03:11:41.060Z</updated>
+    <updated>2023-04-25T04:13:01.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오아시스’ 간첩으로 몰린 장동윤, 설인아와 비밀리 복수 실행]]></title>
+        <id>https://v.daum.net/v/20230425122729865</id>
+        <link href="https://v.daum.net/v/20230425122729865"/>
+        <updated>2023-04-25T04:11:59.168Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사말’ 감독 “김영광, 이성경 바라보는 눈빛 변해‥실제론 형제 케미”]]></title>
+        <id>https://v.daum.net/v/20230425122556852</id>
+        <link href="https://v.daum.net/v/20230425122556852"/>
+        <updated>2023-04-25T04:11:59.169Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 서세원 사망 의혹…"병원 진상 규명이 먼저, 대사관 도움 요청"]]></title>
+        <id>https://v.daum.net/v/20230425121806731</id>
+        <link href="https://v.daum.net/v/20230425121806731"/>
+        <updated>2023-04-25T04:11:59.170Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱X진기주, 1987년에 갇혔다]]></title>
         <id>https://v.daum.net/v/20230425114251524</id>
@@ -27,7 +48,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비로소 손잡은 '스틸러', 팀플레이는 이제 시작]]></title>
+        <title type="html"><![CDATA[비로소 손잡은 '스틸러', 팀플레이는 이제야 시작]]></title>
         <id>https://v.daum.net/v/20230425113420133</id>
         <link href="https://v.daum.net/v/20230425113420133"/>
         <updated>2023-04-25T03:10:38.754Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230425104117549"/>
         <updated>2023-04-25T02:02:47.299Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주부 된 장나라, '고백부부' 내공 '패밀리'에서 터졌다]]></title>
-        <id>https://v.daum.net/v/20230425103717365</id>
-        <link href="https://v.daum.net/v/20230425103717365"/>
-        <updated>2023-04-25T02:02:47.302Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라, 역시는 역시.. 감정 밀도차 호연]]></title>
-        <id>https://v.daum.net/v/20230425103638335</id>
-        <link href="https://v.daum.net/v/20230425103638335"/>
-        <updated>2023-04-25T02:02:47.304Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3', 3년만의 귀환…무엇이 달라졌나 '시청포인트 셋']]></title>
-        <id>https://v.daum.net/v/20230425103637334</id>
-        <link href="https://v.daum.net/v/20230425103637334"/>
-        <updated>2023-04-25T02:02:47.305Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
