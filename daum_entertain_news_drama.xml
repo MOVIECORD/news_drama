@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-26T14:10:48.294Z</updated>
+    <updated>2023-04-26T15:12:03.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 최무성, 돼지농장 지키려는 조진웅 살해]]></title>
+        <id>https://v.daum.net/v/20230426235733264</id>
+        <link href="https://v.daum.net/v/20230426235733264"/>
+        <updated>2023-04-26T15:11:51.023Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 안은진 사고로 수능 포기…라미란, "왜 인생 망쳐" 분노]]></title>
+        <id>https://v.daum.net/v/20230426234552113</id>
+        <link href="https://v.daum.net/v/20230426234552113"/>
+        <updated>2023-04-26T15:11:51.025Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조진웅, ♥라미란과 첫 방송부터 뽀뽀세례…최무성에 죽임 당했다]]></title>
+        <id>https://v.daum.net/v/20230426233342974</id>
+        <link href="https://v.daum.net/v/20230426233342974"/>
+        <updated>2023-04-26T15:11:51.025Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 조진웅, 라미란에 사랑 고백 "결혼해 주세요"]]></title>
         <id>https://v.daum.net/v/20230426230241703</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230426195005279"/>
         <updated>2023-04-26T11:08:34.684Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 조은숙 뺑소니도 모자라 딸 김시하 납치 사주]]></title>
-        <id>https://v.daum.net/v/20230426194400140</id>
-        <link href="https://v.daum.net/v/20230426194400140"/>
-        <updated>2023-04-26T11:08:34.686Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 조은숙 뺑소니 "차라리 잘 됐어"]]></title>
-        <id>https://v.daum.net/v/20230426192756769</id>
-        <link href="https://v.daum.net/v/20230426192756769"/>
-        <updated>2023-04-26T11:08:34.690Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나X윤현민, 밀착 스킨십.."관계 전환점 찾아올 것"]]></title>
-        <id>https://v.daum.net/v/20230426183012115</id>
-        <link href="https://v.daum.net/v/20230426183012115"/>
-        <updated>2023-04-26T10:11:07.701Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
