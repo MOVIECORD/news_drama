@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-26T09:10:24.042Z</updated>
+    <updated>2023-04-26T10:11:18.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인나X윤현민, 밀착 스킨십.."관계 전환점 찾아올 것"]]></title>
+        <id>https://v.daum.net/v/20230426183012115</id>
+        <link href="https://v.daum.net/v/20230426183012115"/>
+        <updated>2023-04-26T10:11:07.701Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이주우, 결박된 채 납치…주원, 위기 벗어날까]]></title>
         <id>https://v.daum.net/v/20230426175900101</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230426164401115"/>
         <updated>2023-04-26T08:14:58.173Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, '이유'조차 찾을 필요 없었던 '김사부3' 합류 "그냥 마음이 해야된다고"]]></title>
-        <id>https://v.daum.net/v/20230426164221055</id>
-        <link href="https://v.daum.net/v/20230426164221055"/>
-        <updated>2023-04-26T08:14:58.174Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
