@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-26T10:11:18.786Z</updated>
+    <updated>2023-04-26T11:08:46.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의인연' 변우민, 사라진 조은숙X김시하 소식에 "이해 안 돼"]]></title>
+        <id>https://v.daum.net/v/20230426195210343</id>
+        <link href="https://v.daum.net/v/20230426195210343"/>
+        <updated>2023-04-26T11:08:34.678Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["실제 친해져"…안효섭X이성경, '김사부3'서 로맨스 재회]]></title>
+        <id>https://v.daum.net/v/20230426195005279</id>
+        <link href="https://v.daum.net/v/20230426195005279"/>
+        <updated>2023-04-26T11:08:34.684Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 조은숙 뺑소니도 모자라 딸 김시하 납치 사주]]></title>
+        <id>https://v.daum.net/v/20230426194400140</id>
+        <link href="https://v.daum.net/v/20230426194400140"/>
+        <updated>2023-04-26T11:08:34.686Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 조은숙 뺑소니 "차라리 잘 됐어"]]></title>
+        <id>https://v.daum.net/v/20230426192756769</id>
+        <link href="https://v.daum.net/v/20230426192756769"/>
+        <updated>2023-04-26T11:08:34.690Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유인나X윤현민, 밀착 스킨십.."관계 전환점 찾아올 것"]]></title>
         <id>https://v.daum.net/v/20230426183012115</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230426170018929"/>
         <updated>2023-04-26T08:14:58.160Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 이성경 "다시 돌아온 건 기적…낭만과 사랑이 녹아있는 작품"]]></title>
-        <id>https://v.daum.net/v/20230426170004903</id>
-        <link href="https://v.daum.net/v/20230426170004903"/>
-        <updated>2023-04-26T08:14:58.165Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부' 3년 만에 귀환…"정체성 잇는다"]]></title>
-        <id>https://v.daum.net/v/20230426165704756</id>
-        <link href="https://v.daum.net/v/20230426165704756"/>
-        <updated>2023-04-26T08:14:58.170Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석규, 김민재 7월 군입대 깜짝 폭로···"아직 확정 아냐"]]></title>
-        <id>https://v.daum.net/v/20230426165030439</id>
-        <link href="https://v.daum.net/v/20230426165030439"/>
-        <updated>2023-04-26T08:14:58.172Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 한석규가 인증한 인생작이니, 안 볼 이유가 없지]]></title>
-        <id>https://v.daum.net/v/20230426164401115</id>
-        <link href="https://v.daum.net/v/20230426164401115"/>
-        <updated>2023-04-26T08:14:58.173Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
