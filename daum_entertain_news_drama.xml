@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-27T20:12:01.737Z</updated>
+    <updated>2023-04-27T21:10:19.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스케일 커진 ‘낭만닥터 김사부3’ 낭만 맛집 그대로일까]]></title>
+        <id>https://v.daum.net/v/20230428060010771</id>
+        <link href="https://v.daum.net/v/20230428060010771"/>
+        <updated>2023-04-27T21:09:16.049Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 이주우 미인계 먹혔다..주원, 조선통보 앞 위기]]></title>
+        <id>https://v.daum.net/v/20230428053005379</id>
+        <link href="https://v.daum.net/v/20230428053005379"/>
+        <updated>2023-04-27T21:09:16.050Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 주원, 살상용 레이저 빔 통과..조선통보 만지자 '경보음']]></title>
         <id>https://v.daum.net/v/20230428001124920</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230427203200373"/>
         <updated>2023-04-27T12:17:44.989Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 한기웅, 최윤영에 입맞춤→이채영 전화 무시]]></title>
-        <id>https://v.daum.net/v/20230427200922845</id>
-        <link href="https://v.daum.net/v/20230427200922845"/>
-        <updated>2023-04-27T12:17:44.991Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의인연' 이훈, 조은숙 챙기는 김시하 걱정 "잘 챙겨 먹어야 해"]]></title>
-        <id>https://v.daum.net/v/20230427195149365</id>
-        <link href="https://v.daum.net/v/20230427195149365"/>
-        <updated>2023-04-27T11:09:09.138Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
