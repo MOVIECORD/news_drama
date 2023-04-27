@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-27T15:10:44.080Z</updated>
+    <updated>2023-04-27T16:15:46.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 주원, 살상용 레이저 빔 통과..조선통보 만지자 '경보음']]></title>
+        <id>https://v.daum.net/v/20230428001124920</id>
+        <link href="https://v.daum.net/v/20230428001124920"/>
+        <updated>2023-04-27T16:14:43.786Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 주원, 조선통보 환수하다 위기…이주우 미인계로 활약]]></title>
         <id>https://v.daum.net/v/20230428000609846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427195149365"/>
         <updated>2023-04-27T11:09:09.138Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 이훈, 납치 위기 김시하 구했다...고은미 목격 '충격']]></title>
-        <id>https://v.daum.net/v/20230427194800303</id>
-        <link href="https://v.daum.net/v/20230427194800303"/>
-        <updated>2023-04-27T11:09:09.141Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
