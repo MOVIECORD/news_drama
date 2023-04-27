@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-27T21:10:19.102Z</updated>
+    <updated>2023-04-27T22:09:16.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["방탄소년단으로 오해 받은 이 배우는?"… 유럽 여행객, BTS로 착각하고 사진 요청]]></title>
+        <id>https://v.daum.net/v/20230428065521802</id>
+        <link href="https://v.daum.net/v/20230428065521802"/>
+        <updated>2023-04-27T22:09:07.543Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시청률 바닥…저물어가는 ‘TV시대’]]></title>
+        <id>https://v.daum.net/v/20230428063018510</id>
+        <link href="https://v.daum.net/v/20230428063018510"/>
+        <updated>2023-04-27T22:09:07.544Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스케일 커진 ‘낭만닥터 김사부3’ 낭만 맛집 그대로일까]]></title>
         <id>https://v.daum.net/v/20230428060010771</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230427210930233</id>
         <link href="https://v.daum.net/v/20230427210930233"/>
         <updated>2023-04-27T12:17:44.986Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이은형, 복수 위해 YJ 그룹 입사 "증거 잡을 것"]]></title>
-        <id>https://v.daum.net/v/20230427204111574</id>
-        <link href="https://v.daum.net/v/20230427204111574"/>
-        <updated>2023-04-27T12:17:44.988Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 한기웅, 내연녀 이채영 두고 최윤영에 ‘심쿵’]]></title>
-        <id>https://v.daum.net/v/20230427203200373</id>
-        <link href="https://v.daum.net/v/20230427203200373"/>
-        <updated>2023-04-27T12:17:44.989Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
