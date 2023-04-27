@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-27T03:12:17.751Z</updated>
+    <updated>2023-04-27T04:12:54.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜엄마’ 냉혈검사 된 이도현, 정웅인과 살벌 대면]]></title>
+        <id>https://v.daum.net/v/20230427130903321</id>
+        <link href="https://v.daum.net/v/20230427130903321"/>
+        <updated>2023-04-27T04:11:52.459Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스타트렉: SNW' 시즌2, 6월 공개 확정…'오스카 위너' 양자경도 세계관 합류]]></title>
         <id>https://v.daum.net/v/20230427113724822</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427104619965"/>
         <updated>2023-04-27T02:04:02.609Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마' 손예진, 현빈과 함께 日여행→출산 후 활동 재개]]></title>
-        <id>https://v.daum.net/v/20230427104610951</id>
-        <link href="https://v.daum.net/v/20230427104610951"/>
-        <updated>2023-04-27T02:04:02.613Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
