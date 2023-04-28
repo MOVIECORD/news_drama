@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-28T18:12:29.237Z</updated>
+    <updated>2023-04-28T19:08:25.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 한석규, 탈북민 살리려 '외상센터' 오픈…이성경父 이경영 등장에 '긴장감 고조']]></title>
+        <id>https://v.daum.net/v/20230429033300933</id>
+        <link href="https://v.daum.net/v/20230429033300933"/>
+        <updated>2023-04-28T19:08:15.708Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 한석규, "전쟁터서도 부상자는 적군이라도 치료"…北총상환자 이송 불가에 '분노']]></title>
+        <id>https://v.daum.net/v/20230429031800904</id>
+        <link href="https://v.daum.net/v/20230429031800904"/>
+        <updated>2023-04-28T19:08:15.709Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한석규, 탈북자 위해 외상센터 열었다..이경영, 이성경 父 첫 등장]]></title>
         <id>https://v.daum.net/v/20230429005345281</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230428210602588"/>
         <updated>2023-04-28T12:18:06.706Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우영우’ 박은빈, 대상 쾌거에 눈물 “우영우 연기, 두려웠다”]]></title>
-        <id>https://v.daum.net/v/20230428205010232</id>
-        <link href="https://v.daum.net/v/20230428205010232"/>
-        <updated>2023-04-28T12:18:06.720Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 최윤영, 한기웅 애태우며 복수 “이채영과 헤어질 수 있냐"]]></title>
-        <id>https://v.daum.net/v/20230428203300932</id>
-        <link href="https://v.daum.net/v/20230428203300932"/>
-        <updated>2023-04-28T12:18:06.724Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
