@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-28T10:10:59.641Z</updated>
+    <updated>2023-04-28T11:12:19.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은지, TV부문 여자 예능상 “많은 동료들 덕에 수상”]]></title>
+        <id>https://v.daum.net/v/20230428192445642</id>
+        <link href="https://v.daum.net/v/20230428192445642"/>
+        <updated>2023-04-28T11:11:16.849Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘피식대학-피식쇼’ TV부문 예능 작품상]]></title>
+        <id>https://v.daum.net/v/20230428191602405</id>
+        <link href="https://v.daum.net/v/20230428191602405"/>
+        <updated>2023-04-28T11:11:16.850Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 임지연, TV부문 여자조연상 “멋지다, 연진아!”]]></title>
         <id>https://v.daum.net/v/20230428184037425</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230428144920320"/>
         <updated>2023-04-28T06:22:07.063Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 우도환, 김지연 향한 애틋한 마음 분출! BUT 해고 통보?]]></title>
-        <id>https://v.daum.net/v/20230428144843303</id>
-        <link href="https://v.daum.net/v/20230428144843303"/>
-        <updated>2023-04-28T06:22:07.066Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수진, '구미호뎐1938' 출연..이동욱 조력자 된다]]></title>
-        <id>https://v.daum.net/v/20230428141528205</id>
-        <link href="https://v.daum.net/v/20230428141528205"/>
-        <updated>2023-04-28T06:22:07.067Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
