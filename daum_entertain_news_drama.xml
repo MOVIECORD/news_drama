@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-29T19:07:51.712Z</updated>
+    <updated>2023-04-29T20:09:52.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백진희, '소금 세례' 강부자에 '멸치 리벤지' "누가 요즘 전부치는 거 배워요"]]></title>
+        <id>https://v.daum.net/v/20230430044418240</id>
+        <link href="https://v.daum.net/v/20230430044418240"/>
+        <updated>2023-04-29T20:09:40.933Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임신한 사람 마음 모르잖아요" 백진희, 유산 아픔 겪은 윤주희에 말실수]]></title>
         <id>https://v.daum.net/v/20230430023043172</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429230809395"/>
         <updated>2023-04-29T15:09:18.074Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭vs이경영 신경전…신동욱X소주연 복귀]]></title>
-        <id>https://v.daum.net/v/20230429230641390</id>
-        <link href="https://v.daum.net/v/20230429230641390"/>
-        <updated>2023-04-29T14:08:25.833Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
