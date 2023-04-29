@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-29T15:10:20.493Z</updated>
+    <updated>2023-04-29T16:11:07.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한석규, 정전 위기 극복→탈북자 수술 성공..이홍내, 돌담병원 지원]]></title>
+        <id>https://v.daum.net/v/20230430005026030</id>
+        <link href="https://v.daum.net/v/20230430005026030"/>
+        <updated>2023-04-29T16:10:56.243Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 100억 기부받고 휴직 취소→김병철·명세빈 '절망']]></title>
+        <id>https://v.daum.net/v/20230430002400961</id>
+        <link href="https://v.daum.net/v/20230430002400961"/>
+        <updated>2023-04-29T16:10:56.245Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차정숙' 엄정화, "미쳤어요?" 휴직 번복…김병철·명세빈 실망]]></title>
+        <id>https://v.daum.net/v/20230430002043949</id>
+        <link href="https://v.daum.net/v/20230430002043949"/>
+        <updated>2023-04-29T16:10:56.247Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙' 조아람, 엄정화에 "김병철이랑 사귀냐" 깜짝 질문]]></title>
         <id>https://v.daum.net/v/20230430000643851</id>
@@ -27,7 +48,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 민폐 전락→100억 복덩이 등극…퇴사 철회]]></title>
+        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 민폐 전락→100억 복덩이 등극…휴직 철회]]></title>
         <id>https://v.daum.net/v/20230429234708713</id>
         <link href="https://v.daum.net/v/20230429234708713"/>
         <updated>2023-04-29T15:09:18.054Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230429225931351"/>
         <updated>2023-04-29T14:08:25.838Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차정숙' 엄정화, 감전 후 실신→김병철 깜짝…명세빈 "불편"]]></title>
-        <id>https://v.daum.net/v/20230429225318309</id>
-        <link href="https://v.daum.net/v/20230429225318309"/>
-        <updated>2023-04-29T14:08:25.838Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘판도라’ 이상윤 폭파 혐의로 체포, 아내 이지아 사라져 패닉]]></title>
-        <id>https://v.daum.net/v/20230429223919241</id>
-        <link href="https://v.daum.net/v/20230429223919241"/>
-        <updated>2023-04-29T14:08:25.838Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 이경영 "안효섭 나타나기 전까지 우리 가족 문제 없어" 독설]]></title>
-        <id>https://v.daum.net/v/20230429223804234</id>
-        <link href="https://v.daum.net/v/20230429223804234"/>
-        <updated>2023-04-29T14:08:25.838Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
