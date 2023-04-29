@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-29T10:10:42.020Z</updated>
+    <updated>2023-04-29T11:08:18.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소연, 4년째 제자리 걸음 언제까지…tvN서도 나타난 ‘천서진’ 그림자]]></title>
+        <id>https://v.daum.net/v/20230429200101518</id>
+        <link href="https://v.daum.net/v/20230429200101518"/>
+        <updated>2023-04-29T11:08:05.860Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우도환, 차학연 충격 발언에 분노 폭발..대체 무슨 일]]></title>
         <id>https://v.daum.net/v/20230429185409995</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429133724953"/>
         <updated>2023-04-29T05:09:23.077Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 첫방 최고 16.1%…金 전체 1위]]></title>
-        <id>https://v.daum.net/v/20230429132700853</id>
-        <link href="https://v.daum.net/v/20230429132700853"/>
-        <updated>2023-04-29T05:09:23.079Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
