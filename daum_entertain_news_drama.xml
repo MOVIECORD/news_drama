@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-29T06:12:06.605Z</updated>
+    <updated>2023-04-29T07:10:18.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["백상이 지향하는 시대정신"..K-콘텐츠의 역할과 의미]]></title>
+        <id>https://v.daum.net/v/20230429160235303</id>
+        <link href="https://v.daum.net/v/20230429160235303"/>
+        <updated>2023-04-29T07:10:08.329Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼윈도부부' 최자혜∙김사권, 이혼 전 얼떨결 하룻밤에 임신 '당혹']]></title>
+        <id>https://v.daum.net/v/20230429153113010</id>
+        <link href="https://v.daum.net/v/20230429153113010"/>
+        <updated>2023-04-29T07:10:08.334Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우도환, 차학연 발언에 분노 폭발 '황당 그 자체']]></title>
+        <id>https://v.daum.net/v/20230429152801994</id>
+        <link href="https://v.daum.net/v/20230429152801994"/>
+        <updated>2023-04-29T07:10:08.335Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 추포 위기 우도환, 차학연 발언에 분노 폭발]]></title>
+        <id>https://v.daum.net/v/20230429151527856</id>
+        <link href="https://v.daum.net/v/20230429151527856"/>
+        <updated>2023-04-29T07:10:08.336Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임창정 측 "1조원 파티, 게스트 자격 참석…주최 측 일원 NO"]]></title>
         <id>https://v.daum.net/v/20230429145127611</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230429122016426"/>
         <updated>2023-04-29T04:11:15.194Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피메리엔딩' 성태 "첫 주연..재현과 싱크로율 99.8%"]]></title>
-        <id>https://v.daum.net/v/20230429120705357</id>
-        <link href="https://v.daum.net/v/20230429120705357"/>
-        <updated>2023-04-29T03:10:53.528Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강감찬 장군 납시오"…김산호부터 최수종, '고려거란전쟁' 라인업]]></title>
-        <id>https://v.daum.net/v/20230429120242337</id>
-        <link href="https://v.daum.net/v/20230429120242337"/>
-        <updated>2023-04-29T03:10:53.535Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오아시스' 진이한 "5년 공백, 아픈 아버지 병간호했죠"]]></title>
-        <id>https://v.daum.net/v/20230429115149226</id>
-        <link href="https://v.daum.net/v/20230429115149226"/>
-        <updated>2023-04-29T03:10:53.544Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오아시스' 진이한 "어쩌다 악역 전문, 저 그렇게 나쁘지 않아요"]]></title>
-        <id>https://v.daum.net/v/20230429115144221</id>
-        <link href="https://v.daum.net/v/20230429115144221"/>
-        <updated>2023-04-29T03:10:53.544Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
