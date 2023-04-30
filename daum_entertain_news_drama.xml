@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-30T09:10:05.726Z</updated>
+    <updated>2023-04-30T10:10:25.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 지석진 "인기 때문에 밴쿠버 백화점 못 걸어다녀"]]></title>
+        <id>https://v.daum.net/v/20230430185046712</id>
+        <link href="https://v.daum.net/v/20230430185046712"/>
+        <updated>2023-04-30T10:10:14.079Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재이vs최윤제, 첫 만남에 키스하더니…아슬아슬 신경전]]></title>
         <id>https://v.daum.net/v/20230430175154743</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230430131345682</id>
         <link href="https://v.daum.net/v/20230430131345682"/>
         <updated>2023-04-30T05:09:04.389Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 김병철X명세빈 위험한 만남 포착, 초대형 위기]]></title>
-        <id>https://v.daum.net/v/20230430130748588</id>
-        <link href="https://v.daum.net/v/20230430130748588"/>
-        <updated>2023-04-30T04:11:25.089Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
