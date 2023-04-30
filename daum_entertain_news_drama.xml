@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-30T04:11:35.797Z</updated>
+    <updated>2023-04-30T05:09:15.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선아, 오윤아 전 남편 정체 알아냈나..흔들리는 눈빛]]></title>
+        <id>https://v.daum.net/v/20230430134329058</id>
+        <link href="https://v.daum.net/v/20230430134329058"/>
+        <updated>2023-04-30T05:09:04.384Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘가면의 여왕’ 김선아, 오윤아 전 남편 정체 알아내나]]></title>
+        <id>https://v.daum.net/v/20230430134243050</id>
+        <link href="https://v.daum.net/v/20230430134243050"/>
+        <updated>2023-04-30T05:09:04.385Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘판도라’, 오늘 종영..‘설계자’ 이상윤, 이지아에 총 겨눈다 ‘충격’]]></title>
+        <id>https://v.daum.net/v/20230430134112020</id>
+        <link href="https://v.daum.net/v/20230430134112020"/>
+        <updated>2023-04-30T05:09:04.385Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘판도라’ 측 “이상윤, 이지아에 총 겨눈다…끝까지 충격 전개”]]></title>
+        <id>https://v.daum.net/v/20230430131345682</id>
+        <link href="https://v.daum.net/v/20230430131345682"/>
+        <updated>2023-04-30T05:09:04.389Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터 차정숙’ 김병철X명세빈 위험한 만남 포착, 초대형 위기]]></title>
         <id>https://v.daum.net/v/20230430130748588</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230430095851802"/>
         <updated>2023-04-30T02:03:51.966Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 100억 기부로 기사회생…시청률 10.9%]]></title>
-        <id>https://v.daum.net/v/20230430095748790</id>
-        <link href="https://v.daum.net/v/20230430095748790"/>
-        <updated>2023-04-30T02:03:51.966Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 한석규, 정전 속 기지 발휘…현실과 당위 모두 해결]]></title>
-        <id>https://v.daum.net/v/20230430095700786</id>
-        <link href="https://v.daum.net/v/20230430095700786"/>
-        <updated>2023-04-30T02:03:51.968Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미쳤어요?"..엄정화, 송영창 100억 기부에 의사 계속 한다]]></title>
-        <id>https://v.daum.net/v/20230430094642646</id>
-        <link href="https://v.daum.net/v/20230430094642646"/>
-        <updated>2023-04-30T00:54:35.439Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아, 견미리 복수심 이용했다…이상윤, 악행 드러나 '절규']]></title>
-        <id>https://v.daum.net/v/20230430093936555</id>
-        <link href="https://v.daum.net/v/20230430093936555"/>
-        <updated>2023-04-30T00:54:35.440Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
