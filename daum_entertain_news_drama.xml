@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-30T08:12:06.538Z</updated>
+    <updated>2023-04-30T09:10:05.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재이vs최윤제, 첫 만남에 키스하더니…아슬아슬 신경전]]></title>
+        <id>https://v.daum.net/v/20230430175154743</id>
+        <link href="https://v.daum.net/v/20230430175154743"/>
+        <updated>2023-04-30T09:09:54.265Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘판도라’ 안태환, 장희진 향한 신뢰→돈 앞에서 배신한 ‘해골 헬멧’..“신선한 충격 욕심” 종영 소감]]></title>
+        <id>https://v.daum.net/v/20230430174716664</id>
+        <link href="https://v.daum.net/v/20230430174716664"/>
+        <updated>2023-04-30T09:09:54.277Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아, 오윤아 전 남편 정체 알아냈나? 흔들리는 눈빛 포착]]></title>
         <id>https://v.daum.net/v/20230430163548376</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230430130748588"/>
         <updated>2023-04-30T04:11:25.089Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김사부3’ 한석규-이경영, ‘자강두천’의 가치관 전쟁 점화]]></title>
-        <id>https://v.daum.net/v/20230430124419294</id>
-        <link href="https://v.daum.net/v/20230430124419294"/>
-        <updated>2023-04-30T04:11:25.089Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 우도환, 김지연 정체 알고 분노 “공주님이었어?”]]></title>
-        <id>https://v.daum.net/v/20230430124200273</id>
-        <link href="https://v.daum.net/v/20230430124200273"/>
-        <updated>2023-04-30T04:11:25.089Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
