@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-04-30T07:09:42.849Z</updated>
+    <updated>2023-04-30T08:12:06.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김선아, 오윤아 전 남편 정체 알아냈나? 흔들리는 눈빛 포착]]></title>
+        <id>https://v.daum.net/v/20230430163548376</id>
+        <link href="https://v.daum.net/v/20230430163548376"/>
+        <updated>2023-04-30T08:11:04.210Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 서세원 빈소, 첫날 조용한 조문… 이용식·이철우 “안타깝다”]]></title>
+        <id>https://v.daum.net/v/20230430163143306</id>
+        <link href="https://v.daum.net/v/20230430163143306"/>
+        <updated>2023-04-30T08:11:04.211Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조선변호사' 우도환, '나혼산'과 180도 달라..냉온탕 오가는 연기]]></title>
+        <id>https://v.daum.net/v/20230430162843224</id>
+        <link href="https://v.daum.net/v/20230430162843224"/>
+        <updated>2023-04-30T08:11:04.213Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김병철·명세빈 불륜, 민우혁한테 딱 걸렸다]]></title>
         <id>https://v.daum.net/v/20230430154544526</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230430124200273"/>
         <updated>2023-04-30T04:11:25.089Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가 나타났다!’ 안재현, 백진희에 선 그었다 “우린 진짜가 아니에요”]]></title>
-        <id>https://v.daum.net/v/20230430121503907</id>
-        <link href="https://v.daum.net/v/20230430121503907"/>
-        <updated>2023-04-30T04:11:25.091Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모범택시2’ 이단 감독 “흥행 예상 못해…사연-시청자 공감에 초점”]]></title>
-        <id>https://v.daum.net/v/20230430115703507</id>
-        <link href="https://v.daum.net/v/20230430115703507"/>
-        <updated>2023-04-30T03:10:08.566Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상에서 증발한 이지아..빌런 이상윤 '절규']]></title>
-        <id>https://v.daum.net/v/20230430115113442</id>
-        <link href="https://v.daum.net/v/20230430115113442"/>
-        <updated>2023-04-30T03:10:08.566Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
