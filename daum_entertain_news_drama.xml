@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-01T21:10:30.642Z</updated>
+    <updated>2023-05-01T22:09:29.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장혁, 장나라 킬러 정체 눈치챌까…추성훈 카메오 '강렬']]></title>
+        <id>https://v.daum.net/v/20230502065144360</id>
+        <link href="https://v.daum.net/v/20230502065144360"/>
+        <updated>2023-05-01T22:09:17.346Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘김사부3’·‘차정숙’ 시청률 13%대…의드불패]]></title>
+        <id>https://v.daum.net/v/20230502063016162</id>
+        <link href="https://v.daum.net/v/20230502063016162"/>
+        <updated>2023-05-01T22:09:17.352Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 정건주, "내 손으로 전부 되돌려 놓을 것" 옥좌 포기]]></title>
+        <id>https://v.daum.net/v/20230502061206035</id>
+        <link href="https://v.daum.net/v/20230502061206035"/>
+        <updated>2023-05-01T22:09:17.352Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃선비 열애사' 려운, 이설로 위장한 정건주에 "모든 것 원래대로 되돌려 놓아라"]]></title>
         <id>https://v.daum.net/v/20230502060302918</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230501194630370"/>
         <updated>2023-05-01T11:08:56.612Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, ♥김유석에 분노 "믿어달라더니..당장 나가"]]></title>
-        <id>https://v.daum.net/v/20230501193830274</id>
-        <link href="https://v.daum.net/v/20230501193830274"/>
-        <updated>2023-05-01T11:08:56.617Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, 父설득 실패..정한용 "김유석 갖다 버릴 것"]]></title>
-        <id>https://v.daum.net/v/20230501191735988</id>
-        <link href="https://v.daum.net/v/20230501191735988"/>
-        <updated>2023-05-01T11:08:56.617Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차선우 "평소 애교 많은 김종현, 연기하면 재수없고 차가워"]]></title>
-        <id>https://v.daum.net/v/20230501191144911</id>
-        <link href="https://v.daum.net/v/20230501191144911"/>
-        <updated>2023-05-01T11:08:56.617Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
