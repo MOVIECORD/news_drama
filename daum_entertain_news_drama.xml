@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-01T09:11:55.844Z</updated>
+    <updated>2023-05-01T10:10:32.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란x이도현의 시너지 효과..'나쁜엄마' 방송 첫주 만에 눈도장]]></title>
+        <id>https://v.daum.net/v/20230501184944583</id>
+        <link href="https://v.daum.net/v/20230501184944583"/>
+        <updated>2023-05-01T10:10:21.980Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이현주x김종현x차선우 ‘시작은 첫키스’, 2000년대 감성으로 돌아온 청춘 드라마]]></title>
+        <id>https://v.daum.net/v/20230501183845464</id>
+        <link href="https://v.daum.net/v/20230501183845464"/>
+        <updated>2023-05-01T10:10:21.982Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘시작은 첫키스’ 차선우 “김종현, ‘압구정 프린스’ 그 자체..나라면 못했을 듯”]]></title>
         <id>https://v.daum.net/v/20230501180046836</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230501154345621"/>
         <updated>2023-05-01T07:10:55.287Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지호, 남몰래 다정다감 면모 ‘츤데레’ 캐릭터 여심 저격]]></title>
-        <id>https://v.daum.net/v/20230501151745823</id>
-        <link href="https://v.daum.net/v/20230501151745823"/>
-        <updated>2023-05-01T07:10:55.292Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예은·려운, 대의 펼칠날 성큼..대나무 숲 데이트]]></title>
-        <id>https://v.daum.net/v/20230501151022604</id>
-        <link href="https://v.daum.net/v/20230501151022604"/>
-        <updated>2023-05-01T06:15:06.242Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
