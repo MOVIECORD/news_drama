@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-01T07:11:04.522Z</updated>
+    <updated>2023-05-01T08:12:58.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘가면의 여왕’ 김선아vs오윤아, 일촉즉발 대치 포착]]></title>
+        <id>https://v.daum.net/v/20230501164043995</id>
+        <link href="https://v.daum.net/v/20230501164043995"/>
+        <updated>2023-05-01T08:12:47.721Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘종이달’ 김서형, 이시우 거침없는 소비에 당황]]></title>
+        <id>https://v.daum.net/v/20230501162006527</id>
+        <link href="https://v.daum.net/v/20230501162006527"/>
+        <updated>2023-05-01T08:12:47.721Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선아X오윤아, 일촉즉발 대치…오지호 두고 치열한 신경전]]></title>
         <id>https://v.daum.net/v/20230501154345621</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230501130334333"/>
         <updated>2023-05-01T04:12:25.053Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명세빈 딸=김병철 혼외자..소아린, 엄정화 딸한테 폭로할까]]></title>
-        <id>https://v.daum.net/v/20230501125945277</id>
-        <link href="https://v.daum.net/v/20230501125945277"/>
-        <updated>2023-05-01T04:12:25.056Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["피해자 한 번 더 생각하길"…이제훈의 '모범택시' 운행은 계속된다]]></title>
-        <id>https://v.daum.net/v/20230501123910974</id>
-        <link href="https://v.daum.net/v/20230501123910974"/>
-        <updated>2023-05-01T04:12:25.059Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
