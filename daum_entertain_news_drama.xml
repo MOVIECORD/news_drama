@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-02T22:10:30.606Z</updated>
+    <updated>2023-05-02T23:10:08.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가면의 여왕' 이정진, 김선아 유린한 '가면맨' 대반전]]></title>
+        <id>https://v.daum.net/v/20230503075545343</id>
+        <link href="https://v.daum.net/v/20230503075545343"/>
+        <updated>2023-05-02T23:09:59.551Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 김남희, 강렬 첫 등장…장나라 킬러 정체 폭로할까]]></title>
+        <id>https://v.daum.net/v/20230503073144003</id>
+        <link href="https://v.daum.net/v/20230503073144003"/>
+        <updated>2023-05-02T23:09:59.553Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드벨벳 예리-이은샘, '청담국제고등학교' 메인 포스터 공개…긴장감UP]]></title>
         <id>https://v.daum.net/v/20230503000842700</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230502203416969"/>
         <updated>2023-05-02T12:18:34.261Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한기웅, 이채영 심은 위치추적 정체 알았다…배신감 증폭]]></title>
-        <id>https://v.daum.net/v/20230502201240580</id>
-        <link href="https://v.daum.net/v/20230502201240580"/>
-        <updated>2023-05-02T12:18:34.262Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 김시하=친딸 진실 알았다... 심이영 원망]]></title>
-        <id>https://v.daum.net/v/20230502194130827</id>
-        <link href="https://v.daum.net/v/20230502194130827"/>
-        <updated>2023-05-02T11:08:42.933Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
