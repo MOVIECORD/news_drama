@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-02T14:10:55.650Z</updated>
+    <updated>2023-05-02T15:11:39.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 예리-이은샘, '청담국제고등학교' 메인 포스터 공개…긴장감UP]]></title>
+        <id>https://v.daum.net/v/20230503000842700</id>
+        <link href="https://v.daum.net/v/20230503000842700"/>
+        <updated>2023-05-02T15:11:28.713Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친 그대' 진기주, 타임머신 탑승 거부 "해야 할 일 있다"]]></title>
+        <id>https://v.daum.net/v/20230502233315355</id>
+        <link href="https://v.daum.net/v/20230502233315355"/>
+        <updated>2023-05-02T15:11:28.714Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권혁, '신입사원: 더무비'로 전주영화제 참석]]></title>
+        <id>https://v.daum.net/v/20230502232417305</id>
+        <link href="https://v.daum.net/v/20230502232417305"/>
+        <updated>2023-05-02T15:11:28.715Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진기주, 1987년으로 돌아가 죽은 엄마 만나 "순애야"]]></title>
         <id>https://v.daum.net/v/20230502230701175</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230502194130827"/>
         <updated>2023-05-02T11:08:42.933Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈의 수상소감이 어때서?..김갑수 지적이 불편한 이유]]></title>
-        <id>https://v.daum.net/v/20230502194015807</id>
-        <link href="https://v.daum.net/v/20230502194015807"/>
-        <updated>2023-05-02T11:08:42.937Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['약한영웅' 아직도 뜨겁네...대본집 크라우드 펀딩 300% 초과 달성]]></title>
-        <id>https://v.daum.net/v/20230502180318529</id>
-        <link href="https://v.daum.net/v/20230502180318529"/>
-        <updated>2023-05-02T09:10:00.949Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어그대' 진기주, 연기→케미 다 되는 매력퀸]]></title>
-        <id>https://v.daum.net/v/20230502180315523</id>
-        <link href="https://v.daum.net/v/20230502180315523"/>
-        <updated>2023-05-02T09:10:00.949Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
