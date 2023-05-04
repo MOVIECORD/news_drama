@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-04T10:11:51.568Z</updated>
+    <updated>2023-05-04T11:09:41.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 최윤영, 이채영 협박 "한기웅은 내 남자친구"]]></title>
+        <id>https://v.daum.net/v/20230504200425017</id>
+        <link href="https://v.daum.net/v/20230504200425017"/>
+        <updated>2023-05-04T11:09:14.584Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 조은숙, 김시하 데리고 변우민家로...친부 김유석 '충격']]></title>
+        <id>https://v.daum.net/v/20230504195314834</id>
+        <link href="https://v.daum.net/v/20230504195314834"/>
+        <updated>2023-05-04T11:09:14.588Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘러블리 시크’ 김소연, 이동욱에게 꽃다발 프러포즈]]></title>
+        <id>https://v.daum.net/v/20230504193002386</id>
+        <link href="https://v.daum.net/v/20230504193002386"/>
+        <updated>2023-05-04T11:09:14.592Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국을 담은 미국 하이틴…넷플릭스 미드에 롯데타워가?]]></title>
         <id>https://v.daum.net/v/20230504181144340</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230504160016286"/>
         <updated>2023-05-04T07:09:32.040Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕지혜, 송하윤 언니 된다…'오! 영심이' 합류]]></title>
-        <id>https://v.daum.net/v/20230504155416065</id>
-        <link href="https://v.daum.net/v/20230504155416065"/>
-        <updated>2023-05-04T07:09:32.041Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 갓난아이=새 의뢰인? 우도환 예측불허 행동 예고]]></title>
-        <id>https://v.daum.net/v/20230504155145964</id>
-        <link href="https://v.daum.net/v/20230504155145964"/>
-        <updated>2023-05-04T07:09:32.046Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['몸값' 감독·작가 "결말 재밌다 생각, 시즌2 제작은 확정 NO"]]></title>
-        <id>https://v.daum.net/v/20230504154742790</id>
-        <link href="https://v.daum.net/v/20230504154742790"/>
-        <updated>2023-05-04T07:09:32.047Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
