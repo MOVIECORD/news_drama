@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-04T09:11:20.787Z</updated>
+    <updated>2023-05-04T10:11:51.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국을 담은 미국 하이틴…넷플릭스 미드에 롯데타워가?]]></title>
+        <id>https://v.daum.net/v/20230504181144340</id>
+        <link href="https://v.daum.net/v/20230504181144340"/>
+        <updated>2023-05-04T10:10:48.572Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['몸값' 감독·작가 "시즌2 나온다면? 바깥세상의 지옥 펼치고파"]]></title>
         <id>https://v.daum.net/v/20230504175002696</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230504154742790"/>
         <updated>2023-05-04T07:09:32.047Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘몸값’ 작가 “결말, 그 차제만으로도 흥미로워..시즌2 만들어졌으면”]]></title>
-        <id>https://v.daum.net/v/20230504154715775</id>
-        <link href="https://v.daum.net/v/20230504154715775"/>
-        <updated>2023-05-04T07:09:32.047Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
