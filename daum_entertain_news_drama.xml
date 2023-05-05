@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-05T02:27:32.824Z</updated>
+    <updated>2023-05-05T03:10:46.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜엄마’ 이도현 극과 극 연기, 시시각각 변화하는 온도 차]]></title>
+        <id>https://v.daum.net/v/20230505114849425</id>
+        <link href="https://v.daum.net/v/20230505114849425"/>
+        <updated>2023-05-05T03:10:34.929Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['믿보배' 이도현의 저력]]></title>
+        <id>https://v.daum.net/v/20230505113344233</id>
+        <link href="https://v.daum.net/v/20230505113344233"/>
+        <updated>2023-05-05T03:10:34.931Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구미호뎐1938' 이동욱x김소연x김범, 관전 포인트 3]]></title>
         <id>https://v.daum.net/v/20230505111748005</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230505083145643"/>
         <updated>2023-05-05T00:44:54.097Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우사모', 첫 공개 D-DAY...오세훈X조준영X장여빈 ‘입틀막’ 첫 만남 포착]]></title>
-        <id>https://v.daum.net/v/20230505083116638</id>
-        <link href="https://v.daum.net/v/20230505083116638"/>
-        <updated>2023-05-05T00:44:54.097Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜엄마' 안은진, 첫사랑 이도현 재회..빛나는 캐릭터 연기]]></title>
-        <id>https://v.daum.net/v/20230505082427579</id>
-        <link href="https://v.daum.net/v/20230505082427579"/>
-        <updated>2023-05-05T00:44:54.098Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
