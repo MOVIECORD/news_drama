@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-05T15:09:57.888Z</updated>
+    <updated>2023-05-05T16:13:50.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 안효섭, 이성경과 한석규 따르며 "우리는 그것을 낭만이라 배웠다"…이경영에 '반발']]></title>
+        <id>https://v.daum.net/v/20230506010300189</id>
+        <link href="https://v.daum.net/v/20230506010300189"/>
+        <updated>2023-05-05T16:12:46.911Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 한석규, 국대 선수 생명 고려한 수술 집도 "둘 다 안 잃어"]]></title>
+        <id>https://v.daum.net/v/20230506002416066</id>
+        <link href="https://v.daum.net/v/20230506002416066"/>
+        <updated>2023-05-05T16:12:46.915Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 안효섭, 한석규 따르며 이경영과 신경전…외상 센터장 취임 반대]]></title>
+        <id>https://v.daum.net/v/20230506001149986</id>
+        <link href="https://v.daum.net/v/20230506001149986"/>
+        <updated>2023-05-05T16:12:46.919Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 한석규, 돌담병원 '외상센터장' 이경영에 양보]]></title>
         <id>https://v.daum.net/v/20230505233735794</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230505180115300"/>
         <updated>2023-05-05T09:09:48.294Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 우도환, 별안간 궁궐 난입…천호진 긴장]]></title>
-        <id>https://v.daum.net/v/20230505165642459</id>
-        <link href="https://v.daum.net/v/20230505165642459"/>
-        <updated>2023-05-05T08:12:21.157Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 안효섭, 환자 보고 흠칫…얼어 붙은 이유]]></title>
-        <id>https://v.daum.net/v/20230505162442997</id>
-        <link href="https://v.daum.net/v/20230505162442997"/>
-        <updated>2023-05-05T08:12:21.157Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나♥윤현민 키스, 싸움정→로맨스 꽃 피웠네]]></title>
-        <id>https://v.daum.net/v/20230505162415989</id>
-        <link href="https://v.daum.net/v/20230505162415989"/>
-        <updated>2023-05-05T08:12:21.167Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
