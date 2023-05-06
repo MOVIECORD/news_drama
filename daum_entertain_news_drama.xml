@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T15:10:05.177Z</updated>
+    <updated>2023-05-06T16:12:14.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 한석규, 의심하는 이경영에 "네 딸 펄펄 날고 있으니 걱정마라"]]></title>
+        <id>https://v.daum.net/v/20230507010300950</id>
+        <link href="https://v.daum.net/v/20230507010300950"/>
+        <updated>2023-05-06T16:12:02.915Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 민우혁, 김병철 앞에서 엄정화 품에 안았다..사각관계 시작]]></title>
+        <id>https://v.daum.net/v/20230507003622691</id>
+        <link href="https://v.daum.net/v/20230507003622691"/>
+        <updated>2023-05-06T16:12:02.917Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민우혁, ♥︎엄정화 향한 직진 시작…김병철에 선전포고→기습 포옹까지]]></title>
+        <id>https://v.daum.net/v/20230507002144591</id>
+        <link href="https://v.daum.net/v/20230507002144591"/>
+        <updated>2023-05-06T16:12:02.929Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민우혁, 김병철 앞에서 엄정화 박력 포옹‥본격 사각관계 ‘닥터 차정숙’]]></title>
         <id>https://v.daum.net/v/20230506235044391</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230506224514847"/>
         <updated>2023-05-06T14:08:33.819Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫방' 이동욱, 유체이탈한 김범과 함께 더보이즈 영훈 물리쳐···과거 갇혔다]]></title>
-        <id>https://v.daum.net/v/20230506223917772</id>
-        <link href="https://v.daum.net/v/20230506223917772"/>
-        <updated>2023-05-06T14:08:33.820Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 도발하는 이신영에 일침 "네 일에 집중해"]]></title>
-        <id>https://v.daum.net/v/20230506223442728</id>
-        <link href="https://v.daum.net/v/20230506223442728"/>
-        <updated>2023-05-06T14:08:33.820Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐 1938' 이동욱, 김범 환생 위해 김정난과 계약→수호석 도난]]></title>
-        <id>https://v.daum.net/v/20230506221815559</id>
-        <link href="https://v.daum.net/v/20230506221815559"/>
-        <updated>2023-05-06T14:08:33.839Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
