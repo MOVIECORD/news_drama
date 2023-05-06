@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T03:10:30.492Z</updated>
+    <updated>2023-05-06T04:11:10.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 이경영 시선으로 본 한석규의 낭만에 대하여]]></title>
+        <id>https://v.daum.net/v/20230506125716928</id>
+        <link href="https://v.daum.net/v/20230506125716928"/>
+        <updated>2023-05-06T04:10:59.046Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['몸값' 감독·작가 "韓 최초 칸 시리즈 각본상, 모두의 노력 덕분"]]></title>
+        <id>https://v.daum.net/v/20230506122815740</id>
+        <link href="https://v.daum.net/v/20230506122815740"/>
+        <updated>2023-05-06T04:10:59.048Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화 없는 긴급회의, 시모 박준금도 아들 김병철 외면 “폭풍 시작”]]></title>
+        <id>https://v.daum.net/v/20230506121946702</id>
+        <link href="https://v.daum.net/v/20230506121946702"/>
+        <updated>2023-05-06T04:10:59.055Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우도환, 최무성 살해 혐의 벗었다]]></title>
         <id>https://v.daum.net/v/20230506120145575</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230506092444772"/>
         <updated>2023-05-06T00:44:56.040Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구미호 vs 삽천갑자 동방삭…'구미호뎐1938' 이동욱 첫 미션]]></title>
-        <id>https://v.daum.net/v/20230506091946715</id>
-        <link href="https://v.daum.net/v/20230506091946715"/>
-        <updated>2023-05-06T00:44:56.040Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희∙안재현, 3개월 동거 시작→아기 태명은 '진짜' 설렘]]></title>
-        <id>https://v.daum.net/v/20230506091415664</id>
-        <link href="https://v.daum.net/v/20230506091415664"/>
-        <updated>2023-05-06T00:44:56.048Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱, 바야흐로 사냥의 시간…아찔한 과거와 맞대면]]></title>
-        <id>https://v.daum.net/v/20230506091245655</id>
-        <link href="https://v.daum.net/v/20230506091245655"/>
-        <updated>2023-05-06T00:44:56.055Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
