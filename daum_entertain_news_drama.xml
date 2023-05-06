@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T16:12:14.607Z</updated>
+    <updated>2023-05-06T17:08:42.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 한석규, 안효섭에 반기 드는 이신영에 "너 같은 놈들 조지는 게 내 전공" 쓴소리]]></title>
+        <id>https://v.daum.net/v/20230507015101129</id>
+        <link href="https://v.daum.net/v/20230507015101129"/>
+        <updated>2023-05-06T17:08:32.793Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '구미호뎐1938' 이동욱, 김범 환생 위해 타임슬립···더보이즈 영훈 죽고 김소연 등장]]></title>
+        <id>https://v.daum.net/v/20230507014619093</id>
+        <link href="https://v.daum.net/v/20230507014619093"/>
+        <updated>2023-05-06T17:08:32.801Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 한석규, 의심하는 이경영에 "네 딸 펄펄 날고 있으니 걱정마라"]]></title>
         <id>https://v.daum.net/v/20230507010300950</id>
@@ -25,6 +39,13 @@
         <link href="https://v.daum.net/v/20230507002144591"/>
         <updated>2023-05-06T16:12:02.929Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화, 환자 투신 말리다 같이 추락…민우혁과 포옹]]></title>
+        <id>https://v.daum.net/v/20230506235744415</id>
+        <link href="https://v.daum.net/v/20230506235744415"/>
+        <updated>2023-05-06T17:08:32.808Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민우혁, 김병철 앞에서 엄정화 박력 포옹‥본격 사각관계 ‘닥터 차정숙’]]></title>
@@ -76,38 +97,17 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김병철, 엄정화에 "딸 이서연 미대 다니게 하려면 병원 그만 둬"]]></title>
+        <id>https://v.daum.net/v/20230506230541017</id>
+        <link href="https://v.daum.net/v/20230506230541017"/>
+        <updated>2023-05-06T17:08:32.835Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['김사부3' 한석규, 막말하는 이신영에 분노 "수술실 출입 금지"]]></title>
         <id>https://v.daum.net/v/20230506230212012</id>
         <link href="https://v.daum.net/v/20230506230212012"/>
         <updated>2023-05-06T14:08:33.802Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 명세빈 거짓말에 속았다‥김병철에 “의심 미안”]]></title>
-        <id>https://v.daum.net/v/20230506230044009</id>
-        <link href="https://v.daum.net/v/20230506230044009"/>
-        <updated>2023-05-06T14:08:33.806Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐 1938' 영훈, 젊음 빨아먹는 거북이였다..우투리 검에 죽음]]></title>
-        <id>https://v.daum.net/v/20230506225540947</id>
-        <link href="https://v.daum.net/v/20230506225540947"/>
-        <updated>2023-05-06T14:08:33.810Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘구미호뎐1938’ 이동욱, 김범 살리고 일제강점기 갇혔다 ‘김소연 첫등장’]]></title>
-        <id>https://v.daum.net/v/20230506225346931</id>
-        <link href="https://v.daum.net/v/20230506225346931"/>
-        <updated>2023-05-06T14:08:33.811Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘구미호뎐’ 과거에 갇힌 이동욱, 김범 구하고 김소연과 재회 임박]]></title>
-        <id>https://v.daum.net/v/20230506224514847</id>
-        <link href="https://v.daum.net/v/20230506224514847"/>
-        <updated>2023-05-06T14:08:33.819Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
