@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T02:24:44.146Z</updated>
+    <updated>2023-05-06T03:10:30.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우도환, 최무성 살해 혐의 벗었다]]></title>
+        <id>https://v.daum.net/v/20230506120145575</id>
+        <link href="https://v.daum.net/v/20230506120145575"/>
+        <updated>2023-05-06T03:10:20.212Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말 순삭 예고…연기 되는 구미호→의사가 물들일 안방]]></title>
+        <id>https://v.daum.net/v/20230506115443480</id>
+        <link href="https://v.daum.net/v/20230506115443480"/>
+        <updated>2023-05-06T03:10:20.214Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1938년에 불시착’ 이동욱, 과거 자신과 아찔한 대면]]></title>
         <id>https://v.daum.net/v/20230506110146995</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230506091245655</id>
         <link href="https://v.daum.net/v/20230506091245655"/>
         <updated>2023-05-06T00:44:56.055Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 김병철 앞에서 엄정화 끌어 안은 민우혁…병원 발칵]]></title>
-        <id>https://v.daum.net/v/20230506091045637</id>
-        <link href="https://v.daum.net/v/20230506091045637"/>
-        <updated>2023-05-06T00:44:56.057Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민우혁, 남편 김병철 보는 앞에서 엄정화 포옹…병원 발칵 뒤집혔다]]></title>
-        <id>https://v.daum.net/v/20230506090945627</id>
-        <link href="https://v.daum.net/v/20230506090945627"/>
-        <updated>2023-05-06T00:44:56.060Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
