@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-06T09:10:47.115Z</updated>
+    <updated>2023-05-06T10:09:56.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구미호뎐1938' 오늘 첫 방송…이동욱, 1938년 불시착 속 첫 미션 시작]]></title>
+        <id>https://v.daum.net/v/20230506183227674</id>
+        <link href="https://v.daum.net/v/20230506183227674"/>
+        <updated>2023-05-06T10:09:46.549Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구미호뎐1938' 이동욱, 영훈과 살떨리는 신경전]]></title>
         <id>https://v.daum.net/v/20230506173316135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230506121946702"/>
         <updated>2023-05-06T04:10:59.055Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우도환, 최무성 살해 혐의 벗었다]]></title>
-        <id>https://v.daum.net/v/20230506120145575</id>
-        <link href="https://v.daum.net/v/20230506120145575"/>
-        <updated>2023-05-06T03:10:20.212Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
