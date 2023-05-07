@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-07T03:10:21.758Z</updated>
+    <updated>2023-05-07T04:11:48.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱이 이동욱 했다..1인2역에 코믹+액션 여우연기까지 '올킬']]></title>
+        <id>https://v.daum.net/v/20230507124642492</id>
+        <link href="https://v.daum.net/v/20230507124642492"/>
+        <updated>2023-05-07T04:11:37.138Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강훈X조혜주, 이대로 헤어질까…붉어진 눈시울]]></title>
+        <id>https://v.daum.net/v/20230507121146974</id>
+        <link href="https://v.daum.net/v/20230507121146974"/>
+        <updated>2023-05-07T04:11:37.138Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘진짜가 나타났다’ 차주영, 미국지사 발령 거절…백진희 먹덧 시작]]></title>
         <id>https://v.daum.net/v/20230507113003243</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230507092249402</id>
         <link href="https://v.daum.net/v/20230507092249402"/>
         <updated>2023-05-07T00:53:40.777Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석규, 호통으로 '돌담 금쪽이' 이신영 참교육…최고 14.4%]]></title>
-        <id>https://v.daum.net/v/20230507091444313</id>
-        <link href="https://v.daum.net/v/20230507091444313"/>
-        <updated>2023-05-07T00:53:40.779Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 김병철, 엄정화X민우혁 포옹 엔딩에 '동공지진'...시청률 12.9%]]></title>
-        <id>https://v.daum.net/v/20230507083715893</id>
-        <link href="https://v.daum.net/v/20230507083715893"/>
-        <updated>2023-05-07T00:53:40.788Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
