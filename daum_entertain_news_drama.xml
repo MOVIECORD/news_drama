@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-07T15:10:34.072Z</updated>
+    <updated>2023-05-07T16:11:36.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족→엄정화, 김병철·명세빈 ‘불륜’ 사실 알았다..’분노’]]></title>
+        <id>https://v.daum.net/v/20230508005846930</id>
+        <link href="https://v.daum.net/v/20230508005846930"/>
+        <updated>2023-05-07T16:11:26.984Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김병철 불륜, 엄정화 제외 모두가 알았다…박준금 "내가 짐승을 낳았어"]]></title>
+        <id>https://v.daum.net/v/20230508000933770</id>
+        <link href="https://v.daum.net/v/20230508000933770"/>
+        <updated>2023-05-07T16:11:26.984Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄정화, 김병철·명세빈 불륜 관계 알았다..'충격의 눈물']]></title>
         <id>https://v.daum.net/v/20230507234945539</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230507212645390"/>
         <updated>2023-05-07T13:09:48.424Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘진짜가’ 백진희, 안재현에게 끌리는 마음... “의지하면 안 돼” 선 그었다]]></title>
-        <id>https://v.daum.net/v/20230507212330350</id>
-        <link href="https://v.daum.net/v/20230507212330350"/>
-        <updated>2023-05-07T13:09:48.426Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 백진희, 안재현에 "든든해서 겁나..의지하게 될까봐"]]></title>
-        <id>https://v.daum.net/v/20230507212315347</id>
-        <link href="https://v.daum.net/v/20230507212315347"/>
-        <updated>2023-05-07T13:09:48.428Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
