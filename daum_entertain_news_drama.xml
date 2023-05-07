@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-07T02:09:10.153Z</updated>
+    <updated>2023-05-07T03:10:21.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘진짜가 나타났다’ 차주영, 미국지사 발령 거절…백진희 먹덧 시작]]></title>
+        <id>https://v.daum.net/v/20230507113003243</id>
+        <link href="https://v.daum.net/v/20230507113003243"/>
+        <updated>2023-05-07T03:10:10.710Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘패밀리’ 장혁, 김남희 첫 만남에 멱살잡이]]></title>
         <id>https://v.daum.net/v/20230507105308640</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230507083715893"/>
         <updated>2023-05-07T00:53:40.788Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐1938' 이동욱, 첫방부터 홀렸다..'K-판타지'로 강렬 귀환]]></title>
-        <id>https://v.daum.net/v/20230507083655892</id>
-        <link href="https://v.daum.net/v/20230507083655892"/>
-        <updated>2023-05-07T00:53:40.788Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
