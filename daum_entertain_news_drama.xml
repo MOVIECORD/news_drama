@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T21:08:58.502Z</updated>
+    <updated>2023-05-08T22:09:30.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 김남희, 장나라 협박…킬러 정체 들키나 '아슬아슬']]></title>
+        <id>https://v.daum.net/v/20230509070147549</id>
+        <link href="https://v.daum.net/v/20230509070147549"/>
+        <updated>2023-05-08T22:09:19.442Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘레이스’ 이연희 “케이 직장인 변신, 숨겨놨던 열정 폭발”]]></title>
+        <id>https://v.daum.net/v/20230509063117194</id>
+        <link href="https://v.daum.net/v/20230509063117194"/>
+        <updated>2023-05-08T22:09:19.443Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙' 엄정화 아들...감초 역할 톡톡히]]></title>
         <id>https://v.daum.net/v/20230509020216096</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230508181506498"/>
         <updated>2023-05-08T10:10:32.371Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 송지호, 母 엄정화에 비밀 연애 발각→父 불륜 목격]]></title>
-        <id>https://v.daum.net/v/20230508174830751</id>
-        <link href="https://v.daum.net/v/20230508174830751"/>
-        <updated>2023-05-08T09:10:55.250Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱X이원정, 불편한 사제지간?..묘한 기류]]></title>
-        <id>https://v.daum.net/v/20230508173017185</id>
-        <link href="https://v.daum.net/v/20230508173017185"/>
-        <updated>2023-05-08T09:10:55.260Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
