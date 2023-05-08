@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T09:11:05.207Z</updated>
+    <updated>2023-05-08T10:10:42.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닥터 차정숙’ 조아람, 일도 사랑도 당당한 출구 없는 매력]]></title>
+        <id>https://v.daum.net/v/20230508182247681</id>
+        <link href="https://v.daum.net/v/20230508182247681"/>
+        <updated>2023-05-08T10:10:32.370Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라미란은 원래 잘했다지만…이도현까지 '눈물버튼' 등극]]></title>
+        <id>https://v.daum.net/v/20230508181506498</id>
+        <link href="https://v.daum.net/v/20230508181506498"/>
+        <updated>2023-05-08T10:10:32.371Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터 차정숙’ 송지호, 母 엄정화에 비밀 연애 발각→父 불륜 목격]]></title>
         <id>https://v.daum.net/v/20230508174830751</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230508151715655"/>
         <updated>2023-05-08T07:10:25.819Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지호, 아빠 김병철･명세빈 불륜 목격에 혼란 “부적절한 사이냐”]]></title>
-        <id>https://v.daum.net/v/20230508151442504</id>
-        <link href="https://v.daum.net/v/20230508151442504"/>
-        <updated>2023-05-08T07:10:25.822Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이연희 "어린 친구와 연기하기 위해"...문소리 "누가 할 소리"]]></title>
-        <id>https://v.daum.net/v/20230508151147331</id>
-        <link href="https://v.daum.net/v/20230508151147331"/>
-        <updated>2023-05-08T06:12:57.782Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
