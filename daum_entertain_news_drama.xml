@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T13:13:45.559Z</updated>
+    <updated>2023-05-08T14:09:49.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1987년으로 돌아간 진기주, 엄마와 상사의 같은반 친구되다]]></title>
+        <id>https://v.daum.net/v/20230508230015096</id>
+        <link href="https://v.daum.net/v/20230508230015096"/>
+        <updated>2023-05-08T14:09:37.437Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라 앞에 김남희 등장..."내가 누군지 잊었나봐"]]></title>
         <id>https://v.daum.net/v/20230508221016817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508164648415"/>
         <updated>2023-05-08T08:13:14.371Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거 숨긴 장나라, 남편과 결혼 생활 위기…동지에서 적 됐다]]></title>
-        <id>https://v.daum.net/v/20230508163602994</id>
-        <link href="https://v.daum.net/v/20230508163602994"/>
-        <updated>2023-05-08T08:13:14.373Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
