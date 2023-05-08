@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T15:10:58.619Z</updated>
+    <updated>2023-05-08T16:12:48.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꽃선비 열애사' 려운, "네가 내 미래이자 하나뿐인 계획"…신예은에 '진심 고백']]></title>
+        <id>https://v.daum.net/v/20230509003301776</id>
+        <link href="https://v.daum.net/v/20230509003301776"/>
+        <updated>2023-05-08T16:12:37.768Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 장나라, 김남희에 협박당해 킬러 임무 재개할까]]></title>
         <id>https://v.daum.net/v/20230508233144321</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508165825930"/>
         <updated>2023-05-08T08:13:14.356Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우도환X김지연, 앙숙→달달→분노..알 수 없는 관계]]></title>
-        <id>https://v.daum.net/v/20230508165644843</id>
-        <link href="https://v.daum.net/v/20230508165644843"/>
-        <updated>2023-05-08T08:13:14.356Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
