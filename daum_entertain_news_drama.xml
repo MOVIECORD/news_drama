@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T12:19:38.964Z</updated>
+    <updated>2023-05-08T13:13:45.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라 앞에 김남희 등장..."내가 누군지 잊었나봐"]]></title>
+        <id>https://v.daum.net/v/20230508221016817</id>
+        <link href="https://v.daum.net/v/20230508221016817"/>
+        <updated>2023-05-08T13:12:43.105Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패밀리' 장나라, ♥장혁에 김남희 정체 숨겼다 "사촌 오빠야"]]></title>
         <id>https://v.daum.net/v/20230508205944976</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230508163602994"/>
         <updated>2023-05-08T08:13:14.373Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱, 이원정 담임 선생님 됐다…범상치 않은 인연 예고]]></title>
-        <id>https://v.daum.net/v/20230508162745695</id>
-        <link href="https://v.daum.net/v/20230508162745695"/>
-        <updated>2023-05-08T08:13:14.373Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
