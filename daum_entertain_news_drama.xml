@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-08T08:14:23.167Z</updated>
+    <updated>2023-05-08T09:11:05.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닥터 차정숙’ 송지호, 母 엄정화에 비밀 연애 발각→父 불륜 목격]]></title>
+        <id>https://v.daum.net/v/20230508174830751</id>
+        <link href="https://v.daum.net/v/20230508174830751"/>
+        <updated>2023-05-08T09:10:55.250Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동욱X이원정, 불편한 사제지간?..묘한 기류]]></title>
+        <id>https://v.daum.net/v/20230508173017185</id>
+        <link href="https://v.daum.net/v/20230508173017185"/>
+        <updated>2023-05-08T09:10:55.260Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸 각본상 '몸값' 제작진 "원테이크·자본주의 메시지가 수상 비결"]]></title>
         <id>https://v.daum.net/v/20230508165825930</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230508151147331"/>
         <updated>2023-05-08T06:12:57.782Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, ♥오지호와 비밀 여행 포착]]></title>
-        <id>https://v.daum.net/v/20230508150019757</id>
-        <link href="https://v.daum.net/v/20230508150019757"/>
-        <updated>2023-05-08T06:12:57.784Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, 이정진 정체에 충격 받고 ‘돌연 잠적’]]></title>
-        <id>https://v.daum.net/v/20230508145919695</id>
-        <link href="https://v.daum.net/v/20230508145919695"/>
-        <updated>2023-05-08T06:12:57.785Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
