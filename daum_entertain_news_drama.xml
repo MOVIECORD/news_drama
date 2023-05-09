@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-09T03:10:57.522Z</updated>
+    <updated>2023-05-09T04:12:20.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한 작가, 판타지 멜로 드라마 ‘아씨 두리안’으로 귀환]]></title>
+        <id>https://v.daum.net/v/20230509130954309</id>
+        <link href="https://v.daum.net/v/20230509130954309"/>
+        <updated>2023-05-09T04:12:08.650Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 제작사 에이스토리, 라인업 발표…글로벌 활약 예고]]></title>
         <id>https://v.daum.net/v/20230509115915627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230509104409253"/>
         <updated>2023-05-09T02:02:47.234Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아, "복수 향한 거침없는 질주"]]></title>
-        <id>https://v.daum.net/v/20230509104316225</id>
-        <link href="https://v.daum.net/v/20230509104316225"/>
-        <updated>2023-05-09T02:02:47.234Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
