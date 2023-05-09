@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-09T08:13:43.962Z</updated>
+    <updated>2023-05-09T09:10:12.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한, 판타지 멜로물 썼다…‘아씨 두리안’ 6월 방송]]></title>
+        <id>https://v.daum.net/v/20230509175616093</id>
+        <link href="https://v.daum.net/v/20230509175616093"/>
+        <updated>2023-05-09T09:10:01.456Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 카르마부터 에필로그까지, 주원 충격 엔딩도 꽉 채웠다]]></title>
+        <id>https://v.daum.net/v/20230509173715442</id>
+        <link href="https://v.daum.net/v/20230509173715442"/>
+        <updated>2023-05-09T09:10:01.458Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이기우, 첫 사극 도전..MBC '밤에 피는 꽃' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230509172014808</id>
+        <link href="https://v.daum.net/v/20230509172014808"/>
+        <updated>2023-05-09T09:10:01.461Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙', 한약 이어 크론병...방심위 민원 '첩첩산중']]></title>
         <id>https://v.daum.net/v/20230509171144556</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230509150221907"/>
         <updated>2023-05-09T06:13:08.616Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 크론병 부정적 묘사 논란ing…JTBC 측 “확인 중”]]></title>
-        <id>https://v.daum.net/v/20230509145243333</id>
-        <link href="https://v.daum.net/v/20230509145243333"/>
-        <updated>2023-05-09T06:13:08.617Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임'·'카지노' 이어 '반짝이는 워터멜론' 발탁, 김주령 '열일' 행보]]></title>
-        <id>https://v.daum.net/v/20230509144902124</id>
-        <link href="https://v.daum.net/v/20230509144902124"/>
-        <updated>2023-05-09T06:13:08.619Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임성한 작가, 최명길X박주미와 '아씨 두리안' 컴백..6월 첫방]]></title>
-        <id>https://v.daum.net/v/20230509142706085</id>
-        <link href="https://v.daum.net/v/20230509142706085"/>
-        <updated>2023-05-09T06:13:08.620Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
