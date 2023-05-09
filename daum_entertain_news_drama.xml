@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-09T21:10:01.083Z</updated>
+    <updated>2023-05-09T22:09:04.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장나라, 이미숙 저격…남편 장혁과 마주쳤다]]></title>
+        <id>https://v.daum.net/v/20230510070159793</id>
+        <link href="https://v.daum.net/v/20230510070159793"/>
+        <updated>2023-05-09T22:08:53.126Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTT “입소문·팬덤 형성에 최고…10대를 잡아라”]]></title>
+        <id>https://v.daum.net/v/20230510063216366</id>
+        <link href="https://v.daum.net/v/20230510063216366"/>
+        <updated>2023-05-09T22:08:53.126Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘레이스’ 감독·문소리도 놀란 이연희 이미지 변신, 시청자 호평도 받을까]]></title>
         <id>https://v.daum.net/v/20230510051951544</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230509205523664"/>
         <updated>2023-05-09T12:56:39.491Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 최윤영, 이채영 계략 알았다 "넌 이제 끝이야"]]></title>
-        <id>https://v.daum.net/v/20230509205039550</id>
-        <link href="https://v.daum.net/v/20230509205039550"/>
-        <updated>2023-05-09T12:56:39.493Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤영, 이채영 뺑소니 조작 눈치챘다…"넌 끝이야"]]></title>
-        <id>https://v.daum.net/v/20230509204705479</id>
-        <link href="https://v.daum.net/v/20230509204705479"/>
-        <updated>2023-05-09T12:56:39.501Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
