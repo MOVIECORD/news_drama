@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-09T06:14:11.055Z</updated>
+    <updated>2023-05-09T07:10:04.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친 그대' 김동욱, 우정고 학생들 사이 유행템 발견...사건의 실마리?]]></title>
+        <id>https://v.daum.net/v/20230509155616445</id>
+        <link href="https://v.daum.net/v/20230509155616445"/>
+        <updated>2023-05-09T07:09:55.184Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타쉽 "몬스타엑스 형원, '오! 영심이' 특별출연"]]></title>
+        <id>https://v.daum.net/v/20230509153915717</id>
+        <link href="https://v.daum.net/v/20230509153915717"/>
+        <updated>2023-05-09T07:09:55.185Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방심위 "'닥터 차정숙' 크론병 묘사 논란→민원 43건 접수...내용 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230509153216367</id>
+        <link href="https://v.daum.net/v/20230509153216367"/>
+        <updated>2023-05-09T07:09:55.186Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["행사 NO·스케줄 다 정리"…'밤의 공원' 빛낸 최정훈의 '올인']]></title>
+        <id>https://v.daum.net/v/20230509152518029</id>
+        <link href="https://v.daum.net/v/20230509152518029"/>
+        <updated>2023-05-09T07:09:55.201Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16% 돌파 ‘닥터 차정숙’ 크론병 묘사 논란…방심위 민원+게시판 폭주]]></title>
+        <id>https://v.daum.net/v/20230509151947785</id>
+        <link href="https://v.daum.net/v/20230509151947785"/>
+        <updated>2023-05-09T07:09:55.207Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메디컬에 불륜 앞세우더니…'닥터 차정숙' 자만심이 화 키운 한약→크론병 비하]]></title>
         <id>https://v.daum.net/v/20230509150401027</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230509135846903"/>
         <updated>2023-05-09T05:09:23.215Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 형원 ‘오! 영심이’ 특별 출연, 연기도 열일]]></title>
-        <id>https://v.daum.net/v/20230509135243695</id>
-        <link href="https://v.daum.net/v/20230509135243695"/>
-        <updated>2023-05-09T05:09:23.217Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤의 공원' 최정훈 "김태리와 막역" PD 발언에 "안부만 묻는 사이" 해명]]></title>
-        <id>https://v.daum.net/v/20230509135115646</id>
-        <link href="https://v.daum.net/v/20230509135115646"/>
-        <updated>2023-05-09T05:09:23.218Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이나영, 구교환과 계속되는 만남에 설렘 느낀다]]></title>
-        <id>https://v.daum.net/v/20230509134644489</id>
-        <link href="https://v.daum.net/v/20230509134644489"/>
-        <updated>2023-05-09T05:09:23.219Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤의 공원' PD "최정훈, 박재범보다 한국말 잘해…안도된다"]]></title>
-        <id>https://v.daum.net/v/20230509133922243</id>
-        <link href="https://v.daum.net/v/20230509133922243"/>
-        <updated>2023-05-09T05:09:23.220Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이로운 사기’ 이연·유희제·홍승범, 천우희와 사기극 펼칠 영재들]]></title>
-        <id>https://v.daum.net/v/20230509133443025</id>
-        <link href="https://v.daum.net/v/20230509133443025"/>
-        <updated>2023-05-09T05:09:23.221Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
