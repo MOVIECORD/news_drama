@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-09T09:10:12.836Z</updated>
+    <updated>2023-05-09T10:11:07.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['놀면 뭐하니' 이이경·정준하·신봉선 하차하나 "새단장 논의 중"]]></title>
+        <id>https://v.daum.net/v/20230509182020829</id>
+        <link href="https://v.daum.net/v/20230509182020829"/>
+        <updated>2023-05-09T10:10:56.711Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연희X홍종현X문소리X정윤호 총출동, '레이스' 스페셜 쇼 뜬다]]></title>
+        <id>https://v.daum.net/v/20230509181216610</id>
+        <link href="https://v.daum.net/v/20230509181216610"/>
+        <updated>2023-05-09T10:10:56.712Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임성한, 판타지 멜로물 썼다…‘아씨 두리안’ 6월 방송]]></title>
         <id>https://v.daum.net/v/20230509175616093</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230509151947785"/>
         <updated>2023-05-09T07:09:55.207Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메디컬에 불륜 앞세우더니…'닥터 차정숙' 자만심이 화 키운 한약→크론병 비하]]></title>
-        <id>https://v.daum.net/v/20230509150401027</id>
-        <link href="https://v.daum.net/v/20230509150401027"/>
-        <updated>2023-05-09T06:13:08.616Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍요섭, 차화연 배 가리키며 "이제 아기도 생기잖아요" 말하자..]]></title>
-        <id>https://v.daum.net/v/20230509150221907</id>
-        <link href="https://v.daum.net/v/20230509150221907"/>
-        <updated>2023-05-09T06:13:08.616Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
