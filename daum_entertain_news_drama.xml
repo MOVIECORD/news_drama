@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T04:11:53.953Z</updated>
+    <updated>2023-05-10T05:09:49.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘택배기사’로 돌아온 김우빈… “어둠의 기사, '5-8'입니다”]]></title>
+        <id>https://v.daum.net/v/20230510140319750</id>
+        <link href="https://v.daum.net/v/20230510140319750"/>
+        <updated>2023-05-10T05:09:38.490Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친, 그대' 우연을 운명으로 바꾸려면]]></title>
+        <id>https://v.daum.net/v/20230510140016596</id>
+        <link href="https://v.daum.net/v/20230510140016596"/>
+        <updated>2023-05-10T05:09:38.492Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘종이달’ 김서형 파국의 끝은? 긴 여운 남긴 충격적 결말]]></title>
+        <id>https://v.daum.net/v/20230510134644133</id>
+        <link href="https://v.daum.net/v/20230510134644133"/>
+        <updated>2023-05-10T05:09:38.492Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["잘 살아남았구나"..'택배기사' 김우빈X이솜, 데뷔작 이후 재회]]></title>
         <id>https://v.daum.net/v/20230510130001991</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230510120215029"/>
         <updated>2023-05-10T03:10:31.675Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['택배기사' 조의석 감독 "韓 '매드맥스'?..결이 다른 이야기"]]></title>
-        <id>https://v.daum.net/v/20230510120206020</id>
-        <link href="https://v.daum.net/v/20230510120206020"/>
-        <updated>2023-05-10T03:10:31.677Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“모든 것이 새로울 것” ‘택배기사’ 김우빈→송승헌, 사막화 된 서울서 만난다]]></title>
-        <id>https://v.daum.net/v/20230510120145000</id>
-        <link href="https://v.daum.net/v/20230510120145000"/>
-        <updated>2023-05-10T03:10:31.678Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극소수만 살아남은 세상···'택배기사' 김우빈의 극한 생존기]]></title>
-        <id>https://v.daum.net/v/20230510120107941</id>
-        <link href="https://v.daum.net/v/20230510120107941"/>
-        <updated>2023-05-10T03:10:31.681Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
