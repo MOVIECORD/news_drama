@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T08:13:42.787Z</updated>
+    <updated>2023-05-10T09:11:07.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드레스 코드=사막화 된 한반도'..김우빈 '택배기사' 기대되는 이유]]></title>
+        <id>https://v.daum.net/v/20230510180001028</id>
+        <link href="https://v.daum.net/v/20230510180001028"/>
+        <updated>2023-05-10T09:10:00.824Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한석규, 시즌3에도 금쪽이 길들이기..태초에 유연석·서현진이 있었다]]></title>
+        <id>https://v.daum.net/v/20230510173416270</id>
+        <link href="https://v.daum.net/v/20230510173416270"/>
+        <updated>2023-05-10T09:10:00.827Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['종이달' 김서형, 이러니 칸 페스티벌서 박수 받았지]]></title>
         <id>https://v.daum.net/v/20230510163006756</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230510152440939"/>
         <updated>2023-05-10T07:09:43.374Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 측 "크론병 증세 설명 미흡…환자·가족분께 사과"]]></title>
-        <id>https://v.daum.net/v/20230510152148793</id>
-        <link href="https://v.daum.net/v/20230510152148793"/>
-        <updated>2023-05-10T07:09:43.375Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 제작진, 크론병=유전 사과 "환자에 상처..설명 미흡했다"]]></title>
-        <id>https://v.daum.net/v/20230510152148794</id>
-        <link href="https://v.daum.net/v/20230510152148794"/>
-        <updated>2023-05-10T07:09:43.376Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
