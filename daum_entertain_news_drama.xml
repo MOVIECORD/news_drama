@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T22:11:47.328Z</updated>
+    <updated>2023-05-10T23:10:30.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["키스=단순실수" 유인나♥윤현민, 안타까운 오해 확 꼬인 로맨스]]></title>
+        <id>https://v.daum.net/v/20230511075446182</id>
+        <link href="https://v.daum.net/v/20230511075446182"/>
+        <updated>2023-05-10T23:10:19.284Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오늘도 사랑스럽개’ 조아영 캐스팅, 차은우에 빠져버린 학생]]></title>
+        <id>https://v.daum.net/v/20230511072545765</id>
+        <link href="https://v.daum.net/v/20230511072545765"/>
+        <updated>2023-05-10T23:10:19.287Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 14기 옥순, 영수 버리나…"다들 현숙 편, 나만 악녀"]]></title>
+        <id>https://v.daum.net/v/20230511071415641</id>
+        <link href="https://v.daum.net/v/20230511071415641"/>
+        <updated>2023-05-10T23:10:19.290Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조아영, '오늘도 사랑스럽개' 캐스팅…차은우와 호흡]]></title>
         <id>https://v.daum.net/v/20230511070344550</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230511002144872"/>
         <updated>2023-05-10T17:09:36.927Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜엄마' 정웅인, 대선 준비로 예민 "이도현 정리하자"]]></title>
-        <id>https://v.daum.net/v/20230511000807762</id>
-        <link href="https://v.daum.net/v/20230511000807762"/>
-        <updated>2023-05-10T15:09:44.531Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스틸러' 이주우, 주원=스컹크 정체 알았다 "왜 여기서 나와?"]]></title>
-        <id>https://v.daum.net/v/20230510235848558</id>
-        <link href="https://v.daum.net/v/20230510235848558"/>
-        <updated>2023-05-10T15:09:44.541Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현, 안은진과 재회…정웅인 계략에 또 위기 맞나]]></title>
-        <id>https://v.daum.net/v/20230510234416488</id>
-        <link href="https://v.daum.net/v/20230510234416488"/>
-        <updated>2023-05-10T15:09:44.541Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
