@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T09:11:07.930Z</updated>
+    <updated>2023-05-10T10:11:07.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 크론병=못된 병 비하 사과…찢어진 신뢰 봉합 할까]]></title>
+        <id>https://v.daum.net/v/20230510184914488</id>
+        <link href="https://v.daum.net/v/20230510184914488"/>
+        <updated>2023-05-10T10:10:58.161Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드레스 코드=사막화 된 한반도'..김우빈 '택배기사' 기대되는 이유]]></title>
         <id>https://v.daum.net/v/20230510180001028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510152643026"/>
         <updated>2023-05-10T07:09:43.368Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크론병' 논란에 '닥터 차정숙' 측 "전개 과정 설명 미흡..환자 분들께 죄송"]]></title>
-        <id>https://v.daum.net/v/20230510152440939</id>
-        <link href="https://v.daum.net/v/20230510152440939"/>
-        <updated>2023-05-10T07:09:43.374Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
