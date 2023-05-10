@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-10T15:10:47.035Z</updated>
+    <updated>2023-05-10T16:14:30.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현 "아이유 보다 더 예뻐"…라미란에 특급 애교]]></title>
+        <id>https://v.daum.net/v/20230511002144872</id>
+        <link href="https://v.daum.net/v/20230511002144872"/>
+        <updated>2023-05-10T16:14:18.248Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 정웅인, 대선 준비로 예민 "이도현 정리하자"]]></title>
         <id>https://v.daum.net/v/20230511000807762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510203310592"/>
         <updated>2023-05-10T12:19:04.093Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최윤영, 이채영 뺑소니 조작 눈치챘다…"누구 찾아?"]]></title>
-        <id>https://v.daum.net/v/20230510201439177</id>
-        <link href="https://v.daum.net/v/20230510201439177"/>
-        <updated>2023-05-10T12:19:04.093Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
