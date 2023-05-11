@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T20:11:33.545Z</updated>
+    <updated>2023-05-11T21:09:01.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘택배기사’ 김우빈, 디스토피아 서울 난민을 구하라]]></title>
+        <id>https://v.daum.net/v/20230512060448688</id>
+        <link href="https://v.daum.net/v/20230512060448688"/>
+        <updated>2023-05-11T21:08:50.373Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부 금쪽이' 이신영, 김민재와도 싸운다...오은영 박사님 만나야]]></title>
+        <id>https://v.daum.net/v/20230512060036516</id>
+        <link href="https://v.daum.net/v/20230512060036516"/>
+        <updated>2023-05-11T21:08:50.383Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터차정숙' 엄정화, 바람피운 남편 '참교육'할까]]></title>
         <id>https://v.daum.net/v/20230512050215694</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230511204346915"/>
         <updated>2023-05-11T12:18:34.914Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 조은숙, 이훈 고백에..품안에서 오열]]></title>
-        <id>https://v.daum.net/v/20230511204312907</id>
-        <link href="https://v.daum.net/v/20230511204312907"/>
-        <updated>2023-05-11T12:18:34.915Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 이채영, 납치+협박으로 이민지 구해...김예령 유턴?]]></title>
-        <id>https://v.daum.net/v/20230511204000844</id>
-        <link href="https://v.daum.net/v/20230511204000844"/>
-        <updated>2023-05-11T12:18:34.915Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
