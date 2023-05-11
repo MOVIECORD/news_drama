@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T10:11:09.456Z</updated>
+    <updated>2023-05-11T11:09:37.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤영, 방은희에 "엄마"…이은형 "놀라서 한 말?" 의심]]></title>
+        <id>https://v.daum.net/v/20230511200643268</id>
+        <link href="https://v.daum.net/v/20230511200643268"/>
+        <updated>2023-05-11T11:08:34.690Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 김시하 사연 들은 이훈, 조은숙에 프러포즈 “울타리 되겠다”]]></title>
+        <id>https://v.daum.net/v/20230511194915910</id>
+        <link href="https://v.daum.net/v/20230511194915910"/>
+        <updated>2023-05-11T11:08:34.690Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘홍김동전’ 주우재, 제대로 적수 만났다…김혜선 등장에 절규]]></title>
+        <id>https://v.daum.net/v/20230511193709709</id>
+        <link href="https://v.daum.net/v/20230511193709709"/>
+        <updated>2023-05-11T11:08:34.695Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백진희-안재현, 케미 심상치 않다…3개월 계약 동거 시작]]></title>
+        <id>https://v.daum.net/v/20230511192043394</id>
+        <link href="https://v.daum.net/v/20230511192043394"/>
+        <updated>2023-05-11T11:08:34.695Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이시우, '아스달연대기2' 출연...이준기X신세경 만난다]]></title>
         <id>https://v.daum.net/v/20230511181714796</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230511155243243"/>
         <updated>2023-05-11T07:10:27.956Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 타이틀곡 부른 ‘베스티언즈’ 미국 방영 확정]]></title>
-        <id>https://v.daum.net/v/20230511145619473</id>
-        <link href="https://v.daum.net/v/20230511145619473"/>
-        <updated>2023-05-11T06:13:31.697Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수지, '눈물의 여왕' 합류...김수현·김지원 옆 정극 연기 도전]]></title>
-        <id>https://v.daum.net/v/20230511145344369</id>
-        <link href="https://v.daum.net/v/20230511145344369"/>
-        <updated>2023-05-11T06:13:31.698Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도현, 첫눈에 반한 안은진 따라 읍내..母라미란까지 삼자대면]]></title>
-        <id>https://v.daum.net/v/20230511143616591</id>
-        <link href="https://v.daum.net/v/20230511143616591"/>
-        <updated>2023-05-11T06:13:31.700Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강말금, 안방극장 울린 K-모녀 이야기]]></title>
-        <id>https://v.daum.net/v/20230511143417499</id>
-        <link href="https://v.daum.net/v/20230511143417499"/>
-        <updated>2023-05-11T06:13:31.701Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
