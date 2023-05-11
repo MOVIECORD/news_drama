@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T06:13:42.131Z</updated>
+    <updated>2023-05-11T07:10:38.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이연희, 예쁨 내려놓고 '열혈 직장인' 변신]]></title>
+        <id>https://v.daum.net/v/20230511155243243</id>
+        <link href="https://v.daum.net/v/20230511155243243"/>
+        <updated>2023-05-11T07:10:27.956Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 타이틀곡 부른 ‘베스티언즈’ 미국 방영 확정]]></title>
         <id>https://v.daum.net/v/20230511145619473</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230511113514741"/>
         <updated>2023-05-11T03:10:42.202Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청자 취향 다변화..‘약한영웅’→‘모범택시2’, 비로맨스·시즌제 해외에서 通했다]]></title>
-        <id>https://v.daum.net/v/20230511113016497</id>
-        <link href="https://v.daum.net/v/20230511113016497"/>
-        <updated>2023-05-11T02:33:36.783Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
