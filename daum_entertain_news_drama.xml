@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-11T12:19:37.357Z</updated>
+    <updated>2023-05-11T13:14:06.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신입' 차정숙 vs '명의' 김사부, 시청률은 누가 살릴까]]></title>
+        <id>https://v.daum.net/v/20230511215002932</id>
+        <link href="https://v.daum.net/v/20230511215002932"/>
+        <updated>2023-05-11T13:12:59.372Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최재원, 서준영 이혼 작정하고 나섰다...김시후는 거짓말 들켜]]></title>
         <id>https://v.daum.net/v/20230511210630420</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230511172442199</id>
         <link href="https://v.daum.net/v/20230511172442199"/>
         <updated>2023-05-11T09:10:39.948Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라! 데보라' 측 "오해로 어긋난 유인나·윤현민, 관계 재정립"]]></title>
-        <id>https://v.daum.net/v/20230511172315145</id>
-        <link href="https://v.daum.net/v/20230511172315145"/>
-        <updated>2023-05-11T09:10:39.950Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
