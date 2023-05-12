@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-12T13:12:23.207Z</updated>
+    <updated>2023-05-12T14:09:56.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 안효섭, 이성경과 말다툼 "내가 창피해?"]]></title>
+        <id>https://v.daum.net/v/20230512225510030</id>
+        <link href="https://v.daum.net/v/20230512225510030"/>
+        <updated>2023-05-12T14:08:54.045Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안효섭, 이성경과 말다툼 "내가 창피해?"]]></title>
+        <id>https://v.daum.net/v/20230512223244839</id>
+        <link href="https://v.daum.net/v/20230512223244839"/>
+        <updated>2023-05-12T14:08:54.045Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 이경영, 한석규 택한 안효섭 자극 "똘마니를 기르고 있었구먼"]]></title>
+        <id>https://v.daum.net/v/20230512223102822</id>
+        <link href="https://v.daum.net/v/20230512223102822"/>
+        <updated>2023-05-12T14:08:54.048Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안효섭, 이경영과 기싸움 "한석규와 돌담에 남고 싶어"]]></title>
+        <id>https://v.daum.net/v/20230512221842563</id>
+        <link href="https://v.daum.net/v/20230512221842563"/>
+        <updated>2023-05-12T14:08:54.049Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 전혜연, 양부모 살해 누명 '복수극의 시작']]></title>
         <id>https://v.daum.net/v/20230512203814052</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230512164401360"/>
         <updated>2023-05-12T08:12:29.572Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조선변호사’ 측 “차학연X한소은, 몰랐던 진실 알고 충격 빠진다”]]></title>
-        <id>https://v.daum.net/v/20230512163745183</id>
-        <link href="https://v.daum.net/v/20230512163745183"/>
-        <updated>2023-05-12T08:12:29.572Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이어 달고, 총 겨누고..이동욱, 얼굴만 잘생긴 게 전부가 아닌 배우]]></title>
-        <id>https://v.daum.net/v/20230512154944788</id>
-        <link href="https://v.daum.net/v/20230512154944788"/>
-        <updated>2023-05-12T07:09:56.763Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금쪽상담소' 측 "서정희 편, 서세원과 결혼이 삶에 미친 것에 중점"]]></title>
-        <id>https://v.daum.net/v/20230512154216604</id>
-        <link href="https://v.daum.net/v/20230512154216604"/>
-        <updated>2023-05-12T07:09:56.765Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연X한소은, 서로의 비밀 알았다 ‘충격+눈물’]]></title>
-        <id>https://v.daum.net/v/20230512154145591</id>
-        <link href="https://v.daum.net/v/20230512154145591"/>
-        <updated>2023-05-12T07:09:56.766Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
