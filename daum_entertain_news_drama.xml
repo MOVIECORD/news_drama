@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-12T07:10:07.874Z</updated>
+    <updated>2023-05-12T08:13:31.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학폭 가해자들에 가려져 빛 못봤는데…이도현, 시청률 '7%대' 이끈 원석]]></title>
+        <id>https://v.daum.net/v/20230512164401360</id>
+        <link href="https://v.daum.net/v/20230512164401360"/>
+        <updated>2023-05-12T08:12:29.572Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 측 “차학연X한소은, 몰랐던 진실 알고 충격 빠진다”]]></title>
+        <id>https://v.daum.net/v/20230512163745183</id>
+        <link href="https://v.daum.net/v/20230512163745183"/>
+        <updated>2023-05-12T08:12:29.572Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와이어 달고, 총 겨누고..이동욱, 얼굴만 잘생긴 게 전부가 아닌 배우]]></title>
         <id>https://v.daum.net/v/20230512154944788</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230512132544937"/>
         <updated>2023-05-12T05:09:40.950Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사냥개들’ 포스터X예고편 속 음주운전 김새론 삭제했지만]]></title>
-        <id>https://v.daum.net/v/20230512121849863</id>
-        <link href="https://v.daum.net/v/20230512121849863"/>
-        <updated>2023-05-12T04:12:01.545Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오! 영심이’ 송하윤 이동해 캐릭터 소개 영상, 뒤바뀐 갑과 을]]></title>
-        <id>https://v.daum.net/v/20230512115243192</id>
-        <link href="https://v.daum.net/v/20230512115243192"/>
-        <updated>2023-05-12T03:10:52.656Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
