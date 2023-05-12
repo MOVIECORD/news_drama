@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-12T21:09:18.436Z</updated>
+    <updated>2023-05-12T22:09:41.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현, 인간 리트리버 등극...'나쁜엄마'서 연기 포텐 터졌다]]></title>
+        <id>https://v.daum.net/v/20230513070030392</id>
+        <link href="https://v.daum.net/v/20230513070030392"/>
+        <updated>2023-05-12T22:09:32.805Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이신영 움직인 한석규 한 마디 "존중 받는 의사 되길"]]></title>
+        <id>https://v.daum.net/v/20230513065144299</id>
+        <link href="https://v.daum.net/v/20230513065144299"/>
+        <updated>2023-05-12T22:09:32.808Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘종이달’ 이시우 “늘 스스로에게 솔직하고 싶다… 연기는 그 연장선”]]></title>
         <id>https://v.daum.net/v/20230513060118213</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230512232346311"/>
         <updated>2023-05-12T15:10:13.772Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김사부3’ 안효섭, 이경영 때문에 이성경과 다툼..“내가 창피해? 모자라?”]]></title>
-        <id>https://v.daum.net/v/20230512231117182</id>
-        <link href="https://v.daum.net/v/20230512231117182"/>
-        <updated>2023-05-12T15:10:13.777Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 이성경과 말다툼 "내가 창피해?"]]></title>
-        <id>https://v.daum.net/v/20230512225510030</id>
-        <link href="https://v.daum.net/v/20230512225510030"/>
-        <updated>2023-05-12T14:08:54.045Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
