@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-13T02:30:37.922Z</updated>
+    <updated>2023-05-13T03:11:39.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조선변호사’ 우도환, 김지연 붙잡았다 “그 혼인, 내가 허락 안 해”]]></title>
+        <id>https://v.daum.net/v/20230513114201307</id>
+        <link href="https://v.daum.net/v/20230513114201307"/>
+        <updated>2023-05-13T03:10:35.927Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EBS에 나타난 김은숙 작가…황기환 특집 다큐 ‘영웅을 찾아서’]]></title>
         <id>https://v.daum.net/v/20230513111315070</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513090545670"/>
         <updated>2023-05-13T00:46:08.703Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 한석규 병원서 의료사고 발생..최고 16.1% 달성]]></title>
-        <id>https://v.daum.net/v/20230513083742289</id>
-        <link href="https://v.daum.net/v/20230513083742289"/>
-        <updated>2023-05-13T00:46:08.713Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
