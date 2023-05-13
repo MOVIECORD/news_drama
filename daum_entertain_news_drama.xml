@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-13T06:11:55.656Z</updated>
+    <updated>2023-05-13T07:09:20.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종이달' 이시우 "한예종 때 지금보다 20kg 쪘다..항상 다이어트"]]></title>
+        <id>https://v.daum.net/v/20230513154915823</id>
+        <link href="https://v.daum.net/v/20230513154915823"/>
+        <updated>2023-05-13T07:09:09.643Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안재현, 차주영X이칸희와 삼자대면..불편한 만남]]></title>
+        <id>https://v.daum.net/v/20230513152314528</id>
+        <link href="https://v.daum.net/v/20230513152314528"/>
+        <updated>2023-05-13T07:09:09.645Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘진짜가’ 안재현-차주영-이칸희, 불편한 삼자대면]]></title>
+        <id>https://v.daum.net/v/20230513151745466</id>
+        <link href="https://v.daum.net/v/20230513151745466"/>
+        <updated>2023-05-13T07:09:09.645Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재현, 차주영･母 이칸희와 ‘숨 막히는’ 불편한 삼자대면]]></title>
         <id>https://v.daum.net/v/20230513144744008</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230513105201829"/>
         <updated>2023-05-13T01:59:01.088Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 이성경 백허그로 '김사부3' 여심도 '꽉']]></title>
-        <id>https://v.daum.net/v/20230513104945807</id>
-        <link href="https://v.daum.net/v/20230513104945807"/>
-        <updated>2023-05-13T01:59:01.089Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 러브라인 씬배치가 왜 이럴까]]></title>
-        <id>https://v.daum.net/v/20230513104843799</id>
-        <link href="https://v.daum.net/v/20230513104843799"/>
-        <updated>2023-05-13T01:59:01.092Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구미호뎐 1938’ 한우리 작가가 이끄는 ‘매혹적인’ 세계]]></title>
-        <id>https://v.daum.net/v/20230513103918718</id>
-        <link href="https://v.daum.net/v/20230513103918718"/>
-        <updated>2023-05-13T01:59:01.093Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
