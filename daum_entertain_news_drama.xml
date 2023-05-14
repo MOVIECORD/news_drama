@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-14T03:10:44.089Z</updated>
+    <updated>2023-05-14T04:11:58.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아온 돌담즈, 영향력은 그대로..더 다채로워진 관계성]]></title>
+        <id>https://v.daum.net/v/20230514124544559</id>
+        <link href="https://v.daum.net/v/20230514124544559"/>
+        <updated>2023-05-14T04:11:47.249Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우연시' 이승규 "이종혁=이완 바랐다…멋진 배우"]]></title>
+        <id>https://v.daum.net/v/20230514123017402</id>
+        <link href="https://v.daum.net/v/20230514123017402"/>
+        <updated>2023-05-14T04:11:47.257Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20년 만에 재회한 송하윤X이동해…‘오! 영심이’ D-1 관전 포인트]]></title>
         <id>https://v.daum.net/v/20230514120745176</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230514092717252"/>
         <updated>2023-05-14T00:52:26.974Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱X진기주, 예상 못 한 변수에 '일촉즉발']]></title>
-        <id>https://v.daum.net/v/20230514085915694</id>
-        <link href="https://v.daum.net/v/20230514085915694"/>
-        <updated>2023-05-14T00:52:26.974Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 한석규의 낭만vs이경영의 현실, 의사 신념 충돌..12%]]></title>
-        <id>https://v.daum.net/v/20230514085042615</id>
-        <link href="https://v.daum.net/v/20230514085042615"/>
-        <updated>2023-05-14T00:52:26.974Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
