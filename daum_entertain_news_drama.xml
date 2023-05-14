@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-14T10:09:48.575Z</updated>
+    <updated>2023-05-14T11:08:54.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모범택시2' 배유람이 분노한 것]]></title>
+        <id>https://v.daum.net/v/20230514190926264</id>
+        <link href="https://v.daum.net/v/20230514190926264"/>
+        <updated>2023-05-14T11:07:47.647Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 카메라 앞 과한 리액션 하는 지석진에 "상담 한 번 받아봐"]]></title>
         <id>https://v.daum.net/v/20230514184649968</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230514141946047"/>
         <updated>2023-05-14T06:12:21.572Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비장' 엄정화 VS '날 선' 명세빈, 제대로 맞붙는다..매서운 경고]]></title>
-        <id>https://v.daum.net/v/20230514140242653</id>
-        <link href="https://v.daum.net/v/20230514140242653"/>
-        <updated>2023-05-14T05:09:12.331Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
