@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-15T09:10:42.999Z</updated>
+    <updated>2023-05-15T10:11:30.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오! 영심이' 이동해 "9년 만 드라마 설레"…송하윤과 동갑 케미]]></title>
+        <id>https://v.daum.net/v/20230515185144384</id>
+        <link href="https://v.daum.net/v/20230515185144384"/>
+        <updated>2023-05-15T10:11:18.758Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모델·록가수·할리우드 진출…배우 공정환이 걸어온 30년]]></title>
         <id>https://v.daum.net/v/20230515180107246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230515165002708"/>
         <updated>2023-05-15T08:12:45.833Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란·강말금·서이숙 엄마라는 이름으로…3色 모성애]]></title>
-        <id>https://v.daum.net/v/20230515164921698</id>
-        <link href="https://v.daum.net/v/20230515164921698"/>
-        <updated>2023-05-15T08:12:45.834Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
