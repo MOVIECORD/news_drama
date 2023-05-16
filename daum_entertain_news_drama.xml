@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-16T13:14:37.019Z</updated>
+    <updated>2023-05-16T14:09:40.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파란모자 쓴 연쇄살인범..."희섭이 아니라 형 유섭이라고?"]]></title>
+        <id>https://v.daum.net/v/20230516230514414</id>
+        <link href="https://v.daum.net/v/20230516230514414"/>
+        <updated>2023-05-16T14:09:28.615Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친 그대' 진기주, 19살 母 서지혜 발언에 '웃참']]></title>
+        <id>https://v.daum.net/v/20230516230219383</id>
+        <link href="https://v.daum.net/v/20230516230219383"/>
+        <updated>2023-05-16T14:09:28.618Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 장혁♥장나라, 유괴된 딸 찾자마자 습격당해…차인표 정체는?]]></title>
+        <id>https://v.daum.net/v/20230516225145269</id>
+        <link href="https://v.daum.net/v/20230516225145269"/>
+        <updated>2023-05-16T14:09:28.620Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어쩌다 마주친 그대' 진기주, 김동욱 걱정 "지금 몇 시인 줄 알아요?"]]></title>
         <id>https://v.daum.net/v/20230516220527690</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230516195114406"/>
         <updated>2023-05-16T11:08:08.504Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가면의 여왕' 분열 시작된 김선아X오윤아의 공조]]></title>
-        <id>https://v.daum.net/v/20230516183016619</id>
-        <link href="https://v.daum.net/v/20230516183016619"/>
-        <updated>2023-05-16T10:10:56.881Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 측 "'오징어 게임3'까지 동시 촬영? 시즌2 준비 매진"]]></title>
-        <id>https://v.daum.net/v/20230516181333177</id>
-        <link href="https://v.daum.net/v/20230516181333177"/>
-        <updated>2023-05-16T10:10:56.883Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화밤' 나상도 父, 며느리감 공개 구혼…홍자 "돈·집 마련됐다" 어필]]></title>
-        <id>https://v.daum.net/v/20230516180433946</id>
-        <link href="https://v.daum.net/v/20230516180433946"/>
-        <updated>2023-05-16T09:10:18.112Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
