@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-17T15:11:26.430Z</updated>
+    <updated>2023-05-17T16:14:49.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국은 '차정숙' 열풍...JTBC 역대 4위로 우뚝]]></title>
+        <id>https://v.daum.net/v/20230518010030598</id>
+        <link href="https://v.daum.net/v/20230518010030598"/>
+        <updated>2023-05-17T16:13:40.612Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송혜교X한소희 '자백의 대가' 무산됐지만.."그래두 내꺼" 찐우정]]></title>
         <id>https://v.daum.net/v/20230518000001042</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517201642797"/>
         <updated>2023-05-17T12:18:41.795Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대본 수정 이견有" 송혜교·한소희, '자백의 대가' 출연 불발 속사정]]></title>
-        <id>https://v.daum.net/v/20230517200102481</id>
-        <link href="https://v.daum.net/v/20230517200102481"/>
-        <updated>2023-05-17T11:08:50.163Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
