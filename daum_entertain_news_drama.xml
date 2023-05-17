@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-17T13:13:18.743Z</updated>
+    <updated>2023-05-17T14:09:31.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스틸러' 이주우, 주원에 "우린 가족이잖아" 애틋]]></title>
+        <id>https://v.daum.net/v/20230517230242583</id>
+        <link href="https://v.daum.net/v/20230517230242583"/>
+        <updated>2023-05-17T14:09:22.392Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호영 "혼사 앞두고 자식들끼리 연애질"...조향기 "막장드라마에 개족보네"]]></title>
         <id>https://v.daum.net/v/20230517210900781</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517181822806"/>
         <updated>2023-05-17T10:11:12.991Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지효, 9억 못 받고도 사비 털어 직원들 도와준 뒷이야기]]></title>
-        <id>https://v.daum.net/v/20230517181439693</id>
-        <link href="https://v.daum.net/v/20230517181439693"/>
-        <updated>2023-05-17T10:11:12.993Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
