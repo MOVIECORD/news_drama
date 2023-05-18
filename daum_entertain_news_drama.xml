@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-18T08:13:02.710Z</updated>
+    <updated>2023-05-18T09:10:18.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[유인나X윤현민, 한밤중  데이트 ‘설레는 눈맞춤’]]></title>
+        <title type="html"><![CDATA['만취운전' 김새론 품은 '사냥개들'…우도환·이상이 투샷 공개]]></title>
+        <id>https://v.daum.net/v/20230518175914658</id>
+        <link href="https://v.daum.net/v/20230518175914658"/>
+        <updated>2023-05-18T09:10:06.961Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영광X김남길, 300억 넷플릭스 대작 '트리거'로 뭉친다]]></title>
+        <id>https://v.daum.net/v/20230518172301464</id>
+        <link href="https://v.daum.net/v/20230518172301464"/>
+        <updated>2023-05-18T09:10:06.962Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유인나X윤현민 한밤중  한강 데이트, 설레는 눈맞춤]]></title>
         <id>https://v.daum.net/v/20230518164949293</id>
         <link href="https://v.daum.net/v/20230518164949293"/>
         <updated>2023-05-18T08:12:50.717Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230518143522377"/>
         <updated>2023-05-18T06:13:16.493Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송승헌 "김우빈, 비인간적…나도 배운 게 많아"]]></title>
-        <id>https://v.daum.net/v/20230518143501354</id>
-        <link href="https://v.daum.net/v/20230518143501354"/>
-        <updated>2023-05-18T06:13:16.502Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라! 데보라' 측, 아우슈비츠 대사 논란 사과 "세심하게 고려 못해"]]></title>
-        <id>https://v.daum.net/v/20230518143318297</id>
-        <link href="https://v.daum.net/v/20230518143318297"/>
-        <updated>2023-05-18T06:13:16.502Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
