@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-19T17:09:40.003Z</updated>
+    <updated>2023-05-19T18:12:59.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 이경영, "너 무너지고 있는 거냐"…한석규의 불편한 손 '포착']]></title>
+        <id>https://v.daum.net/v/20230520024800858</id>
+        <link href="https://v.daum.net/v/20230520024800858"/>
+        <updated>2023-05-19T18:11:56.705Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 안효섭, "병원 가서 치료부터 받으세요"…우연히 만난 부상자에 '응급 처치']]></title>
+        <id>https://v.daum.net/v/20230520021801836</id>
+        <link href="https://v.daum.net/v/20230520021801836"/>
+        <updated>2023-05-19T18:11:56.707Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유인식, 취중 프로포즈 거절 당해..."미주야, 아윌비백이여"]]></title>
         <id>https://v.daum.net/v/20230520010030649</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230519204327125</id>
         <link href="https://v.daum.net/v/20230519204327125"/>
         <updated>2023-05-19T12:17:31.165Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 정우연, 김난희에 갑질 "사람이 위아래가 없어"]]></title>
-        <id>https://v.daum.net/v/20230519204026069</id>
-        <link href="https://v.daum.net/v/20230519204026069"/>
-        <updated>2023-05-19T12:17:31.166Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 정우연, 서한결 의심 "여자 생겼나 봐"]]></title>
-        <id>https://v.daum.net/v/20230519202546882</id>
-        <link href="https://v.daum.net/v/20230519202546882"/>
-        <updated>2023-05-19T12:17:31.168Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
