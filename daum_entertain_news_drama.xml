@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-19T20:11:36.779Z</updated>
+    <updated>2023-05-19T21:10:16.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 임윤아를 향한 사랑의 작대기 이어질까?]]></title>
+        <id>https://v.daum.net/v/20230520060035750</id>
+        <link href="https://v.daum.net/v/20230520060035750"/>
+        <updated>2023-05-19T21:09:12.956Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“간호사복 입고 착한 척” 김민재, 사람 죽인 과거 암시 ‘김사부3’]]></title>
+        <id>https://v.daum.net/v/20230520054044537</id>
+        <link href="https://v.daum.net/v/20230520054044537"/>
+        <updated>2023-05-19T21:09:12.967Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성경 울렁증 재발→안효섭 향한 총성까지‥파란의 돌담]]></title>
+        <id>https://v.daum.net/v/20230520052044291</id>
+        <link href="https://v.daum.net/v/20230520052044291"/>
+        <updated>2023-05-19T21:09:12.968Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한석규 무너지나‥손목 이상 포착 위기 ‘김사부3’]]></title>
+        <id>https://v.daum.net/v/20230520051045272</id>
+        <link href="https://v.daum.net/v/20230520051045272"/>
+        <updated>2023-05-19T21:09:12.969Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 이경영, "너 무너지고 있는 거냐"…한석규의 불편한 손 '포착']]></title>
         <id>https://v.daum.net/v/20230520024800858</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230519224144757"/>
         <updated>2023-05-19T14:09:10.315Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭 향해 울린 총성...무슨 일?]]></title>
-        <id>https://v.daum.net/v/20230519222842645</id>
-        <link href="https://v.daum.net/v/20230519222842645"/>
-        <updated>2023-05-19T14:09:10.315Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공평하게 같이 죽자” 안효섭, 의문의 남성에 총 맞나 ‘충격’]]></title>
-        <id>https://v.daum.net/v/20230519221444534</id>
-        <link href="https://v.daum.net/v/20230519221444534"/>
-        <updated>2023-05-19T14:09:10.315Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 가사도우미 된 김가연, 이채영 협박 “소희 가짜...대리점 달라”]]></title>
-        <id>https://v.daum.net/v/20230519204715184</id>
-        <link href="https://v.daum.net/v/20230519204715184"/>
-        <updated>2023-05-19T12:17:31.160Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이채영, 김가연에 무릎 꿇었다 "살려주세요"]]></title>
-        <id>https://v.daum.net/v/20230519204327125</id>
-        <link href="https://v.daum.net/v/20230519204327125"/>
-        <updated>2023-05-19T12:17:31.165Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
