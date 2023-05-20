@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T02:00:41.940Z</updated>
+    <updated>2023-05-20T02:31:29.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안신애 부른 ‘닥터 차정숙’ OST 오늘 발매, 레드로 감성 더했다]]></title>
+        <id>https://v.daum.net/v/20230520112709004</id>
+        <link href="https://v.daum.net/v/20230520112709004"/>
+        <updated>2023-05-20T02:31:19.497Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 사라진 김민재, 행방묘연]]></title>
+        <id>https://v.daum.net/v/20230520112215942</id>
+        <link href="https://v.daum.net/v/20230520112215942"/>
+        <updated>2023-05-20T02:31:19.502Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조선변호사’ 우도환X김지연X차학연, 완벽한 공조 빛났다]]></title>
         <id>https://v.daum.net/v/20230520103300378</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230520082320961"/>
         <updated>2023-05-20T00:46:51.991Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 수술방 4개 열었다..안효섭x이신영 첫 의기투합→이성경 멘붕]]></title>
-        <id>https://v.daum.net/v/20230520082115936</id>
-        <link href="https://v.daum.net/v/20230520082115936"/>
-        <updated>2023-05-20T00:46:51.992Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조한철 "'스틸러'는 마음이 많이 가는 작품..주원=배려, 이덕화=좋은 선배"]]></title>
-        <id>https://v.daum.net/v/20230520080845844</id>
-        <link href="https://v.daum.net/v/20230520080845844"/>
-        <updated>2023-05-19T23:10:33.061Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
