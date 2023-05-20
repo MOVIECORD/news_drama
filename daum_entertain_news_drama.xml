@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T10:10:05.654Z</updated>
+    <updated>2023-05-20T11:09:11.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 안효섭, 총기난사범과 ‘일촉즉발 대치’]]></title>
+        <id>https://v.daum.net/v/20230520194706442</id>
+        <link href="https://v.daum.net/v/20230520194706442"/>
+        <updated>2023-05-20T11:08:08.573Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나폴리' 영웅 김민재 출격…'장사천재' 백종원, 연매출 5억 달성할까]]></title>
         <id>https://v.daum.net/v/20230520181416228</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230520131815758</id>
         <link href="https://v.daum.net/v/20230520131815758"/>
         <updated>2023-05-20T05:09:06.515Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터차정숙' 다섯번째 OST, 아 그 목소리?..주인공은 바버렛츠 안신애]]></title>
-        <id>https://v.daum.net/v/20230520115216206</id>
-        <link href="https://v.daum.net/v/20230520115216206"/>
-        <updated>2023-05-20T03:10:37.182Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
