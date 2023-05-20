@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T06:12:39.168Z</updated>
+    <updated>2023-05-20T07:09:01.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우도환, 복수 코앞에 두고 내린 최후의 결단 ‘의미심장’]]></title>
+        <id>https://v.daum.net/v/20230520160016204</id>
+        <link href="https://v.daum.net/v/20230520160016204"/>
+        <updated>2023-05-20T07:08:49.562Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차주영, 안재현 향한 애절한 눈빛…쏟아지는 빗속 '위태로운 긴장감']]></title>
+        <id>https://v.daum.net/v/20230520152843907</id>
+        <link href="https://v.daum.net/v/20230520152843907"/>
+        <updated>2023-05-20T07:08:49.562Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재현X차주영, 쏟아지는 빗속 예사롭지 않은 만남..감정 폭발?]]></title>
         <id>https://v.daum.net/v/20230520143415329</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230520092216543"/>
         <updated>2023-05-20T00:46:51.978Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우도환·김지연·차학연, 생사 오가며 완벽 공조]]></title>
-        <id>https://v.daum.net/v/20230520092042537</id>
-        <link href="https://v.daum.net/v/20230520092042537"/>
-        <updated>2023-05-20T00:46:51.980Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 이성경, 수술실서 패닉…최고 16.7%까지]]></title>
-        <id>https://v.daum.net/v/20230520090113309</id>
-        <link href="https://v.daum.net/v/20230520090113309"/>
-        <updated>2023-05-20T00:46:51.981Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
