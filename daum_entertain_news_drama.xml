@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T15:10:20.678Z</updated>
+    <updated>2023-05-20T16:11:54.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“꺼져” 엄정화, 명세빈에 ‘일침’→김병철VS민우혁, 병원서 육탄전]]></title>
+        <id>https://v.daum.net/v/20230521005114745</id>
+        <link href="https://v.daum.net/v/20230521005114745"/>
+        <updated>2023-05-20T16:11:42.753Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 김병철X민우혁, 병원서 사랑을 건 주먹다짐…엄정화 "미쳤나봐" 경악]]></title>
+        <id>https://v.daum.net/v/20230521002948682</id>
+        <link href="https://v.daum.net/v/20230521002948682"/>
+        <updated>2023-05-20T16:11:42.755Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄정화, 김병철X민우혁 병원 난투극에 경악…"미쳤나봐"]]></title>
         <id>https://v.daum.net/v/20230521000442586</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230520230734297"/>
         <updated>2023-05-20T14:09:51.172Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐 1938' 이동욱, 류경수 정체 눈치챘다 "네가 홍백탈이냐"]]></title>
-        <id>https://v.daum.net/v/20230520230349281</id>
-        <link href="https://v.daum.net/v/20230520230349281"/>
-        <updated>2023-05-20T14:09:51.181Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 죽음의 기로에 서서 이성경 생각···한석규, 시한부였나]]></title>
-        <id>https://v.daum.net/v/20230520225316231</id>
-        <link href="https://v.daum.net/v/20230520225316231"/>
-        <updated>2023-05-20T14:09:51.185Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
