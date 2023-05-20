@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-20T05:09:17.463Z</updated>
+    <updated>2023-05-20T06:12:39.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재현X차주영, 쏟아지는 빗속 예사롭지 않은 만남..감정 폭발?]]></title>
+        <id>https://v.daum.net/v/20230520143415329</id>
+        <link href="https://v.daum.net/v/20230520143415329"/>
+        <updated>2023-05-20T06:12:27.348Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연이 왜 거기서 나와? 美 넷플릭스 '엑스오, 키티' 깜짝 출연]]></title>
         <id>https://v.daum.net/v/20230520140327069</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230520090113309"/>
         <updated>2023-05-20T00:46:51.981Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전지현도 실패한 '글로리'…김은희 작가, 김태리 업고 구긴 자존심 회복할까]]></title>
-        <id>https://v.daum.net/v/20230520090110305</id>
-        <link href="https://v.daum.net/v/20230520090110305"/>
-        <updated>2023-05-20T00:46:51.983Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
