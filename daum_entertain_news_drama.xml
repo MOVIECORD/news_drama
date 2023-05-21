@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-21T10:10:26.012Z</updated>
+    <updated>2023-05-21T11:08:52.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['택배기사' 강유석 "1500대 1 오디션서 '김우빈 연기'…김우빈, 닮고 싶은 형"]]></title>
+        <id>https://v.daum.net/v/20230521200101453</id>
+        <link href="https://v.daum.net/v/20230521200101453"/>
+        <updated>2023-05-21T11:07:43.157Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백진희VS차주영, 안재현 두고 치열한 심리전 '아슬아슬']]></title>
         <id>https://v.daum.net/v/20230521173443293</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230521112242500"/>
         <updated>2023-05-21T03:11:15.609Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱VS이원정, 강렬한 눈맞춤…불꽃 튀는 신경전]]></title>
-        <id>https://v.daum.net/v/20230521111644425</id>
-        <link href="https://v.daum.net/v/20230521111644425"/>
-        <updated>2023-05-21T03:11:15.609Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
