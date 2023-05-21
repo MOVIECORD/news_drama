@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-21T15:09:38.275Z</updated>
+    <updated>2023-05-21T16:12:12.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이혼해"..'차정숙' 김병철, 엄정화 폭탄발언에 '코피+기절']]></title>
+        <id>https://v.daum.net/v/20230522001222751</id>
+        <link href="https://v.daum.net/v/20230522001222751"/>
+        <updated>2023-05-21T16:12:03.117Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구미호뎐 1938' 김소연, 이동욱·류경수와 구석놀이 중 실종→현대로 귀환]]></title>
         <id>https://v.daum.net/v/20230522000527714</id>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['차정숙' 김병철, 로이에 주먹질→넘어져 '꽈당 굴욕']]></title>
+        <title type="html"><![CDATA['차정숙' 김병철, 민우혁에 주먹질→넘어져 '꽈당 굴욕']]></title>
         <id>https://v.daum.net/v/20230521225540172</id>
         <link href="https://v.daum.net/v/20230521225540172"/>
         <updated>2023-05-21T14:09:01.580Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐1938' 김소연, 이동욱에게 혀 짧은 애교 "일어났어 자기?"]]></title>
-        <id>https://v.daum.net/v/20230521222826024</id>
-        <link href="https://v.daum.net/v/20230521222826024"/>
-        <updated>2023-05-21T14:09:01.589Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
