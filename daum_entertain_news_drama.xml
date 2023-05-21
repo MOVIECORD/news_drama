@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-21T02:08:54.330Z</updated>
+    <updated>2023-05-21T03:11:26.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마약∙도박∙아동 매춘 끔찍한 만행..클럽 민낯 확인한 김선아]]></title>
+        <id>https://v.daum.net/v/20230521112242500</id>
+        <link href="https://v.daum.net/v/20230521112242500"/>
+        <updated>2023-05-21T03:11:15.609Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동욱VS이원정, 강렬한 눈맞춤…불꽃 튀는 신경전]]></title>
+        <id>https://v.daum.net/v/20230521111644425</id>
+        <link href="https://v.daum.net/v/20230521111644425"/>
+        <updated>2023-05-21T03:11:15.609Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조선변호사' 우도환 "전역 후 첫 복귀작, 행복한 시작으로 남을 것"]]></title>
         <id>https://v.daum.net/v/20230521110642235</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230521091556302"/>
         <updated>2023-05-21T00:54:44.025Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 김병철·명세빈에 경고…시청률 1위]]></title>
-        <id>https://v.daum.net/v/20230521091115197</id>
-        <link href="https://v.daum.net/v/20230521091115197"/>
-        <updated>2023-05-21T00:54:44.027Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈 "캐릭터 이름 직접 지어, 근육 키우며 멋짐 완성"]]></title>
-        <id>https://v.daum.net/v/20230521090242098</id>
-        <link href="https://v.daum.net/v/20230521090242098"/>
-        <updated>2023-05-21T00:54:44.036Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
