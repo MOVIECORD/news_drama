@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-21T08:12:12.361Z</updated>
+    <updated>2023-05-21T09:10:01.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백진희VS차주영, 안재현 두고 치열한 심리전 '아슬아슬']]></title>
+        <id>https://v.daum.net/v/20230521173443293</id>
+        <link href="https://v.daum.net/v/20230521173443293"/>
+        <updated>2023-05-21T09:08:58.879Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신동미 "우리 김지연 못보게 돼 너무 아쉽다" 종영소감]]></title>
+        <id>https://v.daum.net/v/20230521171549955</id>
+        <link href="https://v.daum.net/v/20230521171549955"/>
+        <updated>2023-05-21T09:08:58.879Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어그대' 연쇄살인마=이원정 가족? 김동욱과 불꽃 신경전]]></title>
         <id>https://v.daum.net/v/20230521160746583</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230521111644425"/>
         <updated>2023-05-21T03:11:15.609Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 우도환 "전역 후 첫 복귀작, 행복한 시작으로 남을 것"]]></title>
-        <id>https://v.daum.net/v/20230521110642235</id>
-        <link href="https://v.daum.net/v/20230521110642235"/>
-        <updated>2023-05-21T02:08:43.606Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선변호사' 우도환 "3년 만 복귀, 8주 동안 행복했다"]]></title>
-        <id>https://v.daum.net/v/20230521110516212</id>
-        <link href="https://v.daum.net/v/20230521110516212"/>
-        <updated>2023-05-21T02:08:43.606Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
