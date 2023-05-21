@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-21T03:11:26.096Z</updated>
+    <updated>2023-05-21T04:12:05.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조선 변호사' 우도환 "두렵고 걱정됐던 복귀작, 행복한 시작"]]></title>
+        <id>https://v.daum.net/v/20230521125415743</id>
+        <link href="https://v.daum.net/v/20230521125415743"/>
+        <updated>2023-05-21T04:11:53.332Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약∙도박∙아동 매춘 끔찍한 만행..클럽 민낯 확인한 김선아]]></title>
         <id>https://v.daum.net/v/20230521112242500</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230521092119388"/>
         <updated>2023-05-21T00:54:44.006Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["네 딸의 불행? 너의 대가"..엄정화, 명세빈과 맞불→김병철, 민우혁 질투]]></title>
-        <id>https://v.daum.net/v/20230521091556302</id>
-        <link href="https://v.daum.net/v/20230521091556302"/>
-        <updated>2023-05-21T00:54:44.025Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
