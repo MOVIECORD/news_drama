@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-22T07:10:34.300Z</updated>
+    <updated>2023-05-22T08:14:11.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황민현, '스터디그룹' 유쾌한 액션 주인공?.."출연 긍정 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230522163034898</id>
+        <link href="https://v.daum.net/v/20230522163034898"/>
+        <updated>2023-05-22T08:13:02.801Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조선변호사' 차학연 "정의로운 유지선 연기, 행복했다"]]></title>
         <id>https://v.daum.net/v/20230522160829029</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522134214123"/>
         <updated>2023-05-22T05:10:31.692Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마당이있는집’ 임지연 “혹시 사람 죽인 적 있어요?” 소름끼치는 눈빛]]></title>
-        <id>https://v.daum.net/v/20230522134152109</id>
-        <link href="https://v.daum.net/v/20230522134152109"/>
-        <updated>2023-05-22T05:10:31.694Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
