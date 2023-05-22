@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-22T18:13:01.911Z</updated>
+    <updated>2023-05-22T19:08:37.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 진경, 이경영과 신경전...부드러운 카리스마]]></title>
+        <id>https://v.daum.net/v/20230523040030310</id>
+        <link href="https://v.daum.net/v/20230523040030310"/>
+        <updated>2023-05-22T19:08:28.029Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희, 10살 어린 임지연과 연기 대결]]></title>
         <id>https://v.daum.net/v/20230523010030670</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522192221683"/>
         <updated>2023-05-22T11:08:52.352Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이동욱에게 여동생 소개? NO!"…김범, 이동욱 거절한 이유는 "너무 바빠서"]]></title>
-        <id>https://v.daum.net/v/20230522191706596</id>
-        <link href="https://v.daum.net/v/20230522191706596"/>
-        <updated>2023-05-22T11:08:52.353Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
