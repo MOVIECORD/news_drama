@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-22T21:09:02.143Z</updated>
+    <updated>2023-05-22T22:09:48.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 앞둔 '패밀리' 장혁, ♥장나라 목숨 구하고 해피엔딩 맞을까]]></title>
+        <id>https://v.daum.net/v/20230523070006431</id>
+        <link href="https://v.daum.net/v/20230523070006431"/>
+        <updated>2023-05-22T22:09:37.359Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘보라! 데보라’·‘오! 영심이’의 부진…ENA, 차기작은 스릴러물로 '올인']]></title>
         <id>https://v.daum.net/v/20230523050013840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522195400365"/>
         <updated>2023-05-22T11:08:52.350Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 조은숙, 서한결 정체 확인 후 발작]]></title>
-        <id>https://v.daum.net/v/20230522194952288</id>
-        <link href="https://v.daum.net/v/20230522194952288"/>
-        <updated>2023-05-22T11:08:52.352Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
