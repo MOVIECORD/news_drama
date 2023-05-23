@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-23T09:11:30.719Z</updated>
+    <updated>2023-05-23T10:11:27.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['태혜지' 이을 '도준경'…이도현·이준호·도경수, 男 버전 트로이카]]></title>
+        <id>https://v.daum.net/v/20230523190102380</id>
+        <link href="https://v.daum.net/v/20230523190102380"/>
+        <updated>2023-05-23T10:11:16.431Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이나영 팬"...구교환→한예리 캐스팅 가능했던 이유]]></title>
+        <id>https://v.daum.net/v/20230523181003065</id>
+        <link href="https://v.daum.net/v/20230523181003065"/>
+        <updated>2023-05-23T10:11:16.431Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차주영, 안재현 폭풍 애드리브에 '솔직'…"사람이 저렇게 뛰는 거 처음 봐요"]]></title>
         <id>https://v.daum.net/v/20230523180505914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230523165225552"/>
         <updated>2023-05-23T08:13:45.228Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이나영 “구교환과 멜로 연기 재밌어, 꼭 만나고 싶었다”]]></title>
-        <id>https://v.daum.net/v/20230523164948439</id>
-        <link href="https://v.daum.net/v/20230523164948439"/>
-        <updated>2023-05-23T08:13:45.229Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이나영 "'박하경 여행기', 쉽게 생각했는데…연기 내던졌다"]]></title>
-        <id>https://v.daum.net/v/20230523164707348</id>
-        <link href="https://v.daum.net/v/20230523164707348"/>
-        <updated>2023-05-23T08:13:45.234Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
