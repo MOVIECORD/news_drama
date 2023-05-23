@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-23T03:11:50.219Z</updated>
+    <updated>2023-05-23T04:12:30.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인나·윤현민→구준회, 카메라 뒤에선 이런 모습? 심쿵 모먼트]]></title>
+        <id>https://v.daum.net/v/20230523123854275</id>
+        <link href="https://v.daum.net/v/20230523123854275"/>
+        <updated>2023-05-23T04:12:19.631Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도현, ♥임지연만? '나쁜 엄마'로 일도 잡은 케미 남신]]></title>
+        <id>https://v.daum.net/v/20230523123515209</id>
+        <link href="https://v.daum.net/v/20230523123515209"/>
+        <updated>2023-05-23T04:12:19.632Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호♥임윤아, 눈맞춤 '킹더랜드' 포스터..레전드 비주얼 로코 탄생]]></title>
         <id>https://v.daum.net/v/20230523114623049</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230523092531801"/>
         <updated>2023-05-23T00:51:10.081Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형제라면' 강호동·이승기·배인혁, 우당탕탕 K-라면 전파기]]></title>
-        <id>https://v.daum.net/v/20230523090536031</id>
-        <link href="https://v.daum.net/v/20230523090536031"/>
-        <updated>2023-05-23T00:51:10.090Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가슴이 뛴다’ 옥택연X원지안, 반인 뱀파이어와 집주인의 대낮 청소 투샷]]></title>
-        <id>https://v.daum.net/v/20230523085756722</id>
-        <link href="https://v.daum.net/v/20230523085756722"/>
-        <updated>2023-05-23T00:51:10.091Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
