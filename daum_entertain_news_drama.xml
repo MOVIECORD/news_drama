@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-23T10:11:27.212Z</updated>
+    <updated>2023-05-23T11:10:29.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 서한결, 정우연 '기습 뽀뽀'에 당황]]></title>
+        <id>https://v.daum.net/v/20230523195726728</id>
+        <link href="https://v.daum.net/v/20230523195726728"/>
+        <updated>2023-05-23T11:10:18.511Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 조은숙, 전혜연에 “서한결 만나지 마”.. 고은미, 이훈 못 잊었다]]></title>
+        <id>https://v.daum.net/v/20230523195001534</id>
+        <link href="https://v.daum.net/v/20230523195001534"/>
+        <updated>2023-05-23T11:10:18.524Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이나영 "특별출연 10人? 너무 놀랐다…한예리 보면 눈물"]]></title>
+        <id>https://v.daum.net/v/20230523193008092</id>
+        <link href="https://v.daum.net/v/20230523193008092"/>
+        <updated>2023-05-23T11:10:18.534Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['태혜지' 이을 '도준경'…이도현·이준호·도경수, 男 버전 트로이카]]></title>
         <id>https://v.daum.net/v/20230523190102380</id>
@@ -25,13 +46,6 @@
         <link href="https://v.daum.net/v/20230523180505914"/>
         <updated>2023-05-23T09:10:28.359Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["요즘 시대에 딱"…이나영 '박하경 여행기', 멍때리며 보다가 공감 눈물]]></title>
-        <id>https://v.daum.net/v/20230523175020509</id>
-        <link href="https://v.daum.net/v/20230523175020509"/>
-        <updated>2023-05-23T09:10:28.362Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자이언티 레이블行 원슈타인, 신곡 '아포칼립스' 발매]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230523165902758"/>
         <updated>2023-05-23T08:13:45.224Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[♥원빈이 질투하겠네…이나영 "너무 보고싶었던 구교환과 멜로"]]></title>
-        <id>https://v.daum.net/v/20230523165502651</id>
-        <link href="https://v.daum.net/v/20230523165502651"/>
-        <updated>2023-05-23T08:13:45.227Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['박하경 여행기' 이나영이 선사한 위로, 지친 일상에 쉼표를]]></title>
-        <id>https://v.daum.net/v/20230523165225552</id>
-        <link href="https://v.daum.net/v/20230523165225552"/>
-        <updated>2023-05-23T08:13:45.228Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
