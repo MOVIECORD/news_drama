@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-24T16:14:26.715Z</updated>
+    <updated>2023-05-24T17:09:26.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤아, 고원희·김가은과 '미녀 삼총사' 결성...연애 고민 털어논다]]></title>
+        <id>https://v.daum.net/v/20230525020030153</id>
+        <link href="https://v.daum.net/v/20230525020030153"/>
+        <updated>2023-05-24T17:09:16.192Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 라미란, 이도현 계략 알고 눈물 "복수하지 마"]]></title>
         <id>https://v.daum.net/v/20230525001022731</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“그따위로 살면서 잘난 척 했냐” 엄정화 공감+통쾌 넷]]></title>
+        <title type="html"><![CDATA[“그따위로 살면서 잘난 척했냐”, 엄정화 공감+통쾌 넷]]></title>
         <id>https://v.daum.net/v/20230524235308336</id>
         <link href="https://v.daum.net/v/20230524235308336"/>
         <updated>2023-05-24T15:11:32.776Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230524195030676"/>
         <updated>2023-05-24T11:08:37.723Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘패밀리’ 김남희 “주식+코인 NO..집 사려면 연기 열심히 해야죠”]]></title>
-        <id>https://v.daum.net/v/20230524184229930</id>
-        <link href="https://v.daum.net/v/20230524184229930"/>
-        <updated>2023-05-24T10:10:56.053Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
