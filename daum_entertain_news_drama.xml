@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-24T20:09:47.793Z</updated>
+    <updated>2023-05-24T21:08:13.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이연희 "'국민 첫사랑' 내려놔…결혼 후 '조력자' 덕에 편안해져"]]></title>
+        <id>https://v.daum.net/v/20230525060122596</id>
+        <link href="https://v.daum.net/v/20230525060122596"/>
+        <updated>2023-05-24T21:08:02.699Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘레이스’ 홍종현 “누나인 이연희, 친구처럼 편해져‥극중 러브라인은”]]></title>
+        <id>https://v.daum.net/v/20230525060008415</id>
+        <link href="https://v.daum.net/v/20230525060008415"/>
+        <updated>2023-05-24T21:08:02.706Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤복인, '고려거란전쟁'서 최수종 부인 된다..조련 합류 불발]]></title>
+        <id>https://v.daum.net/v/20230525060003401</id>
+        <link href="https://v.daum.net/v/20230525060003401"/>
+        <updated>2023-05-24T21:08:02.707Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤아, 고원희·김가은과 '미녀 삼총사' 결성...연애 고민 털어논다]]></title>
         <id>https://v.daum.net/v/20230525020030153</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230524200731051"/>
         <updated>2023-05-24T11:08:37.710Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 한기웅, 이은형X최윤영 의심 "왜 신고은이라 불러?"]]></title>
-        <id>https://v.daum.net/v/20230524200716044</id>
-        <link href="https://v.daum.net/v/20230524200716044"/>
-        <updated>2023-05-24T11:08:37.718Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, 이훈 떠올리며 눈물 "보고 싶어"]]></title>
-        <id>https://v.daum.net/v/20230524200648037</id>
-        <link href="https://v.daum.net/v/20230524200648037"/>
-        <updated>2023-05-24T11:08:37.723Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 조은숙, 이훈에 연극연출 추천 “배신당한 상처 회복되길 바라”]]></title>
-        <id>https://v.daum.net/v/20230524195030676</id>
-        <link href="https://v.daum.net/v/20230524195030676"/>
-        <updated>2023-05-24T11:08:37.723Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
