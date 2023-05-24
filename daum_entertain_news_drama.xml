@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-24T13:14:17.081Z</updated>
+    <updated>2023-05-24T14:10:09.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 라미란, 이도현 도움으로 SD카드 비밀번호 찾았다]]></title>
+        <id>https://v.daum.net/v/20230524225705970</id>
+        <link href="https://v.daum.net/v/20230524225705970"/>
+        <updated>2023-05-24T14:09:58.108Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시후, 윤다영 집에서 무릎 꿇고 허락 구해...조향기 "길막 쩌네 쩔어"]]></title>
         <id>https://v.daum.net/v/20230524212800735</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230524171350194"/>
         <updated>2023-05-24T09:10:23.621Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유인나♥윤현민에 끼어든 구남친 황찬성..불붙은 삼각관계]]></title>
-        <id>https://v.daum.net/v/20230524170932030</id>
-        <link href="https://v.daum.net/v/20230524170932030"/>
-        <updated>2023-05-24T08:13:07.297Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
