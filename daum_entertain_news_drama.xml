@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-25T14:10:09.073Z</updated>
+    <updated>2023-05-25T15:10:28.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현, 과거 기억 떠올려...안은진은 엄마에게 고백 "강호가 쌍둥이 아빠다"]]></title>
+        <id>https://v.daum.net/v/20230526000030972</id>
+        <link href="https://v.daum.net/v/20230526000030972"/>
+        <updated>2023-05-25T15:10:18.780Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 소개팅 퇴짜 맞았다.."엄마랑 살면 안 돼?"]]></title>
+        <id>https://v.daum.net/v/20230525232324672</id>
+        <link href="https://v.daum.net/v/20230525232324672"/>
+        <updated>2023-05-25T15:10:18.783Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 악몽 꾼 라미란, 이도현에 "이제 검사 아니야"]]></title>
+        <id>https://v.daum.net/v/20230525232312671</id>
+        <link href="https://v.daum.net/v/20230525232312671"/>
+        <updated>2023-05-25T15:10:18.791Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시후, 결혼 허락받으려고 밤새 무꿇고 비 맞아...결국 응급실 행]]></title>
         <id>https://v.daum.net/v/20230525211308842</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230525172713750"/>
         <updated>2023-05-25T09:11:57.750Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘데뷔 14년차’ 홍종현, 즐기면서 달리는 반가운 ‘레이스’]]></title>
-        <id>https://v.daum.net/v/20230525172508665</id>
-        <link href="https://v.daum.net/v/20230525172508665"/>
-        <updated>2023-05-25T09:11:57.750Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종→윤복인 '고려 거란 전쟁', 시청률 전쟁 준비 끝]]></title>
-        <id>https://v.daum.net/v/20230525171500351</id>
-        <link href="https://v.daum.net/v/20230525171500351"/>
-        <updated>2023-05-25T09:11:57.752Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['택배기사' 된 김우빈 "5-8은 버림받은 인물···그 마음을 잊지 않으려 노력"]]></title>
-        <id>https://v.daum.net/v/20230525171148212</id>
-        <link href="https://v.daum.net/v/20230525171148212"/>
-        <updated>2023-05-25T08:13:09.334Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
