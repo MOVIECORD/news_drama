@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-25T09:12:07.663Z</updated>
+    <updated>2023-05-25T10:11:10.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤박 "맥가이버 손을 갖고 싶다"...아이언맨 언급하자 '웃음']]></title>
+        <id>https://v.daum.net/v/20230525185002584</id>
+        <link href="https://v.daum.net/v/20230525185002584"/>
+        <updated>2023-05-25T10:10:57.695Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 오늘 결방 “누리호 발사 뉴스특보 여파”]]></title>
+        <id>https://v.daum.net/v/20230525184959580</id>
+        <link href="https://v.daum.net/v/20230525184959580"/>
+        <updated>2023-05-25T10:10:57.698Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱 "'커프' 이후 세월 직격탄…천우희와 다시 만나고파"]]></title>
         <id>https://v.daum.net/v/20230525175009582</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230525152623824"/>
         <updated>2023-05-25T07:09:45.055Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이로운 조합"..천우희·김동욱 '이로운 사기'로 표현한 묘한 케미]]></title>
-        <id>https://v.daum.net/v/20230525152525785</id>
-        <link href="https://v.daum.net/v/20230525152525785"/>
-        <updated>2023-05-25T07:09:45.055Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["관전 포인트? 배우들 연기"…천우희X김동욱 '이로운 사기', 슈퍼 하이브리드 공조]]></title>
-        <id>https://v.daum.net/v/20230525152410728</id>
-        <link href="https://v.daum.net/v/20230525152410728"/>
-        <updated>2023-05-25T07:09:45.056Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
