@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-25T03:12:21.197Z</updated>
+    <updated>2023-05-25T04:12:28.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘넘버스’ 신입 김명수X에이스 최진혁, 흥미진진 브로맨스 예고]]></title>
+        <id>https://v.daum.net/v/20230525122715768</id>
+        <link href="https://v.daum.net/v/20230525122715768"/>
+        <updated>2023-05-25T04:12:17.580Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘레이스’ 홍종현 “직업관? 혼자 할 수 있는 일 없어..현장에서 소통 多”]]></title>
+        <id>https://v.daum.net/v/20230525122520729</id>
+        <link href="https://v.daum.net/v/20230525122520729"/>
+        <updated>2023-05-25T04:12:17.582Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜 엄마’ 라미란-이도현의 ‘나쁜 대물림’..잊잔들 잊힐리야!]]></title>
+        <id>https://v.daum.net/v/20230525121132469</id>
+        <link href="https://v.daum.net/v/20230525121132469"/>
+        <updated>2023-05-25T04:12:17.582Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자면서도 웃는 연습" 임윤아, 러블리 한도 초과 '스마일 퀸']]></title>
         <id>https://v.daum.net/v/20230525113643018</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230525104012196"/>
         <updated>2023-05-25T02:02:39.042Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁' 측 "윤복인 출연, 최수종과 부부 호흡"]]></title>
-        <id>https://v.daum.net/v/20230525101956167</id>
-        <link href="https://v.daum.net/v/20230525101956167"/>
-        <updated>2023-05-25T02:02:39.043Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘레이스’ 홍종현 “전작서 쎈캐 역할 많이 해..평범한 캐릭터 욕심나”]]></title>
-        <id>https://v.daum.net/v/20230525101819104</id>
-        <link href="https://v.daum.net/v/20230525101819104"/>
-        <updated>2023-05-25T02:02:39.049Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자면서까지 웃는 연습” 임윤아, 24시간 입가에 걸린 미소]]></title>
-        <id>https://v.daum.net/v/20230525101751072</id>
-        <link href="https://v.daum.net/v/20230525101751072"/>
-        <updated>2023-05-25T02:02:39.053Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
