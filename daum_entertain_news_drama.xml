@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-25T20:10:40.919Z</updated>
+    <updated>2023-05-25T21:09:00.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 쌍둥이 아빠였다.."나 다시 검사할래"]]></title>
+        <id>https://v.daum.net/v/20230526060008334</id>
+        <link href="https://v.daum.net/v/20230526060008334"/>
+        <updated>2023-05-25T21:08:50.233Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안은진 쌍둥이 아빠, 이도현이었다 “그때 아기들 가졌다고 말했어야 했어”]]></title>
+        <id>https://v.daum.net/v/20230526052610033</id>
+        <link href="https://v.daum.net/v/20230526052610033"/>
+        <updated>2023-05-25T21:08:50.235Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안은진 아이 아빠=이도현.."그사람 인생 망치기 싫어" 임신 숨겼다]]></title>
         <id>https://v.daum.net/v/20230526010808508</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230525200828652"/>
         <updated>2023-05-25T12:18:14.911Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영, 교통사고+기억상실 자작극…한기웅에 "누구세요?"]]></title>
-        <id>https://v.daum.net/v/20230525200117502</id>
-        <link href="https://v.daum.net/v/20230525200117502"/>
-        <updated>2023-05-25T11:08:25.034Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤박 "맥가이버 손을 갖고 싶다"...아이언맨 언급하자 '웃음']]></title>
-        <id>https://v.daum.net/v/20230525185002584</id>
-        <link href="https://v.daum.net/v/20230525185002584"/>
-        <updated>2023-05-25T10:10:57.695Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
