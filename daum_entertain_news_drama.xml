@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-26T03:10:59.719Z</updated>
+    <updated>2023-05-26T04:11:44.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, ‘원더풀 월드’ 출연에 “긍정 검토 중”]]></title>
+        <id>https://v.daum.net/v/20230526125553118</id>
+        <link href="https://v.daum.net/v/20230526125553118"/>
+        <updated>2023-05-26T04:11:32.699Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스틸러' 이주우 "10년간 활동, 연기 그만두고 싶던 적 없어"]]></title>
         <id>https://v.daum.net/v/20230526114603907</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526103519096"/>
         <updated>2023-05-26T02:02:19.328Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보라! 데보라' 유인나 "연애 서툰 편..이별 후 울기도"]]></title>
-        <id>https://v.daum.net/v/20230526103257972</id>
-        <link href="https://v.daum.net/v/20230526103257972"/>
-        <updated>2023-05-26T02:02:19.328Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
