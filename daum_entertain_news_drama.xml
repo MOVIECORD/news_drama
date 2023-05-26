@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-26T22:10:30.292Z</updated>
+    <updated>2023-05-26T23:10:20.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['편스토랑' 박정수, K할머니 아닌 브런치 "반전 취향"]]></title>
+        <id>https://v.daum.net/v/20230527075357957</id>
+        <link href="https://v.daum.net/v/20230527075357957"/>
+        <updated>2023-05-26T23:10:07.312Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘김사부3’ 안효섭, 건물에 매몰+손 부상 ‘충격’..의사 생활 최대 위기]]></title>
         <id>https://v.daum.net/v/20230527065520460</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527010031914"/>
         <updated>2023-05-26T16:12:31.872Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 이경영, 의료 사고 소송에 "우리도 맞대응하면 돼, 이런 일 한두 번 아냐"]]></title>
-        <id>https://v.daum.net/v/20230527010000912</id>
-        <link href="https://v.daum.net/v/20230527010000912"/>
-        <updated>2023-05-26T16:12:31.872Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
