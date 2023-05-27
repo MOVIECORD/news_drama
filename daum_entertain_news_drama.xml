@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-27T02:34:39.037Z</updated>
+    <updated>2023-05-27T03:11:19.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병철X민우혁, 엄정화 구출 후 살벌한 대치 "화끈하게 한 판"]]></title>
+        <id>https://v.daum.net/v/20230527120119607</id>
+        <link href="https://v.daum.net/v/20230527120119607"/>
+        <updated>2023-05-27T03:10:16.940Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신동미 “‘조선변호사’ 대진운? 다 좋을 수는 없죠…’닥터 차정숙’도 재밌던 걸요”]]></title>
+        <id>https://v.daum.net/v/20230527114759498</id>
+        <link href="https://v.daum.net/v/20230527114759498"/>
+        <updated>2023-05-27T03:10:16.941Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한석규에 저항하던 얍삽이 빌런들이 사라지자 벌어진 일]]></title>
+        <id>https://v.daum.net/v/20230527113807412</id>
+        <link href="https://v.daum.net/v/20230527113807412"/>
+        <updated>2023-05-27T03:10:16.943Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안효섭, 2차 건물붕괴에 매몰 손 관통상..한석규 망연자실]]></title>
         <id>https://v.daum.net/v/20230527112419302</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230527081606173"/>
         <updated>2023-05-27T00:52:13.495Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 건물 붕괴 매몰+손 관통상 '충격'…최고 시청률 14.9%]]></title>
-        <id>https://v.daum.net/v/20230527081213155</id>
-        <link href="https://v.daum.net/v/20230527081213155"/>
-        <updated>2023-05-27T00:52:13.507Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['편스토랑' 박정수, K할머니 아닌 브런치 "반전 취향"]]></title>
-        <id>https://v.daum.net/v/20230527075357957</id>
-        <link href="https://v.daum.net/v/20230527075357957"/>
-        <updated>2023-05-26T23:10:07.312Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김사부3’ 안효섭, 건물에 매몰+손 부상 ‘충격’..의사 생활 최대 위기]]></title>
-        <id>https://v.daum.net/v/20230527065520460</id>
-        <link href="https://v.daum.net/v/20230527065520460"/>
-        <updated>2023-05-26T22:09:27.198Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
