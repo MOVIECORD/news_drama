@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-27T03:11:19.479Z</updated>
+    <updated>2023-05-27T04:11:15.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남희 "'아사동', 서로 관심 無…장항준과 본업으로 만나고파"]]></title>
+        <id>https://v.daum.net/v/20230527130203104</id>
+        <link href="https://v.daum.net/v/20230527130203104"/>
+        <updated>2023-05-27T04:11:04.998Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 김남희 "시즌 2 욕심 나…엔딩 신? 방송 보고 알았다"]]></title>
+        <id>https://v.daum.net/v/20230527130157099</id>
+        <link href="https://v.daum.net/v/20230527130157099"/>
+        <updated>2023-05-27T04:11:04.998Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 김남희 "어릴 때 장나라 CD 샀었는데…장혁=친한 형"]]></title>
+        <id>https://v.daum.net/v/20230527130002081</id>
+        <link href="https://v.daum.net/v/20230527130002081"/>
+        <updated>2023-05-27T04:11:04.998Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김병철X민우혁, 엄정화 구출 후 살벌한 대치 "화끈하게 한 판"]]></title>
         <id>https://v.daum.net/v/20230527120119607</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230527083802396"/>
         <updated>2023-05-27T00:52:13.491Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 건물 매몰→손등에 철근 박혀 ‘위기’..한석규 ”내가 내려갈게”]]></title>
-        <id>https://v.daum.net/v/20230527082822255</id>
-        <link href="https://v.daum.net/v/20230527082822255"/>
-        <updated>2023-05-27T00:52:13.492Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안효섭, 2차 건물 붕괴 매몰→손 관통상…시청률 13.4%]]></title>
-        <id>https://v.daum.net/v/20230527082409223</id>
-        <link href="https://v.daum.net/v/20230527082409223"/>
-        <updated>2023-05-27T00:52:13.492Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 2차 건물 붕괴 매몰..손 관통상 절체절명 위기]]></title>
-        <id>https://v.daum.net/v/20230527081606173</id>
-        <link href="https://v.daum.net/v/20230527081606173"/>
-        <updated>2023-05-27T00:52:13.495Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
