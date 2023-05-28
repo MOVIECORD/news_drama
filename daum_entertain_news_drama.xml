@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-28T19:08:14.753Z</updated>
+    <updated>2023-05-28T20:09:55.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 송지호♥조아람, 공개 연애 시작 "군대 기다려달라"]]></title>
+        <id>https://v.daum.net/v/20230529050109417</id>
+        <link href="https://v.daum.net/v/20230529050109417"/>
+        <updated>2023-05-28T20:09:43.758Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙' 명세빈 진면모..엄정화 母 위해 밤새 연구 "내 환자"]]></title>
         <id>https://v.daum.net/v/20230529000708246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230528214554425"/>
         <updated>2023-05-28T13:10:53.219Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 안재현, 백진희에 "좋아한다" 고백..백진희 눈물]]></title>
-        <id>https://v.daum.net/v/20230528212909300</id>
-        <link href="https://v.daum.net/v/20230528212909300"/>
-        <updated>2023-05-28T13:10:53.225Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
