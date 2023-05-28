@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-28T07:09:31.557Z</updated>
+    <updated>2023-05-28T08:11:47.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류경수, 이동욱과 장산범의 신부' 김소연 구했다..시공간 초월 열연]]></title>
+        <id>https://v.daum.net/v/20230528163436898</id>
+        <link href="https://v.daum.net/v/20230528163436898"/>
+        <updated>2023-05-28T08:11:36.632Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연희 "90년대생 직장인의 위치, 부담까지 고려하며 연기. 오피스물 대표작 되고파"]]></title>
+        <id>https://v.daum.net/v/20230528160949552</id>
+        <link href="https://v.daum.net/v/20230528160949552"/>
+        <updated>2023-05-28T08:11:36.634Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["백진희에 동거 깨자" 안재현, 차주영 만나 충격 발언]]></title>
         <id>https://v.daum.net/v/20230528160544503</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230528135351691"/>
         <updated>2023-05-28T05:09:43.619Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 이신영의 아노미 “내가 왜 이러는 지 몰라!”]]></title>
-        <id>https://v.daum.net/v/20230528135024656</id>
-        <link href="https://v.daum.net/v/20230528135024656"/>
-        <updated>2023-05-28T05:09:43.620Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가면퀸 김선아→오윤아, 이정진 복수 위한 작당모의]]></title>
-        <id>https://v.daum.net/v/20230528134759632</id>
-        <link href="https://v.daum.net/v/20230528134759632"/>
-        <updated>2023-05-28T05:09:43.622Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
