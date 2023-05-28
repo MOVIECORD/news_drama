@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-28T02:16:13.714Z</updated>
+    <updated>2023-05-28T03:11:14.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘진짜가 나타났다!’ 안재현, 백진희 향한 감정 알아챘다 “우리 계약 깹시다”]]></title>
+        <id>https://v.daum.net/v/20230528115100455</id>
+        <link href="https://v.daum.net/v/20230528115100455"/>
+        <updated>2023-05-28T03:11:04.178Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이쯤되면 '낭만닥터 서우진', 왜 '의인' 콤플렉스일까]]></title>
+        <id>https://v.daum.net/v/20230528114527413</id>
+        <link href="https://v.daum.net/v/20230528114527413"/>
+        <updated>2023-05-28T03:11:04.180Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙’ 김병철로 본 “불륜남은 ‘찌질’해야 제맛”]]></title>
         <id>https://v.daum.net/v/20230528110627819</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230528084207801"/>
         <updated>2023-05-28T00:55:09.277Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱, 류경수에 배신감 '파국' 최고 6.3%]]></title>
-        <id>https://v.daum.net/v/20230528083708757</id>
-        <link href="https://v.daum.net/v/20230528083708757"/>
-        <updated>2023-05-28T00:55:09.279Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희, 안재현 향한 차주영 속내 알았다→전남친 정체 발각]]></title>
-        <id>https://v.daum.net/v/20230528083407732</id>
-        <link href="https://v.daum.net/v/20230528083407732"/>
-        <updated>2023-05-28T00:55:09.281Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
