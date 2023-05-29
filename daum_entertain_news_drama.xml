@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-29T10:11:42.361Z</updated>
+    <updated>2023-05-29T11:09:04.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 서한결, ‘집착녀’ 정우연 고백 거절 “네게 오빠였을 뿐”]]></title>
+        <id>https://v.daum.net/v/20230529195508413</id>
+        <link href="https://v.daum.net/v/20230529195508413"/>
+        <updated>2023-05-29T11:08:53.542Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['레이스' 이연희 "알지 못했던 유노윤호···깊게 이야기할 시간 생겨"]]></title>
         <id>https://v.daum.net/v/20230529180217122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230529151310506"/>
         <updated>2023-05-29T06:13:51.961Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가면의 여왕' 김선아 vs 이정진, 불꽃 튀는 일대일 대치 상황]]></title>
-        <id>https://v.daum.net/v/20230529151102484</id>
-        <link href="https://v.daum.net/v/20230529151102484"/>
-        <updated>2023-05-29T06:13:51.961Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
