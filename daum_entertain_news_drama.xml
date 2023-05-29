@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-29T03:12:08.761Z</updated>
+    <updated>2023-05-29T04:11:53.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친, 그대' 진기주X이규회, 오해 풀 수 있을까...눈물샘 자극 예고]]></title>
+        <id>https://v.daum.net/v/20230529130710604</id>
+        <link href="https://v.daum.net/v/20230529130710604"/>
+        <updated>2023-05-29T04:11:41.848Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우사모' 오세훈X조준영X장여빈, 완벽 연기 호흡 선사...반전 결말→진한 여운]]></title>
+        <id>https://v.daum.net/v/20230529123708294</id>
+        <link href="https://v.daum.net/v/20230529123708294"/>
+        <updated>2023-05-29T04:11:41.849Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연X원지안, 서로 보고 깜짝…"100년 될 때까지 열지 말랬잖아"]]></title>
         <id>https://v.daum.net/v/20230529120409899</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230529094018292"/>
         <updated>2023-05-29T00:52:33.588Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희 "시체 냄새를 기억"vs임지연 "폭력남편이 죽었대" 강렬]]></title>
-        <id>https://v.daum.net/v/20230529093024164</id>
-        <link href="https://v.daum.net/v/20230529093024164"/>
-        <updated>2023-05-29T00:52:33.600Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 이혼 소송→건강 적신호…18.2% 사로잡은 시련]]></title>
-        <id>https://v.daum.net/v/20230529092618121</id>
-        <link href="https://v.daum.net/v/20230529092618121"/>
-        <updated>2023-05-29T00:52:33.600Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
