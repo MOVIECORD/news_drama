@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-29T11:09:04.880Z</updated>
+    <updated>2023-05-29T12:18:07.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이채영, '진짜 소이' 정체 알고 납치?…"사실 아는 건 나뿐"]]></title>
+        <id>https://v.daum.net/v/20230529204459850</id>
+        <link href="https://v.daum.net/v/20230529204459850"/>
+        <updated>2023-05-29T12:17:56.573Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비밀의 여자’ 이채영, 진짜 소이 찾았다 “이 사실 아는 건 나뿐”]]></title>
+        <id>https://v.daum.net/v/20230529203311767</id>
+        <link href="https://v.daum.net/v/20230529203311767"/>
+        <updated>2023-05-29T12:17:56.574Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최윤영, 기억상실 연기한 이채영에 일침…"허접한 연기 그만해"]]></title>
+        <id>https://v.daum.net/v/20230529201558645</id>
+        <link href="https://v.daum.net/v/20230529201558645"/>
+        <updated>2023-05-29T12:17:56.576Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 서한결, ‘집착녀’ 정우연 고백 거절 “네게 오빠였을 뿐”]]></title>
         <id>https://v.daum.net/v/20230529195508413</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230529160008196"/>
         <updated>2023-05-29T07:09:49.021Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이러면 엄정화가 멱살 쥐고 끌고 가도 시청률 20% 쉽지 않다]]></title>
-        <id>https://v.daum.net/v/20230529154607016</id>
-        <link href="https://v.daum.net/v/20230529154607016"/>
-        <updated>2023-05-29T07:09:49.027Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10년만 주연' 이주우 "작은 역할 쌓여 지금의 날 완성"]]></title>
-        <id>https://v.daum.net/v/20230529153708878</id>
-        <link href="https://v.daum.net/v/20230529153708878"/>
-        <updated>2023-05-29T07:09:49.028Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아→오윤아 복수 성공하나? 이정진과 1대4 대치]]></title>
-        <id>https://v.daum.net/v/20230529151310506</id>
-        <link href="https://v.daum.net/v/20230529151310506"/>
-        <updated>2023-05-29T06:13:51.961Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
