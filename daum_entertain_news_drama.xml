@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-29T21:10:04.847Z</updated>
+    <updated>2023-05-29T22:09:25.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 김동욱X천우희, 첫방부터 '케미 터졌다']]></title>
+        <id>https://v.daum.net/v/20230530070203449</id>
+        <link href="https://v.daum.net/v/20230530070203449"/>
+        <updated>2023-05-29T22:09:14.569Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 김동욱, 천우희 존속살해 누명 벗기며 강렬 첫 만남]]></title>
+        <id>https://v.daum.net/v/20230530065016303</id>
+        <link href="https://v.daum.net/v/20230530065016303"/>
+        <updated>2023-05-29T22:09:14.569Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진기주의 발견…‘어쩌다 마주친, 그대’ 인기 쑥쑥]]></title>
+        <id>https://v.daum.net/v/20230530063007133</id>
+        <link href="https://v.daum.net/v/20230530063007133"/>
+        <updated>2023-05-29T22:09:14.571Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이도현 복수 타임라인, 기억 되찾고 이어갈까]]></title>
         <id>https://v.daum.net/v/20230530020207690</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230529201558645"/>
         <updated>2023-05-29T12:17:56.576Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 서한결, ‘집착녀’ 정우연 고백 거절 “네게 오빠였을 뿐”]]></title>
-        <id>https://v.daum.net/v/20230529195508413</id>
-        <link href="https://v.daum.net/v/20230529195508413"/>
-        <updated>2023-05-29T11:08:53.542Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['레이스' 이연희 "알지 못했던 유노윤호···깊게 이야기할 시간 생겨"]]></title>
-        <id>https://v.daum.net/v/20230529180217122</id>
-        <link href="https://v.daum.net/v/20230529180217122"/>
-        <updated>2023-05-29T09:10:29.969Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['레이스' 이연희 "박윤조, 진부한 캔디형 캐릭터? 오히려 더 응원해"]]></title>
-        <id>https://v.daum.net/v/20230529180016081</id>
-        <link href="https://v.daum.net/v/20230529180016081"/>
-        <updated>2023-05-29T09:10:29.976Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
