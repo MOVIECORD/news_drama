@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T07:09:34.042Z</updated>
+    <updated>2023-05-30T08:14:24.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’도, 안효섭도..‘닥터 차정숙’ 제치고 화제성 1위]]></title>
+        <id>https://v.daum.net/v/20230530171020654</id>
+        <link href="https://v.daum.net/v/20230530171020654"/>
+        <updated>2023-05-30T08:13:21.136Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 드라마 화제성 1위 ‘닥터 차정숙’ 제쳤다]]></title>
+        <id>https://v.daum.net/v/20230530170256312</id>
+        <link href="https://v.daum.net/v/20230530170256312"/>
+        <updated>2023-05-30T08:13:21.141Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부3', '닥터 차정숙' 제치고 화제성 1위…안효섭 첫 1위]]></title>
+        <id>https://v.daum.net/v/20230530170012180</id>
+        <link href="https://v.daum.net/v/20230530170012180"/>
+        <updated>2023-05-30T08:13:21.142Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '이로운 사기' 극과 극 천우희·김동욱, 볼수록 매력 있다]]></title>
+        <id>https://v.daum.net/v/20230530162002320</id>
+        <link href="https://v.daum.net/v/20230530162002320"/>
+        <updated>2023-05-30T08:13:21.148Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가면의 여왕' 이정진, 감금 中 의문의 죽음…진짜 살인범은?]]></title>
         <id>https://v.daum.net/v/20230530155607400</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230530135356781"/>
         <updated>2023-05-30T05:09:57.834Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임세미, 김남주 만난다…'원더풀월드' 합류]]></title>
-        <id>https://v.daum.net/v/20230530134635550</id>
-        <link href="https://v.daum.net/v/20230530134635550"/>
-        <updated>2023-05-30T05:09:57.846Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희, 환자 앞 주사기 들었다...섬뜩한 표정에 '궁금증 UP']]></title>
-        <id>https://v.daum.net/v/20230530134108342</id>
-        <link href="https://v.daum.net/v/20230530134108342"/>
-        <updated>2023-05-30T05:09:57.848Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넘버스' 김명수X최진혁X최민수, 3자대면 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20230530134059332</id>
-        <link href="https://v.daum.net/v/20230530134059332"/>
-        <updated>2023-05-30T05:09:57.848Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이로운 사기’ 환자 앞 주사기 든 천우희, 섬뜩하리만치 비릿한 표정]]></title>
-        <id>https://v.daum.net/v/20230530133601197</id>
-        <link href="https://v.daum.net/v/20230530133601197"/>
-        <updated>2023-05-30T05:09:57.850Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
