@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T14:09:40.348Z</updated>
+    <updated>2023-05-30T15:10:04.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱 탓 살인 계획 실패 "당신 해고야"]]></title>
+        <id>https://v.daum.net/v/20230530233007212</id>
+        <link href="https://v.daum.net/v/20230530233007212"/>
+        <updated>2023-05-30T15:09:52.939Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운사기' 김동욱, 천우희에 "믿어라..끝까지 네 편에 설 것"]]></title>
         <id>https://v.daum.net/v/20230530225557993</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230530182042033"/>
         <updated>2023-05-30T10:10:49.944Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤우, tvN '이로운 사기' 합류..김동욱 어린 시절 연기]]></title>
-        <id>https://v.daum.net/v/20230530181708926</id>
-        <link href="https://v.daum.net/v/20230530181708926"/>
-        <updated>2023-05-30T10:10:49.944Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
