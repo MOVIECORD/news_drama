@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T06:13:05.109Z</updated>
+    <updated>2023-05-30T07:09:34.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가면의 여왕' 이정진, 감금 中 의문의 죽음…진짜 살인범은?]]></title>
+        <id>https://v.daum.net/v/20230530155607400</id>
+        <link href="https://v.daum.net/v/20230530155607400"/>
+        <updated>2023-05-30T07:09:24.695Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어그대' 진기주, 목소리만으로 완성된 연기 서사…대체불가 캐릭터]]></title>
+        <id>https://v.daum.net/v/20230530153749626</id>
+        <link href="https://v.daum.net/v/20230530153749626"/>
+        <updated>2023-05-30T07:09:24.696Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동욱, 반항아 김예지 운명 바꾸나…진심 어린 조언]]></title>
+        <id>https://v.daum.net/v/20230530153715618</id>
+        <link href="https://v.daum.net/v/20230530153715618"/>
+        <updated>2023-05-30T07:09:24.697Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이런 매력적인 사기꾼..'이로운 사기' 천우희 is back]]></title>
         <id>https://v.daum.net/v/20230530145857460</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230530133601197"/>
         <updated>2023-05-30T05:09:57.850Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 소아린 "최은서 싱크로율 10%..나보다 더 뻔뻔"]]></title>
-        <id>https://v.daum.net/v/20230530133548187</id>
-        <link href="https://v.daum.net/v/20230530133548187"/>
-        <updated>2023-05-30T05:09:57.851Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아씨 두리안’ 9인 단체 포스터, 정체 모를 두 여인과 단씨 일가]]></title>
-        <id>https://v.daum.net/v/20230530131645648</id>
-        <link href="https://v.daum.net/v/20230530131645648"/>
-        <updated>2023-05-30T05:09:57.854Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피비' 임성한이 돌아온다…아씨 두리안, 내달 24일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20230530131403593</id>
-        <link href="https://v.daum.net/v/20230530131403593"/>
-        <updated>2023-05-30T05:09:57.854Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
