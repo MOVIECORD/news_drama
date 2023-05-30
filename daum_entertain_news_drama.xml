@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T10:11:00.864Z</updated>
+    <updated>2023-05-30T11:08:32.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 정우연, 서한결에 "내가 전혜연 대용품?" 오열]]></title>
+        <id>https://v.daum.net/v/20230530200414446</id>
+        <link href="https://v.daum.net/v/20230530200414446"/>
+        <updated>2023-05-30T11:08:21.084Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 정우연 밀어낸 서한결... 고은미VS조미령, 어른 싸움 됐다]]></title>
+        <id>https://v.daum.net/v/20230530195200173</id>
+        <link href="https://v.daum.net/v/20230530195200173"/>
+        <updated>2023-05-30T11:08:21.096Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이엘X박효주 ‘행복배틀’서 만날 운명이었나 “작품 같이 하고 싶었다”]]></title>
         <id>https://v.daum.net/v/20230530182042033</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230530145857460"/>
         <updated>2023-05-30T06:12:54.036Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘박하경 여행기’ 구교환→한예리, 이나영과 여행 인증샷 보니]]></title>
-        <id>https://v.daum.net/v/20230530145408247</id>
-        <link href="https://v.daum.net/v/20230530145408247"/>
-        <updated>2023-05-30T06:12:54.042Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱 vs 김동욱‥이로운 사기 vs 어마그, 둘다 시청률 4.6% 동점]]></title>
-        <id>https://v.daum.net/v/20230530144859017</id>
-        <link href="https://v.daum.net/v/20230530144859017"/>
-        <updated>2023-05-30T06:12:54.042Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
