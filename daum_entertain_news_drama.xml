@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T13:14:35.236Z</updated>
+    <updated>2023-05-30T14:09:40.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운사기' 김동욱, 천우희에 "믿어라..끝까지 네 편에 설 것"]]></title>
+        <id>https://v.daum.net/v/20230530225557993</id>
+        <link href="https://v.daum.net/v/20230530225557993"/>
+        <updated>2023-05-30T14:09:29.876Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희, 윤박 위치추적..이연에 "더러운 사생활 알아내"]]></title>
+        <id>https://v.daum.net/v/20230530222808790</id>
+        <link href="https://v.daum.net/v/20230530222808790"/>
+        <updated>2023-05-30T14:09:29.877Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 한무영, 천우희에 존속 살해 추궁 "진범 누구냐"]]></title>
         <id>https://v.daum.net/v/20230530221407677</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230530181708926"/>
         <updated>2023-05-30T10:10:49.944Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이로운 사기' 천우희, 숨 넘어가는 환자 앞에서 든 주사기…긴장감 폭발]]></title>
-        <id>https://v.daum.net/v/20230530174437854</id>
-        <link href="https://v.daum.net/v/20230530174437854"/>
-        <updated>2023-05-30T09:10:01.751Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤우, ‘이로운 사기’ 합류..김동욱 어린시절 연기]]></title>
-        <id>https://v.daum.net/v/20230530172642258</id>
-        <link href="https://v.daum.net/v/20230530172642258"/>
-        <updated>2023-05-30T09:10:01.752Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
