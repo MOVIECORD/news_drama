@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-30T21:09:44.562Z</updated>
+    <updated>2023-05-30T22:10:18.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍승범, 영어+스페인어+일본어까지 능통..능력치 만렙 첫 등장]]></title>
+        <id>https://v.daum.net/v/20230531070508516</id>
+        <link href="https://v.daum.net/v/20230531070508516"/>
+        <updated>2023-05-30T22:10:08.848Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 김동욱, 천우희 망치러 온 구원자 될까]]></title>
+        <id>https://v.daum.net/v/20230531070503511</id>
+        <link href="https://v.daum.net/v/20230531070503511"/>
+        <updated>2023-05-30T22:10:08.858Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아담하고 고풍스런 ‘김사부 돌담병원’, 포천 산정호수 근처…인증샷 찍기 딱!]]></title>
+        <id>https://v.daum.net/v/20230531063018029</id>
+        <link href="https://v.daum.net/v/20230531063018029"/>
+        <updated>2023-05-30T22:10:08.859Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운사기' 박완규, 김동욱에 "어차피 죽일 것"→천우희 살인 예고?]]></title>
         <id>https://v.daum.net/v/20230531060700799</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230530203832005"/>
         <updated>2023-05-30T12:19:25.313Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희, 대형 병원 상대로 사기 친다…섬뜩 표정]]></title>
-        <id>https://v.daum.net/v/20230530203708976</id>
-        <link href="https://v.daum.net/v/20230530203708976"/>
-        <updated>2023-05-30T12:19:25.316Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영, '진짜 소이' 납치 수포로 돌아가자 패닉…돈으로 입막음 시도]]></title>
-        <id>https://v.daum.net/v/20230530201012549</id>
-        <link href="https://v.daum.net/v/20230530201012549"/>
-        <updated>2023-05-30T12:19:25.317Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의여자' 이선호, 납치된 남소이 걱정 "너무 무서워"]]></title>
-        <id>https://v.daum.net/v/20230530200856525</id>
-        <link href="https://v.daum.net/v/20230530200856525"/>
-        <updated>2023-05-30T12:19:25.319Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
