@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-31T13:17:16.412Z</updated>
+    <updated>2023-05-31T14:10:09.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 라미란 말기암 사실 알고 눈물 "안은진, 안 좋아할 것"]]></title>
+        <id>https://v.daum.net/v/20230531225430375</id>
+        <link href="https://v.daum.net/v/20230531225430375"/>
+        <updated>2023-05-31T14:09:57.777Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임성한이 판타지 멜로를? 여주는 박주미! ‘아씨 두리안’]]></title>
         <id>https://v.daum.net/v/20230531211508073</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531181842776"/>
         <updated>2023-05-31T10:14:54.468Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차예련 "♥주상욱 가족 명문대 출신…딸은 영어유치원"]]></title>
-        <id>https://v.daum.net/v/20230531175017977</id>
-        <link href="https://v.daum.net/v/20230531175017977"/>
-        <updated>2023-05-31T09:14:03.985Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
