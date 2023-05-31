@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-31T03:17:05.577Z</updated>
+    <updated>2023-05-31T04:14:40.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤상정 "'짧은대본'으로 많이 알아봐…법대 진학? 배우 꿈 위해서"]]></title>
+        <id>https://v.daum.net/v/20230531125719141</id>
+        <link href="https://v.daum.net/v/20230531125719141"/>
+        <updated>2023-05-31T04:13:37.786Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['패밀리' 윤상정 "임산부 역 고민 多…장나라 보며 공부"]]></title>
+        <id>https://v.daum.net/v/20230531125003066</id>
+        <link href="https://v.daum.net/v/20230531125003066"/>
+        <updated>2023-05-31T04:13:37.786Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원지안, 뱀파이어 옥택연 목덜미를 '콱']]></title>
         <id>https://v.daum.net/v/20230531115509316</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘청담국제고등학교’ 이은샘, 최고 권력 김예림과 날선 대립 구도]]></title>
+        <title type="html"><![CDATA[‘청담국제고’ 이은샘, 최고 권력 김예림과 날선 대립 구도]]></title>
         <id>https://v.daum.net/v/20230531112404968</id>
         <link href="https://v.daum.net/v/20230531112404968"/>
         <updated>2023-05-31T03:16:02.355Z</updated>
@@ -55,7 +69,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차예련-박효주-우정원, 영어유치원 발표회서 경쟁심 폭발]]></title>
+        <title type="html"><![CDATA[차예련 박효주 우정원, 영어유치원 발표회서 경쟁심 폭발]]></title>
         <id>https://v.daum.net/v/20230531110359899</id>
         <link href="https://v.daum.net/v/20230531110359899"/>
         <updated>2023-05-31T02:23:50.926Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230531103709562"/>
         <updated>2023-05-31T02:23:50.940Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우에게 엄청 이상하고 센 동생 배현성이 생겼다]]></title>
-        <id>https://v.daum.net/v/20230531103508467</id>
-        <link href="https://v.daum.net/v/20230531103508467"/>
-        <updated>2023-05-31T02:23:50.942Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희 "임지연과 대비돼..서로에게 끼치는 영향 재미있다"]]></title>
-        <id>https://v.daum.net/v/20230531103310365</id>
-        <link href="https://v.daum.net/v/20230531103310365"/>
-        <updated>2023-05-31T02:23:50.947Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
