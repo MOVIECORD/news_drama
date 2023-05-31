@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-31T21:09:57.011Z</updated>
+    <updated>2023-05-31T22:09:58.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['솔로지옥3', 해양보호구역에 무허가 세트 논란…"원상복구 후 철수"]]></title>
+        <id>https://v.daum.net/v/20230601070007224</id>
+        <link href="https://v.daum.net/v/20230601070007224"/>
+        <updated>2023-05-31T22:09:47.071Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 라미란, "나 정말 죽나? 살려달라" 강말금에 참았던 눈물 폭발]]></title>
+        <id>https://v.daum.net/v/20230601064816079</id>
+        <link href="https://v.daum.net/v/20230601064816079"/>
+        <updated>2023-05-31T22:09:47.077Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 옥순, 엇갈린 상철에 눈물→선택 포기…"노선 잘못 정해"]]></title>
+        <id>https://v.daum.net/v/20230601062310780</id>
+        <link href="https://v.daum.net/v/20230601062310780"/>
+        <updated>2023-05-31T22:09:47.079Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 매력 담아낸 넷플릭스 ‘엑스오 키티’ MZ세대가 열광하는 이유]]></title>
         <id>https://v.daum.net/v/20230601060113373</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230531202807120"/>
         <updated>2023-05-31T12:20:24.727Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 정우연 갑질 딱 걸렸다…제보 영상에 김유석 충격]]></title>
-        <id>https://v.daum.net/v/20230531201539899</id>
-        <link href="https://v.daum.net/v/20230531201539899"/>
-        <updated>2023-05-31T12:20:24.728Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의여자' 최윤영, 딸 남소이 안고 오열..김희정에 "고마워요"]]></title>
-        <id>https://v.daum.net/v/20230531201508893</id>
-        <link href="https://v.daum.net/v/20230531201508893"/>
-        <updated>2023-05-31T12:20:24.729Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 정우연, 갑질 논란 터졌다... 김유석 “이러면 안 되지” 충격]]></title>
-        <id>https://v.daum.net/v/20230531195001220</id>
-        <link href="https://v.daum.net/v/20230531195001220"/>
-        <updated>2023-05-31T11:10:35.294Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
