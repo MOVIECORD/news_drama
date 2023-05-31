@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-05-31T10:15:05.743Z</updated>
+    <updated>2023-05-31T11:10:45.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 정우연, 갑질 논란 터졌다... 김유석 “이러면 안 되지” 충격]]></title>
+        <id>https://v.daum.net/v/20230531195001220</id>
+        <link href="https://v.daum.net/v/20230531195001220"/>
+        <updated>2023-05-31T11:10:35.294Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['행복배틀' 우정원 "20대 때 직업여성·할머니 役, 큰 변화 기뻐"]]></title>
         <id>https://v.daum.net/v/20230531185159659</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531163402115"/>
         <updated>2023-05-31T08:23:23.406Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희, 열연 모먼트 #3…'할 말은 한다']]></title>
-        <id>https://v.daum.net/v/20230531160737030</id>
-        <link href="https://v.daum.net/v/20230531160737030"/>
-        <updated>2023-05-31T07:10:42.472Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
