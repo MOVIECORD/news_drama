@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-01T21:08:54.882Z</updated>
+    <updated>2023-06-01T22:10:16.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['차정숙' 엄정화, 종영 2회 앞두고 김병철에 '복수' 준비 완료]]></title>
+        <id>https://v.daum.net/v/20230602070208238</id>
+        <link href="https://v.daum.net/v/20230602070208238"/>
+        <updated>2023-06-01T22:09:14.373Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[괜히 정우성한테 불똥 튈라…‘촬영 민폐 논란’ 생긴 새 드라마]]></title>
+        <id>https://v.daum.net/v/20230602065958170</id>
+        <link href="https://v.daum.net/v/20230602065958170"/>
+        <updated>2023-06-01T22:09:14.373Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘귀공자’ 강태주·‘화란’ 홍사빈…주연 꿰찬 신예들]]></title>
+        <id>https://v.daum.net/v/20230602063016918</id>
+        <link href="https://v.daum.net/v/20230602063016918"/>
+        <updated>2023-06-01T22:09:14.375Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 안은진, 기억 돌아온 이도현 원망 "이제 좀 맞자"]]></title>
         <id>https://v.daum.net/v/20230602060128487</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230601230008221"/>
         <updated>2023-06-01T14:09:29.631Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰레기 방치·무허가 세트..드라마도, 예능도 촬영 논란 연속]]></title>
-        <id>https://v.daum.net/v/20230601222409981</id>
-        <link href="https://v.daum.net/v/20230601222409981"/>
-        <updated>2023-06-01T14:09:29.632Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채영, 한기웅과 약혼 "드디어 꿈꿨던 자리" 오열]]></title>
-        <id>https://v.daum.net/v/20230601205514678</id>
-        <link href="https://v.daum.net/v/20230601205514678"/>
-        <updated>2023-06-01T12:19:30.996Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 소아린 "은서, 빌런미에 끌렸다...싱크로율 20%"]]></title>
-        <id>https://v.daum.net/v/20230601205201630</id>
-        <link href="https://v.daum.net/v/20230601205201630"/>
-        <updated>2023-06-01T12:19:30.998Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
