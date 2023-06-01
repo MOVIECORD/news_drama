@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-01T13:13:38.584Z</updated>
+    <updated>2023-06-01T14:09:41.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 라미란, 돼지농장 의문의 화재에 이도현 걱정]]></title>
+        <id>https://v.daum.net/v/20230601230008221</id>
+        <link href="https://v.daum.net/v/20230601230008221"/>
+        <updated>2023-06-01T14:09:29.631Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰레기 방치·무허가 세트..드라마도, 예능도 촬영 논란 연속]]></title>
+        <id>https://v.daum.net/v/20230601222409981</id>
+        <link href="https://v.daum.net/v/20230601222409981"/>
+        <updated>2023-06-01T14:09:29.632Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이채영, 한기웅과 약혼 "드디어 꿈꿨던 자리" 오열]]></title>
         <id>https://v.daum.net/v/20230601205514678</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230601175520651</id>
         <link href="https://v.daum.net/v/20230601175520651"/>
         <updated>2023-06-01T09:10:31.290Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혼vs재결합, 차정숙 어떤 선택할까…결말 기대감↑]]></title>
-        <id>https://v.daum.net/v/20230601175001467</id>
-        <link href="https://v.daum.net/v/20230601175001467"/>
-        <updated>2023-06-01T09:10:31.291Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['응답하라' 같은 '슬의생' 프리퀄은 아니지만..신원호 사단에 거는 기대]]></title>
-        <id>https://v.daum.net/v/20230601173825123</id>
-        <link href="https://v.daum.net/v/20230601173825123"/>
-        <updated>2023-06-01T09:10:31.293Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
