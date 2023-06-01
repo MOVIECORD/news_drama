@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-01T09:11:38.951Z</updated>
+    <updated>2023-06-01T10:13:32.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑한다고 말해줘’ 측 “쓰레기 방치 죄송, 재발 방지하겠다”]]></title>
+        <id>https://v.daum.net/v/20230601190408784</id>
+        <link href="https://v.daum.net/v/20230601190408784"/>
+        <updated>2023-06-01T10:13:22.852Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘일타’ 류다인, 차기작은 ‘피라미드 게임’..김지연·장다아와 호흡]]></title>
         <id>https://v.daum.net/v/20230601180119846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230601163047119"/>
         <updated>2023-06-01T08:13:03.998Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 엄정화, 김병철과 이혼할까? 결말에 쏠리는 관심]]></title>
-        <id>https://v.daum.net/v/20230601162735953</id>
-        <link href="https://v.daum.net/v/20230601162735953"/>
-        <updated>2023-06-01T08:13:03.999Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
