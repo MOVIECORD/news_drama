@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-03T19:10:10.724Z</updated>
+    <updated>2023-06-03T20:11:47.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 김병철, 후회의 눈물 →엄정화에 "간 이식해줄게"]]></title>
+        <id>https://v.daum.net/v/20230604050002909</id>
+        <link href="https://v.daum.net/v/20230604050002909"/>
+        <updated>2023-06-03T20:10:45.191Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 매운맛 유연석 등장 "사부님 이길 거다"···돌담병원 파란 예고]]></title>
         <id>https://v.daum.net/v/20230604013110742</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230603230727338"/>
         <updated>2023-06-03T14:08:12.038Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 객혈→급성간부전 가능성..민우혁 ‘간이식 결심’]]></title>
-        <id>https://v.daum.net/v/20230603225707279</id>
-        <link href="https://v.daum.net/v/20230603225707279"/>
-        <updated>2023-06-03T14:08:12.039Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
