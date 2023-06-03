@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-03T03:10:45.355Z</updated>
+    <updated>2023-06-03T04:12:31.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱의 짜릿한 빅픽처…"일본 요괴들과의 대결 본격 시작"]]></title>
+        <id>https://v.daum.net/v/20230603124003764</id>
+        <link href="https://v.daum.net/v/20230603124003764"/>
+        <updated>2023-06-03T04:11:22.501Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 앞둔 ‘닥터 차정숙’ 정승환→빅마마 박민혜 참여 OST 발매]]></title>
+        <id>https://v.daum.net/v/20230603123459710</id>
+        <link href="https://v.daum.net/v/20230603123459710"/>
+        <updated>2023-06-03T04:11:22.511Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동욱, 보물과 반도호텔行..묘연각 패밀리 결전 준비]]></title>
         <id>https://v.daum.net/v/20230603113509175</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230603085319332"/>
         <updated>2023-06-03T00:56:08.054Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나는 솔로' 옥순, 결국 짝 못찾았고 '눈물']]></title>
-        <id>https://v.daum.net/v/20230603084707299</id>
-        <link href="https://v.daum.net/v/20230603084707299"/>
-        <updated>2023-06-03T00:56:08.054Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 이성경 프러포즈 거절 "해치우는 식 싫어"]]></title>
-        <id>https://v.daum.net/v/20230603082415126</id>
-        <link href="https://v.daum.net/v/20230603082415126"/>
-        <updated>2023-06-03T00:56:08.056Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
