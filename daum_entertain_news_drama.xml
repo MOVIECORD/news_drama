@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-03T15:08:57.128Z</updated>
+    <updated>2023-06-03T16:12:06.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닥터 차정숙’ 김병철, 엄정화 수술 위해 ‘이혼 도장’ 찍었다 "그래야 살아"]]></title>
+        <id>https://v.daum.net/v/20230604004009648</id>
+        <link href="https://v.daum.net/v/20230604004009648"/>
+        <updated>2023-06-03T16:11:56.089Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 김주헌, "이경영 지키자고 외상센터 위기에 빠뜨릴 수 없어" 오민애 거래 수락]]></title>
+        <id>https://v.daum.net/v/20230604003300641</id>
+        <link href="https://v.daum.net/v/20230604003300641"/>
+        <updated>2023-06-03T16:11:56.096Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김사부3' 안효섭 "한석규, 언제나 내 편..돌담 병원 떠날 생각無"]]></title>
         <id>https://v.daum.net/v/20230603235248494</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230603225507274"/>
         <updated>2023-06-03T14:08:12.039Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 엄정화, 피 토한 후 어안 벙벙 "정리할 시간 필요"]]></title>
-        <id>https://v.daum.net/v/20230603225008246</id>
-        <link href="https://v.daum.net/v/20230603225008246"/>
-        <updated>2023-06-03T14:08:12.055Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 한석규, 환자 사망 전 "당신 잘하고 있어"···사망 후 눈물]]></title>
-        <id>https://v.daum.net/v/20230603224440226</id>
-        <link href="https://v.daum.net/v/20230603224440226"/>
-        <updated>2023-06-03T14:08:12.057Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
