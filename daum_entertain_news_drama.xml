@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-05T10:11:00.565Z</updated>
+    <updated>2023-06-05T11:08:44.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“끝없는 논란”.. ‘하늘의 인연’ 진주형, 쓰러진 정우연 품에 안고 눈물]]></title>
+        <id>https://v.daum.net/v/20230605195130736</id>
+        <link href="https://v.daum.net/v/20230605195130736"/>
+        <updated>2023-06-05T11:08:34.367Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 진주형에 "좋은 말로 할 때 덮어라" 협박]]></title>
+        <id>https://v.daum.net/v/20230605194936715</id>
+        <link href="https://v.daum.net/v/20230605194936715"/>
+        <updated>2023-06-05T11:08:34.386Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전미강, 김난희에 "뭘 잘했다고 저러냐" 분노]]></title>
+        <id>https://v.daum.net/v/20230605192812507</id>
+        <link href="https://v.daum.net/v/20230605192812507"/>
+        <updated>2023-06-05T11:08:34.387Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유선, 살인자 피의자 신분 전환 되나? 이정진과 100억 거래 수면 위로]]></title>
         <id>https://v.daum.net/v/20230605185859123</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230605161008688"/>
         <updated>2023-06-05T08:12:52.913Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 명세빈 “승희에게 한마디? 헤어지고 네 삶 살아”]]></title>
-        <id>https://v.daum.net/v/20230605160809618</id>
-        <link href="https://v.daum.net/v/20230605160809618"/>
-        <updated>2023-06-05T07:10:05.567Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신은정, 딸 안태린→뱃속 아이 지켜낼까]]></title>
-        <id>https://v.daum.net/v/20230605160802615</id>
-        <link href="https://v.daum.net/v/20230605160802615"/>
-        <updated>2023-06-05T07:10:05.569Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어그대' 서지혜, 직접 복수할까…지혜원 소설가 데뷔]]></title>
-        <id>https://v.daum.net/v/20230605160343483</id>
-        <link href="https://v.daum.net/v/20230605160343483"/>
-        <updated>2023-06-05T07:10:05.569Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
