@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-05T21:10:02.414Z</updated>
+    <updated>2023-06-05T22:09:27.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희·임지연, '얼빡샷' 공격...눈을 뗄 수 없는 미모]]></title>
+        <id>https://v.daum.net/v/20230606070030984</id>
+        <link href="https://v.daum.net/v/20230606070030984"/>
+        <updated>2023-06-05T22:09:16.235Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 천우희·김동욱, 한집살이 시작? 사기로 사망보험금 받아내]]></title>
+        <id>https://v.daum.net/v/20230606065429924</id>
+        <link href="https://v.daum.net/v/20230606065429924"/>
+        <updated>2023-06-05T22:09:16.236Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 차정숙' 김병철 "서인호, 바람둥이라고 생각하지 않아"]]></title>
         <id>https://v.daum.net/v/20230606060159187</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230605205253384"/>
         <updated>2023-06-05T12:19:26.910Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이선호, 최윤영 의심 "당신 누구야?"]]></title>
-        <id>https://v.daum.net/v/20230605203716251</id>
-        <link href="https://v.daum.net/v/20230605203716251"/>
-        <updated>2023-06-05T12:19:26.912Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱, 천우희 전담 사고수습반? 경찰서 소환]]></title>
-        <id>https://v.daum.net/v/20230605203708247</id>
-        <link href="https://v.daum.net/v/20230605203708247"/>
-        <updated>2023-06-05T12:19:26.913Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
