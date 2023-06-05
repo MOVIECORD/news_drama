@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-05T20:10:15.995Z</updated>
+    <updated>2023-06-05T21:10:02.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 차정숙' 김병철 "서인호, 바람둥이라고 생각하지 않아"]]></title>
+        <id>https://v.daum.net/v/20230606060159187</id>
+        <link href="https://v.daum.net/v/20230606060159187"/>
+        <updated>2023-06-05T21:08:59.183Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱과 갈등 예고…사기로 사망 보험금 받아내]]></title>
         <id>https://v.daum.net/v/20230605223150267</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230605203708247"/>
         <updated>2023-06-05T12:19:26.913Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 이선호, 최윤영 정체 의심 “당신 누구야?”]]></title>
-        <id>https://v.daum.net/v/20230605203300208</id>
-        <link href="https://v.daum.net/v/20230605203300208"/>
-        <updated>2023-06-05T12:19:26.915Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
