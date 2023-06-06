@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-06T15:10:01.660Z</updated>
+    <updated>2023-06-06T16:13:40.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연, 반인뱀파이어 변신 “2PM ‘하트비트’만큼 사랑받길”]]></title>
+        <id>https://v.daum.net/v/20230607010215238</id>
+        <link href="https://v.daum.net/v/20230607010215238"/>
+        <updated>2023-06-06T16:12:37.487Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어마그' 지혜원, 김동욱에 고백.."사실 범인 아닌 목격자"]]></title>
         <id>https://v.daum.net/v/20230607000125799</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230606200732000</id>
         <link href="https://v.daum.net/v/20230606200732000"/>
         <updated>2023-06-06T11:08:38.281Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 서한결에 손찌검.."모든 화근은 너"]]></title>
-        <id>https://v.daum.net/v/20230606194351795</id>
-        <link href="https://v.daum.net/v/20230606194351795"/>
-        <updated>2023-06-06T11:08:38.282Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
