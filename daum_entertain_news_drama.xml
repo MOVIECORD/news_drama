@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-06T12:18:54.711Z</updated>
+    <updated>2023-06-06T13:14:08.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연, 반인뱀파이어 '선우혈' 캐릭터 200% 매료]]></title>
+        <id>https://v.daum.net/v/20230606220901147</id>
+        <link href="https://v.daum.net/v/20230606220901147"/>
+        <updated>2023-06-06T13:13:57.148Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김시후 불륜녀, 결국 분노하고 도발..."내가 잠자코 두고 볼 것 같냐"]]></title>
+        <id>https://v.daum.net/v/20230606213830906</id>
+        <link href="https://v.daum.net/v/20230606213830906"/>
+        <updated>2023-06-06T13:13:57.148Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱에 불법 거래 제안 '긴장']]></title>
+        <id>https://v.daum.net/v/20230606213808902</id>
+        <link href="https://v.daum.net/v/20230606213808902"/>
+        <updated>2023-06-06T13:13:57.153Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱 도발 "사기 그게 내가 하는 일"]]></title>
+        <id>https://v.daum.net/v/20230606211842742</id>
+        <link href="https://v.daum.net/v/20230606211842742"/>
+        <updated>2023-06-06T13:13:57.153Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오지호, 10년 전 조태관 살인범 송영창 찾아간 이유는?]]></title>
         <id>https://v.daum.net/v/20230606211102660</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230606155211978"/>
         <updated>2023-06-06T07:09:23.120Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명세빈 "언제까지 청순...악역으로 보여도 좋아"]]></title>
-        <id>https://v.daum.net/v/20230606155206975</id>
-        <link href="https://v.daum.net/v/20230606155206975"/>
-        <updated>2023-06-06T07:09:23.121Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명세빈 "'닥터 차정숙', 연기자 인생의 후반전 열어줘"]]></title>
-        <id>https://v.daum.net/v/20230606155158972</id>
-        <link href="https://v.daum.net/v/20230606155158972"/>
-        <updated>2023-06-06T07:09:23.121Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 차정숙' 크론병 삭제 아직, 종영했다고 입 닦나]]></title>
-        <id>https://v.daum.net/v/20230606153919774</id>
-        <link href="https://v.daum.net/v/20230606153919774"/>
-        <updated>2023-06-06T07:09:23.122Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오지호, 김선아에 송영창 악행 알릴까..일대일 독대 ‘살얼음판’]]></title>
-        <id>https://v.daum.net/v/20230606153707730</id>
-        <link href="https://v.daum.net/v/20230606153707730"/>
-        <updated>2023-06-06T07:09:23.123Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
