@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-06T13:14:08.349Z</updated>
+    <updated>2023-06-06T14:09:50.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친, 그대' 김동욱, 성냥갑 들통에 "조심해야 했는데.."]]></title>
+        <id>https://v.daum.net/v/20230606225955494</id>
+        <link href="https://v.daum.net/v/20230606225955494"/>
+        <updated>2023-06-06T14:09:38.993Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 김동욱, 결국 천우희에 "사기 같이 하자" 선언]]></title>
+        <id>https://v.daum.net/v/20230606221457193</id>
+        <link href="https://v.daum.net/v/20230606221457193"/>
+        <updated>2023-06-06T14:09:38.999Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연, 반인뱀파이어 '선우혈' 캐릭터 200% 매료]]></title>
         <id>https://v.daum.net/v/20230606220901147</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230606180831466"/>
         <updated>2023-06-06T09:10:09.744Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히트작 이끈 이기우X서재희X강말금, ‘기적의 형제’로 뭉쳤다]]></title>
-        <id>https://v.daum.net/v/20230606171514440</id>
-        <link href="https://v.daum.net/v/20230606171514440"/>
-        <updated>2023-06-06T09:10:09.745Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명세빈 "엄정화, 똑똑한 사람…'이래서 엄정화구나' 싶더라"]]></title>
-        <id>https://v.daum.net/v/20230606155211978</id>
-        <link href="https://v.daum.net/v/20230606155211978"/>
-        <updated>2023-06-06T07:09:23.120Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
