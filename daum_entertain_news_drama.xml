@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-06T10:11:32.259Z</updated>
+    <updated>2023-06-06T11:08:49.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 이선호, 최윤영에 배신감 "난 아무것도 아니었냐"]]></title>
+        <id>https://v.daum.net/v/20230606200732000</id>
+        <link href="https://v.daum.net/v/20230606200732000"/>
+        <updated>2023-06-06T11:08:38.281Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 서한결에 손찌검.."모든 화근은 너"]]></title>
+        <id>https://v.daum.net/v/20230606194351795</id>
+        <link href="https://v.daum.net/v/20230606194351795"/>
+        <updated>2023-06-06T11:08:38.282Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나쁜엄마’ 종영까지 단 2회...라미란X이도현X안은진, 마지막 인사]]></title>
         <id>https://v.daum.net/v/20230606183002798</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230606142801205"/>
         <updated>2023-06-06T06:12:55.264Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정윤호는 어쩌고..이연희, 홍종현 어깨에 기대 한강 데이트]]></title>
-        <id>https://v.daum.net/v/20230606141611024</id>
-        <link href="https://v.daum.net/v/20230606141611024"/>
-        <updated>2023-06-06T06:12:55.269Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤박과 김동욱, 대작에 동침까지…천우희 입꼬리도 '슥']]></title>
-        <id>https://v.daum.net/v/20230606140752891</id>
-        <link href="https://v.daum.net/v/20230606140752891"/>
-        <updated>2023-06-06T05:10:26.690Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
