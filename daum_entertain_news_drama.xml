@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-07T14:10:10.199Z</updated>
+    <updated>2023-06-07T15:10:30.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘라스’ 이상우 “아내 김소연 애정신에 묘한 기분 느껴, 서로 안 보기로 합의”]]></title>
+        <id>https://v.daum.net/v/20230607235801461</id>
+        <link href="https://v.daum.net/v/20230607235801461"/>
+        <updated>2023-06-07T15:10:20.731Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이도현 잘못되면 가만 안 둬" 안은진, 병원 침입→이도현과 홍비라 탈출시켰다]]></title>
+        <id>https://v.daum.net/v/20230607234909435</id>
+        <link href="https://v.daum.net/v/20230607234909435"/>
+        <updated>2023-06-07T15:10:20.731Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스 나눈 안은진과 이도현 "평생 내 옆에서 살아라"]]></title>
+        <id>https://v.daum.net/v/20230607234009365</id>
+        <link href="https://v.daum.net/v/20230607234009365"/>
+        <updated>2023-06-07T15:10:20.732Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 서이숙, 라이벌 라미란 위암 말기 소식에 눈물]]></title>
+        <id>https://v.daum.net/v/20230607231544187</id>
+        <link href="https://v.daum.net/v/20230607231544187"/>
+        <updated>2023-06-07T15:10:20.734Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나쁜엄마' 이도현, 기은세 사망 소식 듣고 '충격']]></title>
         <id>https://v.daum.net/v/20230607230218069</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230607195200096"/>
         <updated>2023-06-07T11:13:07.935Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이로운 사기' 박소진, 김동욱의 유일한 대나무 숲]]></title>
-        <id>https://v.daum.net/v/20230607184708584</id>
-        <link href="https://v.daum.net/v/20230607184708584"/>
-        <updated>2023-06-07T10:12:08.755Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이나영 "원빈 복귀? 작품 보는 중···기다리면 나올 것"]]></title>
-        <id>https://v.daum.net/v/20230607173208395</id>
-        <link href="https://v.daum.net/v/20230607173208395"/>
-        <updated>2023-06-07T09:12:30.548Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전노민 "단치강, 여태까지 했던 역할과 달라"]]></title>
-        <id>https://v.daum.net/v/20230607165658081</id>
-        <link href="https://v.daum.net/v/20230607165658081"/>
-        <updated>2023-06-07T08:13:20.355Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사냥개들' 감독 "김새론 출연분, 불편 최소화 노력"]]></title>
-        <id>https://v.daum.net/v/20230607165158849</id>
-        <link href="https://v.daum.net/v/20230607165158849"/>
-        <updated>2023-06-07T08:13:20.357Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
