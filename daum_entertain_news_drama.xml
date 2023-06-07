@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-07T15:10:30.960Z</updated>
+    <updated>2023-06-07T16:12:54.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 안은진, 홍비라 설득 '병원 탈출'→이도현, 정웅인과 정면 승부]]></title>
+        <id>https://v.daum.net/v/20230608003251843</id>
+        <link href="https://v.daum.net/v/20230608003251843"/>
+        <updated>2023-06-07T16:12:44.463Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘라스’ 이상우 “아내 김소연 애정신에 묘한 기분 느껴, 서로 안 보기로 합의”]]></title>
         <id>https://v.daum.net/v/20230607235801461</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230607201113411"/>
         <updated>2023-06-07T11:13:07.935Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 무릎 꿇은 김유석 외면한 변우민... 진주형이 대신 쳤다]]></title>
-        <id>https://v.daum.net/v/20230607195200096</id>
-        <link href="https://v.daum.net/v/20230607195200096"/>
-        <updated>2023-06-07T11:13:07.935Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
