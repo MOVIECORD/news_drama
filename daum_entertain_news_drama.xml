@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-07T10:12:20.591Z</updated>
+    <updated>2023-06-07T11:14:10.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선호, 최윤영 정체 알았다… 한기웅·이채영 범죄 찾아낼까]]></title>
+        <id>https://v.daum.net/v/20230607201113411</id>
+        <link href="https://v.daum.net/v/20230607201113411"/>
+        <updated>2023-06-07T11:13:07.935Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 무릎 꿇은 김유석 외면한 변우민... 진주형이 대신 쳤다]]></title>
+        <id>https://v.daum.net/v/20230607195200096</id>
+        <link href="https://v.daum.net/v/20230607195200096"/>
+        <updated>2023-06-07T11:13:07.935Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 박소진, 김동욱의 유일한 대나무 숲]]></title>
         <id>https://v.daum.net/v/20230607184708584</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230607151402452"/>
         <updated>2023-06-07T07:10:26.473Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상이 "우도환, 어리지만 형 같아…임지연·안은진 다음은 나"]]></title>
-        <id>https://v.daum.net/v/20230607145257575</id>
-        <link href="https://v.daum.net/v/20230607145257575"/>
-        <updated>2023-06-07T06:12:46.185Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["통편집 無" '사냥개들' 우도환x이상이 갈아넣은 액션인데…김새론 불편함 어쩌나]]></title>
-        <id>https://v.daum.net/v/20230607145108524</id>
-        <link href="https://v.daum.net/v/20230607145108524"/>
-        <updated>2023-06-07T06:12:46.188Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
