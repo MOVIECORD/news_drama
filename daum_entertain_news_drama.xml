@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-08T03:14:45.190Z</updated>
+    <updated>2023-06-08T04:12:26.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조병규 대본리딩 , ‘학폭’ 이슈 품고 ‘경이로운 소문2’ 시작]]></title>
+        <id>https://v.daum.net/v/20230608122101430</id>
+        <link href="https://v.daum.net/v/20230608122101430"/>
+        <updated>2023-06-08T04:12:14.839Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재욱→전혜진 주연 '남남', 내달 17일 첫방 확정…K-모녀 공감 담는다]]></title>
         <id>https://v.daum.net/v/20230608115804776</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230608110108389</id>
         <link href="https://v.daum.net/v/20230608110108389"/>
         <updated>2023-06-08T02:25:43.932Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조병규→김히어라 '경이로운 소문2', 땀내 최고..유준상 "시즌7까지 GO"]]></title>
-        <id>https://v.daum.net/v/20230608104419525</id>
-        <link href="https://v.daum.net/v/20230608104419525"/>
-        <updated>2023-06-08T02:25:43.934Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
