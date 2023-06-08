@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-08T13:15:23.533Z</updated>
+    <updated>2023-06-08T14:09:20.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 정웅인 압박 "최무성 재판 증인으로 서라"]]></title>
+        <id>https://v.daum.net/v/20230608225507080</id>
+        <link href="https://v.daum.net/v/20230608225507080"/>
+        <updated>2023-06-08T14:09:07.992Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 이도현, 정웅인 손잡고 최무성 법정 세웠다..최후의 복수]]></title>
+        <id>https://v.daum.net/v/20230608225308071</id>
+        <link href="https://v.daum.net/v/20230608225308071"/>
+        <updated>2023-06-08T14:09:08.000Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조향기, 서준영 앞에 두고 "아버지 '제비족' 이란다" 이간질]]></title>
         <id>https://v.daum.net/v/20230608213708262</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230608180217833"/>
         <updated>2023-06-08T09:09:59.524Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우현 '마당이 있는 집'서 경비 변신..임지연과 호흡]]></title>
-        <id>https://v.daum.net/v/20230608173910105</id>
-        <link href="https://v.daum.net/v/20230608173910105"/>
-        <updated>2023-06-08T09:09:59.526Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐1938' 종영까지 단 2회, 배우들의 굿바이 비하인드]]></title>
-        <id>https://v.daum.net/v/20230608173759067</id>
-        <link href="https://v.daum.net/v/20230608173759067"/>
-        <updated>2023-06-08T09:09:59.527Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
