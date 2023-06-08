@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-08T10:11:29.140Z</updated>
+    <updated>2023-06-08T11:09:51.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 서한결, 진주형에 "치졸하고 비열해" 멱살잡이]]></title>
+        <id>https://v.daum.net/v/20230608194818329</id>
+        <link href="https://v.daum.net/v/20230608194818329"/>
+        <updated>2023-06-08T11:09:40.249Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 조미령, 검사 진주형 약점 잡았다 “김유석 1호 장학생”]]></title>
+        <id>https://v.daum.net/v/20230608194408249</id>
+        <link href="https://v.daum.net/v/20230608194408249"/>
+        <updated>2023-06-08T11:09:40.249Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱, 눈보다 가슴이 먼저 반응→시청자 과몰입]]></title>
         <id>https://v.daum.net/v/20230608190608375</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["언니라고 부르면 안 됩니다"...'엄정화바라기' 백주희]]></title>
+        <title type="html"><![CDATA["언니라고 부르면 안 됩니까"...'엄정화바라기' 백주희]]></title>
         <id>https://v.daum.net/v/20230608185003969</id>
         <link href="https://v.daum.net/v/20230608185003969"/>
         <updated>2023-06-08T10:11:16.899Z</updated>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230608161742611</id>
         <link href="https://v.daum.net/v/20230608161742611"/>
         <updated>2023-06-08T08:12:46.569Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백주희 “’닥터 차정숙’, 나에게도 필요했던 이야기…도전 늦지 않았다”]]></title>
-        <id>https://v.daum.net/v/20230608161120371</id>
-        <link href="https://v.daum.net/v/20230608161120371"/>
-        <updated>2023-06-08T08:12:46.569Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감성 보컬' 허회경, '행복배틀' 두 번째 OST 참여…오늘 발매]]></title>
-        <id>https://v.daum.net/v/20230608155456697</id>
-        <link href="https://v.daum.net/v/20230608155456697"/>
-        <updated>2023-06-08T07:09:59.761Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
