@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-08T05:10:21.969Z</updated>
+    <updated>2023-06-08T06:13:09.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘차정숙’→‘킹더랜드’ 스페셜, JTBC ‘타 채널에 시청자 못 내줘]]></title>
+        <id>https://v.daum.net/v/20230608144000377</id>
+        <link href="https://v.daum.net/v/20230608144000377"/>
+        <updated>2023-06-08T06:13:00.286Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 D-DAY '나쁜엄마' 이도현, 최후의 심판…최무성 향한 복수 성공?]]></title>
+        <id>https://v.daum.net/v/20230608142402625</id>
+        <link href="https://v.daum.net/v/20230608142402625"/>
+        <updated>2023-06-08T06:13:00.288Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘닥터 차정숙’ 스페셜 방송→‘킹더랜드’ 미리보기 바톤 터치]]></title>
+        <id>https://v.daum.net/v/20230608141223072</id>
+        <link href="https://v.daum.net/v/20230608141223072"/>
+        <updated>2023-06-08T06:13:00.290Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나쁜엄마’ 검사 이도현, 최후의 심판 위해 법정 선다]]></title>
         <id>https://v.daum.net/v/20230608140000541</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230608112645529"/>
         <updated>2023-06-08T03:14:34.245Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['행복배틀' 죽은 박효주 자리, 이엘이 들어갔다]]></title>
-        <id>https://v.daum.net/v/20230608112520482</id>
-        <link href="https://v.daum.net/v/20230608112520482"/>
-        <updated>2023-06-08T02:25:43.904Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["시母 사랑해요" 윤혜영, 파격 인물에 "나조차도 놀라"..임성한과 4번째 호흡]]></title>
-        <id>https://v.daum.net/v/20230608112425444</id>
-        <link href="https://v.daum.net/v/20230608112425444"/>
-        <updated>2023-06-08T02:25:43.908Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤해영, "어머님 사랑해요" 시母 향한 파격 고백…"나도 놀랐다"]]></title>
-        <id>https://v.daum.net/v/20230608112358416</id>
-        <link href="https://v.daum.net/v/20230608112358416"/>
-        <updated>2023-06-08T02:25:43.910Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
