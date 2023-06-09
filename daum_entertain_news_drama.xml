@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T09:11:13.487Z</updated>
+    <updated>2023-06-09T10:10:58.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["무서우면 안아줄게"…'나쁜엄마', 무겁고도 가벼웠다]]></title>
+        <id>https://v.daum.net/v/20230609185003435</id>
+        <link href="https://v.daum.net/v/20230609185003435"/>
+        <updated>2023-06-09T10:10:46.428Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘단짠커플’ 김동욱♥진기주의 심쿵 포인트]]></title>
+        <id>https://v.daum.net/v/20230609181708787</id>
+        <link href="https://v.daum.net/v/20230609181708787"/>
+        <updated>2023-06-09T10:10:46.429Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선아, 오지호 향한 프러포즈 성공할까?]]></title>
+        <id>https://v.daum.net/v/20230609181009616</id>
+        <link href="https://v.daum.net/v/20230609181009616"/>
+        <updated>2023-06-09T10:10:46.432Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김사부3' 한석규의 모난돌 프로젝트, 유연석 컴백이 갖는 의미]]></title>
         <id>https://v.daum.net/v/20230609180402416</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230609160859046"/>
         <updated>2023-06-09T07:10:03.957Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과 후 전쟁활동' 신혜지, '김사부3' 전격 투입..돌담병원 입원]]></title>
-        <id>https://v.daum.net/v/20230609160557952</id>
-        <link href="https://v.daum.net/v/20230609160557952"/>
-        <updated>2023-06-09T07:10:03.957Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가면의 여왕' 막판 스퍼트…김선아, ♥오지호 프러포즈 성공할까]]></title>
-        <id>https://v.daum.net/v/20230609155515556</id>
-        <link href="https://v.daum.net/v/20230609155515556"/>
-        <updated>2023-06-09T07:10:03.961Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어그대' 진범의 핵심 단서…"책을 읽는 여자는 위험하다"]]></title>
-        <id>https://v.daum.net/v/20230609154636293</id>
-        <link href="https://v.daum.net/v/20230609154636293"/>
-        <updated>2023-06-09T07:10:03.964Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
