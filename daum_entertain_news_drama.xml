@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T15:10:57.911Z</updated>
+    <updated>2023-06-09T16:13:09.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜엄마’ 홍비라 “완전히 무너진 하영이, 비로소 자신을 찾았죠”]]></title>
+        <id>https://v.daum.net/v/20230610010209593</id>
+        <link href="https://v.daum.net/v/20230610010209593"/>
+        <updated>2023-06-09T16:12:58.122Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석 돌담 컴백, 환자 사망→안효섭과 충돌..한석규 '심각']]></title>
+        <id>https://v.daum.net/v/20230610003227500</id>
+        <link href="https://v.daum.net/v/20230610003227500"/>
+        <updated>2023-06-09T16:12:58.124Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유연석, 돌담 복귀 동시에 '위기'..안효섭에 경고 "한석규, 목표가 돼선 안돼"]]></title>
         <id>https://v.daum.net/v/20230609234508204</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230609204856370"/>
         <updated>2023-06-09T12:19:02.988Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 이선호, 최윤영에 직진 고백 “사랑해요”...깨어난 신고은 ‘충격’]]></title>
-        <id>https://v.daum.net/v/20230609203201152</id>
-        <link href="https://v.daum.net/v/20230609203201152"/>
-        <updated>2023-06-09T12:19:02.989Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈을 뗄 수 없는 ‘단짠커플’ 김동욱♥진기주의 심쿵 포인트]]></title>
-        <id>https://v.daum.net/v/20230609202153011</id>
-        <link href="https://v.daum.net/v/20230609202153011"/>
-        <updated>2023-06-09T12:19:02.990Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
