@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T20:10:40.838Z</updated>
+    <updated>2023-06-09T21:09:21.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소년원 출신 인터뷰...웰메이드 학폭 드라마 '미성년자들' 나온다]]></title>
+        <id>https://v.daum.net/v/20230610060035624</id>
+        <link href="https://v.daum.net/v/20230610060035624"/>
+        <updated>2023-06-09T21:09:10.910Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 위기의 센터장 유연석의 경고 "한석규 따라가지 마"]]></title>
+        <id>https://v.daum.net/v/20230610055802583</id>
+        <link href="https://v.daum.net/v/20230610055802583"/>
+        <updated>2023-06-09T21:09:10.911Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“여자 맘 몰라” 김민재, ♥소주연과 냉전 중 답답 동상이몽‘김사부3’]]></title>
+        <id>https://v.daum.net/v/20230610055508577</id>
+        <link href="https://v.daum.net/v/20230610055508577"/>
+        <updated>2023-06-09T21:09:10.912Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“대판 붙어 사이 안 좋아” 유연석 VS 안효섭 악연 과거사 암시 ‘김사부3’]]></title>
+        <id>https://v.daum.net/v/20230610053308483</id>
+        <link href="https://v.daum.net/v/20230610053308483"/>
+        <updated>2023-06-09T21:09:10.913Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“룰이고 나발이고” 안효섭, 원칙 어긴 이성경 혼내는 유연석에 반기 ‘김사부3’]]></title>
+        <id>https://v.daum.net/v/20230610052100401</id>
+        <link href="https://v.daum.net/v/20230610052100401"/>
+        <updated>2023-06-09T21:09:10.914Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주미, 며느리와 현대로 불시착...'GD 매형' 김민준과 만난다]]></title>
         <id>https://v.daum.net/v/20230610050030239</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230609232200036"/>
         <updated>2023-06-09T15:09:55.427Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 유연석 센터장 컴백.."한석규가 목표 돼선 안돼" 폭발]]></title>
-        <id>https://v.daum.net/v/20230609231508001</id>
-        <link href="https://v.daum.net/v/20230609231508001"/>
-        <updated>2023-06-09T15:09:55.428Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 유연석 "돌담병원 비효율적"→한석규 "지켜보자"]]></title>
-        <id>https://v.daum.net/v/20230609223144629</id>
-        <link href="https://v.daum.net/v/20230609223144629"/>
-        <updated>2023-06-09T14:09:46.427Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 유연석, 안효섭과 기싸움 "여기서 볼 줄 몰랐는데...앞으로 재밌겠네"]]></title>
-        <id>https://v.daum.net/v/20230609222959614</id>
-        <link href="https://v.daum.net/v/20230609222959614"/>
-        <updated>2023-06-09T14:09:46.427Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 유연석, 돌담병원 컴백… "원칙대로 시작해보겠다"]]></title>
-        <id>https://v.daum.net/v/20230609221759518</id>
-        <link href="https://v.daum.net/v/20230609221759518"/>
-        <updated>2023-06-09T14:09:46.434Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 이성경 "유연석, 악으로 깡으로 유명했던 분"]]></title>
-        <id>https://v.daum.net/v/20230609221403484</id>
-        <link href="https://v.daum.net/v/20230609221403484"/>
-        <updated>2023-06-09T14:09:46.438Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
