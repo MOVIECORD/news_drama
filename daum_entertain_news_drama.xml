@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T19:08:53.447Z</updated>
+    <updated>2023-06-09T20:10:40.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미, 며느리와 현대로 불시착...'GD 매형' 김민준과 만난다]]></title>
+        <id>https://v.daum.net/v/20230610050030239</id>
+        <link href="https://v.daum.net/v/20230610050030239"/>
+        <updated>2023-06-09T20:10:30.810Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱 체포 ‘어쩌다 마주친, 그대’, 후반부 핵심 포인트3]]></title>
         <id>https://v.daum.net/v/20230610020209753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230609221403484"/>
         <updated>2023-06-09T14:09:46.438Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 유연석 컴백 "여전히 이상한 돌담병원" 의미심장]]></title>
-        <id>https://v.daum.net/v/20230609221214470</id>
-        <link href="https://v.daum.net/v/20230609221214470"/>
-        <updated>2023-06-09T13:13:00.237Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
