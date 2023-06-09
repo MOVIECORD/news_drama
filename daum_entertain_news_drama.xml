@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T08:12:15.827Z</updated>
+    <updated>2023-06-09T09:11:13.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 한석규의 모난돌 프로젝트, 유연석 컴백이 갖는 의미]]></title>
+        <id>https://v.daum.net/v/20230609180402416</id>
+        <link href="https://v.daum.net/v/20230609180402416"/>
+        <updated>2023-06-09T09:10:10.508Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜지 ‘김사부3’ 뜬다, 돌담병원 환자 변신]]></title>
+        <id>https://v.daum.net/v/20230609174600787</id>
+        <link href="https://v.daum.net/v/20230609174600787"/>
+        <updated>2023-06-09T09:10:10.514Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이도현과 키스신 많은 이유는.." 안은진, '나쁜 엄마' 성공의 키]]></title>
         <id>https://v.daum.net/v/20230609170926763</id>
@@ -62,7 +76,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['사랑의 불시착' 촬영 스위스 마을, 아시아 관광객 몰려 북새통]]></title>
+        <title type="html"><![CDATA['사랑의 불시착' 촬영 스위스 마을, 관광객에 몸살…통행료 물려]]></title>
         <id>https://v.daum.net/v/20230609161211150</id>
         <link href="https://v.daum.net/v/20230609161211150"/>
         <updated>2023-06-09T08:12:04.539Z</updated>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230609154636293</id>
         <link href="https://v.daum.net/v/20230609154636293"/>
         <updated>2023-06-09T07:10:03.964Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜 엄마' 안은진 "엔딩 만족..라미란 죽음 의미 크다"]]></title>
-        <id>https://v.daum.net/v/20230609153916101</id>
-        <link href="https://v.daum.net/v/20230609153916101"/>
-        <updated>2023-06-09T07:10:03.966Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜 엄마' 이도현 "마음 힐링, 인생 사는 법 많이 배웠다"]]></title>
-        <id>https://v.daum.net/v/20230609153639024</id>
-        <link href="https://v.daum.net/v/20230609153639024"/>
-        <updated>2023-06-09T07:10:03.977Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
