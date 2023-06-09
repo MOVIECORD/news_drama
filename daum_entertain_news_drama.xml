@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T10:10:58.175Z</updated>
+    <updated>2023-06-09T11:09:09.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 병원서 깨어난 정우연에 고은미 눈물 “강한 엄마 될 것”]]></title>
+        <id>https://v.daum.net/v/20230609195200516</id>
+        <link href="https://v.daum.net/v/20230609195200516"/>
+        <updated>2023-06-09T11:08:57.853Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 변우민, 김유석에 "한번 미쳐봐라" 압박]]></title>
+        <id>https://v.daum.net/v/20230609194655433</id>
+        <link href="https://v.daum.net/v/20230609194655433"/>
+        <updated>2023-06-09T11:08:57.853Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["무서우면 안아줄게"…'나쁜엄마', 무겁고도 가벼웠다]]></title>
         <id>https://v.daum.net/v/20230609185003435</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230609162642534"/>
         <updated>2023-06-09T08:12:04.536Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 불시착' 촬영 스위스 마을, 관광객에 몸살…통행료 물려]]></title>
-        <id>https://v.daum.net/v/20230609161211150</id>
-        <link href="https://v.daum.net/v/20230609161211150"/>
-        <updated>2023-06-09T08:12:04.539Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선아♥오지호 결혼할까? ‘가면의 여왕’ 마지막 관전 포인트]]></title>
-        <id>https://v.daum.net/v/20230609160859046</id>
-        <link href="https://v.daum.net/v/20230609160859046"/>
-        <updated>2023-06-09T07:10:03.957Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
