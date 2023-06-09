@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-09T21:09:21.618Z</updated>
+    <updated>2023-06-09T22:09:18.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜엄마’ 안은진 “찡했던 영순·강호, 저희 모녀도 만만치 않았죠”]]></title>
+        <id>https://v.daum.net/v/20230610070208150</id>
+        <link href="https://v.daum.net/v/20230610070208150"/>
+        <updated>2023-06-09T22:09:07.148Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석, 안효섭·이성경에 "개념탑재 안돼..다음엔 손 말고 다른것 잃을것" 경고]]></title>
+        <id>https://v.daum.net/v/20230610065608047</id>
+        <link href="https://v.daum.net/v/20230610065608047"/>
+        <updated>2023-06-09T22:09:07.153Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모난돌 유연석, 컴백과 동시에 파격 행보→안효섭과 갈등]]></title>
+        <id>https://v.daum.net/v/20230610065158035</id>
+        <link href="https://v.daum.net/v/20230610065158035"/>
+        <updated>2023-06-09T22:09:07.153Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소년원 출신 인터뷰...웰메이드 학폭 드라마 '미성년자들' 나온다]]></title>
         <id>https://v.daum.net/v/20230610060035624</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230609234508204"/>
         <updated>2023-06-09T15:09:55.413Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["손이 아니라 다른걸 잃을 수도" 유연석, 안효섭X이성경과 갈등]]></title>
-        <id>https://v.daum.net/v/20230609233959170</id>
-        <link href="https://v.daum.net/v/20230609233959170"/>
-        <updated>2023-06-09T15:09:55.414Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 컴백 후 첫 수술 환자 사망→안효섭·이성경과 갈등]]></title>
-        <id>https://v.daum.net/v/20230609232818100</id>
-        <link href="https://v.daum.net/v/20230609232818100"/>
-        <updated>2023-06-09T15:09:55.418Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 안효섭 보며 "의사한테 중요한 연장은 칼 아니라 손...앞으로 재밌겠네"]]></title>
-        <id>https://v.daum.net/v/20230609232200036</id>
-        <link href="https://v.daum.net/v/20230609232200036"/>
-        <updated>2023-06-09T15:09:55.427Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
