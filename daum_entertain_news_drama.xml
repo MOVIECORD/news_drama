@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-10T08:11:46.207Z</updated>
+    <updated>2023-06-10T09:09:58.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음주운전' 김새론 민폐 지웠다…설경구·임시완·박서준·강하늘 잇는 우도환·이상이]]></title>
+        <id>https://v.daum.net/v/20230610180257463</id>
+        <link href="https://v.daum.net/v/20230610180257463"/>
+        <updated>2023-06-10T09:09:47.750Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 씌인 김태리, '무인도' 나온 박은빈…하반기 대격돌]]></title>
+        <id>https://v.daum.net/v/20230610174307122</id>
+        <link href="https://v.daum.net/v/20230610174307122"/>
+        <updated>2023-06-10T09:09:47.762Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이도현 '바보 연기'만 5주동안 보여주더니…뒷마무리 부족했던 '나쁜엄마']]></title>
         <id>https://v.daum.net/v/20230610153602653</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230610103001116"/>
         <updated>2023-06-10T02:14:43.687Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐1938' 이동욱, ♥조보아 재회할까.."다시 연기할 수 있어 영광"]]></title>
-        <id>https://v.daum.net/v/20230610095808689</id>
-        <link href="https://v.daum.net/v/20230610095808689"/>
-        <updated>2023-06-10T02:14:43.687Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌담병원 메기로 화끈하게 돌아온 유연석의 뼈 때리는 일갈]]></title>
-        <id>https://v.daum.net/v/20230610095008597</id>
-        <link href="https://v.daum.net/v/20230610095008597"/>
-        <updated>2023-06-10T00:53:16.283Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
