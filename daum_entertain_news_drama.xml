@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-10T06:12:41.617Z</updated>
+    <updated>2023-06-10T07:10:28.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도현 '바보 연기'만 5주동안 보여주더니…뒷마무리 부족했던 '나쁜엄마']]></title>
+        <id>https://v.daum.net/v/20230610153602653</id>
+        <link href="https://v.daum.net/v/20230610153602653"/>
+        <updated>2023-06-10T07:09:25.409Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동욱 있어 가능했던 '구미호뎐1938']]></title>
         <id>https://v.daum.net/v/20230610150941468</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이동욱, ♥조보아 기다리는데 돌아갈 수 있나('구미호뎐1938']]></title>
+        <title type="html"><![CDATA[이동욱, ♥조보아 기다리는데 돌아갈 수 있나]]></title>
         <id>https://v.daum.net/v/20230610105902377</id>
         <link href="https://v.daum.net/v/20230610105902377"/>
         <updated>2023-06-10T02:14:43.664Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610095008597"/>
         <updated>2023-06-10T00:53:16.283Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란 "실제로 완전 좋은 엄마...영순, 그게 최선의 선택"]]></title>
-        <id>https://v.daum.net/v/20230610093158384</id>
-        <link href="https://v.daum.net/v/20230610093158384"/>
-        <updated>2023-06-10T00:53:16.285Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
