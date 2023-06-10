@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-10T16:12:12.672Z</updated>
+    <updated>2023-06-10T17:08:43.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭만닥터 김사부3' 유연석, 한석규의 낭만 이을까···산불 등 '외상센터 해체' 위기]]></title>
+        <id>https://v.daum.net/v/20230611012517451</id>
+        <link href="https://v.daum.net/v/20230611012517451"/>
+        <updated>2023-06-10T17:08:32.269Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낭만닥터 김사부3' 이성경, 유연석에 '보이콧'…산불로 외상센터 '대위기']]></title>
         <id>https://v.daum.net/v/20230611010608382</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610223108878"/>
         <updated>2023-06-10T14:08:24.924Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매운맛 유연석, 이성경과 대치 "수술하다 사람 죽였잖아→유연석 보이콧 시작]]></title>
-        <id>https://v.daum.net/v/20230610222420847</id>
-        <link href="https://v.daum.net/v/20230610222420847"/>
-        <updated>2023-06-10T14:08:24.925Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
