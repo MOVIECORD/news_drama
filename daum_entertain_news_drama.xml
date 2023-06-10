@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-10T05:09:40.082Z</updated>
+    <updated>2023-06-10T06:12:41.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동욱 있어 가능했던 '구미호뎐1938']]></title>
+        <id>https://v.daum.net/v/20230610150941468</id>
+        <link href="https://v.daum.net/v/20230610150941468"/>
+        <updated>2023-06-10T06:12:30.411Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하트시그널4' 제작진 "김지민 노출 방송? 사실 아냐"]]></title>
         <id>https://v.daum.net/v/20230610135507820</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610093158384"/>
         <updated>2023-06-10T00:53:16.285Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭 "왼손은 거들뿐"… 동시간대 1위 질주]]></title>
-        <id>https://v.daum.net/v/20230610093107372</id>
-        <link href="https://v.daum.net/v/20230610093107372"/>
-        <updated>2023-06-10T00:53:16.287Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
