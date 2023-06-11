@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-11T07:09:22.304Z</updated>
+    <updated>2023-06-11T08:11:46.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류경수, 죽음으로 선사한 충격 전개..쫀쫀한 '흐름 체인저']]></title>
+        <id>https://v.daum.net/v/20230611170422026</id>
+        <link href="https://v.daum.net/v/20230611170422026"/>
+        <updated>2023-06-11T08:11:34.957Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어그대' 진기주, 유일한 목격자 지혜원 설득...김동욱 구할까]]></title>
+        <id>https://v.daum.net/v/20230611164608790</id>
+        <link href="https://v.daum.net/v/20230611164608790"/>
+        <updated>2023-06-11T08:11:34.960Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동욱 무사귀환 할까…오늘 사생결단 끝장전]]></title>
+        <id>https://v.daum.net/v/20230611162602564</id>
+        <link href="https://v.daum.net/v/20230611162602564"/>
+        <updated>2023-06-11T08:11:34.963Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류경수 죽음→이동욱 오열, 사생결단만 남았다]]></title>
+        <id>https://v.daum.net/v/20230611162249536</id>
+        <link href="https://v.daum.net/v/20230611162249536"/>
+        <updated>2023-06-11T08:11:34.964Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우현진, ‘구미호뎐1983’으로 보여준 잠재력 “‘여희’ 만난 게 가장 큰 행운”]]></title>
         <id>https://v.daum.net/v/20230611160130212</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230611120635793"/>
         <updated>2023-06-11T03:24:42.226Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 안효섭, 멜로에 브로맨스까지..역대급 최애캐]]></title>
-        <id>https://v.daum.net/v/20230611120026630</id>
-        <link href="https://v.daum.net/v/20230611120026630"/>
-        <updated>2023-06-11T03:24:42.234Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤해영, ♥시모 최명길에 키스…임성한표 고부 동성애 역대급]]></title>
-        <id>https://v.daum.net/v/20230611110600855</id>
-        <link href="https://v.daum.net/v/20230611110600855"/>
-        <updated>2023-06-11T02:58:44.743Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희·안재현은 물론 강부자까지 망가졌건만 왜 안 통할까]]></title>
-        <id>https://v.daum.net/v/20230611103159375</id>
-        <link href="https://v.daum.net/v/20230611103159375"/>
-        <updated>2023-06-11T02:58:44.743Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구미호뎐1938' 이동욱, '만세삼창' 승리→류경수 잃고 오열]]></title>
-        <id>https://v.daum.net/v/20230611101707170</id>
-        <link href="https://v.daum.net/v/20230611101707170"/>
-        <updated>2023-06-11T02:58:44.745Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
