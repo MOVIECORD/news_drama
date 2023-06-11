@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-11T08:11:46.124Z</updated>
+    <updated>2023-06-11T09:09:51.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍비라 "'나쁜엄마'로 한 걸음 발전...좋은 사람 되고 싶다"]]></title>
+        <id>https://v.daum.net/v/20230611175209773</id>
+        <link href="https://v.daum.net/v/20230611175209773"/>
+        <updated>2023-06-11T09:09:42.637Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜엄마' 홍비라 "이도현에 의지하며 촬영...조우리에선"]]></title>
+        <id>https://v.daum.net/v/20230611175204771</id>
+        <link href="https://v.daum.net/v/20230611175204771"/>
+        <updated>2023-06-11T09:09:42.638Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍비라 "SNS에 외국어 댓글 多…데뷔 후 이런 인기 처음"]]></title>
+        <id>https://v.daum.net/v/20230611175158768</id>
+        <link href="https://v.daum.net/v/20230611175158768"/>
+        <updated>2023-06-11T09:09:42.638Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류경수, 죽음으로 선사한 충격 전개..쫀쫀한 '흐름 체인저']]></title>
         <id>https://v.daum.net/v/20230611170422026</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230611142208538"/>
         <updated>2023-06-11T06:11:50.063Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생사 갈림길에 놓인 오지호, 김선아 곁으로 돌아갈 수  있을까]]></title>
-        <id>https://v.daum.net/v/20230611133609835</id>
-        <link href="https://v.daum.net/v/20230611133609835"/>
-        <updated>2023-06-11T05:09:41.761Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 이신영 얼린 이름 ‘장현주’가 불러올 파장은?]]></title>
-        <id>https://v.daum.net/v/20230611120700805</id>
-        <link href="https://v.daum.net/v/20230611120700805"/>
-        <updated>2023-06-11T03:24:42.222Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱, 류경수 죽음에 오열..만세 삼창까지 '짜릿함']]></title>
-        <id>https://v.daum.net/v/20230611120635793</id>
-        <link href="https://v.daum.net/v/20230611120635793"/>
-        <updated>2023-06-11T03:24:42.226Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
