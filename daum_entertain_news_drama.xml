@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-11T06:12:01.542Z</updated>
+    <updated>2023-06-11T07:09:22.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우현진, ‘구미호뎐1983’으로 보여준 잠재력 “‘여희’ 만난 게 가장 큰 행운”]]></title>
+        <id>https://v.daum.net/v/20230611160130212</id>
+        <link href="https://v.daum.net/v/20230611160130212"/>
+        <updated>2023-06-11T07:09:12.306Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 감독 "천우희 연기는 짜릿해..김동욱 디테일=완벽"]]></title>
         <id>https://v.daum.net/v/20230611145728091</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230611101707170</id>
         <link href="https://v.daum.net/v/20230611101707170"/>
         <updated>2023-06-11T02:58:44.745Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이로운 사기' 감독이 밝힌 천우희·김동욱 캐스팅 비화]]></title>
-        <id>https://v.daum.net/v/20230611101511155</id>
-        <link href="https://v.daum.net/v/20230611101511155"/>
-        <updated>2023-06-11T02:58:44.747Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
