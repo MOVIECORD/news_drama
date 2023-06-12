@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T09:11:05.420Z</updated>
+    <updated>2023-06-12T10:12:02.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진기주, 정신 잃은 서지혜 위해 진범 찾을까]]></title>
+        <id>https://v.daum.net/v/20230612185459051</id>
+        <link href="https://v.daum.net/v/20230612185459051"/>
+        <updated>2023-06-12T10:10:54.593Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명세빈, '닥터 차정숙' 불륜녀로 전성기→결혼사칭에 '몸살']]></title>
+        <id>https://v.daum.net/v/20230612185408046</id>
+        <link href="https://v.daum.net/v/20230612185408046"/>
+        <updated>2023-06-12T10:10:54.601Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사냥개들' 김새론, 왜 손절 못 했나 알고 보니]]></title>
+        <id>https://v.daum.net/v/20230612185003984</id>
+        <link href="https://v.daum.net/v/20230612185003984"/>
+        <updated>2023-06-12T10:10:54.601Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선아, 반격 시작]]></title>
+        <id>https://v.daum.net/v/20230612184901971</id>
+        <link href="https://v.daum.net/v/20230612184901971"/>
+        <updated>2023-06-12T10:10:54.603Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진주, '10년만 귀환' 정우성 잡았다…'사랑한다고 말해줘'서 호흡]]></title>
         <id>https://v.daum.net/v/20230612180102714</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230612160311290"/>
         <updated>2023-06-12T07:10:46.374Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘차정숙’ MZ동기 김예은 “실제 모습은 정반대..할말 못해 끙끙 앓기도”]]></title>
-        <id>https://v.daum.net/v/20230612155008700</id>
-        <link href="https://v.daum.net/v/20230612155008700"/>
-        <updated>2023-06-12T07:10:46.376Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진기주, 정신 잃은 서지혜 위해 진범 찾을 수 있을까]]></title>
-        <id>https://v.daum.net/v/20230612154508474</id>
-        <link href="https://v.daum.net/v/20230612154508474"/>
-        <updated>2023-06-12T07:10:46.383Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최후 빌런 송영창, 가면 3인방에 예상치 못한 제안]]></title>
-        <id>https://v.daum.net/v/20230612154247376</id>
-        <link href="https://v.daum.net/v/20230612154247376"/>
-        <updated>2023-06-12T07:10:46.385Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범, '구미호뎐' 시리즈 3년 대장정 마쳤다.."참 행복했어요"]]></title>
-        <id>https://v.daum.net/v/20230612152808710</id>
-        <link href="https://v.daum.net/v/20230612152808710"/>
-        <updated>2023-06-12T07:10:46.386Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
