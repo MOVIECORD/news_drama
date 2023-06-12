@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T21:10:46.707Z</updated>
+    <updated>2023-06-12T22:09:43.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재연배우 부부, 분식집 운영 근황 "수입 없어서 시작"]]></title>
+        <id>https://v.daum.net/v/20230613070508938</id>
+        <link href="https://v.daum.net/v/20230613070508938"/>
+        <updated>2023-06-12T22:09:33.770Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하준, '이 연애는 불가항력' 주연 확정…'만인의 연인' 훈남 보좌관役]]></title>
+        <id>https://v.daum.net/v/20230613070004812</id>
+        <link href="https://v.daum.net/v/20230613070004812"/>
+        <updated>2023-06-12T22:09:33.770Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘차정숙’ 김예은 “선배들 많은 현장 좋았다..엄정화·명세빈 배려에 감동”]]></title>
         <id>https://v.daum.net/v/20230613050120439</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230612200931079"/>
         <updated>2023-06-12T12:18:48.703Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘’ 조미령, 김유석 반대에도 새 대표 됐다... 정우연, 변우민 잡은 진주형 원망]]></title>
-        <id>https://v.daum.net/v/20230612200107973</id>
-        <link href="https://v.daum.net/v/20230612200107973"/>
-        <updated>2023-06-12T11:08:57.064Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태란, 악역으로 컴백..'이로운 사기' 천우희랑 엮인 惡女]]></title>
-        <id>https://v.daum.net/v/20230612193308547</id>
-        <link href="https://v.daum.net/v/20230612193308547"/>
-        <updated>2023-06-12T11:08:57.066Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
