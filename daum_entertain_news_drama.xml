@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T14:10:41.323Z</updated>
+    <updated>2023-06-12T15:11:37.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 최윤영, 신고은 기억 되돌리기 위해 노력]]></title>
+        <id>https://v.daum.net/v/20230613000400250</id>
+        <link href="https://v.daum.net/v/20230613000400250"/>
+        <updated>2023-06-12T15:10:34.896Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운사기' 천우희, 김동욱 배신..동맹 깨졌다 "자수해"]]></title>
         <id>https://v.daum.net/v/20230612221725508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612185408046"/>
         <updated>2023-06-12T10:10:54.601Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사냥개들' 김새론, 왜 손절 못 했나 알고 보니]]></title>
-        <id>https://v.daum.net/v/20230612185003984</id>
-        <link href="https://v.daum.net/v/20230612185003984"/>
-        <updated>2023-06-12T10:10:54.601Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
