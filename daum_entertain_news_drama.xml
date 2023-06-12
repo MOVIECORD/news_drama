@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T12:19:52.098Z</updated>
+    <updated>2023-06-12T13:13:08.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자수해"…'이로운 사기' 천우희, 김동욱에 사기도박죄 덮어씌웠다]]></title>
+        <id>https://v.daum.net/v/20230612221005458</id>
+        <link href="https://v.daum.net/v/20230612221005458"/>
+        <updated>2023-06-12T13:12:57.475Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뱀파이어 트리오' 옥택연·윤병희·고규필, 기대 상승]]></title>
+        <id>https://v.daum.net/v/20230612212811971</id>
+        <link href="https://v.daum.net/v/20230612212811971"/>
+        <updated>2023-06-12T13:12:57.480Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반민정, 서준영에게 고백하고 포옹까지...김시은 "아빠" 외치며 충격]]></title>
         <id>https://v.daum.net/v/20230612211800843</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230612180102714"/>
         <updated>2023-06-12T09:10:54.603Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱 홀렸던 조보아, 이번엔 로운이다]]></title>
-        <id>https://v.daum.net/v/20230612174512230</id>
-        <link href="https://v.daum.net/v/20230612174512230"/>
-        <updated>2023-06-12T09:10:54.613Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태란, 드디어 ‘이로운 사기’ 등판…천우희 사기극 변수 예고]]></title>
-        <id>https://v.daum.net/v/20230612174328174</id>
-        <link href="https://v.daum.net/v/20230612174328174"/>
-        <updated>2023-06-12T09:10:54.614Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
