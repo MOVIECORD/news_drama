@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-12T17:09:23.524Z</updated>
+    <updated>2023-06-12T18:13:43.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구미호뎐1938' 황희 "모든 순간들 보상받은 것 같아 행복" 종영 소감]]></title>
+        <id>https://v.daum.net/v/20230613030112777</id>
+        <link href="https://v.daum.net/v/20230613030112777"/>
+        <updated>2023-06-12T18:12:40.603Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 여자' 최윤영, 신고은 기억 되돌리기 위해 노력]]></title>
         <id>https://v.daum.net/v/20230613000400250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612185459051"/>
         <updated>2023-06-12T10:10:54.593Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명세빈, '닥터 차정숙' 불륜녀로 전성기→결혼사칭에 '몸살']]></title>
-        <id>https://v.daum.net/v/20230612185408046</id>
-        <link href="https://v.daum.net/v/20230612185408046"/>
-        <updated>2023-06-12T10:10:54.601Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
