@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-14T12:19:32.845Z</updated>
+    <updated>2023-06-14T13:13:25.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선·안보현, 환생 로맨스 기대 이유]]></title>
+        <id>https://v.daum.net/v/20230614220101849</id>
+        <link href="https://v.daum.net/v/20230614220101849"/>
+        <updated>2023-06-14T13:13:14.018Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시은, 반민정에게 경고 "어디 함부로 우리 엄마 자리를 노리냐"]]></title>
         <id>https://v.daum.net/v/20230614210408836</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230614175158304"/>
         <updated>2023-06-14T09:09:43.323Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사냥개들’ 우도환이 본 김새론 리스크 “눈앞 캄캄했지만 잘 이겨내”]]></title>
-        <id>https://v.daum.net/v/20230614175018243</id>
-        <link href="https://v.daum.net/v/20230614175018243"/>
-        <updated>2023-06-14T09:09:43.323Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
