@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-15T10:12:34.657Z</updated>
+    <updated>2023-06-15T11:10:04.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['킫더랜드' 이준호, 슈트핏이 구원을 만든다 '완벽한 자태']]></title>
-        <id>https://v.daum.net/v/20230615185059540</id>
-        <link href="https://v.daum.net/v/20230615185059540"/>
-        <updated>2023-06-15T10:11:32.263Z</updated>
+        <title type="html"><![CDATA[김민재, 팬미팅 취소 “공연장 근처 사고로 부득이한 결정”]]></title>
+        <id>https://v.daum.net/v/20230615194453969</id>
+        <link href="https://v.daum.net/v/20230615194453969"/>
+        <updated>2023-06-15T11:09:00.689Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 고은미, 폭행당한 조미령에 무릎 꿇어 “김유석 용서해줘”]]></title>
+        <id>https://v.daum.net/v/20230615193608774</id>
+        <link href="https://v.daum.net/v/20230615193608774"/>
+        <updated>2023-06-15T11:09:00.694Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 윤아, 천사같이 사랑스러워 '러블리 융프로디테']]></title>
+        <id>https://v.daum.net/v/20230615191158154</id>
+        <link href="https://v.daum.net/v/20230615191158154"/>
+        <updated>2023-06-15T11:09:00.696Z</updated>
         <content type="html"><![CDATA[MHN스포츠]]></content>
     </entry>
     <entry>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230615160758315"/>
         <updated>2023-06-15T07:10:23.062Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호X임윤아, 진부함도 깨부술 특급 케미]]></title>
-        <id>https://v.daum.net/v/20230615160507210</id>
-        <link href="https://v.daum.net/v/20230615160507210"/>
-        <updated>2023-06-15T07:10:23.064Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남보라, ‘효심이네 각자도생’ 출연..대형 로펌 변호사 출신 배우 지망생]]></title>
-        <id>https://v.daum.net/v/20230615155608680</id>
-        <link href="https://v.daum.net/v/20230615155608680"/>
-        <updated>2023-06-15T07:10:23.065Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
