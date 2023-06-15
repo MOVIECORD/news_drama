@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-15T12:18:58.201Z</updated>
+    <updated>2023-06-15T13:14:13.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이렇게 예쁜 회계사가 있나?..연우, '넘버스' 첫방 전 오늘 프리미어]]></title>
+        <id>https://v.daum.net/v/20230615220907853</id>
+        <link href="https://v.daum.net/v/20230615220907853"/>
+        <updated>2023-06-15T13:14:01.770Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아씨 두리안' 기대 포인트]]></title>
+        <id>https://v.daum.net/v/20230615212009993</id>
+        <link href="https://v.daum.net/v/20230615212009993"/>
+        <updated>2023-06-15T13:14:01.771Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최필립, 김시후 불륜 냄새 맡았다...조향기 "여자 있다는 증거 잡아와"]]></title>
         <id>https://v.daum.net/v/20230615210608746</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230615180307274"/>
         <updated>2023-06-15T09:10:13.583Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호 "저도 재벌이 아니라서…뻔한 로코? 요즘에 맞게 재해석"]]></title>
-        <id>https://v.daum.net/v/20230615175223842</id>
-        <link href="https://v.daum.net/v/20230615175223842"/>
-        <updated>2023-06-15T09:10:13.584Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김새론 논란' 극복케 한 이상이X우도환 브로맨스 "전우애 느껴"]]></title>
-        <id>https://v.daum.net/v/20230615175158822</id>
-        <link href="https://v.daum.net/v/20230615175158822"/>
-        <updated>2023-06-15T09:10:13.585Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
