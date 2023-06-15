@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-15T15:11:36.068Z</updated>
+    <updated>2023-06-15T16:12:28.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박효주, 죽기 전 이엘 찾아왔었다… 뒤늦게 밝힌 문희경에 이엘 폭발]]></title>
+        <id>https://v.daum.net/v/20230616001909140</id>
+        <link href="https://v.daum.net/v/20230616001909140"/>
+        <updated>2023-06-15T16:12:17.859Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이렇게 예쁜 회계사가 있나?..연우, '넘버스' 첫방 전 오늘 프리미어]]></title>
         <id>https://v.daum.net/v/20230615220907853</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615182919041"/>
         <updated>2023-06-15T10:11:32.276Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최명길, 여왕처럼 위풍당당'..휘황찬란 '재벌가 파티' 현장]]></title>
-        <id>https://v.daum.net/v/20230615180307274</id>
-        <link href="https://v.daum.net/v/20230615180307274"/>
-        <updated>2023-06-15T09:10:13.583Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
