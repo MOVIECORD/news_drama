@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-16T08:13:17.438Z</updated>
+    <updated>2023-06-16T09:12:27.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우도환 "김주환 감독, 군대에서 계속 편지 주고 받으며 연락.. 연인같은 사이"]]></title>
+        <id>https://v.daum.net/v/20230616175158394</id>
+        <link href="https://v.daum.net/v/20230616175158394"/>
+        <updated>2023-06-16T09:11:24.268Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설정환, 허정민 제안 받았던 역할 캐스팅…'효심이네 각자도생' 합류]]></title>
+        <id>https://v.daum.net/v/20230616173521995</id>
+        <link href="https://v.daum.net/v/20230616173521995"/>
+        <updated>2023-06-16T09:11:24.269Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사냥개들' 이상이, 김새론 음주운전 논란 "감정적으로 큰 동요 없었다"]]></title>
+        <id>https://v.daum.net/v/20230616173033873</id>
+        <link href="https://v.daum.net/v/20230616173033873"/>
+        <updated>2023-06-16T09:11:24.270Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 이준호, '로맨틱 킹' 재벌 변신…안방극장에 선사할 로맨스 바람]]></title>
         <id>https://v.daum.net/v/20230616165729015</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230616151758113"/>
         <updated>2023-06-16T07:09:59.258Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원지안 카드 펑펑 쓰는 옥택연.."나가서 돈부터 벌어와!"]]></title>
-        <id>https://v.daum.net/v/20230616151109932</id>
-        <link href="https://v.daum.net/v/20230616151109932"/>
-        <updated>2023-06-16T06:13:32.120Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이설 측 “‘남과 여’ 긍정검토중” 이동해와 장기연애 커플되나]]></title>
-        <id>https://v.daum.net/v/20230616150336608</id>
-        <link href="https://v.daum.net/v/20230616150336608"/>
-        <updated>2023-06-16T06:13:32.120Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네 각자도생' 허정민 하차→설정환 합류]]></title>
-        <id>https://v.daum.net/v/20230616150107507</id>
-        <link href="https://v.daum.net/v/20230616150107507"/>
-        <updated>2023-06-16T06:13:32.120Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
