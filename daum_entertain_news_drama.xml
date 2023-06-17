@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-17T15:10:46.295Z</updated>
+    <updated>2023-06-17T16:12:18.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아, 이준호 변태 고객으로 오해 “한 번만 더 이러면 내 손에 죽어”]]></title>
+        <id>https://v.daum.net/v/20230618011109800</id>
+        <link href="https://v.daum.net/v/20230618011109800"/>
+        <updated>2023-06-17T16:12:07.392Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호, 인턴 출근 첫날 해고→알고 보니 그룹 후계자]]></title>
+        <id>https://v.daum.net/v/20230618010211790</id>
+        <link href="https://v.daum.net/v/20230618010211790"/>
+        <updated>2023-06-17T16:12:07.420Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 임윤아, 이준호 '변태 고객' 오해 "머리에 똥만 가득"]]></title>
+        <id>https://v.daum.net/v/20230618001308717</id>
+        <link href="https://v.daum.net/v/20230618001308717"/>
+        <updated>2023-06-17T16:12:07.423Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 이준호, 낙하산 타고 낙하산으로 첫 출근 "제주도서 오느라"]]></title>
         <id>https://v.daum.net/v/20230617235408614</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230617230907494"/>
         <updated>2023-06-17T15:09:43.408Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '이생잘' 신혜선, 면접 중 안보현에 "나랑 사귈래요?" 돌직구 고백]]></title>
-        <id>https://v.daum.net/v/20230617230632474</id>
-        <link href="https://v.daum.net/v/20230617230632474"/>
-        <updated>2023-06-17T14:08:52.634Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 낙하산 타고 첫 출근.."무개념 표본" 지적]]></title>
-        <id>https://v.daum.net/v/20230617225451413</id>
-        <link href="https://v.daum.net/v/20230617225451413"/>
-        <updated>2023-06-17T14:08:52.634Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 유연석, 서현진에 "보고싶네"…♥ 깜짝 등장]]></title>
-        <id>https://v.daum.net/v/20230617225305400</id>
-        <link href="https://v.daum.net/v/20230617225305400"/>
-        <updated>2023-06-17T14:08:52.637Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
