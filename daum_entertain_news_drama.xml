@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-17T06:12:49.521Z</updated>
+    <updated>2023-06-17T07:10:30.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아, 한밤중 클럽 일탈…면접 스트레스 싹 날린다]]></title>
+        <id>https://v.daum.net/v/20230617160409368</id>
+        <link href="https://v.daum.net/v/20230617160409368"/>
+        <updated>2023-06-17T07:09:28.012Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호 비서된 안세하, 확 달라진 외모 보니]]></title>
+        <id>https://v.daum.net/v/20230617151301827</id>
+        <link href="https://v.daum.net/v/20230617151301827"/>
+        <updated>2023-06-17T07:09:28.012Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“앞머리 있었던 적 처음” 신혜선, 인생 19회차에 비주얼 변신]]></title>
         <id>https://v.daum.net/v/20230617150707783</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230617131137689</id>
         <link href="https://v.daum.net/v/20230617131137689"/>
         <updated>2023-06-17T04:12:01.474Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다!' 정의제, 예사롭지 않은 행보…新 빌런 탄생]]></title>
-        <id>https://v.daum.net/v/20230617130104566</id>
-        <link href="https://v.daum.net/v/20230617130104566"/>
-        <updated>2023-06-17T04:12:01.474Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언더커버 인턴 이준호, 출근 첫날부터 지각 말대꾸 여유 3단 콤보]]></title>
-        <id>https://v.daum.net/v/20230617120503156</id>
-        <link href="https://v.daum.net/v/20230617120503156"/>
-        <updated>2023-06-17T03:11:24.755Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
