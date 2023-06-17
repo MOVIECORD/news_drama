@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-17T03:11:35.465Z</updated>
+    <updated>2023-06-17T04:12:12.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한석규 “오랜기간 연기한 김사부에 위로 받아, 낭만 계속되길”]]></title>
+        <id>https://v.daum.net/v/20230617131137689</id>
+        <link href="https://v.daum.net/v/20230617131137689"/>
+        <updated>2023-06-17T04:12:01.474Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['진짜가 나타났다!' 정의제, 예사롭지 않은 행보…新 빌런 탄생]]></title>
+        <id>https://v.daum.net/v/20230617130104566</id>
+        <link href="https://v.daum.net/v/20230617130104566"/>
+        <updated>2023-06-17T04:12:01.474Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언더커버 인턴 이준호, 출근 첫날부터 지각 말대꾸 여유 3단 콤보]]></title>
         <id>https://v.daum.net/v/20230617120503156</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230617093907722"/>
         <updated>2023-06-17T00:52:50.548Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낭만닥터 김사부3' 오늘 대망의 최종회]]></title>
-        <id>https://v.daum.net/v/20230617093107640</id>
-        <link href="https://v.daum.net/v/20230617093107640"/>
-        <updated>2023-06-17T00:52:50.551Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 인턴 첫 출근에 역대급 대형사고…'요주의 인물' 등극]]></title>
-        <id>https://v.daum.net/v/20230617092909612</id>
-        <link href="https://v.daum.net/v/20230617092909612"/>
-        <updated>2023-06-17T00:52:50.553Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
