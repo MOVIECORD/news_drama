@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-18T03:15:48.038Z</updated>
+    <updated>2023-06-18T04:11:50.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['낭닥3’ 소주연 “시즌4 출연? 3도 기적 같았는데..만약 온다면 하지 않을까요”]]></title>
+        <id>https://v.daum.net/v/20230618122913861</id>
+        <link href="https://v.daum.net/v/20230618122913861"/>
+        <updated>2023-06-18T04:11:41.243Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호x임윤아는 틀리지 않았지..'킹더랜드' 첫방 시청률 5% 쾌조]]></title>
+        <id>https://v.daum.net/v/20230618122608833</id>
+        <link href="https://v.daum.net/v/20230618122608833"/>
+        <updated>2023-06-18T04:11:41.244Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안효섭 “서우진 만나 한없이 행복, 잊지 못할 조각”]]></title>
         <id>https://v.daum.net/v/20230618115300362</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230618104209340"/>
         <updated>2023-06-18T02:49:56.240Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성경 "그리웠던 '김사부3', 뜨거운 낭만으로 남았다"]]></title>
-        <id>https://v.daum.net/v/20230618103522244</id>
-        <link href="https://v.daum.net/v/20230618103522244"/>
-        <updated>2023-06-18T02:49:56.245Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희, 시체 냄새 파헤친다…뒷마당에 내리꽂은 삽]]></title>
-        <id>https://v.daum.net/v/20230618102910141</id>
-        <link href="https://v.daum.net/v/20230618102910141"/>
-        <updated>2023-06-18T02:49:56.245Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
