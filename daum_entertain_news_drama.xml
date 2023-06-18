@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-18T16:13:20.001Z</updated>
+    <updated>2023-06-18T17:08:44.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천우희X김동욱, 과몰입 유발 관계성]]></title>
+        <id>https://v.daum.net/v/20230619020108787</id>
+        <link href="https://v.daum.net/v/20230619020108787"/>
+        <updated>2023-06-18T17:08:33.826Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘킹더랜드’ 이준호, 임윤아 방치한 지배인에 호통... 동반 제주도行]]></title>
         <id>https://v.daum.net/v/20230618235201261</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230618211930445"/>
         <updated>2023-06-18T13:11:18.471Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 안보현과 첫 데이트?…의문의 동행 포착]]></title>
-        <id>https://v.daum.net/v/20230618211504414</id>
-        <link href="https://v.daum.net/v/20230618211504414"/>
-        <updated>2023-06-18T12:17:30.177Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
