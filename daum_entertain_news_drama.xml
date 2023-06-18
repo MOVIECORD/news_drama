@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-18T06:12:18.963Z</updated>
+    <updated>2023-06-18T07:10:21.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호 위한 성대한 축하 파티..임윤아도 환영?]]></title>
+        <id>https://v.daum.net/v/20230618160023418</id>
+        <link href="https://v.daum.net/v/20230618160023418"/>
+        <updated>2023-06-18T07:09:18.778Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선, 안보현과 데이트 포착…슬픔 서린 눈빛 왜]]></title>
+        <id>https://v.daum.net/v/20230618153058964</id>
+        <link href="https://v.daum.net/v/20230618153058964"/>
+        <updated>2023-06-18T07:09:18.778Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성은, '킹더랜드' 까탈스런 승무원 변신..특별출연의 좋은 예]]></title>
         <id>https://v.daum.net/v/20230618144307975</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230618132202572"/>
         <updated>2023-06-18T05:10:31.369Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤나무 “의료사고 대본 보는 순간 가슴 쿵, 한석규=영원한 사부님”]]></title>
-        <id>https://v.daum.net/v/20230618131601427</id>
-        <link href="https://v.daum.net/v/20230618131601427"/>
-        <updated>2023-06-18T05:10:31.391Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강은경 작가의 이것 덕분에 우린 계속 낭만을 꿈꾸게 됐다]]></title>
-        <id>https://v.daum.net/v/20230618131159372</id>
-        <link href="https://v.daum.net/v/20230618131159372"/>
-        <updated>2023-06-18T05:10:31.404Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
