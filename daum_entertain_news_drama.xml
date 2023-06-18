@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-18T07:10:21.200Z</updated>
+    <updated>2023-06-18T08:13:14.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성은, 승무원 변신도 찰떡…특별출연 존재감]]></title>
+        <id>https://v.daum.net/v/20230618165400247</id>
+        <link href="https://v.daum.net/v/20230618165400247"/>
+        <updated>2023-06-18T08:12:06.439Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희는 사이코패스?..김동욱은 진짜 마음을 안다]]></title>
+        <id>https://v.daum.net/v/20230618163617051</id>
+        <link href="https://v.daum.net/v/20230618163617051"/>
+        <updated>2023-06-18T08:12:06.444Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호 위한 성대한 축하 파티..임윤아도 환영?]]></title>
         <id>https://v.daum.net/v/20230618160023418</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230618133209729"/>
         <updated>2023-06-18T05:10:31.366Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 곤룡포 벗고 마이웨이 재벌 후계자 됐다]]></title>
-        <id>https://v.daum.net/v/20230618133108716</id>
-        <link href="https://v.daum.net/v/20230618133108716"/>
-        <updated>2023-06-18T05:10:31.368Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 상사 안보현과 데이트? 의문의 동행 포착]]></title>
-        <id>https://v.daum.net/v/20230618132202572</id>
-        <link href="https://v.daum.net/v/20230618132202572"/>
-        <updated>2023-06-18T05:10:31.369Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
