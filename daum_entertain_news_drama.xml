@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-19T14:11:30.985Z</updated>
+    <updated>2023-06-19T15:11:02.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희, 집에서 나는 기분 나쁜 냄새에 의심 “마당 파보려고”]]></title>
+        <id>https://v.daum.net/v/20230620001043698</id>
+        <link href="https://v.daum.net/v/20230620001043698"/>
+        <updated>2023-06-19T15:10:51.282Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘어그대’ 김동욱, 살인범 친부 정재광에 정체 밝혔다 “평생 괴롭게 살아줘”]]></title>
+        <id>https://v.daum.net/v/20230619235311367</id>
+        <link href="https://v.daum.net/v/20230619235311367"/>
+        <updated>2023-06-19T15:10:51.284Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱에 "나 이용해..나도 당신 이용 중"]]></title>
         <id>https://v.daum.net/v/20230619223014871</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230619200259268"/>
         <updated>2023-06-19T11:09:35.386Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 이훈, 전혜연X서한결 운명 인정... “갈라놔도 연결될 것”]]></title>
-        <id>https://v.daum.net/v/20230619194801008</id>
-        <link href="https://v.daum.net/v/20230619194801008"/>
-        <updated>2023-06-19T11:09:35.398Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재 "군입대=기회…마지막 20대, 부끄럼 없이 살았다"]]></title>
-        <id>https://v.daum.net/v/20230619193158658</id>
-        <link href="https://v.daum.net/v/20230619193158658"/>
-        <updated>2023-06-19T11:09:35.399Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
