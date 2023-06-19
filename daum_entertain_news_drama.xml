@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-19T15:11:02.252Z</updated>
+    <updated>2023-06-19T16:20:22.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마당서 시체 발견한 김태희→가정폭력 남편 죽은 임지연.. 압도적 스릴]]></title>
+        <id>https://v.daum.net/v/20230620004724882</id>
+        <link href="https://v.daum.net/v/20230620004724882"/>
+        <updated>2023-06-19T16:20:10.988Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임지연 "엄마 남편이 죽었대"...김태희, 악취 못참아 마당 팠더니 '사람 손가락'이]]></title>
+        <id>https://v.daum.net/v/20230620002909799</id>
+        <link href="https://v.daum.net/v/20230620002909799"/>
+        <updated>2023-06-19T16:20:10.989Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희, 집에서 나는 기분 나쁜 냄새에 의심 “마당 파보려고”]]></title>
         <id>https://v.daum.net/v/20230620001043698</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230619200759358"/>
         <updated>2023-06-19T11:09:35.386Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 최윤영, 이선호와 가슴 아픈 이별 "우리 헤어져요"]]></title>
-        <id>https://v.daum.net/v/20230619200508316</id>
-        <link href="https://v.daum.net/v/20230619200508316"/>
-        <updated>2023-06-19T11:09:35.386Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민재, 軍 영장 나왔다 "군악대 지원, 공식 스케줄 종료…'김사부' 시즌4 꼭 나왔으면"]]></title>
-        <id>https://v.daum.net/v/20230619200259268</id>
-        <link href="https://v.daum.net/v/20230619200259268"/>
-        <updated>2023-06-19T11:09:35.386Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
