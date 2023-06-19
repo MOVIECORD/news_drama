@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-19T09:11:53.158Z</updated>
+    <updated>2023-06-19T10:12:18.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'우영우' 이미 대박" 김태희, 시청률 부담 내려놨지만…'더 글로리' 임지연 덕 볼까]]></title>
+        <id>https://v.daum.net/v/20230619190101142</id>
+        <link href="https://v.daum.net/v/20230619190101142"/>
+        <updated>2023-06-19T10:11:15.711Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마당집' 임지연 "태혜지 콜렉터...전지현, 기회만 된다면"]]></title>
+        <id>https://v.daum.net/v/20230619185003944</id>
+        <link href="https://v.daum.net/v/20230619185003944"/>
+        <updated>2023-06-19T10:11:15.712Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군입대 앞둔 김민재, '낭닥3'·팬들이 그에게 남긴 것]]></title>
+        <id>https://v.daum.net/v/20230619182820512</id>
+        <link href="https://v.daum.net/v/20230619182820512"/>
+        <updated>2023-06-19T10:11:15.713Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희 "어머님 폰케이스? NO, 세련된 레몬색…소독했더니 착색된 것" 해명]]></title>
         <id>https://v.daum.net/v/20230619180230779</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230619161030933"/>
         <updated>2023-06-19T08:13:44.494Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 씌였나…감독 "촬영 중단한 적도, 예상 못할 전개"]]></title>
-        <id>https://v.daum.net/v/20230619160055438</id>
-        <link href="https://v.daum.net/v/20230619160055438"/>
-        <updated>2023-06-19T07:11:02.701Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마당이 있는 집' 김태희 "♥비와 일적인 이야기 잘 안 해…임지연 훌륭한 배우라고"]]></title>
-        <id>https://v.daum.net/v/20230619155609264</id>
-        <link href="https://v.daum.net/v/20230619155609264"/>
-        <updated>2023-06-19T07:11:02.703Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마당이 있는 집', 김태희X임지연 만든 텐션 100% '찐 스릴러']]></title>
-        <id>https://v.daum.net/v/20230619155509240</id>
-        <link href="https://v.daum.net/v/20230619155509240"/>
-        <updated>2023-06-19T07:11:02.705Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
