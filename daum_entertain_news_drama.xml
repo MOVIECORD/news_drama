@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-20T20:13:38.645Z</updated>
+    <updated>2023-06-20T21:09:27.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 마주친, 그대', 타임머신 보낸 진영.."1987 한번 더"]]></title>
+        <id>https://v.daum.net/v/20230621060002047</id>
+        <link href="https://v.daum.net/v/20230621060002047"/>
+        <updated>2023-06-20T21:09:15.990Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희, 마당서 손가락 발견…'최재림 살인범' 김성오일까]]></title>
         <id>https://v.daum.net/v/20230621005014048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620201356023"/>
         <updated>2023-06-20T12:23:52.747Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 조미령 앞에 무릎 꿇었다 “고은미와 이혼 절대 안 돼”]]></title>
-        <id>https://v.daum.net/v/20230620195200517</id>
-        <link href="https://v.daum.net/v/20230620195200517"/>
-        <updated>2023-06-20T11:08:32.791Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
