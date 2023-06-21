@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-21T12:19:42.092Z</updated>
+    <updated>2023-06-21T13:14:00.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시모♥며느리 키스?…임성한 작가, "암세포도 생명" 잇는 파격]]></title>
+        <id>https://v.daum.net/v/20230621213003788</id>
+        <link href="https://v.daum.net/v/20230621213003788"/>
+        <updated>2023-06-21T13:13:49.655Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우도환, 김주환 감독과 재회하더니…'음주운전' 김새론·우주소녀 보나 리스크 끄떡 無]]></title>
         <id>https://v.daum.net/v/20230621211401585</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230621164841779"/>
         <updated>2023-06-21T08:12:38.012Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호 임윤아, TV 화제성 드라마 출연자 부문 최상위 선점]]></title>
-        <id>https://v.daum.net/v/20230621163045063</id>
-        <link href="https://v.daum.net/v/20230621163045063"/>
-        <updated>2023-06-21T08:12:38.012Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
