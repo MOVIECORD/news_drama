@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-21T13:14:00.953Z</updated>
+    <updated>2023-06-21T14:09:25.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연·원지안·박강현·윤소희가 밝힌 '가슴이 뛴다' 키워드]]></title>
+        <id>https://v.daum.net/v/20230621222701575</id>
+        <link href="https://v.daum.net/v/20230621222701575"/>
+        <updated>2023-06-21T14:09:16.379Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 막장·또 장르물…'전작 혹평' 김은희·임성한 작가 귀환, 기대와 우려 사이]]></title>
+        <id>https://v.daum.net/v/20230621222102509</id>
+        <link href="https://v.daum.net/v/20230621222102509"/>
+        <updated>2023-06-21T14:09:16.381Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시모♥며느리 키스?…임성한 작가, "암세포도 생명" 잇는 파격]]></title>
         <id>https://v.daum.net/v/20230621213003788</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230621170200336"/>
         <updated>2023-06-21T08:12:38.012Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종·유이→김사경 작가, 흥행 神 온다..KBS 주말 귀환]]></title>
-        <id>https://v.daum.net/v/20230621164942808</id>
-        <link href="https://v.daum.net/v/20230621164942808"/>
-        <updated>2023-06-21T08:12:38.012Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희, 이태란에 정체 들통+복수 실패…처절한 분노 '몰입 UP']]></title>
-        <id>https://v.daum.net/v/20230621164841779</id>
-        <link href="https://v.daum.net/v/20230621164841779"/>
-        <updated>2023-06-21T08:12:38.012Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
