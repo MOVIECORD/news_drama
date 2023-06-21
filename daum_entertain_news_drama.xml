@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-21T21:10:54.140Z</updated>
+    <updated>2023-06-21T22:10:15.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수호, '힙하게' 출연 확정…수려한 비주얼 캐릭터로 안방극장 컴백]]></title>
+        <id>https://v.daum.net/v/20230622065004449</id>
+        <link href="https://v.daum.net/v/20230622065004449"/>
+        <updated>2023-06-21T22:09:13.437Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박성훈 “바쁘다 바빠”…‘남남’부터 ‘오겜2’까지 차기작 러시]]></title>
+        <id>https://v.daum.net/v/20230622063011234</id>
+        <link href="https://v.daum.net/v/20230622063011234"/>
+        <updated>2023-06-21T22:09:13.442Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어쩌다 마주친 그대' 이규회 "함께 한 모든 분들 감사해"…종영 소감]]></title>
         <id>https://v.daum.net/v/20230621234327374</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230621180009291"/>
         <updated>2023-06-21T09:10:12.229Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규회, '어쩌다 마주친 그대' 종영 소감 "따뜻한 그날 기억합니다"]]></title>
-        <id>https://v.daum.net/v/20230621174018665</id>
-        <link href="https://v.daum.net/v/20230621174018665"/>
-        <updated>2023-06-21T09:10:12.232Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어쩌다 마주친, 그대' 작은 퍼즐이 모여 완성한 그림]]></title>
-        <id>https://v.daum.net/v/20230621171520888</id>
-        <link href="https://v.daum.net/v/20230621171520888"/>
-        <updated>2023-06-21T09:10:12.234Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
