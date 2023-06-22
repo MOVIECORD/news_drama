@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-22T21:10:28.905Z</updated>
+    <updated>2023-06-22T22:11:47.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘믿고 보는 빌런’ 박성웅, 안방극장·스크린 동시 공략]]></title>
+        <id>https://v.daum.net/v/20230623063021469</id>
+        <link href="https://v.daum.net/v/20230623063021469"/>
+        <updated>2023-06-22T22:10:44.964Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 CEO “한국 콘텐츠에 4년간 3.2조원 투자”]]></title>
+        <id>https://v.daum.net/v/20230623063019468</id>
+        <link href="https://v.daum.net/v/20230623063019468"/>
+        <updated>2023-06-22T22:10:44.982Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘악귀’로 돌아온 김은희 작가, ‘지리산’ 실패 만회할까]]></title>
         <id>https://v.daum.net/v/20230623060105173</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230622190101502"/>
         <updated>2023-06-22T10:10:55.544Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“뱀파이어도 살기 힘든 세상” 옥택연 원지안 ‘가슴이 뛴다’ 기대되는 이유]]></title>
-        <id>https://v.daum.net/v/20230622185557411</id>
-        <link href="https://v.daum.net/v/20230622185557411"/>
-        <updated>2023-06-22T10:10:55.550Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주미 "'아씨 두리안', 욕설+과일로 알더라"…임성한의 작명 센스]]></title>
-        <id>https://v.daum.net/v/20230622175002727</id>
-        <link href="https://v.daum.net/v/20230622175002727"/>
-        <updated>2023-06-22T09:10:02.832Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
