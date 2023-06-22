@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-22T10:11:05.053Z</updated>
+    <updated>2023-06-22T11:10:54.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 정우연, 고은미 이혼 반대 "父 김유석에 큰 상처"]]></title>
+        <id>https://v.daum.net/v/20230622193530353</id>
+        <link href="https://v.daum.net/v/20230622193530353"/>
+        <updated>2023-06-22T11:10:42.585Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아씨 두리안', 임성한 작가도 서사도 '신비주의'…파격 막장에 배우들도 충격]]></title>
+        <id>https://v.daum.net/v/20230622193007217</id>
+        <link href="https://v.daum.net/v/20230622193007217"/>
+        <updated>2023-06-22T11:10:42.586Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아씨두리안' 임성한 작가 新뮤즈는 이다연·운정후?…"토 나올 정도" 파격 캐스팅 비화]]></title>
         <id>https://v.daum.net/v/20230622190101502</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230622161244008"/>
         <updated>2023-06-22T08:13:15.739Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두렵고 기대돼"···'아씨 두리안', 돌아온 임성한 작가의 판타지 세계]]></title>
-        <id>https://v.daum.net/v/20230622155846257</id>
-        <link href="https://v.daum.net/v/20230622155846257"/>
-        <updated>2023-06-22T07:09:24.430Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“시모♥며느리 파격 동성애”, 판타지 멜로 탈 쓴 ‘임성한 월드’]]></title>
-        <id>https://v.daum.net/v/20230622155627122</id>
-        <link href="https://v.daum.net/v/20230622155627122"/>
-        <updated>2023-06-22T07:09:24.431Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
