@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-22T12:21:07.067Z</updated>
+    <updated>2023-06-22T13:13:57.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내연녀 오수정, 결국 윤다영 찾아가..."나랑 같은 팔찌를?" 분노]]></title>
+        <id>https://v.daum.net/v/20230622213831495</id>
+        <link href="https://v.daum.net/v/20230622213831495"/>
+        <updated>2023-06-22T13:12:54.857Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선X안보현, 연기에 빠지고 로맨스에 설렌다]]></title>
+        <id>https://v.daum.net/v/20230622212732322</id>
+        <link href="https://v.daum.net/v/20230622212732322"/>
+        <updated>2023-06-22T13:12:54.860Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김은희 작가X 김태리, 한국형 오컬트 ‘악귀’ 관전 포인트는?]]></title>
         <id>https://v.daum.net/v/20230622204137476</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230622164822569"/>
         <updated>2023-06-22T08:13:15.712Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기섭, 천우희에 깜빡 속은 호텔 부지배인..신스틸러 활약]]></title>
-        <id>https://v.daum.net/v/20230622164735527</id>
-        <link href="https://v.daum.net/v/20230622164735527"/>
-        <updated>2023-06-22T08:13:15.713Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘웃는 사장’ 이경규, 요식업계 대부의 포스 “배달음식의 포인트는”]]></title>
-        <id>https://v.daum.net/v/20230622163913214</id>
-        <link href="https://v.daum.net/v/20230622163913214"/>
-        <updated>2023-06-22T08:13:15.714Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
