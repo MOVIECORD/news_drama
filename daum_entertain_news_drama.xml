@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-25T07:10:56.691Z</updated>
+    <updated>2023-06-25T08:13:23.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한 막장 안 통했다…최저 시청률 찍은 '아씨두리안', 첫방부터 쏟아진 혹평]]></title>
+        <id>https://v.daum.net/v/20230625170207159</id>
+        <link href="https://v.daum.net/v/20230625170207159"/>
+        <updated>2023-06-25T08:13:14.332Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥택연, 김인권과 수상한 만남…고양남 정체 뭐길래]]></title>
+        <id>https://v.daum.net/v/20230625162241436</id>
+        <link href="https://v.daum.net/v/20230625162241436"/>
+        <updated>2023-06-25T08:13:14.334Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김은희 작가의 한국형 오컬트는 무엇이 달랐나?]]></title>
+        <id>https://v.daum.net/v/20230625162020398</id>
+        <link href="https://v.daum.net/v/20230625162020398"/>
+        <updated>2023-06-25T08:13:14.335Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진선규, 이준호 연애 코치로 변신..길바닥 연애 상담소]]></title>
         <id>https://v.daum.net/v/20230625160006964</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230625140338625"/>
         <updated>2023-06-25T05:10:36.535Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은희 작가 '악귀', 심상치 않은 조짐…한국형 오컬트, 무엇이 달랐나]]></title>
-        <id>https://v.daum.net/v/20230625135111364</id>
-        <link href="https://v.daum.net/v/20230625135111364"/>
-        <updated>2023-06-25T05:10:36.537Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규, 연애 초보 이준호 위해 길바닥 상담소 오픈]]></title>
-        <id>https://v.daum.net/v/20230625134527296</id>
-        <link href="https://v.daum.net/v/20230625134527296"/>
-        <updated>2023-06-25T05:10:36.537Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가슴이 뛴다' 옥택연vs김인권, 뱀파이어들의 수상한 만남]]></title>
-        <id>https://v.daum.net/v/20230625133021081</id>
-        <link href="https://v.daum.net/v/20230625133021081"/>
-        <updated>2023-06-25T05:10:36.546Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
