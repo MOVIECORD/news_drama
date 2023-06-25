@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-25T03:08:08.798Z</updated>
+    <updated>2023-06-25T04:13:28.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오정세 맞아?..웃음기 제로 '악귀' 잡는 연기력]]></title>
+        <id>https://v.daum.net/v/20230625123623288</id>
+        <link href="https://v.daum.net/v/20230625123623288"/>
+        <updated>2023-06-25T04:13:16.619Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마당이 있는 집' 임지연은 어떻게 '박연진'을 지웠나]]></title>
         <id>https://v.daum.net/v/20230625115003551</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625101410952"/>
         <updated>2023-06-25T03:07:58.442Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이도현♥’ 임지연 “임산부 연기 위해 복대 착용했다”]]></title>
-        <id>https://v.daum.net/v/20230625100255769</id>
-        <link href="https://v.daum.net/v/20230625100255769"/>
-        <updated>2023-06-25T01:07:45.249Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
