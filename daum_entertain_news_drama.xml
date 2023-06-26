@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-26T20:13:21.790Z</updated>
+    <updated>2023-06-26T21:11:24.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이번 생도 잘 부탁해' 안보현, 남다른 '댕댕미'로 설렘 유발]]></title>
+        <id>https://v.daum.net/v/20230627060030856</id>
+        <link href="https://v.daum.net/v/20230627060030856"/>
+        <updated>2023-06-26T21:10:21.468Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박규영·조유리·김시은, 제2의 정호연?..'오겜2' 女배우 초미의 관심사]]></title>
         <id>https://v.daum.net/v/20230627051201276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626215801850"/>
         <updated>2023-06-26T13:21:15.620Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금이야 옥이야' 반민정, 서준영에 본격 구애 "마음 열어줘, 결혼도 감당"]]></title>
-        <id>https://v.daum.net/v/20230626212030488</id>
-        <link href="https://v.daum.net/v/20230626212030488"/>
-        <updated>2023-06-26T12:20:58.748Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
