@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T15:12:57.905Z</updated>
+    <updated>2023-06-27T16:15:16.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성오, 이수민 살해했나..임지연에 "최재림 왜죽였어요?"]]></title>
+        <id>https://v.daum.net/v/20230628010401964</id>
+        <link href="https://v.daum.net/v/20230628010401964"/>
+        <updated>2023-06-27T16:14:14.143Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성오, 임지연에게 "최재림 왜 죽였냐 어떻게 옮겼냐" 추궁]]></title>
+        <id>https://v.daum.net/v/20230628002000731</id>
+        <link href="https://v.daum.net/v/20230628002000731"/>
+        <updated>2023-06-27T16:14:14.143Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하정우는 긴장하라, 임지연 신들린 짜장면 먹방 '화제']]></title>
         <id>https://v.daum.net/v/20230628000001423</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230627201101439"/>
         <updated>2023-06-27T12:23:49.337Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 고은미, 이훈에 애원 "기회 달라"]]></title>
-        <id>https://v.daum.net/v/20230627200223287</id>
-        <link href="https://v.daum.net/v/20230627200223287"/>
-        <updated>2023-06-27T11:10:06.196Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘' 고은미, 이훈에 "마약누명 배후=김유석→친딸=정우연" 모든 진실 밝혔다]]></title>
-        <id>https://v.daum.net/v/20230627195100996</id>
-        <link href="https://v.daum.net/v/20230627195100996"/>
-        <updated>2023-06-27T11:10:06.196Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
