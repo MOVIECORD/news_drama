@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T02:56:28.720Z</updated>
+    <updated>2023-06-27T03:24:45.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성한 월드에 새로움 한 스푼, 박주미 美친 연기가 살린 ‘아씨 두리안’]]></title>
+        <id>https://v.daum.net/v/20230627120810928</id>
+        <link href="https://v.daum.net/v/20230627120810928"/>
+        <updated>2023-06-27T03:24:33.918Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가슴이 뛴다' 옥택연·원지안, 심장 뛰는 만남..4.1% 첫 출발]]></title>
         <id>https://v.daum.net/v/20230627113031418</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627101805933"/>
         <updated>2023-06-27T02:56:17.439Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 로맨스 케미 비결 여기있네! 비하인드 대방출]]></title>
-        <id>https://v.daum.net/v/20230627100951609</id>
-        <link href="https://v.daum.net/v/20230627100951609"/>
-        <updated>2023-06-27T02:56:17.440Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
