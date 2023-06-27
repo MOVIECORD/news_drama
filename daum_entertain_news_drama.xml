@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T08:15:14.156Z</updated>
+    <updated>2023-06-27T09:11:41.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소희정, ‘기적의 형제’서 정우와 모자 케미]]></title>
+        <id>https://v.daum.net/v/20230627180049099</id>
+        <link href="https://v.daum.net/v/20230627180049099"/>
+        <updated>2023-06-27T09:11:30.895Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남편 외도에 무너진 차예련…불륜녀 만나 담판]]></title>
+        <id>https://v.daum.net/v/20230627175943024</id>
+        <link href="https://v.daum.net/v/20230627175943024"/>
+        <updated>2023-06-27T09:11:30.896Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 강력해진 '소방서 옆 경찰서 그리고 국과수', 8월 4일 첫 방송]]></title>
+        <id>https://v.daum.net/v/20230627173109046</id>
+        <link href="https://v.daum.net/v/20230627173109046"/>
+        <updated>2023-06-27T09:11:30.896Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김태희 남편' 김성오, 보기만 해도 섬뜩한 얼굴..다정과 오싹 사이]]></title>
         <id>https://v.daum.net/v/20230627171207391</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230627153011866"/>
         <updated>2023-06-27T07:10:43.108Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어마그' 이원정 "고문신 위해 5kg 감량, 기립박수 받아"]]></title>
-        <id>https://v.daum.net/v/20230627153007859</id>
-        <link href="https://v.daum.net/v/20230627153007859"/>
-        <updated>2023-06-27T07:10:43.109Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이원정 "대형기획사 아이돌 제안 거절, 러브콜 7번 받았지만.."]]></title>
-        <id>https://v.daum.net/v/20230627153002847</id>
-        <link href="https://v.daum.net/v/20230627153002847"/>
-        <updated>2023-06-27T07:10:43.110Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내편하자’ 풍자 “멤버들 모두 고민 프로그램의 어벤져스”]]></title>
-        <id>https://v.daum.net/v/20230627152817770</id>
-        <link href="https://v.daum.net/v/20230627152817770"/>
-        <updated>2023-06-27T07:10:43.112Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
