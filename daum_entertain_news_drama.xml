@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-27T09:11:41.897Z</updated>
+    <updated>2023-06-27T10:12:33.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘남편사망정식’ 2탄? 임지연 신들린 국밥 먹방 주목]]></title>
+        <id>https://v.daum.net/v/20230627184439505</id>
+        <link href="https://v.daum.net/v/20230627184439505"/>
+        <updated>2023-06-27T10:12:22.114Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소희정, ‘기적의 형제’서 정우와 모자 케미]]></title>
         <id>https://v.daum.net/v/20230627180049099</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627153729238"/>
         <updated>2023-06-27T07:10:43.104Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어마그' 이원정 "지상파 첫 주연 부담감 多, 김동욱은 유죄인간"]]></title>
-        <id>https://v.daum.net/v/20230627153011866</id>
-        <link href="https://v.daum.net/v/20230627153011866"/>
-        <updated>2023-06-27T07:10:43.108Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
