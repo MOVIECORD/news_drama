@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T03:23:20.861Z</updated>
+    <updated>2023-06-28T04:14:46.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민 안은진 ‘연인’ 8월4일 첫방송 ‘소옆경’과 맞붙는다]]></title>
+        <id>https://v.daum.net/v/20230628130749517</id>
+        <link href="https://v.daum.net/v/20230628130749517"/>
+        <updated>2023-06-28T04:13:44.022Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘우영우’ 권모술수 주종혁 ‘비밀은 없어’ 출연, 스타 예능인 된다]]></title>
+        <id>https://v.daum.net/v/20230628123242987</id>
+        <link href="https://v.daum.net/v/20230628123242987"/>
+        <updated>2023-06-28T04:13:44.026Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 권모술수 주종혁 '국민사위' 된다..'비밀은 없어' 캐스팅]]></title>
         <id>https://v.daum.net/v/20230628115644964</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628104453353"/>
         <updated>2023-06-28T02:54:46.653Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니, '삼식이 삼촌' 캐스팅…송강호X변요한과 호흡]]></title>
-        <id>https://v.daum.net/v/20230628104116222</id>
-        <link href="https://v.daum.net/v/20230628104116222"/>
-        <updated>2023-06-28T02:54:46.654Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 수트핏+중저음+멜로 눈빛에 치인다…전무후무 '로맨틱 킹']]></title>
-        <id>https://v.daum.net/v/20230628104018185</id>
-        <link href="https://v.daum.net/v/20230628104018185"/>
-        <updated>2023-06-28T02:54:46.656Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
