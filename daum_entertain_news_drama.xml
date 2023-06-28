@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T13:21:46.832Z</updated>
+    <updated>2023-06-28T14:11:51.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옥문아' 박선호 "보이프렌드·몬스타엑스 탈락 후 배우 전향"]]></title>
+        <id>https://v.daum.net/v/20230628222913941</id>
+        <link href="https://v.daum.net/v/20230628222913941"/>
+        <updated>2023-06-28T14:10:49.146Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥문아' 박성웅 "♥신은정과 비밀 연애 중 키스신..엉덩이 쭉 빼"]]></title>
         <id>https://v.daum.net/v/20230628220033544</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628175023920"/>
         <updated>2023-06-28T09:11:41.765Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘산책’ 꼬장꼬장 독거노인 된 이순재, 명불허전 연기 내공]]></title>
-        <id>https://v.daum.net/v/20230628174338639</id>
-        <link href="https://v.daum.net/v/20230628174338639"/>
-        <updated>2023-06-28T09:11:41.767Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
