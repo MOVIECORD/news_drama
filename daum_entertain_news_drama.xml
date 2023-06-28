@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T14:11:51.773Z</updated>
+    <updated>2023-06-28T15:12:37.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘기적의 형제’ 정우, 배현성 원고로 작가 됐다..“내 가방 어딨어요”]]></title>
+        <id>https://v.daum.net/v/20230628234246585</id>
+        <link href="https://v.daum.net/v/20230628234246585"/>
+        <updated>2023-06-28T15:11:35.335Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥문아' 박선호 "보이프렌드·몬스타엑스 탈락 후 배우 전향"]]></title>
         <id>https://v.daum.net/v/20230628222913941</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230628175922255</id>
         <link href="https://v.daum.net/v/20230628175922255"/>
         <updated>2023-06-28T09:11:41.764Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우→오만석, 박찬홍 감독 페르소나 경쟁 "제발 또 같이해요"]]></title>
-        <id>https://v.daum.net/v/20230628175023920</id>
-        <link href="https://v.daum.net/v/20230628175023920"/>
-        <updated>2023-06-28T09:11:41.765Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
