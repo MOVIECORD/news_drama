@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T09:12:44.292Z</updated>
+    <updated>2023-06-28T10:12:55.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1번 롤' 송혜교·김태희 그 이상…임지연의 압도적 존재감]]></title>
+        <id>https://v.daum.net/v/20230628184502072</id>
+        <link href="https://v.daum.net/v/20230628184502072"/>
+        <updated>2023-06-28T10:11:53.321Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기적의 형제' 정우는 원하고, 오만석은 긴장…천하제일 페르소나 대회]]></title>
+        <id>https://v.daum.net/v/20230628181238852</id>
+        <link href="https://v.daum.net/v/20230628181238852"/>
+        <updated>2023-06-28T10:11:53.324Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아씨 두리안’ 예열 끝 美친 전개 예고…시청포인트3]]></title>
+        <id>https://v.daum.net/v/20230628181211843</id>
+        <link href="https://v.daum.net/v/20230628181211843"/>
+        <updated>2023-06-28T10:11:53.325Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 대상배우 남궁민→결혼 이다인, MBC 명품 사극 계보 잇는다]]></title>
         <id>https://v.daum.net/v/20230628180049350</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230628163944968"/>
         <updated>2023-06-28T08:14:38.852Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소현 황민현 관계성, 난감한 이웃→쌍방구원 되기까지]]></title>
-        <id>https://v.daum.net/v/20230628162716474</id>
-        <link href="https://v.daum.net/v/20230628162716474"/>
-        <updated>2023-06-28T08:14:38.854Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한다감, 넷플릭스 '셀러브리티' 특별 출연…잘 나가는 톱스타役]]></title>
-        <id>https://v.daum.net/v/20230628161501908</id>
-        <link href="https://v.daum.net/v/20230628161501908"/>
-        <updated>2023-06-28T08:14:38.860Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마당이 있는 집' 김성오, 흐름 뒤집는 표정 변주로 '소름 극대화']]></title>
-        <id>https://v.daum.net/v/20230628161435896</id>
-        <link href="https://v.daum.net/v/20230628161435896"/>
-        <updated>2023-06-28T08:14:38.860Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
