@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T10:12:55.738Z</updated>
+    <updated>2023-06-28T11:10:36.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독거노인 이순재, 선우용여x이연희와 특별한 '안녕']]></title>
+        <id>https://v.daum.net/v/20230628200519410</id>
+        <link href="https://v.daum.net/v/20230628200519410"/>
+        <updated>2023-06-28T11:09:34.090Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 조은숙, 고은미에 김유석 악행+전혜연 출생의 비밀 다 밝혔다]]></title>
+        <id>https://v.daum.net/v/20230628195230089</id>
+        <link href="https://v.daum.net/v/20230628195230089"/>
+        <updated>2023-06-28T11:09:34.092Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연에 "익명게시판 글 네가 썼냐" 분노]]></title>
+        <id>https://v.daum.net/v/20230628193909784</id>
+        <link href="https://v.daum.net/v/20230628193909784"/>
+        <updated>2023-06-28T11:09:34.092Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1번 롤' 송혜교·김태희 그 이상…임지연의 압도적 존재감]]></title>
         <id>https://v.daum.net/v/20230628184502072</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230628171136321"/>
         <updated>2023-06-28T08:14:38.847Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱, 때론 차갑고 때론 여리게..대상 배우의 품격]]></title>
-        <id>https://v.daum.net/v/20230628165830797</id>
-        <link href="https://v.daum.net/v/20230628165830797"/>
-        <updated>2023-06-28T08:14:38.848Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기적의 형제' 감독 "'전신마비' 子 박위와 걸었으면"…정우도 눈물]]></title>
-        <id>https://v.daum.net/v/20230628165003403</id>
-        <link href="https://v.daum.net/v/20230628165003403"/>
-        <updated>2023-06-28T08:14:38.851Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공승연 유준상 김재영 대본리딩, 촬영 현장 방불케 한 열연]]></title>
-        <id>https://v.daum.net/v/20230628163944968</id>
-        <link href="https://v.daum.net/v/20230628163944968"/>
-        <updated>2023-06-28T08:14:38.852Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
