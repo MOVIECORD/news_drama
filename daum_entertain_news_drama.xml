@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-28T02:55:49.923Z</updated>
+    <updated>2023-06-28T03:23:20.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우' 권모술수 주종혁 '국민사위' 된다..'비밀은 없어' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230628115644964</id>
+        <link href="https://v.daum.net/v/20230628115644964"/>
+        <updated>2023-06-28T03:23:09.055Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동욱 안타까운 과거사, 父 농약 탄 소주 받아야 했다]]></title>
+        <id>https://v.daum.net/v/20230628115533929</id>
+        <link href="https://v.daum.net/v/20230628115533929"/>
+        <updated>2023-06-28T03:23:09.056Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웨이브, '악귀'→'태계일주2'로 인기 잡았다..실시간 차트 점령]]></title>
         <id>https://v.daum.net/v/20230628114722626</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628104018185"/>
         <updated>2023-06-28T02:54:46.656Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 김도훈, 원작자 강풀도 감탄한 싱크로율…"이미지에 딱 맞아"]]></title>
-        <id>https://v.daum.net/v/20230628103940156</id>
-        <link href="https://v.daum.net/v/20230628103940156"/>
-        <updated>2023-06-28T02:54:46.661Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹더랜드’ 역시 임윤아, 드라마 출연자 화제성 당당히 1위]]></title>
-        <id>https://v.daum.net/v/20230628103854112</id>
-        <link href="https://v.daum.net/v/20230628103854112"/>
-        <updated>2023-06-28T02:54:46.662Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
