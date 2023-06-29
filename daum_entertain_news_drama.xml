@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-29T10:13:30.215Z</updated>
+    <updated>2023-06-29T11:10:45.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 딸 정우연에 분노 "이훈 딸에 서한결 뺏겨? 용납 못 해"]]></title>
+        <id>https://v.daum.net/v/20230629195000179</id>
+        <link href="https://v.daum.net/v/20230629195000179"/>
+        <updated>2023-06-29T11:09:42.803Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부부 조인성·한효주의 자식 자랑 "아주 사랑스럽고 귀엽다"]]></title>
+        <id>https://v.daum.net/v/20230629193927866</id>
+        <link href="https://v.daum.net/v/20230629193927866"/>
+        <updated>2023-06-29T11:09:42.803Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탑 ‘오겜2’ 꽂아준 뒷배, 이정재 아닌 이병헌? 소속사 “공식입장無”]]></title>
         <id>https://v.daum.net/v/20230629190351103</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230629165328965"/>
         <updated>2023-06-29T08:21:40.366Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재 측, 마약 전과자 탑 ‘오겜2’ 캐스팅 관여 의혹 부인 “감독·제작사 권한”]]></title>
-        <id>https://v.daum.net/v/20230629162523795</id>
-        <link href="https://v.daum.net/v/20230629162523795"/>
-        <updated>2023-06-29T08:21:40.368Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안나' 수지, 서울드라마어워즈 연기상 후보..유역비∙안나 슈트와 경쟁]]></title>
-        <id>https://v.daum.net/v/20230629162421746</id>
-        <link href="https://v.daum.net/v/20230629162421746"/>
-        <updated>2023-06-29T08:21:40.369Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
