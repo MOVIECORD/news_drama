@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-29T12:22:28.020Z</updated>
+    <updated>2023-06-29T13:19:51.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅뱅 탑 아닌 최승현, 사실상 은퇴 번복…'마약 혐의' 유아인 손절한 넷플릭스와 동행]]></title>
+        <id>https://v.daum.net/v/20230629213303270</id>
+        <link href="https://v.daum.net/v/20230629213303270"/>
+        <updated>2023-06-29T13:18:48.711Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김시후, 믿고 있던 사업제안서 밀려나...서준영 아이디어가 선택됐다]]></title>
+        <id>https://v.daum.net/v/20230629212433148</id>
+        <link href="https://v.daum.net/v/20230629212433148"/>
+        <updated>2023-06-29T13:18:48.711Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[굳이 탑을?…이정재·넷플릭스 "'오겜2' 캐스팅은 창작자 권한, 결정 존중"]]></title>
         <id>https://v.daum.net/v/20230629205004543</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230629175002167"/>
         <updated>2023-06-29T09:11:58.414Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연, 반인뱀파이어 완벽 변신]]></title>
-        <id>https://v.daum.net/v/20230629174810119</id>
-        <link href="https://v.daum.net/v/20230629174810119"/>
-        <updated>2023-06-29T09:11:58.416Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“탑 캐스팅 관여 NO” 이정재·넷플릭스 양측, 논란 부인에도 찜찜한 의문]]></title>
-        <id>https://v.daum.net/v/20230629174157878</id>
-        <link href="https://v.daum.net/v/20230629174157878"/>
-        <updated>2023-06-29T09:11:58.417Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
