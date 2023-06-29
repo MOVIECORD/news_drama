@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-29T20:12:14.100Z</updated>
+    <updated>2023-06-29T21:10:41.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고부 동성애' MSG 친 '아씨 두리안' 동성애자들에 상처주지 않길]]></title>
+        <id>https://v.daum.net/v/20230630060006624</id>
+        <link href="https://v.daum.net/v/20230630060006624"/>
+        <updated>2023-06-29T21:09:39.203Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마당이 있는 집’ 음악감독 “내가 만들었지만 무서워, 자주 듣고 싶진 않다”]]></title>
         <id>https://v.daum.net/v/20230630040007689</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230629182405167"/>
         <updated>2023-06-29T10:12:27.572Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재 측 "빅뱅 탑 '오징어 게임2' 캐스팅에 입김? 전혀 사실 아냐"]]></title>
-        <id>https://v.daum.net/v/20230629175135235</id>
-        <link href="https://v.daum.net/v/20230629175135235"/>
-        <updated>2023-06-29T09:11:58.411Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
