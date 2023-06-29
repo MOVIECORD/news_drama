@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-29T21:10:41.567Z</updated>
+    <updated>2023-06-29T22:10:45.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성민 ‘확장’ vs 정해인 ‘뚝심’ vs 조병규 ‘성장’]]></title>
+        <id>https://v.daum.net/v/20230630063023195</id>
+        <link href="https://v.daum.net/v/20230630063023195"/>
+        <updated>2023-06-29T22:10:34.123Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이젠 드라마·영화가 ‘웹툰행’…IP 다양한 활용 시도]]></title>
+        <id>https://v.daum.net/v/20230630063021193</id>
+        <link href="https://v.daum.net/v/20230630063021193"/>
+        <updated>2023-06-29T22:10:34.127Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고부 동성애' MSG 친 '아씨 두리안' 동성애자들에 상처주지 않길]]></title>
         <id>https://v.daum.net/v/20230630060006624</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230629193927866"/>
         <updated>2023-06-29T11:09:42.803Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탑 ‘오겜2’ 꽂아준 뒷배, 이정재 아닌 이병헌? 소속사 “공식입장無”]]></title>
-        <id>https://v.daum.net/v/20230629190351103</id>
-        <link href="https://v.daum.net/v/20230629190351103"/>
-        <updated>2023-06-29T10:12:27.571Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, ‘힙하게’ 대본 리딩...사이코메트리 초능력 가진  수의사 변신]]></title>
-        <id>https://v.daum.net/v/20230629182405167</id>
-        <link href="https://v.daum.net/v/20230629182405167"/>
-        <updated>2023-06-29T10:12:27.572Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
