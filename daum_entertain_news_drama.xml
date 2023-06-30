@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T11:10:36.277Z</updated>
+    <updated>2023-06-30T12:22:03.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 최윤영, 간이식 위해 하늘이 출생비밀 밝혀...한기웅 "뭐든 할 것"]]></title>
+        <id>https://v.daum.net/v/20230630201930241</id>
+        <link href="https://v.daum.net/v/20230630201930241"/>
+        <updated>2023-06-30T12:21:48.655Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 이훈·조은숙, 불길에서 죽음 맞이하나]]></title>
+        <id>https://v.daum.net/v/20230630201638207</id>
+        <link href="https://v.daum.net/v/20230630201638207"/>
+        <updated>2023-06-30T12:21:48.656Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 정우연 폭주,  조미령에 "서한결 관리 잘해, 전혜연 무서운 애"]]></title>
         <id>https://v.daum.net/v/20230630194900817</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230630161109423"/>
         <updated>2023-06-30T08:15:10.703Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말 밤이 기다려지는 이유..'킹더랜드' 임윤아 때문에]]></title>
-        <id>https://v.daum.net/v/20230630155413798</id>
-        <link href="https://v.daum.net/v/20230630155413798"/>
-        <updated>2023-06-30T07:10:09.677Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영, '이로운 사기' 특별출연..김동욱X이수현 감독 재회]]></title>
-        <id>https://v.daum.net/v/20230630154910616</id>
-        <link href="https://v.daum.net/v/20230630154910616"/>
-        <updated>2023-06-30T07:10:09.677Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
