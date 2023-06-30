@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T09:12:23.486Z</updated>
+    <updated>2023-06-30T10:12:23.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탑이 히든카드?..'오겜2' 공든 탑 무너질라]]></title>
+        <id>https://v.daum.net/v/20230630181043914</id>
+        <link href="https://v.daum.net/v/20230630181043914"/>
+        <updated>2023-06-30T10:11:21.133Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약범 탑 일으킨 ‘오겜2’ 역풍…이정재 손절vs이병헌 침묵vs박명수 응원]]></title>
         <id>https://v.daum.net/v/20230630174846271</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630151312351"/>
         <updated>2023-06-30T06:14:22.825Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜엄마' 기소유 "父 이도현과 새끼 돼지 잡으러 다니며 친해져"]]></title>
-        <id>https://v.daum.net/v/20230630150601058</id>
-        <link href="https://v.daum.net/v/20230630150601058"/>
-        <updated>2023-06-30T06:14:22.842Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
