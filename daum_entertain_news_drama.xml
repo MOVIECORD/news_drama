@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T10:12:23.601Z</updated>
+    <updated>2023-06-30T11:10:36.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 정우연 폭주,  조미령에 "서한결 관리 잘해, 전혜연 무서운 애"]]></title>
+        <id>https://v.daum.net/v/20230630194900817</id>
+        <link href="https://v.daum.net/v/20230630194900817"/>
+        <updated>2023-06-30T11:09:33.315Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 정우연, 조미령에 버럭.."서한결 관리 잘해"]]></title>
+        <id>https://v.daum.net/v/20230630194831803</id>
+        <link href="https://v.daum.net/v/20230630194831803"/>
+        <updated>2023-06-30T11:09:33.316Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탑이 히든카드?..'오겜2' 공든 탑 무너질라]]></title>
         <id>https://v.daum.net/v/20230630181043914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230630154910616"/>
         <updated>2023-06-30T07:10:09.677Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가슴이 뛴다' 옥택연-원지안, 아찔한 목숨 담보 공생 로맨스 포문]]></title>
-        <id>https://v.daum.net/v/20230630152946942</id>
-        <link href="https://v.daum.net/v/20230630152946942"/>
-        <updated>2023-06-30T07:10:09.678Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2억9천' 강숙경 작가 "사랑도 경쟁처럼 하는 곳입니다"]]></title>
-        <id>https://v.daum.net/v/20230630151312351</id>
-        <link href="https://v.daum.net/v/20230630151312351"/>
-        <updated>2023-06-30T06:14:22.825Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
