@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-06-30T02:23:42.756Z</updated>
+    <updated>2023-06-30T03:17:51.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['알유넥스트' 박규리 "카라, 야생마처럼 자랐다"]]></title>
+        <id>https://v.daum.net/v/20230630115735053</id>
+        <link href="https://v.daum.net/v/20230630115735053"/>
+        <updated>2023-06-30T03:16:47.824Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['알유넥스트' 최수영 "연습생들 지켜보며 자극 받아"]]></title>
+        <id>https://v.daum.net/v/20230630114651622</id>
+        <link href="https://v.daum.net/v/20230630114651622"/>
+        <updated>2023-06-30T03:16:47.827Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금쪽상담소' 편승엽 "세번 이혼, 먼저 원해서 한 적 없어"]]></title>
         <id>https://v.daum.net/v/20230630110538816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230630090802007"/>
         <updated>2023-06-30T00:58:23.105Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리, 오정세 손잡고  장진리 미스터리 추적]]></title>
-        <id>https://v.daum.net/v/20230630090558926</id>
-        <link href="https://v.daum.net/v/20230630090558926"/>
-        <updated>2023-06-30T00:58:23.106Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 둘만의 첫 저녁 식사…이거 데이트 아닌가요?]]></title>
-        <id>https://v.daum.net/v/20230630090315847</id>
-        <link href="https://v.daum.net/v/20230630090315847"/>
-        <updated>2023-06-30T00:58:23.106Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
