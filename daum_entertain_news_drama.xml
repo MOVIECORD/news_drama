@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-01T16:13:18.523Z</updated>
+    <updated>2023-07-01T17:10:15.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아의 추락, 이준호의 등장 '아 내 왕자님!']]></title>
+        <id>https://v.daum.net/v/20230702013029102</id>
+        <link href="https://v.daum.net/v/20230702013029102"/>
+        <updated>2023-07-01T17:09:06.411Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나 살아있는 거야?"…이준호, 임윤아 살리기 위해 절벽 점프]]></title>
         <id>https://v.daum.net/v/20230702001238937</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701225309604"/>
         <updated>2023-07-01T14:08:59.322Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 트라우마 이유 밝혀져···우는 임윤아, 포옹했다]]></title>
-        <id>https://v.daum.net/v/20230701225102600</id>
-        <link href="https://v.daum.net/v/20230701225102600"/>
-        <updated>2023-07-01T14:08:59.325Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
