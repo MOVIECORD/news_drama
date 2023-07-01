@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-01T04:12:46.152Z</updated>
+    <updated>2023-07-01T05:11:22.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기소유 "'우영우' 멋지게 해낸 박은빈 언니, 저도 '연기대상' 받을래요"]]></title>
+        <id>https://v.daum.net/v/20230701140701802</id>
+        <link href="https://v.daum.net/v/20230701140701802"/>
+        <updated>2023-07-01T05:10:20.289Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘가슴이뛴다’ 옥택연 원지안 입술 닿기 3초 전, 초밀착 스킨십]]></title>
+        <id>https://v.daum.net/v/20230701134939658</id>
+        <link href="https://v.daum.net/v/20230701134939658"/>
+        <updated>2023-07-01T05:10:20.289Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하윤경, '봄날의 햇살'은 어디에?...신혜선 앞 '냉기류']]></title>
+        <id>https://v.daum.net/v/20230701133757586</id>
+        <link href="https://v.daum.net/v/20230701133757586"/>
+        <updated>2023-07-01T05:10:20.292Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리가 처한 기막힌 딜레마, 이걸 어디서 많이 봤나 했더니]]></title>
         <id>https://v.daum.net/v/20230701113532645</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230701082917452"/>
         <updated>2023-07-01T01:07:51.711Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비즈니스 리뷰' 조직 내 효율적인 DX 전략이란]]></title>
-        <id>https://v.daum.net/v/20230701080507298</id>
-        <link href="https://v.daum.net/v/20230701080507298"/>
-        <updated>2023-06-30T23:10:16.674Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 오정세 母 살해한 악귀, 김태리 몸에 빙의됐다]]></title>
-        <id>https://v.daum.net/v/20230701080014171</id>
-        <link href="https://v.daum.net/v/20230701080014171"/>
-        <updated>2023-06-30T23:10:16.675Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1일 1액션, 체중 70kg" 유준상의 '경소문2' 향한 진심]]></title>
-        <id>https://v.daum.net/v/20230701080009164</id>
-        <link href="https://v.daum.net/v/20230701080009164"/>
-        <updated>2023-06-30T23:10:16.675Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
