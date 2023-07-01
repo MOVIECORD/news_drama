@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-01T15:11:37.901Z</updated>
+    <updated>2023-07-01T16:13:18.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나 살아있는 거야?"…이준호, 임윤아 살리기 위해 절벽 점프]]></title>
+        <id>https://v.daum.net/v/20230702001238937</id>
+        <link href="https://v.daum.net/v/20230702001238937"/>
+        <updated>2023-07-01T16:12:16.042Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 임윤아, 절벽 아래로 추락..이준호가 구할까]]></title>
         <id>https://v.daum.net/v/20230702000222896</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['킹더랜드' 임윤아, 천종삼 발견 후 추락→이준호, 절벽 뛰어내렸다]]></title>
+        <title type="html"><![CDATA['킹더랜드' 임윤아, 추락→이준호, 절벽 뛰어내리며 구해]]></title>
         <id>https://v.daum.net/v/20230702000003847</id>
         <link href="https://v.daum.net/v/20230702000003847"/>
         <updated>2023-07-01T15:10:35.010Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701225102600"/>
         <updated>2023-07-01T14:08:59.325Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 오정세X김태리, 진선규 과거 단서 찾았다]]></title>
-        <id>https://v.daum.net/v/20230701224245556</id>
-        <link href="https://v.daum.net/v/20230701224245556"/>
-        <updated>2023-07-01T14:08:59.326Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
