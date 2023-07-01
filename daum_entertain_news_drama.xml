@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-01T05:11:22.840Z</updated>
+    <updated>2023-07-01T06:13:50.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아씨 두리안’ 지영산 병수발에 지친 박주미, 힘겨운 표정]]></title>
+        <id>https://v.daum.net/v/20230701144312102</id>
+        <link href="https://v.daum.net/v/20230701144312102"/>
+        <updated>2023-07-01T06:13:40.158Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아씨 두리안' 박주미, 소복 차림 '전설의 고향’ 비주얼 무슨 일?]]></title>
+        <id>https://v.daum.net/v/20230701142539964</id>
+        <link href="https://v.daum.net/v/20230701142539964"/>
+        <updated>2023-07-01T06:13:40.159Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기소유 "'우영우' 멋지게 해낸 박은빈 언니, 저도 '연기대상' 받을래요"]]></title>
         <id>https://v.daum.net/v/20230701140701802</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230701092749098"/>
         <updated>2023-07-01T01:07:51.704Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["웨딩드레스 못입어"…'나는 솔로', 충격의 랜덤데이트]]></title>
-        <id>https://v.daum.net/v/20230701090958920</id>
-        <link href="https://v.daum.net/v/20230701090958920"/>
-        <updated>2023-07-01T01:07:51.705Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 오정세 母 살해한 ‘악귀’에 잠식…홍경X김원해도 ‘깜짝’]]></title>
-        <id>https://v.daum.net/v/20230701082917452</id>
-        <link href="https://v.daum.net/v/20230701082917452"/>
-        <updated>2023-07-01T01:07:51.711Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
