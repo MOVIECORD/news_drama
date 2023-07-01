@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-01T06:13:50.571Z</updated>
+    <updated>2023-07-01T07:10:11.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리가 "너무 놀라 소리 질렀다"는 그 장면, 오늘 나온다]]></title>
+        <id>https://v.daum.net/v/20230701160800921</id>
+        <link href="https://v.daum.net/v/20230701160800921"/>
+        <updated>2023-07-01T07:09:59.836Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리 대본 보다 소리질렀다던 그 장면, 오늘 공개]]></title>
+        <id>https://v.daum.net/v/20230701160652913</id>
+        <link href="https://v.daum.net/v/20230701160652913"/>
+        <updated>2023-07-01T07:09:59.837Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백진희·안재현 '진짜가 나타났다!', 오늘 OST 연경이 음원 공개]]></title>
+        <id>https://v.daum.net/v/20230701160213875</id>
+        <link href="https://v.daum.net/v/20230701160213875"/>
+        <updated>2023-07-01T07:09:59.849Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아씨 두리안’ 지영산 병수발에 지친 박주미, 힘겨운 표정]]></title>
         <id>https://v.daum.net/v/20230701144312102</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230701100817574"/>
         <updated>2023-07-01T03:03:13.686Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 홍경, 성장캐 예고..'약한영웅' 이어 대세 발돋움]]></title>
-        <id>https://v.daum.net/v/20230701100027460</id>
-        <link href="https://v.daum.net/v/20230701100027460"/>
-        <updated>2023-07-01T01:07:51.695Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 최고 15.8% 돌파..김태리, 오정세에 섬뜩 미소 "오랜만이네"]]></title>
-        <id>https://v.daum.net/v/20230701093718193</id>
-        <link href="https://v.daum.net/v/20230701093718193"/>
-        <updated>2023-07-01T01:07:51.701Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 임윤아 집 앞 '전 남친' 안우연 발견..싸늘한 표정]]></title>
-        <id>https://v.daum.net/v/20230701092749098</id>
-        <link href="https://v.daum.net/v/20230701092749098"/>
-        <updated>2023-07-01T01:07:51.704Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
