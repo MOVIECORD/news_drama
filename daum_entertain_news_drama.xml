@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-02T15:10:30.022Z</updated>
+    <updated>2023-07-02T16:14:00.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아, ♥이준호와 데이트 약속했는데..약혼자 등장에 ‘배신감’]]></title>
+        <id>https://v.daum.net/v/20230703005320958</id>
+        <link href="https://v.daum.net/v/20230703005320958"/>
+        <updated>2023-07-02T16:12:58.360Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["데이트 하자"..'킹더랜드' 이준호♥임윤아, 김영옥에 점수 따고 '쌍방 설렘' 시작]]></title>
         <id>https://v.daum.net/v/20230703000712815</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702212804552"/>
         <updated>2023-07-02T13:15:00.905Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 백진희, "당장 안재현 떠나" 선우재덕 명령에 충격... 하혈→유산위기]]></title>
-        <id>https://v.daum.net/v/20230702212500522</id>
-        <link href="https://v.daum.net/v/20230702212500522"/>
-        <updated>2023-07-02T13:15:00.908Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
