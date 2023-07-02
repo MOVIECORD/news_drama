@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-02T09:11:03.251Z</updated>
+    <updated>2023-07-02T10:11:31.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['넘버스'에선 인피니트 아닌 배우 이성열..존재감 작렬]]></title>
+        <id>https://v.daum.net/v/20230702182552104</id>
+        <link href="https://v.daum.net/v/20230702182552104"/>
+        <updated>2023-07-02T10:10:24.401Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아씨 두리안' 박주미·최명길, 현생 재회한 전생 며느리와 시어머니]]></title>
         <id>https://v.daum.net/v/20230702180836865</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702135044450"/>
         <updated>2023-07-02T05:10:12.034Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리, 귀신 진선규 만났다… "아빠"]]></title>
-        <id>https://v.daum.net/v/20230702133613230</id>
-        <link href="https://v.daum.net/v/20230702133613230"/>
-        <updated>2023-07-02T05:10:12.035Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
