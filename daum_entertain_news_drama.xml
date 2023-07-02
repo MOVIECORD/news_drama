@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-02T16:14:00.933Z</updated>
+    <updated>2023-07-02T17:09:21.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원지안 앞에서 작아지는 옥택연…'가슴이 뛴다']]></title>
+        <id>https://v.daum.net/v/20230703020104037</id>
+        <link href="https://v.daum.net/v/20230703020104037"/>
+        <updated>2023-07-02T17:09:11.312Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아, ♥이준호와 데이트 약속했는데..약혼자 등장에 ‘배신감’]]></title>
         <id>https://v.daum.net/v/20230703005320958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702225128269"/>
         <updated>2023-07-02T14:09:25.569Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김사권, 최자혜 유산 알았다…"그럴 리가 없는데" 충격]]></title>
-        <id>https://v.daum.net/v/20230702212804552</id>
-        <link href="https://v.daum.net/v/20230702212804552"/>
-        <updated>2023-07-02T13:15:00.905Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
