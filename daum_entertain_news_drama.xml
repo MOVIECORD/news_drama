@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-03T06:15:28.312Z</updated>
+    <updated>2023-07-03T07:11:48.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강현오, 신혜선 가족과 얽히나…강렬한 악역 첫 등장]]></title>
+        <id>https://v.daum.net/v/20230703160648258</id>
+        <link href="https://v.daum.net/v/20230703160648258"/>
+        <updated>2023-07-03T07:10:45.934Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희, 홍자매 신작서 김선호와 재회? "제안받은 작품 중 하나"]]></title>
+        <id>https://v.daum.net/v/20230703153601691</id>
+        <link href="https://v.daum.net/v/20230703153601691"/>
+        <updated>2023-07-03T07:10:45.939Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희, 김선호와 ♥로맨스 임박…'이 사랑 통역 되나요?' 여주 유력]]></title>
         <id>https://v.daum.net/v/20230703145401711</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230703131218186"/>
         <updated>2023-07-03T04:13:20.869Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셀러브리티' 감독 "이준호 특별 출연..여운 남기고 싶어 떼썼다"]]></title>
-        <id>https://v.daum.net/v/20230703125926900</id>
-        <link href="https://v.daum.net/v/20230703125926900"/>
-        <updated>2023-07-03T04:13:20.874Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아 진짜 데이트했네?..앞치마까지 입고 애교만점]]></title>
-        <id>https://v.daum.net/v/20230703125217834</id>
-        <link href="https://v.daum.net/v/20230703125217834"/>
-        <updated>2023-07-03T04:13:20.877Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
