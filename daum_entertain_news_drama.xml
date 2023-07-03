@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-03T09:11:41.352Z</updated>
+    <updated>2023-07-03T10:12:17.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘셀러브리티’ 감독 “이준호 특별출연, 직접 전화해 떼쓰다시피 섭외”]]></title>
+        <id>https://v.daum.net/v/20230703190357307</id>
+        <link href="https://v.daum.net/v/20230703190357307"/>
+        <updated>2023-07-03T10:12:08.605Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김신록, '순양家' 이성민 고명딸서 상사로…"'형사록 시즌2', 엔딩 떡밥"]]></title>
+        <id>https://v.daum.net/v/20230703185701199</id>
+        <link href="https://v.daum.net/v/20230703185701199"/>
+        <updated>2023-07-03T10:12:08.607Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['형사록2' 감독 "이성민 아니라면...휴먼 장르물, 쉽지 않았던 도전"]]></title>
+        <id>https://v.daum.net/v/20230703183003652</id>
+        <link href="https://v.daum.net/v/20230703183003652"/>
+        <updated>2023-07-03T10:12:08.609Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['남남' 최수영, 클럽 가자는 엄마 전혜진에 '팩폭'..."입구 컷이야"]]></title>
         <id>https://v.daum.net/v/20230703175738697</id>
@@ -34,7 +55,7 @@
         <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘남남’ 최수영, 클럽 가잔 전혜진에 “엄만 입구 컷이야” 단호]]></title>
+        <title type="html"><![CDATA[최수영, 클럽 가잔 전혜진에 “엄만 입구 컷이야” 저지 ‘남남’]]></title>
         <id>https://v.daum.net/v/20230703173741137</id>
         <link href="https://v.daum.net/v/20230703173741137"/>
         <updated>2023-07-03T09:11:30.202Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230703172240644"/>
         <updated>2023-07-03T09:11:30.218Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록2' 이성민 "시즌1과 다르게 머리 많이 써, 스파이물 같은 느낌 多"]]></title>
-        <id>https://v.daum.net/v/20230703171607372</id>
-        <link href="https://v.daum.net/v/20230703171607372"/>
-        <updated>2023-07-03T09:11:30.220Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가 나타났다!' 백진희가 열연했다]]></title>
-        <id>https://v.daum.net/v/20230703170924155</id>
-        <link href="https://v.daum.net/v/20230703170924155"/>
-        <updated>2023-07-03T08:15:13.511Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록 시즌2' 이성민 "시즌1에서는 몸 많이 썼는데…머리 쓰는 역할로 돌아와"]]></title>
-        <id>https://v.daum.net/v/20230703170255916</id>
-        <link href="https://v.daum.net/v/20230703170255916"/>
-        <updated>2023-07-03T08:15:13.513Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
