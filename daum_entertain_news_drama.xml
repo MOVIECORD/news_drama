@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-03T14:11:18.287Z</updated>
+    <updated>2023-07-03T15:11:37.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마당집' 윤가이 살인범=김성오子..김태희가 맡은 냄새 맞았다]]></title>
+        <id>https://v.daum.net/v/20230703232610326</id>
+        <link href="https://v.daum.net/v/20230703232610326"/>
+        <updated>2023-07-03T15:11:26.056Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당신이구나"…'이로운 사기' 천우희, 김동욱과 어린 시절 인연 기억했다]]></title>
         <id>https://v.daum.net/v/20230703221003840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230703175632656"/>
         <updated>2023-07-03T09:11:30.197Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["시즌1 낚시·시즌2 통발 "···'형사록2' 이성민→김신록, 강력해진 서스펜스]]></title>
-        <id>https://v.daum.net/v/20230703174603400</id>
-        <link href="https://v.daum.net/v/20230703174603400"/>
-        <updated>2023-07-03T09:11:30.198Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
