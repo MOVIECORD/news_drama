@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-03T15:11:37.972Z</updated>
+    <updated>2023-07-03T16:13:50.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최재림은 임지연이, 이수민은 김태희 아들이 죽였다...드디어 밝혀진 마당의 시체]]></title>
+        <id>https://v.daum.net/v/20230704003900967</id>
+        <link href="https://v.daum.net/v/20230704003900967"/>
+        <updated>2023-07-03T16:13:40.951Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마당집' 김태희, 임지연 뺨 때렸다..“돈이나 뜯어내는 게 당신 목적” 분노]]></title>
+        <id>https://v.daum.net/v/20230704001120815</id>
+        <link href="https://v.daum.net/v/20230704001120815"/>
+        <updated>2023-07-03T16:13:40.953Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마당집' 윤가이 살인범=김성오子..김태희가 맡은 냄새 맞았다]]></title>
         <id>https://v.daum.net/v/20230703232610326</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230703183003652"/>
         <updated>2023-07-03T10:12:08.609Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남남' 최수영, 클럽 가자는 엄마 전혜진에 '팩폭'..."입구 컷이야"]]></title>
-        <id>https://v.daum.net/v/20230703175738697</id>
-        <link href="https://v.daum.net/v/20230703175738697"/>
-        <updated>2023-07-03T09:11:30.192Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록2' 이성민, '휴먼 장르물'을 완성시킨 압도적 연기력]]></title>
-        <id>https://v.daum.net/v/20230703175632656</id>
-        <link href="https://v.daum.net/v/20230703175632656"/>
-        <updated>2023-07-03T09:11:30.197Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
