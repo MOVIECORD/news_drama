@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-03T11:10:41.561Z</updated>
+    <updated>2023-07-03T12:22:47.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 김동욱, 김태훈 합류시킨 천우희와 갈등 "룰은 내가 정해"]]></title>
+        <id>https://v.daum.net/v/20230703211746127</id>
+        <link href="https://v.daum.net/v/20230703211746127"/>
+        <updated>2023-07-03T12:22:36.484Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금이야옥이야' 김시은, '서준영 짝사랑' 반민정에 "父 여친으로 절대 불가"]]></title>
+        <id>https://v.daum.net/v/20230703211000041</id>
+        <link href="https://v.daum.net/v/20230703211000041"/>
+        <updated>2023-07-03T12:22:36.485Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 고은미, 정한용에 "이훈 살려달라"→김유석 벌 받나]]></title>
+        <id>https://v.daum.net/v/20230703201833333</id>
+        <link href="https://v.daum.net/v/20230703201833333"/>
+        <updated>2023-07-03T12:22:36.486Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김신록 "내근직이라 액션 필요 없다더니…"]]></title>
         <id>https://v.daum.net/v/20230703195009980</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230703173741137"/>
         <updated>2023-07-03T09:11:30.202Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤아 향한 이준호의 폭풍 애교…최고의 1분 등극]]></title>
-        <id>https://v.daum.net/v/20230703173533074</id>
-        <link href="https://v.daum.net/v/20230703173533074"/>
-        <updated>2023-07-03T09:11:30.203Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록2' 김신록 "'재벌집' 이어 이성민과 호흡, 일사불란하게 이뤄져"]]></title>
-        <id>https://v.daum.net/v/20230703173207957</id>
-        <link href="https://v.daum.net/v/20230703173207957"/>
-        <updated>2023-07-03T09:11:30.204Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTBC는 흥하고 MBC는 망하고…드라마는 많은데 작품성 편차 '심각']]></title>
-        <id>https://v.daum.net/v/20230703173101927</id>
-        <link href="https://v.daum.net/v/20230703173101927"/>
-        <updated>2023-07-03T09:11:30.206Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
