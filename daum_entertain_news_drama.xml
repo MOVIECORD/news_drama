@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-04T21:11:18.091Z</updated>
+    <updated>2023-07-04T22:10:57.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤가이, 김태희子 찾아가 '임신' 했다며 자극…“니네 엄마 내가 이겨”]]></title>
+        <id>https://v.daum.net/v/20230705065418527</id>
+        <link href="https://v.daum.net/v/20230705065418527"/>
+        <updated>2023-07-04T22:10:47.083Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쏟아지는 학원물에 ‘학폭·차별’ 모방 우려]]></title>
+        <id>https://v.daum.net/v/20230705063013278</id>
+        <link href="https://v.daum.net/v/20230705063013278"/>
+        <updated>2023-07-04T22:10:47.085Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김신록 정진영 합류 ‘형사록2’ 세계관 확장된 ‘친구’ 배후 찾기]]></title>
         <id>https://v.daum.net/v/20230705060014817</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230704214057691"/>
         <updated>2023-07-04T13:21:47.444Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김시후 내연녀, 윤다영 집 앞까지 찾아와 '도발'...김호영, 서준영에게 황동푸드 과장직 제안]]></title>
-        <id>https://v.daum.net/v/20230704212730531</id>
-        <link href="https://v.daum.net/v/20230704212730531"/>
-        <updated>2023-07-04T13:21:47.446Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱 정체 알아보고 애틋 미소…"왜 말 안 했어"]]></title>
-        <id>https://v.daum.net/v/20230704211124332</id>
-        <link href="https://v.daum.net/v/20230704211124332"/>
-        <updated>2023-07-04T12:21:48.627Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
