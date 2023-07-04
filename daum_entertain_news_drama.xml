@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-04T09:11:49.474Z</updated>
+    <updated>2023-07-04T10:13:03.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해진 이렇게 달라졌어? 몸 사리지 않는 액션 예고]]></title>
+        <id>https://v.daum.net/v/20230704183544580</id>
+        <link href="https://v.daum.net/v/20230704183544580"/>
+        <updated>2023-07-04T10:12:49.500Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품 실컷 입은 박규영, '오징어게임2'로 '넷플릭스 딸' 인증…"부담되고 떨려"]]></title>
         <id>https://v.daum.net/v/20230704180101696</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704153153385"/>
         <updated>2023-07-04T07:11:35.055Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연, 원지안 근무 고등학교 방문…청소부 복장까지]]></title>
-        <id>https://v.daum.net/v/20230704152404036</id>
-        <link href="https://v.daum.net/v/20230704152404036"/>
-        <updated>2023-07-04T07:11:35.055Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
