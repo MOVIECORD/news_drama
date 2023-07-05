@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-05T03:25:29.487Z</updated>
+    <updated>2023-07-05T04:13:50.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명민, 제작사 심스토리 전속 계약 "전폭적인 지원"]]></title>
+        <id>https://v.daum.net/v/20230705131106725</id>
+        <link href="https://v.daum.net/v/20230705131106725"/>
+        <updated>2023-07-05T04:13:39.229Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['셀러브리티' 박규영, 넷플릭스의 딸? "감사한 표현···부모님이 좋아해"]]></title>
         <id>https://v.daum.net/v/20230705120037936</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230705105415524"/>
         <updated>2023-07-05T02:54:56.233Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인부터 손석구까지, 'D.P.' 시즌2 캐릭터 포스터 공개 "변화 진폭 크다"]]></title>
-        <id>https://v.daum.net/v/20230705104239911</id>
-        <link href="https://v.daum.net/v/20230705104239911"/>
-        <updated>2023-07-05T02:54:56.234Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
