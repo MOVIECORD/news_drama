@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-06T15:12:28.837Z</updated>
+    <updated>2023-07-06T16:15:25.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박효주 죽인 사람은 이규한? “내가 찔렀다” 김영훈에 고백]]></title>
+        <id>https://v.daum.net/v/20230707003006674</id>
+        <link href="https://v.daum.net/v/20230707003006674"/>
+        <updated>2023-07-06T16:15:13.396Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제연, 박효주 죽기 전 자주 만난 이유는? 싹트는 의심]]></title>
+        <id>https://v.daum.net/v/20230707001507555</id>
+        <link href="https://v.daum.net/v/20230707001507555"/>
+        <updated>2023-07-06T16:15:13.411Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우정원, 딸 입양 사실 숨기려 이엘에 거래 제안… 박효주에 협박 당했다]]></title>
         <id>https://v.daum.net/v/20230707000614448</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230706164417480"/>
         <updated>2023-07-06T08:15:15.202Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나를 쏘다' 배강희X한수아X이기택, 방황하는 청춘들 위한 희망  정조준]]></title>
-        <id>https://v.daum.net/v/20230706163805247</id>
-        <link href="https://v.daum.net/v/20230706163805247"/>
-        <updated>2023-07-06T08:15:15.217Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유미 생애 첫 탈색 감행, 180도 달라진 비주얼]]></title>
-        <id>https://v.daum.net/v/20230706162733827</id>
-        <link href="https://v.daum.net/v/20230706162733827"/>
-        <updated>2023-07-06T08:15:15.221Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
