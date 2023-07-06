@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-06T09:12:40.585Z</updated>
+    <updated>2023-07-06T10:13:00.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤아, 이준호와 ‘그린 라이트’ 켜지나]]></title>
+        <id>https://v.daum.net/v/20230706190602391</id>
+        <link href="https://v.daum.net/v/20230706190602391"/>
+        <updated>2023-07-06T10:12:48.436Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['형사록 시즌2', 다음주 기다려지는 쫄깃 스릴러]]></title>
+        <id>https://v.daum.net/v/20230706185003001</id>
+        <link href="https://v.daum.net/v/20230706185003001"/>
+        <updated>2023-07-06T10:12:48.439Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정가희, '오당기' 출연 확정…김지은과 호흡]]></title>
         <id>https://v.daum.net/v/20230706172741021</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230706145447547"/>
         <updated>2023-07-06T06:15:28.096Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아씨 두리안’ 박주미, 변기물에 세수까지‥임성한 월드 쉽지 않네]]></title>
-        <id>https://v.daum.net/v/20230706145443543</id>
-        <link href="https://v.daum.net/v/20230706145443543"/>
-        <updated>2023-07-06T06:15:28.099Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민·안은진→'이승기♥' 이다인 '연인', 파트제 편성]]></title>
-        <id>https://v.daum.net/v/20230706145420520</id>
-        <link href="https://v.daum.net/v/20230706145420520"/>
-        <updated>2023-07-06T06:15:28.103Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
