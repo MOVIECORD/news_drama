@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-06T11:10:22.914Z</updated>
+    <updated>2023-07-06T12:22:15.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 천인공노할 악마 김유석·진주형, 만행 어디까지]]></title>
+        <id>https://v.daum.net/v/20230706204327732</id>
+        <link href="https://v.daum.net/v/20230706204327732"/>
+        <updated>2023-07-06T12:22:03.676Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 신고은, 최윤영 손잡고 이채영에 복수..."유흥업소 출신" 폭로]]></title>
+        <id>https://v.daum.net/v/20230706203300533</id>
+        <link href="https://v.daum.net/v/20230706203300533"/>
+        <updated>2023-07-06T12:22:03.685Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 전혜연, "어떻게 아빠 영정 사진 앞에서.." 오열]]></title>
         <id>https://v.daum.net/v/20230706194316204</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230706154609874"/>
         <updated>2023-07-06T07:12:13.890Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인생 19회차' 신혜선, 전생만큼 흥미로운 캐릭터 관계성 맛집]]></title>
-        <id>https://v.daum.net/v/20230706154558795</id>
-        <link href="https://v.daum.net/v/20230706154558795"/>
-        <updated>2023-07-06T07:12:13.890Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“죽어, 넌 인간도 아냐"..배현성, 심은하 'M' 뺨치는 오싹+서늘]]></title>
-        <id>https://v.daum.net/v/20230706151015302</id>
-        <link href="https://v.daum.net/v/20230706151015302"/>
-        <updated>2023-07-06T06:15:28.071Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
