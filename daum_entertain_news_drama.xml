@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-07T21:11:04.529Z</updated>
+    <updated>2023-07-07T22:11:42.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진선규도 '악귀' 씌였었다...김태리의 아픈 가족사]]></title>
+        <id>https://v.daum.net/v/20230708071002753</id>
+        <link href="https://v.daum.net/v/20230708071002753"/>
+        <updated>2023-07-07T22:10:39.355Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리의 섬뜩한 두 얼굴]]></title>
+        <id>https://v.daum.net/v/20230708065329534</id>
+        <link href="https://v.daum.net/v/20230708065329534"/>
+        <updated>2023-07-07T22:10:39.355Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 진선규➝김태리, 가족 죽인 악귀 비밀 밝힐까]]></title>
+        <id>https://v.daum.net/v/20230708065019500</id>
+        <link href="https://v.daum.net/v/20230708065019500"/>
+        <updated>2023-07-07T22:10:39.373Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 임윤아표 당당한 K-직장인에 찬사를!]]></title>
         <id>https://v.daum.net/v/20230708060021073</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230707230430918"/>
         <updated>2023-07-07T14:11:45.032Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 진선규, 김태리에 "난 아냐..어쩔 수 없었어" 의미심장]]></title>
-        <id>https://v.daum.net/v/20230707225921866</id>
-        <link href="https://v.daum.net/v/20230707225921866"/>
-        <updated>2023-07-07T14:11:45.046Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 오정세, "마을 사람 다 죽길 바라냐" 피 묻은 장승 베어내]]></title>
-        <id>https://v.daum.net/v/20230707224704810</id>
-        <link href="https://v.daum.net/v/20230707224704810"/>
-        <updated>2023-07-07T14:11:45.047Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리 父 진선규도 악귀 씌었었다]]></title>
-        <id>https://v.daum.net/v/20230707224247743</id>
-        <link href="https://v.daum.net/v/20230707224247743"/>
-        <updated>2023-07-07T14:11:45.047Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
