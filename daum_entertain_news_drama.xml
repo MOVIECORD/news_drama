@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-07T08:14:59.942Z</updated>
+    <updated>2023-07-07T09:11:28.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유→허니제이 울린 '전화 공포증' 뭐길래?…"엄마랑도 힘들어"]]></title>
+        <id>https://v.daum.net/v/20230707175016333</id>
+        <link href="https://v.daum.net/v/20230707175016333"/>
+        <updated>2023-07-07T09:11:16.564Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시그니처 지원, 배우 데뷔...'내짝남 날짝남' 출연]]></title>
         <id>https://v.daum.net/v/20230707170342188</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707141606006"/>
         <updated>2023-07-07T06:15:08.847Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안동구, 첫사랑 기억 조작男 등극..하윤경과 설레는 첫만남은?]]></title>
-        <id>https://v.daum.net/v/20230707140137527</id>
-        <link href="https://v.daum.net/v/20230707140137527"/>
-        <updated>2023-07-07T05:10:58.400Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
