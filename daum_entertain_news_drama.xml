@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-07T16:14:26.959Z</updated>
+    <updated>2023-07-07T17:10:01.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 악귀에 잠식된 김태리, 홍경에 "내가 그 사람들 다 죽였어" 자백]]></title>
+        <id>https://v.daum.net/v/20230708015100991</id>
+        <link href="https://v.daum.net/v/20230708015100991"/>
+        <updated>2023-07-07T17:09:50.247Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악귀' 김태리, 끔찍하고 서글픈 가족사 내막 밝혀져]]></title>
         <id>https://v.daum.net/v/20230708000315356</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707201219900"/>
         <updated>2023-07-07T12:22:57.079Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김순옥 품 떠났다…이혼녀 된 이지아, 막장 벗고 연기력 논란도 벗을까]]></title>
-        <id>https://v.daum.net/v/20230707200109755</id>
-        <link href="https://v.daum.net/v/20230707200109755"/>
-        <updated>2023-07-07T11:09:31.887Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
