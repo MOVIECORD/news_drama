@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-07T02:55:28.461Z</updated>
+    <updated>2023-07-07T03:23:06.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리, 악귀에 잠식 당하기 전..표정만 봐도 심각]]></title>
+        <id>https://v.daum.net/v/20230707115418551</id>
+        <link href="https://v.daum.net/v/20230707115418551"/>
+        <updated>2023-07-07T03:22:55.550Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B1A4 공찬, 츤데레+순정파 반전 ★변신…‘내짝남X날짝남’ 주연 캐스팅]]></title>
         <id>https://v.daum.net/v/20230707115244506</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘끔찍한 성적 취향’ 들킨 이규한, 이번에 “박효주 찔렀다” 살인 자백]]></title>
+        <title type="html"><![CDATA[‘끔찍한 성적 취향’ 들킨 이규한, 이번엔 “박효주 찔렀다” 살인 자백]]></title>
         <id>https://v.daum.net/v/20230707112639534</id>
         <link href="https://v.daum.net/v/20230707112639534"/>
         <updated>2023-07-07T02:54:25.208Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230707101547695</id>
         <link href="https://v.daum.net/v/20230707101547695"/>
         <updated>2023-07-07T02:54:25.239Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“흉측 망측” 박주미, 키스 퍼붓는 커플 모습에 깜짝]]></title>
-        <id>https://v.daum.net/v/20230707101311598</id>
-        <link href="https://v.daum.net/v/20230707101311598"/>
-        <updated>2023-07-07T02:54:25.245Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
