@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-08T09:11:11.132Z</updated>
+    <updated>2023-07-08T10:10:39.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지영, ‘악귀’ 때문에 母·아이 잃어..숨겨진 사연에 폭풍 눈물]]></title>
+        <id>https://v.daum.net/v/20230708182420973</id>
+        <link href="https://v.daum.net/v/20230708182420973"/>
+        <updated>2023-07-08T10:10:29.072Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불 지르고 금고 털고...'이로운 사기' 역대급 사기극, 이렇게 나왔다]]></title>
+        <id>https://v.daum.net/v/20230708182203925</id>
+        <link href="https://v.daum.net/v/20230708182203925"/>
+        <updated>2023-07-08T10:10:29.074Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'마약' 빅뱅 탑, '오징어게임2' 은퇴 아이돌 역할"]]></title>
         <id>https://v.daum.net/v/20230708172025145</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230708135917334"/>
         <updated>2023-07-08T05:10:36.676Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, '오겜' 아누팜 등장에 ♥임윤아 지키기…예상도 못한 라이벌]]></title>
-        <id>https://v.daum.net/v/20230708134621240</id>
-        <link href="https://v.daum.net/v/20230708134621240"/>
-        <updated>2023-07-08T05:10:36.676Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규도 악귀였다…김태리, 진실 알고 절규…‘악귀’ 순간 최고 14.3%]]></title>
-        <id>https://v.daum.net/v/20230708133826179</id>
-        <link href="https://v.daum.net/v/20230708133826179"/>
-        <updated>2023-07-08T05:10:36.676Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
