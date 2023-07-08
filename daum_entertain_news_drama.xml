@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-08T06:12:59.255Z</updated>
+    <updated>2023-07-08T07:10:58.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이유있는 대배우 캐스팅” 오정세 할머니 김해숙, 백발 카리스마로 본격 등판]]></title>
+        <id>https://v.daum.net/v/20230708153016233</id>
+        <link href="https://v.daum.net/v/20230708153016233"/>
+        <updated>2023-07-08T07:09:56.350Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마약→빅뱅 탈퇴' 탑, '오징어 게임2' 캐릭터 공개]]></title>
+        <id>https://v.daum.net/v/20230708152225147</id>
+        <link href="https://v.daum.net/v/20230708152225147"/>
+        <updated>2023-07-08T07:09:56.351Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘악귀’ 오정세 할머니 김해숙 등판 “대배우 캐스팅 이유 있다”]]></title>
+        <id>https://v.daum.net/v/20230708151530089</id>
+        <link href="https://v.daum.net/v/20230708151530089"/>
+        <updated>2023-07-08T07:09:56.354Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아씨 두리안’ 현생서 재회한 박주미-유정후-이다연, 애타는 눈길]]></title>
         <id>https://v.daum.net/v/20230708145927915</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230708114108345"/>
         <updated>2023-07-08T02:55:15.487Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장사천재 백사장' PD "백종원, 왜 톱인지 알게 돼…시즌2 계획은"]]></title>
-        <id>https://v.daum.net/v/20230708110435975</id>
-        <link href="https://v.daum.net/v/20230708110435975"/>
-        <updated>2023-07-08T02:55:15.489Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오정세는 못하는 게 뭘까?..코믹 빼고 '악귀' 잡는 진중함 UP]]></title>
-        <id>https://v.daum.net/v/20230708110423971</id>
-        <link href="https://v.daum.net/v/20230708110423971"/>
-        <updated>2023-07-08T02:55:15.491Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 최재림, 박칼린과 품앗이 삶→이불 빨래도 같이…최고 11.8%]]></title>
-        <id>https://v.daum.net/v/20230708105842891</id>
-        <link href="https://v.daum.net/v/20230708105842891"/>
-        <updated>2023-07-08T02:55:15.494Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
