@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-08T03:25:30.772Z</updated>
+    <updated>2023-07-08T04:14:04.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하윤경♥안동구, 초밀착 아이컨택→볼 쓰담 로맨스 청신호]]></title>
+        <id>https://v.daum.net/v/20230708130917944</id>
+        <link href="https://v.daum.net/v/20230708130917944"/>
+        <updated>2023-07-08T04:13:02.350Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내가 다 죽였어"..김태리, 오정세x홍경도 놀란 '악귀' 미소 모먼트]]></title>
+        <id>https://v.daum.net/v/20230708124319783</id>
+        <link href="https://v.daum.net/v/20230708124319783"/>
+        <updated>2023-07-08T04:13:02.356Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선 안보현, 입맞춤보다 얼굴 쓰다듬는 뜨거운 눈맞춤 포착‘이생잘’]]></title>
         <id>https://v.daum.net/v/20230708114108345</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230708091654767"/>
         <updated>2023-07-08T01:02:32.509Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보검복지부, 주말에 희소식…박보검, 4년만 팬미팅 개최]]></title>
-        <id>https://v.daum.net/v/20230708091202726</id>
-        <link href="https://v.daum.net/v/20230708091202726"/>
-        <updated>2023-07-08T01:02:32.510Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리, 임윤아♥︎이준호 견제 들어갔다..시청률 상승]]></title>
-        <id>https://v.daum.net/v/20230708091122718</id>
-        <link href="https://v.daum.net/v/20230708091122718"/>
-        <updated>2023-07-08T01:02:32.512Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
