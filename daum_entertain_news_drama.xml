@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-08T17:10:20.461Z</updated>
+    <updated>2023-07-08T18:12:29.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 아귀 김신비 만났다…김신비, "널 악귀로 만든 사람의 이름 봤다" 충격 엔딩]]></title>
+        <id>https://v.daum.net/v/20230709030001669</id>
+        <link href="https://v.daum.net/v/20230709030001669"/>
+        <updated>2023-07-08T18:12:18.841Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 홍경에 "귀신이 그랬다면 믿어 줄 거예요?"…귀신 언급]]></title>
+        <id>https://v.daum.net/v/20230709020900632</id>
+        <link href="https://v.daum.net/v/20230709020900632"/>
+        <updated>2023-07-08T18:12:18.842Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호, 라이벌 아누팜에 ‘급발진’→♥임윤아와 깜짝 ‘전통 혼례’]]></title>
         <id>https://v.daum.net/v/20230709010728516</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230708231038166"/>
         <updated>2023-07-08T16:12:52.207Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 아귀 살인 막았다→김신비 고백 “악귀 만든 사람 이름 봐” ‘악귀’]]></title>
-        <id>https://v.daum.net/v/20230708230933159</id>
-        <link href="https://v.daum.net/v/20230708230933159"/>
-        <updated>2023-07-08T14:10:02.512Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김해숙, 붉은 댕기 가져온 손자 오정세에 "당장 나가" 고함]]></title>
-        <id>https://v.daum.net/v/20230708230414128</id>
-        <link href="https://v.daum.net/v/20230708230414128"/>
-        <updated>2023-07-08T14:10:02.514Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
