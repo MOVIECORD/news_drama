@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-09T06:13:54.291Z</updated>
+    <updated>2023-07-09T07:10:03.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연, 원지안 향한 애틋한 눈빛]]></title>
+        <id>https://v.daum.net/v/20230709160504380</id>
+        <link href="https://v.daum.net/v/20230709160504380"/>
+        <updated>2023-07-09T07:09:51.775Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선·안보현, 애틋 백허그..두 손 포개기까지]]></title>
+        <id>https://v.daum.net/v/20230709155812253</id>
+        <link href="https://v.daum.net/v/20230709155812253"/>
+        <updated>2023-07-09T07:09:51.776Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아귀인줄…양혜지, 시청자 뒤통수친 반전의 주인공]]></title>
+        <id>https://v.daum.net/v/20230709155758249</id>
+        <link href="https://v.daum.net/v/20230709155758249"/>
+        <updated>2023-07-09T07:09:51.776Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 이준호X임윤아, 입술 사이 10cm '아슬아슬'…심장박동 최고조]]></title>
         <id>https://v.daum.net/v/20230709144000752</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230709105500417"/>
         <updated>2023-07-09T03:02:50.800Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[표예진, 죽는 연기까지 완벽했다…소름끼치는 열연]]></title>
-        <id>https://v.daum.net/v/20230709103034037</id>
-        <link href="https://v.daum.net/v/20230709103034037"/>
-        <updated>2023-07-09T03:02:50.802Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 시청자 마음 함락시킨 '마성의 본부장']]></title>
-        <id>https://v.daum.net/v/20230709102950021</id>
-        <link href="https://v.daum.net/v/20230709102950021"/>
-        <updated>2023-07-09T03:02:50.802Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 이지원, 충격적인 정체 ‘아귀’였다..노골적인 속물 연기 '몰입도 UP']]></title>
-        <id>https://v.daum.net/v/20230709102923013</id>
-        <link href="https://v.daum.net/v/20230709102923013"/>
-        <updated>2023-07-09T03:02:50.803Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
