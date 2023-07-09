@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-09T10:11:44.842Z</updated>
+    <updated>2023-07-09T11:09:23.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 유재석, 겁쟁이의 역사 "야영 중 무서워서 오열, 다음날 母 소환"]]></title>
+        <id>https://v.daum.net/v/20230709195830605</id>
+        <link href="https://v.daum.net/v/20230709195830605"/>
+        <updated>2023-07-09T11:09:12.164Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘열애설 부인’ 이준호 “임윤아와 로맨스, 서로의 프로페셔널함 확인”]]></title>
         <id>https://v.daum.net/v/20230709184134519</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230709115543370"/>
         <updated>2023-07-09T03:02:50.795Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이번 생도 잘 부탁해' 안동구, 하윤경과 설렘 로맨스]]></title>
-        <id>https://v.daum.net/v/20230709114445237</id>
-        <link href="https://v.daum.net/v/20230709114445237"/>
-        <updated>2023-07-09T03:02:50.797Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
