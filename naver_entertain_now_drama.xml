@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=225</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 드라마</title>
-    <updated>2023-07-09T19:09:45.179Z</updated>
+    <updated>2023-07-09T20:10:56.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정덕현의 요즘 뭐 봐?]‘마당이 있는 집’, 귀신보다 무서운 사람, 아니 이들의 신들린 연기]]></title>
+        <id>https://entertain.naver.com/now/read?oid=241&amp;aid=0003287073</id>
+        <link href="https://entertain.naver.com/now/read?oid=241&amp;aid=0003287073"/>
+        <updated>2023-07-09T20:10:55.874Z</updated>
+        <content type="html"><![CDATA[세상이 더 웃겨서 코미디가 설 자리가 없다는 우스갯소리처럼, 사람이 더 무서워 귀신 이야기가 설 자리가 없다는 이야기가 나올 법한 현실이다. 실제로 신문 사회면을 보면 ‘저게 과연 사람이 한 짓일까’ 싶은 그런 충격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스브스夜] '미우새' 이상민, 탁재훈과 '미우새 OST 프로젝트' 시작…뮤지 작곡가로 '전격 합류']]></title>
         <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000296897</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=438&amp;aid=0000057132"/>
         <updated>2023-07-09T14:10:24.162Z</updated>
         <content type="html"><![CDATA[정의제가 백진희가 임신한 아이가 자신의 아이라고 확신했지만 백진희는 그런 정의제를 거부했다. 9일 방송된 KBS2TV 새 주말드라마 ‘진짜가 나타났다!’(연출 한준서/ 극본 조정주)는 ‘진짜’를 둘러싼 미혼모와 비혼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['런닝맨' 양세찬-전소민, "우린 돈 없어서 못 했다"…'보이 스카우트 출신' 유재석-김종국에 '부러움 폭발']]></title>
-        <id>https://entertain.naver.com/now/read?oid=416&amp;aid=0000296892</id>
-        <link href="https://entertain.naver.com/now/read?oid=416&amp;aid=0000296892"/>
-        <updated>2023-07-09T14:10:24.162Z</updated>
-        <content type="html"><![CDATA[막내들이 서러움을 토로했다. 9일 방송된 SBS '런닝맨'에서는 '런닝 스카우트' 레이스가 진행됐다. 이날 방송에서 멤버들은 스카우트 단복을 입고 등장해 눈길을 끌었다. 이에 유재석은 "어렸을 때 보이스카우트 출신이]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-09T19:09:45.268Z</updated>
+    <updated>2023-07-09T20:10:56.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마당이 있는 집’, 귀신보다 무서운 사람, 아니 이들의 신들린 연기]]></title>
+        <id>https://v.daum.net/v/20230710050513654</id>
+        <link href="https://v.daum.net/v/20230710050513654"/>
+        <updated>2023-07-09T20:10:46.919Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“허락해줘 널” 이준호, ♥임윤아와 뜨거운 ‘첫키스’로 마음 확인]]></title>
         <id>https://v.daum.net/v/20230710005320633</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230709213016600"/>
         <updated>2023-07-09T13:16:37.904Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 백진희, 차화연 앞에 무릎 꿇었다 "안재현 친아빠 아냐" 고백]]></title>
-        <id>https://v.daum.net/v/20230709212401554</id>
-        <link href="https://v.daum.net/v/20230709212401554"/>
-        <updated>2023-07-09T13:16:37.912Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
