@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-09T15:10:48.045Z</updated>
+    <updated>2023-07-09T16:12:54.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“허락해줘 널” 이준호, ♥임윤아와 뜨거운 ‘첫키스’로 마음 확인]]></title>
+        <id>https://v.daum.net/v/20230710005320633</id>
+        <link href="https://v.daum.net/v/20230710005320633"/>
+        <updated>2023-07-09T16:12:44.364Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아씨 두리안' 한다감, 박주미에 선물준 ♥김민준에 분노 "왜 빌미 주냐"]]></title>
+        <id>https://v.daum.net/v/20230710001554522</id>
+        <link href="https://v.daum.net/v/20230710001554522"/>
+        <updated>2023-07-09T16:12:44.364Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주미, 잠 들었다가 다시 과거로? "믿기지 않는 일"]]></title>
         <id>https://v.daum.net/v/20230710000908487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230709212401554"/>
         <updated>2023-07-09T13:16:37.912Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 백진희, 차화연에 무릎 꿇고 사죄.."안재현 애 아냐"]]></title>
-        <id>https://v.daum.net/v/20230709212357552</id>
-        <link href="https://v.daum.net/v/20230709212357552"/>
-        <updated>2023-07-09T13:16:37.913Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의제, 백진희 애 다칠까 차주영과 분열 “마지막 편 잃어”]]></title>
-        <id>https://v.daum.net/v/20230709211234482</id>
-        <link href="https://v.daum.net/v/20230709211234482"/>
-        <updated>2023-07-09T12:19:39.783Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
