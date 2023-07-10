@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-10T06:16:26.812Z</updated>
+    <updated>2023-07-10T07:12:08.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-드라마 속 아랍왕자 묘사에 중동 시청자 '울컥']]></title>
+        <id>https://v.daum.net/v/20230710154651246</id>
+        <link href="https://v.daum.net/v/20230710154651246"/>
+        <updated>2023-07-10T07:10:59.529Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호♥임윤아 첫키스…'킹더랜드', 반환점 찍고 로맨스 직진]]></title>
+        <id>https://v.daum.net/v/20230710153654735</id>
+        <link href="https://v.daum.net/v/20230710153654735"/>
+        <updated>2023-07-10T07:10:59.530Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은퇴한 아이돌役 탑 ‘오징어게임2’ 자진하차 안 한다]]></title>
         <id>https://v.daum.net/v/20230710145329490</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230710104020139"/>
         <updated>2023-07-10T02:40:18.945Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 손끝까지 컨트롤하는 연기..'본부장님은 일도 사랑도 완전 진심']]></title>
-        <id>https://v.daum.net/v/20230710102823559</id>
-        <link href="https://v.daum.net/v/20230710102823559"/>
-        <updated>2023-07-10T02:40:18.945Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 설렘 부스터 달았다…명불허전 로맨틱 킹]]></title>
-        <id>https://v.daum.net/v/20230710102245328</id>
-        <link href="https://v.daum.net/v/20230710102245328"/>
-        <updated>2023-07-10T02:40:18.950Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
