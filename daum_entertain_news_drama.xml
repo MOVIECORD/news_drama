@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-10T12:21:24.314Z</updated>
+    <updated>2023-07-10T13:22:33.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운 사기' 천우희, 김태훈=적목 회장 정체 알고 충격]]></title>
+        <id>https://v.daum.net/v/20230710221813630</id>
+        <link href="https://v.daum.net/v/20230710221813630"/>
+        <updated>2023-07-10T13:21:31.422Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드', 아랍 문화 왜곡 논란..해명 불구 비판은 계속]]></title>
+        <id>https://v.daum.net/v/20230710220001481</id>
+        <link href="https://v.daum.net/v/20230710220001481"/>
+        <updated>2023-07-10T13:21:31.426Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 나가던 '킹더랜드', 뜻밖의 암초..."아랍 문화 희화화 의도 無"]]></title>
+        <id>https://v.daum.net/v/20230710213002097</id>
+        <link href="https://v.daum.net/v/20230710213002097"/>
+        <updated>2023-07-10T13:21:31.427Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 여자' 이종원=신고은 父 살해범..간호사 시켜 범행]]></title>
         <id>https://v.daum.net/v/20230710210701817</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230710175958796"/>
         <updated>2023-07-10T09:12:04.097Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹더랜드’ 문화 왜곡 논란, 아누팜 SNS 테러까지…제작진 “가상 설정”]]></title>
-        <id>https://v.daum.net/v/20230710175111589</id>
-        <link href="https://v.daum.net/v/20230710175111589"/>
-        <updated>2023-07-10T09:12:04.101Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아랍 문화 왜곡? 가상의 설정”, ‘킹더랜드’ 킹 받는 해명]]></title>
-        <id>https://v.daum.net/v/20230710175050567</id>
-        <link href="https://v.daum.net/v/20230710175050567"/>
-        <updated>2023-07-10T09:12:04.103Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 측 "특정 문화 희화화·왜곡 의도 전혀 無"]]></title>
-        <id>https://v.daum.net/v/20230710174801477</id>
-        <link href="https://v.daum.net/v/20230710174801477"/>
-        <updated>2023-07-10T09:12:04.105Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
