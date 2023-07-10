@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-10T09:12:15.506Z</updated>
+    <updated>2023-07-10T10:13:08.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선, 갑작스러운 임신에 얼떨떨+혼란스러운 마음]]></title>
+        <id>https://v.daum.net/v/20230710185659123</id>
+        <link href="https://v.daum.net/v/20230710185659123"/>
+        <updated>2023-07-10T10:12:58.107Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희, 백의의 천사 되다→설레고 애틋한 병간호]]></title>
+        <id>https://v.daum.net/v/20230710183319721</id>
+        <link href="https://v.daum.net/v/20230710183319721"/>
+        <updated>2023-07-10T10:12:58.111Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 측, 아랍왕자 왜곡 묘사 논란에 "의도 전혀 없어"]]></title>
         <id>https://v.daum.net/v/20230710180157884</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230710154651246"/>
         <updated>2023-07-10T07:10:59.529Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아 첫키스…'킹더랜드', 반환점 찍고 로맨스 직진]]></title>
-        <id>https://v.daum.net/v/20230710153654735</id>
-        <link href="https://v.daum.net/v/20230710153654735"/>
-        <updated>2023-07-10T07:10:59.530Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은퇴한 아이돌役 탑 ‘오징어게임2’ 자진하차 안 한다]]></title>
-        <id>https://v.daum.net/v/20230710145329490</id>
-        <link href="https://v.daum.net/v/20230710145329490"/>
-        <updated>2023-07-10T06:15:18.211Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
