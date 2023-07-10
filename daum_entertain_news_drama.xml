@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-10T02:40:30.245Z</updated>
+    <updated>2023-07-10T03:27:09.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['겟 업' 컴백 앞둔 뉴진스, 한터 주간차트 2관왕…에이티즈, 인증차트 1위]]></title>
+        <id>https://v.daum.net/v/20230710115201275</id>
+        <link href="https://v.daum.net/v/20230710115201275"/>
+        <updated>2023-07-10T03:26:06.667Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김은희 작가는 과연 이 수준 높은 떡밥을 어떻게 회수할까]]></title>
         <id>https://v.daum.net/v/20230710113013391</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230710095328973"/>
         <updated>2023-07-10T01:01:55.920Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 물줄기 속 딥키스→비밀연애 시작..”허락해줘 널”]]></title>
-        <id>https://v.daum.net/v/20230710095024848</id>
-        <link href="https://v.daum.net/v/20230710095024848"/>
-        <updated>2023-07-10T01:01:55.920Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
