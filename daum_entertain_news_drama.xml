@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-10T03:27:09.326Z</updated>
+    <updated>2023-07-10T04:13:43.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘짜장면 먹방’ 남긴 임지연 “‘마당집’ 사랑했고 행복했다” 소감]]></title>
+        <id>https://v.daum.net/v/20230710130757781</id>
+        <link href="https://v.daum.net/v/20230710130757781"/>
+        <updated>2023-07-10T04:13:32.776Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['겟 업' 컴백 앞둔 뉴진스, 한터 주간차트 2관왕…에이티즈, 인증차트 1위]]></title>
         <id>https://v.daum.net/v/20230710115201275</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230710095616061"/>
         <updated>2023-07-10T01:01:55.920Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 악귀가 된 강기영.."가장 파격적인 변신, 장난 아니다"]]></title>
-        <id>https://v.daum.net/v/20230710095328973</id>
-        <link href="https://v.daum.net/v/20230710095328973"/>
-        <updated>2023-07-10T01:01:55.920Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
