@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-10T14:11:39.486Z</updated>
+    <updated>2023-07-10T15:12:15.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희, 임지연에게 "남편 김성오 죽여달라...5억 제안"]]></title>
+        <id>https://v.daum.net/v/20230710234000072</id>
+        <link href="https://v.daum.net/v/20230710234000072"/>
+        <updated>2023-07-10T15:12:03.681Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마당집’ 임지연, 남편 죽여달라던 김태희에 속았다..김성오에 습격 당해]]></title>
+        <id>https://v.daum.net/v/20230710231557955</id>
+        <link href="https://v.daum.net/v/20230710231557955"/>
+        <updated>2023-07-10T15:12:03.688Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 김태훈=적목 회장 정체 알고 충격]]></title>
         <id>https://v.daum.net/v/20230710221813630</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230710183319721"/>
         <updated>2023-07-10T10:12:58.111Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 측, 아랍왕자 왜곡 묘사 논란에 "의도 전혀 없어"]]></title>
-        <id>https://v.daum.net/v/20230710180157884</id>
-        <link href="https://v.daum.net/v/20230710180157884"/>
-        <updated>2023-07-10T09:12:04.095Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자체 최고 찍은 '킹더랜드', 아랍 문화 왜곡 논란에 발목.."주의하겠다"]]></title>
-        <id>https://v.daum.net/v/20230710175958796</id>
-        <link href="https://v.daum.net/v/20230710175958796"/>
-        <updated>2023-07-10T09:12:04.097Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
