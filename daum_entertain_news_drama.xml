@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-11T11:10:37.696Z</updated>
+    <updated>2023-07-11T12:22:45.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 조은숙 "김유석 때려죽여야 해" 괴로움에 몸부림]]></title>
+        <id>https://v.daum.net/v/20230711202204231</id>
+        <link href="https://v.daum.net/v/20230711202204231"/>
+        <updated>2023-07-11T12:22:34.843Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연 뺨 때리며 복수 예고.."기대해"]]></title>
+        <id>https://v.daum.net/v/20230711201630144</id>
+        <link href="https://v.daum.net/v/20230711201630144"/>
+        <updated>2023-07-11T12:22:34.843Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임2', "촬영이 벼슬?" 스태프 갑질 논란에 "사과드립니다"]]></title>
         <id>https://v.daum.net/v/20230711200709013</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230711171225628"/>
         <updated>2023-07-11T08:14:34.681Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 김윤우, MBC '인연' 캐스팅…남궁민과 절친 케미 예고]]></title>
-        <id>https://v.daum.net/v/20230711170017172</id>
-        <link href="https://v.daum.net/v/20230711170017172"/>
-        <updated>2023-07-11T08:14:34.689Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오징어게임2’ 촬영 시작, 기어이 마약 전과 탑 품었다]]></title>
-        <id>https://v.daum.net/v/20230711165051775</id>
-        <link href="https://v.daum.net/v/20230711165051775"/>
-        <updated>2023-07-11T08:14:34.691Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
