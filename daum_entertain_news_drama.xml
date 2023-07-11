@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-11T20:11:49.392Z</updated>
+    <updated>2023-07-11T21:10:04.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임지연, 김태희 덕 남편 살인 덮고 아들 낳아 해피엔딩]]></title>
+        <id>https://v.daum.net/v/20230712055011175</id>
+        <link href="https://v.daum.net/v/20230712055011175"/>
+        <updated>2023-07-11T21:09:52.989Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 ‘마당집’ 김태희, 남편 김성오 살해했다 “이제 내가 보여”]]></title>
+        <id>https://v.daum.net/v/20230712054944166</id>
+        <link href="https://v.daum.net/v/20230712054944166"/>
+        <updated>2023-07-11T21:09:52.992Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“죽은 남편과 한 달 살아” 정운선, 남편 살인범 아니었다]]></title>
+        <id>https://v.daum.net/v/20230712054914162</id>
+        <link href="https://v.daum.net/v/20230712054914162"/>
+        <updated>2023-07-11T21:09:52.994Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희, 김성오 살해→출소 후 새 출발..임지연은 子 출산]]></title>
         <id>https://v.daum.net/v/20230712002356002</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230711202204231"/>
         <updated>2023-07-11T12:22:34.843Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연 뺨 때리며 복수 예고.."기대해"]]></title>
-        <id>https://v.daum.net/v/20230711201630144</id>
-        <link href="https://v.daum.net/v/20230711201630144"/>
-        <updated>2023-07-11T12:22:34.843Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임2', "촬영이 벼슬?" 스태프 갑질 논란에 "사과드립니다"]]></title>
-        <id>https://v.daum.net/v/20230711200709013</id>
-        <link href="https://v.daum.net/v/20230711200709013"/>
-        <updated>2023-07-11T11:09:35.210Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['길복순' 완전 지운 이연..'이로운사기' 대체불가 존재감]]></title>
-        <id>https://v.daum.net/v/20230711200418976</id>
-        <link href="https://v.daum.net/v/20230711200418976"/>
-        <updated>2023-07-11T11:09:35.219Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
