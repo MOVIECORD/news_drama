@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-12T15:12:22.032Z</updated>
+    <updated>2023-07-12T16:14:45.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남상지·이도겸·강다빈·이효나, ‘우당탕탕 패밀리’ 출연 확정]]></title>
+        <id>https://v.daum.net/v/20230713010007431</id>
+        <link href="https://v.daum.net/v/20230713010007431"/>
+        <updated>2023-07-12T16:14:33.647Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드', 아랍 문화 왜곡 논란 사과..찝찝함이 남는 이유]]></title>
         <id>https://v.daum.net/v/20230712235601769</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712183024478"/>
         <updated>2023-07-12T10:11:53.874Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄지원 "박지환과 로맨스♥…황정민 얼굴 봤다"]]></title>
-        <id>https://v.daum.net/v/20230712183003469</id>
-        <link href="https://v.daum.net/v/20230712183003469"/>
-        <updated>2023-07-12T10:11:53.874Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
