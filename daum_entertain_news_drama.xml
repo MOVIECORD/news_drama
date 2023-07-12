@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-12T10:12:56.520Z</updated>
+    <updated>2023-07-12T11:09:56.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최원영 "다작배우? 이순재·선우용여 선생님 옆에 계신데…"]]></title>
+        <id>https://v.daum.net/v/20230712195018416</id>
+        <link href="https://v.daum.net/v/20230712195018416"/>
+        <updated>2023-07-12T11:09:44.915Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['셀러브리티' 이동건 "빌런, 남보다 잘 해낼 자신 있었다"]]></title>
+        <id>https://v.daum.net/v/20230712194927394</id>
+        <link href="https://v.daum.net/v/20230712194927394"/>
+        <updated>2023-07-12T11:09:44.919Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 친부 김유석에 "제 친어머니를 아세요?"]]></title>
+        <id>https://v.daum.net/v/20230712194831376</id>
+        <link href="https://v.daum.net/v/20230712194831376"/>
+        <updated>2023-07-12T11:09:44.927Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연에 경고 "주둥이 턱 끝까지 찢어주겠다"]]></title>
+        <id>https://v.daum.net/v/20230712194722356</id>
+        <link href="https://v.daum.net/v/20230712194722356"/>
+        <updated>2023-07-12T11:09:44.932Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 아린 "고수 선배님 막춤, 자꾸 생각나"]]></title>
         <id>https://v.daum.net/v/20230712191003543</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230712175021296"/>
         <updated>2023-07-12T09:11:52.132Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동건 "'셀러브리티', 인생 세 번째 시작…여유 있는 40대 되고파"]]></title>
-        <id>https://v.daum.net/v/20230712175003279</id>
-        <link href="https://v.daum.net/v/20230712175003279"/>
-        <updated>2023-07-12T09:11:52.135Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 측, 아랍 문화 왜곡 사과 "문제 장면 신속히 수정"]]></title>
-        <id>https://v.daum.net/v/20230712174432122</id>
-        <link href="https://v.daum.net/v/20230712174432122"/>
-        <updated>2023-07-12T09:11:52.139Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주미·한다감, 머리채 잡기 일보 직전…김민준, 누구 선택할까]]></title>
-        <id>https://v.daum.net/v/20230712173433786</id>
-        <link href="https://v.daum.net/v/20230712173433786"/>
-        <updated>2023-07-12T09:11:52.152Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹더랜드’ 아랍문화 왜곡 논란 거듭 사과 “신속히 장면 수정”]]></title>
-        <id>https://v.daum.net/v/20230712173041634</id>
-        <link href="https://v.daum.net/v/20230712173041634"/>
-        <updated>2023-07-12T09:11:52.158Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
