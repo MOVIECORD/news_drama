@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T10:13:41.690Z</updated>
+    <updated>2023-07-13T11:11:31.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 조은숙, 김유석에 "죽어라" 목 졸라]]></title>
+        <id>https://v.daum.net/v/20230713195325228</id>
+        <link href="https://v.daum.net/v/20230713195325228"/>
+        <updated>2023-07-13T11:10:28.390Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 전혜연 "제 친부 아세요?"질문에 충격...조은숙 배후 의심]]></title>
+        <id>https://v.daum.net/v/20230713193900930</id>
+        <link href="https://v.daum.net/v/20230713193900930"/>
+        <updated>2023-07-13T11:10:28.391Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박종팔-유명우-장정구-신보미레, 전설의 복서가 떴다]]></title>
         <id>https://v.daum.net/v/20230713190913117</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230713170839163</id>
         <link href="https://v.daum.net/v/20230713170839163"/>
         <updated>2023-07-13T08:14:44.658Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드', 아랍 문화 왜곡 논란 사과→문제 장면 신속 삭제]]></title>
-        <id>https://v.daum.net/v/20230713170701081</id>
-        <link href="https://v.daum.net/v/20230713170701081"/>
-        <updated>2023-07-13T08:14:44.662Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['관출금' PD "'그알' 경험, 섭외에 큰 도움…남극기지·루브르 가고파" ①]]></title>
-        <id>https://v.daum.net/v/20230713170654078</id>
-        <link href="https://v.daum.net/v/20230713170654078"/>
-        <updated>2023-07-13T08:14:44.666Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
