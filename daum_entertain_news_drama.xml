@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T06:14:52.617Z</updated>
+    <updated>2023-07-13T07:11:12.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배현성, 초능력이 따로 있나..비주얼 자체가 판타지]]></title>
+        <id>https://v.daum.net/v/20230713153745942</id>
+        <link href="https://v.daum.net/v/20230713153745942"/>
+        <updated>2023-07-13T07:10:58.834Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드', '문화 왜곡 논란' 아랍어 공식 사과.."불편 끼쳤다"]]></title>
         <id>https://v.daum.net/v/20230713150550540</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713110815590"/>
         <updated>2023-07-13T02:56:51.641Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['행복배틀' 김영훈, 차기작 '오당기' 확정…권율·김지은과 호흡]]></title>
-        <id>https://v.daum.net/v/20230713105339708</id>
-        <link href="https://v.daum.net/v/20230713105339708"/>
-        <updated>2023-07-13T02:56:51.645Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
