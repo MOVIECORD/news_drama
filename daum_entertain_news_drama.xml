@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T22:11:27.446Z</updated>
+    <updated>2023-07-13T23:11:25.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전효성 “‘셀러브리티’ 내숭 없는 작품, 더 나쁜 캐릭터 욕심나”]]></title>
+        <id>https://v.daum.net/v/20230714073425041</id>
+        <link href="https://v.daum.net/v/20230714073425041"/>
+        <updated>2023-07-13T23:11:14.540Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상은 우연은 없다..정우vs배현성, 갈등폭발]]></title>
+        <id>https://v.daum.net/v/20230714071653811</id>
+        <link href="https://v.daum.net/v/20230714071653811"/>
+        <updated>2023-07-13T23:11:14.542Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안우연 “과거 우울감에 20㎏ 증가, 전역 후 마음가짐 달라져”]]></title>
         <id>https://v.daum.net/v/20230714070207596</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713195325228"/>
         <updated>2023-07-13T11:10:28.390Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 전혜연 "제 친부 아세요?"질문에 충격...조은숙 배후 의심]]></title>
-        <id>https://v.daum.net/v/20230713193900930</id>
-        <link href="https://v.daum.net/v/20230713193900930"/>
-        <updated>2023-07-13T11:10:28.391Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박종팔-유명우-장정구-신보미레, 전설의 복서가 떴다]]></title>
-        <id>https://v.daum.net/v/20230713190913117</id>
-        <link href="https://v.daum.net/v/20230713190913117"/>
-        <updated>2023-07-13T10:13:31.029Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
