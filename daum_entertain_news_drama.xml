@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T12:23:12.889Z</updated>
+    <updated>2023-07-13T13:21:45.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서준영, 실종자 아내 안다는 연락 받아...돌아온 건 '유서']]></title>
+        <id>https://v.daum.net/v/20230713215531790</id>
+        <link href="https://v.daum.net/v/20230713215531790"/>
+        <updated>2023-07-13T13:21:34.343Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이채영, 끝까지 신분 숨겼다 "하늘에 맹세코 몰라"]]></title>
         <id>https://v.daum.net/v/20230713204111213</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713173916468"/>
         <updated>2023-07-13T09:11:34.723Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹더랜드’ 아랍 문화 왜곡 논란 사과→클럽+음주 장면 삭제]]></title>
-        <id>https://v.daum.net/v/20230713173652380</id>
-        <link href="https://v.daum.net/v/20230713173652380"/>
-        <updated>2023-07-13T09:11:34.723Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
