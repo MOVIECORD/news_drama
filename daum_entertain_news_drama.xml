@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-13T20:12:32.343Z</updated>
+    <updated>2023-07-13T21:10:08.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이규한, 박효주 숨겨진 딸과 조건 만남? 박효주 살해당한 이유 밝혀졌다]]></title>
+        <id>https://v.daum.net/v/20230714055805732</id>
+        <link href="https://v.daum.net/v/20230714055805732"/>
+        <updated>2023-07-13T21:09:56.864Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차예련, 불륜 남편에 이혼 소장 “내 집에서 나가. 꺼져”]]></title>
+        <id>https://v.daum.net/v/20230714054704674</id>
+        <link href="https://v.daum.net/v/20230714054704674"/>
+        <updated>2023-07-13T21:09:56.864Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연·원지안·박강현, 쉬는 시간에도 장꾸美]]></title>
         <id>https://v.daum.net/v/20230714010010737</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713180344318"/>
         <updated>2023-07-13T09:11:34.722Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, 차기작은 히어로물? "'캐셔로' 출연 검토중"]]></title>
-        <id>https://v.daum.net/v/20230713175306968</id>
-        <link href="https://v.daum.net/v/20230713175306968"/>
-        <updated>2023-07-13T09:11:34.723Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신은 사형 집행에 찬성하나요?...임지연, '국민사형투표'로 컴백]]></title>
-        <id>https://v.daum.net/v/20230713174030524</id>
-        <link href="https://v.daum.net/v/20230713174030524"/>
-        <updated>2023-07-13T09:11:34.723Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
