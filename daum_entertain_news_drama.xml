@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T10:12:18.883Z</updated>
+    <updated>2023-07-14T11:10:36.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 누명 씌운 정우연에 "짐승만도 못한 것한테 걱정 안 해"]]></title>
+        <id>https://v.daum.net/v/20230714194400915</id>
+        <link href="https://v.daum.net/v/20230714194400915"/>
+        <updated>2023-07-14T11:09:34.000Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연과 신경전 "왜 날 범인으로 몰아"]]></title>
+        <id>https://v.daum.net/v/20230714193330766</id>
+        <link href="https://v.daum.net/v/20230714193330766"/>
+        <updated>2023-07-14T11:09:34.003Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['셀러브리티' 전효성 "20대 때 나 같아…더 나쁜 캐릭터도 욕심"]]></title>
         <id>https://v.daum.net/v/20230714175551766</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230714145938862"/>
         <updated>2023-07-14T06:14:49.648Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘떴다! 캡틴 킴’ 김병만 “비행 용어 외울 때 화장실, 천장에 붙여놔” 열정]]></title>
-        <id>https://v.daum.net/v/20230714145914849</id>
-        <link href="https://v.daum.net/v/20230714145914849"/>
-        <updated>2023-07-14T06:14:49.649Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세' 덱스, '솔로지옥' 또 출연한다…MC로 금의환향]]></title>
-        <id>https://v.daum.net/v/20230714145706800</id>
-        <link href="https://v.daum.net/v/20230714145706800"/>
-        <updated>2023-07-14T06:14:49.653Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
