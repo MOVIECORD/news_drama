@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T16:15:45.411Z</updated>
+    <updated>2023-07-14T17:10:03.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 오정세, "우리 집안이 이 아이를 죽인 거냐?"…김태리와 악귀에 대한 진실 알고 '충격']]></title>
+        <id>https://v.daum.net/v/20230715015401767</id>
+        <link href="https://v.daum.net/v/20230715015401767"/>
+        <updated>2023-07-14T17:09:51.895Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악귀' 김태리, "악귀 만든 사람 이름 알아…최만월 찾아라"라는 김신비의 말에 '혼란']]></title>
         <id>https://v.daum.net/v/20230715010300647</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714203606845"/>
         <updated>2023-07-14T12:20:38.941Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연 재입사 성공→정우연 '전전긍긍']]></title>
-        <id>https://v.daum.net/v/20230714201332500</id>
-        <link href="https://v.daum.net/v/20230714201332500"/>
-        <updated>2023-07-14T12:20:38.941Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
