@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-14T14:10:08.399Z</updated>
+    <updated>2023-07-14T15:11:38.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우리가 죽였어" '악귀' 김해숙, 악귀 만든 배후였다...오정세X김태리 '충격']]></title>
+        <id>https://v.daum.net/v/20230714231831050</id>
+        <link href="https://v.daum.net/v/20230714231831050"/>
+        <updated>2023-07-14T15:11:27.458Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오정세, 악귀 만든 조모 김해숙 죄에 충격‥김태리 시력 이상 ‘악귀’]]></title>
+        <id>https://v.daum.net/v/20230714231419010</id>
+        <link href="https://v.daum.net/v/20230714231419010"/>
+        <updated>2023-07-14T15:11:27.458Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남태현, 마약 재활 시설 생활 "살아갈 자신 없었다..빚만 5억"]]></title>
         <id>https://v.daum.net/v/20230714230509942</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230714194400915"/>
         <updated>2023-07-14T11:09:34.000Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 정우연과 신경전 "왜 날 범인으로 몰아"]]></title>
-        <id>https://v.daum.net/v/20230714193330766</id>
-        <link href="https://v.daum.net/v/20230714193330766"/>
-        <updated>2023-07-14T11:09:34.003Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셀러브리티' 전효성 "20대 때 나 같아…더 나쁜 캐릭터도 욕심"]]></title>
-        <id>https://v.daum.net/v/20230714175551766</id>
-        <link href="https://v.daum.net/v/20230714175551766"/>
-        <updated>2023-07-14T09:11:19.025Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
