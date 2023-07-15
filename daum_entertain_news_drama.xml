@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-15T17:09:39.411Z</updated>
+    <updated>2023-07-15T18:14:11.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 악귀 김태리, "문을 열었네"…오정세-김태리, 위기에 처한 김원해 구할까?]]></title>
+        <id>https://v.daum.net/v/20230716031201049</id>
+        <link href="https://v.daum.net/v/20230716031201049"/>
+        <updated>2023-07-15T18:13:03.453Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 진선규가 악귀 받아들인 이유 알았다…"나도 아빠처럼 그래야 하나" 혼란]]></title>
+        <id>https://v.daum.net/v/20230716024500034</id>
+        <link href="https://v.daum.net/v/20230716024500034"/>
+        <updated>2023-07-15T18:13:03.453Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호♥임윤아, 고백→두번째 동침..”내 마음 받아줄래?”]]></title>
         <id>https://v.daum.net/v/20230716005644897</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230715231728418"/>
         <updated>2023-07-15T15:09:57.978Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 홍경, 악귀에 살해당하나..김태리 "문을 열었네?"]]></title>
-        <id>https://v.daum.net/v/20230715231301390</id>
-        <link href="https://v.daum.net/v/20230715231301390"/>
-        <updated>2023-07-15T15:09:57.979Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 홍경, 귀신 씐 김태리에 살해되나?.."문을 열었네?" 소름]]></title>
-        <id>https://v.daum.net/v/20230715230821363</id>
-        <link href="https://v.daum.net/v/20230715230821363"/>
-        <updated>2023-07-15T14:09:18.934Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
