@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-15T15:10:07.848Z</updated>
+    <updated>2023-07-15T16:13:20.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호♥임윤아, 고백→두번째 동침..”내 마음 받아줄래?”]]></title>
+        <id>https://v.daum.net/v/20230716005644897</id>
+        <link href="https://v.daum.net/v/20230716005644897"/>
+        <updated>2023-07-15T16:13:10.061Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 이준호, ♥임윤아에 정식 고백→또 동침 "처음부터 모든 게 좋았다"]]></title>
+        <id>https://v.daum.net/v/20230716002255825</id>
+        <link href="https://v.daum.net/v/20230716002255825"/>
+        <updated>2023-07-15T16:13:10.061Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호, ♥임윤아에 "내 마음 받아줄래" 고백…달달 입맞춤]]></title>
         <id>https://v.daum.net/v/20230715235654677</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230715230821363"/>
         <updated>2023-07-15T14:09:18.934Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 임윤아에 제대로 삐졌다.."소원대로 사라져줄게"]]></title>
-        <id>https://v.daum.net/v/20230715230736359</id>
-        <link href="https://v.daum.net/v/20230715230736359"/>
-        <updated>2023-07-15T14:09:18.935Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“문을 열었네?” 악귀 김태리에 형사 김원해 목숨 위기 ‘악귀’]]></title>
-        <id>https://v.daum.net/v/20230715230726356</id>
-        <link href="https://v.daum.net/v/20230715230726356"/>
-        <updated>2023-07-15T14:09:18.942Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
