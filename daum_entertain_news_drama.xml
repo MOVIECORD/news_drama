@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-15T09:11:14.583Z</updated>
+    <updated>2023-07-15T10:11:49.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운사기' 천우희x김동욱, 촬영 안할 땐 장꾸 모드 그 자체]]></title>
+        <id>https://v.daum.net/v/20230715181213014</id>
+        <link href="https://v.daum.net/v/20230715181213014"/>
+        <updated>2023-07-15T10:10:46.796Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연이 질투의 화신이 된 이유]]></title>
         <id>https://v.daum.net/v/20230715173213555</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230715143819117"/>
         <updated>2023-07-15T06:14:17.266Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끔찍한 천민자본주의에 일침 날린 김은희 작가의 다음 수는?]]></title>
-        <id>https://v.daum.net/v/20230715140856793</id>
-        <link href="https://v.daum.net/v/20230715140856793"/>
-        <updated>2023-07-15T05:10:55.597Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
