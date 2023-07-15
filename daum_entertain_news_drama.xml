@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-15T03:28:28.641Z</updated>
+    <updated>2023-07-15T04:12:56.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강길우, 김은숙 ‘더 글로리’에 김은희 ‘악귀’까지 섭렵]]></title>
+        <id>https://v.daum.net/v/20230715130330143</id>
+        <link href="https://v.daum.net/v/20230715130330143"/>
+        <updated>2023-07-15T04:12:45.940Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘D.P.’ 조현철 맞아?..'악귀' 특별출연의 좋은 예]]></title>
+        <id>https://v.daum.net/v/20230715124813021</id>
+        <link href="https://v.daum.net/v/20230715124813021"/>
+        <updated>2023-07-15T04:12:45.943Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임윤아 “이준호 등이 태평양” 설렘폭발 키스신 비하인드]]></title>
+        <id>https://v.daum.net/v/20230715124416992</id>
+        <link href="https://v.daum.net/v/20230715124416992"/>
+        <updated>2023-07-15T04:12:45.952Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플러팅 하는 지영산, 피하고 싶은 박주미 '전혀 다른 온도차']]></title>
         <id>https://v.daum.net/v/20230715120105546</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230715090625201"/>
         <updated>2023-07-15T01:01:16.109Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오프닝 2023' 측 "역대급 캐스팅, 믿고 보는 배우들 기대해 달라"]]></title>
-        <id>https://v.daum.net/v/20230715090535193</id>
-        <link href="https://v.daum.net/v/20230715090535193"/>
-        <updated>2023-07-15T01:01:16.109Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 만든 건 오정세 집안이었다…충격 진실 드러난 엔딩]]></title>
-        <id>https://v.daum.net/v/20230715090420174</id>
-        <link href="https://v.daum.net/v/20230715090420174"/>
-        <updated>2023-07-15T01:01:16.112Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥︎임윤아, 첫키스 후폭풍 온다]]></title>
-        <id>https://v.daum.net/v/20230715084022893</id>
-        <link href="https://v.daum.net/v/20230715084022893"/>
-        <updated>2023-07-15T01:01:16.115Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
