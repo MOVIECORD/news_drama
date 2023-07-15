@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-15T08:13:51.437Z</updated>
+    <updated>2023-07-15T09:11:14.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연이 질투의 화신이 된 이유]]></title>
+        <id>https://v.daum.net/v/20230715173213555</id>
+        <link href="https://v.daum.net/v/20230715173213555"/>
+        <updated>2023-07-15T09:10:11.854Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호♥임윤아, 두 번째 동침 '핑크빛 설렘'..김영옥에 들통]]></title>
+        <id>https://v.daum.net/v/20230715172527437</id>
+        <link href="https://v.daum.net/v/20230715172527437"/>
+        <updated>2023-07-15T09:10:11.854Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리 실명 위기, 오정세 실신..충격 과거 후폭풍 몰아친다]]></title>
         <id>https://v.daum.net/v/20230715170930193</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230715140856793"/>
         <updated>2023-07-15T05:10:55.597Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리 실명 위기…父 진선규와 같은 유전병]]></title>
-        <id>https://v.daum.net/v/20230715140709779</id>
-        <link href="https://v.daum.net/v/20230715140709779"/>
-        <updated>2023-07-15T05:10:55.614Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리 실명 위기, 父 진선규 유전 때문이었나]]></title>
-        <id>https://v.daum.net/v/20230715140652775</id>
-        <link href="https://v.daum.net/v/20230715140652775"/>
-        <updated>2023-07-15T05:10:55.618Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
