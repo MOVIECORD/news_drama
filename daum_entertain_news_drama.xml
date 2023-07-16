@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-16T05:10:47.609Z</updated>
+    <updated>2023-07-16T06:14:17.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아린, 성인용품 쇼핑몰 사장 고수에게 과외 받는다]]></title>
+        <id>https://v.daum.net/v/20230716145727634</id>
+        <link href="https://v.daum.net/v/20230716145727634"/>
+        <updated>2023-07-16T06:14:06.879Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['성인용품점 사장' 고수, 아린과 수상한 과외]]></title>
+        <id>https://v.daum.net/v/20230716141952974</id>
+        <link href="https://v.daum.net/v/20230716141952974"/>
+        <updated>2023-07-16T06:14:06.885Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 이준호♥︎임윤아, 열애설은 가짜였지만 열애 자극은 제대로]]></title>
         <id>https://v.daum.net/v/20230716140615758</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230716103934970"/>
         <updated>2023-07-16T03:06:28.733Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악귀 씐 김태리 “문을 열었네?” 섬뜩 엔딩, 최고 13.7%]]></title>
-        <id>https://v.daum.net/v/20230716102156656</id>
-        <link href="https://v.daum.net/v/20230716102156656"/>
-        <updated>2023-07-16T03:06:28.733Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 홍경, 열지 말아야 했는데...김태리 서늘한 미소로 “문을 열었네”]]></title>
-        <id>https://v.daum.net/v/20230716101802601</id>
-        <link href="https://v.daum.net/v/20230716101802601"/>
-        <updated>2023-07-16T03:06:28.734Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
