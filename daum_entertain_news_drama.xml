@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-16T13:16:11.974Z</updated>
+    <updated>2023-07-16T14:10:11.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 이준호, 인생 첫 이코노미 탑승 "♥임윤아 옆이 내 자리"]]></title>
+        <id>https://v.daum.net/v/20230716230836894</id>
+        <link href="https://v.daum.net/v/20230716230836894"/>
+        <updated>2023-07-16T14:09:09.128Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호♥임윤아, 시도때도 없는 스킨십 "네 옆이 내 자리"]]></title>
+        <id>https://v.daum.net/v/20230716225205812</id>
+        <link href="https://v.daum.net/v/20230716225205812"/>
+        <updated>2023-07-16T14:09:09.136Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['진짜가 나타났다' 백진희, 홀로 아이 출산... 안재현과 1년 만에 재회]]></title>
         <id>https://v.daum.net/v/20230716212830080</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230716160101601"/>
         <updated>2023-07-16T07:10:10.640Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아씨 두리안' 박주미, 단아한데 코믹하다]]></title>
-        <id>https://v.daum.net/v/20230716154642358</id>
-        <link href="https://v.daum.net/v/20230716154642358"/>
-        <updated>2023-07-16T07:10:10.641Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경 김원해, 누군가는 죽는다? 김태리는 왜 강수대로 향했나]]></title>
-        <id>https://v.daum.net/v/20230716154237312</id>
-        <link href="https://v.daum.net/v/20230716154237312"/>
-        <updated>2023-07-16T07:10:10.643Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
