@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-17T16:17:19.255Z</updated>
+    <updated>2023-07-17T17:11:28.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사냥개들' 김주환 감독 "훌륭한 팀워크가 좋은 결과 안겨줬어요"]]></title>
+        <id>https://v.daum.net/v/20230718011740679</id>
+        <link href="https://v.daum.net/v/20230718011740679"/>
+        <updated>2023-07-17T17:10:25.234Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 천우희, 김동욱 작전으로 검찰청 탈출]]></title>
         <id>https://v.daum.net/v/20230717221124367</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230717174750476"/>
         <updated>2023-07-17T09:12:16.180Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규, '학폭 논란' 조병규와 호흡 심경 "'좋다'는 느낌받아"]]></title>
-        <id>https://v.daum.net/v/20230717174654452</id>
-        <link href="https://v.daum.net/v/20230717174654452"/>
-        <updated>2023-07-17T09:12:16.180Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
