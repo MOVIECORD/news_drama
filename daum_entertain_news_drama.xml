@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-17T05:12:35.955Z</updated>
+    <updated>2023-07-17T06:15:39.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진선규 “‘경소문2’ 합류 부담감 당연해, 금방 설렘으로 바뀌었다”]]></title>
+        <id>https://v.daum.net/v/20230717151510061</id>
+        <link href="https://v.daum.net/v/20230717151510061"/>
+        <updated>2023-07-17T06:15:28.632Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박성훈 "아직도 '재준씨'라고...'더 글로리' 파급력 엄청 나"]]></title>
+        <id>https://v.daum.net/v/20230717145012854</id>
+        <link href="https://v.daum.net/v/20230717145012854"/>
+        <updated>2023-07-17T06:15:28.636Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남남' 자매 같은 모녀 전혜진X최수영 케미 기대]]></title>
+        <id>https://v.daum.net/v/20230717143051850</id>
+        <link href="https://v.daum.net/v/20230717143051850"/>
+        <updated>2023-07-17T06:15:28.641Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무빙' 조인성, 첫 초능력자 연기…"하나 연기하면 9가지 보태줘"]]></title>
+        <id>https://v.daum.net/v/20230717142239404</id>
+        <link href="https://v.daum.net/v/20230717142239404"/>
+        <updated>2023-07-17T06:15:28.642Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이생잘’ 신혜선-안보현, ‘그가 잊혀질까 두렵다!’]]></title>
         <id>https://v.daum.net/v/20230717140417500</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230717131023842"/>
         <updated>2023-07-17T04:13:51.444Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜진·최수영 모녀, '남남'인듯 '남남' 아닌 썸과 사랑 이야기]]></title>
-        <id>https://v.daum.net/v/20230717125240499</id>
-        <link href="https://v.daum.net/v/20230717125240499"/>
-        <updated>2023-07-17T04:13:51.445Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘기적의 형제’ 오만석 둘러싼 의문점, 배현성 가방 왜 훔쳐갔나]]></title>
-        <id>https://v.daum.net/v/20230717124717376</id>
-        <link href="https://v.daum.net/v/20230717124717376"/>
-        <updated>2023-07-17T04:13:51.451Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이렇게까지 해도 되나"..'남남', 전혜진·최수영이 모녀라니]]></title>
-        <id>https://v.daum.net/v/20230717124530342</id>
-        <link href="https://v.daum.net/v/20230717124530342"/>
-        <updated>2023-07-17T04:13:51.452Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모녀 싱크로율 최고"···'남남' 전혜진·최수영이 전할 공감·힐링]]></title>
-        <id>https://v.daum.net/v/20230717124424318</id>
-        <link href="https://v.daum.net/v/20230717124424318"/>
-        <updated>2023-07-17T04:13:51.461Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
