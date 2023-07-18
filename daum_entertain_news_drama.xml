@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-18T13:18:00.009Z</updated>
+    <updated>2023-07-18T14:10:30.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이로운사기' 천우희, 출소 후 김동욱과 해피엔딩..김태훈은 검거]]></title>
+        <id>https://v.daum.net/v/20230718230809211</id>
+        <link href="https://v.daum.net/v/20230718230809211"/>
+        <updated>2023-07-18T14:10:18.178Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이로운 사기' 김태훈, 천우희 목 조르며 "넌 절대 못 벗어나"]]></title>
         <id>https://v.daum.net/v/20230718221532731</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718195000731"/>
         <updated>2023-07-18T11:09:18.881Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['D.P.2' 여전한 군대+준호열과 함께 더 깊고 뜨거워질 준비? 난 OK!]]></title>
-        <id>https://v.daum.net/v/20230718193400448</id>
-        <link href="https://v.daum.net/v/20230718193400448"/>
-        <updated>2023-07-18T11:09:18.881Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
