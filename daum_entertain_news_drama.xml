@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-19T09:11:33.885Z</updated>
+    <updated>2023-07-19T10:10:56.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청룡어워즈' 주인공은 더 글로리? 수리남·카지노도 있다]]></title>
+        <id>https://v.daum.net/v/20230719181030716</id>
+        <link href="https://v.daum.net/v/20230719181030716"/>
+        <updated>2023-07-19T10:10:45.996Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BL '따라바람', 네이버 시리즈온 8월 2일 공개]]></title>
         <id>https://v.daum.net/v/20230719180922675</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230719154140107"/>
         <updated>2023-07-19T07:09:51.439Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이로운 사기' 김동욱 "천우희, 최고의 배우다…연기·인성 부족함 없어"]]></title>
-        <id>https://v.daum.net/v/20230719153744960</id>
-        <link href="https://v.daum.net/v/20230719153744960"/>
-        <updated>2023-07-19T07:09:51.440Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
