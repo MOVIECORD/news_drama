@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-19T10:10:56.185Z</updated>
+    <updated>2023-07-19T11:09:16.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한번 보면 빠진다" 정우·배현성 '기적의 형제', 시청률에 가려진 작품성]]></title>
+        <id>https://v.daum.net/v/20230719200111783</id>
+        <link href="https://v.daum.net/v/20230719200111783"/>
+        <updated>2023-07-19T11:09:05.015Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 친부=김유석 알았다... "그럴 리 없어" 현실부정]]></title>
+        <id>https://v.daum.net/v/20230719195330551</id>
+        <link href="https://v.daum.net/v/20230719195330551"/>
+        <updated>2023-07-19T11:09:05.015Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천우희 "데뷔 20년차, 탄탄대로는 아니었지만…"]]></title>
+        <id>https://v.daum.net/v/20230719195001477</id>
+        <link href="https://v.daum.net/v/20230719195001477"/>
+        <updated>2023-07-19T11:09:05.027Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청룡어워즈' 주인공은 더 글로리? 수리남·카지노도 있다]]></title>
         <id>https://v.daum.net/v/20230719181030716</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230719155057462"/>
         <updated>2023-07-19T07:09:51.436Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 김혜수 "염정아, 내 약점 보완해주는 배우…경이로운 경험"]]></title>
-        <id>https://v.daum.net/v/20230719155035454</id>
-        <link href="https://v.daum.net/v/20230719155035454"/>
-        <updated>2023-07-19T07:09:51.436Z</updated>
-        <content type="html"><![CDATA[스포티비뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 여자 사이코야?" 한지민X이민기X수호, 코믹 광기 저세상 텐션]]></title>
-        <id>https://v.daum.net/v/20230719155016436</id>
-        <link href="https://v.daum.net/v/20230719155016436"/>
-        <updated>2023-07-19T07:09:51.437Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순정복서' 김소혜, 이상엽 향해 분노의 라이트 훅]]></title>
-        <id>https://v.daum.net/v/20230719154140107</id>
-        <link href="https://v.daum.net/v/20230719154140107"/>
-        <updated>2023-07-19T07:09:51.439Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
