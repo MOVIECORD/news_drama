@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-20T20:10:45.459Z</updated>
+    <updated>2023-07-20T21:08:56.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민, '금토극의 남자'..위기의 MBC 금토극 구원해볼까]]></title>
+        <id>https://v.daum.net/v/20230721053201613</id>
+        <link href="https://v.daum.net/v/20230721053201613"/>
+        <updated>2023-07-20T21:08:45.177Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘형사록2’ 이성민의 예비된 통곡 "내 탓이오!"]]></title>
         <id>https://v.daum.net/v/20230721010036453</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230720223122337"/>
         <updated>2023-07-20T14:10:21.082Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 11년차 진서연 “子 위해 제주도 이주, 공부? 안 시켜요”]]></title>
-        <id>https://v.daum.net/v/20230720223015327</id>
-        <link href="https://v.daum.net/v/20230720223015327"/>
-        <updated>2023-07-20T14:10:21.089Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
