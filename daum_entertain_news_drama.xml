@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-20T04:13:08.251Z</updated>
+    <updated>2023-07-20T05:10:53.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 작가 "남궁민X안은진, 사랑에 빠진 인간이 어디까지 할 수 있는가’"]]></title>
+        <id>https://v.daum.net/v/20230720134320387</id>
+        <link href="https://v.daum.net/v/20230720134320387"/>
+        <updated>2023-07-20T05:09:51.356Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희재 "첫 드라마, 선배님들에 많이 배워 …영광이었다"]]></title>
+        <id>https://v.daum.net/v/20230720133956262</id>
+        <link href="https://v.daum.net/v/20230720133956262"/>
+        <updated>2023-07-20T05:09:51.358Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 한지완, 워킹맘→냉미녀 오가는 1인 2역]]></title>
+        <id>https://v.daum.net/v/20230720133126005</id>
+        <link href="https://v.daum.net/v/20230720133126005"/>
+        <updated>2023-07-20T05:09:51.359Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민, 이민기와 열애 의혹.."저 얼굴 봐요" 일축]]></title>
         <id>https://v.daum.net/v/20230720130855420</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230720111938999"/>
         <updated>2023-07-20T03:10:32.996Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 가고 김래원 온다..'소옆경2' 3인3색 열정 포스터]]></title>
-        <id>https://v.daum.net/v/20230720110323143</id>
-        <link href="https://v.daum.net/v/20230720110323143"/>
-        <updated>2023-07-20T02:03:50.843Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태리 ‘이 연애는 불가항력’ 캐스팅, 로운과 절친 케미]]></title>
-        <id>https://v.daum.net/v/20230720110007881</id>
-        <link href="https://v.daum.net/v/20230720110007881"/>
-        <updated>2023-07-20T02:03:50.843Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹드라마 '준과 준', 화려한 OST 라인업]]></title>
-        <id>https://v.daum.net/v/20230720105537674</id>
-        <link href="https://v.daum.net/v/20230720105537674"/>
-        <updated>2023-07-20T02:03:50.843Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
