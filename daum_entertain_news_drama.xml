@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-21T12:18:51.383Z</updated>
+    <updated>2023-07-21T13:15:07.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[수지X양세종 '이두나!' 10월 22일 넷플릭스 공개..글로벌 공략]]></title>
+        <title type="html"><![CDATA['악귀' 씐 김태리, 김원해도 죽였다]]></title>
+        <id>https://v.daum.net/v/20230721221054858</id>
+        <link href="https://v.daum.net/v/20230721221054858"/>
+        <updated>2023-07-21T13:14:56.015Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김원해 사망 충격..김태리 "사람 하나 죽는게 뭐 어때서?" 섬뜩]]></title>
+        <id>https://v.daum.net/v/20230721220833790</id>
+        <link href="https://v.daum.net/v/20230721220833790"/>
+        <updated>2023-07-21T13:14:56.016Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기적의 형제'는 다르다..배현성은 왜 과거 아닌 미래로 타임슬립을?]]></title>
+        <id>https://v.daum.net/v/20230721212919164</id>
+        <link href="https://v.daum.net/v/20230721212919164"/>
+        <updated>2023-07-21T13:14:56.019Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지X양세종 '이두나!' 10월 20일 넷플릭스 공개..글로벌 공략]]></title>
         <id>https://v.daum.net/v/20230721211200971</id>
         <link href="https://v.daum.net/v/20230721211200971"/>
         <updated>2023-07-21T12:18:40.152Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230721190809049"/>
         <updated>2023-07-21T10:10:30.090Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예빈, ‘밤이 되었습니다’ 캐스팅..김우석과 호흡]]></title>
-        <id>https://v.daum.net/v/20230721181019023</id>
-        <link href="https://v.daum.net/v/20230721181019023"/>
-        <updated>2023-07-21T09:10:35.870Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시즌7까지 노리는 '경소문2', 악바리 조병규 업고 tvN서 역사 쓸까]]></title>
-        <id>https://v.daum.net/v/20230721180302879</id>
-        <link href="https://v.daum.net/v/20230721180302879"/>
-        <updated>2023-07-21T09:10:35.880Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고민마저 재밌었던 시간"…'행복배틀' 이엘부터 박효주까지, 5人 종영소감]]></title>
-        <id>https://v.daum.net/v/20230721175939786</id>
-        <link href="https://v.daum.net/v/20230721175939786"/>
-        <updated>2023-07-21T09:10:35.883Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
