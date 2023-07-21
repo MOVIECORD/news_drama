@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-21T10:11:32.827Z</updated>
+    <updated>2023-07-21T11:08:54.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 가면 쓴채 두 얼굴 연기..전혜연 '혼란']]></title>
+        <id>https://v.daum.net/v/20230721200225958</id>
+        <link href="https://v.daum.net/v/20230721200225958"/>
+        <updated>2023-07-21T11:08:42.359Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 고은미, 가짜뉴스 피해 전혜연에 막말 "넌 사람도 아냐"]]></title>
+        <id>https://v.daum.net/v/20230721193601518</id>
+        <link href="https://v.daum.net/v/20230721193601518"/>
+        <updated>2023-07-21T11:08:42.359Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[염혜란 "김히어라, '더 글로리' 때도 사람 같지 않았는데..."]]></title>
+        <id>https://v.daum.net/v/20230721193003420</id>
+        <link href="https://v.daum.net/v/20230721193003420"/>
+        <updated>2023-07-21T11:08:42.379Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김무준, ‘연인’ 출연확정…남궁민과 호흡]]></title>
         <id>https://v.daum.net/v/20230721190809049</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230721173625067"/>
         <updated>2023-07-21T09:10:35.922Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지X양세종 ‘이두나!’ 10월20일 공개? 넷플릭스 측 “공개일 미정”]]></title>
-        <id>https://v.daum.net/v/20230721170507202</id>
-        <link href="https://v.daum.net/v/20230721170507202"/>
-        <updated>2023-07-21T08:12:46.972Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민 ‘엉덩이 만지는 초능력자’ 왜 선택했나]]></title>
-        <id>https://v.daum.net/v/20230721164021375</id>
-        <link href="https://v.daum.net/v/20230721164021375"/>
-        <updated>2023-07-21T08:12:46.974Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 임윤아, 러블리 200% 담아낸 '천사랑 A to Z']]></title>
-        <id>https://v.daum.net/v/20230721163024101</id>
-        <link href="https://v.daum.net/v/20230721163024101"/>
-        <updated>2023-07-21T08:12:46.975Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
