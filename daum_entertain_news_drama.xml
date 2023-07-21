@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-21T15:10:47.559Z</updated>
+    <updated>2023-07-21T16:12:44.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 김대호, 인기 체감 "초등생이 알아봐"→기안84 거울치료 시킨 사연은?]]></title>
+        <id>https://v.daum.net/v/20230722002630955</id>
+        <link href="https://v.daum.net/v/20230722002630955"/>
+        <updated>2023-07-21T16:12:33.275Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리x오정세, '악귀' 정체 알았다..."너 목단이 아니지?"]]></title>
         <id>https://v.daum.net/v/20230721232754457</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230721204250553"/>
         <updated>2023-07-21T12:18:40.160Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종원, 이채영과 동맹 맺었지만…결국 대표 이사 '해임']]></title>
-        <id>https://v.daum.net/v/20230721203836495</id>
-        <link href="https://v.daum.net/v/20230721203836495"/>
-        <updated>2023-07-21T12:18:40.167Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
