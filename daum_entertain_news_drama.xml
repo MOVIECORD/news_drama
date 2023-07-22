@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T02:03:23.428Z</updated>
+    <updated>2023-07-22T03:10:09.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["악에 받쳤다"..조병규, 위풍당당 '경이로운 소문2' 복귀 이유]]></title>
+        <id>https://v.daum.net/v/20230722114723466</id>
+        <link href="https://v.daum.net/v/20230722114723466"/>
+        <updated>2023-07-22T03:09:58.744Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넘버스' 김명수·최진혁, 최민수 악행에 분노 폭발…뒤통수 '얼얼']]></title>
+        <id>https://v.daum.net/v/20230722112251182</id>
+        <link href="https://v.daum.net/v/20230722112251182"/>
+        <updated>2023-07-22T03:09:58.747Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주미-이다연, 포옹하고 오열하는 고부]]></title>
         <id>https://v.daum.net/v/20230722101523482</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722084654514"/>
         <updated>2023-07-22T00:54:36.661Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 김원해 죽음에 "내가 했다"→홍경·오정세, 악귀  정체 파악하나]]></title>
-        <id>https://v.daum.net/v/20230722084417491</id>
-        <link href="https://v.daum.net/v/20230722084417491"/>
-        <updated>2023-07-22T00:54:36.663Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호X임윤아, 일분일초도 떨어지기 싫어! 퇴근도 함께]]></title>
-        <id>https://v.daum.net/v/20230722083548406</id>
-        <link href="https://v.daum.net/v/20230722083548406"/>
-        <updated>2023-07-22T00:54:36.665Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
