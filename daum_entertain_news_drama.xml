@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T05:09:42.875Z</updated>
+    <updated>2023-07-22T06:12:07.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아씨 두리안’ 김민준vs지영산, 신분차 뛰어넘는 전생 신경전]]></title>
+        <id>https://v.daum.net/v/20230722150712204</id>
+        <link href="https://v.daum.net/v/20230722150712204"/>
+        <updated>2023-07-22T06:11:56.071Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선x이채민, 싸늘한 맞대면..최초 생 인연 밝혀진다]]></title>
+        <id>https://v.daum.net/v/20230722145615041</id>
+        <link href="https://v.daum.net/v/20230722145615041"/>
+        <updated>2023-07-22T06:11:56.077Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘악귀’ 오정세 불길한 대사 “죽는 한 있어도 이름 알아낼 것”]]></title>
+        <id>https://v.daum.net/v/20230722141722605</id>
+        <link href="https://v.daum.net/v/20230722141722605"/>
+        <updated>2023-07-22T06:11:56.084Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호, 후계자로 인정받을 첫 심판대..킹호텔 100주년 파티 D-DAY]]></title>
         <id>https://v.daum.net/v/20230722133554271</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230722095012169"/>
         <updated>2023-07-22T00:54:36.638Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['행복배틀' 김영훈 "차예련 두고 불륜, 욕 해주셔서 감사해요"]]></title>
-        <id>https://v.daum.net/v/20230722095003168</id>
-        <link href="https://v.daum.net/v/20230722095003168"/>
-        <updated>2023-07-22T00:54:36.643Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고통받는 김태리, 악귀 도발에 흔들..디테일한 감정 열연]]></title>
-        <id>https://v.daum.net/v/20230722094542123</id>
-        <link href="https://v.daum.net/v/20230722094542123"/>
-        <updated>2023-07-22T00:54:36.645Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소방서 옆 경찰서 그리고 국과수', 초호화 특별출연+더 커진 스케일]]></title>
-        <id>https://v.daum.net/v/20230722093724028</id>
-        <link href="https://v.daum.net/v/20230722093724028"/>
-        <updated>2023-07-22T00:54:36.647Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
