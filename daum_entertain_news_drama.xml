@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T03:10:09.300Z</updated>
+    <updated>2023-07-22T04:11:46.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악귀보다 무서운 사람들?..'소옆경2', 최악의 범죄자들과 돌아온다]]></title>
+        <id>https://v.daum.net/v/20230722122918836</id>
+        <link href="https://v.daum.net/v/20230722122918836"/>
+        <updated>2023-07-22T04:11:36.775Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕국을 지키려는 'D.P. 2', 반란을 노리는 '무빙']]></title>
+        <id>https://v.daum.net/v/20230722122352805</id>
+        <link href="https://v.daum.net/v/20230722122352805"/>
+        <updated>2023-07-22T04:11:36.775Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["악에 받쳤다"..조병규, 위풍당당 '경이로운 소문2' 복귀 이유]]></title>
         <id>https://v.daum.net/v/20230722114723466</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722091350810"/>
         <updated>2023-07-22T00:54:36.657Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 아니면 불가능..악귀 도발에 흔들린 감정까지]]></title>
-        <id>https://v.daum.net/v/20230722090949773</id>
-        <link href="https://v.daum.net/v/20230722090949773"/>
-        <updated>2023-07-22T00:54:36.659Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 사내연애 쉽지 않네…퇴근길 비밀 발각? '패닉']]></title>
-        <id>https://v.daum.net/v/20230722084654514</id>
-        <link href="https://v.daum.net/v/20230722084654514"/>
-        <updated>2023-07-22T00:54:36.661Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
