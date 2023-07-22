@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T15:09:25.489Z</updated>
+    <updated>2023-07-22T16:11:34.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키스하던 이준호♥임윤아, ‘비밀연애’ 들켰다..고원희X김가은 ‘경악’]]></title>
+        <id>https://v.daum.net/v/20230723010358792</id>
+        <link href="https://v.daum.net/v/20230723010358792"/>
+        <updated>2023-07-22T16:11:24.210Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 이준호, 청소 직원에 축사 부탁..김선영 분노]]></title>
         <id>https://v.daum.net/v/20230723000612647</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722223935224"/>
         <updated>2023-07-22T14:08:06.586Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오정세, "너도 똑같이 죽어"라는 김해숙에 분노.."내 손으로 악귀 없앨 것"]]></title>
-        <id>https://v.daum.net/v/20230722223504180</id>
-        <link href="https://v.daum.net/v/20230722223504180"/>
-        <updated>2023-07-22T14:08:06.587Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
