@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T08:11:28.219Z</updated>
+    <updated>2023-07-22T09:09:26.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김원해 죽음에 충격 받은 홍경..김태리x오정세와 공조 '각성']]></title>
+        <id>https://v.daum.net/v/20230722175821015</id>
+        <link href="https://v.daum.net/v/20230722175821015"/>
+        <updated>2023-07-22T09:09:14.662Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바른 청년' 김명수 맞아? 거리 난투극에 상처 가득 '처절한 방황']]></title>
+        <id>https://v.daum.net/v/20230722174006839</id>
+        <link href="https://v.daum.net/v/20230722174006839"/>
+        <updated>2023-07-22T09:09:14.662Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두 눈 부릅뜬 돌쇠 김민준vs서슬 퍼런 지영산, 박주미 두고 ‘잔인한 신경전’]]></title>
         <id>https://v.daum.net/v/20230722162752051</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722112251182"/>
         <updated>2023-07-22T03:09:58.747Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주미-이다연, 포옹하고 오열하는 고부]]></title>
-        <id>https://v.daum.net/v/20230722101523482</id>
-        <link href="https://v.daum.net/v/20230722101523482"/>
-        <updated>2023-07-22T02:02:20.856Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리 “너 목단이 아니지?”…예측 뒤엎은 반전]]></title>
-        <id>https://v.daum.net/v/20230722100000242</id>
-        <link href="https://v.daum.net/v/20230722100000242"/>
-        <updated>2023-07-22T02:02:20.857Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
