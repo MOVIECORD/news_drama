@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T07:08:24.268Z</updated>
+    <updated>2023-07-22T08:11:28.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두 눈 부릅뜬 돌쇠 김민준vs서슬 퍼런 지영산, 박주미 두고 ‘잔인한 신경전’]]></title>
+        <id>https://v.daum.net/v/20230722162752051</id>
+        <link href="https://v.daum.net/v/20230722162752051"/>
+        <updated>2023-07-22T08:11:16.495Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연→원지안, 완벽 팀워크…눈빛만 봐도 척척]]></title>
         <id>https://v.daum.net/v/20230722152852411</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722100000242"/>
         <updated>2023-07-22T02:02:20.857Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민수 악행 시대를 초월, 김명수·최진혁 분노]]></title>
-        <id>https://v.daum.net/v/20230722095104186</id>
-        <link href="https://v.daum.net/v/20230722095104186"/>
-        <updated>2023-07-22T00:54:36.636Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
