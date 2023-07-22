@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T04:11:46.668Z</updated>
+    <updated>2023-07-22T05:09:42.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 후계자로 인정받을 첫 심판대..킹호텔 100주년 파티 D-DAY]]></title>
+        <id>https://v.daum.net/v/20230722133554271</id>
+        <link href="https://v.daum.net/v/20230722133554271"/>
+        <updated>2023-07-22T05:09:32.054Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호, 후계자 심판대 선다…스마일퀸 임윤아 지원사격]]></title>
+        <id>https://v.daum.net/v/20230722133446260</id>
+        <link href="https://v.daum.net/v/20230722133446260"/>
+        <updated>2023-07-22T05:09:32.055Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이생잘' 안보현 "서하야 안녕 행복해"]]></title>
+        <id>https://v.daum.net/v/20230722132721195</id>
+        <link href="https://v.daum.net/v/20230722132721195"/>
+        <updated>2023-07-22T05:09:32.055Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악귀보다 무서운 사람들?..'소옆경2', 최악의 범죄자들과 돌아온다]]></title>
         <id>https://v.daum.net/v/20230722122918836</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230722093724028"/>
         <updated>2023-07-22T00:54:36.647Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 김대호, 기안84도 경악케 한 위생 파괴자]]></title>
-        <id>https://v.daum.net/v/20230722093205977</id>
-        <link href="https://v.daum.net/v/20230722093205977"/>
-        <updated>2023-07-22T00:54:36.652Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너 목단이 아니지?” 김태리 확신 엔딩..소름 끼치는 반전]]></title>
-        <id>https://v.daum.net/v/20230722092923947</id>
-        <link href="https://v.daum.net/v/20230722092923947"/>
-        <updated>2023-07-22T00:54:36.655Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너 목단이 아니지?"… '악귀' 역대급 반전 엔딩]]></title>
-        <id>https://v.daum.net/v/20230722091350810</id>
-        <link href="https://v.daum.net/v/20230722091350810"/>
-        <updated>2023-07-22T00:54:36.657Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
