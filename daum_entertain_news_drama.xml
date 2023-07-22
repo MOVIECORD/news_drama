@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T17:08:39.921Z</updated>
+    <updated>2023-07-22T18:12:13.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 김해숙에게 악귀 진짜 이름 알아냈다…"약속할게, 향이야"]]></title>
+        <id>https://v.daum.net/v/20230723030900024</id>
+        <link href="https://v.daum.net/v/20230723030900024"/>
+        <updated>2023-07-22T18:11:10.154Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 박지영, 진선규와 같은 말 하는 김태리에 "네가 왜 그 말을 해?" 충격]]></title>
+        <id>https://v.daum.net/v/20230723023000930</id>
+        <link href="https://v.daum.net/v/20230723023000930"/>
+        <updated>2023-07-22T18:11:10.157Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키스하던 이준호♥임윤아, ‘비밀연애’ 들켰다..고원희X김가은 ‘경악’]]></title>
         <id>https://v.daum.net/v/20230723010358792</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722230106332"/>
         <updated>2023-07-22T14:08:06.581Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 시도때도 없는 ‘달달함’..”보고싶어서 그래”]]></title>
-        <id>https://v.daum.net/v/20230722225735297</id>
-        <link href="https://v.daum.net/v/20230722225735297"/>
-        <updated>2023-07-22T14:08:06.581Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이번 생도’ 신혜선, 안보현 아닌 이채민에 복수하려 환생 ‘반전’]]></title>
-        <id>https://v.daum.net/v/20230722223935224</id>
-        <link href="https://v.daum.net/v/20230722223935224"/>
-        <updated>2023-07-22T14:08:06.586Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
