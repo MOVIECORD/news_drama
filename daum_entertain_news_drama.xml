@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-22T06:12:07.033Z</updated>
+    <updated>2023-07-22T07:08:24.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥택연→원지안, 완벽 팀워크…눈빛만 봐도 척척]]></title>
+        <id>https://v.daum.net/v/20230722152852411</id>
+        <link href="https://v.daum.net/v/20230722152852411"/>
+        <updated>2023-07-22T07:08:12.806Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리에 붙은 악귀의 폭주..이번엔 母박지영 노린다]]></title>
+        <id>https://v.daum.net/v/20230722151902313</id>
+        <link href="https://v.daum.net/v/20230722151902313"/>
+        <updated>2023-07-22T07:08:12.807Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아씨 두리안’ 김민준vs지영산, 신분차 뛰어넘는 전생 신경전]]></title>
         <id>https://v.daum.net/v/20230722150712204</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722095104186"/>
         <updated>2023-07-22T00:54:36.636Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영훈 "고창석♥이정은 신혼집서 살기도…극단 같이 만들었죠"]]></title>
-        <id>https://v.daum.net/v/20230722095018171</id>
-        <link href="https://v.daum.net/v/20230722095018171"/>
-        <updated>2023-07-22T00:54:36.637Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영훈 "목회자를 꿈꿨는데...뇌사상태에 빠진 뒤 배우로"]]></title>
-        <id>https://v.daum.net/v/20230722095012169</id>
-        <link href="https://v.daum.net/v/20230722095012169"/>
-        <updated>2023-07-22T00:54:36.638Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
