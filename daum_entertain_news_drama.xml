@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-23T13:11:56.383Z</updated>
+    <updated>2023-07-23T14:08:23.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이생잘' 안보현, 기억 잃은 신혜선과 재회 "이번 생 첫 번째 고백…사귀자"]]></title>
+        <id>https://v.daum.net/v/20230723230512044</id>
+        <link href="https://v.daum.net/v/20230723230512044"/>
+        <updated>2023-07-23T14:08:10.703Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호, 임윤아 친구들에 정체 공개…"싹수 노란 본부장이 나"]]></title>
+        <id>https://v.daum.net/v/20230723230127036</id>
+        <link href="https://v.daum.net/v/20230723230127036"/>
+        <updated>2023-07-23T14:08:10.706Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호 "나=싹수 노란 낙하산, 회장님 子", 비밀연애 청문회서 고백]]></title>
+        <id>https://v.daum.net/v/20230723224733971</id>
+        <link href="https://v.daum.net/v/20230723224733971"/>
+        <updated>2023-07-23T14:08:10.709Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 '이생잘' 안보현, “딱 세 번만 고백할 것… 사귀자” 기억 잃은 신혜선에 다시 고백]]></title>
+        <id>https://v.daum.net/v/20230723224720970</id>
+        <link href="https://v.daum.net/v/20230723224720970"/>
+        <updated>2023-07-23T14:08:10.712Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이생잘' 신혜선, 하윤경 죽인 이채민 용서 "이번 생이 중요한 것"]]></title>
+        <id>https://v.daum.net/v/20230723222028833</id>
+        <link href="https://v.daum.net/v/20230723222028833"/>
+        <updated>2023-07-23T14:08:10.727Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이생잘' 신혜선, 안보현에 눈물 젖은 입맞춤 "당신은 계속 좋은 사람이었다"]]></title>
         <id>https://v.daum.net/v/20230723220322672</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230723200117534"/>
         <updated>2023-07-23T11:07:52.753Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민도 불안하다…흥행작 없는 MBC, 악플보다 무서운 무관심의 굴욕]]></title>
-        <id>https://v.daum.net/v/20230723200109533</id>
-        <link href="https://v.daum.net/v/20230723200109533"/>
-        <updated>2023-07-23T11:07:52.756Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남남' 새로운 모녀관계 제시···소소하고 따듯하다]]></title>
-        <id>https://v.daum.net/v/20230723193905214</id>
-        <link href="https://v.daum.net/v/20230723193905214"/>
-        <updated>2023-07-23T11:07:52.756Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“받았다!” 악귀 목소리 김태리 아니었다, 의외의 인물 궁금증 폭발]]></title>
-        <id>https://v.daum.net/v/20230723165706227</id>
-        <link href="https://v.daum.net/v/20230723165706227"/>
-        <updated>2023-07-23T08:12:11.506Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우정원 "김혜수, '자기야'라고 불러…태양 같은 존재감"]]></title>
-        <id>https://v.daum.net/v/20230723155017255</id>
-        <link href="https://v.daum.net/v/20230723155017255"/>
-        <updated>2023-07-23T07:09:17.797Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우정원 "이보영 눈물에 깜짝…이엘·박효주, 사적으로 만나기도"]]></title>
-        <id>https://v.daum.net/v/20230723155009250</id>
-        <link href="https://v.daum.net/v/20230723155009250"/>
-        <updated>2023-07-23T07:09:17.800Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
