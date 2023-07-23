@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-23T15:09:15.443Z</updated>
+    <updated>2023-07-23T16:11:38.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이수빈과 올해 안으로 결혼해”..임윤아, ♥이준호 정략결혼에 ‘충격’]]></title>
+        <id>https://v.daum.net/v/20230724005020614</id>
+        <link href="https://v.daum.net/v/20230724005020614"/>
+        <updated>2023-07-23T16:11:28.583Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아 "이준호, 불안·서운하게 안 해…그동안 바랐던 사람"]]></title>
         <id>https://v.daum.net/v/20230723235109260</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230723212230273"/>
         <updated>2023-07-23T13:10:53.724Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영, 백진희 찾다가 강부자 거짓말 알았다 ‘의심’]]></title>
-        <id>https://v.daum.net/v/20230723210701106</id>
-        <link href="https://v.daum.net/v/20230723210701106"/>
-        <updated>2023-07-23T12:17:06.368Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
