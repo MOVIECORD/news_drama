@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-24T12:19:15.996Z</updated>
+    <updated>2023-07-24T13:15:13.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정 맞아? 퀭한 얼굴·다크서클…충격 변신]]></title>
+        <id>https://v.daum.net/v/20230724213132752</id>
+        <link href="https://v.daum.net/v/20230724213132752"/>
+        <updated>2023-07-24T13:15:00.797Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이응경, 김시후 뺨 때리며 분노 "네가 어떻게 우리 미래한테"]]></title>
+        <id>https://v.daum.net/v/20230724212801712</id>
+        <link href="https://v.daum.net/v/20230724212801712"/>
+        <updated>2023-07-24T13:15:00.811Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금이야옥이야' 이응경, 윤다영 농락 김시후 따귀 응징 "다 끝났다"]]></title>
         <id>https://v.daum.net/v/20230724210700486</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230724174051738"/>
         <updated>2023-07-24T09:10:42.146Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하윤경 “과감한 ‘이생잘’ 결말 만족..‘우영우’ 부담 無, 다신 없을 행운”]]></title>
-        <id>https://v.daum.net/v/20230724174019720</id>
-        <link href="https://v.daum.net/v/20230724174019720"/>
-        <updated>2023-07-24T09:10:42.148Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아씨 두리안' 박주미♥︎김민준 or 지영산, 로맨스 대형 떡밥 회수 남았다→섬뜩 엔딩 주목]]></title>
-        <id>https://v.daum.net/v/20230724172450230</id>
-        <link href="https://v.daum.net/v/20230724172450230"/>
-        <updated>2023-07-24T09:10:42.148Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
