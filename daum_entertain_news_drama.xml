@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-25T06:18:26.960Z</updated>
+    <updated>2023-07-25T07:11:01.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세영, 사카구치 켄타로 만날까 "'사랑 후에 오는 것들' 제안 받아"]]></title>
+        <id>https://v.daum.net/v/20230725160123919</id>
+        <link href="https://v.daum.net/v/20230725160123919"/>
+        <updated>2023-07-25T07:09:58.191Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘기적의형제’ 제작진 “정우 배현성, 카메라 꺼지면 장꾸모드 돌변”]]></title>
+        <id>https://v.daum.net/v/20230725155000332</id>
+        <link href="https://v.daum.net/v/20230725155000332"/>
+        <updated>2023-07-25T07:09:58.193Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기적의 형제' 정우x배현성, 열정으로 빚어낸 '기적'의 모먼트]]></title>
+        <id>https://v.daum.net/v/20230725153236535</id>
+        <link href="https://v.daum.net/v/20230725153236535"/>
+        <updated>2023-07-25T07:09:58.194Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오정세, 김태리 이어 박보검 만날까..'굿보이' 출연]]></title>
+        <id>https://v.daum.net/v/20230725151835980</id>
+        <link href="https://v.daum.net/v/20230725151835980"/>
+        <updated>2023-07-25T07:09:58.194Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오당기’ 나인우 김지은, 소꿉친구서 수사 파트너 된다‥설렘 공조]]></title>
         <id>https://v.daum.net/v/20230725151407800</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230725131229954"/>
         <updated>2023-07-25T05:09:34.598Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경이로운 소문2’  돌아온 빨간 추리닝 다이 하드한 여름나기 시동]]></title>
-        <id>https://v.daum.net/v/20230725125118530</id>
-        <link href="https://v.daum.net/v/20230725125118530"/>
-        <updated>2023-07-25T04:11:51.283Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘X연우진X장승조, '멱살 한번 잡힙시다'로 뭉쳤다..주연 발탁]]></title>
-        <id>https://v.daum.net/v/20230725120501894</id>
-        <link href="https://v.daum.net/v/20230725120501894"/>
-        <updated>2023-07-25T03:10:37.147Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승호, '그린마더스클럽' 감독과 만난다…'아임홈' 출연]]></title>
-        <id>https://v.daum.net/v/20230725115602478</id>
-        <link href="https://v.daum.net/v/20230725115602478"/>
-        <updated>2023-07-25T03:10:37.148Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연우진, '멱살 한번 잡힙시다' 남주 캐스팅..김하늘과 호흡]]></title>
-        <id>https://v.daum.net/v/20230725113043383</id>
-        <link href="https://v.daum.net/v/20230725113043383"/>
-        <updated>2023-07-25T03:10:37.153Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
