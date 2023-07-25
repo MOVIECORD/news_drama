@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-25T08:13:38.858Z</updated>
+    <updated>2023-07-25T09:11:54.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해진→임지연 '국민사형투표', 뻔한 사이다 드라마 아닌 이유]]></title>
+        <id>https://v.daum.net/v/20230725180638092</id>
+        <link href="https://v.daum.net/v/20230725180638092"/>
+        <updated>2023-07-25T09:10:51.174Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오정세, 박보검+아이유 만남 확정..'폭싹 속았수다' 출연]]></title>
+        <id>https://v.daum.net/v/20230725175738767</id>
+        <link href="https://v.daum.net/v/20230725175738767"/>
+        <updated>2023-07-25T09:10:51.175Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오정세, 아이유·박보검 ‘폭싹 속았수다’ 출연..'동백꽃' 임상춘 작가와 재회]]></title>
         <id>https://v.daum.net/v/20230725170720684</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230725142459220"/>
         <updated>2023-07-25T06:17:24.329Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연우진 측 "'멱살 한번 잡힙시다' 출연? 논의 중인 작품 중 하나"]]></title>
-        <id>https://v.daum.net/v/20230725140935603</id>
-        <link href="https://v.daum.net/v/20230725140935603"/>
-        <updated>2023-07-25T06:17:24.331Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘국민사형투표’ 측 “단순한 사이다 드라마 아냐, 묵직한 질문 던질 것”]]></title>
-        <id>https://v.daum.net/v/20230725140356418</id>
-        <link href="https://v.daum.net/v/20230725140356418"/>
-        <updated>2023-07-25T05:09:34.589Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
