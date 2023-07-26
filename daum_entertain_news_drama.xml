@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T11:09:05.702Z</updated>
+    <updated>2023-07-26T12:18:15.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 이종원, 박형준 '前 연인' 김희정 등장에 불안]]></title>
+        <id>https://v.daum.net/v/20230726210110755</id>
+        <link href="https://v.daum.net/v/20230726210110755"/>
+        <updated>2023-07-26T12:18:03.992Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비밀의 여자’ 이종원, 최윤영·이채영 압박에 사면초가]]></title>
+        <id>https://v.daum.net/v/20230726205403629</id>
+        <link href="https://v.daum.net/v/20230726205403629"/>
+        <updated>2023-07-26T12:18:03.997Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 한기웅, 이채영에 "父 약점 잡았나" 버럭]]></title>
+        <id>https://v.daum.net/v/20230726202532061</id>
+        <link href="https://v.daum.net/v/20230726202532061"/>
+        <updated>2023-07-26T12:18:03.999Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이규한 "ENA, 시청률 잘 나올 채널 아니지만…폄하 걱정"]]></title>
+        <id>https://v.daum.net/v/20230726201010666</id>
+        <link href="https://v.daum.net/v/20230726201010666"/>
+        <updated>2023-07-26T12:18:04.000Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 전혜연, 김유석 압박 시작→복수 본격화]]></title>
         <id>https://v.daum.net/v/20230726200000298</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230726164257601"/>
         <updated>2023-07-26T08:18:35.233Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상훈 "악역 힘들고 진 다 빠져…나와 너무 달라"]]></title>
-        <id>https://v.daum.net/v/20230726164002459</id>
-        <link href="https://v.daum.net/v/20230726164002459"/>
-        <updated>2023-07-26T08:18:35.233Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아씨두리안' 제작진 "후반부, 상상 불가한 파격 반전 보여줄 것"]]></title>
-        <id>https://v.daum.net/v/20230726163555305</id>
-        <link href="https://v.daum.net/v/20230726163555305"/>
-        <updated>2023-07-26T08:18:35.234Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 상황 뭥미" " 아니구?" 직관적 자막 ∙반려견 사랑∙TMI..임성한 시그니처]]></title>
-        <id>https://v.daum.net/v/20230726163018084</id>
-        <link href="https://v.daum.net/v/20230726163018084"/>
-        <updated>2023-07-26T08:18:35.236Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하하 "딸 송이, 희소병 투병→완치..지금은 SNS 스타" [종합)]]></title>
-        <id>https://v.daum.net/v/20230726162222751</id>
-        <link href="https://v.daum.net/v/20230726162222751"/>
-        <updated>2023-07-26T08:18:35.239Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
