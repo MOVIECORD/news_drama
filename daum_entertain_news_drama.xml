@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T21:08:40.332Z</updated>
+    <updated>2023-07-26T22:10:19.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 준 주연 中 웹드라마 ‘독가동화’ 오늘 첫 공개]]></title>
+        <id>https://v.daum.net/v/20230727070438791</id>
+        <link href="https://v.daum.net/v/20230727070438791"/>
+        <updated>2023-07-26T22:09:16.342Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이하늘=카이” 정우 추리 틀렸다]]></title>
+        <id>https://v.daum.net/v/20230727070300756</id>
+        <link href="https://v.daum.net/v/20230727070300756"/>
+        <updated>2023-07-26T22:09:16.345Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“신들린 연기와 필력”…공포드라마 ‘악귀’의 흥행 비결]]></title>
+        <id>https://v.daum.net/v/20230727063013385</id>
+        <link href="https://v.daum.net/v/20230727063013385"/>
+        <updated>2023-07-26T22:09:16.351Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이래서 김태리라 하는구나”…김은희도 인정한 ‘악귀’ 연기, 안방극장 달궜다 ①]]></title>
         <id>https://v.daum.net/v/20230727060012887</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230726182555950"/>
         <updated>2023-07-26T10:10:13.523Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 손호준∙공승연 "시즌 2에서 드디어 두 사람 결말 나온다"]]></title>
-        <id>https://v.daum.net/v/20230726181801736</id>
-        <link href="https://v.daum.net/v/20230726181801736"/>
-        <updated>2023-07-26T10:10:13.525Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권율 "최고 법대 출신 최연소 검사? 난 수능 턱걸이"]]></title>
-        <id>https://v.daum.net/v/20230726181002480</id>
-        <link href="https://v.daum.net/v/20230726181002480"/>
-        <updated>2023-07-26T10:10:13.526Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안면인식장애' 오정세, 전라 노출→지질남·자폐·구단주…한계 없는 변신]]></title>
-        <id>https://v.daum.net/v/20230726173302356</id>
-        <link href="https://v.daum.net/v/20230726173302356"/>
-        <updated>2023-07-26T09:09:53.234Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
