@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T04:11:59.859Z</updated>
+    <updated>2023-07-26T05:09:40.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희정, 깊은 내공→섬세한 호연]]></title>
+        <id>https://v.daum.net/v/20230726132631722</id>
+        <link href="https://v.daum.net/v/20230726132631722"/>
+        <updated>2023-07-26T05:09:29.032Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소용없어 거짓말’ 라이어 헌터 김소현 앞 나타난 수상한 이웃 황민현]]></title>
         <id>https://v.daum.net/v/20230726121311272</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['킹더랜드' 21개국 1위…K-클리셰 통했다! 국경 초월 대세 로코]]></title>
+        <title type="html"><![CDATA['킹더랜드' 21개국 1위…K-클래식 통했다! 국경 초월 대세 로코]]></title>
         <id>https://v.daum.net/v/20230726111556676</id>
         <link href="https://v.daum.net/v/20230726111556676"/>
         <updated>2023-07-26T03:10:28.188Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726110010720"/>
         <updated>2023-07-26T02:07:58.067Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 넷플릭스 또 찢었다..'킹더랜드' 글로벌 1위]]></title>
-        <id>https://v.daum.net/v/20230726105611544</id>
-        <link href="https://v.daum.net/v/20230726105611544"/>
-        <updated>2023-07-26T02:07:58.070Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
