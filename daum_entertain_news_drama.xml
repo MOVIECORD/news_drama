@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T09:10:04.945Z</updated>
+    <updated>2023-07-26T10:10:25.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조인성 "'무빙' 한국형 히어로물 시작될 것" 자신감]]></title>
+        <id>https://v.daum.net/v/20230726182555950</id>
+        <link href="https://v.daum.net/v/20230726182555950"/>
+        <updated>2023-07-26T10:10:13.523Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준∙공승연 "시즌 2에서 드디어 두 사람 결말 나온다"]]></title>
+        <id>https://v.daum.net/v/20230726181801736</id>
+        <link href="https://v.daum.net/v/20230726181801736"/>
+        <updated>2023-07-26T10:10:13.525Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권율 "최고 법대 출신 최연소 검사? 난 수능 턱걸이"]]></title>
+        <id>https://v.daum.net/v/20230726181002480</id>
+        <link href="https://v.daum.net/v/20230726181002480"/>
+        <updated>2023-07-26T10:10:13.526Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안면인식장애' 오정세, 전라 노출→지질남·자폐·구단주…한계 없는 변신]]></title>
         <id>https://v.daum.net/v/20230726173302356</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230726154523066"/>
         <updated>2023-07-26T07:09:47.453Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자신있어" 나인우→권율 '오당기', 진실 추적 나선다]]></title>
-        <id>https://v.daum.net/v/20230726153704731</id>
-        <link href="https://v.daum.net/v/20230726153704731"/>
-        <updated>2023-07-26T07:09:47.454Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오당기' 이규한 "ENA니까... 시청률 연연 NO"]]></title>
-        <id>https://v.daum.net/v/20230726153502629</id>
-        <link href="https://v.daum.net/v/20230726153502629"/>
-        <updated>2023-07-26T07:09:47.461Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“장르물 진입장벽↓” 나인우→김지은 ‘오당기’ ENA 최고 시청률 이끌까]]></title>
-        <id>https://v.daum.net/v/20230726153007378</id>
-        <link href="https://v.daum.net/v/20230726153007378"/>
-        <updated>2023-07-26T07:09:47.461Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
