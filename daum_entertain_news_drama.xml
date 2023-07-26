@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T08:18:46.905Z</updated>
+    <updated>2023-07-26T09:10:04.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['안면인식장애' 오정세, 전라 노출→지질남·자폐·구단주…한계 없는 변신]]></title>
+        <id>https://v.daum.net/v/20230726173302356</id>
+        <link href="https://v.daum.net/v/20230726173302356"/>
+        <updated>2023-07-26T09:09:53.234Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행방불명 됐던 서현철, '가슴이 뛴다' 본격 등판..미스터리 서지안父]]></title>
         <id>https://v.daum.net/v/20230726171122683</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726153007378"/>
         <updated>2023-07-26T07:09:47.461Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENA 표 추적극…'오당기', '우아한가'·'어마라' 인기 재현할까]]></title>
-        <id>https://v.daum.net/v/20230726152542206</id>
-        <link href="https://v.daum.net/v/20230726152542206"/>
-        <updated>2023-07-26T07:09:47.462Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
