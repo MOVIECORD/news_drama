@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T19:09:05.987Z</updated>
+    <updated>2023-07-26T20:14:14.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나인우·정상훈, 과감한 도전"..ENA 스릴러 책임질'오당기']]></title>
+        <id>https://v.daum.net/v/20230727050202187</id>
+        <link href="https://v.daum.net/v/20230727050202187"/>
+        <updated>2023-07-26T20:14:04.140Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조향기, 윤다영 걱정하며 "너무 착해서 똥파리가 들러붙는다"]]></title>
         <id>https://v.daum.net/v/20230726212530270</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726165710132"/>
         <updated>2023-07-26T08:18:35.232Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희정, 31년 전 박형준과 연인 사이…아이까지 가졌는데 사라져]]></title>
-        <id>https://v.daum.net/v/20230726164559712</id>
-        <link href="https://v.daum.net/v/20230726164559712"/>
-        <updated>2023-07-26T08:18:35.233Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
