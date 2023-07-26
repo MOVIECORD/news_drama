@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-26T03:10:38.474Z</updated>
+    <updated>2023-07-26T04:11:59.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소용없어 거짓말’ 라이어 헌터 김소현 앞 나타난 수상한 이웃 황민현]]></title>
+        <id>https://v.daum.net/v/20230726121311272</id>
+        <link href="https://v.daum.net/v/20230726121311272"/>
+        <updated>2023-07-26T04:11:47.304Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 주인공 안은진 "출연하지 않을 이유 없었다"]]></title>
         <id>https://v.daum.net/v/20230726120705135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230726105611544"/>
         <updated>2023-07-26T02:07:58.070Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤아, '버킷리스트 1번' 이뤘다...'킹더랜드' 넷플릭스 글로벌 1위 등극]]></title>
-        <id>https://v.daum.net/v/20230726104817147</id>
-        <link href="https://v.daum.net/v/20230726104817147"/>
-        <updated>2023-07-26T02:07:58.070Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
