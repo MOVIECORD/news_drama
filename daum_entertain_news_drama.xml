@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-28T02:00:48.225Z</updated>
+    <updated>2023-07-28T02:30:12.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지창욱X류승룡 만날까, 양측 "'파인' 제안받은 작품 중 하나"]]></title>
+        <id>https://v.daum.net/v/20230728112537493</id>
+        <link href="https://v.daum.net/v/20230728112537493"/>
+        <updated>2023-07-28T02:30:00.468Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배현성, 분노 눈빛+서글픈 눈물··롤러코스터급 감정 변화]]></title>
+        <id>https://v.daum.net/v/20230728111231952</id>
+        <link href="https://v.daum.net/v/20230728111231952"/>
+        <updated>2023-07-28T02:30:00.473Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘악귀’ 김태리의 두 얼굴 섬뜩, 유리 맨손으로 깨고 생수 흡입]]></title>
         <id>https://v.daum.net/v/20230728105543246</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230728091934644"/>
         <updated>2023-07-28T00:48:02.639Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 김태리X오정세X홍경, 신들린 열연도 피날레 D-1]]></title>
-        <id>https://v.daum.net/v/20230728091931641</id>
-        <link href="https://v.daum.net/v/20230728091931641"/>
-        <updated>2023-07-28T00:48:02.643Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 김선영 백만대군 잡고 킹그룹 구원할까]]></title>
-        <id>https://v.daum.net/v/20230728091554516</id>
-        <link href="https://v.daum.net/v/20230728091554516"/>
-        <updated>2023-07-28T00:48:02.648Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
