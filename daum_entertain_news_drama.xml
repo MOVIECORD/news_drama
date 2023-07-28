@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-28T16:12:45.952Z</updated>
+    <updated>2023-07-28T17:09:11.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리, "끝났다" 사라진 악귀 그림자 보며 미소…'악귀' 심달기에 잠식 당했나?]]></title>
+        <id>https://v.daum.net/v/20230729013901054</id>
+        <link href="https://v.daum.net/v/20230729013901054"/>
+        <updated>2023-07-28T17:08:58.715Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악귀' 김태리, 김해숙에게서 악귀 이름 알아냈다…"약속 어겼으니 향이가 찾아올 것"]]></title>
         <id>https://v.daum.net/v/20230729011200032</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230728221745991"/>
         <updated>2023-07-28T14:09:39.279Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 이선호 출생비밀 밝혀지나? 박형준, 김희정 떠올리고 '혼란']]></title>
-        <id>https://v.daum.net/v/20230728202531459</id>
-        <link href="https://v.daum.net/v/20230728202531459"/>
-        <updated>2023-07-28T12:18:51.019Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
