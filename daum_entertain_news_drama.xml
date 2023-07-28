@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-28T03:11:24.084Z</updated>
+    <updated>2023-07-28T04:11:34.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승룡, 윤태호 원작 ‘파인’ 출연하나 “제안 받은 작품 중 하나”]]></title>
+        <id>https://v.daum.net/v/20230728121945862</id>
+        <link href="https://v.daum.net/v/20230728121945862"/>
+        <updated>2023-07-28T04:11:22.917Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸늘한 한다감, 100% 이은성 그 자체 열연]]></title>
         <id>https://v.daum.net/v/20230728114249080</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230728093459120</id>
         <link href="https://v.daum.net/v/20230728093459120"/>
         <updated>2023-07-28T00:48:02.627Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 김태리-오정세-홍경 공조 더 기대되는 이유]]></title>
-        <id>https://v.daum.net/v/20230728093150039</id>
-        <link href="https://v.daum.net/v/20230728093150039"/>
-        <updated>2023-07-28T00:48:02.631Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
