@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-28T11:09:29.304Z</updated>
+    <updated>2023-07-28T12:19:02.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비밀의 여자' 이선호 출생비밀 밝혀지나? 박형준, 김희정 떠올리고 '혼란']]></title>
+        <id>https://v.daum.net/v/20230728202531459</id>
+        <link href="https://v.daum.net/v/20230728202531459"/>
+        <updated>2023-07-28T12:18:51.019Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 전혜연, 김유석에 도발 멈추지 않고 압박]]></title>
         <id>https://v.daum.net/v/20230728200305221</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230728154409170"/>
         <updated>2023-07-28T07:09:00.027Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’ 종영까지 단 2회‥최후의 폭주]]></title>
-        <id>https://v.daum.net/v/20230728153430881</id>
-        <link href="https://v.daum.net/v/20230728153430881"/>
-        <updated>2023-07-28T07:09:00.028Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
