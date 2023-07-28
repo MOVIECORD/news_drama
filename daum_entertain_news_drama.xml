@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-28T10:10:40.366Z</updated>
+    <updated>2023-07-28T11:09:29.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 전혜연, 김유석에 도발 멈추지 않고 압박]]></title>
+        <id>https://v.daum.net/v/20230728200305221</id>
+        <link href="https://v.daum.net/v/20230728200305221"/>
+        <updated>2023-07-28T11:08:26.162Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 김유석, 이사 해임에 분노 “날 그렇게 부려먹고!”]]></title>
+        <id>https://v.daum.net/v/20230728195334081</id>
+        <link href="https://v.daum.net/v/20230728195334081"/>
+        <updated>2023-07-28T11:08:26.163Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영까지 2회 남은 '악귀', 마음 놓을수 없는 반전은?]]></title>
         <id>https://v.daum.net/v/20230728185322116</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230728153430881"/>
         <updated>2023-07-28T07:09:00.028Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민영, '구름빵' 아역에서 '글로벌 1위' 드라마 남주 되기까지]]></title>
-        <id>https://v.daum.net/v/20230728152118425</id>
-        <link href="https://v.daum.net/v/20230728152118425"/>
-        <updated>2023-07-28T07:09:00.031Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 첫방 앞두고 비상...주인공 조병규 '학폭 이슈' 다시 논란]]></title>
-        <id>https://v.daum.net/v/20230728151101070</id>
-        <link href="https://v.daum.net/v/20230728151101070"/>
-        <updated>2023-07-28T06:12:51.605Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
