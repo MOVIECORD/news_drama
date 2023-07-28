@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-28T02:30:12.543Z</updated>
+    <updated>2023-07-28T03:11:24.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싸늘한 한다감, 100% 이은성 그 자체 열연]]></title>
+        <id>https://v.daum.net/v/20230728114249080</id>
+        <link href="https://v.daum.net/v/20230728114249080"/>
+        <updated>2023-07-28T03:10:21.475Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드러나는 사건의 전말, '기적의 형제'가 보여줄 진짜 기적은]]></title>
+        <id>https://v.daum.net/v/20230728114215060</id>
+        <link href="https://v.daum.net/v/20230728114215060"/>
+        <updated>2023-07-28T03:10:21.476Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄지원 치부 들켰다, 채무자 추심 중 흔들리는 눈빛]]></title>
+        <id>https://v.daum.net/v/20230728113622910</id>
+        <link href="https://v.daum.net/v/20230728113622910"/>
+        <updated>2023-07-28T03:10:21.476Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱X류승룡 만날까, 양측 "'파인' 제안받은 작품 중 하나"]]></title>
         <id>https://v.daum.net/v/20230728112537493</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230728093150039"/>
         <updated>2023-07-28T00:48:02.631Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영 ‘우아한 제국’ 캐스팅. 반전 매력 예고]]></title>
-        <id>https://v.daum.net/v/20230728092517840</id>
-        <link href="https://v.daum.net/v/20230728092517840"/>
-        <updated>2023-07-28T00:48:02.636Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌, 연쇄살인사건 진범이었나…나인우, 동생 실체에 '충격']]></title>
-        <id>https://v.daum.net/v/20230728092158738</id>
-        <link href="https://v.daum.net/v/20230728092158738"/>
-        <updated>2023-07-28T00:48:02.636Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄지렐라' 엄지윤 '경소문2' 특별 출연..유인수 소개팅녀]]></title>
-        <id>https://v.daum.net/v/20230728091934644</id>
-        <link href="https://v.daum.net/v/20230728091934644"/>
-        <updated>2023-07-28T00:48:02.639Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
