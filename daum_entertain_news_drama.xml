@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-29T18:12:05.355Z</updated>
+    <updated>2023-07-29T19:07:39.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, "그래, 살아보자"…악귀 소멸시키고 '실명 운명'에 순응]]></title>
+        <id>https://v.daum.net/v/20230730034500709</id>
+        <link href="https://v.daum.net/v/20230730034500709"/>
+        <updated>2023-07-29T19:07:28.078Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악귀' 김태리 육체 차지한 악귀, 홍경에 "미친놈처럼 발버둥 쳐봤자 걔 못 살려"]]></title>
         <id>https://v.daum.net/v/20230730030900691</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230729225704306"/>
         <updated>2023-07-29T14:07:48.180Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강기영X김히어라X김현욱, 중국 카운터 능력 흡수한 채 한국行 “이제 때가 왔다”]]></title>
-        <id>https://v.daum.net/v/20230729224902273</id>
-        <link href="https://v.daum.net/v/20230729224902273"/>
-        <updated>2023-07-29T14:07:48.182Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
