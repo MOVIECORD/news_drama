@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-29T17:09:10.739Z</updated>
+    <updated>2023-07-29T18:12:05.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리 육체 차지한 악귀, 홍경에 "미친놈처럼 발버둥 쳐봤자 걔 못 살려"]]></title>
+        <id>https://v.daum.net/v/20230730030900691</id>
+        <link href="https://v.daum.net/v/20230730030900691"/>
+        <updated>2023-07-29T18:11:02.153Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조병규, 더 강해진 힘으로 돌아왔다..강기영X김히어라 악귀 첫 등장]]></title>
         <id>https://v.daum.net/v/20230730005324593</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230729224902273"/>
         <updated>2023-07-29T14:07:48.182Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경소문2’ 조병규 더 강해졌다, 악귀 강기영 김히어라 첫등장]]></title>
-        <id>https://v.daum.net/v/20230729224809272</id>
-        <link href="https://v.daum.net/v/20230729224809272"/>
-        <updated>2023-07-29T14:07:48.191Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
