@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-29T06:12:14.648Z</updated>
+    <updated>2023-07-29T07:10:08.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아씨두리안’ 박주미 임신 오해했던 지영산, 또 다시 플러팅 폭발]]></title>
+        <id>https://v.daum.net/v/20230729153832004</id>
+        <link href="https://v.daum.net/v/20230729153832004"/>
+        <updated>2023-07-29T07:09:04.162Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘악귀’ 김태리 “도전하며 열심히 찍은 작품, 여러가지로 성장한 느낌”]]></title>
+        <id>https://v.daum.net/v/20230729152257849</id>
+        <link href="https://v.daum.net/v/20230729152257849"/>
+        <updated>2023-07-29T07:09:04.163Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수, 전역 복귀작 '넘버스' 오늘 종영 "너무 소중한 작품"]]></title>
         <id>https://v.daum.net/v/20230729150158612</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230729134526847"/>
         <updated>2023-07-29T05:08:47.371Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹더랜드’ 이준호 임윤아 아이 낳으면 이런 모습? 육아 간접 체험]]></title>
-        <id>https://v.daum.net/v/20230729133259725</id>
-        <link href="https://v.daum.net/v/20230729133259725"/>
-        <updated>2023-07-29T05:08:47.375Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘100억 베팅’ 조병규 학폭 진실공방→‘경소문2’ 첫방 전부터 시끌]]></title>
-        <id>https://v.daum.net/v/20230729132335658</id>
-        <link href="https://v.daum.net/v/20230729132335658"/>
-        <updated>2023-07-29T05:08:47.375Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
