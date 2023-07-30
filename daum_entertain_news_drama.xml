@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-30T06:12:13.543Z</updated>
+    <updated>2023-07-30T07:08:46.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아씨 두리안’ 유정후, 수영복 입은 이다연 비주얼에 깜짝]]></title>
+        <id>https://v.daum.net/v/20230730160042958</id>
+        <link href="https://v.daum.net/v/20230730160042958"/>
+        <updated>2023-07-30T07:08:37.674Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경이로운 소문2' 3.9% 시청률로 출발]]></title>
         <id>https://v.daum.net/v/20230730143617277</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230730113410650"/>
         <updated>2023-07-30T03:09:54.675Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 김히어라, 수영복 입고 아찔한 첫 등장→강기영과 악귀 커플 '광기']]></title>
-        <id>https://v.daum.net/v/20230730113122620</id>
-        <link href="https://v.daum.net/v/20230730113122620"/>
-        <updated>2023-07-30T03:09:54.675Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
