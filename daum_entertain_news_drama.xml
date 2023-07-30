@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-30T08:12:15.704Z</updated>
+    <updated>2023-07-30T09:09:01.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리 '악귀' 종영 소감 … "내가 연기했는데도 무서워"]]></title>
+        <id>https://v.daum.net/v/20230730172433282</id>
+        <link href="https://v.daum.net/v/20230730172433282"/>
+        <updated>2023-07-30T09:08:49.752Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김은희 작가, '악귀'로 용두용미 해냈다…살고 싶은 김태리와 유종의 미]]></title>
+        <id>https://v.daum.net/v/20230730172002198</id>
+        <link href="https://v.daum.net/v/20230730172002198"/>
+        <updated>2023-07-30T09:08:49.775Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["쳐다보지 마셔요" 이다연 선녀같은 수영복 자태에 유정후 동공 확장]]></title>
         <id>https://v.daum.net/v/20230730164626657</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230730133913255"/>
         <updated>2023-07-30T05:09:30.295Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아 놀이공원 데이트 포착, 교복까지 맞춰 입었네]]></title>
-        <id>https://v.daum.net/v/20230730133332184</id>
-        <link href="https://v.daum.net/v/20230730133332184"/>
-        <updated>2023-07-30T05:09:30.297Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어딘가 어색하다는 '경소문2', 너무 섣부른 실망은 금물인 이유]]></title>
-        <id>https://v.daum.net/v/20230730131600973</id>
-        <link href="https://v.daum.net/v/20230730131600973"/>
-        <updated>2023-07-30T05:09:30.304Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
