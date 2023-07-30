@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-30T07:08:46.959Z</updated>
+    <updated>2023-07-30T08:12:15.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["쳐다보지 마셔요" 이다연 선녀같은 수영복 자태에 유정후 동공 확장]]></title>
+        <id>https://v.daum.net/v/20230730164626657</id>
+        <link href="https://v.daum.net/v/20230730164626657"/>
+        <updated>2023-07-30T08:11:13.022Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['韓 구독자 수 5위' 디즈니+ 벽에 막혔다…이성민 열연 아쉬운 '형사록2']]></title>
+        <id>https://v.daum.net/v/20230730160901074</id>
+        <link href="https://v.daum.net/v/20230730160901074"/>
+        <updated>2023-07-30T08:11:13.022Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아씨 두리안’ 유정후, 수영복 입은 이다연 비주얼에 깜짝]]></title>
         <id>https://v.daum.net/v/20230730160042958</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230730131600973"/>
         <updated>2023-07-30T05:09:30.304Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['악귀' 홍경 "이홍새의 앞날 응원하고파"]]></title>
-        <id>https://v.daum.net/v/20230730114753807</id>
-        <link href="https://v.daum.net/v/20230730114753807"/>
-        <updated>2023-07-30T03:09:54.674Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최명길, 클럽서 30살연하 곽민호 홀렸다…임성한 파격전개 어디까지]]></title>
-        <id>https://v.daum.net/v/20230730113410650</id>
-        <link href="https://v.daum.net/v/20230730113410650"/>
-        <updated>2023-07-30T03:09:54.675Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
