@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-31T13:16:32.932Z</updated>
+    <updated>2023-07-31T14:13:20.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현, 추행범 몰린 황민현 구했다.. 운명적 재회]]></title>
+        <id>https://v.daum.net/v/20230731223321131</id>
+        <link href="https://v.daum.net/v/20230731223321131"/>
+        <updated>2023-07-31T14:12:17.506Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 김소현, 황민현 구하며 운명적 재회…"추행범 아냐"]]></title>
+        <id>https://v.daum.net/v/20230731221828009</id>
+        <link href="https://v.daum.net/v/20230731221828009"/>
+        <updated>2023-07-31T14:12:17.508Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 이시우 열애설→변태 오해..김소현 재회]]></title>
+        <id>https://v.daum.net/v/20230731221453966</id>
+        <link href="https://v.daum.net/v/20230731221453966"/>
+        <updated>2023-07-31T14:12:17.508Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소용없어 거짓말' 황민현, 루머 또 루머..'국정원→재벌집 아들?']]></title>
         <id>https://v.daum.net/v/20230731213757583</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230731200003396"/>
         <updated>2023-07-31T11:08:15.047Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 母 죽음 비밀 알았다..'절벽 떨어질 준비해']]></title>
-        <id>https://v.daum.net/v/20230731195826359</id>
-        <link href="https://v.daum.net/v/20230731195826359"/>
-        <updated>2023-07-31T11:08:15.051Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김유석이 심이영 살해 지시".. '하늘의 인연' 전혜연, 진실 알고 복수 다짐]]></title>
-        <id>https://v.daum.net/v/20230731194630118</id>
-        <link href="https://v.daum.net/v/20230731194630118"/>
-        <updated>2023-07-31T11:08:15.051Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이생잘' 안동구 "너무 재밌는 연기, 책임감 갖는 배우 되고 싶어"]]></title>
-        <id>https://v.daum.net/v/20230731193028923</id>
-        <link href="https://v.daum.net/v/20230731193028923"/>
-        <updated>2023-07-31T11:08:15.056Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
