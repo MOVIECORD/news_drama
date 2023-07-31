@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-31T21:09:36.899Z</updated>
+    <updated>2023-07-31T22:09:45.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소용없어 거짓말’ 김소현 “거짓말 구별하는 능력? 엄마 뱃속부터”]]></title>
+        <id>https://v.daum.net/v/20230801065314820</id>
+        <link href="https://v.daum.net/v/20230801065314820"/>
+        <updated>2023-07-31T22:09:35.655Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현X김소현, 첫 방부터 구원 로맨스 '케미 폭발']]></title>
+        <id>https://v.daum.net/v/20230801065002776</id>
+        <link href="https://v.daum.net/v/20230801065002776"/>
+        <updated>2023-07-31T22:09:35.664Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['54세' 이성민 "배우라 다이어트 하는 나, 비주얼로 부각되고파"]]></title>
         <id>https://v.daum.net/v/20230801060101262</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230731210102226"/>
         <updated>2023-07-31T12:25:13.211Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 여자’ 이선호, 친父 박형준 알았다...눈물의 부자상봉]]></title>
-        <id>https://v.daum.net/v/20230731204201927</id>
-        <link href="https://v.daum.net/v/20230731204201927"/>
-        <updated>2023-07-31T12:25:13.211Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선호, 후견인 신청 취소…"할아버지 '임혁' 깨어났다"]]></title>
-        <id>https://v.daum.net/v/20230731204053920</id>
-        <link href="https://v.daum.net/v/20230731204053920"/>
-        <updated>2023-07-31T12:25:13.214Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
