@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-31T09:10:49.605Z</updated>
+    <updated>2023-07-31T10:12:08.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['넘버스' 연기상VS인피니트 1위?…김명수의 선택은]]></title>
+        <id>https://v.daum.net/v/20230731190220566</id>
+        <link href="https://v.daum.net/v/20230731190220566"/>
+        <updated>2023-07-31T10:11:05.301Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 남궁민 "안은진, 톡톡 튀고 사랑스럽다"]]></title>
         <id>https://v.daum.net/v/20230731180918493</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731162352553"/>
         <updated>2023-07-31T08:13:59.556Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성민 “‘재벌집’ 고명딸 김신록, ‘형사록2’서 상사로 재회..어이 없어”]]></title>
-        <id>https://v.daum.net/v/20230731161246140</id>
-        <link href="https://v.daum.net/v/20230731161246140"/>
-        <updated>2023-07-31T08:13:59.561Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
