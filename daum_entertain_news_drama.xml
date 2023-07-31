@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-07-31T14:13:20.142Z</updated>
+    <updated>2023-07-31T15:10:57.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원지안 "나 선우혈씨 좋아한다"...옥택연, 키스로 화답]]></title>
+        <id>https://v.daum.net/v/20230731233730384</id>
+        <link href="https://v.daum.net/v/20230731233730384"/>
+        <updated>2023-07-31T15:10:44.690Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소현, 추행범 몰린 황민현 구했다.. 운명적 재회]]></title>
         <id>https://v.daum.net/v/20230731223321131</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731202300683"/>
         <updated>2023-07-31T12:25:13.224Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하늘의 인연’ 전혜연, 심이영 사망 비밀 알았다...김유석에 ‘분노’]]></title>
-        <id>https://v.daum.net/v/20230731200003396</id>
-        <link href="https://v.daum.net/v/20230731200003396"/>
-        <updated>2023-07-31T11:08:15.047Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
