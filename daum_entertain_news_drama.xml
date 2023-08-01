@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-01T09:10:47.409Z</updated>
+    <updated>2023-08-01T10:11:55.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정해인 한숨 쉬게 만든 유수빈.. '사랑의 불시착' 이어 ‘D.P.2' 신스틸러 등극]]></title>
+        <id>https://v.daum.net/v/20230801181153248</id>
+        <link href="https://v.daum.net/v/20230801181153248"/>
+        <updated>2023-08-01T10:11:42.816Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['형사록' 감독 "'55세' 이성민, 의외로 액션도 잘 하더라"]]></title>
         <id>https://v.daum.net/v/20230801175009694</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230801153959998"/>
         <updated>2023-08-01T07:14:50.217Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형따라 마야로' 차승원 "나영석 관망·방글이 들들 볶아…5kg 빠졌다"]]></title>
-        <id>https://v.daum.net/v/20230801150426533</id>
-        <link href="https://v.daum.net/v/20230801150426533"/>
-        <updated>2023-08-01T06:14:13.863Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
