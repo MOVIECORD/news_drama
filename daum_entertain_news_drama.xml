@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-01T21:09:10.729Z</updated>
+    <updated>2023-08-01T22:10:12.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유, 월세 시세 1200만원대 아파트 거주 "尹대통령 관저 보여"]]></title>
+        <id>https://v.daum.net/v/20230802065721437</id>
+        <link href="https://v.daum.net/v/20230802065721437"/>
+        <updated>2023-08-01T22:09:09.526Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[철부지 엄마-일찍 철든 딸…전혜진×최수영 케미 눈길]]></title>
+        <id>https://v.daum.net/v/20230802063010178</id>
+        <link href="https://v.daum.net/v/20230802063010178"/>
+        <updated>2023-08-01T22:09:09.546Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥택연, 사랑에 빠졌나...윤소희 "좋은 말 할 때 떨어져"]]></title>
         <id>https://v.daum.net/v/20230801235700831</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230801173130155"/>
         <updated>2023-08-01T09:10:36.630Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종♥하희라, 드디어 입주한다…진안 감성하우스 탄생]]></title>
-        <id>https://v.daum.net/v/20230801173111144</id>
-        <link href="https://v.daum.net/v/20230801173111144"/>
-        <updated>2023-08-01T09:10:36.630Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[려운, 시즌2로 돌아오는 '약한영웅' 주연 합류..'대세 입증']]></title>
-        <id>https://v.daum.net/v/20230801171052502</id>
-        <link href="https://v.daum.net/v/20230801171052502"/>
-        <updated>2023-08-01T08:13:03.767Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
