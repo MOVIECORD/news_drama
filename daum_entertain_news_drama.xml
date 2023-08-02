@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-02T20:10:38.206Z</updated>
+    <updated>2023-08-02T21:09:59.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최명길, 30살차 연하男과 러브라인 '파격'…클럽 첫 만남→애프터 약속]]></title>
+        <id>https://v.daum.net/v/20230803060003423</id>
+        <link href="https://v.daum.net/v/20230803060003423"/>
+        <updated>2023-08-02T21:08:55.995Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤다영, 친부 김영호 결국 붙잡았다...서준영과 러브라인은?]]></title>
         <id>https://v.daum.net/v/20230802221201780</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802180616188"/>
         <updated>2023-08-02T09:10:10.364Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손소망 유쾌한 간호사 변신, ‘남남’ 속 감초 활약 톡톡]]></title>
-        <id>https://v.daum.net/v/20230802175203738</id>
-        <link href="https://v.daum.net/v/20230802175203738"/>
-        <updated>2023-08-02T09:10:10.364Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
