@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-02T10:11:11.710Z</updated>
+    <updated>2023-08-02T11:08:33.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 김유석 살인미수 동영상 확보... 박동빈 살아있었다]]></title>
+        <id>https://v.daum.net/v/20230802195230444</id>
+        <link href="https://v.daum.net/v/20230802195230444"/>
+        <updated>2023-08-02T11:08:22.385Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["매듭 지으려했는데…" 'D.P' 감독이 시즌3 가능성 있냐는 질문에 한 대답]]></title>
+        <id>https://v.daum.net/v/20230802192302876</id>
+        <link href="https://v.daum.net/v/20230802192302876"/>
+        <updated>2023-08-02T11:08:22.387Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 측 "박해진·박성웅·임지연 캐스팅 이유? 의외성"]]></title>
         <id>https://v.daum.net/v/20230802184333087</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230802160233762"/>
         <updated>2023-08-02T07:09:21.813Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지온, 황민현과 브로맨스 케미‥‘소용없어 거짓말’ 속 매력 포인트]]></title>
-        <id>https://v.daum.net/v/20230802155907605</id>
-        <link href="https://v.daum.net/v/20230802155907605"/>
-        <updated>2023-08-02T07:09:21.815Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간담회부터 美쳤다…용띠클럽X강훈 '몽골몽골', 벌써 대박 예감]]></title>
-        <id>https://v.daum.net/v/20230802155606511</id>
-        <link href="https://v.daum.net/v/20230802155606511"/>
-        <updated>2023-08-02T07:09:21.815Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
