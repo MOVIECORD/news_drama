@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-04T16:12:16.327Z</updated>
+    <updated>2023-08-04T17:09:20.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원-손호준, 연쇄방화살인 사건 '공조'…공승연, 화재 건물 속 매몰]]></title>
+        <id>https://v.daum.net/v/20230805014800753</id>
+        <link href="https://v.daum.net/v/20230805014800753"/>
+        <updated>2023-08-04T17:09:08.356Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준, "서로를 확보하는 건 같이 들어가고 나오자는 뜻" 김래원과 추락…위기 극복할까?]]></title>
+        <id>https://v.daum.net/v/20230805012100647</id>
+        <link href="https://v.daum.net/v/20230805012100647"/>
+        <updated>2023-08-04T17:09:08.369Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오래전부터 비혼" 고백한 남궁민, ♥안은진 한눈에 푹 빠졌다]]></title>
         <id>https://v.daum.net/v/20230805000109262</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230804214200813"/>
         <updated>2023-08-04T13:14:33.071Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 '비밀의 여자' 이채영, 시력 잃고 치른 죗값…최윤영, 결혼 대신 유학行]]></title>
-        <id>https://v.daum.net/v/20230804204254031</id>
-        <link href="https://v.daum.net/v/20230804204254031"/>
-        <updated>2023-08-04T12:24:56.109Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘복수 성공’ 최윤영♥이선호, 10년만 재회..꽉 닫힌 해피엔딩]]></title>
-        <id>https://v.daum.net/v/20230804204250030</id>
-        <link href="https://v.daum.net/v/20230804204250030"/>
-        <updated>2023-08-04T12:24:56.115Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
