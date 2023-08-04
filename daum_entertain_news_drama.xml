@@ -2,22 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-04T14:10:31.487Z</updated>
+    <updated>2023-08-04T15:10:41.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오래전부터 비혼" 고백한 남궁민, ♥안은진 한눈에 푹 빠졌다]]></title>
+        <id>https://v.daum.net/v/20230805000109262</id>
+        <link href="https://v.daum.net/v/20230805000109262"/>
+        <updated>2023-08-04T15:10:29.529Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 첫방, 김래원X손호준 연쇄방화범 잡기 위해 공조→훈훈 브로맨스]]></title>
+        <id>https://v.daum.net/v/20230804234430131</id>
+        <link href="https://v.daum.net/v/20230804234430131"/>
+        <updated>2023-08-04T15:10:29.544Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 남궁민, 첫눈에 반한 안은진 꽉 끌어안아→사랑 시작?]]></title>
+        <id>https://v.daum.net/v/20230804233204998</id>
+        <link href="https://v.daum.net/v/20230804233204998"/>
+        <updated>2023-08-04T15:10:29.547Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["제대로 공조 해보자"...'소옆경2' 김래원X손호준, 연쇄방화범 힌트 찾았다]]></title>
+        <id>https://v.daum.net/v/20230804233030976</id>
+        <link href="https://v.daum.net/v/20230804233030976"/>
+        <updated>2023-08-04T15:10:29.559Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '연인' 남궁민, 비장한 포스로 강렬 포문→안은진에 반해 "꽃소리 들려"]]></title>
         <id>https://v.daum.net/v/20230804230630775</id>
         <link href="https://v.daum.net/v/20230804230630775"/>
         <updated>2023-08-04T14:09:28.345Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인연' 안은진, 꿈 속 도령과 눈맞춤→박종연에 "왜 깨워" 버럭]]></title>
-        <id>https://v.daum.net/v/20230804230133740</id>
-        <link href="https://v.daum.net/v/20230804230133740"/>
-        <updated>2023-08-04T14:09:28.346Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['힙하게' 작가 "한지민=봉예분, 이민기=문장열..어느 세상에 살고 있을 듯"]]></title>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230804204250030"/>
         <updated>2023-08-04T12:24:56.115Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀의 여자' 최윤영X이선호 재회 포옹→이채영X이종원 감옥行 '인과응보']]></title>
-        <id>https://v.daum.net/v/20230804203930990</id>
-        <link href="https://v.daum.net/v/20230804203930990"/>
-        <updated>2023-08-04T12:24:56.115Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전 자신 있어요"…'소옆경2' 김래원VS'연인' 남궁민, 금토극 흥행 대결]]></title>
-        <id>https://v.daum.net/v/20230804202131749</id>
-        <link href="https://v.daum.net/v/20230804202131749"/>
-        <updated>2023-08-04T12:24:56.115Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 정우연, 납치 당했다..서한결 죽음 위기]]></title>
-        <id>https://v.daum.net/v/20230804200419477</id>
-        <link href="https://v.daum.net/v/20230804200419477"/>
-        <updated>2023-08-04T11:08:38.663Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
