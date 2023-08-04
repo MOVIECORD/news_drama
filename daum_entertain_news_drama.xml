@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-04T09:09:50.404Z</updated>
+    <updated>2023-08-04T10:11:36.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'지리산' 혹평, 속앓이 심했다"…실패 딛고 '악귀'로 일어난 김은희 작가의 성장]]></title>
+        <id>https://v.daum.net/v/20230804190103445</id>
+        <link href="https://v.daum.net/v/20230804190103445"/>
+        <updated>2023-08-04T10:10:33.188Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“‘소옆경2’와 경쟁 자신있어”…‘시청률 보증수표’ 남궁민, ‘연인’ 흥행 점쳤다]]></title>
+        <id>https://v.daum.net/v/20230804190025436</id>
+        <link href="https://v.daum.net/v/20230804190025436"/>
+        <updated>2023-08-04T10:10:33.190Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'남궁민 나오는 드라마' 아냐"…MBC 금토극 또 살릴까]]></title>
+        <id>https://v.daum.net/v/20230804185011269</id>
+        <link href="https://v.daum.net/v/20230804185011269"/>
+        <updated>2023-08-04T10:10:33.191Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“제목 몰라” 김래원vs“자신 있다” 남궁민, 기싸움 최종 승자 누구?]]></title>
+        <id>https://v.daum.net/v/20230804184646214</id>
+        <link href="https://v.daum.net/v/20230804184646214"/>
+        <updated>2023-08-04T10:10:33.204Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호♥︎임윤아 이대론 못 보내..‘킹더랜드’ 엔딩은 OST 감동으로]]></title>
+        <id>https://v.daum.net/v/20230804181925608</id>
+        <link href="https://v.daum.net/v/20230804181925608"/>
+        <updated>2023-08-04T10:10:33.204Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시청률 우상향 '남남', 이 상황 어디서 봤는데…'우영우' 절차 밟나]]></title>
         <id>https://v.daum.net/v/20230804180527306</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230804174147621"/>
         <updated>2023-08-04T09:09:38.641Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원,'들려온 첩보에 의하면 확실한 재미 보장' 소방서 옆 제발회]]></title>
-        <id>https://v.daum.net/v/20230804171135772</id>
-        <link href="https://v.daum.net/v/20230804171135772"/>
-        <updated>2023-08-04T08:18:31.755Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원 vs 남궁민...오늘 첫 방 앞둔 '소옆경2'·'연인']]></title>
-        <id>https://v.daum.net/v/20230804171030746</id>
-        <link href="https://v.daum.net/v/20230804171030746"/>
-        <updated>2023-08-04T08:18:31.755Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희정, 깊은 연기 내공에 몰입감↑…역시 '믿보배']]></title>
-        <id>https://v.daum.net/v/20230804165925481</id>
-        <link href="https://v.daum.net/v/20230804165925481"/>
-        <updated>2023-08-04T08:18:31.763Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 강해진 조병규와 '경이로운소문2'..김래원x남궁민 왔지만 넷플릭스 승승장구]]></title>
-        <id>https://v.daum.net/v/20230804165618407</id>
-        <link href="https://v.daum.net/v/20230804165618407"/>
-        <updated>2023-08-04T08:18:31.763Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 동시간대 경쟁 '소옆경2' 김래원에 "전 자신 있다"]]></title>
-        <id>https://v.daum.net/v/20230804165615405</id>
-        <link href="https://v.daum.net/v/20230804165615405"/>
-        <updated>2023-08-04T08:18:31.763Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
