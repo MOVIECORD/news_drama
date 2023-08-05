@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-05T21:09:00.807Z</updated>
+    <updated>2023-08-05T22:08:19.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 윤아에 프러포즈 실패 "나랑 다 안 어울려"]]></title>
+        <id>https://v.daum.net/v/20230806065418104</id>
+        <link href="https://v.daum.net/v/20230806065418104"/>
+        <updated>2023-08-05T22:08:08.503Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준·공승연 위기...김래원, 독기 제대로 품었다]]></title>
+        <id>https://v.daum.net/v/20230806065002084</id>
+        <link href="https://v.daum.net/v/20230806065002084"/>
+        <updated>2023-08-05T22:08:08.506Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조병규, 강기영와 대치···진선규, 악귀 되다]]></title>
+        <id>https://v.daum.net/v/20230806063024991</id>
+        <link href="https://v.daum.net/v/20230806063024991"/>
+        <updated>2023-08-05T22:08:08.506Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정 첫사랑 재회, 교복 입고 고교시절 소환]]></title>
         <id>https://v.daum.net/v/20230806060649910</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“남의 애 안고 꼴값” 강부자, 안재현에 독설 걱정]]></title>
+        <title type="html"><![CDATA[“남의 애 안고 꼴값” 강부자, 안재현에 독설로 걱정]]></title>
         <id>https://v.daum.net/v/20230806060516903</id>
         <link href="https://v.daum.net/v/20230806060516903"/>
         <updated>2023-08-05T21:07:58.228Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230806050801519"/>
         <updated>2023-08-05T20:09:25.504Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 조병규, 강기영와 1대1 맞주먹···설욕 가능한가]]></title>
-        <id>https://v.daum.net/v/20230806015600276</id>
-        <link href="https://v.daum.net/v/20230806015600276"/>
-        <updated>2023-08-05T17:08:11.803Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 이준호, 프로포즈 실패···임윤아 "나 떠날래" 이별]]></title>
-        <id>https://v.daum.net/v/20230806013550262</id>
-        <link href="https://v.daum.net/v/20230806013550262"/>
-        <updated>2023-08-05T17:08:11.805Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매몰 현장서 구조된 공승연 '위중 상태'...김래원은 사체 확인 후 '충격']]></title>
-        <id>https://v.daum.net/v/20230806001601161</id>
-        <link href="https://v.daum.net/v/20230806001601161"/>
-        <updated>2023-08-05T16:11:00.067Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
