@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-05T15:09:02.622Z</updated>
+    <updated>2023-08-05T16:12:03.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["나 그만하고 싶어"..'킹더랜드' 이준호, ♥임윤아 이별 선언에 '충격'..프러포즈 불발]]></title>
+        <title type="html"><![CDATA[매몰 현장서 구조된 공승연 '위중 상태'...김래원은 사체 확인 후 '충격']]></title>
+        <id>https://v.daum.net/v/20230806001601161</id>
+        <link href="https://v.daum.net/v/20230806001601161"/>
+        <updated>2023-08-05T16:11:00.067Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["나 그만하고 싶어"..'킹더랜드' 이준호, ♥임윤아 이별 통보에 '충격'..프러포즈 불발]]></title>
         <id>https://v.daum.net/v/20230806000316131</id>
         <link href="https://v.daum.net/v/20230806000316131"/>
         <updated>2023-08-05T15:08:50.938Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805224011755"/>
         <updated>2023-08-05T14:08:43.371Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경소문2’ 조병규 “넌 오늘 끝” 악귀 강기영 격돌, 진선규 흑화]]></title>
-        <id>https://v.daum.net/v/20230805223932751</id>
-        <link href="https://v.daum.net/v/20230805223932751"/>
-        <updated>2023-08-05T14:08:43.373Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
