@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-05T16:12:03.289Z</updated>
+    <updated>2023-08-05T17:08:23.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경소문2' 조병규, 강기영와 1대1 맞주먹···설욕 가능한가]]></title>
+        <id>https://v.daum.net/v/20230806015600276</id>
+        <link href="https://v.daum.net/v/20230806015600276"/>
+        <updated>2023-08-05T17:08:11.803Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 이준호, 프로포즈 실패···임윤아 "나 떠날래" 이별]]></title>
+        <id>https://v.daum.net/v/20230806013550262</id>
+        <link href="https://v.daum.net/v/20230806013550262"/>
+        <updated>2023-08-05T17:08:11.805Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매몰 현장서 구조된 공승연 '위중 상태'...김래원은 사체 확인 후 '충격']]></title>
         <id>https://v.daum.net/v/20230806001601161</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805224310768"/>
         <updated>2023-08-05T14:08:43.368Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 이학주, 직진 고백하는 안은진 에둘러 거절 "♥이다인에게 나 뿐"]]></title>
-        <id>https://v.daum.net/v/20230805224029758</id>
-        <link href="https://v.daum.net/v/20230805224029758"/>
-        <updated>2023-08-05T14:08:43.370Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조병규, 염혜란x안석환 구해···진선규, 악귀 동화됐다]]></title>
-        <id>https://v.daum.net/v/20230805224011755</id>
-        <link href="https://v.daum.net/v/20230805224011755"/>
-        <updated>2023-08-05T14:08:43.371Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
