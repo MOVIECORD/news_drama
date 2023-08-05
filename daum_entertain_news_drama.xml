@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-05T19:07:41.106Z</updated>
+    <updated>2023-08-05T20:09:37.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이효리♥이상순→오은영' 등장..홍현희 子 돌잔치 광란의 '핵인싸 파티']]></title>
+        <id>https://v.daum.net/v/20230806050801519</id>
+        <link href="https://v.daum.net/v/20230806050801519"/>
+        <updated>2023-08-05T20:09:25.504Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경소문2' 조병규, 강기영와 1대1 맞주먹···설욕 가능한가]]></title>
         <id>https://v.daum.net/v/20230806015600276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805225913845"/>
         <updated>2023-08-05T14:08:43.367Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 유인수, 강기영 냄새 맡았다..조병규 출동]]></title>
-        <id>https://v.daum.net/v/20230805224310768</id>
-        <link href="https://v.daum.net/v/20230805224310768"/>
-        <updated>2023-08-05T14:08:43.368Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
