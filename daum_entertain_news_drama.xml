@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-06T01:50:17.703Z</updated>
+    <updated>2023-08-06T02:19:56.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유이･강상준, 이혼남녀 뜻밖의 재회..3번째 결혼도 환영]]></title>
+        <id>https://v.daum.net/v/20230806111251288</id>
+        <link href="https://v.daum.net/v/20230806111251288"/>
+        <updated>2023-08-06T02:19:39.077Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성형으로 뜯어 고친 최명길, 30살 연하남에 청혼 받았다 "내일 혼인신고 하자"]]></title>
         <id>https://v.daum.net/v/20230806103701729</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230806090325400"/>
         <updated>2023-08-06T00:49:44.893Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["떠나겠다"…종영까지 1회 '킹더랜드' 이준호♥임윤아, 설마 새드엔딩?]]></title>
-        <id>https://v.daum.net/v/20230806090014279</id>
-        <link href="https://v.daum.net/v/20230806090014279"/>
-        <updated>2023-08-06T00:49:44.893Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
