@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-06T03:10:26.271Z</updated>
+    <updated>2023-08-06T04:12:14.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘임윤아♥’ 이준호 감정 폭발, 시청자도 울린 눈물 연기]]></title>
+        <id>https://v.daum.net/v/20230806130921979</id>
+        <link href="https://v.daum.net/v/20230806130921979"/>
+        <updated>2023-08-06T04:11:11.482Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘킹더랜드’ 안세하 “행복한 꿈꾼 기분..6남매 오랫동안 기억에 머무를 듯” 종영 소감]]></title>
         <id>https://v.daum.net/v/20230806115519986</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230806093104758"/>
         <updated>2023-08-06T00:49:44.875Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤아, ♥이준호 재회에도 "떠나겠다" 선언..결말 앞둔 '킹더랜드']]></title>
-        <id>https://v.daum.net/v/20230806092058639</id>
-        <link href="https://v.daum.net/v/20230806092058639"/>
-        <updated>2023-08-06T00:49:44.875Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
