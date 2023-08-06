@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-06T09:10:19.036Z</updated>
+    <updated>2023-08-06T10:09:31.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가슴이 웅장해진다…민족정신 고취 시키는 '찐' 사극의 컴백]]></title>
+        <id>https://v.daum.net/v/20230806190520444</id>
+        <link href="https://v.daum.net/v/20230806190520444"/>
+        <updated>2023-08-06T10:09:19.217Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘경이로운 소문2’ 진선규는 善? 惡? 악귀 속삭임이 들린다]]></title>
+        <id>https://v.daum.net/v/20230806183001885</id>
+        <link href="https://v.daum.net/v/20230806183001885"/>
+        <updated>2023-08-06T10:09:19.227Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["그만하고 싶어" 이준호♥임윤아, 해피엔딩 맞을까…종영 D-DAY]]></title>
         <id>https://v.daum.net/v/20230806173744887</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230806134501525"/>
         <updated>2023-08-06T05:09:15.739Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연, 행방불명 원지안 父 추적..위험에 빠진 서현철 구할까]]></title>
-        <id>https://v.daum.net/v/20230806134218487</id>
-        <link href="https://v.daum.net/v/20230806134218487"/>
-        <updated>2023-08-06T05:09:15.739Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공멸필의 귀환”..강기둥, 김래원과 짙어진 케미]]></title>
-        <id>https://v.daum.net/v/20230806133722401</id>
-        <link href="https://v.daum.net/v/20230806133722401"/>
-        <updated>2023-08-06T05:09:15.742Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
