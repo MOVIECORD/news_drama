@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-07T12:18:45.488Z</updated>
+    <updated>2023-08-07T13:13:13.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 김소현, 황민현 마스크 벗기고 사과 "너무 가려서 궁금해"]]></title>
+        <id>https://v.daum.net/v/20230807211908839</id>
+        <link href="https://v.daum.net/v/20230807211908839"/>
+        <updated>2023-08-07T13:13:02.780Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하늘의 인연’ 악행 드러난 김유석, 몰락 위기]]></title>
         <id>https://v.daum.net/v/20230807211806827</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230807181011070"/>
         <updated>2023-08-07T10:11:29.395Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비극 알기에 더 슬픈 '연인'…남궁민·안은진, 애틋할 수밖에]]></title>
-        <id>https://v.daum.net/v/20230807180209865</id>
-        <link href="https://v.daum.net/v/20230807180209865"/>
-        <updated>2023-08-07T09:10:09.256Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
