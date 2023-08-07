@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-07T06:14:21.733Z</updated>
+    <updated>2023-08-07T07:10:26.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주미, 전생도 애절하게 고백…김민준 앞 완급 조절]]></title>
+        <id>https://v.daum.net/v/20230807160914258</id>
+        <link href="https://v.daum.net/v/20230807160914258"/>
+        <updated>2023-08-07T07:10:14.301Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주미, 이러니까 임성한 작가가 좋아하지]]></title>
+        <id>https://v.daum.net/v/20230807160454099</id>
+        <link href="https://v.daum.net/v/20230807160454099"/>
+        <updated>2023-08-07T07:10:14.305Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥택연, 감옥에 갇혔다..백서후 계략에 망연자실]]></title>
+        <id>https://v.daum.net/v/20230807160251994</id>
+        <link href="https://v.daum.net/v/20230807160251994"/>
+        <updated>2023-08-07T07:10:14.305Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감옥 갇힌 옥택연, 백서후 향해 서늘한 눈빛]]></title>
         <id>https://v.daum.net/v/20230807151144019</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230807134427770"/>
         <updated>2023-08-07T05:09:59.000Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안세하가 안세하했다..‘킹더랜드’ 대미 장식]]></title>
-        <id>https://v.daum.net/v/20230807134247733</id>
-        <link href="https://v.daum.net/v/20230807134247733"/>
-        <updated>2023-08-07T05:09:59.001Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하승리, 천재 복서 김소혜 두고 이상엽과 라이벌 구도]]></title>
-        <id>https://v.daum.net/v/20230807134101675</id>
-        <link href="https://v.daum.net/v/20230807134101675"/>
-        <updated>2023-08-07T05:09:59.002Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마약 누명’ 이상보, 11개월만 컴백 “이젠 다 지나간 일”]]></title>
-        <id>https://v.daum.net/v/20230807133201423</id>
-        <link href="https://v.daum.net/v/20230807133201423"/>
-        <updated>2023-08-07T05:09:59.005Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
