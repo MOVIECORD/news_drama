@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-08T03:11:29.438Z</updated>
+    <updated>2023-08-08T04:12:03.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장동건 VS 이준기, 충돌 직전 '이글이글'..제대로 맞붙었다]]></title>
+        <id>https://v.daum.net/v/20230808122314380</id>
+        <link href="https://v.daum.net/v/20230808122314380"/>
+        <updated>2023-08-08T04:11:49.177Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“애초에 능력도 없는 인간” 이기우, 숨겨둔 발톱 드러낸다]]></title>
         <id>https://v.daum.net/v/20230808120925085</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230808101712106"/>
         <updated>2023-08-08T01:58:35.348Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 임윤아 "이준호와 잘 맞아…즉석에서 애드리브도"]]></title>
-        <id>https://v.daum.net/v/20230808100951802</id>
-        <link href="https://v.daum.net/v/20230808100951802"/>
-        <updated>2023-08-08T01:58:35.350Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
