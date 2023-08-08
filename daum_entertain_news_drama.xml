@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-08T21:09:33.126Z</updated>
+    <updated>2023-08-08T22:09:40.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘잔혹한 인턴’ 라미란 “짠내 가득 경단녀 생존기…누구나 공감할 걸요?”]]></title>
+        <id>https://v.daum.net/v/20230809063020667</id>
+        <link href="https://v.daum.net/v/20230809063020667"/>
+        <updated>2023-08-08T22:09:28.972Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수미, 며느리 서효림과 '한식' 전 세계에 알린다]]></title>
         <id>https://v.daum.net/v/20230809060030249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230808193002144"/>
         <updated>2023-08-08T11:08:48.256Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['형사록', 시즌1보다 시즌2 완성도가 더 높아진 이유]]></title>
-        <id>https://v.daum.net/v/20230808182931879</id>
-        <link href="https://v.daum.net/v/20230808182931879"/>
-        <updated>2023-08-08T10:10:43.341Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
