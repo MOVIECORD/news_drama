@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-08T20:11:09.781Z</updated>
+    <updated>2023-08-08T21:09:33.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수미, 며느리 서효림과 '한식' 전 세계에 알린다]]></title>
+        <id>https://v.daum.net/v/20230809060030249</id>
+        <link href="https://v.daum.net/v/20230809060030249"/>
+        <updated>2023-08-08T21:09:23.118Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국형 ‘무빙’ 할리우드 히어로물과 어떻게 다를까]]></title>
+        <id>https://v.daum.net/v/20230809055905180</id>
+        <link href="https://v.daum.net/v/20230809055905180"/>
+        <updated>2023-08-08T21:09:23.132Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영호, 이윤성에게 진심 고백 "사랑한다...도망치지 않겠다"]]></title>
         <id>https://v.daum.net/v/20230808230000773</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808182931879"/>
         <updated>2023-08-08T10:10:43.341Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환 "'또 봐' 정해인과 터미널 이별 신..'D.P.'에 작별 인사"]]></title>
-        <id>https://v.daum.net/v/20230808182609801</id>
-        <link href="https://v.daum.net/v/20230808182609801"/>
-        <updated>2023-08-08T10:10:43.342Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준·안보현, '창조' 인성 논란 더 씁쓸한 이유]]></title>
-        <id>https://v.daum.net/v/20230808182213695</id>
-        <link href="https://v.daum.net/v/20230808182213695"/>
-        <updated>2023-08-08T10:10:43.348Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
