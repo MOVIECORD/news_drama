@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-09T02:28:17.349Z</updated>
+    <updated>2023-08-09T03:10:45.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유괴의 날' 윤계상X유나, 듣도 보도 못한 대환장 '유괴 케미']]></title>
+        <id>https://v.daum.net/v/20230809115022942</id>
+        <link href="https://v.daum.net/v/20230809115022942"/>
+        <updated>2023-08-09T03:10:33.494Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혜진, 돌풍의 '남남'으로 제대로 빛난 진가]]></title>
         <id>https://v.daum.net/v/20230809112733898</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘밀수’ 이어 ‘무빙’ 출격..극장+OTT 흥행 둘 다 잡는다]]></title>
+        <title type="html"><![CDATA[NEW, ‘밀수’ 이어 ‘무빙’ 출격..극장+OTT 흥행 둘 다 잡는다]]></title>
         <id>https://v.daum.net/v/20230809105727531</id>
         <link href="https://v.daum.net/v/20230809105727531"/>
         <updated>2023-08-09T01:59:01.207Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809095347609"/>
         <updated>2023-08-09T01:59:01.232Z</updated>
         <content type="html"><![CDATA[스포티비뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰 된 임지연, 뭘 보고 놀랐나…'국민사형투표', 내일 첫방]]></title>
-        <id>https://v.daum.net/v/20230809094258130</id>
-        <link href="https://v.daum.net/v/20230809094258130"/>
-        <updated>2023-08-09T00:51:04.235Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
