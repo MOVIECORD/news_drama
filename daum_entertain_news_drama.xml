@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-09T18:13:35.534Z</updated>
+    <updated>2023-08-09T19:09:09.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 병자호란 발발됐다…곱게 자란 안은진X이다인, 위태로운 피난길]]></title>
+        <id>https://v.daum.net/v/20230810040007991</id>
+        <link href="https://v.daum.net/v/20230810040007991"/>
+        <updated>2023-08-09T19:08:59.064Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김시은, 아빠 서준영 연애 질투하면서도 걱정 "옥쌤 우리랑 다른 세계 사람"]]></title>
         <id>https://v.daum.net/v/20230809214900829</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230809164921702"/>
         <updated>2023-08-09T08:13:59.063Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄청 잘 나가는 임지연이 쏠쏠하게 챙긴 추가 보너스 흥행작]]></title>
-        <id>https://v.daum.net/v/20230809164103339</id>
-        <link href="https://v.daum.net/v/20230809164103339"/>
-        <updated>2023-08-09T08:13:59.084Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
