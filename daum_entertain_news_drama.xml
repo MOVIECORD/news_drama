@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-10T16:15:52.204Z</updated>
+    <updated>2023-08-10T17:09:12.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박해진, 임지연에 "네 소문 나도 들었다…주특기는 내부 고발" 도발]]></title>
+        <id>https://v.daum.net/v/20230811015401794</id>
+        <link href="https://v.daum.net/v/20230811015401794"/>
+        <updated>2023-08-10T17:09:01.429Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 아동 성 범죄자 엽기적으로 살해..."우리 정의는 상식적"]]></title>
         <id>https://v.daum.net/v/20230811010600680</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230810184306285"/>
         <updated>2023-08-10T10:11:49.207Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민 "코미디 도전, 고민 많았지만…육해공 다 누볐다"]]></title>
-        <id>https://v.daum.net/v/20230810183003932</id>
-        <link href="https://v.daum.net/v/20230810183003932"/>
-        <updated>2023-08-10T10:11:49.207Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
