@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-10T20:09:58.039Z</updated>
+    <updated>2023-08-10T21:09:07.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경력 단절→실직 가장 ‘잔혹한 인턴’ 배우도 울린 사이다 오피스물]]></title>
+        <id>https://v.daum.net/v/20230811060012314</id>
+        <link href="https://v.daum.net/v/20230811060012314"/>
+        <updated>2023-08-10T21:08:55.062Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 코쿤, 스마트폰 '감금' 시도…디지털 디톡스 성공할까]]></title>
+        <id>https://v.daum.net/v/20230811055905273</id>
+        <link href="https://v.daum.net/v/20230811055905273"/>
+        <updated>2023-08-10T21:08:55.064Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 임지연, "범인은 박성웅" 박해진과 공조]]></title>
+        <id>https://v.daum.net/v/20230811054702204</id>
+        <link href="https://v.daum.net/v/20230811054702204"/>
+        <updated>2023-08-10T21:08:55.069Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악귀' 김태리, 판소리 천재소녀로 컴백...인기 이어갈까]]></title>
         <id>https://v.daum.net/v/20230811040231243</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230810201930435"/>
         <updated>2023-08-10T12:20:47.608Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손성윤, 김진우에 선전포고 "한지완=전처 닮은꼴…재수 없어"]]></title>
-        <id>https://v.daum.net/v/20230810200928231</id>
-        <link href="https://v.daum.net/v/20230810200928231"/>
-        <updated>2023-08-10T12:20:47.608Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김병철♥윤세아 열애설 다시 불붙나..'완벽한 가족' 또 부부 호흡]]></title>
-        <id>https://v.daum.net/v/20230810190658801</id>
-        <link href="https://v.daum.net/v/20230810190658801"/>
-        <updated>2023-08-10T10:11:49.201Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['펜트3' 추락 잊었나…'국민사형투표' 주1회 편성, 득일까 독일까]]></title>
-        <id>https://v.daum.net/v/20230810190102668</id>
-        <link href="https://v.daum.net/v/20230810190102668"/>
-        <updated>2023-08-10T10:11:49.201Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
