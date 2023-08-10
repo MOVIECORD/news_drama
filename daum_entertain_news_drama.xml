@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-10T18:12:29.465Z</updated>
+    <updated>2023-08-10T19:08:21.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악귀' 김태리, 판소리 천재소녀로 컴백...인기 이어갈까]]></title>
+        <id>https://v.daum.net/v/20230811040231243</id>
+        <link href="https://v.daum.net/v/20230811040231243"/>
+        <updated>2023-08-10T19:08:10.226Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, 박해진에 "개탈 쓴 범인은 박성웅"…'국민사형투표' 사건 공조 시작]]></title>
         <id>https://v.daum.net/v/20230811022401830</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230810190102668"/>
         <updated>2023-08-10T10:11:49.201Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 대세의 만남..김향기, 이준호와 '캐셔로' 출연]]></title>
-        <id>https://v.daum.net/v/20230810190021647</id>
-        <link href="https://v.daum.net/v/20230810190021647"/>
-        <updated>2023-08-10T10:11:49.207Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
