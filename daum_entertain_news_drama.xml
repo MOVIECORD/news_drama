@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-11T07:10:28.306Z</updated>
+    <updated>2023-08-11T08:12:08.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘가슴이 뛴다’ 사랑과 피로 둘러싸인 옥택연-원지안 운명 어떻게 될까]]></title>
+        <id>https://v.daum.net/v/20230811170412854</id>
+        <link href="https://v.daum.net/v/20230811170412854"/>
+        <updated>2023-08-11T08:11:59.040Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['순정복서' 채원빈, 韓 최초 페더급 챔피언 변신 "대역 無"]]></title>
         <id>https://v.daum.net/v/20230811154814439</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230811125001673"/>
         <updated>2023-08-11T04:11:41.580Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘무빙’ 조인성♥한효주 초능력 빼닮은 이정하, 고윤정과 로맨스까지]]></title>
-        <id>https://v.daum.net/v/20230811121728123</id>
-        <link href="https://v.daum.net/v/20230811121728123"/>
-        <updated>2023-08-11T04:11:41.580Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
