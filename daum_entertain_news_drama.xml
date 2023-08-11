@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-11T13:11:19.409Z</updated>
+    <updated>2023-08-11T14:10:18.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준, 죽음 맞아 '충격 반전'...공승연에 "많이 울지는 마"]]></title>
+        <id>https://v.daum.net/v/20230811230030632</id>
+        <link href="https://v.daum.net/v/20230811230030632"/>
+        <updated>2023-08-11T14:09:15.337Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 공승연, 손호준 유서 찾았다 '오열']]></title>
+        <id>https://v.daum.net/v/20230811224814545</id>
+        <link href="https://v.daum.net/v/20230811224814545"/>
+        <updated>2023-08-11T14:09:15.338Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준 충격 사망..공승연에 "많이 울지 마라"]]></title>
+        <id>https://v.daum.net/v/20230811224353502</id>
+        <link href="https://v.daum.net/v/20230811224353502"/>
+        <updated>2023-08-11T14:09:15.341Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 손호준, 시신으로 발견됐다…공승연에 "많이 울지 마라"]]></title>
+        <id>https://v.daum.net/v/20230811221640169</id>
+        <link href="https://v.daum.net/v/20230811221640169"/>
+        <updated>2023-08-11T14:09:15.342Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하트시그널4’ 선택 망설이는 신민규, 유지원 한 마디에 달라진 분위기]]></title>
         <id>https://v.daum.net/v/20230811215000590</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230811172421446"/>
         <updated>2023-08-11T09:09:43.754Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가슴이 뛴다’ 사랑과 피로 둘러싸인 옥택연-원지안 운명 어떻게 될까]]></title>
-        <id>https://v.daum.net/v/20230811170412854</id>
-        <link href="https://v.daum.net/v/20230811170412854"/>
-        <updated>2023-08-11T08:11:59.040Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순정복서' 채원빈, 韓 최초 페더급 챔피언 변신 "대역 無"]]></title>
-        <id>https://v.daum.net/v/20230811154814439</id>
-        <link href="https://v.daum.net/v/20230811154814439"/>
-        <updated>2023-08-11T07:09:20.544Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다시 전생으로 돌아가려 한다" 이다연 현생 마무리할까..의미심장 대사]]></title>
-        <id>https://v.daum.net/v/20230811154211247</id>
-        <link href="https://v.daum.net/v/20230811154211247"/>
-        <updated>2023-08-11T07:09:20.557Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민경·김용명 웃음 버튼이라는데… 환장 카오스]]></title>
-        <id>https://v.daum.net/v/20230811152927784</id>
-        <link href="https://v.daum.net/v/20230811152927784"/>
-        <updated>2023-08-11T07:09:20.562Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
