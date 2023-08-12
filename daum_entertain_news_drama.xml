@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-12T19:08:14.440Z</updated>
+    <updated>2023-08-12T20:09:22.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 국수본 팀장 된 김래원, "급하게 가봐야 할 곳 있다"…또다시 태원으로]]></title>
+        <id>https://v.daum.net/v/20230813041501593</id>
+        <link href="https://v.daum.net/v/20230813041501593"/>
+        <updated>2023-08-12T20:09:10.942Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 공승연, "내가 찾던 사람 당신일지도 모른다고 생각했지만…" 김래원 밀어냈다]]></title>
         <id>https://v.daum.net/v/20230813040600588</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230812232257175"/>
         <updated>2023-08-12T15:08:48.054Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 공승연 피습→구출 성공..김래원 "울지마" 고백]]></title>
-        <id>https://v.daum.net/v/20230812231728164</id>
-        <link href="https://v.daum.net/v/20230812231728164"/>
-        <updated>2023-08-12T15:08:48.061Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
