@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-12T10:09:11.722Z</updated>
+    <updated>2023-08-12T11:07:30.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엉덩이 만지는 한지민?…‘힙하게’, ‘킹더랜드’ 흥행 이어받을까]]></title>
+        <id>https://v.daum.net/v/20230812195402758</id>
+        <link href="https://v.daum.net/v/20230812195402758"/>
+        <updated>2023-08-12T11:07:18.251Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연쇄 방화 살인 사건 결론 나온다…김래원 vs 오의식 대치]]></title>
+        <id>https://v.daum.net/v/20230812194802714</id>
+        <link href="https://v.daum.net/v/20230812194802714"/>
+        <updated>2023-08-12T11:07:18.259Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8개월만에 뒤바뀐 '더 글로리' 배우 입지…차주영 울고 김히어라 웃었다]]></title>
         <id>https://v.daum.net/v/20230812180101655</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230812141833518"/>
         <updated>2023-08-12T06:11:44.332Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아씨 두리안' 삼각 러브라인 절정…그 끝은 어디로]]></title>
-        <id>https://v.daum.net/v/20230812135500249</id>
-        <link href="https://v.daum.net/v/20230812135500249"/>
-        <updated>2023-08-12T05:08:32.324Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연인’ 곱게 자란 안은진 이다인 피칠갑 포착, 무슨 일 있었길래]]></title>
-        <id>https://v.daum.net/v/20230812134040098</id>
-        <link href="https://v.daum.net/v/20230812134040098"/>
-        <updated>2023-08-12T05:08:32.325Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
