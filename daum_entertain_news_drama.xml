@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-12T06:12:47.257Z</updated>
+    <updated>2023-08-12T07:09:43.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[토요일, 드라마 대격돌]]></title>
+        <id>https://v.daum.net/v/20230812155003397</id>
+        <link href="https://v.daum.net/v/20230812155003397"/>
+        <updated>2023-08-12T07:08:39.983Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칠순 최명길, 40세 곽민호와 혼인신고..윤해영 어쩌나]]></title>
         <id>https://v.daum.net/v/20230812145832886</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230812105040564"/>
         <updated>2023-08-12T02:12:15.877Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임성한표 장르물 '아씨 두리안', 미쳐도 곱게 미친 문제작]]></title>
-        <id>https://v.daum.net/v/20230812105005558</id>
-        <link href="https://v.daum.net/v/20230812105005558"/>
-        <updated>2023-08-12T02:12:15.880Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
