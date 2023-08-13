@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-13T08:11:51.865Z</updated>
+    <updated>2023-08-13T09:09:49.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아씨 두리안' 최명길 "신선한 작품 출연, 즐거웠다"..파격 도전 소감]]></title>
+        <id>https://v.daum.net/v/20230813172634903</id>
+        <link href="https://v.daum.net/v/20230813172634903"/>
+        <updated>2023-08-13T09:08:46.891Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유준상, 형사 ‘모탁’ 촉 발동했다..각기 다른 매력 ‘눈길’]]></title>
+        <id>https://v.daum.net/v/20230813171517734</id>
+        <link href="https://v.daum.net/v/20230813171517734"/>
+        <updated>2023-08-13T09:08:46.894Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민 비주얼 왜 이래? 이민기가 또…수호 첫 등장]]></title>
         <id>https://v.daum.net/v/20230813170447549</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230813135819552"/>
         <updated>2023-08-13T05:08:50.832Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이다연, 오늘 ‘아씨두리안’ 최종회..전생vs현생 선택은?]]></title>
-        <id>https://v.daum.net/v/20230813135256474</id>
-        <link href="https://v.daum.net/v/20230813135256474"/>
-        <updated>2023-08-13T05:08:50.842Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 주헌, 입대 전 녹음 '힙하게' OST 오늘 발매]]></title>
-        <id>https://v.daum.net/v/20230813135020446</id>
-        <link href="https://v.daum.net/v/20230813135020446"/>
-        <updated>2023-08-13T05:08:50.843Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
