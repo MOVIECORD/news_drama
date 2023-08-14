@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-14T03:11:05.830Z</updated>
+    <updated>2023-08-14T04:11:52.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송지현, ‘소용없어 거짓말’ 합류..황민현 전 여자친구 역]]></title>
+        <id>https://v.daum.net/v/20230814122920395</id>
+        <link href="https://v.daum.net/v/20230814122920395"/>
+        <updated>2023-08-14T04:11:40.634Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애 측 “‘은수좋은날’ 출연 긍정 검토 중”]]></title>
+        <id>https://v.daum.net/v/20230814121422116</id>
+        <link href="https://v.daum.net/v/20230814121422116"/>
+        <updated>2023-08-14T04:11:40.643Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채리은, 왜 중국어 원어민 수준인가 했더니 “中 아나운서과 출신”]]></title>
+        <id>https://v.daum.net/v/20230814121120071</id>
+        <link href="https://v.daum.net/v/20230814121120071"/>
+        <updated>2023-08-14T04:11:40.644Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동건=왕이 될 상인가 "'아스달 연대기' 후 궁금..'아라문의 검' 기뻐"]]></title>
         <id>https://v.daum.net/v/20230814115015353</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230814103533145"/>
         <updated>2023-08-14T01:42:01.422Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아씨 두리안’ 지영산 “단치정 박일수 위해 혹독한 다이어트, 8㎏ 감량”]]></title>
-        <id>https://v.daum.net/v/20230814102117547</id>
-        <link href="https://v.daum.net/v/20230814102117547"/>
-        <updated>2023-08-14T01:42:01.424Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아씨두리안’ 단등명 유정후 “모든 순간 꿈만 같았다” 종영소감]]></title>
-        <id>https://v.daum.net/v/20230814095221481</id>
-        <link href="https://v.daum.net/v/20230814095221481"/>
-        <updated>2023-08-14T01:42:01.426Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애 측 "'은수좋은날' 출연? 확인 불가…전달받은 바 없다"]]></title>
-        <id>https://v.daum.net/v/20230814095201465</id>
-        <link href="https://v.daum.net/v/20230814095201465"/>
-        <updated>2023-08-14T01:42:01.427Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
