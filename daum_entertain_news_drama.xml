@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-14T10:10:24.251Z</updated>
+    <updated>2023-08-14T11:08:38.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘' 전혜연, 김유석에 분노 폭발 "억울한 옥살이, 내장파열 직전까지 맞아"]]></title>
+        <id>https://v.daum.net/v/20230814195130177</id>
+        <link href="https://v.daum.net/v/20230814195130177"/>
+        <updated>2023-08-14T11:08:27.293Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 김유석에 "더 이상 안 속아" 소리쳐]]></title>
+        <id>https://v.daum.net/v/20230814194902153</id>
+        <link href="https://v.daum.net/v/20230814194902153"/>
+        <updated>2023-08-14T11:08:27.294Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["안효섭이 뚱뚱?"...'상견니' 리메이크작에 반응 나뉜 팬들]]></title>
         <id>https://v.daum.net/v/20230814185800546</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230814150940130"/>
         <updated>2023-08-14T06:13:21.981Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 측 "이상민 전 여친 얼굴공개, 사전에 동의구한 것"]]></title>
-        <id>https://v.daum.net/v/20230814144200018</id>
-        <link href="https://v.daum.net/v/20230814144200018"/>
-        <updated>2023-08-14T06:13:21.983Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가슴이 뛴다' 장서연 "좋은 작품에 참여하게 되어 영광"]]></title>
-        <id>https://v.daum.net/v/20230814142307332</id>
-        <link href="https://v.daum.net/v/20230814142307332"/>
-        <updated>2023-08-14T06:13:21.984Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
