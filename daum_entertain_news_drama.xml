@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T02:14:27.505Z</updated>
+    <updated>2023-08-15T03:10:10.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽, 사각의 링에 인생 던진다]]></title>
+        <id>https://v.daum.net/v/20230815120208089</id>
+        <link href="https://v.daum.net/v/20230815120208089"/>
+        <updated>2023-08-15T03:10:00.373Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['몸값', 토론토국제영화제 프라임타임 부문 공식 초청]]></title>
+        <id>https://v.daum.net/v/20230815115841945</id>
+        <link href="https://v.daum.net/v/20230815115841945"/>
+        <updated>2023-08-15T03:10:00.374Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상엽, 선수 골수까지 빼먹어..피도 눈물도 없는 냉혈한 두 얼굴]]></title>
         <id>https://v.daum.net/v/20230815110907228</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230815073009224"/>
         <updated>2023-08-14T23:09:15.697Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미주가 부른 '소용없어 거짓말' OST '내마음이 하는일'…오늘 발매]]></title>
-        <id>https://v.daum.net/v/20230815072824206</id>
-        <link href="https://v.daum.net/v/20230815072824206"/>
-        <updated>2023-08-14T23:09:15.698Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민현, 김소현 말에 용기 냈다…마스크 벗고 얼굴 공개]]></title>
-        <id>https://v.daum.net/v/20230815072701192</id>
-        <link href="https://v.daum.net/v/20230815072701192"/>
-        <updated>2023-08-14T23:09:15.700Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
