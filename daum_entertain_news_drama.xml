@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T12:18:04.696Z</updated>
+    <updated>2023-08-15T13:11:42.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어디서 애딸린 홀애비를 만나"...이응경, 윤다영에게 분노]]></title>
+        <id>https://v.daum.net/v/20230815213930532</id>
+        <link href="https://v.daum.net/v/20230815213930532"/>
+        <updated>2023-08-15T13:11:29.961Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘몸값’ 잘 나가네, 토론토국제영화제 프라임타임 부문 초청]]></title>
+        <id>https://v.daum.net/v/20230815211658329</id>
+        <link href="https://v.daum.net/v/20230815211658329"/>
+        <updated>2023-08-15T13:11:29.962Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 김진우, 회사 물려받으려 한지완에 고백 "나 평생 책임져"]]></title>
         <id>https://v.daum.net/v/20230815210544221</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230815172745066"/>
         <updated>2023-08-15T09:10:04.136Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은숙 "애국 드라마 하고 싶었다"… '대사 오글거려' 반응에 내놓은 대답은?]]></title>
-        <id>https://v.daum.net/v/20230815171900908</id>
-        <link href="https://v.daum.net/v/20230815171900908"/>
-        <updated>2023-08-15T09:10:04.149Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜진·최수영 상극 모녀 맞아? 가까워졌다]]></title>
-        <id>https://v.daum.net/v/20230815162444140</id>
-        <link href="https://v.daum.net/v/20230815162444140"/>
-        <updated>2023-08-15T08:14:04.591Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
