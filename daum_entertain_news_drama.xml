@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T06:13:44.986Z</updated>
+    <updated>2023-08-15T07:09:14.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤지온, 신스틸러 그 이상]]></title>
+        <id>https://v.daum.net/v/20230815155400661</id>
+        <link href="https://v.daum.net/v/20230815155400661"/>
+        <updated>2023-08-15T07:09:03.791Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 윤지온, 신스틸러 그 이상]]></title>
+        <id>https://v.daum.net/v/20230815153346410</id>
+        <link href="https://v.daum.net/v/20230815153346410"/>
+        <updated>2023-08-15T07:09:03.792Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수영, 박성훈 어깨에 기댔다…스킨십 포착]]></title>
         <id>https://v.daum.net/v/20230815145336772</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230815093317585"/>
         <updated>2023-08-15T00:40:32.177Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규→전종서 '몸값', 토론토 국제영화제 프라임타임 부문 진출]]></title>
-        <id>https://v.daum.net/v/20230815091702398</id>
-        <link href="https://v.daum.net/v/20230815091702398"/>
-        <updated>2023-08-15T00:40:32.177Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥택연, 사냥 당할 위기→그 순간 나타난 원지안]]></title>
-        <id>https://v.daum.net/v/20230815090848306</id>
-        <link href="https://v.daum.net/v/20230815090848306"/>
-        <updated>2023-08-15T00:40:32.180Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
