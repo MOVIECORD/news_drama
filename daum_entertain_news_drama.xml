@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T03:10:10.137Z</updated>
+    <updated>2023-08-15T04:11:39.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['복숭아 누르지 마시오' 노종현, 정이서와 사랑 결실..열 일 행보]]></title>
+        <id>https://v.daum.net/v/20230815130156840</id>
+        <link href="https://v.daum.net/v/20230815130156840"/>
+        <updated>2023-08-15T04:11:29.362Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상엽, 사각의 링에 인생 던진다]]></title>
         <id>https://v.daum.net/v/20230815120208089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815074757373"/>
         <updated>2023-08-14T23:09:15.695Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 김소현 충고에 마스크 벗었다…사랑 자각]]></title>
-        <id>https://v.daum.net/v/20230815073009224</id>
-        <link href="https://v.daum.net/v/20230815073009224"/>
-        <updated>2023-08-14T23:09:15.697Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
