@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T09:10:15.606Z</updated>
+    <updated>2023-08-15T10:10:27.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙' 시청자들이 외칩니다 "수요일 언제 와"]]></title>
+        <id>https://v.daum.net/v/20230815190211587</id>
+        <link href="https://v.daum.net/v/20230815190211587"/>
+        <updated>2023-08-15T10:10:14.874Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기적의 형제' 기적 만든 박유림x오만석x이기우 명품 배우들의 향연]]></title>
         <id>https://v.daum.net/v/20230815175305532</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230815144425620</id>
         <link href="https://v.daum.net/v/20230815144425620"/>
         <updated>2023-08-15T06:12:42.423Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽민호 "제가 너무 사랑하는 그녀!" 최명길과 30세 차♥︎ 종영소감]]></title>
-        <id>https://v.daum.net/v/20230815140821928</id>
-        <link href="https://v.daum.net/v/20230815140821928"/>
-        <updated>2023-08-15T05:09:26.397Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
