@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T21:09:50.109Z</updated>
+    <updated>2023-08-15T22:08:53.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아들 바보’ 정혜영, 나이들지 않는 엉뚱발랄 매력]]></title>
+        <id>https://v.daum.net/v/20230816070001942</id>
+        <link href="https://v.daum.net/v/20230816070001942"/>
+        <updated>2023-08-15T22:08:42.336Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안방극장 점령한 ‘K-초능력자’들]]></title>
+        <id>https://v.daum.net/v/20230816063017659</id>
+        <link href="https://v.daum.net/v/20230816063017659"/>
+        <updated>2023-08-15T22:08:42.338Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’ 기괴함에 빠져든다, 원작과 달라진 몇가지]]></title>
         <id>https://v.daum.net/v/20230816000111485</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230815174420374"/>
         <updated>2023-08-15T09:10:04.129Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“달다 달어”…‘소용없어 거짓말’ 황민현♥김소현, 첫 데이트?]]></title>
-        <id>https://v.daum.net/v/20230815174223339</id>
-        <link href="https://v.daum.net/v/20230815174223339"/>
-        <updated>2023-08-15T09:10:04.129Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정혜영·이필모·이태리, 로운과 특급 케미]]></title>
-        <id>https://v.daum.net/v/20230815173823262</id>
-        <link href="https://v.daum.net/v/20230815173823262"/>
-        <updated>2023-08-15T09:10:04.133Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
