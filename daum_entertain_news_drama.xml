@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T01:41:24.777Z</updated>
+    <updated>2023-08-15T02:14:27.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽, 선수 골수까지 빼먹어..피도 눈물도 없는 냉혈한 두 얼굴]]></title>
+        <id>https://v.daum.net/v/20230815110907228</id>
+        <link href="https://v.daum.net/v/20230815110907228"/>
+        <updated>2023-08-15T02:14:15.859Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혜진x최수영, 女女케미 일냈네…'남남' 최고 시청률 6.3%]]></title>
         <id>https://v.daum.net/v/20230815100317007</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815072701192"/>
         <updated>2023-08-14T23:09:15.700Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김국희, 류승범과 피 튀기는 액션..'무빙'서 꺼내 보인 新 얼굴]]></title>
-        <id>https://v.daum.net/v/20230815072209172</id>
-        <link href="https://v.daum.net/v/20230815072209172"/>
-        <updated>2023-08-14T23:09:15.701Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
