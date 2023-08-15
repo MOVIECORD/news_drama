@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T14:09:03.499Z</updated>
+    <updated>2023-08-15T15:09:57.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 기괴함에 빠져든다, 원작과 달라진 몇가지]]></title>
+        <id>https://v.daum.net/v/20230816000111485</id>
+        <link href="https://v.daum.net/v/20230816000111485"/>
+        <updated>2023-08-15T15:09:46.584Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["어디서 애딸린 홀애비를 만나"...이응경, 윤다영에게 분노]]></title>
         <id>https://v.daum.net/v/20230815213930532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230815173823262"/>
         <updated>2023-08-15T09:10:04.133Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 김진우 마음 흔드는 한지완, 질투심 폭발 손성윤…시청률 상승]]></title>
-        <id>https://v.daum.net/v/20230815172745066</id>
-        <link href="https://v.daum.net/v/20230815172745066"/>
-        <updated>2023-08-15T09:10:04.136Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
