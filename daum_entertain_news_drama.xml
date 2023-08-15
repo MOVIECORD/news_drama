@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-15T00:41:34.759Z</updated>
+    <updated>2023-08-15T01:41:24.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전혜진x최수영, 女女케미 일냈네…'남남' 최고 시청률 6.3%]]></title>
+        <id>https://v.daum.net/v/20230815100317007</id>
+        <link href="https://v.daum.net/v/20230815100317007"/>
+        <updated>2023-08-15T01:41:14.152Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남남' 전혜진, 안방극장 울린 담백+속 깊은 진심..최고 6.3%]]></title>
+        <id>https://v.daum.net/v/20230815094443713</id>
+        <link href="https://v.daum.net/v/20230815094443713"/>
+        <updated>2023-08-15T01:41:14.153Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘남남’ 시청률 4%도 넘었다, 또 자체 기록 경신]]></title>
         <id>https://v.daum.net/v/20230815093317585</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230815072209172"/>
         <updated>2023-08-14T23:09:15.701Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소용없어 거짓말'X미주, OST로 함께한다..'내마음이 하는일' 공개]]></title>
-        <id>https://v.daum.net/v/20230815071437135</id>
-        <link href="https://v.daum.net/v/20230815071437135"/>
-        <updated>2023-08-14T23:09:15.701Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상X유나, 수상한 동행 메인 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20230815070011969</id>
-        <link href="https://v.daum.net/v/20230815070011969"/>
-        <updated>2023-08-14T22:08:46.926Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
