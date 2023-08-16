@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-16T09:10:01.542Z</updated>
+    <updated>2023-08-16T10:10:13.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정석용 "'D.P.'에서 살빠지고 탄탄해진 나, 좀 멋있더라."]]></title>
+        <id>https://v.daum.net/v/20230816183226350</id>
+        <link href="https://v.daum.net/v/20230816183226350"/>
+        <updated>2023-08-16T10:10:00.874Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호·임윤아, 파워 역주행..'킹더랜드' 종영에도 넷플릭스 2위↑]]></title>
+        <id>https://v.daum.net/v/20230816181402931</id>
+        <link href="https://v.daum.net/v/20230816181402931"/>
+        <updated>2023-08-16T10:10:00.874Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동해, 채널A '남과 여' 캐스팅…'7년 장기 연애' 솔직한 청춘 연기]]></title>
         <id>https://v.daum.net/v/20230816175824483</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230816153242167"/>
         <updated>2023-08-16T07:09:08.279Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜진과 최수영의 껍질을 벗겨버린 '남남'의 클리셰 파괴]]></title>
-        <id>https://v.daum.net/v/20230816151038268</id>
-        <link href="https://v.daum.net/v/20230816151038268"/>
-        <updated>2023-08-16T06:12:49.852Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘기적의 형제’ 측 “이성욱X윤세웅 경찰 수사, 끝까지 지켜봐달라”]]></title>
-        <id>https://v.daum.net/v/20230816150904177</id>
-        <link href="https://v.daum.net/v/20230816150904177"/>
-        <updated>2023-08-16T06:12:49.852Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
