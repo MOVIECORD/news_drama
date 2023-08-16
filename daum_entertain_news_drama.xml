@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-16T12:17:14.802Z</updated>
+    <updated>2023-08-16T13:12:21.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['★ 작가' 차기작, 또 끌린다…'로코' 김은숙 vs '물리학자' 김은희]]></title>
+        <id>https://v.daum.net/v/20230816215002754</id>
+        <link href="https://v.daum.net/v/20230816215002754"/>
+        <updated>2023-08-16T13:12:09.545Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지완, ♥김진우와 결혼 후 고부 갈등·병간호까지…과거 공개]]></title>
         <id>https://v.daum.net/v/20230816205532914</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230816165857612"/>
         <updated>2023-08-16T08:13:14.647Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 앞에서 주눅 들던 디즈니가 드디어 한 건 했다]]></title>
-        <id>https://v.daum.net/v/20230816165601498</id>
-        <link href="https://v.daum.net/v/20230816165601498"/>
-        <updated>2023-08-16T08:13:14.650Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
