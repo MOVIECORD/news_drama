@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-17T19:08:02.604Z</updated>
+    <updated>2023-08-17T20:12:53.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인생 코미디 예약한 '힙하게', 유쾌한 미공개 스틸 공개]]></title>
+        <id>https://v.daum.net/v/20230818050030954</id>
+        <link href="https://v.daum.net/v/20230818050030954"/>
+        <updated>2023-08-17T20:12:41.151Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 박해진, "난 절대 혼자 가지 않아"…2차 사형 타깃 탄 차량 '폭발']]></title>
         <id>https://v.daum.net/v/20230818013001131</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230817202643951"/>
         <updated>2023-08-17T12:16:32.262Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 조인성, 고공 와이어 액션부터 사격까지 완벽 소화…액션·멜로킹 '완벽 귀환']]></title>
-        <id>https://v.daum.net/v/20230817201623776</id>
-        <link href="https://v.daum.net/v/20230817201623776"/>
-        <updated>2023-08-17T12:16:32.264Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
