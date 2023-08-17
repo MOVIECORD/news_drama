@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-17T20:12:53.332Z</updated>
+    <updated>2023-08-17T21:09:12.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 극대화된 불쾌함만 극복한다면]]></title>
+        <id>https://v.daum.net/v/20230818060109673</id>
+        <link href="https://v.daum.net/v/20230818060109673"/>
+        <updated>2023-08-17T21:09:01.350Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 2차 진행..권아름 "투표로 사람 죽이는 것도 살인"]]></title>
+        <id>https://v.daum.net/v/20230818055901529</id>
+        <link href="https://v.daum.net/v/20230818055901529"/>
+        <updated>2023-08-17T21:09:01.350Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인생 코미디 예약한 '힙하게', 유쾌한 미공개 스틸 공개]]></title>
         <id>https://v.daum.net/v/20230818050030954</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230817203030009"/>
         <updated>2023-08-17T12:16:32.255Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 김진우, 한지완에 "X무시하는 너한테 질려" 버럭]]></title>
-        <id>https://v.daum.net/v/20230817202658955</id>
-        <link href="https://v.daum.net/v/20230817202658955"/>
-        <updated>2023-08-17T12:16:32.259Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완, 부여 일짱된다…'소년시대' 하반기 공개 확정]]></title>
-        <id>https://v.daum.net/v/20230817202643951</id>
-        <link href="https://v.daum.net/v/20230817202643951"/>
-        <updated>2023-08-17T12:16:32.262Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
