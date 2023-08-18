@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T20:10:34.437Z</updated>
+    <updated>2023-08-18T21:08:36.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕', 편성 시기 오리무중?..tvN "미정" 반복]]></title>
+        <id>https://v.daum.net/v/20230819053004683</id>
+        <link href="https://v.daum.net/v/20230819053004683"/>
+        <updated>2023-08-18T21:08:25.680Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 오의식 "황정민, 압력솥 폭발에 의한 사고사"…김래원, "수사 종결은 경찰이 할 것"]]></title>
         <id>https://v.daum.net/v/20230819020900598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818195005123"/>
         <updated>2023-08-18T11:07:57.973Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규한, 소름 돋는 이중성…연쇄살인사건 설계자]]></title>
-        <id>https://v.daum.net/v/20230818180917351</id>
-        <link href="https://v.daum.net/v/20230818180917351"/>
-        <updated>2023-08-18T09:09:31.113Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
