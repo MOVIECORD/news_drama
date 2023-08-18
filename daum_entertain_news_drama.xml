@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T12:18:04.761Z</updated>
+    <updated>2023-08-18T13:12:22.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원, 국가수사본부 팀장직 거절 "건물 색깔 마음에 안들어"]]></title>
+        <id>https://v.daum.net/v/20230818221053850</id>
+        <link href="https://v.daum.net/v/20230818221053850"/>
+        <updated>2023-08-18T13:11:19.620Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금이야 옥이야' 서준영 아내 반소영 등장, 딸 김시은에 "내가 엄마야"]]></title>
         <id>https://v.daum.net/v/20230818211731164</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818171538913"/>
         <updated>2023-08-18T09:09:31.146Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일병되면 편해지는 줄"…'신병2' 독한 중대장 김지석 등장]]></title>
-        <id>https://v.daum.net/v/20230818170352578</id>
-        <link href="https://v.daum.net/v/20230818170352578"/>
-        <updated>2023-08-18T08:12:29.302Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
