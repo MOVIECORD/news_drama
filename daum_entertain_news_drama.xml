@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T10:09:49.014Z</updated>
+    <updated>2023-08-18T11:08:10.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 이훈 뺏으려던 고은미 악행 알았다 "당신이 父 죽여"]]></title>
+        <id>https://v.daum.net/v/20230818195400185</id>
+        <link href="https://v.daum.net/v/20230818195400185"/>
+        <updated>2023-08-18T11:07:57.969Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무빙' 제대로 터졌다…그럼에도 망설이는 이유]]></title>
+        <id>https://v.daum.net/v/20230818195005123</id>
+        <link href="https://v.daum.net/v/20230818195005123"/>
+        <updated>2023-08-18T11:07:57.973Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이규한, 소름 돋는 이중성…연쇄살인사건 설계자]]></title>
         <id>https://v.daum.net/v/20230818180917351</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230818155702304"/>
         <updated>2023-08-18T07:09:13.780Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정=나나=이한별이 동일 인물?...'마스크걸' 오늘 공개]]></title>
-        <id>https://v.daum.net/v/20230818155002123</id>
-        <link href="https://v.daum.net/v/20230818155002123"/>
-        <updated>2023-08-18T07:09:13.782Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘기적의 형제’ 서재희 “설레고 행복한 시간” 애정 가득 종영소감]]></title>
-        <id>https://v.daum.net/v/20230818153843825</id>
-        <link href="https://v.daum.net/v/20230818153843825"/>
-        <updated>2023-08-18T07:09:13.784Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
