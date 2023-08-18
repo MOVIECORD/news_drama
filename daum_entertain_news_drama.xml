@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T11:08:10.055Z</updated>
+    <updated>2023-08-18T12:18:04.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['금이야 옥이야' 서준영 아내 반소영 등장, 딸 김시은에 "내가 엄마야"]]></title>
+        <id>https://v.daum.net/v/20230818211731164</id>
+        <link href="https://v.daum.net/v/20230818211731164"/>
+        <updated>2023-08-18T12:17:53.414Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 김진우, 임신한 한지완에 "지워라..생각만 해도 역겨워"]]></title>
+        <id>https://v.daum.net/v/20230818205746964</id>
+        <link href="https://v.daum.net/v/20230818205746964"/>
+        <updated>2023-08-18T12:17:53.417Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선영 "윤아, 예쁜데 미안했죠"...신인 된 뮤지컬 여왕]]></title>
+        <id>https://v.daum.net/v/20230818205003885</id>
+        <link href="https://v.daum.net/v/20230818205003885"/>
+        <updated>2023-08-18T12:17:53.420Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 한지완, 시모 김서라 막말+이혼 종용에 눈물 "가정 지킬 것"]]></title>
+        <id>https://v.daum.net/v/20230818203630737</id>
+        <link href="https://v.daum.net/v/20230818203630737"/>
+        <updated>2023-08-18T12:17:53.427Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 김진우, 한지완에 "추악한 욕심에 놀아날 생각 없어" 소리쳐]]></title>
+        <id>https://v.daum.net/v/20230818202123549</id>
+        <link href="https://v.daum.net/v/20230818202123549"/>
+        <updated>2023-08-18T12:17:53.430Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 전혜연, 이훈 뺏으려던 고은미 악행 알았다 "당신이 父 죽여"]]></title>
         <id>https://v.daum.net/v/20230818195400185</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230818170352578"/>
         <updated>2023-08-18T08:12:29.302Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소용없어 거짓말’ 김소현 황민현 본격 로맨스, 심쿵 명대사 보니]]></title>
-        <id>https://v.daum.net/v/20230818165048178</id>
-        <link href="https://v.daum.net/v/20230818165048178"/>
-        <updated>2023-08-18T08:12:29.304Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“체대 입시생→전설의 17대 1” 고윤정 ‘무빙’서 드러난 연기 진가]]></title>
-        <id>https://v.daum.net/v/20230818162401197</id>
-        <link href="https://v.daum.net/v/20230818162401197"/>
-        <updated>2023-08-18T08:12:29.305Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마스크걸’ 웹툰 원작자 “배우들의 연기에 넋이 나갔다”]]></title>
-        <id>https://v.daum.net/v/20230818160122466</id>
-        <link href="https://v.daum.net/v/20230818160122466"/>
-        <updated>2023-08-18T07:09:13.773Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순정복서' 이상엽X김소혜, 승부조작 탈출기→피·땀·눈물]]></title>
-        <id>https://v.daum.net/v/20230818160007411</id>
-        <link href="https://v.daum.net/v/20230818160007411"/>
-        <updated>2023-08-18T07:09:13.780Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상엽X김소혜 '순정복서', 첫방 관전 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20230818155702304</id>
-        <link href="https://v.daum.net/v/20230818155702304"/>
-        <updated>2023-08-18T07:09:13.780Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
