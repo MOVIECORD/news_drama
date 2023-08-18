@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T21:08:36.595Z</updated>
+    <updated>2023-08-18T22:08:36.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작가 교체가 독 됐다…지지부진 '경소문2'에 쏟아지는 '혹평']]></title>
+        <id>https://v.daum.net/v/20230819070102412</id>
+        <link href="https://v.daum.net/v/20230819070102412"/>
+        <updated>2023-08-18T22:08:25.189Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕', 편성 시기 오리무중?..tvN "미정" 반복]]></title>
         <id>https://v.daum.net/v/20230819053004683</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818195400185"/>
         <updated>2023-08-18T11:07:57.969Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 제대로 터졌다…그럼에도 망설이는 이유]]></title>
-        <id>https://v.daum.net/v/20230818195005123</id>
-        <link href="https://v.daum.net/v/20230818195005123"/>
-        <updated>2023-08-18T11:07:57.973Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
