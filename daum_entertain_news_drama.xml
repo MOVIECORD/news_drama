@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T13:12:22.323Z</updated>
+    <updated>2023-08-18T14:09:40.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 강기둥vs오의식, 날 세우며 살벌한 분위기]]></title>
+        <id>https://v.daum.net/v/20230818223228086</id>
+        <link href="https://v.daum.net/v/20230818223228086"/>
+        <updated>2023-08-18T14:08:37.490Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 김래원, 국가수사본부 팀장직 거절 "건물 색깔 마음에 안들어"]]></title>
         <id>https://v.daum.net/v/20230818221053850</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818173032307"/>
         <updated>2023-08-18T09:09:31.141Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘효심이네’ 유이, 헬스트레이너 완벽 변신 “운동 강도 높여”]]></title>
-        <id>https://v.daum.net/v/20230818171538913</id>
-        <link href="https://v.daum.net/v/20230818171538913"/>
-        <updated>2023-08-18T09:09:31.146Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
