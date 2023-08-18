@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T16:15:20.223Z</updated>
+    <updated>2023-08-18T17:09:58.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 강기둥, 사망한 '용수철 아줌마' 발견…길고양이 학대와 관련 있나?]]></title>
+        <id>https://v.daum.net/v/20230819014203500</id>
+        <link href="https://v.daum.net/v/20230819014203500"/>
+        <updated>2023-08-18T17:08:55.096Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 김래원, 수사 위해 경비원됐다 "메소드 연기"]]></title>
         <id>https://v.daum.net/v/20230818234225794</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818180238178"/>
         <updated>2023-08-18T09:09:31.130Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 특별출연, 국내 최고 로펌 대표 변신]]></title>
-        <id>https://v.daum.net/v/20230818175831005</id>
-        <link href="https://v.daum.net/v/20230818175831005"/>
-        <updated>2023-08-18T09:09:31.133Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
