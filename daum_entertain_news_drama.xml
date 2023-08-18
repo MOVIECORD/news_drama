@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-18T02:15:25.000Z</updated>
+    <updated>2023-08-18T03:10:05.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안효섭·전여빈·강훈, 시간 초월 로맨스 미스터리]]></title>
+        <id>https://v.daum.net/v/20230818114702052</id>
+        <link href="https://v.daum.net/v/20230818114702052"/>
+        <updated>2023-08-18T03:09:54.214Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['순정복서' 대역 없는 200% 리얼 복싱 연기…역동적 영상美 '기대 UP']]></title>
         <id>https://v.daum.net/v/20230818111228497</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230818091948031"/>
         <updated>2023-08-18T00:40:12.065Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['49%' 찍은 유이, 위기의 주말극 구원투수…팔·등 근육 美쳤다]]></title>
-        <id>https://v.daum.net/v/20230818091248805</id>
-        <link href="https://v.daum.net/v/20230818091248805"/>
-        <updated>2023-08-18T00:40:12.067Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
