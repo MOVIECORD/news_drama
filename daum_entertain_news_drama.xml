@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-19T04:11:14.164Z</updated>
+    <updated>2023-08-19T05:08:36.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성주·김희철→츄, '강철부대3' 5MC 확정]]></title>
+        <id>https://v.daum.net/v/20230819133234867</id>
+        <link href="https://v.daum.net/v/20230819133234867"/>
+        <updated>2023-08-19T05:08:27.038Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정 vs 김히어라, 누가 이길까]]></title>
+        <id>https://v.daum.net/v/20230819132957835</id>
+        <link href="https://v.daum.net/v/20230819132957835"/>
+        <updated>2023-08-19T05:08:27.040Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안정균, '수업중입니다 2' 재미 더하는 복학생 주혁으로 맹활약]]></title>
+        <id>https://v.daum.net/v/20230819132642822</id>
+        <link href="https://v.daum.net/v/20230819132642822"/>
+        <updated>2023-08-19T05:08:27.043Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안은진, '연인'으로 새로 쓴 인생캐]]></title>
+        <id>https://v.daum.net/v/20230819132031780</id>
+        <link href="https://v.daum.net/v/20230819132031780"/>
+        <updated>2023-08-19T05:08:27.045Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘경소문2’ 김세정v김히어라, 피 튀는 리매치 성사]]></title>
+        <id>https://v.daum.net/v/20230819131153730</id>
+        <link href="https://v.daum.net/v/20230819131153730"/>
+        <updated>2023-08-19T05:08:27.049Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘힙하게’ 한지민, 창틀에 낀 한줌 허리 ‘상상초월 비주얼’]]></title>
         <id>https://v.daum.net/v/20230819130252686</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230819104541636"/>
         <updated>2023-08-19T02:11:55.530Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 목숨 걸었다…오랑캐군 잠입 '일촉즉발']]></title>
-        <id>https://v.daum.net/v/20230819104501627</id>
-        <link href="https://v.daum.net/v/20230819104501627"/>
-        <updated>2023-08-19T02:11:55.533Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손호준 사망' 나비효과..1위 뺏긴 '소옆경2', '연인'과 전세역전]]></title>
-        <id>https://v.daum.net/v/20230819102521425</id>
-        <link href="https://v.daum.net/v/20230819102521425"/>
-        <updated>2023-08-19T01:37:08.584Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 안은진, 강인함+귀여움 '길채' 애기씨..'인생캐 경신']]></title>
-        <id>https://v.daum.net/v/20230819102344402</id>
-        <link href="https://v.daum.net/v/20230819102344402"/>
-        <updated>2023-08-19T01:37:08.586Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 측 "오늘 남궁민X김윤우 청군 잠입..전개에 큰 영향"]]></title>
-        <id>https://v.daum.net/v/20230819100957267</id>
-        <link href="https://v.daum.net/v/20230819100957267"/>
-        <updated>2023-08-19T01:37:08.588Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조병규 vs 진선규 vs 강기영, 전면전 시작]]></title>
-        <id>https://v.daum.net/v/20230819100527197</id>
-        <link href="https://v.daum.net/v/20230819100527197"/>
-        <updated>2023-08-19T01:37:08.589Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
