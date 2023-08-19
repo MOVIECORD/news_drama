@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-19T18:11:01.441Z</updated>
+    <updated>2023-08-19T19:07:08.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권은비 “남사친 가능, BUT 추파 느껴지면 관계 끊고 안 만나”]]></title>
+        <id>https://v.daum.net/v/20230820035021497</id>
+        <link href="https://v.daum.net/v/20230820035021497"/>
+        <updated>2023-08-19T19:06:57.744Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종혁 "롤모델은 박해일 선배… 이병헌 감독님 작품 꼭 출연하고파"]]></title>
         <id>https://v.daum.net/v/20230820013824319</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819225101888"/>
         <updated>2023-08-19T14:07:43.198Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경소문2’ 악귀 김히어라, 김세정 첫사랑 서벽준 공격 ‘격돌’]]></title>
-        <id>https://v.daum.net/v/20230819224834885</id>
-        <link href="https://v.daum.net/v/20230819224834885"/>
-        <updated>2023-08-19T14:07:43.200Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
