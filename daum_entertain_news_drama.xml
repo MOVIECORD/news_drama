@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-19T02:12:59.074Z</updated>
+    <updated>2023-08-19T03:11:22.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“은퇴작인가요?” 안재홍, 대중을 충격에 빠뜨렸다]]></title>
+        <id>https://v.daum.net/v/20230819115151240</id>
+        <link href="https://v.daum.net/v/20230819115151240"/>
+        <updated>2023-08-19T03:10:19.553Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 남궁민 옆엔 꼭 박강섭 있다…안은진·이정연 구출 맹활약]]></title>
+        <id>https://v.daum.net/v/20230819112559026</id>
+        <link href="https://v.daum.net/v/20230819112559026"/>
+        <updated>2023-08-19T03:10:19.554Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민, 이유있는 자신감이었다…‘연인’, ‘소옆경2’ 제치고 동시간대 1위]]></title>
+        <id>https://v.daum.net/v/20230819112101971</id>
+        <link href="https://v.daum.net/v/20230819112101971"/>
+        <updated>2023-08-19T03:10:19.576Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민 “내가 왜 이러는 지 몰라!”..이율배반에 허우적]]></title>
+        <id>https://v.daum.net/v/20230819111910954</id>
+        <link href="https://v.daum.net/v/20230819111910954"/>
+        <updated>2023-08-19T03:10:19.591Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 김선영 "재벌가 딸→70대 노인, 하늘과 땅 오갔다"]]></title>
         <id>https://v.daum.net/v/20230819111019881</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230819094905959"/>
         <updated>2023-08-19T01:37:08.599Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 창틀에 낀 개미허리…초능력보다 놀라운 마른 몸]]></title>
-        <id>https://v.daum.net/v/20230819094131891</id>
-        <link href="https://v.daum.net/v/20230819094131891"/>
-        <updated>2023-08-19T01:37:08.599Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입소문 탄 '연인', 손호준 빠진 '소옆경2' 이겼다…시청률 1위 등극]]></title>
-        <id>https://v.daum.net/v/20230819093501830</id>
-        <link href="https://v.daum.net/v/20230819093501830"/>
-        <updated>2023-08-19T00:39:04.138Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 안은진, 앙큼새촘도도 버리고 캐릭터 변화..시청률 1위 역전!]]></title>
-        <id>https://v.daum.net/v/20230819092319694</id>
-        <link href="https://v.daum.net/v/20230819092319694"/>
-        <updated>2023-08-19T00:39:04.138Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 역시 믿고 있었다구! 흥행할 수밖에 없는 절대 공식]]></title>
-        <id>https://v.daum.net/v/20230819091512640</id>
-        <link href="https://v.daum.net/v/20230819091512640"/>
-        <updated>2023-08-19T00:39:04.141Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
