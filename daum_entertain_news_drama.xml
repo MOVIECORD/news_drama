@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-19T07:09:37.276Z</updated>
+    <updated>2023-08-19T08:12:44.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미혼모 테론, 성형설에 입 열었다 "나이 들어 얼굴 변한 것"]]></title>
+        <id>https://v.daum.net/v/20230819170111050</id>
+        <link href="https://v.daum.net/v/20230819170111050"/>
+        <updated>2023-08-19T08:12:32.760Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마스크걸' 이한별, '1000대1' 뚫은 싱크로율…소속사 계약까지]]></title>
+        <id>https://v.daum.net/v/20230819170002030</id>
+        <link href="https://v.daum.net/v/20230819170002030"/>
+        <updated>2023-08-19T08:12:32.764Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황정민 압력솥 폭발 사망 사건 진실은? 돼지 심장∙껍데기까지 동원]]></title>
+        <id>https://v.daum.net/v/20230819161954551</id>
+        <link href="https://v.daum.net/v/20230819161954551"/>
+        <updated>2023-08-19T08:12:32.770Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 남궁민 옆 박강섭, 전쟁 속 사랑과 형제애]]></title>
         <id>https://v.daum.net/v/20230819155452234</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230819132031780"/>
         <updated>2023-08-19T05:08:27.045Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경소문2’ 김세정v김히어라, 피 튀는 리매치 성사]]></title>
-        <id>https://v.daum.net/v/20230819131153730</id>
-        <link href="https://v.daum.net/v/20230819131153730"/>
-        <updated>2023-08-19T05:08:27.049Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힙하게’ 한지민, 창틀에 낀 한줌 허리 ‘상상초월 비주얼’]]></title>
-        <id>https://v.daum.net/v/20230819130252686</id>
-        <link href="https://v.daum.net/v/20230819130252686"/>
-        <updated>2023-08-19T04:11:03.004Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 최다니엘, 앞뒤 다른 회사 상사]]></title>
-        <id>https://v.daum.net/v/20230819130030662</id>
-        <link href="https://v.daum.net/v/20230819130030662"/>
-        <updated>2023-08-19T04:11:03.013Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
