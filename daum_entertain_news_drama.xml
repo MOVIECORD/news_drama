@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-20T08:11:28.407Z</updated>
+    <updated>2023-08-20T09:09:16.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["상상 불가한 반전 그려질 것"…카운터즈, 궁지에 몰렸다]]></title>
+        <id>https://v.daum.net/v/20230820175154224</id>
+        <link href="https://v.daum.net/v/20230820175154224"/>
+        <updated>2023-08-20T09:08:13.755Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["어른들이 미안해" 박소이X기소유, 세상 따뜻할 '2시 15분']]></title>
+        <id>https://v.daum.net/v/20230820172124712</id>
+        <link href="https://v.daum.net/v/20230820172124712"/>
+        <updated>2023-08-20T09:08:13.757Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS인데 2%도 겨우겨우…후속작은 '학폭위 논란' 김소혜에게 맡긴다?]]></title>
         <id>https://v.daum.net/v/20230820170009365</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230820133602993"/>
         <updated>2023-08-20T05:08:53.945Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어깨 핀 한지민, 보필하는 이민기…관계 왜 역전됐나]]></title>
-        <id>https://v.daum.net/v/20230820130949623</id>
-        <link href="https://v.daum.net/v/20230820130949623"/>
-        <updated>2023-08-20T04:10:57.229Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유치해진 '경소문2', 어쩌다 진선규가 유일한 희망이 되었나]]></title>
-        <id>https://v.daum.net/v/20230820125030367</id>
-        <link href="https://v.daum.net/v/20230820125030367"/>
-        <updated>2023-08-20T04:10:57.233Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
