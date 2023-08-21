@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-21T15:10:03.556Z</updated>
+    <updated>2023-08-21T16:13:02.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['순정복서' 이상엽, 승부조작 시도 최재웅에 "개XX는 나 하나로 충분"]]></title>
+        <id>https://v.daum.net/v/20230822005612325</id>
+        <link href="https://v.daum.net/v/20230822005612325"/>
+        <updated>2023-08-21T16:12:00.315Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['순정복서' 윤인조, 김소혜 영입 추진 "김연아 잇는 슈퍼스타 될 것"]]></title>
         <id>https://v.daum.net/v/20230822000658167</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230821203916343"/>
         <updated>2023-08-21T12:18:13.529Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 임신 한지완, 남편 김진우 "소름끼쳐" 막말에 오열+실신]]></title>
-        <id>https://v.daum.net/v/20230821203530307</id>
-        <link href="https://v.daum.net/v/20230821203530307"/>
-        <updated>2023-08-21T12:18:13.530Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
