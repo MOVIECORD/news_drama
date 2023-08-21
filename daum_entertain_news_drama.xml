@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-21T16:13:02.809Z</updated>
+    <updated>2023-08-21T17:09:46.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -46,13 +46,6 @@
         <link href="https://v.daum.net/v/20230821231307677"/>
         <updated>2023-08-21T15:09:52.987Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이소정 "♥남편 만난 지 2개월 만에 혼인신고"]]></title>
-        <id>https://v.daum.net/v/20230821230412634</id>
-        <link href="https://v.daum.net/v/20230821230412634"/>
-        <updated>2023-08-21T14:09:35.406Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["안 죽였어요"…'소용없어 거짓말' 김소현, 황민현 거짓말 듣고 충격]]></title>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20230821203916343"/>
         <updated>2023-08-21T12:18:13.529Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 임신 한지완, 남편 김진우 "소름끼쳐" 막말에 오열+실신]]></title>
+        <id>https://v.daum.net/v/20230821203530307</id>
+        <link href="https://v.daum.net/v/20230821203530307"/>
+        <updated>2023-08-21T17:08:43.863Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
