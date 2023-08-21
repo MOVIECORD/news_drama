@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-21T13:13:06.923Z</updated>
+    <updated>2023-08-21T14:09:51.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 이소정 "♥남편 만난 지 2개월 만에 혼인신고"]]></title>
+        <id>https://v.daum.net/v/20230821230412634</id>
+        <link href="https://v.daum.net/v/20230821230412634"/>
+        <updated>2023-08-21T14:09:35.406Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["안 죽였어요"…'소용없어 거짓말' 김소현, 황민현 거짓말 듣고 충격]]></title>
+        <id>https://v.daum.net/v/20230821223521496</id>
+        <link href="https://v.daum.net/v/20230821223521496"/>
+        <updated>2023-08-21T14:09:35.410Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['순정복서' 김소혜 첫 등장, 세계 챔피언 KO시켰다]]></title>
         <id>https://v.daum.net/v/20230821220427264</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230821195630886"/>
         <updated>2023-08-21T11:08:05.194Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 고은미에 사죄 요구→정우연 뺨 때려]]></title>
-        <id>https://v.daum.net/v/20230821194356748</id>
-        <link href="https://v.daum.net/v/20230821194356748"/>
-        <updated>2023-08-21T11:08:05.196Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS '부자가 나타났다!' 강부자, 83년 세월의 무게 담은 명품 연기]]></title>
-        <id>https://v.daum.net/v/20230821192801551</id>
-        <link href="https://v.daum.net/v/20230821192801551"/>
-        <updated>2023-08-21T11:08:05.199Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
