@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-21T12:18:25.189Z</updated>
+    <updated>2023-08-21T13:13:06.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['순정복서' 김소혜 첫 등장, 세계 챔피언 KO시켰다]]></title>
+        <id>https://v.daum.net/v/20230821220427264</id>
+        <link href="https://v.daum.net/v/20230821220427264"/>
+        <updated>2023-08-21T13:12:55.421Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 김소현 초능력 받아들였다 '사랑 시작되나']]></title>
+        <id>https://v.daum.net/v/20230821214201023</id>
+        <link href="https://v.daum.net/v/20230821214201023"/>
+        <updated>2023-08-21T13:12:55.435Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한제국' 한지완, 신임회장 선출..반전 결과에 김진우 '분노']]></title>
+        <id>https://v.daum.net/v/20230821212812879</id>
+        <link href="https://v.daum.net/v/20230821212812879"/>
+        <updated>2023-08-21T13:12:55.437Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금이야 옥이야' 반소영, 서준영X윤다영 사랑 갈라놓나 "제자리 돌려놓을 것"]]></title>
         <id>https://v.daum.net/v/20230821211730749</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230821192801551"/>
         <updated>2023-08-21T11:08:05.199Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김소혜, 독하다"…학폭 논란 후 복귀 속 칭찬 자자]]></title>
-        <id>https://v.daum.net/v/20230821185002995</id>
-        <link href="https://v.daum.net/v/20230821185002995"/>
-        <updated>2023-08-21T10:11:42.674Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소혜, 6년째 학폭 꼬리표...'순정복서'로 날릴까]]></title>
-        <id>https://v.daum.net/v/20230821184152888</id>
-        <link href="https://v.daum.net/v/20230821184152888"/>
-        <updated>2023-08-21T10:11:42.674Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["서방님" 한 마디에 시청률 껑충…'연인', 잘 만든 엔딩의 힘]]></title>
-        <id>https://v.daum.net/v/20230821180142976</id>
-        <link href="https://v.daum.net/v/20230821180142976"/>
-        <updated>2023-08-21T09:10:11.936Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
