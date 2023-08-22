@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-22T04:12:09.068Z</updated>
+    <updated>2023-08-22T05:10:11.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우당탕탕 패밀리' 남상지, '단아·상큼·발랄' 3色 배우 지망생]]></title>
+        <id>https://v.daum.net/v/20230822140830851</id>
+        <link href="https://v.daum.net/v/20230822140830851"/>
+        <updated>2023-08-22T05:09:59.481Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지민 측 “‘인사하는 사이’ 제안 받아, 결정된 사항 없다”]]></title>
+        <id>https://v.daum.net/v/20230822140709813</id>
+        <link href="https://v.daum.net/v/20230822140709813"/>
+        <updated>2023-08-22T05:09:59.482Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무빙' 김도훈 "상의 탈의신 없어졌지만…좋은 과정"]]></title>
+        <id>https://v.daum.net/v/20230822135003139</id>
+        <link href="https://v.daum.net/v/20230822135003139"/>
+        <updated>2023-08-22T05:09:59.485Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시아버지 아니고 아저씨라고, 전혜진의 손절 선언이 통쾌한 까닭]]></title>
         <id>https://v.daum.net/v/20230822131006134</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230822115517305"/>
         <updated>2023-08-22T03:10:11.586Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 이준혁의 여자 된다..'인사하는 사이' 주인공]]></title>
-        <id>https://v.daum.net/v/20230822115302207</id>
-        <link href="https://v.daum.net/v/20230822115302207"/>
-        <updated>2023-08-22T03:10:11.588Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지영산 "'아씨 두리안' 종영 후 입원…쌓인 감정 배출하지 못해"]]></title>
-        <id>https://v.daum.net/v/20230822115014089</id>
-        <link href="https://v.daum.net/v/20230822115014089"/>
-        <updated>2023-08-22T03:10:11.590Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지영산 "최명길 클럽 신, 전지현 같아…나는 왜 그랬나"]]></title>
-        <id>https://v.daum.net/v/20230822115008086</id>
-        <link href="https://v.daum.net/v/20230822115008086"/>
-        <updated>2023-08-22T03:10:11.592Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
