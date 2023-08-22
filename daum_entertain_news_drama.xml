@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-22T14:10:16.869Z</updated>
+    <updated>2023-08-22T15:11:13.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽 "어짜피 한 번 그만 둔 김소혜...쓰고 버릴 카드로 최적" 도발]]></title>
+        <id>https://v.daum.net/v/20230822233531793</id>
+        <link href="https://v.daum.net/v/20230822233531793"/>
+        <updated>2023-08-22T15:10:09.908Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소용없어 거짓말' 김소현, 서지훈 고백에 황민현 향한 사랑 자각했다]]></title>
         <id>https://v.daum.net/v/20230822222218305</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230822185756285"/>
         <updated>2023-08-22T10:10:02.790Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남남' 안소요, 까칠한 경사? 180도 다른 '온앤오프']]></title>
-        <id>https://v.daum.net/v/20230822184523005</id>
-        <link href="https://v.daum.net/v/20230822184523005"/>
-        <updated>2023-08-22T10:10:02.791Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
