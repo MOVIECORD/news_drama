@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-22T09:10:19.083Z</updated>
+    <updated>2023-08-22T10:10:13.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서지훈, 첫사랑 김소현에 미련 뚝뚝→황민현과 묘한 신경전]]></title>
+        <id>https://v.daum.net/v/20230822185756285</id>
+        <link href="https://v.daum.net/v/20230822185756285"/>
+        <updated>2023-08-22T10:10:02.790Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남남' 안소요, 까칠한 경사? 180도 다른 '온앤오프']]></title>
+        <id>https://v.daum.net/v/20230822184523005</id>
+        <link href="https://v.daum.net/v/20230822184523005"/>
+        <updated>2023-08-22T10:10:02.791Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[려운, 1995년으로 타임슬립..어린 父 최현욱과 만남]]></title>
         <id>https://v.daum.net/v/20230822174956394</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230822152013939"/>
         <updated>2023-08-22T07:08:58.527Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순정복서' 김소혜, 3년 전 링 떠난 진짜 이유]]></title>
-        <id>https://v.daum.net/v/20230822151222604</id>
-        <link href="https://v.daum.net/v/20230822151222604"/>
-        <updated>2023-08-22T07:08:58.527Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준혁 측 “‘인사하는 사이’ 제안 받아” 한지민과 로맨스 성사되나]]></title>
-        <id>https://v.daum.net/v/20230822144201089</id>
-        <link href="https://v.daum.net/v/20230822144201089"/>
-        <updated>2023-08-22T06:12:16.274Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
