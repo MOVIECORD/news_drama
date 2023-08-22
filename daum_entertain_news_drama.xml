@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-22T10:10:13.993Z</updated>
+    <updated>2023-08-22T11:09:37.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 사방이 적... 진주형·박동빈 협박에 벼랑 끝]]></title>
+        <id>https://v.daum.net/v/20230822195601210</id>
+        <link href="https://v.daum.net/v/20230822195601210"/>
+        <updated>2023-08-22T11:08:35.030Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['순정복서' 김소혜, 첫방 2%..코너에 몰린 위기 이겨낼까]]></title>
+        <id>https://v.daum.net/v/20230822195001129</id>
+        <link href="https://v.daum.net/v/20230822195001129"/>
+        <updated>2023-08-22T11:08:35.038Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXID 박정화, '마스크걸' 아름이→'남과여' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230822192822806</id>
+        <link href="https://v.daum.net/v/20230822192822806"/>
+        <updated>2023-08-22T11:08:35.046Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서지훈, 첫사랑 김소현에 미련 뚝뚝→황민현과 묘한 신경전]]></title>
         <id>https://v.daum.net/v/20230822185756285</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230822154446973"/>
         <updated>2023-08-22T07:08:58.514Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우' 이후 처음…용두용미 기대 '남남', 오늘 최종회]]></title>
-        <id>https://v.daum.net/v/20230822153857731</id>
-        <link href="https://v.daum.net/v/20230822153857731"/>
-        <updated>2023-08-22T07:08:58.519Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿음직한 정해인과 그저 어벙한 손석구, 엉성한 'D.P.2'가 남긴 것]]></title>
-        <id>https://v.daum.net/v/20230822153411505</id>
-        <link href="https://v.daum.net/v/20230822153411505"/>
-        <updated>2023-08-22T07:08:58.524Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민의 선택은 역시 옳았다! '연인']]></title>
-        <id>https://v.daum.net/v/20230822152013939</id>
-        <link href="https://v.daum.net/v/20230822152013939"/>
-        <updated>2023-08-22T07:08:58.527Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
