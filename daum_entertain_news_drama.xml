@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-23T15:09:52.944Z</updated>
+    <updated>2023-08-23T16:12:40.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’, 3일만 넷플릭스 비영어권 시리즈 2위]]></title>
+        <id>https://v.daum.net/v/20230824003020026</id>
+        <link href="https://v.daum.net/v/20230824003020026"/>
+        <updated>2023-08-23T16:12:30.288Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불가항력' 조보아·로운, 첫방부터 살벌..신당 문제로 '한판']]></title>
         <id>https://v.daum.net/v/20230823234604571</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230823185003710"/>
         <updated>2023-08-23T10:10:04.682Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인우·김지은, 바람직한 키 차이…소꿉친구인데 설레네 ('오당기’']]></title>
-        <id>https://v.daum.net/v/20230823182822188</id>
-        <link href="https://v.daum.net/v/20230823182822188"/>
-        <updated>2023-08-23T10:10:04.686Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
