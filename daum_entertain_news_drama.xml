@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-23T18:10:34.634Z</updated>
+    <updated>2023-08-23T19:07:26.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정현, 김순옥 작가 신작 '7인의 탈출' 합류...'인생작' 예고]]></title>
+        <id>https://v.daum.net/v/20230824040030677</id>
+        <link href="https://v.daum.net/v/20230824040030677"/>
+        <updated>2023-08-23T19:07:15.134Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’, 3일만 넷플릭스 비영어권 시리즈 2위]]></title>
         <id>https://v.daum.net/v/20230824003020026</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230823185218751"/>
         <updated>2023-08-23T10:10:04.659Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아 "싱크로율 200%…놀이터 나가듯 촬영"]]></title>
-        <id>https://v.daum.net/v/20230823185003710</id>
-        <link href="https://v.daum.net/v/20230823185003710"/>
-        <updated>2023-08-23T10:10:04.682Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
