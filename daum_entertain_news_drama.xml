@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-23T22:09:10.502Z</updated>
+    <updated>2023-08-23T23:09:45.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이래서 “경력직, 경력직” 한다...라미란, ‘짬’ 돋보였던 순간 베스트3]]></title>
+        <id>https://v.daum.net/v/20230824080904794</id>
+        <link href="https://v.daum.net/v/20230824080904794"/>
+        <updated>2023-08-23T23:09:33.074Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서영희, 김순옥 사단 합류..‘7인의 탈출’ 출연 확정]]></title>
+        <id>https://v.daum.net/v/20230824080020640</id>
+        <link href="https://v.daum.net/v/20230824080020640"/>
+        <updated>2023-08-23T23:09:33.075Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서영희, 김순옥 월드 입성…‘7인의 탈출’ 출연 확정]]></title>
+        <id>https://v.daum.net/v/20230824071856021</id>
+        <link href="https://v.daum.net/v/20230824071856021"/>
+        <updated>2023-08-23T23:09:33.077Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘무빙’ 고윤정 “호기심으로 시작한 연기, 점점 빠져들고 있죠”]]></title>
         <id>https://v.daum.net/v/20230824063018351</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230823203443561"/>
         <updated>2023-08-23T12:17:33.997Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남남' 전혜진x최수영만 있나?..김혜은, 조건없는 친구+이모였다]]></title>
-        <id>https://v.daum.net/v/20230823203419552</id>
-        <link href="https://v.daum.net/v/20230823203419552"/>
-        <updated>2023-08-23T12:17:33.999Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김진우, 불륜녀 감싸돌며 "회장 자리 갖고 와"]]></title>
-        <id>https://v.daum.net/v/20230823201909299</id>
-        <link href="https://v.daum.net/v/20230823201909299"/>
-        <updated>2023-08-23T12:17:34.002Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 돈으로 이훈 사건 다시 덮을까?]]></title>
-        <id>https://v.daum.net/v/20230823195500836</id>
-        <link href="https://v.daum.net/v/20230823195500836"/>
-        <updated>2023-08-23T11:08:11.347Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
