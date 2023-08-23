@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-23T12:18:37.640Z</updated>
+    <updated>2023-08-23T13:11:53.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["결혼이 아니라 기생이겠지"...최종환, 이윤성 결혼 '반대']]></title>
+        <id>https://v.daum.net/v/20230823220500812</id>
+        <link href="https://v.daum.net/v/20230823220500812"/>
+        <updated>2023-08-23T13:11:41.849Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불가항력' JTBC 수목극 다시 살릴까…'킹더랜드' 못 간 포상휴가 도전]]></title>
+        <id>https://v.daum.net/v/20230823214204464</id>
+        <link href="https://v.daum.net/v/20230823214204464"/>
+        <updated>2023-08-23T13:11:41.852Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 불륜녀 손성윤, 매생이국 싸대기 맞았다 '충격']]></title>
         <id>https://v.daum.net/v/20230823210948075</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230823181817909"/>
         <updated>2023-08-23T10:10:04.693Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지온, 불안감+분노 표출…'압도적 열연' 긴장감↑]]></title>
-        <id>https://v.daum.net/v/20230823181541851</id>
-        <link href="https://v.daum.net/v/20230823181541851"/>
-        <updated>2023-08-23T10:10:04.697Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포켓돌 측, 유준원 주장 재반박→母 카톡 공개…"6대 4 수익 요청"]]></title>
-        <id>https://v.daum.net/v/20230823180603590</id>
-        <link href="https://v.daum.net/v/20230823180603590"/>
-        <updated>2023-08-23T09:10:26.607Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
