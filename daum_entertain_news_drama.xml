@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T14:10:07.020Z</updated>
+    <updated>2023-08-24T15:10:03.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해진 '대국민 사기극' 들통...임지연 "찌질하시네"]]></title>
+        <id>https://v.daum.net/v/20230825000631080</id>
+        <link href="https://v.daum.net/v/20230825000631080"/>
+        <updated>2023-08-24T15:09:52.106Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 임지연, 수사 중 머리 맞고 기절→박해진 격한 몸싸움]]></title>
+        <id>https://v.daum.net/v/20230824233459637</id>
+        <link href="https://v.daum.net/v/20230824233459637"/>
+        <updated>2023-08-24T15:09:52.110Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 임지연, 박해진 여론 몰이에 "찌질해" 분노]]></title>
         <id>https://v.daum.net/v/20230824225948442</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230824195017639</id>
         <link href="https://v.daum.net/v/20230824195017639"/>
         <updated>2023-08-24T11:09:15.252Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정 "'마스크걸' 이한별, 날 보는 것 같아…안아버렸다"]]></title>
-        <id>https://v.daum.net/v/20230824195009635</id>
-        <link href="https://v.daum.net/v/20230824195009635"/>
-        <updated>2023-08-24T11:09:15.260Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정 "모성 표현하기엔…" 솔직히 밝힌 #외모 #연기]]></title>
-        <id>https://v.daum.net/v/20230824195002632</id>
-        <link href="https://v.daum.net/v/20230824195002632"/>
-        <updated>2023-08-24T11:09:15.261Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
