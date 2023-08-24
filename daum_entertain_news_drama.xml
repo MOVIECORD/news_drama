@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T12:19:42.170Z</updated>
+    <updated>2023-08-24T13:12:22.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["또 우리 아들 인생 초 치려고"...최재원, 반소영 보자마자 '분노']]></title>
+        <id>https://v.daum.net/v/20230824213900568</id>
+        <link href="https://v.daum.net/v/20230824213900568"/>
+        <updated>2023-08-24T13:12:10.658Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 한지완, 김진우 음모로 경찰 연행..'고구마 전개']]></title>
         <id>https://v.daum.net/v/20230824205024821</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824185202346"/>
         <updated>2023-08-24T10:09:56.372Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아, '로운♥' 유라와 악연…날선 경계심과 미움]]></title>
-        <id>https://v.daum.net/v/20230824183032756</id>
-        <link href="https://v.daum.net/v/20230824183032756"/>
-        <updated>2023-08-24T10:09:56.373Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
