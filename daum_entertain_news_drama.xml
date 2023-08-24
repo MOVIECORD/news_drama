@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T18:12:16.862Z</updated>
+    <updated>2023-08-24T19:09:00.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 임지연, 중태라고 속인 박해진에 "지금 대국민 사기 치신 거냐?" 비난]]></title>
+        <id>https://v.daum.net/v/20230825035404943</id>
+        <link href="https://v.daum.net/v/20230825035404943"/>
+        <updated>2023-08-24T19:07:53.184Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박해진 '대국민 사기극' 들통...임지연 "찌질하시네"]]></title>
         <id>https://v.daum.net/v/20230825000631080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824195601775"/>
         <updated>2023-08-24T11:09:15.252Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수영 "母, 마지막회에 눈물…엄마 전혜진 덕분"]]></title>
-        <id>https://v.daum.net/v/20230824195017639</id>
-        <link href="https://v.daum.net/v/20230824195017639"/>
-        <updated>2023-08-24T11:09:15.252Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
