@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-24T21:08:54.096Z</updated>
+    <updated>2023-08-24T22:09:51.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이장현=남궁민 아닐리가..'능글 남주+액션' 진짜 잘한다!]]></title>
+        <id>https://v.daum.net/v/20230825063601816</id>
+        <link href="https://v.daum.net/v/20230825063601816"/>
+        <updated>2023-08-24T22:08:49.143Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘남남’ 전혜진 “처음 보는 모녀관계, ‘엄마 고정관념’ 깼죠”]]></title>
+        <id>https://v.daum.net/v/20230825063017746</id>
+        <link href="https://v.daum.net/v/20230825063017746"/>
+        <updated>2023-08-24T22:08:49.144Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘남남’ 최수영 “씩씩한 딸 역, 실제와 닮아…엄마도 인정”]]></title>
+        <id>https://v.daum.net/v/20230825063015740</id>
+        <link href="https://v.daum.net/v/20230825063015740"/>
+        <updated>2023-08-24T22:08:49.145Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’ 고현정이 생각하는 아름다운 미모? “청결이요”]]></title>
         <id>https://v.daum.net/v/20230825060305360</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230824213900568"/>
         <updated>2023-08-24T13:12:10.658Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 한지완, 김진우 음모로 경찰 연행..'고구마 전개']]></title>
-        <id>https://v.daum.net/v/20230824205024821</id>
-        <link href="https://v.daum.net/v/20230824205024821"/>
-        <updated>2023-08-24T12:19:28.384Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'마스크걸', 연기력 무한제공"…은은한 호평 이유]]></title>
-        <id>https://v.daum.net/v/20230824205003810</id>
-        <link href="https://v.daum.net/v/20230824205003810"/>
-        <updated>2023-08-24T12:19:28.387Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민 사극멜로 '연인', 들리는가 앓는 소리]]></title>
-        <id>https://v.daum.net/v/20230824204023668</id>
-        <link href="https://v.daum.net/v/20230824204023668"/>
-        <updated>2023-08-24T12:19:28.401Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
