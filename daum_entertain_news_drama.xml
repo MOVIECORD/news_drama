@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-25T01:42:59.992Z</updated>
+    <updated>2023-08-25T02:16:11.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한지민·이민기·수호·박혁권 혼란스러운 조합, 아무튼 웃길 듯]]></title>
+        <id>https://v.daum.net/v/20230825111501140</id>
+        <link href="https://v.daum.net/v/20230825111501140"/>
+        <updated>2023-08-25T02:16:00.057Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번엔 류승룡 차례, 느와르 액션도 멜로도 씹어 먹었다]]></title>
+        <id>https://v.daum.net/v/20230825111413123</id>
+        <link href="https://v.daum.net/v/20230825111413123"/>
+        <updated>2023-08-25T02:16:00.058Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고윤정 "미술 전공했지만 가장 좋아하는 과목 체육, 승부욕 강하다"]]></title>
+        <id>https://v.daum.net/v/20230825110138600</id>
+        <link href="https://v.daum.net/v/20230825110138600"/>
+        <updated>2023-08-25T02:16:00.064Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사랑합니다"..'마스크걸' 이선희, 반전의 교도소장 존재감+화제성 ↑]]></title>
         <id>https://v.daum.net/v/20230825103614570</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230825093015989"/>
         <updated>2023-08-25T00:40:55.017Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상·유나, 실제 부녀라고 해도 믿겠네]]></title>
-        <id>https://v.daum.net/v/20230825092927954</id>
-        <link href="https://v.daum.net/v/20230825092927954"/>
-        <updated>2023-08-25T00:40:55.019Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상, 500:1 뚫은 유나와 신박한 시너지]]></title>
-        <id>https://v.daum.net/v/20230825092534847</id>
-        <link href="https://v.daum.net/v/20230825092534847"/>
-        <updated>2023-08-25T00:40:55.019Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길X서현, 액션 활극 '도적: 칼의 소리' 9월 22일 공개]]></title>
-        <id>https://v.daum.net/v/20230825092016680</id>
-        <link href="https://v.daum.net/v/20230825092016680"/>
-        <updated>2023-08-25T00:40:55.021Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
