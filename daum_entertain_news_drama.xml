@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-25T10:10:09.561Z</updated>
+    <updated>2023-08-25T11:08:29.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하늘의 인연’ 고은미, 이훈 마약 누명에 오열 “끝까지 믿어줄걸”]]></title>
+        <id>https://v.daum.net/v/20230825194645075</id>
+        <link href="https://v.daum.net/v/20230825194645075"/>
+        <updated>2023-08-25T11:08:18.222Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 父 이훈 마약 누명 벗겼다...고은미 오열 "나 때문에"]]></title>
+        <id>https://v.daum.net/v/20230825194530054</id>
+        <link href="https://v.daum.net/v/20230825194530054"/>
+        <updated>2023-08-25T11:08:18.228Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만화 찢고 등장…'마스크걸' 이한별·'무빙' 이정하·'신병' 남태우]]></title>
         <id>https://v.daum.net/v/20230825190144394</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230825145917952"/>
         <updated>2023-08-25T06:13:27.816Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만영화 배우 마동석 측 “드라마 ‘트웰브’ 출연 긍정 검토 중”]]></title>
-        <id>https://v.daum.net/v/20230825145529828</id>
-        <link href="https://v.daum.net/v/20230825145529828"/>
-        <updated>2023-08-25T06:13:27.818Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“누가 죽였을까? 알아맞혀봐” 단죄자의 섬뜩한 경고]]></title>
-        <id>https://v.daum.net/v/20230825143543123</id>
-        <link href="https://v.daum.net/v/20230825143543123"/>
-        <updated>2023-08-25T06:13:27.819Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
