@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-25T14:09:14.504Z</updated>
+    <updated>2023-08-25T15:09:43.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원, 시신 폭탄과 함께 감금...협박범과 기싸움]]></title>
+        <id>https://v.daum.net/v/20230825232530131</id>
+        <link href="https://v.daum.net/v/20230825232530131"/>
+        <updated>2023-08-25T15:09:32.707Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원, 돌아온 공승연에 손 내밀었다 "안 오는 줄 알았다"]]></title>
+        <id>https://v.daum.net/v/20230825232300111</id>
+        <link href="https://v.daum.net/v/20230825232300111"/>
+        <updated>2023-08-25T15:09:32.710Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 남궁민♥안은진, 로맨틱 첫키스 "연모하진 않아도 잊지 마시오"]]></title>
         <id>https://v.daum.net/v/20230825230448874</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230825174222781"/>
         <updated>2023-08-25T09:09:38.162Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 한효주, 감시대상 조인성→♥계기? "어쩔 수 없는 외모"]]></title>
-        <id>https://v.daum.net/v/20230825174200760</id>
-        <link href="https://v.daum.net/v/20230825174200760"/>
-        <updated>2023-08-25T09:09:38.165Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유비, 거짓말 삶이었다…"이게 알려지면 난 끝이야" 광기]]></title>
-        <id>https://v.daum.net/v/20230825155801865</id>
-        <link href="https://v.daum.net/v/20230825155801865"/>
-        <updated>2023-08-25T07:10:02.896Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
