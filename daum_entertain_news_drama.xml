@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-26T06:11:17.561Z</updated>
+    <updated>2023-08-26T07:08:26.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민 안은진 첫 입맞춤 했는데‥이대로 이별하나]]></title>
+        <id>https://v.daum.net/v/20230826160027562</id>
+        <link href="https://v.daum.net/v/20230826160027562"/>
+        <updated>2023-08-26T07:08:18.080Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘힙하게’ 한지민 이민기 감금된 후 결박까지, 공조수사 대위기]]></title>
+        <id>https://v.daum.net/v/20230826153459290</id>
+        <link href="https://v.daum.net/v/20230826153459290"/>
+        <updated>2023-08-26T07:08:18.082Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소옆경2’ 피칠갑에도 당당하던 오의식, 갑자기 고통 호소한 이유]]></title>
         <id>https://v.daum.net/v/20230826150543985</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230826113020093"/>
         <updated>2023-08-26T03:09:58.450Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진, 남궁민과 입맞춤 후 달라진 눈빛 ‘연인’ 몰입할 수밖에]]></title>
-        <id>https://v.daum.net/v/20230826111326962</id>
-        <link href="https://v.daum.net/v/20230826111326962"/>
-        <updated>2023-08-26T03:09:58.453Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민·안은진, 첫 입맞춤 후 이대로 이별하나 '애틋']]></title>
-        <id>https://v.daum.net/v/20230826110707921</id>
-        <link href="https://v.daum.net/v/20230826110707921"/>
-        <updated>2023-08-26T02:12:41.495Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
