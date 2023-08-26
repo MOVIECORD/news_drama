@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-26T03:10:08.707Z</updated>
+    <updated>2023-08-26T04:11:59.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민X안은진 드디어 입맞춤 “날 잊지 마시오”…10.6%]]></title>
+        <id>https://v.daum.net/v/20230826130633823</id>
+        <link href="https://v.daum.net/v/20230826130633823"/>
+        <updated>2023-08-26T04:11:48.506Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민 '연인' 파트제·차은우 '오사개' 주1회로, 편성도 골라 본다]]></title>
+        <id>https://v.daum.net/v/20230826123319620</id>
+        <link href="https://v.daum.net/v/20230826123319620"/>
+        <updated>2023-08-26T04:11:48.511Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민 “심양 가면 잦아들까?.. 이 죽일 놈의 연정!”]]></title>
+        <id>https://v.daum.net/v/20230826121804531</id>
+        <link href="https://v.daum.net/v/20230826121804531"/>
+        <updated>2023-08-26T04:11:48.514Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민vs김래원 뒤바뀐 희비..'연인' 시청률 10% 고지 선점]]></title>
         <id>https://v.daum.net/v/20230826115649339</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230826095002190"/>
         <updated>2023-08-26T01:39:01.518Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민 '연인' 10% 돌파, 김래원 '소옆경2' 제자리 걸음 '금토극 완승']]></title>
-        <id>https://v.daum.net/v/20230826094821174</id>
-        <link href="https://v.daum.net/v/20230826094821174"/>
-        <updated>2023-08-26T01:39:01.520Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 김대호, 11년 만 울릉도 재입도… "은퇴 후 정착하고파"]]></title>
-        <id>https://v.daum.net/v/20230826093320037</id>
-        <link href="https://v.daum.net/v/20230826093320037"/>
-        <updated>2023-08-26T00:39:26.128Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역시 갓궁민" 남궁민, '연인'도 10% 만든 대상 배우]]></title>
-        <id>https://v.daum.net/v/20230826093219026</id>
-        <link href="https://v.daum.net/v/20230826093219026"/>
-        <updated>2023-08-26T00:39:26.130Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
