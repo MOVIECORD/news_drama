@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-27T15:09:12.314Z</updated>
+    <updated>2023-08-27T16:13:05.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강부자, 정의제 아닌 안재현 선택.."하늘이 포기해주면 안 되겠니?"]]></title>
+        <id>https://v.daum.net/v/20230828003021374</id>
+        <link href="https://v.daum.net/v/20230828003021374"/>
+        <updated>2023-08-27T16:12:53.843Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민, 이민기 칼 맞은 사건 전말 알아내…"살리려고 찌른 것"]]></title>
         <id>https://v.daum.net/v/20230827235246056</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827211009895"/>
         <updated>2023-08-27T12:16:36.621Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜가' 안재현♥백진희, 캐나다 이민 결심 "기쁜 맘으로 떠나요"]]></title>
-        <id>https://v.daum.net/v/20230827205957777</id>
-        <link href="https://v.daum.net/v/20230827205957777"/>
-        <updated>2023-08-27T12:16:36.623Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
