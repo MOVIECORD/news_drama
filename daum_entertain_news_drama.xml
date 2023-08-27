@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-27T09:08:45.071Z</updated>
+    <updated>2023-08-27T10:09:29.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤찬영·봉재현·이서진 ‘조폭인 내가 고등학생…’ 제작무산? NO! 예정대로]]></title>
+        <id>https://v.daum.net/v/20230827190646445</id>
+        <link href="https://v.daum.net/v/20230827190646445"/>
+        <updated>2023-08-27T10:09:17.573Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열 아이언맨 안 부러워…'무빙', 'K-히어로' 새 지평 열었다]]></title>
         <id>https://v.daum.net/v/20230827170101425</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827125818372"/>
         <updated>2023-08-27T04:10:51.772Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소현X황민현, 무조건적인 믿음 ‘설렘 보장 로맨스’]]></title>
-        <id>https://v.daum.net/v/20230827122053982</id>
-        <link href="https://v.daum.net/v/20230827122053982"/>
-        <updated>2023-08-27T04:10:51.773Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
