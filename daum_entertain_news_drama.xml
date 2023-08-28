@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T10:10:56.027Z</updated>
+    <updated>2023-08-28T11:08:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["올해의 오징어게임"..콤비된 류승룡·조인성, 블랙 요원 첫 임무는?]]></title>
+        <id>https://v.daum.net/v/20230828200047686</id>
+        <link href="https://v.daum.net/v/20230828200047686"/>
+        <updated>2023-08-28T11:08:00.614Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석은 박현숙 매수하고, 정우연은 전혜연·서한결 감금 "가관"]]></title>
+        <id>https://v.daum.net/v/20230828194930456</id>
+        <link href="https://v.daum.net/v/20230828194930456"/>
+        <updated>2023-08-28T11:08:00.617Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 진주형, 전혜연에 "술 한 잔 하자"→정우연 분노]]></title>
+        <id>https://v.daum.net/v/20230828193011056</id>
+        <link href="https://v.daum.net/v/20230828193011056"/>
+        <updated>2023-08-28T11:08:00.619Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지석 "갑작스런 상의 탈의, 3주 준비…식단 조절+몸 깎았다"]]></title>
         <id>https://v.daum.net/v/20230828185021368</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230828173131277"/>
         <updated>2023-08-28T09:10:58.172Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양요섭, '연인' 상승세 지원사격...사극 맞춤 발라드 OST 발표]]></title>
-        <id>https://v.daum.net/v/20230828170918590</id>
-        <link href="https://v.daum.net/v/20230828170918590"/>
-        <updated>2023-08-28T08:13:54.766Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아♥로운, 불가항력 로맨스 봉인해제]]></title>
-        <id>https://v.daum.net/v/20230828170441447</id>
-        <link href="https://v.daum.net/v/20230828170441447"/>
-        <updated>2023-08-28T08:13:54.784Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 지승현, 남궁민 빈자리 '안은진 서방님' 꿰찰까]]></title>
-        <id>https://v.daum.net/v/20230828170432445</id>
-        <link href="https://v.daum.net/v/20230828170432445"/>
-        <updated>2023-08-28T08:13:54.794Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
