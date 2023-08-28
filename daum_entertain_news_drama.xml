@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T09:11:09.917Z</updated>
+    <updated>2023-08-28T10:10:56.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지석 "갑작스런 상의 탈의, 3주 준비…식단 조절+몸 깎았다"]]></title>
+        <id>https://v.daum.net/v/20230828185021368</id>
+        <link href="https://v.daum.net/v/20230828185021368"/>
+        <updated>2023-08-28T10:10:44.650Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무빙' 강풀 작가 "원작 보다 낫다는 반응…기분 이상해"]]></title>
+        <id>https://v.daum.net/v/20230828183230094</id>
+        <link href="https://v.daum.net/v/20230828183230094"/>
+        <updated>2023-08-28T10:10:44.652Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니+, '무빙' 이어 '아라문의 검' 공개..쌍끌이 흥행 노린다]]></title>
+        <id>https://v.daum.net/v/20230828182501944</id>
+        <link href="https://v.daum.net/v/20230828182501944"/>
+        <updated>2023-08-28T10:10:44.657Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄정화 측 "'닥터 차정숙' 다음은 '더 와이프'? 검토 중"]]></title>
+        <id>https://v.daum.net/v/20230828181952794</id>
+        <link href="https://v.daum.net/v/20230828181952794"/>
+        <updated>2023-08-28T10:10:44.666Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 지승현, 이름처럼 안은진의 또 다른 구원 될까]]></title>
         <id>https://v.daum.net/v/20230828180737461</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230828170432445"/>
         <updated>2023-08-28T08:13:54.794Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 강풀 "다 반대한 이야기, '착한 사람이 이긴다' 쓰고 싶었죠"]]></title>
-        <id>https://v.daum.net/v/20230828170056345</id>
-        <link href="https://v.daum.net/v/20230828170056345"/>
-        <updated>2023-08-28T08:13:54.796Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘무빙’ 강풀 작가 “제작비 500억? 예산 생각말고 쓰라고”]]></title>
-        <id>https://v.daum.net/v/20230828165750261</id>
-        <link href="https://v.daum.net/v/20230828165750261"/>
-        <updated>2023-08-28T08:13:54.800Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민경, 이민기에 빠졌다..짝사랑 시작]]></title>
-        <id>https://v.daum.net/v/20230828163728546</id>
-        <link href="https://v.daum.net/v/20230828163728546"/>
-        <updated>2023-08-28T08:13:54.801Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재원 최성원 김강현 윤세웅, 단막극 ‘극야’ 출연 확정]]></title>
-        <id>https://v.daum.net/v/20230828162648127</id>
-        <link href="https://v.daum.net/v/20230828162648127"/>
-        <updated>2023-08-28T08:13:54.805Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
