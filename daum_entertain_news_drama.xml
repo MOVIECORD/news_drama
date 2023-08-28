@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T13:14:22.799Z</updated>
+    <updated>2023-08-28T14:09:47.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["K-웹툰 축복"…'마스크걸'·'연인', 싱크로율 살리고 떴다]]></title>
+        <id>https://v.daum.net/v/20230828225003550</id>
+        <link href="https://v.daum.net/v/20230828225003550"/>
+        <updated>2023-08-28T14:08:44.016Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 김소현 전 연인 서지훈, 황민현 목숨 구했다]]></title>
+        <id>https://v.daum.net/v/20230828222446409</id>
+        <link href="https://v.daum.net/v/20230828222446409"/>
+        <updated>2023-08-28T14:08:44.017Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이청아, ‘연인’ 합류...남궁민과 세 번째 호흡]]></title>
         <id>https://v.daum.net/v/20230828220301257</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230828181952794"/>
         <updated>2023-08-28T10:10:44.666Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 지승현, 이름처럼 안은진의 또 다른 구원 될까]]></title>
-        <id>https://v.daum.net/v/20230828180737461</id>
-        <link href="https://v.daum.net/v/20230828180737461"/>
-        <updated>2023-08-28T09:10:58.153Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제대로 웃긴 가족 온다"…'우당탕탕 패밀리' 1차 티저 공개]]></title>
-        <id>https://v.daum.net/v/20230828175955168</id>
-        <link href="https://v.daum.net/v/20230828175955168"/>
-        <updated>2023-08-28T09:10:58.153Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
