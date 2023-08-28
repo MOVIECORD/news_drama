@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T11:08:12.000Z</updated>
+    <updated>2023-08-28T12:18:30.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙' 강풀 "이미 만화 잊었다"…그리기 귀찮던 걸 드라마로]]></title>
+        <id>https://v.daum.net/v/20230828205002453</id>
+        <link href="https://v.daum.net/v/20230828205002453"/>
+        <updated>2023-08-28T12:18:19.156Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 서한결, 전혜연과 창고서 초밀착 포옹..설렘 유발]]></title>
+        <id>https://v.daum.net/v/20230828201049877</id>
+        <link href="https://v.daum.net/v/20230828201049877"/>
+        <updated>2023-08-28T12:18:19.177Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["올해의 오징어게임"..콤비된 류승룡·조인성, 블랙 요원 첫 임무는?]]></title>
         <id>https://v.daum.net/v/20230828200047686</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230828174927884"/>
         <updated>2023-08-28T09:10:58.163Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우당탕탕 패밀리' 1차 티저공개,  “제대로 웃긴 가족들이 밀려온다”]]></title>
-        <id>https://v.daum.net/v/20230828174317718</id>
-        <link href="https://v.daum.net/v/20230828174317718"/>
-        <updated>2023-08-28T09:10:58.167Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["군대 그 자체" 쉰내까지 담은 '신병2'…원작은 10%만, 과감 시도]]></title>
-        <id>https://v.daum.net/v/20230828173131277</id>
-        <link href="https://v.daum.net/v/20230828173131277"/>
-        <updated>2023-08-28T09:10:58.172Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
