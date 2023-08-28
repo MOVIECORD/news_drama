@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T21:09:44.061Z</updated>
+    <updated>2023-08-28T22:09:24.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은데 뭐 어때..드라마 속 재회 열풍]]></title>
+        <id>https://v.daum.net/v/20230829070658778</id>
+        <link href="https://v.daum.net/v/20230829070658778"/>
+        <updated>2023-08-28T22:09:12.814Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘신병2’ 김지석 “화생방보다 더 독한 ‘FM 끝판왕’ 보여줄 것”]]></title>
+        <id>https://v.daum.net/v/20230829063011311</id>
+        <link href="https://v.daum.net/v/20230829063011311"/>
+        <updated>2023-08-28T22:09:12.815Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강풀 작가 "500억 '무빙'으로 모험, 하고 싶은 거 다 해 후회 NO"]]></title>
         <id>https://v.daum.net/v/20230829060101971</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230828193011056"/>
         <updated>2023-08-28T11:08:00.619Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지석 "갑작스런 상의 탈의, 3주 준비…식단 조절+몸 깎았다"]]></title>
-        <id>https://v.daum.net/v/20230828185021368</id>
-        <link href="https://v.daum.net/v/20230828185021368"/>
-        <updated>2023-08-28T10:10:44.650Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 강풀 작가 "원작 보다 낫다는 반응…기분 이상해"]]></title>
-        <id>https://v.daum.net/v/20230828183230094</id>
-        <link href="https://v.daum.net/v/20230828183230094"/>
-        <updated>2023-08-28T10:10:44.652Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
