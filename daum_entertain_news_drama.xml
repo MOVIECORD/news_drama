@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T03:10:32.451Z</updated>
+    <updated>2023-08-28T04:12:53.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현♥황민현, 홈데이트 하다 입맞춤 1초 전 '꿀이 뚝뚝']]></title>
+        <id>https://v.daum.net/v/20230828130639971</id>
+        <link href="https://v.daum.net/v/20230828130639971"/>
+        <updated>2023-08-28T04:11:50.171Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근자에 이렇게 빵빵 터지는 드라마를 본 적 있었던가]]></title>
         <id>https://v.daum.net/v/20230828114446249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230828091415137"/>
         <updated>2023-08-28T00:43:50.317Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이청아, 남궁민과 또 만난다…‘연인’ 합류]]></title>
-        <id>https://v.daum.net/v/20230828090826966</id>
-        <link href="https://v.daum.net/v/20230828090826966"/>
-        <updated>2023-08-28T00:43:50.319Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
