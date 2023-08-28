@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T14:09:47.493Z</updated>
+    <updated>2023-08-28T15:10:30.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소혜, 이상엽과 계약..."배신하면 내 손에 죽음"]]></title>
+        <id>https://v.daum.net/v/20230829000400011</id>
+        <link href="https://v.daum.net/v/20230829000400011"/>
+        <updated>2023-08-28T15:10:20.073Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["K-웹툰 축복"…'마스크걸'·'연인', 싱크로율 살리고 떴다]]></title>
         <id>https://v.daum.net/v/20230828225003550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230828182501944"/>
         <updated>2023-08-28T10:10:44.657Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화 측 "'닥터 차정숙' 다음은 '더 와이프'? 검토 중"]]></title>
-        <id>https://v.daum.net/v/20230828181952794</id>
-        <link href="https://v.daum.net/v/20230828181952794"/>
-        <updated>2023-08-28T10:10:44.666Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
