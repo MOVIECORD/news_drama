@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-28T02:17:11.379Z</updated>
+    <updated>2023-08-28T03:10:32.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[근자에 이렇게 빵빵 터지는 드라마를 본 적 있었던가]]></title>
+        <id>https://v.daum.net/v/20230828114446249</id>
+        <link href="https://v.daum.net/v/20230828114446249"/>
+        <updated>2023-08-28T03:10:20.532Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이민기 살린 최지혁, 누군가에게 살해 당했다...시청률 7.5%]]></title>
+        <id>https://v.daum.net/v/20230828114101122</id>
+        <link href="https://v.daum.net/v/20230828114101122"/>
+        <updated>2023-08-28T03:10:20.541Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父 이종혁 넘는 존재감…"놀러왔다가" 이준수, 뜻밖의 카메오 출격]]></title>
         <id>https://v.daum.net/v/20230828110311556</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230828090826966"/>
         <updated>2023-08-28T00:43:50.319Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘7인의 탈출’ 백발 된 엄기준, 충격 비주얼]]></title>
-        <id>https://v.daum.net/v/20230828090705915</id>
-        <link href="https://v.daum.net/v/20230828090705915"/>
-        <updated>2023-08-28T00:43:50.329Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 최지혁 살인범은 찾을까? 이민기 분노 오열]]></title>
-        <id>https://v.daum.net/v/20230828090134738</id>
-        <link href="https://v.daum.net/v/20230828090134738"/>
-        <updated>2023-08-28T00:43:50.332Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
