@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-29T14:10:05.241Z</updated>
+    <updated>2023-08-29T15:10:00.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상엽, 본격적인 승부조작 복귀전 준비..."지는 연습하자"]]></title>
+        <id>https://v.daum.net/v/20230829231043003</id>
+        <link href="https://v.daum.net/v/20230829231043003"/>
+        <updated>2023-08-29T15:09:49.603Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’, 잘해도 본전?…웹툰 작품화의 치명적 단점]]></title>
         <id>https://v.daum.net/v/20230829223309783</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230829195002892"/>
         <updated>2023-08-29T11:08:06.987Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반응 폭발적..김소현·황민현, '소용없어 거짓말' 141개국 1위]]></title>
-        <id>https://v.daum.net/v/20230829193004633</id>
-        <link href="https://v.daum.net/v/20230829193004633"/>
-        <updated>2023-08-29T11:08:06.989Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
