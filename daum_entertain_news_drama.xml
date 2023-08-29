@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-29T20:11:24.834Z</updated>
+    <updated>2023-08-29T21:08:57.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 고현정 “요즘 고민? 많은 작품에 쓰였으면”]]></title>
+        <id>https://v.daum.net/v/20230830060308347</id>
+        <link href="https://v.daum.net/v/20230830060308347"/>
+        <updated>2023-08-29T21:08:47.117Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고현정 “‘마스크걸’ 악인 아닌 돌아이…가장 안타까운 캐릭터”]]></title>
+        <id>https://v.daum.net/v/20230830060301338</id>
+        <link href="https://v.daum.net/v/20230830060301338"/>
+        <updated>2023-08-29T21:08:47.121Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민, 또 대상 예약...'연인'도 화제성 1위]]></title>
         <id>https://v.daum.net/v/20230830040231303</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230829200101087"/>
         <updated>2023-08-29T11:08:06.977Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더글로리'·'마스크걸'의 복수녀..염혜란 "우주의 기운인가요?"]]></title>
-        <id>https://v.daum.net/v/20230829195851041</id>
-        <link href="https://v.daum.net/v/20230829195851041"/>
-        <updated>2023-08-29T11:08:06.984Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 서한결, 전혜연=첫사랑 소녀 알았다... 눈물의 포옹]]></title>
-        <id>https://v.daum.net/v/20230829195231939</id>
-        <link href="https://v.daum.net/v/20230829195231939"/>
-        <updated>2023-08-29T11:08:06.984Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
