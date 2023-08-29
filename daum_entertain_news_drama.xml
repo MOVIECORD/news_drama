@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-29T21:08:57.230Z</updated>
+    <updated>2023-08-29T22:09:11.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현 첫사랑 시신 발견…재수사 하나]]></title>
+        <id>https://v.daum.net/v/20230830070023079</id>
+        <link href="https://v.daum.net/v/20230830070023079"/>
+        <updated>2023-08-29T22:09:00.774Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 이한별 “데뷔작이 글로벌 히트…얼떨떨해요”]]></title>
+        <id>https://v.daum.net/v/20230830063015598</id>
+        <link href="https://v.daum.net/v/20230830063015598"/>
+        <updated>2023-08-29T22:09:00.775Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘글로벌 히트메이커’로 우뚝 선 염혜란 “저 지금 행복해요!”]]></title>
+        <id>https://v.daum.net/v/20230830063013597</id>
+        <link href="https://v.daum.net/v/20230830063013597"/>
+        <updated>2023-08-29T22:09:00.778Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["엄마 이야기하고 싶었죠"…최수영, '남남'으로 넓힌 연기 스펙트럼]]></title>
+        <id>https://v.daum.net/v/20230830060917424</id>
+        <link href="https://v.daum.net/v/20230830060917424"/>
+        <updated>2023-08-29T22:09:00.780Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’ 고현정 “요즘 고민? 많은 작품에 쓰였으면”]]></title>
         <id>https://v.daum.net/v/20230830060308347</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230829204111561"/>
         <updated>2023-08-29T12:17:42.623Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지완, 결국 김진우 뜻대로…이혼 서류에 도장 찍었다]]></title>
-        <id>https://v.daum.net/v/20230829203451490</id>
-        <link href="https://v.daum.net/v/20230829203451490"/>
-        <updated>2023-08-29T12:17:42.623Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 한지완, 살인 누명쓰고 유산..피 흘리며 실신]]></title>
-        <id>https://v.daum.net/v/20230829201745280</id>
-        <link href="https://v.daum.net/v/20230829201745280"/>
-        <updated>2023-08-29T12:17:42.625Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지완, 결국 유산…"아기 불쌍해서 어떡해" 오열]]></title>
-        <id>https://v.daum.net/v/20230829200901193</id>
-        <link href="https://v.daum.net/v/20230829200901193"/>
-        <updated>2023-08-29T12:17:42.626Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000대 1 뚫은 '마스크걸' 이한별 "고현정·나나 앞, 혼자만의 싸움…아직 산 넘어 산"]]></title>
-        <id>https://v.daum.net/v/20230829200101087</id>
-        <link href="https://v.daum.net/v/20230829200101087"/>
-        <updated>2023-08-29T11:08:06.977Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
