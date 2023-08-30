@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-30T22:10:11.530Z</updated>
+    <updated>2023-08-30T23:10:00.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유라에 이별 통보한 로운, 조보아에 "나도 당신 좋아하는 거 맞고"]]></title>
+        <id>https://v.daum.net/v/20230831080402571</id>
+        <link href="https://v.daum.net/v/20230831080402571"/>
+        <updated>2023-08-30T23:09:49.086Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오당기’ 권율, 배종옥처럼 또 한 명의 ‘인간 사용자’ 될까?]]></title>
+        <id>https://v.daum.net/v/20230831080059520</id>
+        <link href="https://v.daum.net/v/20230831080059520"/>
+        <updated>2023-08-30T23:09:49.089Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20세기 히트송 리메이크 열풍 다시 불까]]></title>
         <id>https://v.daum.net/v/20230831063011034</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230830175002767"/>
         <updated>2023-08-30T09:09:51.578Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빨간불' 켜진 KBS 드라마, '효심이네'로 자존심 회복할까]]></title>
-        <id>https://v.daum.net/v/20230830173531289</id>
-        <link href="https://v.daum.net/v/20230830173531289"/>
-        <updated>2023-08-30T09:09:51.580Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 김소현, "뭘 입어도 예뻐"]]></title>
-        <id>https://v.daum.net/v/20230830172914043</id>
-        <link href="https://v.daum.net/v/20230830172914043"/>
-        <updated>2023-08-30T09:09:51.583Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
