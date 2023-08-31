@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-08-31T08:15:34.366Z</updated>
+    <updated>2023-08-31T09:10:03.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동욱, 결혼 앞두고 밝힌 소감…"인생의 다음 단계 함께 헤쳐나갈 사람"]]></title>
+        <id>https://v.daum.net/v/20230831175156353</id>
+        <link href="https://v.daum.net/v/20230831175156353"/>
+        <updated>2023-08-31T09:09:53.575Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서은수 ‘수사반장’ 여주인공 낙점, 이제훈 이동휘와 호흡]]></title>
+        <id>https://v.daum.net/v/20230831171424034</id>
+        <link href="https://v.daum.net/v/20230831171424034"/>
+        <updated>2023-08-31T09:09:53.575Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로운, ♥조보아 거부할 수 없네…‘플러팅’까지 난리 중]]></title>
         <id>https://v.daum.net/v/20230831170913828</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230831151341307"/>
         <updated>2023-08-31T07:09:33.968Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순정복서' 이상엽X김소혜, 연기 포텐 터진 대환장 케미]]></title>
-        <id>https://v.daum.net/v/20230831151155229</id>
-        <link href="https://v.daum.net/v/20230831151155229"/>
-        <updated>2023-08-31T06:13:19.271Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균X김영광X신재하 '악인전기', 10월 14일 첫 공개]]></title>
-        <id>https://v.daum.net/v/20230831150208717</id>
-        <link href="https://v.daum.net/v/20230831150208717"/>
-        <updated>2023-08-31T06:13:19.271Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
