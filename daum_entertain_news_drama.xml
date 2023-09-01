@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-01T09:10:40.323Z</updated>
+    <updated>2023-09-01T10:10:29.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민은 '대상 예약' 했는데…차린 것 없는 'MBC 연기대상' 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230901190002729</id>
+        <link href="https://v.daum.net/v/20230901190002729"/>
+        <updated>2023-09-01T10:10:17.003Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 안은진, 한밤중 위기 포착…"유길채 성장과 변화 기대 당부"]]></title>
+        <id>https://v.daum.net/v/20230901184805574</id>
+        <link href="https://v.daum.net/v/20230901184805574"/>
+        <updated>2023-09-01T10:10:17.005Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영표 "아시안게임 승부차기 실축, 20년째 놀림 받는다"]]></title>
         <id>https://v.daum.net/v/20230901174345234</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230901154436712"/>
         <updated>2023-09-01T07:09:56.308Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민·수호 로맨틱 깨는 이민기 ‘저저저!’]]></title>
-        <id>https://v.daum.net/v/20230901143616344</id>
-        <link href="https://v.daum.net/v/20230901143616344"/>
-        <updated>2023-09-01T06:12:59.675Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김순옥 월드 ‘7인의 탈출’ 3차 티저…상상초월 악인 탄생 예고]]></title>
-        <id>https://v.daum.net/v/20230901140508244</id>
-        <link href="https://v.daum.net/v/20230901140508244"/>
-        <updated>2023-09-01T05:09:07.763Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
