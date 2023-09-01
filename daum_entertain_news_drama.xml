@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-01T12:18:17.991Z</updated>
+    <updated>2023-09-01T13:12:24.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김시후, 강다현에게 "우리 오늘부터 1일하자" 고백]]></title>
+        <id>https://v.daum.net/v/20230901215930341</id>
+        <link href="https://v.daum.net/v/20230901215930341"/>
+        <updated>2023-09-01T13:12:12.206Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진주형, 김유석 밀어내고 부사장직 차지 "차질없이 인수인계 받겠다"]]></title>
         <id>https://v.daum.net/v/20230901211106141</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230901162852049</id>
         <link href="https://v.daum.net/v/20230901162852049"/>
         <updated>2023-09-01T08:12:21.652Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이성경 측 “‘찬란한 너의 계절에’ 검토중” 서인국 만날까]]></title>
-        <id>https://v.daum.net/v/20230901162436934</id>
-        <link href="https://v.daum.net/v/20230901162436934"/>
-        <updated>2023-09-01T08:12:21.654Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
