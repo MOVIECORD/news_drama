@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-01T03:11:04.658Z</updated>
+    <updated>2023-09-01T04:12:19.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 방송날이다..9·10회 시청 전 반드시 살펴봐야 할 '궁금증 포인트' 3가지]]></title>
+        <id>https://v.daum.net/v/20230901130100614</id>
+        <link href="https://v.daum.net/v/20230901130100614"/>
+        <updated>2023-09-01T04:12:09.781Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무빙' 한효주, 처음 보여주는 '엄마' 얼굴]]></title>
         <id>https://v.daum.net/v/20230901113444634</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901093245135"/>
         <updated>2023-09-01T00:44:55.042Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안혜경, 1년 열애 끝 결혼…"♥예비신랑, 멋진 모습에 반해"]]></title>
-        <id>https://v.daum.net/v/20230901092605914</id>
-        <link href="https://v.daum.net/v/20230901092605914"/>
-        <updated>2023-09-01T00:44:55.050Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
