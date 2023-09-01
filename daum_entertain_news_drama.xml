@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-01T02:21:22.484Z</updated>
+    <updated>2023-09-01T03:11:04.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙' 한효주, 처음 보여주는 '엄마' 얼굴]]></title>
+        <id>https://v.daum.net/v/20230901113444634</id>
+        <link href="https://v.daum.net/v/20230901113444634"/>
+        <updated>2023-09-01T03:10:53.234Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지민･수호, 달달한 자전거 데이트..이민기는 ‘심기불편’]]></title>
+        <id>https://v.daum.net/v/20230901112538234</id>
+        <link href="https://v.daum.net/v/20230901112538234"/>
+        <updated>2023-09-01T03:10:53.234Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘무빙’ 한효주, 멜로부터 모성애까지 오감 충족 열연]]></title>
+        <id>https://v.daum.net/v/20230901112533231</id>
+        <link href="https://v.daum.net/v/20230901112533231"/>
+        <updated>2023-09-01T03:10:53.246Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키이스트, 백미경 작가 신작 '나는 대놓고 신데렐라를 꿈꾼다' 제작]]></title>
         <id>https://v.daum.net/v/20230901111948943</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230901092605914"/>
         <updated>2023-09-01T00:44:55.050Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아♥로운 어차피 로맨스…거부할 수 없는 운명]]></title>
-        <id>https://v.daum.net/v/20230901090836262</id>
-        <link href="https://v.daum.net/v/20230901090836262"/>
-        <updated>2023-09-01T00:44:55.066Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힙하게’ 한지민X수호, 자전거 나들이…이민기 질투 폭발]]></title>
-        <id>https://v.daum.net/v/20230901090745241</id>
-        <link href="https://v.daum.net/v/20230901090745241"/>
-        <updated>2023-09-01T00:44:55.074Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 첫 눈에 반한 엑소 수호와 자전거 데이트…이민기 매의 눈]]></title>
-        <id>https://v.daum.net/v/20230901090502139</id>
-        <link href="https://v.daum.net/v/20230901090502139"/>
-        <updated>2023-09-01T00:44:55.078Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
