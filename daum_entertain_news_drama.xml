@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-02T10:09:25.616Z</updated>
+    <updated>2023-09-02T11:07:34.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민, 안은진 위해 산 꽃신 불태운다 ‘슬픈 눈빛’]]></title>
+        <id>https://v.daum.net/v/20230902192211414</id>
+        <link href="https://v.daum.net/v/20230902192211414"/>
+        <updated>2023-09-02T11:07:22.715Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스의 설계 뚫나…김래원, '스모킹건' 탐색 돌입]]></title>
         <id>https://v.daum.net/v/20230902190101149</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902115313881"/>
         <updated>2023-09-02T03:09:49.541Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥행퀸 유이 “잘 선택한 ‘효심이네’ 타이틀롤 부담감 있었지만”]]></title>
-        <id>https://v.daum.net/v/20230902112656681</id>
-        <link href="https://v.daum.net/v/20230902112656681"/>
-        <updated>2023-09-02T03:09:49.544Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
