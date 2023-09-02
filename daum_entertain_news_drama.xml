@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-02T03:10:52.824Z</updated>
+    <updated>2023-09-02T04:12:13.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 남궁민-안은진, 저리고 아프게 엇갈려 간절한 사랑]]></title>
+        <id>https://v.daum.net/v/20230902123734348</id>
+        <link href="https://v.daum.net/v/20230902123734348"/>
+        <updated>2023-09-02T04:11:11.084Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수업중입니다2' 이광희, 연애 세포 자극하는 '직진남']]></title>
         <id>https://v.daum.net/v/20230902120732028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902085606028"/>
         <updated>2023-09-02T00:39:49.886Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 덱스 잡기 위해 父 조승연과 공조 시동 “이 놈 잡아야 끝나”]]></title>
-        <id>https://v.daum.net/v/20230902083624893</id>
-        <link href="https://v.daum.net/v/20230902083624893"/>
-        <updated>2023-09-02T00:39:49.887Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
