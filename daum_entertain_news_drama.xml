@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-02T09:09:27.126Z</updated>
+    <updated>2023-09-02T10:09:25.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[덱스의 설계 뚫나…김래원, '스모킹건' 탐색 돌입]]></title>
+        <id>https://v.daum.net/v/20230902190101149</id>
+        <link href="https://v.daum.net/v/20230902190101149"/>
+        <updated>2023-09-02T10:09:16.084Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민X이민기, 2번째 살인사건 발생..충격 살해현장 찾는다]]></title>
         <id>https://v.daum.net/v/20230902180636723</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230902112656681</id>
         <link href="https://v.daum.net/v/20230902112656681"/>
         <updated>2023-09-02T03:09:49.544Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유괴의날’ 박성훈 ‘더글로리-남남’ 이어 3연타 흥행 성공할까]]></title>
-        <id>https://v.daum.net/v/20230902104926328</id>
-        <link href="https://v.daum.net/v/20230902104926328"/>
-        <updated>2023-09-02T02:12:46.503Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
