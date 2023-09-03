@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-03T14:09:12.128Z</updated>
+    <updated>2023-09-03T15:09:02.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["초능력자는 총 세 명"...'힙하게' 한지민, 밝혀진 진실에 충격]]></title>
+        <id>https://v.daum.net/v/20230903234500112</id>
+        <link href="https://v.daum.net/v/20230903234500112"/>
+        <updated>2023-09-03T15:08:52.863Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '경소문2' 조병규, 강기영 지옥으로 보냈다... 진선규 해방]]></title>
         <id>https://v.daum.net/v/20230903224100843</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[종영 '경소문2' 진선규, 강기영 끊어내려 스스로 목숨 끊어 "너와 같이 간다" [종합}]]></title>
+        <title type="html"><![CDATA[종영 '경소문2' 진선규, 강기영 끊어내려 스스로 목숨 끊어 "너와 같이 간다"]]></title>
         <id>https://v.daum.net/v/20230903221244640</id>
         <link href="https://v.daum.net/v/20230903221244640"/>
         <updated>2023-09-03T14:08:08.655Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230903202927831"/>
         <updated>2023-09-03T12:15:38.086Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민만 있나?..안은진, 전설의 한예종10 폼 나왔다]]></title>
-        <id>https://v.daum.net/v/20230903202019756</id>
-        <link href="https://v.daum.net/v/20230903202019756"/>
-        <updated>2023-09-03T12:15:38.086Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
