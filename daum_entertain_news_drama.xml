@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-03T09:09:27.396Z</updated>
+    <updated>2023-09-03T10:09:19.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천재 복서' 김소혜 VS '복싱계 악동' 도은하 첫 경기 시작]]></title>
+        <id>https://v.daum.net/v/20230903183957688</id>
+        <link href="https://v.daum.net/v/20230903183957688"/>
+        <updated>2023-09-03T10:09:08.186Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수상한 박노식, 한지민 팔 붙잡고 위협]]></title>
+        <id>https://v.daum.net/v/20230903183133584</id>
+        <link href="https://v.daum.net/v/20230903183133584"/>
+        <updated>2023-09-03T10:09:08.187Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마스크걸' 고현정, 새로운 얼굴을 향한 도전]]></title>
+        <id>https://v.daum.net/v/20230903181725351</id>
+        <link href="https://v.daum.net/v/20230903181725351"/>
+        <updated>2023-09-03T10:09:08.189Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역시 남궁민 '연인', 미친 사랑의 이야기로 파트1 마무리]]></title>
         <id>https://v.daum.net/v/20230903180020087</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230903133634867"/>
         <updated>2023-09-03T05:09:06.036Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 고전 '경소문2' 종영 D-DAY…조병규 "추운 겨울도 뜨거운 마음으로 이겨내"]]></title>
-        <id>https://v.daum.net/v/20230903133402801</id>
-        <link href="https://v.daum.net/v/20230903133402801"/>
-        <updated>2023-09-03T05:09:06.037Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, ♥진아름 눈 감아...이제는 만인의 '연인']]></title>
-        <id>https://v.daum.net/v/20230903130620294</id>
-        <link href="https://v.daum.net/v/20230903130620294"/>
-        <updated>2023-09-03T04:11:01.524Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민, 또 '연기대상' 예약…MBC, '옷소매' 후 체면 살렸다]]></title>
-        <id>https://v.daum.net/v/20230903122003713</id>
-        <link href="https://v.daum.net/v/20230903122003713"/>
-        <updated>2023-09-03T04:11:01.526Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
