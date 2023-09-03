@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-03T02:17:24.276Z</updated>
+    <updated>2023-09-03T03:10:51.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원, 덱스와 맞대면  → 카라반 폭발 → 공승연 눈물 …설마 김래원도 사망?]]></title>
+        <id>https://v.daum.net/v/20230903115136221</id>
+        <link href="https://v.daum.net/v/20230903115136221"/>
+        <updated>2023-09-03T03:09:48.533Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘소옆경2’ 손호준 이어 또 주연 배우 사망?…김래원, 폭발 사고로 생사 불명]]></title>
+        <id>https://v.daum.net/v/20230903112101844</id>
+        <link href="https://v.daum.net/v/20230903112101844"/>
+        <updated>2023-09-03T03:09:48.533Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 안은진, 주체적 사극 여주의 탄생..파트2 남궁민과 이어질까]]></title>
         <id>https://v.daum.net/v/20230903110819593</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230903090031569"/>
         <updated>2023-09-03T00:44:01.884Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 김래원도 죽나, 생사확인 불가…"덱스=진성우" 충격]]></title>
-        <id>https://v.daum.net/v/20230903085225433</id>
-        <link href="https://v.daum.net/v/20230903085225433"/>
-        <updated>2023-09-03T00:44:01.889Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙하게' 한지민X이민기, 입덕 부정기 시작.."너 없인 안되잖아"]]></title>
-        <id>https://v.daum.net/v/20230903083605224</id>
-        <link href="https://v.daum.net/v/20230903083605224"/>
-        <updated>2023-09-03T00:44:01.893Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
