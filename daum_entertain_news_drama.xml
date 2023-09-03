@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-03T08:12:42.543Z</updated>
+    <updated>2023-09-03T09:09:27.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역시 남궁민 '연인', 미친 사랑의 이야기로 파트1 마무리]]></title>
+        <id>https://v.daum.net/v/20230903180020087</id>
+        <link href="https://v.daum.net/v/20230903180020087"/>
+        <updated>2023-09-03T09:08:24.640Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 파트1 마무리…안은진, 주체적 사극 여주 '인생캐 경신']]></title>
+        <id>https://v.daum.net/v/20230903174956860</id>
+        <link href="https://v.daum.net/v/20230903174956860"/>
+        <updated>2023-09-03T09:08:24.641Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김필, '연인' 파트1 마지막 OST '나의 별이 돼주오'…오늘 발매]]></title>
+        <id>https://v.daum.net/v/20230903173332553</id>
+        <link href="https://v.daum.net/v/20230903173332553"/>
+        <updated>2023-09-03T09:08:24.643Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 파트2 여주인공 안은진→이청아? 뜨거운 인기만큼 '갑론을박']]></title>
         <id>https://v.daum.net/v/20230903163022301</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230903122003713"/>
         <updated>2023-09-03T04:11:01.526Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원, 덱스와 맞대면  → 카라반 폭발 → 공승연 눈물 …설마 김래원도 사망?]]></title>
-        <id>https://v.daum.net/v/20230903115136221</id>
-        <link href="https://v.daum.net/v/20230903115136221"/>
-        <updated>2023-09-03T03:09:48.533Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소옆경2’ 손호준 이어 또 주연 배우 사망?…김래원, 폭발 사고로 생사 불명]]></title>
-        <id>https://v.daum.net/v/20230903112101844</id>
-        <link href="https://v.daum.net/v/20230903112101844"/>
-        <updated>2023-09-03T03:09:48.533Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 안은진, 주체적 사극 여주의 탄생..파트2 남궁민과 이어질까]]></title>
-        <id>https://v.daum.net/v/20230903110819593</id>
-        <link href="https://v.daum.net/v/20230903110819593"/>
-        <updated>2023-09-03T02:17:12.193Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
