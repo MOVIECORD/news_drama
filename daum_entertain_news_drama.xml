@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-03T10:09:19.697Z</updated>
+    <updated>2023-09-03T11:07:29.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정형돈 "'무한도전'과 10년, 가장 아름다운 시절..유재석에 많이 배워"]]></title>
+        <id>https://v.daum.net/v/20230903195014527</id>
+        <link href="https://v.daum.net/v/20230903195014527"/>
+        <updated>2023-09-03T11:07:20.366Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['복면가왕' 어반자카파 출신 재만 "BTS와 '커피' 작업, 너무 영광스러운 일"]]></title>
+        <id>https://v.daum.net/v/20230903191230159</id>
+        <link href="https://v.daum.net/v/20230903191230159"/>
+        <updated>2023-09-03T11:07:20.369Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천재 복서' 김소혜 VS '복싱계 악동' 도은하 첫 경기 시작]]></title>
         <id>https://v.daum.net/v/20230903183957688</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230903135313199"/>
         <updated>2023-09-03T05:09:06.034Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 9人 조병규→김히어라 "마지막 아니길"..시즌3 나올까]]></title>
-        <id>https://v.daum.net/v/20230903133754898</id>
-        <link href="https://v.daum.net/v/20230903133754898"/>
-        <updated>2023-09-03T05:09:06.036Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조병규도 강기영도 아닌, 진선규만 보인다는 건]]></title>
-        <id>https://v.daum.net/v/20230903133634867</id>
-        <link href="https://v.daum.net/v/20230903133634867"/>
-        <updated>2023-09-03T05:09:06.036Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
