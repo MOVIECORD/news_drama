@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-04T06:14:50.455Z</updated>
+    <updated>2023-09-04T07:11:20.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아라문의 검’ 아스달에 불어닥친 대전쟁의 서막]]></title>
+        <id>https://v.daum.net/v/20230904155814064</id>
+        <link href="https://v.daum.net/v/20230904155814064"/>
+        <updated>2023-09-04T07:10:17.739Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장동건 vs 이준기, 운명 건 대전쟁 예고…"대항하는 모두를 죽여라"]]></title>
+        <id>https://v.daum.net/v/20230904154721419</id>
+        <link href="https://v.daum.net/v/20230904154721419"/>
+        <updated>2023-09-04T07:10:17.739Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전여빈 "강훈은 비타민, 안효섭은 코엔자임…난 유산균"]]></title>
+        <id>https://v.daum.net/v/20230904153005463</id>
+        <link href="https://v.daum.net/v/20230904153005463"/>
+        <updated>2023-09-04T07:10:17.740Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마스크걸’ 고현정 나나 딸 신예서, 한솥밥은 염혜란과‥에이스팩토리 전속계약]]></title>
         <id>https://v.daum.net/v/20230904150557236</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230904125102865"/>
         <updated>2023-09-04T04:12:01.429Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경소문2' 절반의 성공→시즌3 나올까.."아쉽다"vs"K 히어로물 글로벌 확대"]]></title>
-        <id>https://v.daum.net/v/20230904123519639</id>
-        <link href="https://v.daum.net/v/20230904123519639"/>
-        <updated>2023-09-04T04:12:01.437Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다른 MBTI·뉴진스 OST…'너시속', 원작 '상견니' 신드롬 잇나]]></title>
-        <id>https://v.daum.net/v/20230904123234610</id>
-        <link href="https://v.daum.net/v/20230904123234610"/>
-        <updated>2023-09-04T04:12:01.439Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너의 시간 속으로' 전여빈 "안효섭과 호흡? 실제로 설렌 순간 많아"]]></title>
-        <id>https://v.daum.net/v/20230904123029591</id>
-        <link href="https://v.daum.net/v/20230904123029591"/>
-        <updated>2023-09-04T04:12:01.440Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
