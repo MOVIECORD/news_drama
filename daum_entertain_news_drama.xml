@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-04T05:09:37.892Z</updated>
+    <updated>2023-09-04T06:14:50.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 고현정 나나 딸 신예서, 한솥밥은 염혜란과‥에이스팩토리 전속계약]]></title>
+        <id>https://v.daum.net/v/20230904150557236</id>
+        <link href="https://v.daum.net/v/20230904150557236"/>
+        <updated>2023-09-04T06:13:46.830Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘경소문2’ 염혜란 또 빛났다‥“변함없는 사랑 감사” 소감]]></title>
+        <id>https://v.daum.net/v/20230904141753282</id>
+        <link href="https://v.daum.net/v/20230904141753282"/>
+        <updated>2023-09-04T06:13:46.833Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김진원 감독 "뉴진스 'Ditto' 뮤비, 우리 촬영장서 찍어…이건 운명"]]></title>
+        <id>https://v.daum.net/v/20230904141005999</id>
+        <link href="https://v.daum.net/v/20230904141005999"/>
+        <updated>2023-09-04T06:13:46.862Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정영주, '오늘도 사랑스럽개' 출연 확정..박규영 母 된다]]></title>
         <id>https://v.daum.net/v/20230904140813920</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230904123029591"/>
         <updated>2023-09-04T04:12:01.440Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다르면서 같아"…'너의 시간 속으로' 안효섭·전여빈·강훈, 韓 '상견니' 탄생]]></title>
-        <id>https://v.daum.net/v/20230904123020588</id>
-        <link href="https://v.daum.net/v/20230904123020588"/>
-        <updated>2023-09-04T04:12:01.442Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원작과 MBTI 달라"…안효섭X전여빈X강훈 '너의 시간 속으로', '상견니' 팬도 사로잡을까]]></title>
-        <id>https://v.daum.net/v/20230904122133472</id>
-        <link href="https://v.daum.net/v/20230904122133472"/>
-        <updated>2023-09-04T04:12:01.443Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘상견니’ 후광 업은 ‘너의 시간 속으로’ 넷플릭스 로코 자존심 세울까]]></title>
-        <id>https://v.daum.net/v/20230904122050456</id>
-        <link href="https://v.daum.net/v/20230904122050456"/>
-        <updated>2023-09-04T04:12:01.445Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
