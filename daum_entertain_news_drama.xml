@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-04T22:09:45.671Z</updated>
+    <updated>2023-09-04T23:10:39.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서장훈, 기본급 2500만원+보너스 1000% 받은 男에 "평생 혼자" 일침]]></title>
+        <id>https://v.daum.net/v/20230905073607692</id>
+        <link href="https://v.daum.net/v/20230905073607692"/>
+        <updated>2023-09-04T23:09:36.606Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소용없어 거짓말' 황민현, 권동호 칼에 찔렸나 '충격 엔딩']]></title>
         <id>https://v.daum.net/v/20230905065502182</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904192804604"/>
         <updated>2023-09-04T11:08:40.742Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 서한결과 초밥데이트.."사랑스럽고 예뻐"]]></title>
-        <id>https://v.daum.net/v/20230904192556565</id>
-        <link href="https://v.daum.net/v/20230904192556565"/>
-        <updated>2023-09-04T11:08:40.744Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
