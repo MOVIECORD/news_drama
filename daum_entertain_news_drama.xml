@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-04T20:09:57.029Z</updated>
+    <updated>2023-09-04T21:09:04.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경소문2', 최고 7.7%로 종영...시즌3 나올까]]></title>
+        <id>https://v.daum.net/v/20230905060231655</id>
+        <link href="https://v.daum.net/v/20230905060231655"/>
+        <updated>2023-09-04T21:08:51.879Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난 링 위에서 괴물"...김소혜, 복싱 복귀전 KO승]]></title>
         <id>https://v.daum.net/v/20230904235400513</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904184619899"/>
         <updated>2023-09-04T10:10:34.178Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아라문의 검', 빈틈없는 몰입감에 이미 홀렸다...첫 방송 기대↑]]></title>
-        <id>https://v.daum.net/v/20230904184544881</id>
-        <link href="https://v.daum.net/v/20230904184544881"/>
-        <updated>2023-09-04T10:10:34.182Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
