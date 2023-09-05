@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-05T11:09:18.210Z</updated>
+    <updated>2023-09-05T12:18:08.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 서지훈, 김소현 칼부림 휘말리게 한 황민현 원망]]></title>
+        <id>https://v.daum.net/v/20230905211207532</id>
+        <link href="https://v.daum.net/v/20230905211207532"/>
+        <updated>2023-09-05T12:17:56.367Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘우아한 제국’ 김진우, 손성윤에게 “너 때문에 조강지처 버렸는데!”]]></title>
+        <id>https://v.daum.net/v/20230905201350685</id>
+        <link href="https://v.daum.net/v/20230905201350685"/>
+        <updated>2023-09-05T12:17:56.369Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지완, 딸 학대 정황 알게 됐다…"김진우에게서 되찾아 올 거야"]]></title>
+        <id>https://v.daum.net/v/20230905201144655</id>
+        <link href="https://v.daum.net/v/20230905201144655"/>
+        <updated>2023-09-05T12:17:56.371Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 전혜연, 진주형 자백 영상 확보..大반전 예고]]></title>
         <id>https://v.daum.net/v/20230905200054478</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230905172731928"/>
         <updated>2023-09-05T10:10:39.986Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기 말고 준기…'아라문의 검', 장동건도 놀란 '배우 교체']]></title>
-        <id>https://v.daum.net/v/20230905172055691</id>
-        <link href="https://v.daum.net/v/20230905172055691"/>
-        <updated>2023-09-05T10:10:39.988Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이질감無" 이준기·신세경 투입 '아라문의 검', 전작 혹평 극복할까]]></title>
-        <id>https://v.daum.net/v/20230905165318742</id>
-        <link href="https://v.daum.net/v/20230905165318742"/>
-        <updated>2023-09-05T08:15:14.209Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["송중기 역을 이준기가"…제목 변경 '아라문의 검', 시즌1 혹평 지울까]]></title>
-        <id>https://v.daum.net/v/20230905165012606</id>
-        <link href="https://v.daum.net/v/20230905165012606"/>
-        <updated>2023-09-05T08:15:14.213Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
