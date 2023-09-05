@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-05T13:13:46.866Z</updated>
+    <updated>2023-09-05T14:09:24.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 살인 누명 벗으려 진범 차직 시작…♥김소현과 애틋]]></title>
+        <id>https://v.daum.net/v/20230905224228743</id>
+        <link href="https://v.daum.net/v/20230905224228743"/>
+        <updated>2023-09-05T14:09:12.028Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소용없어 거짓말' 서지훈, 김소현 칼부림 휘말리게 한 황민현 원망]]></title>
         <id>https://v.daum.net/v/20230905211207532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230905175009650"/>
         <updated>2023-09-05T10:10:39.983Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인', 적수가 없다…드라마·OTT 통합 화제성 1위]]></title>
-        <id>https://v.daum.net/v/20230905172731928</id>
-        <link href="https://v.daum.net/v/20230905172731928"/>
-        <updated>2023-09-05T10:10:39.986Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
