@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-05T01:41:24.772Z</updated>
+    <updated>2023-09-05T02:15:46.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이광희, 'S라인' 캐스팅 확정…오마이걸 아린과 호흡]]></title>
+        <id>https://v.daum.net/v/20230905110807061</id>
+        <link href="https://v.daum.net/v/20230905110807061"/>
+        <updated>2023-09-05T02:14:43.564Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시우, '아스달' 후속으로 장동건 만난다]]></title>
+        <id>https://v.daum.net/v/20230905105429380</id>
+        <link href="https://v.daum.net/v/20230905105429380"/>
+        <updated>2023-09-05T02:14:43.565Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 여주 교체설→‘바함사’ 유사성 논란까지…제작진 입장 밝힐까]]></title>
         <id>https://v.daum.net/v/20230905103619641</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230905091440137"/>
         <updated>2023-09-05T00:40:56.634Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복한 김소현♥황민현에 찾아온 위기..탈출 가능할까?]]></title>
-        <id>https://v.daum.net/v/20230905085941570</id>
-        <link href="https://v.daum.net/v/20230905085941570"/>
-        <updated>2023-09-05T00:40:56.638Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민X안은진 '연인' 이길 드라마 없다..압도적 화제성 1위]]></title>
-        <id>https://v.daum.net/v/20230905085716502</id>
-        <link href="https://v.daum.net/v/20230905085716502"/>
-        <updated>2023-09-05T00:40:56.647Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
