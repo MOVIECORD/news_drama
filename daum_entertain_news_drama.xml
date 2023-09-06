@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-06T22:10:06.294Z</updated>
+    <updated>2023-09-06T23:09:50.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장동건VS이준기, 결전의 시간...'아라문의 검' 첫방 D-2→관전 포인트 공개]]></title>
+        <id>https://v.daum.net/v/20230907080626544</id>
+        <link href="https://v.daum.net/v/20230907080626544"/>
+        <updated>2023-09-06T23:09:39.665Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유라에 프러포즈 받은 로운, 조보아와 키스 1초 전 "좋았던 적 없어?"]]></title>
+        <id>https://v.daum.net/v/20230907075605356</id>
+        <link href="https://v.daum.net/v/20230907075605356"/>
+        <updated>2023-09-06T23:09:39.666Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박규영, 차은우와 환상 케미 기대..'오늘도 사랑스럽개' 해나 첫 스틸]]></title>
         <id>https://v.daum.net/v/20230907070030614</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230906195006685"/>
         <updated>2023-09-06T11:08:28.999Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아라문의 검' 신세경 "대제관 역할, 대사 너무 많아 '오늘의 변사' 수준"]]></title>
-        <id>https://v.daum.net/v/20230906183745974</id>
-        <link href="https://v.daum.net/v/20230906183745974"/>
-        <updated>2023-09-06T10:10:27.833Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG 수현, 장기용 누나 됐다..'경성크리처' 공개 전 JTBC '히어로는 아닙니다' 합류]]></title>
-        <id>https://v.daum.net/v/20230906182018561</id>
-        <link href="https://v.daum.net/v/20230906182018561"/>
-        <updated>2023-09-06T10:10:27.836Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
