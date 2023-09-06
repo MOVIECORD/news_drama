@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-06T02:16:08.392Z</updated>
+    <updated>2023-09-06T03:10:33.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한재이 "'쓰레기 남친' 이준영, 스위트한 현실과 갭 차이…정말 대단해"]]></title>
+        <id>https://v.daum.net/v/20230906115203265</id>
+        <link href="https://v.daum.net/v/20230906115203265"/>
+        <updated>2023-09-06T03:10:20.870Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한재이 “넷플릭스 1위 예상 못해, 팔로워 10배 늘었다”]]></title>
+        <id>https://v.daum.net/v/20230906114556965</id>
+        <link href="https://v.daum.net/v/20230906114556965"/>
+        <updated>2023-09-06T03:10:20.872Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한재이 "연예인 본 듯 본 동갑내기 친구 나나, 정 많고 따뜻한 사람"]]></title>
+        <id>https://v.daum.net/v/20230906113501445</id>
+        <link href="https://v.daum.net/v/20230906113501445"/>
+        <updated>2023-09-06T03:10:20.872Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김진우, 김소혜와 쌍방 로맨스 시작..첫사랑→든든 버팀목 ‘활약’]]></title>
         <id>https://v.daum.net/v/20230906110721030</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230906093920011"/>
         <updated>2023-09-06T00:41:15.064Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한 대도 맞지 마"..이상엽, 눈빛만 봐도 멜로 100편 본 듯]]></title>
-        <id>https://v.daum.net/v/20230906093619918</id>
-        <link href="https://v.daum.net/v/20230906093619918"/>
-        <updated>2023-09-06T00:41:15.065Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기용·천우희·고두심·수현, '히어로는 아닙니다만' 출연 확정]]></title>
-        <id>https://v.daum.net/v/20230906093534883</id>
-        <link href="https://v.daum.net/v/20230906093534883"/>
-        <updated>2023-09-06T00:41:15.068Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기용·천우희 '히어로는 아닙니다만' 연기 맛집 라인업 완성]]></title>
-        <id>https://v.daum.net/v/20230906093321789</id>
-        <link href="https://v.daum.net/v/20230906093321789"/>
-        <updated>2023-09-06T00:41:15.075Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
