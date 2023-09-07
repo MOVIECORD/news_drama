@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T09:12:02.128Z</updated>
+    <updated>2023-09-07T10:11:12.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김히어라, '학폭 의혹' 진실공방…법정서 밝혀질까]]></title>
+        <id>https://v.daum.net/v/20230907183139800</id>
+        <link href="https://v.daum.net/v/20230907183139800"/>
+        <updated>2023-09-07T10:11:01.612Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지석, 화생방보다 독한 FM 중대장..시청자 PTSD 유발]]></title>
+        <id>https://v.daum.net/v/20230907182152541</id>
+        <link href="https://v.daum.net/v/20230907182152541"/>
+        <updated>2023-09-07T10:11:01.614Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우당탕탕 패밀리’ 전쟁 같은 상견례..이혼 후 돌고 돌아 사돈?]]></title>
         <id>https://v.daum.net/v/20230907180818141</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230907153404751"/>
         <updated>2023-09-07T07:09:15.412Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기 대신 이준기 … 주연 교체 '아라문의 검'에 거는 기대]]></title>
-        <id>https://v.daum.net/v/20230907150939538</id>
-        <link href="https://v.daum.net/v/20230907150939538"/>
-        <updated>2023-09-07T06:12:58.892Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기막힌 초능력자 아빠들, 김성균과 류승룡의 짠한 출퇴근길]]></title>
-        <id>https://v.daum.net/v/20230907141749301</id>
-        <link href="https://v.daum.net/v/20230907141749301"/>
-        <updated>2023-09-07T06:12:58.896Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
