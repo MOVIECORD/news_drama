@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T19:09:03.288Z</updated>
+    <updated>2023-09-07T20:11:29.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 임지연, "앞으로 어떻게 살지 본인이 알아서 할 것"…박성웅 향한 경고]]></title>
+        <id>https://v.daum.net/v/20230908044800312</id>
+        <link href="https://v.daum.net/v/20230908044800312"/>
+        <updated>2023-09-07T20:10:25.479Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오당기’ 배종옥의 ‘불행한 능력’이 만든 증오보다 위험한 사랑]]></title>
         <id>https://v.daum.net/v/20230908004006110</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907195030654"/>
         <updated>2023-09-07T11:09:01.716Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘그래, 그랬구나’ 서동현, 남규희 술자리 플러팅에 설렘 폭발]]></title>
-        <id>https://v.daum.net/v/20230907193205227</id>
-        <link href="https://v.daum.net/v/20230907193205227"/>
-        <updated>2023-09-07T11:09:01.717Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
