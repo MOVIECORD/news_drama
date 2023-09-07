@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T14:10:13.590Z</updated>
+    <updated>2023-09-07T15:10:29.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 번째 투표, 과반수 찬성으로 '사형 확정'→임지연, 폭탄 테러범과 '육탄전']]></title>
+        <id>https://v.daum.net/v/20230907235002628</id>
+        <link href="https://v.daum.net/v/20230907235002628"/>
+        <updated>2023-09-07T15:10:17.625Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성웅 "개탈 정체? 박해진밖에 안 떠올라"...팽팽한 기싸움]]></title>
         <id>https://v.daum.net/v/20230907223017093</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907183139800"/>
         <updated>2023-09-07T10:11:01.612Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지석, 화생방보다 독한 FM 중대장..시청자 PTSD 유발]]></title>
-        <id>https://v.daum.net/v/20230907182152541</id>
-        <link href="https://v.daum.net/v/20230907182152541"/>
-        <updated>2023-09-07T10:11:01.614Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
