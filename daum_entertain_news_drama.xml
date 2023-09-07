@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-07T21:10:16.127Z</updated>
+    <updated>2023-09-07T22:10:17.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[특수본 합류 박성웅, 박해진 개탈로 의심→아비규환 속 현장 이탈]]></title>
+        <id>https://v.daum.net/v/20230908070010101</id>
+        <link href="https://v.daum.net/v/20230908070010101"/>
+        <updated>2023-09-07T22:09:14.500Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“강점은 배우 연기→OST” 원작 ‘상견니’ 신드롬 이을까]]></title>
         <id>https://v.daum.net/v/20230908055916963</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907201810540"/>
         <updated>2023-09-07T12:17:56.130Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 강율, 김미라 만류에도 집 뛰쳐나가.."배우 될 것"]]></title>
-        <id>https://v.daum.net/v/20230907201512427</id>
-        <link href="https://v.daum.net/v/20230907201512427"/>
-        <updated>2023-09-07T12:17:56.132Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
