@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-08T10:10:37.916Z</updated>
+    <updated>2023-09-08T11:08:27.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 전혜연, 김유석 딸 사실에 오열 "날 죽이려한 사람, 사는 게 지옥"]]></title>
+        <id>https://v.daum.net/v/20230908195530703</id>
+        <link href="https://v.daum.net/v/20230908195530703"/>
+        <updated>2023-09-08T11:08:15.984Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강훈 “‘옷소매’ 전 배우로서 답 없어…계속 한숨만 쉬었다”]]></title>
+        <id>https://v.daum.net/v/20230908193151125</id>
+        <link href="https://v.daum.net/v/20230908193151125"/>
+        <updated>2023-09-08T11:08:15.984Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정가희 "'오당기', 감사함 느꼈던 현장"]]></title>
         <id>https://v.daum.net/v/20230908183621004</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230908160321644"/>
         <updated>2023-09-08T07:09:19.352Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 황정음→이유비, 소름 유발 악인 머그샷]]></title>
-        <id>https://v.daum.net/v/20230908155104190</id>
-        <link href="https://v.daum.net/v/20230908155104190"/>
-        <updated>2023-09-08T07:09:19.354Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백은혜, 우삼순 그 자체 “늦은 합류 아쉬움 남아” 종영 소감]]></title>
-        <id>https://v.daum.net/v/20230908153936693</id>
-        <link href="https://v.daum.net/v/20230908153936693"/>
-        <updated>2023-09-08T07:09:19.355Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
