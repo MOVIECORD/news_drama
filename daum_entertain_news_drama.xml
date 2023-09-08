@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-08T02:17:52.508Z</updated>
+    <updated>2023-09-08T03:10:03.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장르 만렙 이준기 컴백, 1인 2역 새 지평 연다]]></title>
+        <id>https://v.daum.net/v/20230908115832314</id>
+        <link href="https://v.daum.net/v/20230908115832314"/>
+        <updated>2023-09-08T03:09:51.404Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핏줄 타령 지겹지도 않니? 여기저기서 터지는 KBS 주말극 위기론]]></title>
+        <id>https://v.daum.net/v/20230908114107781</id>
+        <link href="https://v.daum.net/v/20230908114107781"/>
+        <updated>2023-09-08T03:09:51.406Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["모욕도 욕"이라던 김히어라,  '방관자'와 '가해자' 사이]]></title>
+        <id>https://v.daum.net/v/20230908113140384</id>
+        <link href="https://v.daum.net/v/20230908113140384"/>
+        <updated>2023-09-08T03:09:51.406Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손호준 이어 김래원도 사망?…'소옆경2' 측 "상상도 못 할 전개"]]></title>
+        <id>https://v.daum.net/v/20230908112119924</id>
+        <link href="https://v.daum.net/v/20230908112119924"/>
+        <updated>2023-09-08T03:09:51.409Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘장르 만렙 배우’ 이준기, ‘아라문의 검’으로 컴백 D-1..이번엔 1인 2역]]></title>
         <id>https://v.daum.net/v/20230908111305585</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230908100513855"/>
         <updated>2023-09-08T01:43:37.387Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성웅 위치 추적 발찌 끊고 사라졌다, 키플레이어 활약]]></title>
-        <id>https://v.daum.net/v/20230908100014534</id>
-        <link href="https://v.daum.net/v/20230908100014534"/>
-        <updated>2023-09-08T01:43:37.390Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오당기' 배종옥, 무기징역 선고..수목극 1위 '유종의 미']]></title>
-        <id>https://v.daum.net/v/20230908095632374</id>
-        <link href="https://v.daum.net/v/20230908095632374"/>
-        <updated>2023-09-08T01:43:37.393Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유괴범 윤계상과 공조하는 11살 천재소녀 누구? “5차 오디션 진행”]]></title>
-        <id>https://v.daum.net/v/20230908094328936</id>
-        <link href="https://v.daum.net/v/20230908094328936"/>
-        <updated>2023-09-08T01:43:37.396Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민X안은진, 파트1 리와인드 인터뷰 공개]]></title>
-        <id>https://v.daum.net/v/20230908093306577</id>
-        <link href="https://v.daum.net/v/20230908093306577"/>
-        <updated>2023-09-08T00:41:24.842Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
