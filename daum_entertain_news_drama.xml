@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-08T19:07:57.975Z</updated>
+    <updated>2023-09-08T20:12:33.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙', 제대로 된 한국형 어벤져스의 등장]]></title>
+        <id>https://v.daum.net/v/20230909051001329</id>
+        <link href="https://v.daum.net/v/20230909051001329"/>
+        <updated>2023-09-08T20:11:29.561Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원, 조승연과 신념 지키며 '사망'…공승연, 살인범 전성우 잡을까?]]></title>
+        <id>https://v.daum.net/v/20230909050600322</id>
+        <link href="https://v.daum.net/v/20230909050600322"/>
+        <updated>2023-09-08T20:11:29.566Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소옆경2' 김래원, "너 나한테 무슨 짓 한 거야?"…귓가에서 들리는 전성우 목소리에 '충격']]></title>
+        <id>https://v.daum.net/v/20230909044201222</id>
+        <link href="https://v.daum.net/v/20230909044201222"/>
+        <updated>2023-09-08T20:11:29.568Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 남궁민, 직접 뽑은 최애 장면 셋..“‘아무도 못 지나가’·‘내 마음이 달라’·‘정말 밉군’”]]></title>
         <id>https://v.daum.net/v/20230909020920826</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230908203559263"/>
         <updated>2023-09-08T12:16:51.353Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지완, 딸과 다시 이별→손성윤 "김진우와 절대 헤어지지 않아"]]></title>
-        <id>https://v.daum.net/v/20230908203228225</id>
-        <link href="https://v.daum.net/v/20230908203228225"/>
-        <updated>2023-09-08T12:16:51.362Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 뺨맞은 손성윤, 김진우家 나왔다 "한지완, 다시 며느리 앉혀라"]]></title>
-        <id>https://v.daum.net/v/20230908202630137</id>
-        <link href="https://v.daum.net/v/20230908202630137"/>
-        <updated>2023-09-08T12:16:51.364Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 김유석 딸 사실에 오열 "날 죽이려한 사람, 사는 게 지옥"]]></title>
-        <id>https://v.daum.net/v/20230908195530703</id>
-        <link href="https://v.daum.net/v/20230908195530703"/>
-        <updated>2023-09-08T11:08:15.984Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
