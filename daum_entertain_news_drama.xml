@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-09T22:09:07.496Z</updated>
+    <updated>2023-09-09T23:09:00.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소옆경2', 트라이앵글 공조X트리플 해피엔딩..최고 10.5%]]></title>
+        <id>https://v.daum.net/v/20230910080331556</id>
+        <link href="https://v.daum.net/v/20230910080331556"/>
+        <updated>2023-09-09T23:08:49.599Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['진짜가', 종영 앞두고 시청률 20.9%..30%는 무리일까]]></title>
+        <id>https://v.daum.net/v/20230910075852469</id>
+        <link href="https://v.daum.net/v/20230910075852469"/>
+        <updated>2023-09-09T23:08:49.600Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강부자, 정의제 ‘외손주’로 인정 ”피 안 섞였어도..죽을 때까지 네 편”]]></title>
         <id>https://v.daum.net/v/20230910070148981</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230910055055213"/>
         <updated>2023-09-09T21:08:33.230Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘아라문의 검’ 송중기 김지원→이준기 신세경 교체 어땠나]]></title>
-        <id>https://v.daum.net/v/20230910055033211</id>
-        <link href="https://v.daum.net/v/20230910055033211"/>
-        <updated>2023-09-09T21:08:33.234Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 공승연, 살아 돌아온 김래원에 "고마워요, 약속 지켜줘서"…'퇴근 확인 키스']]></title>
-        <id>https://v.daum.net/v/20230910045700016</id>
-        <link href="https://v.daum.net/v/20230910045700016"/>
-        <updated>2023-09-09T20:09:30.372Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
