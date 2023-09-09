@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-09T10:09:14.707Z</updated>
+    <updated>2023-09-09T11:09:08.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아라문의 검’ 첫방, 송중기 대신 이준기 온다]]></title>
+        <id>https://v.daum.net/v/20230909194200360</id>
+        <link href="https://v.daum.net/v/20230909194200360"/>
+        <updated>2023-09-09T11:08:05.053Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘충격 사망’ 김래원, ‘소옆경2’ 아쉬운 종영 소감…최종회 결말 관심↑]]></title>
         <id>https://v.daum.net/v/20230909183736837</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230909151910314"/>
         <updated>2023-09-09T07:08:34.131Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 김래원 "진호개 사망? 어떻게 된 것인지 주목해서 봐달라"]]></title>
-        <id>https://v.daum.net/v/20230909151817306</id>
-        <link href="https://v.daum.net/v/20230909151817306"/>
-        <updated>2023-09-09T07:08:34.133Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
