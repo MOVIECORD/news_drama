@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-09T03:09:49.689Z</updated>
+    <updated>2023-09-09T04:12:51.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“죽음 위장”vs“막장 전개”..‘소옆경2’ 김래원 충격 사망 두고 갑론을박]]></title>
+        <id>https://v.daum.net/v/20230909124720669</id>
+        <link href="https://v.daum.net/v/20230909124720669"/>
+        <updated>2023-09-09T04:11:42.588Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 손호준·김래원 주인공 사망… 오늘 최종회 결말은?]]></title>
         <id>https://v.daum.net/v/20230909113758926</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230909090458038"/>
         <updated>2023-09-09T00:40:13.759Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손호준 이어 김래원까지 죽은 ‘소옆경2’, 자체최고시청률 8% 찍었다]]></title>
-        <id>https://v.daum.net/v/20230909090420029</id>
-        <link href="https://v.daum.net/v/20230909090420029"/>
-        <updated>2023-09-09T00:40:13.761Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
