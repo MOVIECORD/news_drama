@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-10T09:09:05.334Z</updated>
+    <updated>2023-09-10T10:09:15.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마스크걸' 이한별, 혜성처럼 나타나다]]></title>
+        <id>https://v.daum.net/v/20230910184327256</id>
+        <link href="https://v.daum.net/v/20230910184327256"/>
+        <updated>2023-09-10T10:09:03.670Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오히려 좋아!…'아라문의 검' 이준기·신세경, 송중기·김지원 지운 찰떡 캐스팅]]></title>
+        <id>https://v.daum.net/v/20230910181402906</id>
+        <link href="https://v.daum.net/v/20230910181402906"/>
+        <updated>2023-09-10T10:09:03.670Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소옆경2' 강기둥 "김래원, 진실된 파트너로 케미 맞춰줘"]]></title>
         <id>https://v.daum.net/v/20230910171237723</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230910105520751"/>
         <updated>2023-09-10T02:17:43.240Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소옆경2' 강기둥 "김래원, 진실된 파트너 케미 감사"]]></title>
-        <id>https://v.daum.net/v/20230910105400713</id>
-        <link href="https://v.daum.net/v/20230910105400713"/>
-        <updated>2023-09-10T02:17:43.240Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30%는 무리, 20%도 살얼음판…'진짜가', 유종의 미 가능할까]]></title>
-        <id>https://v.daum.net/v/20230910103315430</id>
-        <link href="https://v.daum.net/v/20230910103315430"/>
-        <updated>2023-09-10T01:45:45.712Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
