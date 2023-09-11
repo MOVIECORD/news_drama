@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-11T09:11:57.987Z</updated>
+    <updated>2023-09-11T10:11:36.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘히어로는 아닙니다만’ 측, 병원 촬영 통제 논란에 “입장정리중”]]></title>
+        <id>https://v.daum.net/v/20230911184641540</id>
+        <link href="https://v.daum.net/v/20230911184641540"/>
+        <updated>2023-09-11T10:10:34.165Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['너시속' 감독 "추노까지 해본 안효섭 스타일링, 백스텝 예상 NO…결국 운명적 끌림"]]></title>
         <id>https://v.daum.net/v/20230911180401429</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230911153939096"/>
         <updated>2023-09-11T07:09:54.654Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무명 배우 남상지X할리우드 유망감독 이도겸, 아슬아슬한 만남]]></title>
-        <id>https://v.daum.net/v/20230911153723021</id>
-        <link href="https://v.daum.net/v/20230911153723021"/>
-        <updated>2023-09-11T07:09:54.656Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
