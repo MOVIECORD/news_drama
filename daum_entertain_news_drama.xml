@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-11T04:12:55.858Z</updated>
+    <updated>2023-09-11T05:10:19.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안효섭표 로맨스 또 통했다…'너시속' 일편단심 순애보 연기 눈길]]></title>
+        <id>https://v.daum.net/v/20230911135630934</id>
+        <link href="https://v.daum.net/v/20230911135630934"/>
+        <updated>2023-09-11T05:09:17.448Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성훈→이민영 2차 티저, 아찔하고 은밀한 복수극]]></title>
+        <id>https://v.daum.net/v/20230911135138792</id>
+        <link href="https://v.daum.net/v/20230911135138792"/>
+        <updated>2023-09-11T05:09:17.450Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['애마'부인은 어떻게 탄생했나…이하늬·방효린·진선규·조현철 캐스팅]]></title>
         <id>https://v.daum.net/v/20230911125319381</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230911112221916"/>
         <updated>2023-09-11T03:10:14.730Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김히어라 측, 최초 보도 매체 법적 대응…"회유·강권, 일방적 주장을 사실처럼"]]></title>
-        <id>https://v.daum.net/v/20230911112140890</id>
-        <link href="https://v.daum.net/v/20230911112140890"/>
-        <updated>2023-09-11T03:10:14.731Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너시속' 김진원 감독 "장발+수염, 안효섭을 이렇게 만들다니..사회적 지탄 예상"]]></title>
-        <id>https://v.daum.net/v/20230911111815766</id>
-        <link href="https://v.daum.net/v/20230911111815766"/>
-        <updated>2023-09-11T03:10:14.732Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
