@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-11T22:10:41.320Z</updated>
+    <updated>2023-09-11T23:10:19.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 진범으로 의심하던 남현우 자수 소식에 '충격']]></title>
+        <id>https://v.daum.net/v/20230912080022205</id>
+        <link href="https://v.daum.net/v/20230912080022205"/>
+        <updated>2023-09-11T23:09:16.899Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준기, 자신감 있는 이유 있었다...'아라문의 검' 쾌속 전개로 짜릿함↑]]></title>
         <id>https://v.daum.net/v/20230912060301800</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230911193200224"/>
         <updated>2023-09-11T11:08:34.362Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘히어로는 아닙니다만’ 측, 병원 촬영 통제 논란에 “불편드린점 사과”]]></title>
-        <id>https://v.daum.net/v/20230911192828156</id>
-        <link href="https://v.daum.net/v/20230911192828156"/>
-        <updated>2023-09-11T11:08:34.362Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
