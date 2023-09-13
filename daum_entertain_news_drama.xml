@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-13T13:14:37.479Z</updated>
+    <updated>2023-09-13T14:10:31.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["친아빠도 아닌 주제에"...골수 기증 무산되자 반소영 '막말']]></title>
+        <id>https://v.daum.net/v/20230913224230245</id>
+        <link href="https://v.daum.net/v/20230913224230245"/>
+        <updated>2023-09-13T14:09:28.486Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유이, 시청률 49.4% 주인공 "처음으로 포상휴가…끝나고 실감"]]></title>
         <id>https://v.daum.net/v/20230913210443210</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913175741746"/>
         <updated>2023-09-13T09:10:09.626Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소용없어 거짓말' 윤지온, 진짜  진범이었다..황민현 짝사랑]]></title>
-        <id>https://v.daum.net/v/20230913175649697</id>
-        <link href="https://v.daum.net/v/20230913175649697"/>
-        <updated>2023-09-13T09:10:09.627Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
