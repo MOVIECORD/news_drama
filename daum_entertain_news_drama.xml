@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-14T09:11:23.753Z</updated>
+    <updated>2023-09-14T10:11:08.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 인맥 캐스팅…엄기준→성훈·이민영, 식상한 배우 우려먹기 언제까지]]></title>
+        <id>https://v.daum.net/v/20230914190101883</id>
+        <link href="https://v.daum.net/v/20230914190101883"/>
+        <updated>2023-09-14T10:10:58.696Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 탈출’ 윤태영, 김순옥 월드 입성..원수도 은혜도 반드시 갚는 강기탁 役]]></title>
+        <id>https://v.daum.net/v/20230914183221113</id>
+        <link href="https://v.daum.net/v/20230914183221113"/>
+        <updated>2023-09-14T10:10:58.699Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악인전기' 김영광, 이런 얼굴도 있었나]]></title>
+        <id>https://v.daum.net/v/20230914182416930</id>
+        <link href="https://v.daum.net/v/20230914182416930"/>
+        <updated>2023-09-14T10:10:58.701Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 김진우, 소름 돋는 '사이코' 연기…완벽 하드캐리 열연]]></title>
         <id>https://v.daum.net/v/20230914180406275</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230914162152700"/>
         <updated>2023-09-14T08:13:07.170Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강훈 “‘몽골몽골’서 내가 짐 될 줄은, 김종국→차태현 ‘너시속’ 응원”]]></title>
-        <id>https://v.daum.net/v/20230914161748548</id>
-        <link href="https://v.daum.net/v/20230914161748548"/>
-        <updated>2023-09-14T08:13:07.172Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 황정음 "아기 기저귀 갈다가 작가님 전화 받아…연기 절실했다"]]></title>
-        <id>https://v.daum.net/v/20230914160317046</id>
-        <link href="https://v.daum.net/v/20230914160317046"/>
-        <updated>2023-09-14T07:10:01.242Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준 "한마디로 죽을맛"…김순옥표 K복수극 '7인의 탈출']]></title>
-        <id>https://v.daum.net/v/20230914155129502</id>
-        <link href="https://v.daum.net/v/20230914155129502"/>
-        <updated>2023-09-14T07:10:01.247Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
