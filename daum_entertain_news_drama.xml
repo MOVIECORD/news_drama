@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-14T12:17:51.254Z</updated>
+    <updated>2023-09-14T13:13:12.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해진, 개탈 용의자 검거...박성웅X임지연 활약]]></title>
+        <id>https://v.daum.net/v/20230914212318538</id>
+        <link href="https://v.daum.net/v/20230914212318538"/>
+        <updated>2023-09-14T13:13:00.686Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 박해진x임지연, 개탈 검거…3차 사형 못 막았다]]></title>
         <id>https://v.daum.net/v/20230914211526393</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230914182416930"/>
         <updated>2023-09-14T10:10:58.701Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 김진우, 소름 돋는 '사이코' 연기…완벽 하드캐리 열연]]></title>
-        <id>https://v.daum.net/v/20230914180406275</id>
-        <link href="https://v.daum.net/v/20230914180406275"/>
-        <updated>2023-09-14T09:10:20.269Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
