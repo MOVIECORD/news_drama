@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-14T10:11:08.702Z</updated>
+    <updated>2023-09-14T11:08:49.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 살아난 정한용, 전혜연에 "산장화재사건 진범은 김유석"]]></title>
+        <id>https://v.daum.net/v/20230914195100755</id>
+        <link href="https://v.daum.net/v/20230914195100755"/>
+        <updated>2023-09-14T11:08:38.402Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["잘 부탁드린다"는 이유비, 이다인과 경쟁…최악의 빌런]]></title>
+        <id>https://v.daum.net/v/20230914195003739</id>
+        <link href="https://v.daum.net/v/20230914195003739"/>
+        <updated>2023-09-14T11:08:38.404Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수면 위로 올라오는 ‘개탈의 정체’ 숨멎 60분 예고]]></title>
+        <id>https://v.daum.net/v/20230914194634699</id>
+        <link href="https://v.daum.net/v/20230914194634699"/>
+        <updated>2023-09-14T11:08:38.405Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 인맥 캐스팅…엄기준→성훈·이민영, 식상한 배우 우려먹기 언제까지]]></title>
         <id>https://v.daum.net/v/20230914190101883</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20230914163631366</id>
         <link href="https://v.daum.net/v/20230914163631366"/>
         <updated>2023-09-14T08:13:07.165Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준→황정음 '악행' 대결…'7인의 탈출' 더 강렬해진 김순옥 월드]]></title>
-        <id>https://v.daum.net/v/20230914163412240</id>
-        <link href="https://v.daum.net/v/20230914163412240"/>
-        <updated>2023-09-14T08:13:07.167Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["빌런 적성에 맞아요"..'7인의 탈출' 김순옥 피카레스크 복수극]]></title>
-        <id>https://v.daum.net/v/20230914163116118</id>
-        <link href="https://v.daum.net/v/20230914163116118"/>
-        <updated>2023-09-14T08:13:07.168Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 조윤희 "첫 악역인데 적성에 맞아…육아 스트레스가 확 풀려"]]></title>
-        <id>https://v.daum.net/v/20230914162152700</id>
-        <link href="https://v.daum.net/v/20230914162152700"/>
-        <updated>2023-09-14T08:13:07.170Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
