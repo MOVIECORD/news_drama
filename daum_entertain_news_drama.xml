@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-15T06:13:27.946Z</updated>
+    <updated>2023-09-15T07:09:37.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준기x신세경, 마침내 드디어 8년 만에 재회]]></title>
+        <id>https://v.daum.net/v/20230915152222622</id>
+        <link href="https://v.daum.net/v/20230915152222622"/>
+        <updated>2023-09-15T07:09:25.982Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도적: 칼의 소리' 윈체스터부터 맨주먹까지…"모든 액션이 포인트"]]></title>
+        <id>https://v.daum.net/v/20230915151508369</id>
+        <link href="https://v.daum.net/v/20230915151508369"/>
+        <updated>2023-09-15T07:09:25.996Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번에도 ‘인스스’ 점령? ‘순옥’한 서프펜스 오늘 폭격]]></title>
         <id>https://v.daum.net/v/20230915150933151</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230915132303726"/>
         <updated>2023-09-15T05:09:28.551Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['욕망의 화신' 황정음, 차원 다른 복수극..첫방부터 비극 예고]]></title>
-        <id>https://v.daum.net/v/20230915132106689</id>
-        <link href="https://v.daum.net/v/20230915132106689"/>
-        <updated>2023-09-15T05:09:28.557Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“10억 준비하세요” 유승호 김동휘 유수빈, 납치극 얽힌 청춘들]]></title>
-        <id>https://v.daum.net/v/20230915132039675</id>
-        <link href="https://v.daum.net/v/20230915132039675"/>
-        <updated>2023-09-15T05:09:28.559Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
