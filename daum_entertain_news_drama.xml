@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-15T01:44:51.275Z</updated>
+    <updated>2023-09-15T02:18:00.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현X황민현, 진실 추적 타임라인 '넷']]></title>
+        <id>https://v.daum.net/v/20230915111017026</id>
+        <link href="https://v.daum.net/v/20230915111017026"/>
+        <updated>2023-09-15T02:17:49.859Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘효심이네 각자도생’ 헬스트레이너 유이, 24시간이 모자라]]></title>
+        <id>https://v.daum.net/v/20230915110407807</id>
+        <link href="https://v.daum.net/v/20230915110407807"/>
+        <updated>2023-09-15T02:17:49.862Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 탈출’ 탈출 불가 관전 포인트 셋, 벌써 떨리는군]]></title>
+        <id>https://v.daum.net/v/20230915104729092</id>
+        <link href="https://v.daum.net/v/20230915104729092"/>
+        <updated>2023-09-15T02:17:49.868Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원피스' 실사화 시즌2 확정, 오다 에이치로 '선의' 쵸파 합류 암시]]></title>
         <id>https://v.daum.net/v/20230915103800750</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230915091603550"/>
         <updated>2023-09-15T00:42:21.083Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소현♥황민현 결백 입증→윤지온 진범, 진실 추적 타임라인]]></title>
-        <id>https://v.daum.net/v/20230915091118424</id>
-        <link href="https://v.daum.net/v/20230915091118424"/>
-        <updated>2023-09-15T00:42:21.086Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베일벗는 '7인의 탈출', 관전포인트는…#김순옥 #복수극 #빌런]]></title>
-        <id>https://v.daum.net/v/20230915090754318</id>
-        <link href="https://v.daum.net/v/20230915090754318"/>
-        <updated>2023-09-15T00:42:21.093Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가까워지지마"…조보아, 로운에 선 그었다]]></title>
-        <id>https://v.daum.net/v/20230915090406213</id>
-        <link href="https://v.daum.net/v/20230915090406213"/>
-        <updated>2023-09-15T00:42:21.096Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
