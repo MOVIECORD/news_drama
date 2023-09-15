@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-15T21:08:37.246Z</updated>
+    <updated>2023-09-15T22:08:41.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS 효녀 유이, 최수종 없이 주말극 되살릴 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230916063007131</id>
+        <link href="https://v.daum.net/v/20230916063007131"/>
+        <updated>2023-09-15T22:08:30.341Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 탈출' 황정음, 윤종훈에 무릎 꿇고 눈물 "도와주세요"]]></title>
         <id>https://v.daum.net/v/20230916060001650</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230915223128826"/>
         <updated>2023-09-15T14:09:15.463Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 황정음, 정라엘과 동거 시작 "음식 냄새 극도로 싫어해"]]></title>
-        <id>https://v.daum.net/v/20230915221918632</id>
-        <link href="https://v.daum.net/v/20230915221918632"/>
-        <updated>2023-09-15T14:09:15.465Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
