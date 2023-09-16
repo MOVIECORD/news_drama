@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-16T05:09:54.042Z</updated>
+    <updated>2023-09-16T06:11:58.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전여빈 "'너의 시간 속으로'의 1인다역, 넘고 싶은 허들. 감내하고 싶었다"]]></title>
+        <id>https://v.daum.net/v/20230916141938864</id>
+        <link href="https://v.daum.net/v/20230916141938864"/>
+        <updated>2023-09-16T06:11:45.770Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드라마·예능도 ‘범죄’에 푹…다양해지는 활용법]]></title>
         <id>https://v.daum.net/v/20230916140034706</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916103030687"/>
         <updated>2023-09-16T01:41:46.369Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종훈, 극강의 매운맛으로 돌아왔다..빌런 종합선물세트]]></title>
-        <id>https://v.daum.net/v/20230916102520620</id>
-        <link href="https://v.daum.net/v/20230916102520620"/>
-        <updated>2023-09-16T01:41:46.379Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
