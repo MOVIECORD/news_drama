@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-16T04:11:24.830Z</updated>
+    <updated>2023-09-16T05:09:54.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마·예능도 ‘범죄’에 푹…다양해지는 활용법]]></title>
+        <id>https://v.daum.net/v/20230916140034706</id>
+        <link href="https://v.daum.net/v/20230916140034706"/>
+        <updated>2023-09-16T05:08:51.385Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세온, 무해한 막내美→독보적 존재감]]></title>
+        <id>https://v.daum.net/v/20230916133051462</id>
+        <link href="https://v.daum.net/v/20230916133051462"/>
+        <updated>2023-09-16T05:08:51.395Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인의 탈출' 선 넘은 불쾌함, 김순옥도 나무에서 떨어지나]]></title>
+        <id>https://v.daum.net/v/20230916132919443</id>
+        <link href="https://v.daum.net/v/20230916132919443"/>
+        <updated>2023-09-16T05:08:51.396Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갑자기, 교실에서 출산을? 죽지 않고 돌아온 김순옥 월드]]></title>
         <id>https://v.daum.net/v/20230916131020333</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230916102520620"/>
         <updated>2023-09-16T01:41:46.379Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["테이프 깔까?"…'나는 솔로', 옥순은 가만히 있었는데]]></title>
-        <id>https://v.daum.net/v/20230916101824549</id>
-        <link href="https://v.daum.net/v/20230916101824549"/>
-        <updated>2023-09-16T01:41:46.379Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘7인의 탈출’ 첫방부터 美친 전개…최고 시청률 6.8%]]></title>
-        <id>https://v.daum.net/v/20230916095701265</id>
-        <link href="https://v.daum.net/v/20230916095701265"/>
-        <updated>2023-09-16T01:41:46.379Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출', 첫방부터 제대로 미쳤다]]></title>
-        <id>https://v.daum.net/v/20230916090225719</id>
-        <link href="https://v.daum.net/v/20230916090225719"/>
-        <updated>2023-09-16T00:40:56.914Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
