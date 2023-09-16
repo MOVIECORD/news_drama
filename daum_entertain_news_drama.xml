@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-16T08:11:33.747Z</updated>
+    <updated>2023-09-16T09:08:57.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힙하게'에 부는 핑크빛 바람…한지민, 이민기 위로에 심쿵]]></title>
+        <id>https://v.daum.net/v/20230916180021539</id>
+        <link href="https://v.daum.net/v/20230916180021539"/>
+        <updated>2023-09-16T09:08:46.277Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정음, 독기의 끝 보여준다..딸 정라엘과 몸싸움까지]]></title>
         <id>https://v.daum.net/v/20230916170918890</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916112229455"/>
         <updated>2023-09-16T03:10:00.100Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[49% 시청률 재현? 유이 ‘효심이네 각자도생’ 첫방송 포인트]]></title>
-        <id>https://v.daum.net/v/20230916111620384</id>
-        <link href="https://v.daum.net/v/20230916111620384"/>
-        <updated>2023-09-16T03:10:00.102Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
