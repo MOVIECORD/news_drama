@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-17T13:10:24.037Z</updated>
+    <updated>2023-09-17T14:08:27.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아라문의 검' 신세경, 보라색 피 흘리는 장동건에 "신성한 아라문의 보라 피"]]></title>
+        <id>https://v.daum.net/v/20230917230000870</id>
+        <link href="https://v.daum.net/v/20230917230000870"/>
+        <updated>2023-09-17T14:08:16.052Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준기, 김옥빈에 정체 들켰다…"뭐든 들어줄 것"]]></title>
         <id>https://v.daum.net/v/20230917214844242</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230917203027400"/>
         <updated>2023-09-17T12:15:34.966Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남태우 “걱정 앞섰던 ‘신병2’, 원작에 누 끼칠까..욕 안먹어 다행”]]></title>
-        <id>https://v.daum.net/v/20230917192038805</id>
-        <link href="https://v.daum.net/v/20230917192038805"/>
-        <updated>2023-09-17T11:07:55.200Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
