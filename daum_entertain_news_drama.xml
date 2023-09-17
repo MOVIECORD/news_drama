@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-17T10:09:15.896Z</updated>
+    <updated>2023-09-17T11:08:57.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남태우 “걱정 앞섰던 ‘신병2’, 원작에 누 끼칠까..욕 안먹어 다행”]]></title>
+        <id>https://v.daum.net/v/20230917192038805</id>
+        <link href="https://v.daum.net/v/20230917192038805"/>
+        <updated>2023-09-17T11:07:55.200Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘신병2’ 남태우 “시즌3 항상 준비중, 마지막회 신병 정체는..”]]></title>
         <id>https://v.daum.net/v/20230917181619061</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230917153812119"/>
         <updated>2023-09-17T07:09:18.987Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준, '재벌 3세' 완벽 변신…새로운 '주말 프린스' 탄생]]></title>
-        <id>https://v.daum.net/v/20230917150555370</id>
-        <link href="https://v.daum.net/v/20230917150555370"/>
-        <updated>2023-09-17T06:11:49.736Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
