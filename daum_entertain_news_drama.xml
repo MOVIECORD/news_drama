@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-18T01:45:02.344Z</updated>
+    <updated>2023-09-18T02:17:32.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민호 "'신병3' 가능성은...'DP2' 견제? 다른 작품"]]></title>
+        <id>https://v.daum.net/v/20230918105009840</id>
+        <link href="https://v.daum.net/v/20230918105009840"/>
+        <updated>2023-09-18T02:17:21.548Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신병2' 김민호 "군대 2번 간 기분…싸이 닮았는데"]]></title>
+        <id>https://v.daum.net/v/20230918105002835</id>
+        <link href="https://v.daum.net/v/20230918105002835"/>
+        <updated>2023-09-18T02:17:21.560Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[려운 최현욱 설인아 신은수, X세대-MZ세대 취향저격할 레트로 감성]]></title>
         <id>https://v.daum.net/v/20230918103257011</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230918093322431"/>
         <updated>2023-09-18T00:42:08.198Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병2' 김민호 "이수지와 남매 호흡, 애드립多…얼굴도 닮았다고" ②]]></title>
-        <id>https://v.daum.net/v/20230918093249399</id>
-        <link href="https://v.daum.net/v/20230918093249399"/>
-        <updated>2023-09-18T00:42:08.198Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영대x표예진 '낮에 뜨는 달'…1500년 시공간 넘나드는 환생 로맨스]]></title>
-        <id>https://v.daum.net/v/20230918092914257</id>
-        <link href="https://v.daum.net/v/20230918092914257"/>
-        <updated>2023-09-18T00:42:08.198Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
