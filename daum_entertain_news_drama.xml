@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-18T21:08:54.577Z</updated>
+    <updated>2023-09-18T22:10:33.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힙하게' 한지민, 할아버지 죽음에 오열...충격 전개에 시청률 또 경신]]></title>
+        <id>https://v.daum.net/v/20230919070230279</id>
+        <link href="https://v.daum.net/v/20230919070230279"/>
+        <updated>2023-09-18T22:09:31.038Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아스달 연대기2’ 4회만에 시청자 눈길…“이해하기 쉬워졌다”]]></title>
+        <id>https://v.daum.net/v/20230919063014795</id>
+        <link href="https://v.daum.net/v/20230919063014795"/>
+        <updated>2023-09-18T22:09:31.039Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혼하고 30년 지났는데..."생이별한 자식들 보고싶어"]]></title>
         <id>https://v.daum.net/v/20230918224701932</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230918195214193"/>
         <updated>2023-09-18T11:08:35.839Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 조은숙, 기억 되찾았다.. 김유석 응징하나?]]></title>
-        <id>https://v.daum.net/v/20230918195200189</id>
-        <link href="https://v.daum.net/v/20230918195200189"/>
-        <updated>2023-09-18T11:08:35.849Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 전혜연, 이젠 김유석 쥐락펴락 "父 멋져"]]></title>
-        <id>https://v.daum.net/v/20230918194227074</id>
-        <link href="https://v.daum.net/v/20230918194227074"/>
-        <updated>2023-09-18T11:08:35.851Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
