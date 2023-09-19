@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-19T07:09:52.642Z</updated>
+    <updated>2023-09-19T08:14:00.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[女댄서 춤 싸움, 또 통했다]]></title>
+        <id>https://v.daum.net/v/20230919171155064</id>
+        <link href="https://v.daum.net/v/20230919171155064"/>
+        <updated>2023-09-19T08:13:48.945Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독립운동가 된 서현, 김남길·이현욱과 줄 타는 로맨스]]></title>
+        <id>https://v.daum.net/v/20230919170112639</id>
+        <link href="https://v.daum.net/v/20230919170112639"/>
+        <updated>2023-09-19T08:13:48.946Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조보아♥로운 ‘불가항력’ 단어값 증명한다→전생 서사]]></title>
         <id>https://v.daum.net/v/20230919155922530</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230919141756196"/>
         <updated>2023-09-19T06:13:30.085Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반짝이는 워터멜론' 진수완 작가 "잘난 체하지 말고 초심으로 돌아가자"]]></title>
-        <id>https://v.daum.net/v/20230919141254972</id>
-        <link href="https://v.daum.net/v/20230919141254972"/>
-        <updated>2023-09-19T06:13:30.086Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘거래’ 이주영, 유수빈 납치 사건 파헤친다 “이야기 판도 바뀔 것”]]></title>
-        <id>https://v.daum.net/v/20230919140725742</id>
-        <link href="https://v.daum.net/v/20230919140725742"/>
-        <updated>2023-09-19T05:09:31.011Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
