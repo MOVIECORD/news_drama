@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-19T19:08:35.638Z</updated>
+    <updated>2023-09-19T20:10:48.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7년 차' 김영대, '신라 귀족→톱스타' 1인 2역 도전]]></title>
+        <id>https://v.daum.net/v/20230920050230412</id>
+        <link href="https://v.daum.net/v/20230920050230412"/>
+        <updated>2023-09-19T20:10:37.377Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[려운·최현욱·설인아·신은수 청량 레트로]]></title>
         <id>https://v.daum.net/v/20230919235107747</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230919181600270"/>
         <updated>2023-09-19T10:11:05.259Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상의 운명은…유괴범→살해 용의자, 수사망 걸렸다]]></title>
-        <id>https://v.daum.net/v/20230919181208150</id>
-        <link href="https://v.daum.net/v/20230919181208150"/>
-        <updated>2023-09-19T10:11:05.260Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
