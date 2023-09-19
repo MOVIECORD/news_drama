@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-19T22:09:56.014Z</updated>
+    <updated>2023-09-19T23:09:41.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사랑해"+입맞춤..황민현, ♥김소현에 달달 프러포즈 '완벽 해피엔딩']]></title>
+        <id>https://v.daum.net/v/20230920080552458</id>
+        <link href="https://v.daum.net/v/20230920080552458"/>
+        <updated>2023-09-19T23:09:31.448Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황민현, ♥김소현에 로맨틱한 청혼 "평생 네 옆에 있을게"]]></title>
+        <id>https://v.daum.net/v/20230920080402430</id>
+        <link href="https://v.daum.net/v/20230920080402430"/>
+        <updated>2023-09-19T23:09:31.449Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘소짓말’ 김소현 ”여진구와 로맨스로 재회? 나도 ‘좋겠다’ 생각”]]></title>
+        <id>https://v.daum.net/v/20230920080119381</id>
+        <link href="https://v.daum.net/v/20230920080119381"/>
+        <updated>2023-09-19T23:09:31.451Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 15주년 김소현 “20살 때 슬럼프 겪어, 나 자신을 잃은 느낌”]]></title>
         <id>https://v.daum.net/v/20230920070210420</id>
@@ -27,7 +48,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘도적: 칼의 노래’ 일제강점기 비극을 잊지 않은 웨스턴 드라마]]></title>
+        <title type="html"><![CDATA[‘도적: 칼의 소리’ 일제강점기 비극을 잊지 않은 웨스턴 드라마]]></title>
         <id>https://v.daum.net/v/20230920070109385</id>
         <link href="https://v.daum.net/v/20230920070109385"/>
         <updated>2023-09-19T22:09:45.544Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230920070006284"/>
         <updated>2023-09-19T22:09:45.614Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 '소용없어 거짓말' 황민현♥김소현 해피엔딩…"진실보다 사랑"]]></title>
-        <id>https://v.daum.net/v/20230920064003950</id>
-        <link href="https://v.daum.net/v/20230920064003950"/>
-        <updated>2023-09-19T22:09:45.620Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 드디어 결말 공개… 조인성 행방은?]]></title>
-        <id>https://v.daum.net/v/20230920063306869</id>
-        <link href="https://v.daum.net/v/20230920063306869"/>
-        <updated>2023-09-19T22:09:45.621Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소용없어 거짓말' 황민현, 공개석상에서 ♥김소현 고백…프러포즈 '설렘 엔딩']]></title>
-        <id>https://v.daum.net/v/20230920063115855</id>
-        <link href="https://v.daum.net/v/20230920063115855"/>
-        <updated>2023-09-19T22:09:45.625Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
