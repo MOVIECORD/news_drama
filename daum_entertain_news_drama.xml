@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-19T01:45:45.529Z</updated>
+    <updated>2023-09-19T02:17:52.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['순정복서' 김소혜, 이상엽 없이 타이틀 매치 치른다 "도망치지 않을 것"]]></title>
+        <id>https://v.daum.net/v/20230919111421566</id>
+        <link href="https://v.daum.net/v/20230919111421566"/>
+        <updated>2023-09-19T02:17:41.171Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑소 시우민, 누명 쓰고 경찰서行→보람마트 사장 '변화무쌍']]></title>
+        <id>https://v.daum.net/v/20230919111359538</id>
+        <link href="https://v.daum.net/v/20230919111359538"/>
+        <updated>2023-09-19T02:17:41.173Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이명우 감독 '소년시대' 올 하반기 공개..임시완·이선빈 캐스팅]]></title>
         <id>https://v.daum.net/v/20230919103847693</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230919085759449"/>
         <updated>2023-09-19T00:42:48.404Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔딩만 남긴 '무빙', 봉석父 사라진 조인성 행방 밝혀질까?]]></title>
-        <id>https://v.daum.net/v/20230919085248329</id>
-        <link href="https://v.daum.net/v/20230919085248329"/>
-        <updated>2023-09-19T00:42:48.405Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우 박규영 이현우 ‘오늘도 사랑스럽개’ 설렘 폭발 3인 포스터]]></title>
-        <id>https://v.daum.net/v/20230919084124039</id>
-        <link href="https://v.daum.net/v/20230919084124039"/>
-        <updated>2023-09-19T00:42:48.431Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
