@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-19T08:14:00.158Z</updated>
+    <updated>2023-09-19T09:10:34.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선희 측 "배임 혐의 검찰 송치? 극히 일부분…적극 소명"]]></title>
+        <id>https://v.daum.net/v/20230919180206834</id>
+        <link href="https://v.daum.net/v/20230919180206834"/>
+        <updated>2023-09-19T09:10:24.686Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘유괴의날’ 윤계상 유나 본격 공조, 천재소녀의 원팀 합의서 조건은]]></title>
+        <id>https://v.daum.net/v/20230919173933971</id>
+        <link href="https://v.daum.net/v/20230919173933971"/>
+        <updated>2023-09-19T09:10:24.697Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너의 시간 속으로' 전여빈, 기꺼이 받아들인 어려움과 행운]]></title>
+        <id>https://v.daum.net/v/20230919172325428</id>
+        <link href="https://v.daum.net/v/20230919172325428"/>
+        <updated>2023-09-19T09:10:24.707Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女댄서 춤 싸움, 또 통했다]]></title>
         <id>https://v.daum.net/v/20230919171155064</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230919144156328"/>
         <updated>2023-09-19T06:13:30.074Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강철부대3' 김희철 "방송 몇십 년 했는데 이런 오프닝 처음"]]></title>
-        <id>https://v.daum.net/v/20230919143908226</id>
-        <link href="https://v.daum.net/v/20230919143908226"/>
-        <updated>2023-09-19T06:13:30.082Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최병모 ‘악인전기’ 출연, 신하균에 열등감 느끼는 변호사役]]></title>
-        <id>https://v.daum.net/v/20230919143402008</id>
-        <link href="https://v.daum.net/v/20230919143402008"/>
-        <updated>2023-09-19T06:13:30.082Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소용없어 거짓말' 최종회 D-day...김소현X황민현, 해피엔딩 맞을까]]></title>
-        <id>https://v.daum.net/v/20230919141756196</id>
-        <link href="https://v.daum.net/v/20230919141756196"/>
-        <updated>2023-09-19T06:13:30.085Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
