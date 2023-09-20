@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-20T09:10:06.574Z</updated>
+    <updated>2023-09-20T10:11:14.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소현♥︎황민현 현장 얼마나 좋았길래..박경혜 "만날 수 없다니 아쉬워"]]></title>
+        <id>https://v.daum.net/v/20230920181929942</id>
+        <link href="https://v.daum.net/v/20230920181929942"/>
+        <updated>2023-09-20T10:11:03.527Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국형 엔드게임…우리에겐 '무빙'이 필요하다]]></title>
         <id>https://v.daum.net/v/20230920180048202</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920153700660"/>
         <updated>2023-09-20T07:09:54.320Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소짓말' 박경혜 "오랫동안 다양한 모습 보여드릴 생각에 설레고 기대" 종영 소감]]></title>
-        <id>https://v.daum.net/v/20230920153518581</id>
-        <link href="https://v.daum.net/v/20230920153518581"/>
-        <updated>2023-09-20T07:09:54.322Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
