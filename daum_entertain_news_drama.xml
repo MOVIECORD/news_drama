@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-20T12:17:57.802Z</updated>
+    <updated>2023-09-20T13:14:25.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://v.daum.net/v/20230920195100620"/>
         <updated>2023-09-20T11:08:42.387Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준·한소희 '경성크리처2' 스태프 사망..국과수 부검 진행]]></title>
-        <id>https://v.daum.net/v/20230920191951049</id>
-        <link href="https://v.daum.net/v/20230920191951049"/>
-        <updated>2023-09-20T11:08:42.389Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정하, 父 조인성 행방에 절규...'무빙' 오늘 종영]]></title>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20230920161630339"/>
         <updated>2023-09-20T08:13:36.223Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해진, 박성웅에게 한 귓속말 내용은?…극 전개 뒤집힌다]]></title>
+        <id>https://v.daum.net/v/20230920160902018</id>
+        <link href="https://v.daum.net/v/20230920160902018"/>
+        <updated>2023-09-20T13:13:22.847Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
