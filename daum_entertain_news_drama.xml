@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-20T20:10:41.968Z</updated>
+    <updated>2023-09-20T21:08:43.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무빙'으로 떠오른 고윤정, 신원호 사단도 접수..'슬의생' 스핀오프 출연]]></title>
+        <id>https://v.daum.net/v/20230921060001167</id>
+        <link href="https://v.daum.net/v/20230921060001167"/>
+        <updated>2023-09-20T21:08:31.656Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조인성·한효주 '무빙' 훔쳐본 中..서경덕 "기가 막힐 따름"]]></title>
         <id>https://v.daum.net/v/20230921001802491</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230920165338803</id>
         <link href="https://v.daum.net/v/20230920165338803"/>
         <updated>2023-09-20T08:13:36.209Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민사형투표' 박해진, 박성웅에 뭐라고 귓속말 했길래 '충격 전개']]></title>
-        <id>https://v.daum.net/v/20230920162448659</id>
-        <link href="https://v.daum.net/v/20230920162448659"/>
-        <updated>2023-09-20T08:13:36.217Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
