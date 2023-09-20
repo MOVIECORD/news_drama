@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-20T13:14:25.412Z</updated>
+    <updated>2023-09-20T14:10:27.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["프로포즈 인 줄 알았는데 이별 통보"...남상지, 이벤트 준비하고는 줄행랑]]></title>
+        <id>https://v.daum.net/v/20230920222830277</id>
+        <link href="https://v.daum.net/v/20230920222830277"/>
+        <updated>2023-09-20T14:10:17.090Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공조 맺은 윤계상X유나, ‘유괴 기획자’ 김신록 만났다]]></title>
         <id>https://v.daum.net/v/20230920210618107</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920161630339"/>
         <updated>2023-09-20T08:13:36.223Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해진, 박성웅에게 한 귓속말 내용은?…극 전개 뒤집힌다]]></title>
-        <id>https://v.daum.net/v/20230920160902018</id>
-        <link href="https://v.daum.net/v/20230920160902018"/>
-        <updated>2023-09-20T13:13:22.847Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
