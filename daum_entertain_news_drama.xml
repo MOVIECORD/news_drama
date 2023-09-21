@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-21T03:10:06.927Z</updated>
+    <updated>2023-09-21T04:12:14.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김진우, 죽여서 버린 전처 ‘도플갱어’ 한지완에 집착→강율과 날선 대립]]></title>
+        <id>https://v.daum.net/v/20230921122659778</id>
+        <link href="https://v.daum.net/v/20230921122659778"/>
+        <updated>2023-09-21T04:12:03.930Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권상우 "♥손태영, 내 작품 까다롭게"…막내딸 등장에 미소]]></title>
+        <id>https://v.daum.net/v/20230921121002337</id>
+        <link href="https://v.daum.net/v/20230921121002337"/>
+        <updated>2023-09-21T04:12:03.931Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한강' 권상우 "연기 원동력=결핍…아웃사이더 같다는 생각" ③]]></title>
         <id>https://v.daum.net/v/20230921120043938</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230921104908228"/>
         <updated>2023-09-21T02:15:58.706Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이래서 유이, 유이한다!"..'효심이네' 성실의 아이콘 유이의 히노애락]]></title>
-        <id>https://v.daum.net/v/20230921103618612</id>
-        <link href="https://v.daum.net/v/20230921103618612"/>
-        <updated>2023-09-21T01:43:10.114Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고윤정, 김선호 만난다..'이 사랑 통역 되나요?' 여주]]></title>
-        <id>https://v.daum.net/v/20230921103452527</id>
-        <link href="https://v.daum.net/v/20230921103452527"/>
-        <updated>2023-09-21T01:43:10.121Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
