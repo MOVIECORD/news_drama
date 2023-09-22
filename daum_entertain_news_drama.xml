@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-22T03:10:29.805Z</updated>
+    <updated>2023-09-22T04:12:54.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네 각자도생' 유이와 엮인 하준vs고주원, 극과 극 매력]]></title>
+        <id>https://v.daum.net/v/20230922130419851</id>
+        <link href="https://v.daum.net/v/20230922130419851"/>
+        <updated>2023-09-22T04:11:46.874Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“본사·CEO도 축하해”…‘무빙’ 기운 받은 디즈니+, 하반기도 자신있다]]></title>
         <id>https://v.daum.net/v/20230922120902826</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230922093907117"/>
         <updated>2023-09-22T00:41:58.314Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안도규 밴드 매니저 된다, ‘반짝이는 워터멜론’ 출연]]></title>
-        <id>https://v.daum.net/v/20230922093116825</id>
-        <link href="https://v.daum.net/v/20230922093116825"/>
-        <updated>2023-09-22T00:41:58.319Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
