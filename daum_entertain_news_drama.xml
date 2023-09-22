@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-22T08:13:51.941Z</updated>
+    <updated>2023-09-22T09:09:57.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정하, '무빙'으로 날아오른 순수 청년]]></title>
+        <id>https://v.daum.net/v/20230922180253241</id>
+        <link href="https://v.daum.net/v/20230922180253241"/>
+        <updated>2023-09-22T09:09:46.268Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니+도 힘 실어준 '무빙' 시즌2 가능성]]></title>
+        <id>https://v.daum.net/v/20230922175808084</id>
+        <link href="https://v.daum.net/v/20230922175808084"/>
+        <updated>2023-09-22T09:09:46.271Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 버라이어티도 ‘무빙’ 극찬 “‘오징어게임’ 잇는 亞 히트작”]]></title>
         <id>https://v.daum.net/v/20230922170820524</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230922144003391"/>
         <updated>2023-09-22T06:13:15.255Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한강’ 이상이 “악역, 재벌 뒷모습 표현하려‥소형 선박 면허증도 취득”]]></title>
-        <id>https://v.daum.net/v/20230922143520229</id>
-        <link href="https://v.daum.net/v/20230922143520229"/>
-        <updated>2023-09-22T06:13:15.259Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상이 "짝사랑·로맨스만 하던 나, 악역에 끌려…소형 선박 자격증 언젠간 써먹을 듯"]]></title>
-        <id>https://v.daum.net/v/20230922143202099</id>
-        <link href="https://v.daum.net/v/20230922143202099"/>
-        <updated>2023-09-22T06:13:15.261Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
