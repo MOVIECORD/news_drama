@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-23T01:41:31.027Z</updated>
+    <updated>2023-09-23T02:15:04.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한지민x이민기, 연쇄살인범 잡는다..강력반 트리오 공조]]></title>
+        <id>https://v.daum.net/v/20230923104517415</id>
+        <link href="https://v.daum.net/v/20230923104517415"/>
+        <updated>2023-09-23T02:14:01.767Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정라엘, 양부 민영기 사랑해"..이유비, '7인' 막장 스토리 납득시키는 '악녀 연기']]></title>
         <id>https://v.daum.net/v/20230923102111186</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230923073856536"/>
         <updated>2023-09-22T23:09:23.293Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 이덕화, 정라엘 사망에 극대노 "다 쓸어버리겠다"]]></title>
-        <id>https://v.daum.net/v/20230923073013478</id>
-        <link href="https://v.daum.net/v/20230923073013478"/>
-        <updated>2023-09-22T23:09:23.293Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
