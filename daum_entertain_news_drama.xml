@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-24T17:08:35.609Z</updated>
+    <updated>2023-09-24T18:11:53.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘효심이네 각자도생’ 유이·하준·고주원 삼각♥ 못지 않은 케미3]]></title>
+        <id>https://v.daum.net/v/20230925030015290</id>
+        <link href="https://v.daum.net/v/20230925030015290"/>
+        <updated>2023-09-24T18:11:41.536Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['힙하게' 이민기, 한지민에 황당 고백 "수호 대신 나랑 연애해"]]></title>
         <id>https://v.daum.net/v/20230925002333932</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230924151915092"/>
         <updated>2023-09-24T07:08:22.789Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진수완 표 청춘 밴드물 온다…6년만 신작에 쏠린 기대]]></title>
-        <id>https://v.daum.net/v/20230924150613766</id>
-        <link href="https://v.daum.net/v/20230924150613766"/>
-        <updated>2023-09-24T06:11:50.668Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
