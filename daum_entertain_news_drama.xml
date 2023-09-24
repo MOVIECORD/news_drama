@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-24T02:18:17.952Z</updated>
+    <updated>2023-09-24T03:09:58.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“요즘 시국에 뇌물먹는 교사라니” 김순옥 막장 ‘7인의탈출’ 시청자게시판 항의 폭주]]></title>
+        <id>https://v.daum.net/v/20230924114510833</id>
+        <link href="https://v.daum.net/v/20230924114510833"/>
+        <updated>2023-09-24T03:09:49.112Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['효심이네 각자도생'에 모든 케미 들어있다…볼 수밖에 없는 이유]]></title>
+        <id>https://v.daum.net/v/20230924113904728</id>
+        <link href="https://v.daum.net/v/20230924113904728"/>
+        <updated>2023-09-24T03:09:49.118Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아라문의 검’ 반토막 시청률 2.2% 어쩌나…개막식 중계 직격탄]]></title>
         <id>https://v.daum.net/v/20230924111513355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230924091005413"/>
         <updated>2023-09-24T00:44:44.432Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아라문의 검' 장동건의 광기 폭발..아스달 새로운 위기]]></title>
-        <id>https://v.daum.net/v/20230924085807142</id>
-        <link href="https://v.daum.net/v/20230924085807142"/>
-        <updated>2023-09-24T00:44:44.434Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“여성차벌적 발언→예의 갖춰라” 유이... 女랑 운동 안한다는 하준에 ‘일침’]]></title>
-        <id>https://v.daum.net/v/20230924082918912</id>
-        <link href="https://v.daum.net/v/20230924082918912"/>
-        <updated>2023-09-24T00:44:44.436Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
