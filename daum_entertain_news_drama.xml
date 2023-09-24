@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-24T05:09:56.289Z</updated>
+    <updated>2023-09-24T06:12:02.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진수완 표 청춘 밴드물 온다…6년만 신작에 쏠린 기대]]></title>
+        <id>https://v.daum.net/v/20230924150613766</id>
+        <link href="https://v.daum.net/v/20230924150613766"/>
+        <updated>2023-09-24T06:11:50.668Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤종훈, 조롱 협박 가짜 뉴스까지…극 중 인물 다 흔든 ‘문어발 빌런’]]></title>
+        <id>https://v.daum.net/v/20230924142821833</id>
+        <link href="https://v.daum.net/v/20230924142821833"/>
+        <updated>2023-09-24T06:11:50.671Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 탈출’, 교사 뇌물수수 묘사에 분노 폭발 “폐지하라” 요구 봇물]]></title>
+        <id>https://v.daum.net/v/20230924141947601</id>
+        <link href="https://v.daum.net/v/20230924141947601"/>
+        <updated>2023-09-24T06:11:50.686Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나는 선생이고, 전문 트레이너” 유이, 하준에게 매서운 경고]]></title>
         <id>https://v.daum.net/v/20230924140327225</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230924121118354"/>
         <updated>2023-09-24T04:11:36.717Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“요즘 시국에 뇌물먹는 교사라니” 김순옥 막장 ‘7인의탈출’ 시청자게시판 항의 폭주]]></title>
-        <id>https://v.daum.net/v/20230924114510833</id>
-        <link href="https://v.daum.net/v/20230924114510833"/>
-        <updated>2023-09-24T03:09:49.112Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네 각자도생'에 모든 케미 들어있다…볼 수밖에 없는 이유]]></title>
-        <id>https://v.daum.net/v/20230924113904728</id>
-        <link href="https://v.daum.net/v/20230924113904728"/>
-        <updated>2023-09-24T03:09:49.118Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아라문의 검’ 반토막 시청률 2.2% 어쩌나…개막식 중계 직격탄]]></title>
-        <id>https://v.daum.net/v/20230924111513355</id>
-        <link href="https://v.daum.net/v/20230924111513355"/>
-        <updated>2023-09-24T02:18:05.934Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
