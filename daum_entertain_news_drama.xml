@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-24T19:07:27.849Z</updated>
+    <updated>2023-09-24T20:09:52.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘무빙’  넷플릭스에서였다면 더 큰 성공 했을 것]]></title>
+        <id>https://v.daum.net/v/20230925050005801</id>
+        <link href="https://v.daum.net/v/20230925050005801"/>
+        <updated>2023-09-24T20:09:41.250Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘효심이네 각자도생’ 유이·하준·고주원 삼각♥ 못지 않은 케미3]]></title>
         <id>https://v.daum.net/v/20230925030015290</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230924161430342"/>
         <updated>2023-09-24T08:11:05.635Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘7인의 탈출’ 선 넘은 불쾌함에 시청자 원성..이렇게 시즌2까지 가나]]></title>
-        <id>https://v.daum.net/v/20230924151915092</id>
-        <link href="https://v.daum.net/v/20230924151915092"/>
-        <updated>2023-09-24T07:08:22.789Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
