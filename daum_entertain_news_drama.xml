@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-25T20:11:09.193Z</updated>
+    <updated>2023-09-25T21:10:08.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희원, 강풀 원작 ‘조명가게’로 감독 데뷔 “스트레스에 잠 못 자”]]></title>
+        <id>https://v.daum.net/v/20230926060006799</id>
+        <link href="https://v.daum.net/v/20230926060006799"/>
+        <updated>2023-09-25T21:09:04.800Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한채아, '멱살 한번 잡힙시다'로 안방 복귀..김하늘X장승조 만남]]></title>
+        <id>https://v.daum.net/v/20230926053002556</id>
+        <link href="https://v.daum.net/v/20230926053002556"/>
+        <updated>2023-09-25T21:09:04.815Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비질란테' 11월 8일 공개 확정...'무빙' 바통 이어받는다]]></title>
         <id>https://v.daum.net/v/20230926030130622</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230925175347806"/>
         <updated>2023-09-25T09:11:23.139Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 류승룡 "인기 체감하냐고? 중3·고3 아들 펑펑 울어" ①]]></title>
-        <id>https://v.daum.net/v/20230925175328793</id>
-        <link href="https://v.daum.net/v/20230925175328793"/>
-        <updated>2023-09-25T09:11:23.139Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 4회 만에 입증한 진가…본 적 없는 스릴러]]></title>
-        <id>https://v.daum.net/v/20230925165509488</id>
-        <link href="https://v.daum.net/v/20230925165509488"/>
-        <updated>2023-09-25T08:13:13.334Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
