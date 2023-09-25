@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-25T09:11:31.746Z</updated>
+    <updated>2023-09-25T10:11:21.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승룡 "'무빙' 신파 거부감? 저도 싫은데…구토 2번에 제정신 아니었다"]]></title>
+        <id>https://v.daum.net/v/20230925185714476</id>
+        <link href="https://v.daum.net/v/20230925185714476"/>
+        <updated>2023-09-25T10:11:11.566Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승룡 "'무빙' 시즌2? 강풀 작가가 환갑 때 몸 관리 잘하라고…그래서 기대"]]></title>
+        <id>https://v.daum.net/v/20230925184701276</id>
+        <link href="https://v.daum.net/v/20230925184701276"/>
+        <updated>2023-09-25T10:11:11.567Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무빙' 류승룡 "강풀 작가, 환갑 때까지 몸 관리 잘하라더라"]]></title>
         <id>https://v.daum.net/v/20230925180023098</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230925162301010"/>
         <updated>2023-09-25T08:13:13.348Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강유석 ‘언젠가는 슬기로울 전공의생활’ 출연확정, 고윤정과 호흡]]></title>
-        <id>https://v.daum.net/v/20230925162210974</id>
-        <link href="https://v.daum.net/v/20230925162210974"/>
-        <updated>2023-09-25T08:13:13.350Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희원 "'무빙'·한강' 연달아 공개, 인기 예상 못해…요즘 '밥값 내준다는 사람'도 있어"]]></title>
-        <id>https://v.daum.net/v/20230925160603271</id>
-        <link href="https://v.daum.net/v/20230925160603271"/>
-        <updated>2023-09-25T07:09:45.873Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
