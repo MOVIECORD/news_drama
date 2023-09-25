@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-25T10:11:21.600Z</updated>
+    <updated>2023-09-25T11:08:36.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['300억 대작 여주' 서현 어쩌나…'첫 주연' 이호정에 밀려난 존재감]]></title>
+        <id>https://v.daum.net/v/20230925200102841</id>
+        <link href="https://v.daum.net/v/20230925200102841"/>
+        <updated>2023-09-25T11:08:25.679Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'무빙'이 류승룡 학대? 난 행복"…류승룡, 조인성 숨소리에 NG까지]]></title>
+        <id>https://v.daum.net/v/20230925195010590</id>
+        <link href="https://v.daum.net/v/20230925195010590"/>
+        <updated>2023-09-25T11:08:25.679Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류승룡 "'무빙' 신파 거부감? 저도 싫은데…구토 2번에 제정신 아니었다"]]></title>
         <id>https://v.daum.net/v/20230925185714476</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230925162713234"/>
         <updated>2023-09-25T08:13:13.343Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 류승룡 "고윤정이 아부지라고, 다들 과몰입…사위감은"]]></title>
-        <id>https://v.daum.net/v/20230925162356044</id>
-        <link href="https://v.daum.net/v/20230925162356044"/>
-        <updated>2023-09-25T08:13:13.346Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 류승룡 "디즈니+ 감사‥강풀, 시즌2 쓰게 묶어둘 것"]]></title>
-        <id>https://v.daum.net/v/20230925162301010</id>
-        <link href="https://v.daum.net/v/20230925162301010"/>
-        <updated>2023-09-25T08:13:13.348Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
