@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-25T13:14:55.212Z</updated>
+    <updated>2023-09-25T14:10:11.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 방 '반짝이는 워터멜론' 려운, 농인 가족과 세상 잇는 코다로 '열연']]></title>
+        <id>https://v.daum.net/v/20230925225033067</id>
+        <link href="https://v.daum.net/v/20230925225033067"/>
+        <updated>2023-09-25T14:10:00.499Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '워터멜론' 전교 1등 려운, 진짜 꿈은 밴드... 기타 치며 반짝이는 청춘]]></title>
         <id>https://v.daum.net/v/20230925220730341</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230925165230366</id>
         <link href="https://v.daum.net/v/20230925165230366"/>
         <updated>2023-09-25T08:13:13.338Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승룡 "'무빙'으로 디즈니+ 부활..시즌2 내주시길"]]></title>
-        <id>https://v.daum.net/v/20230925165022275</id>
-        <link href="https://v.daum.net/v/20230925165022275"/>
-        <updated>2023-09-25T08:13:13.339Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
