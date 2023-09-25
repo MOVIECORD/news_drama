@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-25T03:11:22.169Z</updated>
+    <updated>2023-09-25T04:13:04.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤경호 ‘최악의 악’ 강력계 형사 변신…지창욱과 호흡]]></title>
+        <id>https://v.daum.net/v/20230925122159847</id>
+        <link href="https://v.daum.net/v/20230925122159847"/>
+        <updated>2023-09-25T04:12:01.697Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우아한제국’ 2주 결방 확정, 역대급 빌런 남주 김진우→이시강 배우 교체 눈길]]></title>
         <id>https://v.daum.net/v/20230925114641632</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230925095520411"/>
         <updated>2023-09-25T01:45:07.150Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남보라,  해맑음 가득+열정 충만 캐릭터 눈길]]></title>
-        <id>https://v.daum.net/v/20230925095044224</id>
-        <link href="https://v.daum.net/v/20230925095044224"/>
-        <updated>2023-09-25T01:45:07.154Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
