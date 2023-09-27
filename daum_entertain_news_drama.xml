@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-27T10:11:42.885Z</updated>
+    <updated>2023-09-27T11:09:16.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄기준, 10년 넘게 '폭력성'은 여전해…고향 SBS에서 또 제자리 걸음]]></title>
+        <id>https://v.daum.net/v/20230927195501749</id>
+        <link href="https://v.daum.net/v/20230927195501749"/>
+        <updated>2023-09-27T11:09:04.994Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스토브리그' 4년 후…'대상 배우' 남궁민vs박은빈, 대결 붙는다]]></title>
+        <id>https://v.daum.net/v/20230927195003668</id>
+        <link href="https://v.daum.net/v/20230927195003668"/>
+        <updated>2023-09-27T11:09:05.001Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우지현, 웨이브 '거래' 출연 확정…유승호·이주영과 호흡]]></title>
         <id>https://v.daum.net/v/20230927181715134</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230927151018208</id>
         <link href="https://v.daum.net/v/20230927151018208"/>
         <updated>2023-09-27T06:13:42.173Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이쿠키' 남지현→최현욱 "풍성한 한가위 보내세요" 추석 인사]]></title>
-        <id>https://v.daum.net/v/20230927150118912</id>
-        <link href="https://v.daum.net/v/20230927150118912"/>
-        <updated>2023-09-27T06:13:42.174Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반짝이는 워터멜론', iKON 구준회 보컬로 완성된 OST 공개]]></title>
-        <id>https://v.daum.net/v/20230927145834804</id>
-        <link href="https://v.daum.net/v/20230927145834804"/>
-        <updated>2023-09-27T06:13:42.174Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
