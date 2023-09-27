@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-27T02:17:58.313Z</updated>
+    <updated>2023-09-27T03:10:50.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['도적' 언년이 이호정 "'추노' 언년이 너무 쎄…뛰어 넘고 싶다"]]></title>
+        <id>https://v.daum.net/v/20230927113920282</id>
+        <link href="https://v.daum.net/v/20230927113920282"/>
+        <updated>2023-09-27T03:10:38.449Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이돌·유튜버 비밀 연애..'플레이, 플리', 11월 티빙 독점 공개]]></title>
+        <id>https://v.daum.net/v/20230927113103978</id>
+        <link href="https://v.daum.net/v/20230927113103978"/>
+        <updated>2023-09-27T03:10:38.450Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이호정 "시즌2서 김남길과 치정 로맨스? 상상 안 가는데…서현과 더 함께했으면"]]></title>
+        <id>https://v.daum.net/v/20230927113001888</id>
+        <link href="https://v.daum.net/v/20230927113001888"/>
+        <updated>2023-09-27T03:10:38.453Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이호정 "큰 스케일 액션에 우왕좌왕할 뻔한 나, 베테랑 김남길이 이끌어줘"]]></title>
+        <id>https://v.daum.net/v/20230927112504697</id>
+        <link href="https://v.daum.net/v/20230927112504697"/>
+        <updated>2023-09-27T03:10:38.456Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설인아, 첫사랑 기억 조작꾼…등장과 동시에 '만인의 연인']]></title>
+        <id>https://v.daum.net/v/20230927111917419</id>
+        <link href="https://v.daum.net/v/20230927111917419"/>
+        <updated>2023-09-27T03:10:38.458Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김향기, 인기 아이돌과 비밀연애 ‘플레이, 플리’ 11월 티빙 공개]]></title>
         <id>https://v.daum.net/v/20230927111049889</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230927094739165"/>
         <updated>2023-09-27T01:44:33.553Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜버 김향기-인기 아이돌 신현승 비밀연애..'플레이, 플리' 첫 스틸 공개]]></title>
-        <id>https://v.daum.net/v/20230927093735824</id>
-        <link href="https://v.daum.net/v/20230927093735824"/>
-        <updated>2023-09-27T00:42:40.473Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미X옹성우, 관계성 맛집 예고 “순식간에 편해져”]]></title>
-        <id>https://v.daum.net/v/20230927093355677</id>
-        <link href="https://v.daum.net/v/20230927093355677"/>
-        <updated>2023-09-27T00:42:40.473Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백발된 엄기준, 드디어 본격 등장…19세 이상 시청 편성]]></title>
-        <id>https://v.daum.net/v/20230927093307644</id>
-        <link href="https://v.daum.net/v/20230927093307644"/>
-        <updated>2023-09-27T00:42:40.474Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도적' 김남길 "손가락 아플 정도로 총 돌려, 웨스턴 장르의 신선함 있었다"]]></title>
-        <id>https://v.daum.net/v/20230927093126577</id>
-        <link href="https://v.daum.net/v/20230927093126577"/>
-        <updated>2023-09-27T00:42:40.477Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁', 11월 박은빈X'미우새'와 시청률 전쟁]]></title>
-        <id>https://v.daum.net/v/20230927092805428</id>
-        <link href="https://v.daum.net/v/20230927092805428"/>
-        <updated>2023-09-27T00:42:40.489Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
