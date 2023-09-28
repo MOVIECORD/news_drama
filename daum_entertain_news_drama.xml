@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-28T00:42:22.988Z</updated>
+    <updated>2023-09-28T01:45:10.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수호까지 죽었다… D-3 '힙하게' 연쇄 살인범은 누구?]]></title>
+        <id>https://v.daum.net/v/20230928095356670</id>
+        <link href="https://v.daum.net/v/20230928095356670"/>
+        <updated>2023-09-28T01:44:07.335Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유괴의 날' 윤계상, 천재소녀 유나 떠나 밀항선 올랐지만 급습당해 위기]]></title>
+        <id>https://v.daum.net/v/20230928094402551</id>
+        <link href="https://v.daum.net/v/20230928094402551"/>
+        <updated>2023-09-28T01:44:07.335Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고윤정→신시아·한예지·강유석·정준원, '슬의생' 스핀오프 '전공의생활' 합류]]></title>
         <id>https://v.daum.net/v/20230928091804199</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230927195501749"/>
         <updated>2023-09-27T11:09:04.994Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스토브리그' 4년 후…'대상 배우' 남궁민vs박은빈, 대결 붙는다]]></title>
-        <id>https://v.daum.net/v/20230927195003668</id>
-        <link href="https://v.daum.net/v/20230927195003668"/>
-        <updated>2023-09-27T11:09:05.001Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우지현, 웨이브 '거래' 출연 확정…유승호·이주영과 호흡]]></title>
-        <id>https://v.daum.net/v/20230927181715134</id>
-        <link href="https://v.daum.net/v/20230927181715134"/>
-        <updated>2023-09-27T10:10:40.147Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
