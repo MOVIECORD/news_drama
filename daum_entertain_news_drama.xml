@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-28T11:08:57.093Z</updated>
+    <updated>2023-09-28T12:19:06.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["추석연휴 몰아볼 OTT 이거네" 완결난 용두용미 '무빙'·김남길 액션·멜로 '도적: 칼의 소리']]></title>
+        <id>https://v.daum.net/v/20230928210102880</id>
+        <link href="https://v.daum.net/v/20230928210102880"/>
+        <updated>2023-09-28T12:18:03.622Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오열 연기 전문' 류승룡 "연기 인생 도전하게 한 무빙, 강풀 작가 가둬놨으면"]]></title>
+        <id>https://v.daum.net/v/20230928202801543</id>
+        <link href="https://v.daum.net/v/20230928202801543"/>
+        <updated>2023-09-28T12:18:03.625Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이호정 "유명한 추노 언년이, 뛰어넘고 싶은데 제가 넘을 수 있을까요?"]]></title>
         <id>https://v.daum.net/v/20230928190109756</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230928091804199"/>
         <updated>2023-09-28T00:42:09.491Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 빌런 변신, 이유미 김정은 김해숙과 맞짱 예고]]></title>
-        <id>https://v.daum.net/v/20230928091446168</id>
-        <link href="https://v.daum.net/v/20230928091446168"/>
-        <updated>2023-09-28T00:42:09.501Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신시아X한예지X강유석X정준원, '슬기로울 전공의생활' 출연 확정]]></title>
-        <id>https://v.daum.net/v/20230928091312151</id>
-        <link href="https://v.daum.net/v/20230928091312151"/>
-        <updated>2023-09-28T00:42:09.509Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
