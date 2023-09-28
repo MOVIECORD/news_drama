@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-28T08:13:40.656Z</updated>
+    <updated>2023-09-28T09:11:02.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지, '이두나!'서 고아성과 함께 걸그룹...혼자만 '화이트룩'에 눈길]]></title>
+        <id>https://v.daum.net/v/20230928180200147</id>
+        <link href="https://v.daum.net/v/20230928180200147"/>
+        <updated>2023-09-28T09:09:59.329Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유괴의 날' 윤계상vs박성훈, 추격 끝 드디어 마주한 두 남자]]></title>
+        <id>https://v.daum.net/v/20230928172430654</id>
+        <link href="https://v.daum.net/v/20230928172430654"/>
+        <updated>2023-09-28T09:09:59.333Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무빙' 류승룡 "시즌2 가능성? 강풀 작가 가둬놓고 글 쓰게 했으면"]]></title>
         <id>https://v.daum.net/v/20230928150049816</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230928091023106"/>
         <updated>2023-09-28T00:42:09.510Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['순정복서' 이상엽X김소혜, 위기 속 사랑 이뤄질까..로맨스 향방 궁금]]></title>
-        <id>https://v.daum.net/v/20230928090354016</id>
-        <link href="https://v.daum.net/v/20230928090354016"/>
-        <updated>2023-09-28T00:42:09.512Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 결혼의 정석' 성훈 "안전 운전, 즐거운 한가위 되길"]]></title>
-        <id>https://v.daum.net/v/20230928090214993</id>
-        <link href="https://v.daum.net/v/20230928090214993"/>
-        <updated>2023-09-28T00:42:09.514Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
