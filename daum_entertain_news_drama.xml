@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-29T10:11:31.554Z</updated>
+    <updated>2023-09-29T11:08:56.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 '스마트폰'·디즈니+ '무빙'·'한강' 작업한 김희원 "이제 애플·아마존으로?"]]></title>
+        <id>https://v.daum.net/v/20230929192201062</id>
+        <link href="https://v.daum.net/v/20230929192201062"/>
+        <updated>2023-09-29T11:08:44.036Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유이, 고주원과 사적 만남…핑크빛 기류]]></title>
         <id>https://v.daum.net/v/20230929180407271</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230929112555826</id>
         <link href="https://v.daum.net/v/20230929112555826"/>
         <updated>2023-09-29T03:10:26.998Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아, 현생·전생 빈틈 없는 연기력…연애 세포→눈물샘 자극]]></title>
-        <id>https://v.daum.net/v/20230929111706737</id>
-        <link href="https://v.daum.net/v/20230929111706737"/>
-        <updated>2023-09-29T02:17:39.502Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
