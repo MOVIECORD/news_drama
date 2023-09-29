@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-29T04:12:07.022Z</updated>
+    <updated>2023-09-29T05:11:13.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민X안은진 애절 멜로 폭발 ‘파트2 베일 벗었다’]]></title>
+        <id>https://v.daum.net/v/20230929132449964</id>
+        <link href="https://v.daum.net/v/20230929132449964"/>
+        <updated>2023-09-29T05:10:10.116Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 파트2 기습 공개…애틋한 남궁민X안은진 '울먹']]></title>
+        <id>https://v.daum.net/v/20230929132000903</id>
+        <link href="https://v.daum.net/v/20230929132000903"/>
+        <updated>2023-09-29T05:10:10.118Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 남궁민X안은진, 눈물의 재회 예고…선공개 영상 기습 공개]]></title>
         <id>https://v.daum.net/v/20230929131020805</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230929102325133"/>
         <updated>2023-09-29T01:43:54.849Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘효심이네 각자도생’ 유이X고주원, 핑크빛 기류 포착]]></title>
-        <id>https://v.daum.net/v/20230929101422034</id>
-        <link href="https://v.daum.net/v/20230929101422034"/>
-        <updated>2023-09-29T01:43:54.854Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상, 드디어 협상 시작 “최로희 찾고 싶으면 300억”]]></title>
-        <id>https://v.daum.net/v/20230929101332024</id>
-        <link href="https://v.daum.net/v/20230929101332024"/>
-        <updated>2023-09-29T01:43:54.855Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
