@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-29T06:13:10.138Z</updated>
+    <updated>2023-09-29T07:10:28.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조보아, 사랑에 흠뻑 빠졌다…연애 세포+눈물샘 동시 자극]]></title>
+        <id>https://v.daum.net/v/20230929153217422</id>
+        <link href="https://v.daum.net/v/20230929153217422"/>
+        <updated>2023-09-29T07:09:25.854Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“모녀 히어로” 이유미 김정은 김해숙 ‘강남순’ 하이라이트 영상 공개]]></title>
         <id>https://v.daum.net/v/20230929151113219</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230929111643732</id>
         <link href="https://v.daum.net/v/20230929111643732"/>
         <updated>2023-09-29T02:17:39.502Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔사계' 11기 영철, 9기 영식에 선전포고…"그녀 마음 훔칠 것"]]></title>
-        <id>https://v.daum.net/v/20230929110646631</id>
-        <link href="https://v.daum.net/v/20230929110646631"/>
-        <updated>2023-09-29T02:17:39.513Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
