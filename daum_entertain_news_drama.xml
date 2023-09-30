@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-30T19:07:37.781Z</updated>
+    <updated>2023-09-30T20:11:12.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 이유비, "정라엘은 내가 죽였어" 고백…최후의 7인, 살인 사건 묻을까?]]></title>
+        <id>https://v.daum.net/v/20231001044801997</id>
+        <link href="https://v.daum.net/v/20231001044801997"/>
+        <updated>2023-09-30T20:10:10.259Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의탈출' 황정음, "우리는 이 섬에 온 적 없는 거야"…이유비→신은경과 '섬 탈출']]></title>
         <id>https://v.daum.net/v/20231001032401894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230930223532024"/>
         <updated>2023-09-30T14:08:11.317Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나쁜 X은 내가 할게” 황정음→이유비, 탈출 위해 집단 살인 저질렀다]]></title>
-        <id>https://v.daum.net/v/20230930222909965</id>
-        <link href="https://v.daum.net/v/20230930222909965"/>
-        <updated>2023-09-30T14:08:11.317Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
