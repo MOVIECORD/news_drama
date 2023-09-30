@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-30T00:42:35.705Z</updated>
+    <updated>2023-09-30T01:42:11.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미모→시청률..수호 '힙하게'로 보여준 다채로운 활약]]></title>
+        <id>https://v.daum.net/v/20230930102231052</id>
+        <link href="https://v.daum.net/v/20230930102231052"/>
+        <updated>2023-09-30T01:41:58.424Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['힙하게' 수호, 10% 시청률 끌올..선악 공존 '완벽 맑눈광']]></title>
+        <id>https://v.daum.net/v/20230930101209935</id>
+        <link href="https://v.daum.net/v/20230930101209935"/>
+        <updated>2023-09-30T01:41:58.427Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['힙하게' 수호, 자체 최고 시청률 제조기]]></title>
+        <id>https://v.daum.net/v/20230930100940907</id>
+        <link href="https://v.daum.net/v/20230930100940907"/>
+        <updated>2023-09-30T01:41:58.440Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“괴물 될 준비 끝났다”…‘7인의 탈출’ 엄기준=복수의 칼 간 정라엘 양부 민영기]]></title>
+        <id>https://v.daum.net/v/20230930100001676</id>
+        <link href="https://v.daum.net/v/20230930100001676"/>
+        <updated>2023-09-30T01:41:58.441Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['긍정퀸' 유이, 폭풍 눈물 흘린다..원인 제공자 누구?]]></title>
+        <id>https://v.daum.net/v/20230930095530639</id>
+        <link href="https://v.daum.net/v/20230930095530639"/>
+        <updated>2023-09-30T01:41:58.442Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄기준 정체=정라엘 양부..19禁 '7인의 탈출' 감당 불가 잔인 예고]]></title>
         <id>https://v.daum.net/v/20230930093458417</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230930074502345"/>
         <updated>2023-09-29T23:09:44.073Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["괴물 될 준비 끝" 엄기준 복수 시작...지옥문 열렸다]]></title>
-        <id>https://v.daum.net/v/20230930070011834</id>
-        <link href="https://v.daum.net/v/20230930070011834"/>
-        <updated>2023-09-29T22:09:33.229Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["곧 지옥 볼 것" 엄기준, '페이스오프'로 강렬 첫 등장..복수 시작]]></title>
-        <id>https://v.daum.net/v/20230930065829814</id>
-        <link href="https://v.daum.net/v/20230930065829814"/>
-        <updated>2023-09-29T22:09:33.241Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힙하게’ 이정은·장도연 특별출연…“마지막회 강력한 활약”]]></title>
-        <id>https://v.daum.net/v/20230930055818253</id>
-        <link href="https://v.daum.net/v/20230930055818253"/>
-        <updated>2023-09-29T21:08:39.769Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의탈출' 엄기준, "괴물이 될 준비는 끝났다"…주홍글씨 멤버들 향한 '본격적인 복수' 시작]]></title>
-        <id>https://v.daum.net/v/20230930035401963</id>
-        <link href="https://v.daum.net/v/20230930035401963"/>
-        <updated>2023-09-29T19:08:37.085Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의탈출' 이덕화, "정라엘의 복수는 그가 해야만 해"…민영기 대신 교도소行]]></title>
-        <id>https://v.daum.net/v/20230930033300949</id>
-        <link href="https://v.daum.net/v/20230930033300949"/>
-        <updated>2023-09-29T19:08:37.086Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
