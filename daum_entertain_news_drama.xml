@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-30T08:11:54.225Z</updated>
+    <updated>2023-09-30T09:09:11.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시청률 폭락 '7인의 탈출', 추석 연휴 직격타…엄기준 등장에도 자체 최저 '굴욕']]></title>
+        <id>https://v.daum.net/v/20230930180102405</id>
+        <link href="https://v.daum.net/v/20230930180102405"/>
+        <updated>2023-09-30T09:08:59.785Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유이 폭풍눈물 왜? ‘효심이네’ 오늘 오후 9시로 지연 방송]]></title>
+        <id>https://v.daum.net/v/20230930172130838</id>
+        <link href="https://v.daum.net/v/20230930172130838"/>
+        <updated>2023-09-30T09:08:59.785Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['로스쿨'에서 '해방일지' 거쳐 '힙하게'까지, JTBC 구원왕 김석윤PD]]></title>
         <id>https://v.daum.net/v/20230930154652583</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230930104515289"/>
         <updated>2023-09-30T02:14:52.050Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미모→시청률..수호 '힙하게'로 보여준 다채로운 활약]]></title>
-        <id>https://v.daum.net/v/20230930102231052</id>
-        <link href="https://v.daum.net/v/20230930102231052"/>
-        <updated>2023-09-30T01:41:58.424Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙하게' 수호, 10% 시청률 끌올..선악 공존 '완벽 맑눈광']]></title>
-        <id>https://v.daum.net/v/20230930101209935</id>
-        <link href="https://v.daum.net/v/20230930101209935"/>
-        <updated>2023-09-30T01:41:58.427Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
