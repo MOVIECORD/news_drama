@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-30T04:13:09.613Z</updated>
+    <updated>2023-09-30T05:09:04.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헝거게임? 오겜? 황정음X이준X이유비, '작당모의' 생존 광기 '소름']]></title>
+        <id>https://v.daum.net/v/20230930135921333</id>
+        <link href="https://v.daum.net/v/20230930135921333"/>
+        <updated>2023-09-30T05:08:54.649Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황정음·이유비, '소름 유발' 광기 어린 눈빛 포착]]></title>
+        <id>https://v.daum.net/v/20230930131835937</id>
+        <link href="https://v.daum.net/v/20230930131835937"/>
+        <updated>2023-09-30T05:08:54.652Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내가 뭘 본 거지" 유니콘이라니…'7인의 탈출'에 학 뗀 시청자들]]></title>
         <id>https://v.daum.net/v/20230930131123870</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230930100940907"/>
         <updated>2023-09-30T01:41:58.440Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“괴물 될 준비 끝났다”…‘7인의 탈출’ 엄기준=복수의 칼 간 정라엘 양부 민영기]]></title>
-        <id>https://v.daum.net/v/20230930100001676</id>
-        <link href="https://v.daum.net/v/20230930100001676"/>
-        <updated>2023-09-30T01:41:58.441Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['긍정퀸' 유이, 폭풍 눈물 흘린다..원인 제공자 누구?]]></title>
-        <id>https://v.daum.net/v/20230930095530639</id>
-        <link href="https://v.daum.net/v/20230930095530639"/>
-        <updated>2023-09-30T01:41:58.442Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
