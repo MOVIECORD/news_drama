@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-09-30T03:10:13.625Z</updated>
+    <updated>2023-09-30T04:13:09.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내가 뭘 본 거지" 유니콘이라니…'7인의 탈출'에 학 뗀 시청자들]]></title>
+        <id>https://v.daum.net/v/20230930131123870</id>
+        <link href="https://v.daum.net/v/20230930131123870"/>
+        <updated>2023-09-30T04:12:00.949Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채형원 ‘고등어 완판’ → 시우민 ‘채소 거래 성사’]]></title>
+        <id>https://v.daum.net/v/20230930130642825</id>
+        <link href="https://v.daum.net/v/20230930130642825"/>
+        <updated>2023-09-30T04:12:00.961Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만주웨스턴 '도적', 이것이 바로 K드라마 비빔의 맛이다]]></title>
+        <id>https://v.daum.net/v/20230930130506811</id>
+        <link href="https://v.daum.net/v/20230930130506811"/>
+        <updated>2023-09-30T04:12:00.963Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파란만장 '7인의 탈출', 오늘도 '19세 이상 관람가']]></title>
+        <id>https://v.daum.net/v/20230930130503809</id>
+        <link href="https://v.daum.net/v/20230930130503809"/>
+        <updated>2023-09-30T04:12:00.965Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사장돌마트' 채형원 고등어 완판→시우민 채소 거래 계약 성사...대박 터뜨렸다]]></title>
         <id>https://v.daum.net/v/20230930112810822</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230930095530639"/>
         <updated>2023-09-30T01:41:58.442Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준 정체=정라엘 양부..19禁 '7인의 탈출' 감당 불가 잔인 예고]]></title>
-        <id>https://v.daum.net/v/20230930093458417</id>
-        <link href="https://v.daum.net/v/20230930093458417"/>
-        <updated>2023-09-30T00:41:32.064Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙하게' 한지민, 수호 사망에 패닉…이민기 원망 폭발 '갈등']]></title>
-        <id>https://v.daum.net/v/20230930093425409</id>
-        <link href="https://v.daum.net/v/20230930093425409"/>
-        <updated>2023-09-30T00:41:32.075Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 수호 죽음에 패닉…이민기와 갈등 폭발 어쩌나]]></title>
-        <id>https://v.daum.net/v/20230930091112195</id>
-        <link href="https://v.daum.net/v/20230930091112195"/>
-        <updated>2023-09-30T00:41:32.077Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘도적’ 이현욱 “악역, 재밌는 도전,,,재미 잃으면 연기도 놓겠죠”]]></title>
-        <id>https://v.daum.net/v/20230930090007016</id>
-        <link href="https://v.daum.net/v/20230930090007016"/>
-        <updated>2023-09-30T00:41:32.079Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
