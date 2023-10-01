@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-01T15:09:12.920Z</updated>
+    <updated>2023-10-01T16:11:01.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[”데이트 하자” 이민기♥한지민, ‘초능력’ 공조 성공→사랑 시작 엔딩]]></title>
+        <id>https://v.daum.net/v/20231002005323582</id>
+        <link href="https://v.daum.net/v/20231002005323582"/>
+        <updated>2023-10-01T16:10:51.508Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['힙하게' 한지민, 주민 엉덩이 만지며 박혁권 찾았다..검거 성공]]></title>
+        <id>https://v.daum.net/v/20231002004324533</id>
+        <link href="https://v.daum.net/v/20231002004324533"/>
+        <updated>2023-10-01T16:10:51.509Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '힙하게' 한지민X이민기, 박혁권 검거…눈 찌르고 머리 깨물어 복수]]></title>
         <id>https://v.daum.net/v/20231002000531416</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231001190007434"/>
         <updated>2023-10-01T10:09:11.928Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[려운, 고등학생 시절 父 최현욱 만난다‥타임슬립 이유는]]></title>
-        <id>https://v.daum.net/v/20231001170604175</id>
-        <link href="https://v.daum.net/v/20231001170604175"/>
-        <updated>2023-10-01T08:11:38.481Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힙하게’ 한지민에 칼 겨눈 박혁권, 이민기 분노 버튼 누른다]]></title>
-        <id>https://v.daum.net/v/20231001165200961</id>
-        <link href="https://v.daum.net/v/20231001165200961"/>
-        <updated>2023-10-01T08:11:38.485Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
