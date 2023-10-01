@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-01T13:09:56.440Z</updated>
+    <updated>2023-10-01T14:08:42.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박혁권, 주민경 이어 이민기X한지민 납치]]></title>
+        <id>https://v.daum.net/v/20231001230400958</id>
+        <link href="https://v.daum.net/v/20231001230400958"/>
+        <updated>2023-10-01T14:08:31.597Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박혁권, 이민기X한지민 이용해 경찰서 ‘탈출’.."둘 다 연기 잘하네?"]]></title>
+        <id>https://v.daum.net/v/20231001225819902</id>
+        <link href="https://v.daum.net/v/20231001225819902"/>
+        <updated>2023-10-01T14:08:31.599Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수종, '고려 거란 전쟁'으로 위기의 KBS 드라마 살려볼까]]></title>
         <id>https://v.daum.net/v/20231001210004372</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231001150506608"/>
         <updated>2023-10-01T06:12:25.310Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힙하게’ 종영 여운 OST로 달랜다..주헌·지올팍→하현상 등 총 43곡 수록]]></title>
-        <id>https://v.daum.net/v/20231001143017052</id>
-        <link href="https://v.daum.net/v/20231001143017052"/>
-        <updated>2023-10-01T06:12:25.312Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유이, 가족 벗어나 독립 위한 첫걸음 시작 #사채 빚 #아버지 #남자]]></title>
-        <id>https://v.daum.net/v/20231001134257473</id>
-        <link href="https://v.daum.net/v/20231001134257473"/>
-        <updated>2023-10-01T05:09:16.106Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
