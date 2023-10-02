@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-02T17:10:25.552Z</updated>
+    <updated>2023-10-02T18:13:14.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[려운, 학생 시절 최현욱 만나...농인 아닌 아버지 모습 '충격']]></title>
+        <id>https://v.daum.net/v/20231003021100607</id>
+        <link href="https://v.daum.net/v/20231003021100607"/>
+        <updated>2023-10-02T18:13:03.931Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반짝이는 워터멜론' 최현욱X려운 부자, 타임 슬립 통해 운명 시작]]></title>
         <id>https://v.daum.net/v/20231002230710903</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002150628613"/>
         <updated>2023-10-02T06:14:03.643Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱, 설인아 말고 신은수에게 반했나..'꿀뚝떨' 설렘 가득 눈빛]]></title>
-        <id>https://v.daum.net/v/20231002141908820</id>
-        <link href="https://v.daum.net/v/20231002141908820"/>
-        <updated>2023-10-02T06:14:03.644Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
