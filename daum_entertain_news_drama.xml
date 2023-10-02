@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-02T13:13:47.233Z</updated>
+    <updated>2023-10-02T14:10:11.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 최현욱X려운 부자, 타임 슬립 통해 운명 시작]]></title>
+        <id>https://v.daum.net/v/20231002230710903</id>
+        <link href="https://v.daum.net/v/20231002230710903"/>
+        <updated>2023-10-02T14:09:59.111Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안나'에서 '이두나!' 된 수지, 쿠팡 이어 넷플릭스도 살릴까]]></title>
         <id>https://v.daum.net/v/20231002215927213</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002141908820"/>
         <updated>2023-10-02T06:14:03.644Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱, 신은수와 운명적 첫 만남..설렘 가득 눈맞춤]]></title>
-        <id>https://v.daum.net/v/20231002140622655</id>
-        <link href="https://v.daum.net/v/20231002140622655"/>
-        <updated>2023-10-02T05:10:21.855Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
