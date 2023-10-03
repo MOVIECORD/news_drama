@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-03T06:13:39.601Z</updated>
+    <updated>2023-10-03T07:09:29.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우당탕탕 패밀리' 이도겸, 남상지=도둑고양이 알았다 "잡았다"]]></title>
+        <id>https://v.daum.net/v/20231003154854186</id>
+        <link href="https://v.daum.net/v/20231003154854186"/>
+        <updated>2023-10-03T07:09:18.482Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조보아♥로운 불가항력 떡밥 정리…운명 어찌 될까]]></title>
+        <id>https://v.daum.net/v/20231003154126065</id>
+        <link href="https://v.daum.net/v/20231003154126065"/>
+        <updated>2023-10-03T07:09:18.482Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조보아, 로운 손에 죽었나..‘빨간 손’ 저주에 얽힌 비극]]></title>
         <id>https://v.daum.net/v/20231003150500278</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231003083235556"/>
         <updated>2023-10-03T00:42:41.501Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 '순정복서' 마지막 복싱 경기 펼친 김소혜♥이상엽과 1년 후 재회…키스엔딩]]></title>
-        <id>https://v.daum.net/v/20231003082901518</id>
-        <link href="https://v.daum.net/v/20231003082901518"/>
-        <updated>2023-10-03T00:42:41.509Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도겸, 남상지=도둑고양이 정체 알았다..회심의 미소]]></title>
-        <id>https://v.daum.net/v/20231003082305493</id>
-        <link href="https://v.daum.net/v/20231003082305493"/>
-        <updated>2023-10-03T00:42:41.509Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
