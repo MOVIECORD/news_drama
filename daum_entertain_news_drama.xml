@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-03T11:09:41.976Z</updated>
+    <updated>2023-10-03T12:18:40.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남상지, 이도겸에 자켓 돌려주기 '실패'→다시 약속 잡았다]]></title>
+        <id>https://v.daum.net/v/20231003210109633</id>
+        <link href="https://v.daum.net/v/20231003210109633"/>
+        <updated>2023-10-03T12:18:28.502Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈퍼밴드' 김한겸X밴드 RP, '반짝이는 워터멜론' OST 주자 합류]]></title>
         <id>https://v.daum.net/v/20231003174307465</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231003112420174"/>
         <updated>2023-10-03T03:10:51.816Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운, 조선시대에 이 비주얼 가능?]]></title>
-        <id>https://v.daum.net/v/20231003102459142</id>
-        <link href="https://v.daum.net/v/20231003102459142"/>
-        <updated>2023-10-03T01:44:43.828Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
