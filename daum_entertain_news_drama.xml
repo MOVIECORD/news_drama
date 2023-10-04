@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-04T12:19:53.943Z</updated>
+    <updated>2023-10-04T13:15:15.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미·김정은·김해숙→옹성우·영탁, 현장 케미 세다!]]></title>
+        <id>https://v.daum.net/v/20231004214137555</id>
+        <link href="https://v.daum.net/v/20231004214137555"/>
+        <updated>2023-10-04T13:15:02.172Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조보아♥로운 불가항력인데 악연? 운명 참 슬퍼]]></title>
+        <id>https://v.daum.net/v/20231004212842278</id>
+        <link href="https://v.daum.net/v/20231004212842278"/>
+        <updated>2023-10-04T13:15:02.182Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘로키 시즌2’ 공개 D-2, ‘미스 미닛→라보나’ 더욱 다채로워진 캐릭터 예고]]></title>
         <id>https://v.daum.net/v/20231004194242326</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004143514843"/>
         <updated>2023-10-04T06:13:29.567Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날', "더 강렬하게"..제작진이 밝힌 2막 관전 포인트]]></title>
-        <id>https://v.daum.net/v/20231004140838818</id>
-        <link href="https://v.daum.net/v/20231004140838818"/>
-        <updated>2023-10-04T05:09:31.532Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘7인의 탈출’ 김순옥표 매운맛은 달랐다..시청자 경악시킨 반전 모먼트 셋]]></title>
-        <id>https://v.daum.net/v/20231004140419637</id>
-        <link href="https://v.daum.net/v/20231004140419637"/>
-        <updated>2023-10-04T05:09:31.533Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
