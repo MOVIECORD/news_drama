@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-04T05:10:34.322Z</updated>
+    <updated>2023-10-04T06:13:41.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 '도적'·디즈니+ '최악의 악', 추석 연휴 세계 각국서 'TOP10 진입']]></title>
+        <id>https://v.daum.net/v/20231004143514843</id>
+        <link href="https://v.daum.net/v/20231004143514843"/>
+        <updated>2023-10-04T06:13:29.567Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유괴의 날', "더 강렬하게"..제작진이 밝힌 2막 관전 포인트]]></title>
         <id>https://v.daum.net/v/20231004140838818</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231004112611373"/>
         <updated>2023-10-04T03:10:38.632Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼례대첩' 로운X조이현, 先코믹 後설렘..인생캐 경신 기대]]></title>
-        <id>https://v.daum.net/v/20231004110913629</id>
-        <link href="https://v.daum.net/v/20231004110913629"/>
-        <updated>2023-10-04T02:18:53.451Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
