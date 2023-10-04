@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-04T21:10:46.537Z</updated>
+    <updated>2023-10-04T22:10:58.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이두나!' 수지·양세종 포스터 공개… 올 가을 설렘 조준할까?]]></title>
+        <id>https://v.daum.net/v/20231005063606278</id>
+        <link href="https://v.daum.net/v/20231005063606278"/>
+        <updated>2023-10-04T22:10:46.517Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“시즌제와 달라”…슬의생·힘쎈여자, ‘스핀오프’ 드라마 러시]]></title>
+        <id>https://v.daum.net/v/20231005063017197</id>
+        <link href="https://v.daum.net/v/20231005063017197"/>
+        <updated>2023-10-04T22:10:46.526Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘너시속’ 강훈 “교복 부담감 없었어요”]]></title>
         <id>https://v.daum.net/v/20231005053305398</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004180028445"/>
         <updated>2023-10-04T09:10:35.442Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네', 故 노영국 7회까지..8회부터 김규철 교체 등장]]></title>
-        <id>https://v.daum.net/v/20231004170003101</id>
-        <link href="https://v.daum.net/v/20231004170003101"/>
-        <updated>2023-10-04T08:13:40.955Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 보던 당신이 전율한 순간 '셋']]></title>
-        <id>https://v.daum.net/v/20231004163013737</id>
-        <link href="https://v.daum.net/v/20231004163013737"/>
-        <updated>2023-10-04T08:13:40.970Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
