@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-04T09:10:46.804Z</updated>
+    <updated>2023-10-04T10:11:34.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘유괴의 날’ 오늘 결방… 윤계상·유나 공조 뜨겁다, 내일부터 2막]]></title>
+        <id>https://v.daum.net/v/20231004185938199</id>
+        <link href="https://v.daum.net/v/20231004185938199"/>
+        <updated>2023-10-04T10:11:22.904Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 구독료 오를까 “할리우드 파업 끝나면 인상 검토”]]></title>
+        <id>https://v.daum.net/v/20231004181312878</id>
+        <link href="https://v.daum.net/v/20231004181312878"/>
+        <updated>2023-10-04T10:11:22.909Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악의 악' 폭발하는 삼각관계…김형서, 강렬한 등장]]></title>
         <id>https://v.daum.net/v/20231004180028445</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004135435248"/>
         <updated>2023-10-04T05:09:31.536Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조보아 로코→스릴러·사극까지, 多장르 아우르는 열연]]></title>
-        <id>https://v.daum.net/v/20231004134817044</id>
-        <link href="https://v.daum.net/v/20231004134817044"/>
-        <updated>2023-10-04T05:09:31.537Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우X박규영 전생은? 고운 한복 자태 입고 연인 포스]]></title>
-        <id>https://v.daum.net/v/20231004134032797</id>
-        <link href="https://v.daum.net/v/20231004134032797"/>
-        <updated>2023-10-04T05:09:31.538Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
