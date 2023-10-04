@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-04T10:11:34.144Z</updated>
+    <updated>2023-10-04T11:09:01.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘로키 시즌2’ 공개 D-2, ‘미스 미닛→라보나’ 더욱 다채로워진 캐릭터 예고]]></title>
+        <id>https://v.daum.net/v/20231004194242326</id>
+        <link href="https://v.daum.net/v/20231004194242326"/>
+        <updated>2023-10-04T11:08:52.409Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교실 출산→마약→페이스오프, 복수 한번 요란하네]]></title>
+        <id>https://v.daum.net/v/20231004193528151</id>
+        <link href="https://v.daum.net/v/20231004193528151"/>
+        <updated>2023-10-04T11:08:52.422Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유괴의 날’ 오늘 결방… 윤계상·유나 공조 뜨겁다, 내일부터 2막]]></title>
         <id>https://v.daum.net/v/20231004185938199</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004140419637"/>
         <updated>2023-10-04T05:09:31.533Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신주협 ‘무인도의 디바’ 출연, 김효진 매니저 된다]]></title>
-        <id>https://v.daum.net/v/20231004140253574</id>
-        <link href="https://v.daum.net/v/20231004140253574"/>
-        <updated>2023-10-04T05:09:31.534Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 아빠 입은 윤계상과 천재 소녀의 공조]]></title>
-        <id>https://v.daum.net/v/20231004135435248</id>
-        <link href="https://v.daum.net/v/20231004135435248"/>
-        <updated>2023-10-04T05:09:31.536Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
