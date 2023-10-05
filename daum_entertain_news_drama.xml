@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-05T03:11:37.985Z</updated>
+    <updated>2023-10-05T04:12:01.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["단순 범죄물 아냐"…'거래' 유승호→김동휘, 납치 친구 케미 대박날까]]></title>
+        <id>https://v.daum.net/v/20231005122217220</id>
+        <link href="https://v.daum.net/v/20231005122217220"/>
+        <updated>2023-10-05T04:11:49.584Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기 아이돌 수지♥대학생 양세종, 스며드는 설렘]]></title>
         <id>https://v.daum.net/v/20231005120801826</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231005103905744"/>
         <updated>2023-10-05T01:49:20.398Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보영x'지우학' 감독 만났다..좀비 아닌 힐링물]]></title>
-        <id>https://v.daum.net/v/20231005103239463</id>
-        <link href="https://v.daum.net/v/20231005103239463"/>
-        <updated>2023-10-05T01:49:20.401Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
