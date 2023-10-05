@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-05T10:12:24.888Z</updated>
+    <updated>2023-10-05T11:09:03.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정리 먼저"VS"계산 좀", 카운터 사람 없을 때 '찐공감']]></title>
+        <id>https://v.daum.net/v/20231005193427110</id>
+        <link href="https://v.daum.net/v/20231005193427110"/>
+        <updated>2023-10-05T11:08:51.431Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이 연애는 불가항력' 조보아·로운 전생 밝혀진다..신분 초월 사랑]]></title>
         <id>https://v.daum.net/v/20231005184953138</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231005171205226"/>
         <updated>2023-10-05T08:13:41.591Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘강남순’ 주우재, 경찰 캐스팅→노숙자 출연..“본인이 하고 싶다고”]]></title>
-        <id>https://v.daum.net/v/20231005170016569</id>
-        <link href="https://v.daum.net/v/20231005170016569"/>
-        <updated>2023-10-05T08:13:41.598Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
