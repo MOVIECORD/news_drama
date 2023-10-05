@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-05T01:49:33.344Z</updated>
+    <updated>2023-10-05T02:21:22.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['거래' 유수빈 "내가 한 살 형이지만, 유승호가 대장"]]></title>
+        <id>https://v.daum.net/v/20231005110438921</id>
+        <link href="https://v.daum.net/v/20231005110438921"/>
+        <updated>2023-10-05T02:20:19.409Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['거래' 이주영 "유승호, 쉽지 않은 역할인데 안 지쳐"]]></title>
+        <id>https://v.daum.net/v/20231005105829584</id>
+        <link href="https://v.daum.net/v/20231005105829584"/>
+        <updated>2023-10-05T02:20:19.410Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배두나, '가족계획' 여주..류승범·백윤식 만난다]]></title>
+        <id>https://v.daum.net/v/20231005105058272</id>
+        <link href="https://v.daum.net/v/20231005105058272"/>
+        <updated>2023-10-05T02:20:19.410Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['거래' 유승호 "친구가 친구 납치하는 것에 흥미 느꼈다"]]></title>
+        <id>https://v.daum.net/v/20231005105054266</id>
+        <link href="https://v.daum.net/v/20231005105054266"/>
+        <updated>2023-10-05T02:20:19.410Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['24년차' 유승호, '잘 자란 아역'의 반란]]></title>
         <id>https://v.daum.net/v/20231005104547028</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231005102403054"/>
         <updated>2023-10-05T01:49:20.430Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거래' 이주영 "배우들간의 앙상블이 뛰어난 작품, 기대해도 좋아"]]></title>
-        <id>https://v.daum.net/v/20231005102330032</id>
-        <link href="https://v.daum.net/v/20231005102330032"/>
-        <updated>2023-10-05T01:49:20.432Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거래' 이정곤 감독"납치나 돈 보다 인물간 관계가 어떻게 변하는지 지켜봐달라"]]></title>
-        <id>https://v.daum.net/v/20231005102230984</id>
-        <link href="https://v.daum.net/v/20231005102230984"/>
-        <updated>2023-10-05T01:49:20.435Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거래' 유수빈 "동생 유승호, 존경하는 선배님"]]></title>
-        <id>https://v.daum.net/v/20231005101602670</id>
-        <link href="https://v.daum.net/v/20231005101602670"/>
-        <updated>2023-10-05T01:49:20.437Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정, 現 소속사 어썸이엔티와 재계약]]></title>
-        <id>https://v.daum.net/v/20231005101305543</id>
-        <link href="https://v.daum.net/v/20231005101305543"/>
-        <updated>2023-10-05T01:49:20.440Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
