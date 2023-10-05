@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-05T21:08:58.055Z</updated>
+    <updated>2023-10-05T22:09:34.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보고싶었소" 남궁민X안은진, '연인' 파트2 오래 참았다]]></title>
+        <id>https://v.daum.net/v/20231006070111917</id>
+        <link href="https://v.daum.net/v/20231006070111917"/>
+        <updated>2023-10-05T22:09:22.850Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘거래’, 부산영화제 찍고 ‘제2의 약한영웅’ 노린다]]></title>
+        <id>https://v.daum.net/v/20231006063011547</id>
+        <link href="https://v.daum.net/v/20231006063011547"/>
+        <updated>2023-10-05T22:09:22.851Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘무빙’ 이을 흥행작 어디없소]]></title>
+        <id>https://v.daum.net/v/20231006063010546</id>
+        <link href="https://v.daum.net/v/20231006063010546"/>
+        <updated>2023-10-05T22:09:22.851Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['자칭 와이어 천재' 이유미, 박보영 6촌으로 컴백…9.7% '도봉순' 넘을까]]></title>
         <id>https://v.daum.net/v/20231006060102191</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231005180101603"/>
         <updated>2023-10-05T09:10:55.107Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱, 거리 흡연+꽁초 무단 투기 인정…"실망감 드려 죄송"]]></title>
-        <id>https://v.daum.net/v/20231005175533363</id>
-        <link href="https://v.daum.net/v/20231005175533363"/>
-        <updated>2023-10-05T09:10:55.107Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계 '무빙앓이' ing..조인성♥한효주 "죽을 것 같아서요" 반복]]></title>
-        <id>https://v.daum.net/v/20231005175442304</id>
-        <link href="https://v.daum.net/v/20231005175442304"/>
-        <updated>2023-10-05T09:10:55.107Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'거지' 주우재, 너무 잘 어울려"…'강남순', 명품 조연 비화]]></title>
-        <id>https://v.daum.net/v/20231005175111154</id>
-        <link href="https://v.daum.net/v/20231005175111154"/>
-        <updated>2023-10-05T09:10:55.117Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
