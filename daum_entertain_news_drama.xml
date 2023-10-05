@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-05T20:11:45.547Z</updated>
+    <updated>2023-10-05T21:08:58.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['자칭 와이어 천재' 이유미, 박보영 6촌으로 컴백…9.7% '도봉순' 넘을까]]></title>
+        <id>https://v.daum.net/v/20231006060102191</id>
+        <link href="https://v.daum.net/v/20231006060102191"/>
+        <updated>2023-10-05T21:08:46.797Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 로운X조이현, 30일 '가요광장' 동반 출격.."입담대첩"]]></title>
+        <id>https://v.daum.net/v/20231006060003028</id>
+        <link href="https://v.daum.net/v/20231006060003028"/>
+        <updated>2023-10-05T21:08:46.797Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 삶의 유일한 오점은 아버지...부끄러워서 고개를 못 들어"]]></title>
         <id>https://v.daum.net/v/20231005220330467</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231005175111154"/>
         <updated>2023-10-05T09:10:55.117Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTBC 드라마 주춤…스핀오프·예능 편성 돌파구 될까]]></title>
-        <id>https://v.daum.net/v/20231005175006087</id>
-        <link href="https://v.daum.net/v/20231005175006087"/>
-        <updated>2023-10-05T09:10:55.117Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사장돌마트' 최원명, 분위기에 취한다..눈빛이 다한 캐릭터 소화력]]></title>
-        <id>https://v.daum.net/v/20231005172403730</id>
-        <link href="https://v.daum.net/v/20231005172403730"/>
-        <updated>2023-10-05T09:10:55.117Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
