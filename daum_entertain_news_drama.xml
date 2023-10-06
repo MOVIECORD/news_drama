@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-06T10:10:41.146Z</updated>
+    <updated>2023-10-06T11:08:52.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현금부자 김정은→배우 영탁·벼락거지 주우재, ‘강남순’ 재밌을까]]></title>
+        <id>https://v.daum.net/v/20231006193628012</id>
+        <link href="https://v.daum.net/v/20231006193628012"/>
+        <updated>2023-10-06T11:08:42.438Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원조 악녀' 김소연, '7인의 탈출' 특별 출연…김순옥 작가와 재회]]></title>
         <id>https://v.daum.net/v/20231006182920528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231006162949225"/>
         <updated>2023-10-06T08:12:51.693Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 히들스턴 ‘로키2’의 귀환, 뒤죽박죽 타임슬립이 매력적]]></title>
-        <id>https://v.daum.net/v/20231006162758171</id>
-        <link href="https://v.daum.net/v/20231006162758171"/>
-        <updated>2023-10-06T08:12:51.698Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
