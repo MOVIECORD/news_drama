@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T01:43:03.996Z</updated>
+    <updated>2023-10-07T02:16:15.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정은, 잃어버린 딸 있었다 '극적 재회']]></title>
+        <id>https://v.daum.net/v/20231007105301045</id>
+        <link href="https://v.daum.net/v/20231007105301045"/>
+        <updated>2023-10-07T02:16:03.254Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 D-DAY '힘쎈여자 강남순' 몽골 소녀 이유미, 부모 찾아 한국行]]></title>
         <id>https://v.daum.net/v/20231007102222727</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231007070101716"/>
         <updated>2023-10-06T22:09:07.145Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년만 돌아온 女 히어로 ‘강남순’ 액션→노년 멜로까지]]></title>
-        <id>https://v.daum.net/v/20231007060507118</id>
-        <link href="https://v.daum.net/v/20231007060507118"/>
-        <updated>2023-10-06T21:08:27.739Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
