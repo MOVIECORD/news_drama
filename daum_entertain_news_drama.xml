@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T05:09:23.215Z</updated>
+    <updated>2023-10-07T06:12:39.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피의 군주' 장동건, 예언의 싹 잘라버릴 폭정 시작]]></title>
+        <id>https://v.daum.net/v/20231007143137678</id>
+        <link href="https://v.daum.net/v/20231007143137678"/>
+        <updated>2023-10-07T06:12:28.415Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우, "키스하면 강아지로 변한다고?"]]></title>
+        <id>https://v.daum.net/v/20231007141728451</id>
+        <link href="https://v.daum.net/v/20231007141728451"/>
+        <updated>2023-10-07T06:12:28.416Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우 "'사랑스럽개', 사탕 같아..마음 간질거리는 달달함 느껴"]]></title>
         <id>https://v.daum.net/v/20231007135943163</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231007090039798"/>
         <updated>2023-10-07T00:41:51.181Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최민식도 흡족"…'마스크걸'·'카지노' 속 목소리 만든 수퍼톤 ①]]></title>
-        <id>https://v.daum.net/v/20231007090026794</id>
-        <link href="https://v.daum.net/v/20231007090026794"/>
-        <updated>2023-10-07T00:41:51.184Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신병2' 감독 “마지막회 신병 이름=전세계..시즌3? 원한다면”]]></title>
-        <id>https://v.daum.net/v/20231007085721722</id>
-        <link href="https://v.daum.net/v/20231007085721722"/>
-        <updated>2023-10-07T00:41:51.190Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
