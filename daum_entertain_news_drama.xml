@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T15:09:51.015Z</updated>
+    <updated>2023-10-07T16:11:18.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미, 가족 찾아 한국行…비행기도 멈추는 괴력 발휘]]></title>
+        <id>https://v.daum.net/v/20231008003017773</id>
+        <link href="https://v.daum.net/v/20231008003017773"/>
+        <updated>2023-10-07T16:11:06.628Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 ‘힘쎈여자 강남순’ 이유미, 힘+점프+스피드 다 가졌다..공항서 능력 발휘]]></title>
         <id>https://v.daum.net/v/20231008000644506</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231007133307765</id>
         <link href="https://v.daum.net/v/20231007133307765"/>
         <updated>2023-10-07T05:09:11.518Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘효심이네 각자도생’ 진상 회원 하준, 스윗남 떡상 가능할까]]></title>
-        <id>https://v.daum.net/v/20231007113746497</id>
-        <link href="https://v.daum.net/v/20231007113746497"/>
-        <updated>2023-10-07T03:10:23.018Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
