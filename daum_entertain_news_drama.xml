@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T20:10:55.067Z</updated>
+    <updated>2023-10-07T21:08:28.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 ‘힘쎈여자 강남순’ 김정은 이유미, 모전여전 괴력 히어로 탄생]]></title>
+        <id>https://v.daum.net/v/20231008060406169</id>
+        <link href="https://v.daum.net/v/20231008060406169"/>
+        <updated>2023-10-07T21:08:17.317Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정은 첫날밤 괴력 발휘에 이승준 패닉]]></title>
+        <id>https://v.daum.net/v/20231008060334167</id>
+        <link href="https://v.daum.net/v/20231008060334167"/>
+        <updated>2023-10-07T21:08:17.320Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미, 비행기 멈추는 괴력 발휘..母 김정은, 잃어버린 딸 기운 감지]]></title>
         <id>https://v.daum.net/v/20231008013021284</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231007141728451"/>
         <updated>2023-10-07T06:12:28.416Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우 "'사랑스럽개', 사탕 같아..마음 간질거리는 달달함 느껴"]]></title>
-        <id>https://v.daum.net/v/20231007135943163</id>
-        <link href="https://v.daum.net/v/20231007135943163"/>
-        <updated>2023-10-07T05:09:11.513Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘도 사랑스럽개' 차은우 "이번 작품은 사탕..마음 간질+달달"]]></title>
-        <id>https://v.daum.net/v/20231007135921162</id>
-        <link href="https://v.daum.net/v/20231007135921162"/>
-        <updated>2023-10-07T05:09:11.513Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
