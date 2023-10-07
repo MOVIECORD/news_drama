@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-07T02:16:15.775Z</updated>
+    <updated>2023-10-07T03:10:35.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘효심이네 각자도생’ 진상 회원 하준, 스윗남 떡상 가능할까]]></title>
+        <id>https://v.daum.net/v/20231007113746497</id>
+        <link href="https://v.daum.net/v/20231007113746497"/>
+        <updated>2023-10-07T03:10:23.018Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사장돌마트' 이세온, 직접 가창한 'Replay'→'편지' OST 음원 발매]]></title>
+        <id>https://v.daum.net/v/20231007113551469</id>
+        <link href="https://v.daum.net/v/20231007113551469"/>
+        <updated>2023-10-07T03:10:23.031Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정은, 잃어버린 딸 있었다 '극적 재회']]></title>
         <id>https://v.daum.net/v/20231007105301045</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231007074721183"/>
         <updated>2023-10-06T23:09:34.565Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서현, 드레스 입으니 우아한 공주 느낌...시대극 '도적'에 찰떡]]></title>
-        <id>https://v.daum.net/v/20231007070200747</id>
-        <link href="https://v.daum.net/v/20231007070200747"/>
-        <updated>2023-10-06T22:09:07.144Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500억 대작, 시청률 반토막 났다…연속 결방·편성 변경에 무너진 '아라문의 검']]></title>
-        <id>https://v.daum.net/v/20231007070101716</id>
-        <link href="https://v.daum.net/v/20231007070101716"/>
-        <updated>2023-10-06T22:09:07.145Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
