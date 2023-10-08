@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T16:11:43.798Z</updated>
+    <updated>2023-10-08T17:08:20.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미, 순탄치 않은 한국생활에 ‘눈물’..옹성우와 인연 시작]]></title>
+        <id>https://v.daum.net/v/20231009013027866</id>
+        <link href="https://v.daum.net/v/20231009013027866"/>
+        <updated>2023-10-08T17:08:08.902Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강남순' 이유미, 사기에 울고 옹성우에 웃었다... 친부 이승준과 깜짝 재회]]></title>
         <id>https://v.daum.net/v/20231008234730493</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231008204849657</id>
         <link href="https://v.daum.net/v/20231008204849657"/>
         <updated>2023-10-08T12:16:35.974Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["심장 터질 것 같아"…'무빙' 류승룡, 주연 배우상 영예]]></title>
-        <id>https://v.daum.net/v/20231008203725526</id>
-        <link href="https://v.daum.net/v/20231008203725526"/>
-        <updated>2023-10-08T12:16:35.977Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
