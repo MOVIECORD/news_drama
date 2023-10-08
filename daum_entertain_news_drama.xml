@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T06:13:59.361Z</updated>
+    <updated>2023-10-08T07:08:52.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김요한, 사이코패스 해커 된다..'가족계획' 합류]]></title>
+        <id>https://v.daum.net/v/20231008160101007</id>
+        <link href="https://v.daum.net/v/20231008160101007"/>
+        <updated>2023-10-08T07:08:41.653Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[려운, 기타 연주 비하인드 포착…쉬는 시간에도 맹연습]]></title>
+        <id>https://v.daum.net/v/20231008160100006</id>
+        <link href="https://v.daum.net/v/20231008160100006"/>
+        <updated>2023-10-08T07:08:41.655Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유이, 참을 만큼 참았다…김도연에 강력 펀치 예고]]></title>
         <id>https://v.daum.net/v/20231008145951200</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008103848561"/>
         <updated>2023-10-08T01:50:47.593Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“키스하면 犬 된다?” 차은우→박규영 ‘사랑스럽개’ 인물관계도 공개]]></title>
-        <id>https://v.daum.net/v/20231008102307378</id>
-        <link href="https://v.daum.net/v/20231008102307378"/>
-        <updated>2023-10-08T01:50:47.594Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맨손으로 비행기 사고 막고 韓 귀환 …‘힘쎈여자 강남순’ 4.3%로 출발]]></title>
-        <id>https://v.daum.net/v/20231008101936340</id>
-        <link href="https://v.daum.net/v/20231008101936340"/>
-        <updated>2023-10-08T01:50:47.595Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
