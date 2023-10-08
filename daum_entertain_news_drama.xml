@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T05:09:15.118Z</updated>
+    <updated>2023-10-08T06:13:59.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유이, 참을 만큼 참았다…김도연에 강력 펀치 예고]]></title>
+        <id>https://v.daum.net/v/20231008145951200</id>
+        <link href="https://v.daum.net/v/20231008145951200"/>
+        <updated>2023-10-08T06:12:56.703Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['손가락 하트' 려운→고두심 앞 공손한 최현욱..'반짝이는 워터멜론' 반짝반짝 비하인드]]></title>
+        <id>https://v.daum.net/v/20231008143222609</id>
+        <link href="https://v.daum.net/v/20231008143222609"/>
+        <updated>2023-10-08T06:12:56.706Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유치함과 통쾌함 사이, '강남순'은 빈약한 세계관을 극복할 수 있을까]]></title>
         <id>https://v.daum.net/v/20231008140121013</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008101936340"/>
         <updated>2023-10-08T01:50:47.595Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힘쎈여자 강남순' 이유미, 성공적인 '힘쎈' 신고식…시청률 4.3% 출발]]></title>
-        <id>https://v.daum.net/v/20231008093358800</id>
-        <link href="https://v.daum.net/v/20231008093358800"/>
-        <updated>2023-10-08T00:45:22.124Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 간 '비질란테', 군복무 남주혁→유지태 "韓컨텐츠 위력 보여줄 것"]]></title>
-        <id>https://v.daum.net/v/20231008085307316</id>
-        <link href="https://v.daum.net/v/20231008085307316"/>
-        <updated>2023-10-08T00:45:22.124Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
