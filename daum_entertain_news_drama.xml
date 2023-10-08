@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T22:08:36.003Z</updated>
+    <updated>2023-10-08T23:10:30.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유이 '사고 친' 막내 김도연 단속 "父 없으니 더 똑바로 살아야"]]></title>
+        <id>https://v.daum.net/v/20231009075559810</id>
+        <link href="https://v.daum.net/v/20231009075559810"/>
+        <updated>2023-10-08T23:09:27.493Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 고주원, ♥유이 두고 하준과 신경전…본격 삼각관계]]></title>
+        <id>https://v.daum.net/v/20231009073002617</id>
+        <link href="https://v.daum.net/v/20231009073002617"/>
+        <updated>2023-10-08T23:09:27.510Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옹성우, 군백기에도 빛나는 존재감..한강 지구대 열혈 형사 변신]]></title>
         <id>https://v.daum.net/v/20231009070729481</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008234345481"/>
         <updated>2023-10-08T15:09:08.271Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 몽골서 들고 온 요술봉 '황금'이었다…옹성우 "돈 벌 필요 無"]]></title>
-        <id>https://v.daum.net/v/20231008233851451</id>
-        <link href="https://v.daum.net/v/20231008233851451"/>
-        <updated>2023-10-08T15:09:08.271Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옹성우, 여장+수유실 가며 마약 수사…도주극까지 벌였다]]></title>
-        <id>https://v.daum.net/v/20231008231257360</id>
-        <link href="https://v.daum.net/v/20231008231257360"/>
-        <updated>2023-10-08T15:09:08.273Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
