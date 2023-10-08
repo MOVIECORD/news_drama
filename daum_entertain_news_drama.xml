@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T00:46:24.902Z</updated>
+    <updated>2023-10-08T01:51:26.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["댕며드는 로맨스"..차은우x박규영, 특별한 저주로 엮인 인물관계도]]></title>
+        <id>https://v.daum.net/v/20231008103848561</id>
+        <link href="https://v.daum.net/v/20231008103848561"/>
+        <updated>2023-10-08T01:50:47.593Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“키스하면 犬 된다?” 차은우→박규영 ‘사랑스럽개’ 인물관계도 공개]]></title>
+        <id>https://v.daum.net/v/20231008102307378</id>
+        <link href="https://v.daum.net/v/20231008102307378"/>
+        <updated>2023-10-08T01:50:47.594Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맨손으로 비행기 사고 막고 韓 귀환 …‘힘쎈여자 강남순’ 4.3%로 출발]]></title>
+        <id>https://v.daum.net/v/20231008101936340</id>
+        <link href="https://v.daum.net/v/20231008101936340"/>
+        <updated>2023-10-08T01:50:47.595Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['힘쎈여자 강남순' 이유미, 성공적인 '힘쎈' 신고식…시청률 4.3% 출발]]></title>
         <id>https://v.daum.net/v/20231008093358800</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231008075416835"/>
         <updated>2023-10-07T23:09:03.617Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힘쎈여자 강남순' 이유미, 더 강력해진 '슈퍼 히어로'의 등장]]></title>
-        <id>https://v.daum.net/v/20231008071512654</id>
-        <link href="https://v.daum.net/v/20231008071512654"/>
-        <updated>2023-10-07T23:09:03.619Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미 한국行→김정은, 친딸 기운 감지…가짜 딸 정체 알아채나]]></title>
-        <id>https://v.daum.net/v/20231008071004625</id>
-        <link href="https://v.daum.net/v/20231008071004625"/>
-        <updated>2023-10-07T23:09:03.620Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오겜' 찍고 안방접수한 '힘쎈여자 강남순' 이유미, 첫 방송 어땠나]]></title>
-        <id>https://v.daum.net/v/20231008070535601</id>
-        <link href="https://v.daum.net/v/20231008070535601"/>
-        <updated>2023-10-07T22:08:42.438Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
