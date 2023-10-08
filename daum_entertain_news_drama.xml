@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-08T01:51:26.046Z</updated>
+    <updated>2023-10-08T02:19:50.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유이, 참을 만큼 참았다..사채빚→외제차→교통사고]]></title>
+        <id>https://v.daum.net/v/20231008111643083</id>
+        <link href="https://v.daum.net/v/20231008111643083"/>
+        <updated>2023-10-08T02:19:37.927Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유이, "참을 만큼 참았다!"...김도연에 강력 펀치]]></title>
+        <id>https://v.daum.net/v/20231008111156995</id>
+        <link href="https://v.daum.net/v/20231008111156995"/>
+        <updated>2023-10-08T02:19:37.947Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["댕며드는 로맨스"..차은우x박규영, 특별한 저주로 엮인 인물관계도]]></title>
         <id>https://v.daum.net/v/20231008103848561</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008075931878"/>
         <updated>2023-10-07T23:09:03.614Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 ‘힘쎈여자 강남순’ 시청률 4.3%로 출발…비지상파 1위]]></title>
-        <id>https://v.daum.net/v/20231008075858869</id>
-        <link href="https://v.daum.net/v/20231008075858869"/>
-        <updated>2023-10-07T23:09:03.615Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 더 강력해진 ‘슈퍼 히어로’ 등장..K-히어로물 접수]]></title>
-        <id>https://v.daum.net/v/20231008075416835</id>
-        <link href="https://v.daum.net/v/20231008075416835"/>
-        <updated>2023-10-07T23:09:03.617Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
