@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-09T04:12:51.623Z</updated>
+    <updated>2023-10-09T05:10:02.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['워터멜론' 최현욱, 신은수 오해했다..폭우 속 오열]]></title>
+        <id>https://v.daum.net/v/20231009135404998</id>
+        <link href="https://v.daum.net/v/20231009135404998"/>
+        <updated>2023-10-09T05:09:51.805Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이도겸, 도둑고양이 남상지와 영화관서 첫 데이트?]]></title>
+        <id>https://v.daum.net/v/20231009133800734</id>
+        <link href="https://v.daum.net/v/20231009133800734"/>
+        <updated>2023-10-09T05:09:51.812Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장동건, 모든 순간이 美쳤다]]></title>
         <id>https://v.daum.net/v/20231009124321963</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231009081422028"/>
         <updated>2023-10-09T00:43:16.276Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 옹성우에 반했나? “잘생겼어. 내 스타일”..母 찾기 돌입]]></title>
-        <id>https://v.daum.net/v/20231009080922991</id>
-        <link href="https://v.daum.net/v/20231009080922991"/>
-        <updated>2023-10-09T00:43:16.281Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유이 '사고 친' 막내 김도연 단속 "父 없으니 더 똑바로 살아야"]]></title>
-        <id>https://v.daum.net/v/20231009075559810</id>
-        <link href="https://v.daum.net/v/20231009075559810"/>
-        <updated>2023-10-08T23:09:27.493Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
