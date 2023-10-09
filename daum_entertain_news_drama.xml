@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-09T13:16:16.140Z</updated>
+    <updated>2023-10-09T14:10:20.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남상지 극단 관뒀다는 말에 이도겸 "미래, 희망 없는 곳...다른데 알아봐라"]]></title>
+        <id>https://v.daum.net/v/20231009223431525</id>
+        <link href="https://v.daum.net/v/20231009223431525"/>
+        <updated>2023-10-09T14:10:10.125Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반짝이는 워터멜론' 려운X최현욱X설인아X신은수, 과거 바뀌기 시작했다]]></title>
         <id>https://v.daum.net/v/20231009221307358</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009143603811"/>
         <updated>2023-10-09T06:14:13.268Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우X박규영 로맨스 어떨까..'오늘도 사랑스럽개', 관전 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20231009143510801</id>
-        <link href="https://v.daum.net/v/20231009143510801"/>
-        <updated>2023-10-09T06:14:13.272Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
