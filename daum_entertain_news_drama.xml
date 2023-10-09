@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-09T03:11:03.869Z</updated>
+    <updated>2023-10-09T04:12:51.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장동건, 모든 순간이 美쳤다]]></title>
+        <id>https://v.daum.net/v/20231009124321963</id>
+        <link href="https://v.daum.net/v/20231009124321963"/>
+        <updated>2023-10-09T04:12:40.816Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤계상, 이렇게 능청스러운 배우였나…장첸 잊게하는 코믹연기]]></title>
         <id>https://v.daum.net/v/20231009114830246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009075559810"/>
         <updated>2023-10-08T23:09:27.493Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네' 고주원, ♥유이 두고 하준과 신경전…본격 삼각관계]]></title>
-        <id>https://v.daum.net/v/20231009073002617</id>
-        <link href="https://v.daum.net/v/20231009073002617"/>
-        <updated>2023-10-08T23:09:27.510Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
