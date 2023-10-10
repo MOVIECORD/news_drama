@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-10T10:11:27.383Z</updated>
+    <updated>2023-10-10T11:09:04.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 정우연, 김유석 때문에 납치... 하혈 후 혼절]]></title>
+        <id>https://v.daum.net/v/20231010195630237</id>
+        <link href="https://v.daum.net/v/20231010195630237"/>
+        <updated>2023-10-10T11:08:51.745Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 탈출’ 측 “지금껏 충격 시작에 불과, 이제부터 진짜다”]]></title>
+        <id>https://v.daum.net/v/20231010195116093</id>
+        <link href="https://v.daum.net/v/20231010195116093"/>
+        <updated>2023-10-10T11:08:51.761Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕관 벗겨진 KBS 주말극…17년만 최악의 시청률, 한 자릿수 위기 '효심이네']]></title>
         <id>https://v.daum.net/v/20231010190101827</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231010170837423"/>
         <updated>2023-10-10T08:13:11.001Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설인아, 려운·최현욱에 태세 전환…"모든 걸 끝내려 韓으로"]]></title>
-        <id>https://v.daum.net/v/20231010170637359</id>
-        <link href="https://v.daum.net/v/20231010170637359"/>
-        <updated>2023-10-10T08:13:11.004Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우영우’ 털보사장 맞아? 임성재 ‘최악의악’선 냉혈한 조직원]]></title>
-        <id>https://v.daum.net/v/20231010170356251</id>
-        <link href="https://v.daum.net/v/20231010170356251"/>
-        <updated>2023-10-10T08:13:11.004Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
