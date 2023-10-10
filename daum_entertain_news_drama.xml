@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-10T01:44:12.817Z</updated>
+    <updated>2023-10-10T02:18:20.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 로운 "코미디 해보고 싶었다…'연모' 때와 다른 인격처럼 보이고 싶어"]]></title>
+        <id>https://v.daum.net/v/20231010105852553</id>
+        <link href="https://v.daum.net/v/20231010105852553"/>
+        <updated>2023-10-10T02:17:17.713Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 로운 "'연모'와 다른 코미디 사극…조이현과 함께 해 영광"]]></title>
+        <id>https://v.daum.net/v/20231010104952083</id>
+        <link href="https://v.daum.net/v/20231010104952083"/>
+        <updated>2023-10-10T02:17:17.715Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 파트2 시작 전, 애절 멜로 서사 되짚기…"날 잊지 마시오"]]></title>
         <id>https://v.daum.net/v/20231010101012262</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231010090707699"/>
         <updated>2023-10-10T00:42:20.397Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘도 사랑스럽개' 차은우·박규영, 댕며드는 '멍냥꽁냥' 로맨스]]></title>
-        <id>https://v.daum.net/v/20231010090203538</id>
-        <link href="https://v.daum.net/v/20231010090203538"/>
-        <updated>2023-10-10T00:42:20.399Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선 유교걸 이세영, 이중 매력 폭발 티저 포스터]]></title>
-        <id>https://v.daum.net/v/20231010083438732</id>
-        <link href="https://v.daum.net/v/20231010083438732"/>
-        <updated>2023-10-10T00:42:20.401Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
