@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T16:13:49.683Z</updated>
+    <updated>2023-10-11T17:10:29.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영, 차은우 조카 윤현수에 개 변신 들켜···험난해진 저주 풀기]]></title>
+        <id>https://v.daum.net/v/20231012013024617</id>
+        <link href="https://v.daum.net/v/20231012013024617"/>
+        <updated>2023-10-11T17:09:26.160Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['악마' 송강과 계약결혼 하는 '상속녀' 김유정...판타지 로코 '마이데몬' 나온다]]></title>
         <id>https://v.daum.net/v/20231012010101451</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011212711867"/>
         <updated>2023-10-11T13:14:31.136Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 손성윤, 한지완 가짜 父 만났다..들통 위기]]></title>
-        <id>https://v.daum.net/v/20231011205523362</id>
-        <link href="https://v.daum.net/v/20231011205523362"/>
-        <updated>2023-10-11T12:18:40.175Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
