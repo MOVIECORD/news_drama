@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T06:13:54.618Z</updated>
+    <updated>2023-10-11T07:10:08.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콩콩팥팥' 이광수 "조효진·이보필·정철민 아닌 나영석 PD 선택 이유는…"]]></title>
+        <id>https://v.daum.net/v/20231011160945189</id>
+        <link href="https://v.daum.net/v/20231011160945189"/>
+        <updated>2023-10-11T07:09:57.981Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 스페셜 '극야', 평범한 삶 뒤흔든 질문으로 시작된 '영혼의 긴 밤']]></title>
+        <id>https://v.daum.net/v/20231011153919884</id>
+        <link href="https://v.daum.net/v/20231011153919884"/>
+        <updated>2023-10-11T07:09:57.982Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['콩콩팥팥' 김우빈 "첫 고정 예능, 긴장돼…시즌7까지는 가야"]]></title>
+        <id>https://v.daum.net/v/20231011153016459</id>
+        <link href="https://v.daum.net/v/20231011153016459"/>
+        <updated>2023-10-11T07:09:57.984Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우·박규영·이현우 ‘오늘도 사랑스럽개’, 시청률 8% 뛰어넘을까]]></title>
         <id>https://v.daum.net/v/20231011151207705</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231011142711570"/>
         <updated>2023-10-11T06:13:42.473Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼굴 천재' 차은우, 키스할 수 없는 박규영에게 반하다 '오늘도 사랑스럽개']]></title>
-        <id>https://v.daum.net/v/20231011142512468</id>
-        <link href="https://v.daum.net/v/20231011142512468"/>
-        <updated>2023-10-11T06:13:42.476Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘도 사랑스럽개' PD "차은우→박규영 캐스팅, 원작자도 대만족"]]></title>
-        <id>https://v.daum.net/v/20231011142306361</id>
-        <link href="https://v.daum.net/v/20231011142306361"/>
-        <updated>2023-10-11T06:13:42.478Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오사개' 감독 "차은우=똑똑한 배우, 주 1회 드라마 좋은 선례 되길"]]></title>
-        <id>https://v.daum.net/v/20231011142304358</id>
-        <link href="https://v.daum.net/v/20231011142304358"/>
-        <updated>2023-10-11T06:13:42.481Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
