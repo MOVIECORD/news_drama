@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T09:10:50.829Z</updated>
+    <updated>2023-10-11T10:11:06.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["집 제공했으니 제외"vs"음식은 음식" 술값논란..한지효 '분노']]></title>
+        <id>https://v.daum.net/v/20231011190258507</id>
+        <link href="https://v.daum.net/v/20231011190258507"/>
+        <updated>2023-10-11T10:10:56.156Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남상지X이도겸, 점차 스며든다…로맨스 시동]]></title>
         <id>https://v.daum.net/v/20231011175214657</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011150243277"/>
         <updated>2023-10-11T06:13:42.441Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콩콩팥팥' 나영석 PD "막내 도경수, 형들 말 한마디도 안 들어"]]></title>
-        <id>https://v.daum.net/v/20231011150206259</id>
-        <link href="https://v.daum.net/v/20231011150206259"/>
-        <updated>2023-10-11T06:13:42.451Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
