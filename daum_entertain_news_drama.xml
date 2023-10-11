@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T08:14:08.628Z</updated>
+    <updated>2023-10-11T09:10:50.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남상지X이도겸, 점차 스며든다…로맨스 시동]]></title>
+        <id>https://v.daum.net/v/20231011175214657</id>
+        <link href="https://v.daum.net/v/20231011175214657"/>
+        <updated>2023-10-11T09:10:39.866Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우♥박규영, 서서히 '댕며든다'…예측불허 판타지 로맨스 '오사개']]></title>
+        <id>https://v.daum.net/v/20231011175131614</id>
+        <link href="https://v.daum.net/v/20231011175131614"/>
+        <updated>2023-10-11T09:10:39.870Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 윤재찬, 까칠함부터 천재 베이시스트까지…폭넓은 스펙트럼]]></title>
+        <id>https://v.daum.net/v/20231011174902521</id>
+        <link href="https://v.daum.net/v/20231011174902521"/>
+        <updated>2023-10-11T09:10:39.874Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 남규홍 PD "16기 인기? 또 깨질 것…빌런 집착 NO"]]></title>
+        <id>https://v.daum.net/v/20231011172245538</id>
+        <link href="https://v.daum.net/v/20231011172245538"/>
+        <updated>2023-10-11T09:10:39.874Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민 ‘연인2’ 첫방 홍보 박차 “미안 나는 잘 나온 것 같아서”]]></title>
         <id>https://v.daum.net/v/20231011170739910</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231011150206259"/>
         <updated>2023-10-11T06:13:42.451Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유느님과 정면 대결"…댕며드는 차은우♥박규영의 자신감]]></title>
-        <id>https://v.daum.net/v/20231011145433930</id>
-        <link href="https://v.daum.net/v/20231011145433930"/>
-        <updated>2023-10-11T06:13:42.454Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콩콩팥팥' 이광수 "차태현·조인성 '어쩌다 사장2'=숨통 조임"]]></title>
-        <id>https://v.daum.net/v/20231011144841673</id>
-        <link href="https://v.daum.net/v/20231011144841673"/>
-        <updated>2023-10-11T06:13:42.456Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘유퀴즈’ 큰 걱정 안돼, 시청률 10% 나오길” 수요극 ‘오사개’의 자신감]]></title>
-        <id>https://v.daum.net/v/20231011144345434</id>
-        <link href="https://v.daum.net/v/20231011144345434"/>
-        <updated>2023-10-11T06:13:42.458Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오사개’ 이현우 “‘유퀴즈’와 대결? 유재석 사랑합니다” 깜짝 고백]]></title>
-        <id>https://v.daum.net/v/20231011143310886</id>
-        <link href="https://v.daum.net/v/20231011143310886"/>
-        <updated>2023-10-11T06:13:42.463Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
