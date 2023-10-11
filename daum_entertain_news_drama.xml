@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-11T11:08:51.515Z</updated>
+    <updated>2023-10-11T12:18:51.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 손성윤, 한지완 가짜 父 만났다..들통 위기]]></title>
+        <id>https://v.daum.net/v/20231011205523362</id>
+        <link href="https://v.daum.net/v/20231011205523362"/>
+        <updated>2023-10-11T12:18:40.175Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tvN 수목극, 이대로 사라지나.."폐지·부활, 정해진바 없어"]]></title>
+        <id>https://v.daum.net/v/20231011204353133</id>
+        <link href="https://v.daum.net/v/20231011204353133"/>
+        <updated>2023-10-11T12:18:40.177Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 방형주, 강율·김솔비 관계 의심 "일부러 접근했지"]]></title>
+        <id>https://v.daum.net/v/20231011202231710</id>
+        <link href="https://v.daum.net/v/20231011202231710"/>
+        <updated>2023-10-11T12:18:40.178Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 죽다 살아난 정한용, 결국 사망... 김유석, 용의자로 체포]]></title>
         <id>https://v.daum.net/v/20231011195130282</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231011160945189"/>
         <updated>2023-10-11T07:09:57.981Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 스페셜 '극야', 평범한 삶 뒤흔든 질문으로 시작된 '영혼의 긴 밤']]></title>
-        <id>https://v.daum.net/v/20231011153919884</id>
-        <link href="https://v.daum.net/v/20231011153919884"/>
-        <updated>2023-10-11T07:09:57.982Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콩콩팥팥' 김우빈 "첫 고정 예능, 긴장돼…시즌7까지는 가야"]]></title>
-        <id>https://v.daum.net/v/20231011153016459</id>
-        <link href="https://v.daum.net/v/20231011153016459"/>
-        <updated>2023-10-11T07:09:57.984Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우·박규영·이현우 ‘오늘도 사랑스럽개’, 시청률 8% 뛰어넘을까]]></title>
-        <id>https://v.daum.net/v/20231011151207705</id>
-        <link href="https://v.daum.net/v/20231011151207705"/>
-        <updated>2023-10-11T06:13:42.439Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
