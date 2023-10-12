@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-12T16:13:11.478Z</updated>
+    <updated>2023-10-12T17:09:20.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조이현 "나는 찐 내향인…파워 외향인 연기 위해 노력"]]></title>
+        <id>https://v.daum.net/v/20231013020031629</id>
+        <link href="https://v.daum.net/v/20231013020031629"/>
+        <updated>2023-10-12T17:09:08.610Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이연불’ 로운♥조보아 “300년 전부터…” 청혼으로 해피엔딩]]></title>
         <id>https://v.daum.net/v/20231013000015893</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012162152650"/>
         <updated>2023-10-12T08:13:31.670Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승윤, '복수귀' 정유민 전 남편된다]]></title>
-        <id>https://v.daum.net/v/20231012160623914</id>
-        <link href="https://v.daum.net/v/20231012160623914"/>
-        <updated>2023-10-12T07:10:13.793Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
