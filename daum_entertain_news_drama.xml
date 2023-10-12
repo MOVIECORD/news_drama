@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-12T19:08:16.106Z</updated>
+    <updated>2023-10-12T20:10:17.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박해진, "사형투표를 만든 진짜 개탈은 OOO"…개탈 정체 알았다]]></title>
+        <id>https://v.daum.net/v/20231013042700109</id>
+        <link href="https://v.daum.net/v/20231013042700109"/>
+        <updated>2023-10-12T20:10:07.098Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박해진, '유력한 개탈 후보' 김권 '살인 혐의'로 긴급 체포]]></title>
+        <id>https://v.daum.net/v/20231013041800104</id>
+        <link href="https://v.daum.net/v/20231013041800104"/>
+        <updated>2023-10-12T20:10:07.098Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조이현 "나는 찐 내향인…파워 외향인 연기 위해 노력"]]></title>
         <id>https://v.daum.net/v/20231013020031629</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231012172100711"/>
         <updated>2023-10-12T09:10:40.459Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계관 확장→코믹 열연 ‘강남순’ 안방 사로잡은 매력 살펴보니]]></title>
-        <id>https://v.daum.net/v/20231012165246421</id>
-        <link href="https://v.daum.net/v/20231012165246421"/>
-        <updated>2023-10-12T08:13:31.649Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민·윤계상에 이어 이유미까지, 아이 같은 영웅들의 전성시대]]></title>
-        <id>https://v.daum.net/v/20231012162152650</id>
-        <link href="https://v.daum.net/v/20231012162152650"/>
-        <updated>2023-10-12T08:13:31.670Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
