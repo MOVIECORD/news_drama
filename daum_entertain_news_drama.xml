@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-12T14:10:06.931Z</updated>
+    <updated>2023-10-12T15:10:33.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이연불’ 로운♥조보아 “300년 전부터…” 청혼으로 해피엔딩]]></title>
+        <id>https://v.daum.net/v/20231013000015893</id>
+        <link href="https://v.daum.net/v/20231013000015893"/>
+        <updated>2023-10-12T15:10:21.536Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해진 "사형투표 만든 진짜 개탈은 박성웅"...임지연 '충격']]></title>
+        <id>https://v.daum.net/v/20231012235002833</id>
+        <link href="https://v.daum.net/v/20231012235002833"/>
+        <updated>2023-10-12T15:10:21.539Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진짜 개탈은 박성웅...새로운 사형 투표 타깃은 박해진]]></title>
         <id>https://v.daum.net/v/20231012225006416</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231012160623914"/>
         <updated>2023-10-12T07:10:13.793Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재원·최성원 '극야', 관전 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20231012153706370</id>
-        <link href="https://v.daum.net/v/20231012153706370"/>
-        <updated>2023-10-12T07:10:13.793Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종이 최수종했다…범접불가 카리스마 강감찬]]></title>
-        <id>https://v.daum.net/v/20231012145504449</id>
-        <link href="https://v.daum.net/v/20231012145504449"/>
-        <updated>2023-10-12T06:13:29.359Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
