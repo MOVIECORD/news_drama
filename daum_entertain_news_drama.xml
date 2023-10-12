@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-12T12:18:49.291Z</updated>
+    <updated>2023-10-12T13:13:46.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["물건 팔아먹으려고 쌩쑈는" 잃어버린 딸 TV 쇼호스트로 등장했지만...]]></title>
+        <id>https://v.daum.net/v/20231012212331449</id>
+        <link href="https://v.daum.net/v/20231012212331449"/>
+        <updated>2023-10-12T13:13:34.986Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 손성윤, 복수화신 한지완 약점 잡았다 "일본인 양부, 가짜"]]></title>
         <id>https://v.daum.net/v/20231012202130505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012143708758"/>
         <updated>2023-10-12T06:13:29.362Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운, 납치된 조보아 구하고 해피엔딩?‥‘불가항력’ 종영 D-day]]></title>
-        <id>https://v.daum.net/v/20231012142230180</id>
-        <link href="https://v.daum.net/v/20231012142230180"/>
-        <updated>2023-10-12T06:13:29.368Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
