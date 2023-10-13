@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-13T02:21:26.779Z</updated>
+    <updated>2023-10-13T03:12:12.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘로코 여신 탄생’ 조보아 “외로움 속 희망적이었던 홍조”]]></title>
+        <id>https://v.daum.net/v/20231013115201825</id>
+        <link href="https://v.daum.net/v/20231013115201825"/>
+        <updated>2023-10-13T03:11:09.206Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허성태 "문자 읽씹 친구...뜨니까 결혼식 사회 보라고" 토로]]></title>
+        <id>https://v.daum.net/v/20231013115013728</id>
+        <link href="https://v.daum.net/v/20231013115013728"/>
+        <updated>2023-10-13T03:11:09.211Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고현정과 불화' 주동민, 김순옥 작가와 이별…'7인의 탈출' 감독 교체에 쏠린 시선]]></title>
+        <id>https://v.daum.net/v/20231013114301472</id>
+        <link href="https://v.daum.net/v/20231013114301472"/>
+        <updated>2023-10-13T03:11:09.214Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여고생 학교 출산·마약..논란의 '7인의 탈출' 감독마저 하차 '혼돈의 도가니']]></title>
+        <id>https://v.daum.net/v/20231013114214430</id>
+        <link href="https://v.daum.net/v/20231013114214430"/>
+        <updated>2023-10-13T03:11:09.219Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도봉순 커플' 박보영♥박형식, '힘쎈여자 강남순' 특별출연]]></title>
         <id>https://v.daum.net/v/20231013111955561</id>
@@ -13,7 +41,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박보영♥박형식, 6년만에 재회..벌써 설레는 '힘쎈여자 강남순' 특별출연]]></title>
+        <title type="html"><![CDATA['도봉순' 박보영♥박형식, 6년만에 재회..벌써 설레는 '힘쎈여자 강남순' 특별출연]]></title>
         <id>https://v.daum.net/v/20231013111418278</id>
         <link href="https://v.daum.net/v/20231013111418278"/>
         <updated>2023-10-13T02:21:09.173Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231013103322550"/>
         <updated>2023-10-13T01:49:46.364Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옷소매' 정지인 PD, MBC 떠난다…사직서 제출]]></title>
-        <id>https://v.daum.net/v/20231013103320548</id>
-        <link href="https://v.daum.net/v/20231013103320548"/>
-        <updated>2023-10-13T01:49:46.370Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 김신록, 새로운 용의자로 떠올랐다…뒤바뀐 윤계상 운명]]></title>
-        <id>https://v.daum.net/v/20231013101306718</id>
-        <link href="https://v.daum.net/v/20231013101306718"/>
-        <updated>2023-10-13T01:49:46.371Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 주동민 감독 교체? "확인중"]]></title>
-        <id>https://v.daum.net/v/20231013100112231</id>
-        <link href="https://v.daum.net/v/20231013100112231"/>
-        <updated>2023-10-13T01:49:46.372Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년 만에 돌아온 박보영♥박형식, 특별출연]]></title>
-        <id>https://v.daum.net/v/20231013095902105</id>
-        <link href="https://v.daum.net/v/20231013095902105"/>
-        <updated>2023-10-13T01:49:46.373Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
