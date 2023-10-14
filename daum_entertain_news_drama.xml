@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-14T08:13:10.866Z</updated>
+    <updated>2023-10-14T09:09:52.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[막장은 막장, 엄기준은 엄기준..'7인의 탈출' 측 "오래 공들인 매튜리 복수타임"]]></title>
+        <id>https://v.daum.net/v/20231014175120496</id>
+        <link href="https://v.daum.net/v/20231014175120496"/>
+        <updated>2023-10-14T09:08:49.244Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영광 “신하균과 첫 만남, 무서워 보이도록 애썼다”]]></title>
         <id>https://v.daum.net/v/20231014163954557</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231014130602295"/>
         <updated>2023-10-14T04:11:54.655Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘로키2’ 뒤엉킨 시간선 속 로키X실비 전격 재회]]></title>
-        <id>https://v.daum.net/v/20231014130410285</id>
-        <link href="https://v.daum.net/v/20231014130410285"/>
-        <updated>2023-10-14T04:11:54.655Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
