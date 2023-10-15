@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T07:09:58.531Z</updated>
+    <updated>2023-10-15T08:12:31.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재원 ‘극야’ 갈림길에 선 한 가장의 삶, 가슴 먹먹한 엔딩]]></title>
+        <id>https://v.daum.net/v/20231015171108338</id>
+        <link href="https://v.daum.net/v/20231015171108338"/>
+        <updated>2023-10-15T08:11:28.650Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유지연 ‘연인’ 속 강렬 임팩트, 안은진 향한 끔찍한 악행]]></title>
+        <id>https://v.daum.net/v/20231015170700241</id>
+        <link href="https://v.daum.net/v/20231015170700241"/>
+        <updated>2023-10-15T08:11:28.650Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김옥빈, 지금까지 이런 왕후는 없었다]]></title>
         <id>https://v.daum.net/v/20231015160024845</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231015131617671</id>
         <link href="https://v.daum.net/v/20231015131617671"/>
         <updated>2023-10-15T05:09:15.070Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연인’ 남궁민-지승현 사이 ‘환향녀’ 안은진..뻔한 연정 ‘가련’]]></title>
-        <id>https://v.daum.net/v/20231015124701353</id>
-        <link href="https://v.daum.net/v/20231015124701353"/>
-        <updated>2023-10-15T04:11:27.783Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조윤희, 악인 본색 드러냈다..어긋난 모성애 담은 야망 눈빛]]></title>
-        <id>https://v.daum.net/v/20231015112028271</id>
-        <link href="https://v.daum.net/v/20231015112028271"/>
-        <updated>2023-10-15T03:09:55.346Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
