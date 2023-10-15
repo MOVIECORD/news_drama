@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T09:09:12.737Z</updated>
+    <updated>2023-10-15T10:09:49.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘극야’ 이재원, 깊은 여운 남긴 한 가장의 삶…현실적 공감 선사]]></title>
+        <id>https://v.daum.net/v/20231015185401127</id>
+        <link href="https://v.daum.net/v/20231015185401127"/>
+        <updated>2023-10-15T10:09:37.876Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준 "엄기준, '7인의 탈출' 속 착한 역할...욕 할 수 없어"]]></title>
+        <id>https://v.daum.net/v/20231015182427796</id>
+        <link href="https://v.daum.net/v/20231015182427796"/>
+        <updated>2023-10-15T10:09:37.877Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영광, 손끝 발끝까지 모조리 악인]]></title>
         <id>https://v.daum.net/v/20231015180002239</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231015134637169"/>
         <updated>2023-10-15T05:09:15.068Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데블스 플랜' 정종연 PD "김동재 탈락→이시원 올인·하석진 각성, 드라마 같아" ②]]></title>
-        <id>https://v.daum.net/v/20231015133943042</id>
-        <link href="https://v.daum.net/v/20231015133943042"/>
-        <updated>2023-10-15T05:09:15.068Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데블스 플랜' 정종연 PD "궤도 공리주의, 서바이벌 하면서 처음" ①]]></title>
-        <id>https://v.daum.net/v/20231015133909035</id>
-        <link href="https://v.daum.net/v/20231015133909035"/>
-        <updated>2023-10-15T05:09:15.070Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
