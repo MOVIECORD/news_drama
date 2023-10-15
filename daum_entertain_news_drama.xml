@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T10:09:49.491Z</updated>
+    <updated>2023-10-15T11:08:27.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전수경, 옹성우 母된다..오늘 '힘쎈여자 강남순' 특별 출연]]></title>
+        <id>https://v.daum.net/v/20231015193515604</id>
+        <link href="https://v.daum.net/v/20231015193515604"/>
+        <updated>2023-10-15T11:08:15.535Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘극야’ 이재원, 깊은 여운 남긴 한 가장의 삶…현실적 공감 선사]]></title>
         <id>https://v.daum.net/v/20231015185401127</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015134641171"/>
         <updated>2023-10-15T05:09:15.068Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아라문의 검’ 대전쟁 시작한 장동건-이준기, 협상 테이블 앉는다]]></title>
-        <id>https://v.daum.net/v/20231015134637169</id>
-        <link href="https://v.daum.net/v/20231015134637169"/>
-        <updated>2023-10-15T05:09:15.068Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
