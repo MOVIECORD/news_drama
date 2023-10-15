@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T05:09:25.268Z</updated>
+    <updated>2023-10-15T06:12:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아라문의 검' 장동건, 이준기에 파격 제안 던진다]]></title>
+        <id>https://v.daum.net/v/20231015143025984</id>
+        <link href="https://v.daum.net/v/20231015143025984"/>
+        <updated>2023-10-15T06:12:24.001Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['친母' 김정은과 재회한 이유미, 옹성우와 잠임 수사]]></title>
+        <id>https://v.daum.net/v/20231015141902746</id>
+        <link href="https://v.daum.net/v/20231015141902746"/>
+        <updated>2023-10-15T06:12:24.002Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오빤 강남스타일? 이유미는 몽골스타일!]]></title>
         <id>https://v.daum.net/v/20231015140837614</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231015110028970"/>
         <updated>2023-10-15T02:20:29.342Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신개념 공포, 이유비]]></title>
-        <id>https://v.daum.net/v/20231015110006926</id>
-        <link href="https://v.daum.net/v/20231015110006926"/>
-        <updated>2023-10-15T02:20:29.343Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[착한 조윤희는 잊어라]]></title>
-        <id>https://v.daum.net/v/20231015105201822</id>
-        <link href="https://v.daum.net/v/20231015105201822"/>
-        <updated>2023-10-15T02:20:29.343Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
