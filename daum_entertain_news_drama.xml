@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-15T02:20:40.371Z</updated>
+    <updated>2023-10-15T03:10:58.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조윤희, 악인 본색 드러냈다..어긋난 모성애 담은 야망 눈빛]]></title>
+        <id>https://v.daum.net/v/20231015112028271</id>
+        <link href="https://v.daum.net/v/20231015112028271"/>
+        <updated>2023-10-15T03:09:55.346Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭풍오열로 앓아누운 유이, 건강 적신호 켜졌다]]></title>
         <id>https://v.daum.net/v/20231015110629081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015083935107"/>
         <updated>2023-10-15T00:46:20.718Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선 넘는 악인 신하균vs선 밟는 악인 김영광 ‘강렬 만남’]]></title>
-        <id>https://v.daum.net/v/20231015083815097</id>
-        <link href="https://v.daum.net/v/20231015083815097"/>
-        <updated>2023-10-15T00:46:20.723Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
