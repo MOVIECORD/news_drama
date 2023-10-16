@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T02:21:08.328Z</updated>
+    <updated>2023-10-16T03:12:09.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제작비 460억은 누가 어디에 쓰고 또 이 괴작을 방치하고 있나]]></title>
+        <id>https://v.daum.net/v/20231016115649253</id>
+        <link href="https://v.daum.net/v/20231016115649253"/>
+        <updated>2023-10-16T03:11:06.126Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['강남순' 시청률 고공행진, '힘쎈' 시리즈 제 값 톡톡히]]></title>
+        <id>https://v.daum.net/v/20231016115005001</id>
+        <link href="https://v.daum.net/v/20231016115005001"/>
+        <updated>2023-10-16T03:11:06.126Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문채원, 허위사실 유포자 추가 고소...무관용 원칙]]></title>
         <id>https://v.daum.net/v/20231016111155270</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231016082920375"/>
         <updated>2023-10-16T00:43:59.198Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대하사극 '고려 거란 전쟁' 김동준 "사명감 갖고 촬영 중"]]></title>
-        <id>https://v.daum.net/v/20231016082842368</id>
-        <link href="https://v.daum.net/v/20231016082842368"/>
-        <updated>2023-10-16T00:43:59.222Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준기, 목숨 걸고 역공 성공…장동건, 아스숲 저주에 당했다]]></title>
-        <id>https://v.daum.net/v/20231016082402244</id>
-        <link href="https://v.daum.net/v/20231016082402244"/>
-        <updated>2023-10-16T00:43:59.224Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
