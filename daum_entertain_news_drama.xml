@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T04:12:17.646Z</updated>
+    <updated>2023-10-16T05:11:32.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수린, 30년전 행방불명 된 이종원과 만남]]></title>
+        <id>https://v.daum.net/v/20231016133803554</id>
+        <link href="https://v.daum.net/v/20231016133803554"/>
+        <updated>2023-10-16T05:10:28.910Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘장난의 신’ 위엄 제대로 보여준 ‘로키2’‥“짜릿하다” 반응 폭발]]></title>
+        <id>https://v.daum.net/v/20231016132424170</id>
+        <link href="https://v.daum.net/v/20231016132424170"/>
+        <updated>2023-10-16T05:10:28.917Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남주혁, 낮에는 모범생 밤에는 범죄자 심판‥‘비질란테’ 포스터]]></title>
+        <id>https://v.daum.net/v/20231016131254781</id>
+        <link href="https://v.daum.net/v/20231016131254781"/>
+        <updated>2023-10-16T05:10:28.921Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아라문의 검’ 장동건의 각성..하지만 닥쳐드는 ‘회오리 불’은 신벌?]]></title>
         <id>https://v.daum.net/v/20231016123007078</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231016092842429"/>
         <updated>2023-10-16T00:43:59.194Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 최원장 부부 살인 사건, 아직 풀리지 않은 궁금증 넷]]></title>
-        <id>https://v.daum.net/v/20231016091417839</id>
-        <link href="https://v.daum.net/v/20231016091417839"/>
-        <updated>2023-10-16T00:43:59.195Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9.8% '강남순', 4회만 '도봉순' 시청률 추월..넷플릭스 전 세계 5위↑]]></title>
-        <id>https://v.daum.net/v/20231016090350453</id>
-        <link href="https://v.daum.net/v/20231016090350453"/>
-        <updated>2023-10-16T00:43:59.196Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 상승세 ‘유괴의 날’ 종영까지 3회, 사라진 유나 기억 뭘까]]></title>
-        <id>https://v.daum.net/v/20231016084515854</id>
-        <link href="https://v.daum.net/v/20231016084515854"/>
-        <updated>2023-10-16T00:43:59.196Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
