@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T03:12:09.465Z</updated>
+    <updated>2023-10-16T04:12:17.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아라문의 검’ 장동건의 각성..하지만 닥쳐드는 ‘회오리 불’은 신벌?]]></title>
+        <id>https://v.daum.net/v/20231016123007078</id>
+        <link href="https://v.daum.net/v/20231016123007078"/>
+        <updated>2023-10-16T04:12:08.511Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아스숲의 저주, 회오리불과 마주한 자 장동건이었다]]></title>
+        <id>https://v.daum.net/v/20231016122610025</id>
+        <link href="https://v.daum.net/v/20231016122610025"/>
+        <updated>2023-10-16T04:12:08.520Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제작비 460억은 누가 어디에 쓰고 또 이 괴작을 방치하고 있나]]></title>
         <id>https://v.daum.net/v/20231016115649253</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231016084515854"/>
         <updated>2023-10-16T00:43:59.196Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공과 사 구분 해라" 고주원...죽음에 의문 제기하는 하준에 ‘심기불편+경고’]]></title>
-        <id>https://v.daum.net/v/20231016082924377</id>
-        <link href="https://v.daum.net/v/20231016082924377"/>
-        <updated>2023-10-16T00:43:59.197Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 옹성우와 본격 공조..“나랑 같이해, 내 힘 써먹어”]]></title>
-        <id>https://v.daum.net/v/20231016082920375</id>
-        <link href="https://v.daum.net/v/20231016082920375"/>
-        <updated>2023-10-16T00:43:59.198Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
