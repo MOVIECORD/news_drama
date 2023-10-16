@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T05:11:32.127Z</updated>
+    <updated>2023-10-16T06:14:04.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘Mr.플랑크톤’ 측, 쓰레기 무단투기 논란에 “청소 마무리, 신중기할 것”]]></title>
+        <id>https://v.daum.net/v/20231016150823348</id>
+        <link href="https://v.daum.net/v/20231016150823348"/>
+        <updated>2023-10-16T06:13:53.809Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이두나!' 수지는 '안나' 수지를 넘을 수 있을까]]></title>
+        <id>https://v.daum.net/v/20231016144221130</id>
+        <link href="https://v.daum.net/v/20231016144221130"/>
+        <updated>2023-10-16T06:13:53.809Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로키 시즌2' 실비, 팀 로키 합류…캐릭터 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20231016144047050</id>
+        <link href="https://v.daum.net/v/20231016144047050"/>
+        <updated>2023-10-16T06:13:53.809Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수린, 30년전 행방불명 된 이종원과 만남]]></title>
         <id>https://v.daum.net/v/20231016133803554</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231016095320437"/>
         <updated>2023-10-16T01:48:41.924Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미X옹성우, 마약 잡입수사 시작…4회 만 9.8% 돌파]]></title>
-        <id>https://v.daum.net/v/20231016094854265</id>
-        <link href="https://v.daum.net/v/20231016094854265"/>
-        <updated>2023-10-16T01:48:41.925Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힘쎈여자 강남순' 이유미X옹성우 공조 시작…9.8% 돌파]]></title>
-        <id>https://v.daum.net/v/20231016093143542</id>
-        <link href="https://v.daum.net/v/20231016093143542"/>
-        <updated>2023-10-16T00:43:59.191Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈4' 리키X하림, 동거 후 갈등…지미, 희진 부모님 첫 만남]]></title>
-        <id>https://v.daum.net/v/20231016092842429</id>
-        <link href="https://v.daum.net/v/20231016092842429"/>
-        <updated>2023-10-16T00:43:59.194Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
