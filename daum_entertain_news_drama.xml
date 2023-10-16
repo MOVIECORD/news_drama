@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-16T21:10:34.662Z</updated>
+    <updated>2023-10-16T22:10:34.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 설인아, 시간 여행자였다…최현욱, 이명 들려 '충격']]></title>
+        <id>https://v.daum.net/v/20231017065002066</id>
+        <link href="https://v.daum.net/v/20231017065002066"/>
+        <updated>2023-10-16T22:09:31.645Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동준 “현종, 진정한 황제로 성장하는 과정 지켜봐 달라”]]></title>
         <id>https://v.daum.net/v/20231017030010956</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231016182956073"/>
         <updated>2023-10-16T10:11:19.795Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김해준 ‘워터멜론’ 깜짝 등장 예고…떡볶이집 DJ 최준 변신]]></title>
-        <id>https://v.daum.net/v/20231016181058604</id>
-        <link href="https://v.daum.net/v/20231016181058604"/>
-        <updated>2023-10-16T10:11:19.799Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
