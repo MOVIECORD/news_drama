@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-17T21:09:30.440Z</updated>
+    <updated>2023-10-17T22:10:14.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이두나!’ 성격이 좀 이상한, 그래도 너무 예쁜 수지]]></title>
+        <id>https://v.daum.net/v/20231018070405845</id>
+        <link href="https://v.daum.net/v/20231018070405845"/>
+        <updated>2023-10-17T22:10:03.186Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울 출신' 박은빈, 사투리 도전...메소드 연기 보여줄까]]></title>
         <id>https://v.daum.net/v/20231018050300035</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231017201507092"/>
         <updated>2023-10-17T12:18:36.202Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하늘의 인연' 김유석, 심이영 흔적 보며 눈물... 죄책감 느꼈다]]></title>
-        <id>https://v.daum.net/v/20231017195500569</id>
-        <link href="https://v.daum.net/v/20231017195500569"/>
-        <updated>2023-10-17T11:08:54.491Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
