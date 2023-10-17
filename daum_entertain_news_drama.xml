@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-17T03:10:54.122Z</updated>
+    <updated>2023-10-17T04:12:06.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘정신병동에도 아침이 와요’ 감독 “어둡고 무서울 거란 인식 허물고자”]]></title>
+        <id>https://v.daum.net/v/20231017124315400</id>
+        <link href="https://v.daum.net/v/20231017124315400"/>
+        <updated>2023-10-17T04:11:55.447Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정유민 진지희 이민영, 살벌한 연기 배틀 포착]]></title>
+        <id>https://v.daum.net/v/20231017121122810</id>
+        <link href="https://v.daum.net/v/20231017121122810"/>
+        <updated>2023-10-17T04:11:55.448Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인'VS'강남순', 어딜 봐도 평타 이상 '화제성 경쟁' 시작]]></title>
         <id>https://v.daum.net/v/20231017115422244</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231017100201714"/>
         <updated>2023-10-17T01:45:51.755Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성훈 "'더글로리'→'유괴의 날' 큰 사랑받아 감사할 따름"]]></title>
-        <id>https://v.daum.net/v/20231017100009611</id>
-        <link href="https://v.daum.net/v/20231017100009611"/>
-        <updated>2023-10-17T01:45:51.760Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 박성훈 "체중 10kg 감량 뿌듯, 윤계상과 MBTI도 똑같아"]]></title>
-        <id>https://v.daum.net/v/20231017100001593</id>
-        <link href="https://v.daum.net/v/20231017100001593"/>
-        <updated>2023-10-17T01:45:51.763Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
