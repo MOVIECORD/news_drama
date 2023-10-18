@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T13:14:32.745Z</updated>
+    <updated>2023-10-18T14:10:08.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사랑스럽개' 차은우, 이서엘 눈 피해 박규영과 초밀착..'설렘 유발']]></title>
+        <id>https://v.daum.net/v/20231018223332149</id>
+        <link href="https://v.daum.net/v/20231018223332149"/>
+        <updated>2023-10-18T14:09:58.849Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박규영, 수트입은 차은우에 '심쿵'..“진짜 멋지시네요”]]></title>
         <id>https://v.daum.net/v/20231018220902953</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018165320370"/>
         <updated>2023-10-18T08:13:07.912Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 박성훈, 유나 찾아 속초항 추격전→진한 포옹]]></title>
-        <id>https://v.daum.net/v/20231018164606064</id>
-        <link href="https://v.daum.net/v/20231018164606064"/>
-        <updated>2023-10-18T08:13:07.918Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
