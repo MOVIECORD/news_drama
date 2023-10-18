@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T10:12:05.089Z</updated>
+    <updated>2023-10-18T11:10:03.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하늘의 인연' 김유석, 전혜연에 마지막 인사 "살아있는 게 부끄럽다"]]></title>
+        <id>https://v.daum.net/v/20231018195300051</id>
+        <link href="https://v.daum.net/v/20231018195300051"/>
+        <updated>2023-10-18T11:08:59.701Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달의 소녀 희진, MBTI는 LOVE? '편의점 베짱이' 꽉 채운 사랑스러움]]></title>
         <id>https://v.daum.net/v/20231018190439417</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231018151401101</id>
         <link href="https://v.daum.net/v/20231018151401101"/>
         <updated>2023-10-18T06:14:35.628Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['늑대사냥' 김홍선 감독, 제작비 1000억 英 드라마 '갱스 오브 런던3' 연출]]></title>
-        <id>https://v.daum.net/v/20231018150403592</id>
-        <link href="https://v.daum.net/v/20231018150403592"/>
-        <updated>2023-10-18T06:14:35.630Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
