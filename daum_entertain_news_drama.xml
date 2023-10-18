@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T11:10:03.211Z</updated>
+    <updated>2023-10-18T12:19:18.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 반전의 반전..이시강 父 살아있었다 '충격']]></title>
+        <id>https://v.daum.net/v/20231018205304966</id>
+        <link href="https://v.daum.net/v/20231018205304966"/>
+        <updated>2023-10-18T12:19:07.241Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 강율, 빈털터리 손성윤에 "자업자득..피눈물 흘려봐"]]></title>
+        <id>https://v.daum.net/v/20231018201642436</id>
+        <link href="https://v.daum.net/v/20231018201642436"/>
+        <updated>2023-10-18T12:19:07.246Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하늘의 인연' 김유석, 전혜연에 마지막 인사 "살아있는 게 부끄럽다"]]></title>
         <id>https://v.daum.net/v/20231018195300051</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231018154001243"/>
         <updated>2023-10-18T07:09:42.397Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최악의 악’ 지창욱, 장인어른 퇴임식 대신 선택한 논두렁 혈투]]></title>
-        <id>https://v.daum.net/v/20231018152236493</id>
-        <link href="https://v.daum.net/v/20231018152236493"/>
-        <updated>2023-10-18T07:09:42.399Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밥먹고 일할 때 빼곤 늘 복싱 연습" 채원빈, '순정복서'에 갈아넣은 노력]]></title>
-        <id>https://v.daum.net/v/20231018151401101</id>
-        <link href="https://v.daum.net/v/20231018151401101"/>
-        <updated>2023-10-18T06:14:35.628Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
