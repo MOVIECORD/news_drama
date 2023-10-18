@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T14:10:08.977Z</updated>
+    <updated>2023-10-18T15:11:14.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우X박규영, 비밀 지켜주는 사이→호감..러브라인 시작?]]></title>
+        <id>https://v.daum.net/v/20231018235319665</id>
+        <link href="https://v.daum.net/v/20231018235319665"/>
+        <updated>2023-10-18T15:11:01.274Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 후속은…이세영이 주연한 '열녀박씨 계약결혼뎐', 조선 유교걸X철벽남 재벌3세 이야기다]]></title>
+        <id>https://v.daum.net/v/20231018232906481</id>
+        <link href="https://v.daum.net/v/20231018232906481"/>
+        <updated>2023-10-18T15:11:01.279Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑스럽개' 차은우, 이서엘 눈 피해 박규영과 초밀착..'설렘 유발']]></title>
         <id>https://v.daum.net/v/20231018223332149</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231018170736011"/>
         <updated>2023-10-18T08:13:07.907Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['운수 오진 날', 티빙 공개 앞서 11월 tvN 월화극 편성]]></title>
-        <id>https://v.daum.net/v/20231018170406867</id>
-        <link href="https://v.daum.net/v/20231018170406867"/>
-        <updated>2023-10-18T08:13:07.911Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남일, 안정환·정형돈 소속사와 전속계약…방송인 행보]]></title>
-        <id>https://v.daum.net/v/20231018165320370</id>
-        <link href="https://v.daum.net/v/20231018165320370"/>
-        <updated>2023-10-18T08:13:07.912Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
