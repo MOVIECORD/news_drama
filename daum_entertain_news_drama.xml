@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T09:10:43.446Z</updated>
+    <updated>2023-10-18T10:12:05.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이달의 소녀 희진, MBTI는 LOVE? '편의점 베짱이' 꽉 채운 사랑스러움]]></title>
+        <id>https://v.daum.net/v/20231018190439417</id>
+        <link href="https://v.daum.net/v/20231018190439417"/>
+        <updated>2023-10-18T10:11:01.842Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["찰떡이었다" 셀프 만족…'이두나!' 그 자체가 된 국민 첫사랑 수지]]></title>
         <id>https://v.daum.net/v/20231018180101840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018150403592"/>
         <updated>2023-10-18T06:14:35.630Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘로키2’ 글로벌 팬이벤트, 전세계 팬심 제대로 홀렸다]]></title>
-        <id>https://v.daum.net/v/20231018144100410</id>
-        <link href="https://v.daum.net/v/20231018144100410"/>
-        <updated>2023-10-18T06:14:35.631Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
