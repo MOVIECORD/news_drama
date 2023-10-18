@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-18T06:14:48.325Z</updated>
+    <updated>2023-10-18T07:09:53.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종, '유퀴즈' 뜬다…"출연 확정, 촬영은 미정"]]></title>
+        <id>https://v.daum.net/v/20231018155347878</id>
+        <link href="https://v.daum.net/v/20231018155347878"/>
+        <updated>2023-10-18T07:09:42.396Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지승현 “국궁식 활쏘기→승마훈련 열심히, 오랫동안 연습했다”]]></title>
+        <id>https://v.daum.net/v/20231018154001243</id>
+        <link href="https://v.daum.net/v/20231018154001243"/>
+        <updated>2023-10-18T07:09:42.397Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘최악의 악’ 지창욱, 장인어른 퇴임식 대신 선택한 논두렁 혈투]]></title>
+        <id>https://v.daum.net/v/20231018152236493</id>
+        <link href="https://v.daum.net/v/20231018152236493"/>
+        <updated>2023-10-18T07:09:42.399Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["밥먹고 일할 때 빼곤 늘 복싱 연습" 채원빈, '순정복서'에 갈아넣은 노력]]></title>
         <id>https://v.daum.net/v/20231018151401101</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231018135719373"/>
         <updated>2023-10-18T05:10:03.498Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김홍선 감독, 영드 '갱스 오브 런던3' 연출..제작비 1000억원 투입]]></title>
-        <id>https://v.daum.net/v/20231018135554316</id>
-        <link href="https://v.daum.net/v/20231018135554316"/>
-        <updated>2023-10-18T05:10:03.501Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지 "담배 흡연 신 짜릿…미쓰에이 시절 많이 생각해"]]></title>
-        <id>https://v.daum.net/v/20231018135011114</id>
-        <link href="https://v.daum.net/v/20231018135011114"/>
-        <updated>2023-10-18T05:10:03.503Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비질란테’ 남주혁 “생애 첫 액션 도전, 복싱·유도→무술 훈련 받아”]]></title>
-        <id>https://v.daum.net/v/20231018134747030</id>
-        <link href="https://v.daum.net/v/20231018134747030"/>
-        <updated>2023-10-18T05:10:03.509Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
