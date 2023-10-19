@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-19T21:08:13.166Z</updated>
+    <updated>2023-10-19T22:09:20.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[tvN ‘무인도의 디바’ 박은빈 “‘와, 가수되기 참 힘들다’는 말 제일 많이 했죠”]]></title>
+        <id>https://v.daum.net/v/20231020063007985</id>
+        <link href="https://v.daum.net/v/20231020063007985"/>
+        <updated>2023-10-19T22:09:10.347Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소연, ‘7인의 탈출’ 뜬다…제작진 “등장만으로 분위기 압도”]]></title>
         <id>https://v.daum.net/v/20231020060055681</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231019175001996"/>
         <updated>2023-10-19T09:10:17.312Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어머, 차은우인 줄"...광희 "예의있게 할게요" 급사과]]></title>
-        <id>https://v.daum.net/v/20231019173220224</id>
-        <link href="https://v.daum.net/v/20231019173220224"/>
-        <updated>2023-10-19T09:10:17.314Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
