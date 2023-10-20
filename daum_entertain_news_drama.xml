@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-20T12:18:27.243Z</updated>
+    <updated>2023-10-20T13:12:41.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인2' 남궁민, 이청아 막았다..♥안은진 도망쳤으나 다시 잡혀]]></title>
+        <id>https://v.daum.net/v/20231020220524030</id>
+        <link href="https://v.daum.net/v/20231020220524030"/>
+        <updated>2023-10-20T13:12:29.552Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막장 안통하네…'7인의 탈출'·'아씨두리안', 등돌린 시청자]]></title>
+        <id>https://v.daum.net/v/20231020215002833</id>
+        <link href="https://v.daum.net/v/20231020215002833"/>
+        <updated>2023-10-20T13:12:29.552Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손성윤, 한지완 납치→방화…강율, 위치 추적 후 구조]]></title>
         <id>https://v.daum.net/v/20231020203451895</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231020143857853"/>
         <updated>2023-10-20T06:13:36.431Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유괴의 날' 윤계상, 유나 앞에서 체포…오열하며 이별]]></title>
-        <id>https://v.daum.net/v/20231020143130575</id>
-        <link href="https://v.daum.net/v/20231020143130575"/>
-        <updated>2023-10-20T06:13:36.434Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우 ‘오사개’ 비하인드 메이킹…박규영과 꽁냥꽁냥 모드]]></title>
-        <id>https://v.daum.net/v/20231020142853487</id>
-        <link href="https://v.daum.net/v/20231020142853487"/>
-        <updated>2023-10-20T06:13:36.434Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
