@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-20T19:09:04.563Z</updated>
+    <updated>2023-10-20T20:10:19.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 엄기준, "반드시 복수할 것"…김도훈, 정라엘 살해한 진범 K]]></title>
+        <id>https://v.daum.net/v/20231021043900643</id>
+        <link href="https://v.daum.net/v/20231021043900643"/>
+        <updated>2023-10-20T20:10:08.028Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의탈출' 엄기준, 이덕화 사망에 "이준 이중 스파이 아니냐?" 의심]]></title>
         <id>https://v.daum.net/v/20231021025400363</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231020221832152"/>
         <updated>2023-10-20T14:09:47.374Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인2' 이청아, 청 황녀였다..남궁민에 "네 시간을 다오"]]></title>
-        <id>https://v.daum.net/v/20231020221625136</id>
-        <link href="https://v.daum.net/v/20231020221625136"/>
-        <updated>2023-10-20T14:09:47.374Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
