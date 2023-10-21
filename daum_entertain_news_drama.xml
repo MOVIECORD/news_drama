@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-21T19:07:43.092Z</updated>
+    <updated>2023-10-21T20:10:32.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 김도훈, 7인을 향해 "아버지 화나게 하는 사람 반드시 대가 치를 것" 경고]]></title>
+        <id>https://v.daum.net/v/20231022044800933</id>
+        <link href="https://v.daum.net/v/20231022044800933"/>
+        <updated>2023-10-21T20:09:29.958Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄기준 "내 정체는 민영기"→황정음x이유비, 피의 몰락 시작]]></title>
         <id>https://v.daum.net/v/20231022010020656</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021224624116"/>
         <updated>2023-10-21T14:08:07.104Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 이유비, 황정음에 "친딸 버린 비정한 엄마"]]></title>
-        <id>https://v.daum.net/v/20231021223502058</id>
-        <link href="https://v.daum.net/v/20231021223502058"/>
-        <updated>2023-10-21T14:08:07.113Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
