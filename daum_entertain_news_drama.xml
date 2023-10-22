@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-22T09:09:56.502Z</updated>
+    <updated>2023-10-22T10:11:21.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반쪽짜리 거짓말' 10세 김시우가 선물한 감동..모녀의 성장통]]></title>
+        <id>https://v.daum.net/v/20231022181726764</id>
+        <link href="https://v.daum.net/v/20231022181726764"/>
+        <updated>2023-10-22T10:10:18.295Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘반쪽짜리 거짓말’ 김시우·민지아, 두 모녀의 진한 ‘감동 성장통’]]></title>
+        <id>https://v.daum.net/v/20231022181100664</id>
+        <link href="https://v.daum.net/v/20231022181100664"/>
+        <updated>2023-10-22T10:10:18.297Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 탈출' 이유비, 착한 얼굴에 그렇지 못한 태도]]></title>
         <id>https://v.daum.net/v/20231022174605116</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231022141252747"/>
         <updated>2023-10-22T06:11:53.993Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 옹성우 없이 혼자 마약 수사에 진심…든든한 주우재]]></title>
-        <id>https://v.daum.net/v/20231022132905870</id>
-        <link href="https://v.daum.net/v/20231022132905870"/>
-        <updated>2023-10-22T05:09:31.482Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세경의 홍익인간까지...'아라문'이 그린 만만찮은 세계의 문제의식]]></title>
-        <id>https://v.daum.net/v/20231022132626803</id>
-        <link href="https://v.daum.net/v/20231022132626803"/>
-        <updated>2023-10-22T05:09:31.485Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
