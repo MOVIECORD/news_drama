@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-23T11:09:55.912Z</updated>
+    <updated>2023-10-23T12:19:14.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 려운, 최현욱에 "설인아 좋아해"…고백 끝에 '몸싸움']]></title>
+        <id>https://v.daum.net/v/20231023210803106</id>
+        <link href="https://v.daum.net/v/20231023210803106"/>
+        <updated>2023-10-23T12:19:01.665Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["죄송합니다" 최현욱, '흡연+꽁초 투기' 사과…'사생활 리스크' 타파할까]]></title>
+        <id>https://v.daum.net/v/20231023205003694</id>
+        <link href="https://v.daum.net/v/20231023205003694"/>
+        <updated>2023-10-23T12:19:01.667Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세번째 결혼' 오승아, 윤해영 딸이란 이유로 가족 잃고 팔려가.. 윤선우와 첫 만남]]></title>
         <id>https://v.daum.net/v/20231023200030497</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231023163444294"/>
         <updated>2023-10-23T08:14:29.564Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["많이 반성했다"… 최현욱, 담배꽁초 무단 투기 재차 사과]]></title>
-        <id>https://v.daum.net/v/20231023161341356</id>
-        <link href="https://v.daum.net/v/20231023161341356"/>
-        <updated>2023-10-23T08:14:29.569Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['담배 꽁초 무단투기' 최현욱 3차 사과···냉탕·온탕 오간 '하이쿠키' 간담회]]></title>
-        <id>https://v.daum.net/v/20231023160319923</id>
-        <link href="https://v.daum.net/v/20231023160319923"/>
-        <updated>2023-10-23T07:10:02.461Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
