@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-23T09:11:14.203Z</updated>
+    <updated>2023-10-23T10:11:24.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["앞으로 20년 거뜬"…김무열, 어린 배우들과 시너지 '하이쿠키']]></title>
+        <id>https://v.daum.net/v/20231023183002434</id>
+        <link href="https://v.daum.net/v/20231023183002434"/>
+        <updated>2023-10-23T10:11:12.491Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["책임감 갖고 연기할 것"… 최현욱, 논란 후 첫 공식석상→사과만 3번 했다]]></title>
         <id>https://v.daum.net/v/20231023180022636</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231023160246891"/>
         <updated>2023-10-23T07:10:02.472Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양세형, 109억 5층 건물주 됐다…"홍대 인근 건물 매입"]]></title>
-        <id>https://v.daum.net/v/20231023160111809</id>
-        <link href="https://v.daum.net/v/20231023160111809"/>
-        <updated>2023-10-23T07:10:02.472Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
