@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-23T10:11:24.063Z</updated>
+    <updated>2023-10-23T11:09:55.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아, 윤해영 딸이란 이유로 가족 잃고 팔려가.. 윤선우와 첫 만남]]></title>
+        <id>https://v.daum.net/v/20231023200030497</id>
+        <link href="https://v.daum.net/v/20231023200030497"/>
+        <updated>2023-10-23T11:08:53.281Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫방 '세번째 결혼' 오승아, 父 안내상과 떨어져 입양까지…윤선우와 부딪혔다]]></title>
+        <id>https://v.daum.net/v/20231023194104076</id>
+        <link href="https://v.daum.net/v/20231023194104076"/>
+        <updated>2023-10-23T11:08:53.287Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["앞으로 20년 거뜬"…김무열, 어린 배우들과 시너지 '하이쿠키']]></title>
         <id>https://v.daum.net/v/20231023183002434</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["책임감 갖고 연기할 것"… 최현욱, 논란 후 첫 공식석상→사과만 3번 했다]]></title>
+        <title type="html"><![CDATA["책임감 갖고 연기할 것"… 최현욱, 논란 후 첫 공식석상→3번 사과했다]]></title>
         <id>https://v.daum.net/v/20231023180022636</id>
         <link href="https://v.daum.net/v/20231023180022636"/>
         <updated>2023-10-23T09:11:04.502Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231023160319923"/>
         <updated>2023-10-23T07:10:02.461Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최악의악’ 위하준 “지창욱에 많이 배워, 걱정 많은 날 깨준 사람”]]></title>
-        <id>https://v.daum.net/v/20231023160302903</id>
-        <link href="https://v.daum.net/v/20231023160302903"/>
-        <updated>2023-10-23T07:10:02.466Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최악의악’ 위하준 “임세미와 데뷔 후 첫 키스신, 걱정 많았다”]]></title>
-        <id>https://v.daum.net/v/20231023160246891</id>
-        <link href="https://v.daum.net/v/20231023160246891"/>
-        <updated>2023-10-23T07:10:02.472Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
