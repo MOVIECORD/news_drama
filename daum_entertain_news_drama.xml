@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-24T12:18:10.888Z</updated>
+    <updated>2023-10-24T13:13:04.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재→조인성, '올해의 아름다운 예술인' 영예]]></title>
+        <id>https://v.daum.net/v/20231024215013922</id>
+        <link href="https://v.daum.net/v/20231024215013922"/>
+        <updated>2023-10-24T13:12:55.548Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['워터멜론' 신은수, ♥최현욱에 고백…'우리 친구 될 수 있을까?']]></title>
+        <id>https://v.daum.net/v/20231024212942714</id>
+        <link href="https://v.daum.net/v/20231024212942714"/>
+        <updated>2023-10-24T13:12:55.554Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['워터멜론' 려운, ♥설인아에 첫 키스…'심장이 시키는 일 해봐도 될까']]></title>
         <id>https://v.daum.net/v/20231024210938455</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231024182717493"/>
         <updated>2023-10-24T10:11:11.884Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준혁, '범죄도시3' 빌런은 잊어라..재벌 2세 '비질란테' 추종자]]></title>
-        <id>https://v.daum.net/v/20231024182606458</id>
-        <link href="https://v.daum.net/v/20231024182606458"/>
-        <updated>2023-10-24T10:11:11.887Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거래' 유승호, 24년차 배우의 용기와 도전]]></title>
-        <id>https://v.daum.net/v/20231024180836982</id>
-        <link href="https://v.daum.net/v/20231024180836982"/>
-        <updated>2023-10-24T09:10:51.435Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
