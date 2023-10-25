@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-25T20:10:26.133Z</updated>
+    <updated>2023-10-25T21:10:07.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어릴적 로망, 연기로 채우는 재미” 위하준, ‘최악의 악’ 통한 꿈 실현]]></title>
+        <id>https://v.daum.net/v/20231026052503085</id>
+        <link href="https://v.daum.net/v/20231026052503085"/>
+        <updated>2023-10-25T21:09:04.448Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악의 악' 한동욱 "잔인한 액션 연출, 세게 보이고 싶어서"]]></title>
         <id>https://v.daum.net/v/20231025205003184</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025163752512"/>
         <updated>2023-10-25T08:13:41.914Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최악의 악' 한동욱 감독 "원래 비비 팬…월권 부려서 미팅"]]></title>
-        <id>https://v.daum.net/v/20231025160802179</id>
-        <link href="https://v.daum.net/v/20231025160802179"/>
-        <updated>2023-10-25T07:09:46.086Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
