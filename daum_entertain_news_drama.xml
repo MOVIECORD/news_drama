@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-26T21:09:04.212Z</updated>
+    <updated>2023-10-26T22:09:19.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남성 빌런 때려잡는 강한 여주들이 ‘대세’]]></title>
+        <id>https://v.daum.net/v/20231027063019611</id>
+        <link href="https://v.daum.net/v/20231027063019611"/>
+        <updated>2023-10-26T22:09:07.470Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“못 볼지도 몰라서”…이선균 ‘나의 아저씨’, 검색 순위 UP]]></title>
+        <id>https://v.daum.net/v/20231027063016609</id>
+        <link href="https://v.daum.net/v/20231027063016609"/>
+        <updated>2023-10-26T22:09:07.475Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 박성웅, 김권 살리려는 박해진에 "너도 죽이고 싶어 했잖아…내버려 둬"]]></title>
         <id>https://v.daum.net/v/20231027025100841</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231026175026610"/>
         <updated>2023-10-26T09:10:29.133Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최악의 악' 임세미, 진한 여운 남긴 감정 연기…진심 담은 '열연' 통했다]]></title>
-        <id>https://v.daum.net/v/20231026174342397</id>
-        <link href="https://v.daum.net/v/20231026174342397"/>
-        <updated>2023-10-26T09:10:29.133Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운X조이현 설렘 유발 케미, ‘혼례대첩’ 비하인드컷 공개]]></title>
-        <id>https://v.daum.net/v/20231026172504678</id>
-        <link href="https://v.daum.net/v/20231026172504678"/>
-        <updated>2023-10-26T09:10:29.134Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
