@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-26T17:09:31.511Z</updated>
+    <updated>2023-10-26T18:13:31.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박성웅, 김권 살리려는 박해진에 "너도 죽이고 싶어 했잖아…내버려 둬"]]></title>
+        <id>https://v.daum.net/v/20231027025100841</id>
+        <link href="https://v.daum.net/v/20231027025100841"/>
+        <updated>2023-10-26T18:12:28.524Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 김권, 살인 증거 발각 위기에 "내가 강혜린 죽였다" 자수]]></title>
+        <id>https://v.daum.net/v/20231027023001833</id>
+        <link href="https://v.daum.net/v/20231027023001833"/>
+        <updated>2023-10-26T18:12:28.528Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성웅, 딸 살인범 복수 앞두고 절규…박해진과 대립]]></title>
         <id>https://v.daum.net/v/20231026223053553</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231026172504678"/>
         <updated>2023-10-26T09:10:29.134Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다양성 주제로 한 곳에"…프로미스나인·이무진, 다채로운 축제 마무리]]></title>
-        <id>https://v.daum.net/v/20231026172058535</id>
-        <link href="https://v.daum.net/v/20231026172058535"/>
-        <updated>2023-10-26T09:10:29.136Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다 같이 박수" 이무진, 'W페스타' 감성 가득]]></title>
-        <id>https://v.daum.net/v/20231026172019513</id>
-        <link href="https://v.daum.net/v/20231026172019513"/>
-        <updated>2023-10-26T09:10:29.142Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
