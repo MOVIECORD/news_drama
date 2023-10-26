@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-26T10:11:43.649Z</updated>
+    <updated>2023-10-26T11:08:27.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 절친 오승아 가정 파괴하나...문지후에 "밥 사 달라"]]></title>
+        <id>https://v.daum.net/v/20231026195300973</id>
+        <link href="https://v.daum.net/v/20231026195300973"/>
+        <updated>2023-10-26T11:08:18.238Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이미숙 "성훈, 보자마자 누나라고…용감함 새로워"]]></title>
+        <id>https://v.daum.net/v/20231026193003616</id>
+        <link href="https://v.daum.net/v/20231026193003616"/>
+        <updated>2023-10-26T11:08:18.241Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진지희 "첫 성인 연기가 악역...연민 생겨"]]></title>
         <id>https://v.daum.net/v/20231026175026610</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231026161349603"/>
         <updated>2023-10-26T08:13:24.143Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['곧 서른' 수지 "'이두나!' 20대 마지막작품, 앞으로 이런 역 힘들겠다"]]></title>
-        <id>https://v.daum.net/v/20231026161024439</id>
-        <link href="https://v.daum.net/v/20231026161024439"/>
-        <updated>2023-10-26T08:13:24.144Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선한 어른 윤계상, 새로운 '나의 아저씨'의 탄생]]></title>
-        <id>https://v.daum.net/v/20231026161010435</id>
-        <link href="https://v.daum.net/v/20231026161010435"/>
-        <updated>2023-10-26T08:13:24.151Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
