@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-26T13:13:38.635Z</updated>
+    <updated>2023-10-26T14:09:40.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅, 딸 살인범 복수 앞두고 절규…박해진과 대립]]></title>
+        <id>https://v.daum.net/v/20231026223053553</id>
+        <link href="https://v.daum.net/v/20231026223053553"/>
+        <updated>2023-10-26T14:09:27.482Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박성웅, 딸 살인자 김권 납치→사형 투표 집행..."왜 죽였냐" 오열]]></title>
+        <id>https://v.daum.net/v/20231026221925449</id>
+        <link href="https://v.daum.net/v/20231026221925449"/>
+        <updated>2023-10-26T14:09:27.482Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서른 앞둔 수지 "대본에 없던 욕설까지…20대 연기 이제 힘들어"]]></title>
         <id>https://v.daum.net/v/20231026215010087</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231026172019513"/>
         <updated>2023-10-26T09:10:29.142Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정, '하이쿠키' 출연…최상위반 담임 교사 변신]]></title>
-        <id>https://v.daum.net/v/20231026170407798</id>
-        <link href="https://v.daum.net/v/20231026170407798"/>
-        <updated>2023-10-26T08:13:24.132Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이두나!' 수지 "화보집 같다는 평, 내가 두나라면 '멕이나?'라고 했을 것"]]></title>
-        <id>https://v.daum.net/v/20231026165659316</id>
-        <link href="https://v.daum.net/v/20231026165659316"/>
-        <updated>2023-10-26T08:13:24.132Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
