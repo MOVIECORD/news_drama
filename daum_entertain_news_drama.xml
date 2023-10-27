@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-27T11:09:48.533Z</updated>
+    <updated>2023-10-27T12:18:28.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 손성윤, 이시강과 결국 이혼+오열 "다시 남편으로 만들 것"]]></title>
+        <id>https://v.daum.net/v/20231027204630444</id>
+        <link href="https://v.daum.net/v/20231027204630444"/>
+        <updated>2023-10-27T12:18:17.179Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황금막내 도경수 없는 ‘콩콩팥팥’, 임주환·정수교가 채울까]]></title>
         <id>https://v.daum.net/v/20231027194038331</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231027155016883"/>
         <updated>2023-10-27T07:09:30.860Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승호 "'거래' 큰 도전, 많이 배우고 성장했다" 종영 소감]]></title>
-        <id>https://v.daum.net/v/20231027154753813</id>
-        <link href="https://v.daum.net/v/20231027154753813"/>
-        <updated>2023-10-27T07:09:30.861Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
