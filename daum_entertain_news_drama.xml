@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-27T10:11:27.655Z</updated>
+    <updated>2023-10-27T11:09:48.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황금막내 도경수 없는 ‘콩콩팥팥’, 임주환·정수교가 채울까]]></title>
+        <id>https://v.daum.net/v/20231027194038331</id>
+        <link href="https://v.daum.net/v/20231027194038331"/>
+        <updated>2023-10-27T11:08:45.043Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 절친 남편 문지후와 금지된 키스 '오승아 어쩌나']]></title>
+        <id>https://v.daum.net/v/20231027193931320</id>
+        <link href="https://v.daum.net/v/20231027193931320"/>
+        <updated>2023-10-27T11:08:45.047Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유승호 "'거래'=큰 도전, 치열했던 현장서 많이 배워" 종영 소감]]></title>
         <id>https://v.daum.net/v/20231027184519494</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231027154753813"/>
         <updated>2023-10-27T07:09:30.861Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류수영, 돼지등뼈 20kg 삶았다…대용량 감자탕 대접]]></title>
-        <id>https://v.daum.net/v/20231027153402362</id>
-        <link href="https://v.daum.net/v/20231027153402362"/>
-        <updated>2023-10-27T07:09:30.861Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양세종 "내 심장 뛰게 만든 '이두나!'…정주행 두 번한 건 처음"]]></title>
-        <id>https://v.daum.net/v/20231027152714113</id>
-        <link href="https://v.daum.net/v/20231027152714113"/>
-        <updated>2023-10-27T07:09:30.867Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
