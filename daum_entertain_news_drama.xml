@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-29T07:09:56.848Z</updated>
+    <updated>2023-10-29T08:12:52.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['도현의 고백' 따뜻함이 세상을 구한다..김영아의 한마디]]></title>
+        <id>https://v.daum.net/v/20231029164241850</id>
+        <link href="https://v.daum.net/v/20231029164241850"/>
+        <updated>2023-10-29T08:12:41.016Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘최악의 악’ 지창욱 “선배들이 부러워할, 우리만의 누아르 하고 싶었다”]]></title>
+        <id>https://v.daum.net/v/20231029163013629</id>
+        <link href="https://v.daum.net/v/20231029163013629"/>
+        <updated>2023-10-29T08:12:41.019Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가수 연기' 박은빈, 초고음 보컬 소화 "하다 보니 돼"]]></title>
         <id>https://v.daum.net/v/20231029151002066</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231029130515311</id>
         <link href="https://v.daum.net/v/20231029130515311"/>
         <updated>2023-10-29T04:11:37.564Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데블스 플랜' 하석진 "궤도 우승 예상…빌붙어 플랜은요" ③]]></title>
-        <id>https://v.daum.net/v/20231029130503310</id>
-        <link href="https://v.daum.net/v/20231029130503310"/>
-        <updated>2023-10-29T04:11:37.583Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데블스 플랜' 하석진 "이시원, 잠도 못 자게 해…전우애 싹텄죠" ②]]></title>
-        <id>https://v.daum.net/v/20231029130302283</id>
-        <link href="https://v.daum.net/v/20231029130302283"/>
-        <updated>2023-10-29T04:11:37.584Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
