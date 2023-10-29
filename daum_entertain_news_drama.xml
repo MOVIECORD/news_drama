@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-29T19:07:39.606Z</updated>
+    <updated>2023-10-29T20:10:29.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로운X조이현 '혼례대첩', 시청률 부진 씻고 '연기대상' 직행?]]></title>
+        <id>https://v.daum.net/v/20231030050501601</id>
+        <link href="https://v.daum.net/v/20231030050501601"/>
+        <updated>2023-10-29T20:10:17.306Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 첫 무대=김효진 대신 노래.."15년 세월 의미 생겨"]]></title>
         <id>https://v.daum.net/v/20231030003020573</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029223722836"/>
         <updated>2023-10-29T14:08:27.193Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도의 디바' 박은빈, 문우진 실종 소식 반박 "살아있다"]]></title>
-        <id>https://v.daum.net/v/20231029223543828</id>
-        <link href="https://v.daum.net/v/20231029223543828"/>
-        <updated>2023-10-29T14:08:27.193Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
