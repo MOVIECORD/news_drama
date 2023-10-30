@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-30T21:08:52.928Z</updated>
+    <updated>2023-10-30T22:09:27.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘혼례대첩’ 조이현, 조신한 과부 vs 중매의 신.. 발칙한 이중생활]]></title>
+        <id>https://v.daum.net/v/20231031065415026</id>
+        <link href="https://v.daum.net/v/20231031065415026"/>
+        <updated>2023-10-30T22:09:15.863Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타 작가 손잡은 옹성우·차학연, 주말 안방 ‘히든카드’로]]></title>
+        <id>https://v.daum.net/v/20231031063013783</id>
+        <link href="https://v.daum.net/v/20231031063013783"/>
+        <updated>2023-10-30T22:09:15.865Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연출작 흥행 실패’ 정우성, 영화·드라마로 만회 도전]]></title>
+        <id>https://v.daum.net/v/20231031063011782</id>
+        <link href="https://v.daum.net/v/20231031063011782"/>
+        <updated>2023-10-30T22:09:15.866Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈, 또 인생캐릭터 경신했다...'디바 도전기'에 호평 일색]]></title>
         <id>https://v.daum.net/v/20231031060501552</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231030204301871"/>
         <updated>2023-10-30T12:18:00.394Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우아한 제국’ 깨어난 남경읍 “몸 안 움직여” 기억상실]]></title>
-        <id>https://v.daum.net/v/20231030203508678</id>
-        <link href="https://v.daum.net/v/20231030203508678"/>
-        <updated>2023-10-30T12:18:00.396Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유민, 성훈과 비즈니스 파트너 계약 “복수하고 싶어”]]></title>
-        <id>https://v.daum.net/v/20231030202843524</id>
-        <link href="https://v.daum.net/v/20231030202843524"/>
-        <updated>2023-10-30T12:18:00.396Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최악의 악’ IMDb 평점 1위 “K-느와르의 진수” 호평]]></title>
-        <id>https://v.daum.net/v/20231030202621467</id>
-        <link href="https://v.daum.net/v/20231030202621467"/>
-        <updated>2023-10-30T12:18:00.399Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
