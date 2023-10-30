@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-30T19:08:26.529Z</updated>
+    <updated>2023-10-30T21:08:52.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈, 또 인생캐릭터 경신했다...'디바 도전기'에 호평 일색]]></title>
+        <id>https://v.daum.net/v/20231031060501552</id>
+        <link href="https://v.daum.net/v/20231031060501552"/>
+        <updated>2023-10-30T21:08:42.554Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로운, ♥조이현과 첫 만남에 진짜 '심쿵'..“나는 너에게 반했다” 고백]]></title>
         <id>https://v.daum.net/v/20231030232228017</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030202621467"/>
         <updated>2023-10-30T12:18:00.399Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운 "돌싱 역할 부담 NO…이 나이에 언제 해 보겠나"]]></title>
-        <id>https://v.daum.net/v/20231030185010276</id>
-        <link href="https://v.daum.net/v/20231030185010276"/>
-        <updated>2023-10-30T10:11:01.698Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
