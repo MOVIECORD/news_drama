@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-30T14:11:47.809Z</updated>
+    <updated>2023-10-30T15:11:01.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로운, ♥조이현과 첫 만남에 진짜 '심쿵'..“나는 너에게 반했다” 고백]]></title>
+        <id>https://v.daum.net/v/20231030232228017</id>
+        <link href="https://v.daum.net/v/20231030232228017"/>
+        <updated>2023-10-30T15:10:49.414Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '혼례대첩' 로운, 공주 잃은 부마→조이현에 고백 번복... 사약 받을 위기]]></title>
         <id>https://v.daum.net/v/20231030230800906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030185010276"/>
         <updated>2023-10-30T10:11:01.698Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 탈퇴한 로운 "배우란 직업에 더 진지해지고 싶었다"]]></title>
-        <id>https://v.daum.net/v/20231030184802225</id>
-        <link href="https://v.daum.net/v/20231030184802225"/>
-        <updated>2023-10-30T10:11:01.698Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
