@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T05:10:00.202Z</updated>
+    <updated>2023-10-31T06:15:03.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김사부3' 이신영, 생애 첫 사극..'세작' 조정석∙신세경과 호흡]]></title>
+        <id>https://v.daum.net/v/20231031150216039</id>
+        <link href="https://v.daum.net/v/20231031150216039"/>
+        <updated>2023-10-31T06:14:00.463Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성철 측 "이선균 하차 '노 웨이 아웃' 합류? 검토 중"]]></title>
+        <id>https://v.daum.net/v/20231031144942410</id>
+        <link href="https://v.daum.net/v/20231031144942410"/>
+        <updated>2023-10-31T06:14:00.464Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성철 측 “‘노 웨이 아웃’ 성준우役 제안 받고 검토 중”]]></title>
+        <id>https://v.daum.net/v/20231031144926391</id>
+        <link href="https://v.daum.net/v/20231031144926391"/>
+        <updated>2023-10-31T06:14:00.469Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이이담, 차주영·이현욱 만난다..사극 '원경' 합류]]></title>
+        <id>https://v.daum.net/v/20231031143904915</id>
+        <link href="https://v.daum.net/v/20231031143904915"/>
+        <updated>2023-10-31T06:14:00.472Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성철, 이선균 하차한 '노 웨이 아웃' 출연]]></title>
         <id>https://v.daum.net/v/20231031140551630</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231031111631253"/>
         <updated>2023-10-31T02:18:49.302Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘플레이, 플리’ 노래 뺏긴 아이돌 신현승X베일에 싸인 여대생 김향기]]></title>
-        <id>https://v.daum.net/v/20231031110452607</id>
-        <link href="https://v.daum.net/v/20231031110452607"/>
-        <updated>2023-10-31T02:18:49.314Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성x신현빈 클래식 멜로…'사랑한다고 말해줘' 11월 27일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20231031110355569</id>
-        <link href="https://v.daum.net/v/20231031110355569"/>
-        <updated>2023-10-31T02:18:49.318Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이데몬' 김유정X송강, 달콤 살벌 계약결혼 "악마와 인간의 사랑"]]></title>
-        <id>https://v.daum.net/v/20231031110217475</id>
-        <link href="https://v.daum.net/v/20231031110217475"/>
-        <updated>2023-10-31T02:18:49.320Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운, 귀여움+코믹 다 잡았다‥조선 최고 울분남 변신]]></title>
-        <id>https://v.daum.net/v/20231031101005537</id>
-        <link href="https://v.daum.net/v/20231031101005537"/>
-        <updated>2023-10-31T01:45:30.104Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
