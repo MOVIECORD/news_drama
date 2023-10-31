@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T08:13:57.255Z</updated>
+    <updated>2023-10-31T09:10:46.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임성재X차래형X이신기, '최악의 악' 가득 채운 강남연합 삼인방]]></title>
+        <id>https://v.daum.net/v/20231031173605024</id>
+        <link href="https://v.daum.net/v/20231031173605024"/>
+        <updated>2023-10-31T09:10:33.264Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인', 3주 연속 전체 프로그램 화제성 1위]]></title>
+        <id>https://v.daum.net/v/20231031172429662</id>
+        <link href="https://v.daum.net/v/20231031172429662"/>
+        <updated>2023-10-31T09:10:33.264Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선배' 정용화·옥택연도 못 살렸는데…KBS '위기탈출 넘버원' 된 로운]]></title>
         <id>https://v.daum.net/v/20231031170102869</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231031154333846"/>
         <updated>2023-10-31T07:09:13.561Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김사부3' 이신영, 생애 첫 사극..'세작' 조정석∙신세경과 호흡]]></title>
-        <id>https://v.daum.net/v/20231031150216039</id>
-        <link href="https://v.daum.net/v/20231031150216039"/>
-        <updated>2023-10-31T06:14:00.463Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성철 측 "이선균 하차 '노 웨이 아웃' 합류? 검토 중"]]></title>
-        <id>https://v.daum.net/v/20231031144942410</id>
-        <link href="https://v.daum.net/v/20231031144942410"/>
-        <updated>2023-10-31T06:14:00.464Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
