@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T12:18:02.943Z</updated>
+    <updated>2023-10-31T13:13:00.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전리품 되어줄 생각 없어"…'워터멜론' 려운, ♥설인아 놓쳤다]]></title>
+        <id>https://v.daum.net/v/20231031212725017</id>
+        <link href="https://v.daum.net/v/20231031212725017"/>
+        <updated>2023-10-31T13:12:50.167Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['워터멜론' 려운, 최현욱에 미래서 온 정체 다시 숨겼다]]></title>
+        <id>https://v.daum.net/v/20231031211823787</id>
+        <link href="https://v.daum.net/v/20231031211823787"/>
+        <updated>2023-10-31T13:12:50.169Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대세 조합' 드디어 본다..박서준X한소희 '경성크리처' 12월 22일 공개]]></title>
         <id>https://v.daum.net/v/20231031202401485</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231031162820672"/>
         <updated>2023-10-31T08:13:45.731Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['용준형의 그녀' 송수이, “오빠가 처제 좋아했던 것도 모르지?” 얄미운 시누이 찰떡 소화]]></title>
-        <id>https://v.daum.net/v/20231031162730643</id>
-        <link href="https://v.daum.net/v/20231031162730643"/>
-        <updated>2023-10-31T08:13:45.731Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준X한소희 '경성크리처' 베일 벗는다..12월 22일 글로벌 공개]]></title>
-        <id>https://v.daum.net/v/20231031160721865</id>
-        <link href="https://v.daum.net/v/20231031160721865"/>
-        <updated>2023-10-31T07:09:13.542Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
