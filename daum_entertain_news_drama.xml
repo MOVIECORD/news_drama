@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T03:10:23.549Z</updated>
+    <updated>2023-10-31T04:12:08.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에릭남, 한국-미국 집 3채→비행기서 숙식‥“공인중개사 의혹도”]]></title>
+        <id>https://v.daum.net/v/20231031130434864</id>
+        <link href="https://v.daum.net/v/20231031130434864"/>
+        <updated>2023-10-31T04:11:57.515Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tvN·KBS 수목극, 2024년 부활 불투명..ENA만 남는다?]]></title>
+        <id>https://v.daum.net/v/20231031121146014</id>
+        <link href="https://v.daum.net/v/20231031121146014"/>
+        <updated>2023-10-31T04:11:57.517Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표예진, ‘낮에 뜨는 달’ 본방사수 욕구 높이는 요정 비주얼..설레는 심쿵 미소]]></title>
         <id>https://v.daum.net/v/20231031120018486</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231031095126609"/>
         <updated>2023-10-31T01:45:30.118Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱'된 로운x조이현 케미 재밌네…첫방 4.5% 스타트]]></title>
-        <id>https://v.daum.net/v/20231031095022539</id>
-        <link href="https://v.daum.net/v/20231031095022539"/>
-        <updated>2023-10-31T01:45:30.124Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인', 화제성 3주 연속 1위…안은진·남궁민, 출연자 1·2위 등극]]></title>
-        <id>https://v.daum.net/v/20231031093645020</id>
-        <link href="https://v.daum.net/v/20231031093645020"/>
-        <updated>2023-10-31T00:43:00.315Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
