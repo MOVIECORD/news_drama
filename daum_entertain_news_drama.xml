@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T10:12:00.093Z</updated>
+    <updated>2023-10-31T11:08:49.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오세영, 절친 오승아 남편과 동침... "피눈물 나게 해줄 것"]]></title>
+        <id>https://v.daum.net/v/20231031195801943</id>
+        <link href="https://v.daum.net/v/20231031195801943"/>
+        <updated>2023-10-31T11:08:38.491Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 이어 '혼례대첩'도 여주 미스캐스팅 논란? 조이현이 풀어야 할 숙제]]></title>
         <id>https://v.daum.net/v/20231031190102643</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231031160354740"/>
         <updated>2023-10-31T07:09:13.544Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱, 드라마 '파인' 출연 최종 고사…제작도 내년으로 밀릴 듯]]></title>
-        <id>https://v.daum.net/v/20231031160302687</id>
-        <link href="https://v.daum.net/v/20231031160302687"/>
-        <updated>2023-10-31T07:09:13.557Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
