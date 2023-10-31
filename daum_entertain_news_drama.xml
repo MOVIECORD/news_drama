@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T20:10:29.079Z</updated>
+    <updated>2023-10-31T21:10:15.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“액션 연기 힘들지만 성취감 있어” 지창욱, ‘최악의 악’ 통한 도전의 시작]]></title>
+        <id>https://v.daum.net/v/20231101060007662</id>
+        <link href="https://v.daum.net/v/20231101060007662"/>
+        <updated>2023-10-31T21:09:05.567Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한 게 없을 정도” ‘최악의 악’ 한동욱 감독의 진심]]></title>
+        <id>https://v.daum.net/v/20231101055007598</id>
+        <link href="https://v.daum.net/v/20231101055007598"/>
+        <updated>2023-10-31T21:09:05.570Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성X신현빈, 어른 멜로란 이런 것]]></title>
         <id>https://v.daum.net/v/20231101030031350</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231031173605024"/>
         <updated>2023-10-31T09:10:33.264Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인', 3주 연속 전체 프로그램 화제성 1위]]></title>
-        <id>https://v.daum.net/v/20231031172429662</id>
-        <link href="https://v.daum.net/v/20231031172429662"/>
-        <updated>2023-10-31T09:10:33.264Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선배' 정용화·옥택연도 못 살렸는데…KBS '위기탈출 넘버원' 된 로운]]></title>
-        <id>https://v.daum.net/v/20231031170102869</id>
-        <link href="https://v.daum.net/v/20231031170102869"/>
-        <updated>2023-10-31T08:13:45.714Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
