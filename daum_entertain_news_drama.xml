@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-10-31T21:10:15.074Z</updated>
+    <updated>2023-10-31T22:10:02.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['워터멜론' 정상훈, 려운♥설인아 불행 암시?…"늦은 건 아니어야 할 텐데"]]></title>
+        <id>https://v.daum.net/v/20231101065007400</id>
+        <link href="https://v.daum.net/v/20231101065007400"/>
+        <updated>2023-10-31T22:09:50.295Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신하균·김영광 주연 ‘악인전기’, 호평에도 OTT로 못보는 사정]]></title>
+        <id>https://v.daum.net/v/20231101063015161</id>
+        <link href="https://v.daum.net/v/20231101063015161"/>
+        <updated>2023-10-31T22:09:50.299Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“액션 연기 힘들지만 성취감 있어” 지창욱, ‘최악의 악’ 통한 도전의 시작]]></title>
         <id>https://v.daum.net/v/20231101060007662</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231031184301015"/>
         <updated>2023-10-31T10:10:56.888Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선빈, 첫 대하 사극 도전..‘고려 거란 전쟁’서 김동준과 호흡]]></title>
-        <id>https://v.daum.net/v/20231031181720259</id>
-        <link href="https://v.daum.net/v/20231031181720259"/>
-        <updated>2023-10-31T10:10:56.889Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임성재X차래형X이신기, '최악의 악' 가득 채운 강남연합 삼인방]]></title>
-        <id>https://v.daum.net/v/20231031173605024</id>
-        <link href="https://v.daum.net/v/20231031173605024"/>
-        <updated>2023-10-31T09:10:33.264Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
