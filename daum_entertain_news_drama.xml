@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-01T22:09:41.268Z</updated>
+    <updated>2023-11-01T23:11:01.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영X차은우 “저하고 밖에서 좀 만나보실래요?”]]></title>
+        <id>https://v.daum.net/v/20231102073553655</id>
+        <link href="https://v.daum.net/v/20231102073553655"/>
+        <updated>2023-11-01T23:09:58.805Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박규영, 잠든 차은우에 도둑키스…초밀착 스킨십 '심쿵']]></title>
+        <id>https://v.daum.net/v/20231102073401631</id>
+        <link href="https://v.daum.net/v/20231102073401631"/>
+        <updated>2023-11-01T23:09:58.807Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘청춘 스타’ 차은우 상승세…주1회 방송에 덜미 잡히나]]></title>
         <id>https://v.daum.net/v/20231102063018882</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231101191838002"/>
         <updated>2023-11-01T11:08:18.161Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민♥안은진 '연인', 로맨스 더 볼 수 있을까]]></title>
-        <id>https://v.daum.net/v/20231101191022864</id>
-        <link href="https://v.daum.net/v/20231101191022864"/>
-        <updated>2023-11-01T10:11:02.866Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관록이냐 대세냐…최수종·이성민 vs 송강·김영대, 11월 안방극장 격돌]]></title>
-        <id>https://v.daum.net/v/20231101190101713</id>
-        <link href="https://v.daum.net/v/20231101190101713"/>
-        <updated>2023-11-01T10:11:02.866Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
