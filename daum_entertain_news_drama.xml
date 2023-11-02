@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-02T04:12:46.469Z</updated>
+    <updated>2023-11-02T05:10:42.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양준모, 이영애 만난다..tvN ‘마에스트라’ 합류]]></title>
+        <id>https://v.daum.net/v/20231102134916754</id>
+        <link href="https://v.daum.net/v/20231102134916754"/>
+        <updated>2023-11-02T05:10:30.050Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악의 악', 해외서 호평세례! "위하준, 원히트원더 아냐"]]></title>
         <id>https://v.daum.net/v/20231102124430176</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231102095111965"/>
         <updated>2023-11-02T01:44:22.971Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도의 디바' 박은빈, 캐릭터 향한 애정담은 열연으로 몰입감 '고조']]></title>
-        <id>https://v.daum.net/v/20231102095102945</id>
-        <link href="https://v.daum.net/v/20231102095102945"/>
-        <updated>2023-11-02T01:44:22.974Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
