@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-02T02:17:49.793Z</updated>
+    <updated>2023-11-02T03:11:07.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양준모, 이영애 만난다..'마에스트라' 출연]]></title>
+        <id>https://v.daum.net/v/20231102115322874</id>
+        <link href="https://v.daum.net/v/20231102115322874"/>
+        <updated>2023-11-02T03:10:57.108Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이윤지, 5년만 안방 컴백…'마이데몬' 재벌가 둘째 딸된다]]></title>
         <id>https://v.daum.net/v/20231102111504011</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231102094517705"/>
         <updated>2023-11-02T01:44:22.977Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주진모 '악인전기' 점령..경험치 만렙 능구렁이 반달 캐릭터 맛 살리는 미친 소화력]]></title>
-        <id>https://v.daum.net/v/20231102094236599</id>
-        <link href="https://v.daum.net/v/20231102094236599"/>
-        <updated>2023-11-02T01:44:22.979Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
