@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-02T09:11:23.010Z</updated>
+    <updated>2023-11-02T10:10:24.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['플레이, 플리' 김향기 "과몰입 유발 밀당 로맨스"]]></title>
+        <id>https://v.daum.net/v/20231102183645473</id>
+        <link href="https://v.daum.net/v/20231102183645473"/>
+        <updated>2023-11-02T10:10:14.293Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["나는 꿀이다"…주우재 "'강남순' 거지 역할, 분량 적고 캐릭터 매력적"]]></title>
+        <id>https://v.daum.net/v/20231102183546423</id>
+        <link href="https://v.daum.net/v/20231102183546423"/>
+        <updated>2023-11-02T10:10:14.294Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘정신병동에도 아침이 와요’ 감독→배우, 작품에 도움 준 의료진과 재회]]></title>
+        <id>https://v.daum.net/v/20231102181251664</id>
+        <link href="https://v.daum.net/v/20231102181251664"/>
+        <updated>2023-11-02T10:10:14.299Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘도 사랑스럽개' 차은우, 박규영 보호본능 자극하는 만찢남]]></title>
         <id>https://v.daum.net/v/20231102180722473</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231102145703586"/>
         <updated>2023-11-02T06:12:37.212Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 얼마나 바쁘길래? “하루도 못 쉬고 있다”]]></title>
-        <id>https://v.daum.net/v/20231102145428455</id>
-        <link href="https://v.daum.net/v/20231102145428455"/>
-        <updated>2023-11-02T06:12:37.212Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['D.P.2' 성소수자 탈영병 배나라, '약한영웅' 시즌2 주인공]]></title>
-        <id>https://v.daum.net/v/20231102145329414</id>
-        <link href="https://v.daum.net/v/20231102145329414"/>
-        <updated>2023-11-02T06:12:37.212Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮에 뜨는 달' 웹툰 작가 "드라마화 좋은 작품 아닌데..다시 읽혀 기뻐"]]></title>
-        <id>https://v.daum.net/v/20231102144319939</id>
-        <link href="https://v.daum.net/v/20231102144319939"/>
-        <updated>2023-11-02T06:12:37.213Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
