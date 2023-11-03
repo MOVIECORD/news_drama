@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-03T08:14:10.514Z</updated>
+    <updated>2023-11-03T09:10:35.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 탈출', 계속되는 시청자 탈출 어쩌나]]></title>
+        <id>https://v.daum.net/v/20231103175003656</id>
+        <link href="https://v.daum.net/v/20231103175003656"/>
+        <updated>2023-11-03T09:10:23.820Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배인혁 입막은 이세영..문자 그대로 숨막히는 첫만남]]></title>
+        <id>https://v.daum.net/v/20231103173044062</id>
+        <link href="https://v.daum.net/v/20231103173044062"/>
+        <updated>2023-11-03T09:10:23.822Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임하룡, 소개팅에서 차인 이유 알고 극대노]]></title>
         <id>https://v.daum.net/v/20231103171014484</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231103143623630"/>
         <updated>2023-11-03T06:12:44.439Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보영 '정신병동..' 오늘 전세계 공개→마음 치유 힐링 드라마]]></title>
-        <id>https://v.daum.net/v/20231103141111746</id>
-        <link href="https://v.daum.net/v/20231103141111746"/>
-        <updated>2023-11-03T06:12:44.441Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 안은진, 환향녀 취급에 맞선다]]></title>
-        <id>https://v.daum.net/v/20231103134950944</id>
-        <link href="https://v.daum.net/v/20231103134950944"/>
-        <updated>2023-11-03T05:09:26.534Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
