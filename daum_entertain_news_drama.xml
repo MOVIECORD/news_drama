@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-03T14:10:20.017Z</updated>
+    <updated>2023-11-03T15:11:33.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 선택은 처음부터 당신"…엄기준X황정음, 진한 입맞춤]]></title>
+        <id>https://v.daum.net/v/20231103235211833</id>
+        <link href="https://v.daum.net/v/20231103235211833"/>
+        <updated>2023-11-03T15:10:31.261Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤태영, 결국 K=엄기준 손에 사망..황정음X엄기준 'KISS']]></title>
+        <id>https://v.daum.net/v/20231103233714734</id>
+        <link href="https://v.daum.net/v/20231103233714734"/>
+        <updated>2023-11-03T15:10:31.261Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄기준, 민영기 바꿔치기 후 성형 "문신까지 완벽하게"]]></title>
+        <id>https://v.daum.net/v/20231103232742666</id>
+        <link href="https://v.daum.net/v/20231103232742666"/>
+        <updated>2023-11-03T15:10:31.264Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인의 탈출' 엄기준=K, 정라엘+이덕화 죽인 범인...목표는 이준]]></title>
+        <id>https://v.daum.net/v/20231103231726612</id>
+        <link href="https://v.daum.net/v/20231103231726612"/>
+        <updated>2023-11-03T15:10:31.265Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 탈출' 엄기준, 소름 돋는 반전 정체...윤태영에 "내가 K다"]]></title>
         <id>https://v.daum.net/v/20231103230700564</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231103173044062"/>
         <updated>2023-11-03T09:10:23.822Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임하룡, 소개팅에서 차인 이유 알고 극대노]]></title>
-        <id>https://v.daum.net/v/20231103171014484</id>
-        <link href="https://v.daum.net/v/20231103171014484"/>
-        <updated>2023-11-03T08:13:07.352Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["또 간호사네" 박보영, 재난 이어 힐링까지…'유토피아'·'정신병동' 연타 흥행 조준]]></title>
-        <id>https://v.daum.net/v/20231103170101203</id>
-        <link href="https://v.daum.net/v/20231103170101203"/>
-        <updated>2023-11-03T08:13:07.355Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오사개’ 차은우x박규영에 댕며든다..현실 케미에 잇몸 건조주의보]]></title>
-        <id>https://v.daum.net/v/20231103162522214</id>
-        <link href="https://v.daum.net/v/20231103162522214"/>
-        <updated>2023-11-03T08:13:07.357Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준한 측 “‘인플루엔자’ 긍정검토중” 박정민 지수 만날까]]></title>
-        <id>https://v.daum.net/v/20231103161133769</id>
-        <link href="https://v.daum.net/v/20231103161133769"/>
-        <updated>2023-11-03T08:13:07.358Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
