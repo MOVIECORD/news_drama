@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-03T04:11:47.294Z</updated>
+    <updated>2023-11-03T05:09:36.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 안은진, 환향녀 취급에 맞선다]]></title>
+        <id>https://v.daum.net/v/20231103134950944</id>
+        <link href="https://v.daum.net/v/20231103134950944"/>
+        <updated>2023-11-03T05:09:26.534Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조선 돌아온 안은진, 이혼→환향녀 취급에 맞선다]]></title>
+        <id>https://v.daum.net/v/20231103133824653</id>
+        <link href="https://v.daum.net/v/20231103133824653"/>
+        <updated>2023-11-03T05:09:26.535Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호 이후 또 잠잠..차은우⋅로운 못 살리나]]></title>
         <id>https://v.daum.net/v/20231103123027236</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231103095509757"/>
         <updated>2023-11-03T01:45:42.285Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈, 15년 만에 생환…김효진과 상부상조 워맨스 ON?]]></title>
-        <id>https://v.daum.net/v/20231103095207655</id>
-        <link href="https://v.daum.net/v/20231103095207655"/>
-        <updated>2023-11-03T01:45:42.286Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["황정음, 돈+성공 위해 무슨 짓이든"..'연인' 대항마 '7인의 탈출' 칼 갈았다]]></title>
-        <id>https://v.daum.net/v/20231103094850548</id>
-        <link href="https://v.daum.net/v/20231103094850548"/>
-        <updated>2023-11-03T01:45:42.288Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
