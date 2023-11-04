@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-04T02:17:33.559Z</updated>
+    <updated>2023-11-04T03:10:36.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미, 제대로 화났다..박혜나 일당과 살벌 대치 '일촉즉발']]></title>
+        <id>https://v.daum.net/v/20231104115636376</id>
+        <link href="https://v.daum.net/v/20231104115636376"/>
+        <updated>2023-11-04T03:10:22.437Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정유민, 성훈 지극정성 밤샘 간호.."살아있는 거 맞지?"]]></title>
+        <id>https://v.daum.net/v/20231104114111267</id>
+        <link href="https://v.daum.net/v/20231104114111267"/>
+        <updated>2023-11-04T03:10:22.438Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBC "'연인' 추가촬영 없다? 연장 확정시 진행 가능"]]></title>
+        <id>https://v.daum.net/v/20231104113653241</id>
+        <link href="https://v.daum.net/v/20231104113653241"/>
+        <updated>2023-11-04T03:10:22.444Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['K정체' 엄기준, 결국 윤태영 살해..진짜 민영기 등장]]></title>
+        <id>https://v.daum.net/v/20231104112618160</id>
+        <link href="https://v.daum.net/v/20231104112618160"/>
+        <updated>2023-11-04T03:10:22.472Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈♥김효진, 너무나 사랑스러운 워맨스..방구석 댄스파티]]></title>
         <id>https://v.daum.net/v/20231104111519069</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231104083821478"/>
         <updated>2023-11-04T00:42:31.489Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 남궁민X안은진, 아련한 눈빛..."가슴속 진심 고백한다"]]></title>
-        <id>https://v.daum.net/v/20231104083647471</id>
-        <link href="https://v.daum.net/v/20231104083647471"/>
-        <updated>2023-11-04T00:42:31.490Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 엄기준, 진짜 정체 K…후폭풍 예고]]></title>
-        <id>https://v.daum.net/v/20231104081345303</id>
-        <link href="https://v.daum.net/v/20231104081345303"/>
-        <updated>2023-11-04T00:42:31.495Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매튜 리가 'K'였다…'7인의 탈출' 엄기준 반전 정체 '최고 8.7%']]></title>
-        <id>https://v.daum.net/v/20231104080112200</id>
-        <link href="https://v.daum.net/v/20231104080112200"/>
-        <updated>2023-11-03T23:09:48.413Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 빠지고, 감독 하차하고…'7인의 탈출' 시즌2, 방송 전부터 빨간불]]></title>
-        <id>https://v.daum.net/v/20231104080102185</id>
-        <link href="https://v.daum.net/v/20231104080102185"/>
-        <updated>2023-11-03T23:09:48.413Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
