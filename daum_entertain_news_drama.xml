@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-04T07:10:36.002Z</updated>
+    <updated>2023-11-04T08:13:28.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종→김동준, 무더위에도 역대급 팀워크]]></title>
+        <id>https://v.daum.net/v/20231104163637018</id>
+        <link href="https://v.daum.net/v/20231104163637018"/>
+        <updated>2023-11-04T08:12:25.178Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니, 엄기준 정체가 이휘소 아닌 K라고? 이 드라마 어디까지 가는 거예요]]></title>
+        <id>https://v.daum.net/v/20231104162618904</id>
+        <link href="https://v.daum.net/v/20231104162618904"/>
+        <updated>2023-11-04T08:12:25.185Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박은빈 제대로 계탔다‥안방 1열서 김효진 무대 직관]]></title>
+        <id>https://v.daum.net/v/20231104162031858</id>
+        <link href="https://v.daum.net/v/20231104162031858"/>
+        <updated>2023-11-04T08:12:25.186Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미 제대로 화났다‥박혜나 일당과 살벌한 대치]]></title>
         <id>https://v.daum.net/v/20231104161000719</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231104121723558"/>
         <updated>2023-11-04T04:11:32.018Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미, 제대로 화났다..박혜나 일당과 살벌 대치 '일촉즉발']]></title>
-        <id>https://v.daum.net/v/20231104115636376</id>
-        <link href="https://v.daum.net/v/20231104115636376"/>
-        <updated>2023-11-04T03:10:22.437Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유민, 성훈 지극정성 밤샘 간호.."살아있는 거 맞지?"]]></title>
-        <id>https://v.daum.net/v/20231104114111267</id>
-        <link href="https://v.daum.net/v/20231104114111267"/>
-        <updated>2023-11-04T03:10:22.438Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC "'연인' 추가촬영 없다? 연장 확정시 진행 가능"]]></title>
-        <id>https://v.daum.net/v/20231104113653241</id>
-        <link href="https://v.daum.net/v/20231104113653241"/>
-        <updated>2023-11-04T03:10:22.444Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
