@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-04T19:08:09.280Z</updated>
+    <updated>2023-11-04T20:09:15.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 엄기준, 이준 살인범으로 만들기 위한 덫 놓았다]]></title>
+        <id>https://v.daum.net/v/20231105043000638</id>
+        <link href="https://v.daum.net/v/20231105043000638"/>
+        <updated>2023-11-04T20:09:05.146Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성호, 훈남 子 공개..김지혜 “예비 사위에 카드 줄 수 있어”]]></title>
         <id>https://v.daum.net/v/20231105035025598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231104230003923"/>
         <updated>2023-11-04T14:08:31.355Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김해숙♥정보석 '위기'…김정은 "불륜녀 되게 생겨"]]></title>
-        <id>https://v.daum.net/v/20231104225603909</id>
-        <link href="https://v.daum.net/v/20231104225603909"/>
-        <updated>2023-11-04T14:08:31.356Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
