@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-05T06:13:03.965Z</updated>
+    <updated>2023-11-05T07:09:20.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성훈♥정유민, 초밀착 '아찔 백허그'…훅 들어온 스킨십 '설렘폭발']]></title>
+        <id>https://v.daum.net/v/20231105155413856</id>
+        <link href="https://v.daum.net/v/20231105155413856"/>
+        <updated>2023-11-05T07:09:09.041Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성훈♥정유민 아찔한 백허그, 알콩달콩 미리 신혼일기]]></title>
         <id>https://v.daum.net/v/20231105143334707</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231105103417129"/>
         <updated>2023-11-05T01:53:00.198Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈-김효진, 상부상조 워맨스 시동 ‘최고 7.6%’]]></title>
-        <id>https://v.daum.net/v/20231105101953957</id>
-        <link href="https://v.daum.net/v/20231105101953957"/>
-        <updated>2023-11-05T01:53:00.201Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
