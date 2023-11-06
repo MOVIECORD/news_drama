@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-06T22:10:17.379Z</updated>
+    <updated>2023-11-06T23:10:52.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 려운·설인아, 서로의 정체가 시간 여행자였음을 알게 됐다]]></title>
+        <id>https://v.daum.net/v/20231107074001990</id>
+        <link href="https://v.daum.net/v/20231107074001990"/>
+        <updated>2023-11-06T23:09:49.573Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반짝이는 워터멜론' 사랑 시작한 려운♥설인아…서로 시간 여행자 들통나]]></title>
         <id>https://v.daum.net/v/20231107065003357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231106193500242"/>
         <updated>2023-11-06T11:08:44.583Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어둠 속 반짝거린 남주혁" '20kg 증량' 유지태가 확신한 세계적 유행]]></title>
-        <id>https://v.daum.net/v/20231106190102768</id>
-        <link href="https://v.daum.net/v/20231106190102768"/>
-        <updated>2023-11-06T10:12:18.665Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
