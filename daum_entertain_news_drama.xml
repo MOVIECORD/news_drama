@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-06T21:10:12.270Z</updated>
+    <updated>2023-11-06T22:10:17.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 사랑 시작한 려운♥설인아…서로 시간 여행자 들통나]]></title>
+        <id>https://v.daum.net/v/20231107065003357</id>
+        <link href="https://v.daum.net/v/20231107065003357"/>
+        <updated>2023-11-06T22:09:15.242Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비질란테’ 이준혁 “비질란테 향한 광기…뮤지컬처럼 녹였죠”]]></title>
+        <id>https://v.daum.net/v/20231107063012126</id>
+        <link href="https://v.daum.net/v/20231107063012126"/>
+        <updated>2023-11-06T22:09:15.249Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유튜브 여신' 엄지윤, 지상파에서도 통했다...'푼수' 연기 최고]]></title>
         <id>https://v.daum.net/v/20231107040300809</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231106190102768"/>
         <updated>2023-11-06T10:12:18.665Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선 유교걸 이세영-21세기 철벽남 배인혁 ‘극과 극’]]></title>
-        <id>https://v.daum.net/v/20231106184742579</id>
-        <link href="https://v.daum.net/v/20231106184742579"/>
-        <updated>2023-11-06T10:12:18.668Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국형 다크 히어로 탄생… '비질란테', '배트맨' 뛰어넘을까]]></title>
-        <id>https://v.daum.net/v/20231106181824944</id>
-        <link href="https://v.daum.net/v/20231106181824944"/>
-        <updated>2023-11-06T10:12:18.668Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
