@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-06T07:11:32.875Z</updated>
+    <updated>2023-11-06T08:14:48.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동준 아내 이시아, 기품 넘치는 왕후의 자태]]></title>
+        <id>https://v.daum.net/v/20231106170603351</id>
+        <link href="https://v.daum.net/v/20231106170603351"/>
+        <updated>2023-11-06T08:14:38.076Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 김윤우 심상치 않은 존재감..남궁민 향해 "이전으로 돌아가자"]]></title>
+        <id>https://v.daum.net/v/20231106162617025</id>
+        <link href="https://v.daum.net/v/20231106162617025"/>
+        <updated>2023-11-06T08:14:38.081Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우당탕탕 패밀리' 남상지에게 하트 펜던트 건네는 이도겸...마음 드러내나?]]></title>
         <id>https://v.daum.net/v/20231106160419087</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231106131240344"/>
         <updated>2023-11-06T05:10:00.384Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비질란테' 남주혁→이준혁, 韓 다크히어로 전 세계 흥행 조준]]></title>
-        <id>https://v.daum.net/v/20231106130956312</id>
-        <link href="https://v.daum.net/v/20231106130956312"/>
-        <updated>2023-11-06T04:12:15.685Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주혁, 정의로운 응징인가 또 다른 범죄인가…다크 히어로 '비질란테' 탄생]]></title>
-        <id>https://v.daum.net/v/20231106125147025</id>
-        <link href="https://v.daum.net/v/20231106125147025"/>
-        <updated>2023-11-06T04:12:15.686Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
