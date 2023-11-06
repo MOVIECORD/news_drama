@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-06T18:13:07.264Z</updated>
+    <updated>2023-11-06T19:09:06.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유튜브 여신' 엄지윤, 지상파에서도 통했다...'푼수' 연기 최고]]></title>
+        <id>https://v.daum.net/v/20231107040300809</id>
+        <link href="https://v.daum.net/v/20231107040300809"/>
+        <updated>2023-11-06T19:08:04.675Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남주혁X유지태X이준혁 '비질란테', 한국형 다크 히어로 글로벌 흥행 정조준]]></title>
         <id>https://v.daum.net/v/20231107000201769</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231106181824944"/>
         <updated>2023-11-06T10:12:18.668Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이도겸, 남상지에게 하트 펜던트 건네는데…]]></title>
-        <id>https://v.daum.net/v/20231106175705282</id>
-        <link href="https://v.daum.net/v/20231106175705282"/>
-        <updated>2023-11-06T09:11:17.347Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
