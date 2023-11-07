@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-07T10:11:30.513Z</updated>
+    <updated>2023-11-07T11:08:49.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 윤해영, 친딸 오승아 앞에서 전노민 내연녀와 언쟁 "얼마를 원해?"]]></title>
+        <id>https://v.daum.net/v/20231107194300291</id>
+        <link href="https://v.daum.net/v/20231107194300291"/>
+        <updated>2023-11-07T11:08:37.351Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지도 뱃살 있었네…"볼록 나온 배에 감독도 놀라"]]></title>
+        <id>https://v.daum.net/v/20231107192004766</id>
+        <link href="https://v.daum.net/v/20231107192004766"/>
+        <updated>2023-11-07T11:08:37.353Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오사개', 주 1회 편성인데 또 결방…이대로 괜찮나]]></title>
         <id>https://v.daum.net/v/20231107182530936</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231107161817106"/>
         <updated>2023-11-07T08:13:27.225Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성 “청각장애인役, 수어 하며 표정에 신경 많이 써”]]></title>
-        <id>https://v.daum.net/v/20231107160604565</id>
-        <link href="https://v.daum.net/v/20231107160604565"/>
-        <updated>2023-11-07T07:09:05.034Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정신병동’ 유인수, 박보영과 재회→공황장애 간호실습생 열연]]></title>
-        <id>https://v.daum.net/v/20231107155636143</id>
-        <link href="https://v.daum.net/v/20231107155636143"/>
-        <updated>2023-11-07T07:09:05.034Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
