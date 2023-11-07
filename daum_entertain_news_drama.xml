@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-07T21:09:05.291Z</updated>
+    <updated>2023-11-07T22:10:19.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이정은 명품연기’ 또 통했다]]></title>
+        <id>https://v.daum.net/v/20231108063019220</id>
+        <link href="https://v.daum.net/v/20231108063019220"/>
+        <updated>2023-11-07T22:09:17.072Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막장은 그만! 박은빈·박보영 표 ‘힐링’ 어때요?]]></title>
+        <id>https://v.daum.net/v/20231108063011207</id>
+        <link href="https://v.daum.net/v/20231108063011207"/>
+        <updated>2023-11-07T22:09:17.072Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유승호 “흡연·욕설신 부담? ‘거래’ 제안왔을 때 기뻤다”]]></title>
         <id>https://v.daum.net/v/20231108060301864</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231107220632754"/>
         <updated>2023-11-07T13:12:11.236Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반짝이는 워터멜론' 려운♥설인아, 미래서 온 시간 여행자 '정체 고백']]></title>
-        <id>https://v.daum.net/v/20231107211214369</id>
-        <link href="https://v.daum.net/v/20231107211214369"/>
-        <updated>2023-11-07T12:17:32.745Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['육아 전문가' 오은영이 중독치료까지? '알콜 지옥'을 향한 엇갈린 시선]]></title>
-        <id>https://v.daum.net/v/20231107210102141</id>
-        <link href="https://v.daum.net/v/20231107210102141"/>
-        <updated>2023-11-07T12:17:32.748Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
