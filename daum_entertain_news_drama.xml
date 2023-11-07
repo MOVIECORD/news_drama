@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-07T20:11:52.727Z</updated>
+    <updated>2023-11-07T21:09:05.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유승호 “흡연·욕설신 부담? ‘거래’ 제안왔을 때 기뻤다”]]></title>
+        <id>https://v.daum.net/v/20231108060301864</id>
+        <link href="https://v.daum.net/v/20231108060301864"/>
+        <updated>2023-11-07T21:08:56.616Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남주혁이 말아주는 ‘비질란테’ 원작 아성 뛰어 넘을까]]></title>
+        <id>https://v.daum.net/v/20231108055015633</id>
+        <link href="https://v.daum.net/v/20231108055015633"/>
+        <updated>2023-11-07T21:08:56.616Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유연석의 광기...'운수 오진 날' 속 악인의 모습]]></title>
         <id>https://v.daum.net/v/20231108010231144</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231107210102141"/>
         <updated>2023-11-07T12:17:32.748Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지완, 남경읍 숨겨둔 비밀의 방 발견..긴장 백배]]></title>
-        <id>https://v.daum.net/v/20231107204529775</id>
-        <link href="https://v.daum.net/v/20231107204529775"/>
-        <updated>2023-11-07T12:17:32.749Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지완, 강율과 키스 후 뺨 내려쳐 "질척대지마"]]></title>
-        <id>https://v.daum.net/v/20231107202351298</id>
-        <link href="https://v.daum.net/v/20231107202351298"/>
-        <updated>2023-11-07T12:17:32.751Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
