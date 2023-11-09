@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-09T10:10:49.944Z</updated>
+    <updated>2023-11-09T11:08:35.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무인도의 디바' 박은빈, 왜 폭발적으로 사랑 받을까?]]></title>
+        <id>https://v.daum.net/v/20231109195822095</id>
+        <link href="https://v.daum.net/v/20231109195822095"/>
+        <updated>2023-11-09T11:08:23.761Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 임신 오세영, 문지후 이별선언에 패닉 "오승아 절대 안 버려"]]></title>
+        <id>https://v.daum.net/v/20231109195101949</id>
+        <link href="https://v.daum.net/v/20231109195101949"/>
+        <updated>2023-11-09T11:08:23.764Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["3씬 8시간 촬영"...'연인' 1회 연장, 남궁민♥안은진 늦은 만큼 눌러담는 중]]></title>
         <id>https://v.daum.net/v/20231109190028957</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231109171044517"/>
         <updated>2023-11-09T08:12:49.629Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뭔가 다르다"..'사극의 왕' 최수종이 자신한 '고려거란전쟁']]></title>
-        <id>https://v.daum.net/v/20231109170658342</id>
-        <link href="https://v.daum.net/v/20231109170658342"/>
-        <updated>2023-11-09T08:12:49.631Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘힘쎈여자 강남순’, 약 빨고 등쳐먹는 현실 문제 다 짚었네]]></title>
-        <id>https://v.daum.net/v/20231109165957941</id>
-        <link href="https://v.daum.net/v/20231109165957941"/>
-        <updated>2023-11-09T08:12:49.635Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
