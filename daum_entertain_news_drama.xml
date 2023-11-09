@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-09T18:13:20.220Z</updated>
+    <updated>2023-11-09T19:08:35.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈, 기적 또 쓴다...'무인도의 디바'에 외국인도 열광 중]]></title>
+        <id>https://v.daum.net/v/20231110040030754</id>
+        <link href="https://v.daum.net/v/20231110040030754"/>
+        <updated>2023-11-09T19:08:25.576Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 박성웅, "나 스스로를 국민사형투표에 붙인다…죄목은 살인"]]></title>
+        <id>https://v.daum.net/v/20231110033000734</id>
+        <link href="https://v.daum.net/v/20231110033000734"/>
+        <updated>2023-11-09T19:08:25.581Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 박해진, 고민 끝에 김권 살렸다…박성웅, 분노]]></title>
         <id>https://v.daum.net/v/20231110024801402</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231109185004670"/>
         <updated>2023-11-09T10:10:41.837Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강감찬 장군, 나 아니면 누가"… 최수종 10년만에 돌아온 이유]]></title>
-        <id>https://v.daum.net/v/20231109183135315</id>
-        <link href="https://v.daum.net/v/20231109183135315"/>
-        <updated>2023-11-09T10:10:41.837Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승우, '비질란테' 남주혁 절친 누구야? 눈도장 제대로]]></title>
-        <id>https://v.daum.net/v/20231109183126314</id>
-        <link href="https://v.daum.net/v/20231109183126314"/>
-        <updated>2023-11-09T10:10:41.842Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
