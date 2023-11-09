@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-09T14:09:53.610Z</updated>
+    <updated>2023-11-09T15:10:45.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마약부터 사기까지…작두 탄 백미경 작가]]></title>
+        <id>https://v.daum.net/v/20231109235241669</id>
+        <link href="https://v.daum.net/v/20231109235241669"/>
+        <updated>2023-11-09T15:10:34.127Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성웅 "나 자신의 사형 여러분께 맡길 것"…충격 반전]]></title>
         <id>https://v.daum.net/v/20231109223312109</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231109180641667"/>
         <updated>2023-11-09T09:10:27.665Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["美친 비주얼→설레는 티키타카"…김유정X송강 '마이 데몬', 이러니 기다려질 수밖에]]></title>
-        <id>https://v.daum.net/v/20231109180039451</id>
-        <link href="https://v.daum.net/v/20231109180039451"/>
-        <updated>2023-11-09T09:10:27.665Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
