@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-10T19:08:01.401Z</updated>
+    <updated>2023-11-10T20:10:09.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 황정음, "살인범은 김도훈…이준 얼굴로 성형해 정체 숨겼다" 거짓 폭로]]></title>
+        <id>https://v.daum.net/v/20231111043600440</id>
+        <link href="https://v.daum.net/v/20231111043600440"/>
+        <updated>2023-11-10T20:09:58.795Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인의탈출' 엄기준, "이준이 찾아올 사람은 나 뿐"]]></title>
+        <id>https://v.daum.net/v/20231111041800393</id>
+        <link href="https://v.daum.net/v/20231111041800393"/>
+        <updated>2023-11-10T20:09:58.795Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송강x김유정 ‘마이 데몬’, 제2의 ‘사내맞선’될까..비주얼 케미는 합격점]]></title>
         <id>https://v.daum.net/v/20231111000124614</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231110215852465"/>
         <updated>2023-11-10T13:12:13.191Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비질란테', 제2의 무빙되나..공개 하루만에 심상찮은 화제성]]></title>
-        <id>https://v.daum.net/v/20231110214853292</id>
-        <link href="https://v.daum.net/v/20231110214853292"/>
-        <updated>2023-11-10T13:12:13.193Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 안은진, 왜 피투성이 됐나…한밤중 충격적 상황 목격]]></title>
-        <id>https://v.daum.net/v/20231110214006181</id>
-        <link href="https://v.daum.net/v/20231110214006181"/>
-        <updated>2023-11-10T13:12:13.195Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
