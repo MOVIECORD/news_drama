@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-11T09:09:45.963Z</updated>
+    <updated>2023-11-11T10:09:42.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 고주원, ♥유이에 데이트 신청..뚝심의 직진남]]></title>
+        <id>https://v.daum.net/v/20231111182455987</id>
+        <link href="https://v.daum.net/v/20231111182455987"/>
+        <updated>2023-11-11T10:09:30.150Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인', 남궁민 드디어 과거 밝혀진다…"이장현의 중요한 요소"]]></title>
+        <id>https://v.daum.net/v/20231111182233946</id>
+        <link href="https://v.daum.net/v/20231111182233946"/>
+        <updated>2023-11-11T10:09:30.153Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 탈출' 엄기준X이준X김일우, '성찬' 부자 삼자대면 '출생비밀 벗나']]></title>
         <id>https://v.daum.net/v/20231111174130194</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231111133039905"/>
         <updated>2023-11-11T05:08:44.792Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘완벽한 결혼의 정석’ 임서라 작가의 ‘거침없는’ 전개]]></title>
-        <id>https://v.daum.net/v/20231111130627669</id>
-        <link href="https://v.daum.net/v/20231111130627669"/>
-        <updated>2023-11-11T04:11:14.569Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["男 인공자궁 개발"…'지구별 로맨스', 출산 갈등 커플, 최종 선택 '눈길']]></title>
-        <id>https://v.daum.net/v/20231111114622111</id>
-        <link href="https://v.daum.net/v/20231111114622111"/>
-        <updated>2023-11-11T02:49:17.888Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
