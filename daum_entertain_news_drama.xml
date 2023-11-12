@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-12T07:10:49.143Z</updated>
+    <updated>2023-11-12T08:12:23.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["날 마음껏 이용해" 성훈, 상남자 고백→정유민과 '아찔 입맞춤']]></title>
+        <id>https://v.daum.net/v/20231112161533317</id>
+        <link href="https://v.daum.net/v/20231112161533317"/>
+        <updated>2023-11-12T08:11:21.814Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인'과 극명히 대비되는 '고려거란전쟁', 난세의 영웅서사 통할까]]></title>
         <id>https://v.daum.net/v/20231112145940763</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231112130908908"/>
         <updated>2023-11-12T04:11:47.559Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘완결정’ 성훈-정유민, 눈물 키스로 로맨스 가속도 붙는다]]></title>
-        <id>https://v.daum.net/v/20231112125337686</id>
-        <link href="https://v.daum.net/v/20231112125337686"/>
-        <updated>2023-11-12T04:11:47.561Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
