@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-13T02:23:39.222Z</updated>
+    <updated>2023-11-13T03:11:59.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈과 채종협, 이들의 생존기로 '무인도의 디바'가 말하려는 것]]></title>
+        <id>https://v.daum.net/v/20231113115327524</id>
+        <link href="https://v.daum.net/v/20231113115327524"/>
+        <updated>2023-11-13T03:10:51.758Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['3일의 휴가' 황보라 "10년 만에 만난 신민아, 이렇게 안친하고 어색할 수 있다니"]]></title>
+        <id>https://v.daum.net/v/20231113114528248</id>
+        <link href="https://v.daum.net/v/20231113114528248"/>
+        <updated>2023-11-13T03:10:51.758Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남주X차은우 '원더풀월드', MBC 편성…"방송시기 미정"]]></title>
+        <id>https://v.daum.net/v/20231113113743911</id>
+        <link href="https://v.daum.net/v/20231113113743911"/>
+        <updated>2023-11-13T03:10:51.758Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무인도의 디바' 채종협, 차곡차곡 쌓은 서사..섬세함으로 만든 강보걸]]></title>
         <id>https://v.daum.net/v/20231113111916889</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231113103453578"/>
         <updated>2023-11-13T01:52:04.534Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, '미우새' 합류→시골살이 자택 공개…시청률 14%]]></title>
-        <id>https://v.daum.net/v/20231113102720198</id>
-        <link href="https://v.daum.net/v/20231113102720198"/>
-        <updated>2023-11-13T01:52:04.535Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정다빈, 아이스크림 소녀는 잊어라]]></title>
-        <id>https://v.daum.net/v/20231113101956813</id>
-        <link href="https://v.daum.net/v/20231113101956813"/>
-        <updated>2023-11-13T01:52:04.536Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출' 윤종훈, 절절한 로맨스의 정수]]></title>
-        <id>https://v.daum.net/v/20231113101951811</id>
-        <link href="https://v.daum.net/v/20231113101951811"/>
-        <updated>2023-11-13T01:52:04.542Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
