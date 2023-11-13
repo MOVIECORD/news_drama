@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-13T03:11:59.285Z</updated>
+    <updated>2023-11-13T04:12:14.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미·옹성우, 입맞춤..."사랑하는 남자와 첫날밤"]]></title>
+        <id>https://v.daum.net/v/20231113130200999</id>
+        <link href="https://v.daum.net/v/20231113130200999"/>
+        <updated>2023-11-13T04:12:04.014Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동욱, 비연예인과 12월 22일 결혼식]]></title>
+        <id>https://v.daum.net/v/20231113125618835</id>
+        <link href="https://v.daum.net/v/20231113125618835"/>
+        <updated>2023-11-13T04:12:04.015Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무인도의 디바', 정기호 정체는 채종협...최고 시청률 9.7%]]></title>
+        <id>https://v.daum.net/v/20231113124101593</id>
+        <link href="https://v.daum.net/v/20231113124101593"/>
+        <updated>2023-11-13T04:12:04.017Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박은빈과 채종협, 이들의 생존기로 '무인도의 디바'가 말하려는 것]]></title>
         <id>https://v.daum.net/v/20231113115327524</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231113104655127"/>
         <updated>2023-11-13T01:52:04.529Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스→다비치 강민경·에스파 윈터 ‘마이 데몬’ 초호화 OST 라인업]]></title>
-        <id>https://v.daum.net/v/20231113104519053</id>
-        <link href="https://v.daum.net/v/20231113104519053"/>
-        <updated>2023-11-13T01:52:04.534Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웰컴투 삼달리' 지창욱X신혜선, 아낌없이 재미 퍼드려요]]></title>
-        <id>https://v.daum.net/v/20231113103820733</id>
-        <link href="https://v.daum.net/v/20231113103820733"/>
-        <updated>2023-11-13T01:52:04.534Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성훈 "마음껏 이용하라고" 정유민와 뜨거운 밤..시청자 몰입↑]]></title>
-        <id>https://v.daum.net/v/20231113103453578</id>
-        <link href="https://v.daum.net/v/20231113103453578"/>
-        <updated>2023-11-13T01:52:04.534Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
