@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-13T09:12:26.150Z</updated>
+    <updated>2023-11-13T10:12:35.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수녀·지휘자·소리꾼...역할 한계 깨부수는 여자 스타들]]></title>
+        <id>https://v.daum.net/v/20231113185600291</id>
+        <link href="https://v.daum.net/v/20231113185600291"/>
+        <updated>2023-11-13T10:11:32.465Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[려운-최현욱, 신은수 위해 김태우와 담판...긴장감 맴도는 대치 현장]]></title>
+        <id>https://v.daum.net/v/20231113182559249</id>
+        <link href="https://v.daum.net/v/20231113182559249"/>
+        <updated>2023-11-13T10:11:32.466Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 민폐…'무디바', 제주 무단 촬영+방치 논란 "무책임해"]]></title>
+        <id>https://v.daum.net/v/20231113182049119</id>
+        <link href="https://v.daum.net/v/20231113182049119"/>
+        <updated>2023-11-13T10:11:32.467Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["첫 공개 D-5" '플레이, 플리' 음악→웹툰 원작까지..관전 포인트 3]]></title>
         <id>https://v.daum.net/v/20231113180931802</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231113164603883"/>
         <updated>2023-11-13T08:13:11.085Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정유민, 흑화 절정이더니…순식간에 로맨스 여신으로]]></title>
-        <id>https://v.daum.net/v/20231113164402800</id>
-        <link href="https://v.daum.net/v/20231113164402800"/>
-        <updated>2023-11-13T08:13:11.086Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁' 이풍운, 여인들 미모 눌러버린 '고려 마성남']]></title>
-        <id>https://v.daum.net/v/20231113164123694</id>
-        <link href="https://v.daum.net/v/20231113164123694"/>
-        <updated>2023-11-13T08:13:11.087Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 김재민, '고려거란전쟁' 이원종 동반자…이현운 役 캐스팅]]></title>
-        <id>https://v.daum.net/v/20231113163635457</id>
-        <link href="https://v.daum.net/v/20231113163635457"/>
-        <updated>2023-11-13T08:13:11.088Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
