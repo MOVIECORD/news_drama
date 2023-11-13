@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-13T13:13:46.233Z</updated>
+    <updated>2023-11-13T14:11:22.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 조이현, 신문고 사건 덮어준 로운에 "설마 아는 사람?"]]></title>
+        <id>https://v.daum.net/v/20231113230800689</id>
+        <link href="https://v.daum.net/v/20231113230800689"/>
+        <updated>2023-11-13T14:10:20.302Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 최현욱, 려운 대신 교통사고 당했다 '충격 반전']]></title>
+        <id>https://v.daum.net/v/20231113230344641</id>
+        <link href="https://v.daum.net/v/20231113230344641"/>
+        <updated>2023-11-13T14:10:20.303Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반짝이는 워터멜론' 려운, 최현욱X천호진 인연 알고 '깜짝']]></title>
+        <id>https://v.daum.net/v/20231113223928173</id>
+        <link href="https://v.daum.net/v/20231113223928173"/>
+        <updated>2023-11-13T14:10:20.304Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반짝이는 워터멜론' 설인아, 려운에 "최현욱 사고 날짜는 내일"]]></title>
         <id>https://v.daum.net/v/20231113220232270</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231113180539681"/>
         <updated>2023-11-13T09:11:23.040Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코다브릿지, '우당탕탕 패밀리' OST 참여…'너와 하고 싶은 게 많아' 발매]]></title>
-        <id>https://v.daum.net/v/20231113175446313</id>
-        <link href="https://v.daum.net/v/20231113175446313"/>
-        <updated>2023-11-13T09:11:23.040Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이쿠키' 정다빈, 마스크 뚫은 딕션→눈빛 압축 열연]]></title>
-        <id>https://v.daum.net/v/20231113174935143</id>
-        <link href="https://v.daum.net/v/20231113174935143"/>
-        <updated>2023-11-13T09:11:23.041Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 김윤우, 사경 헤매는 남궁민 바라보며 한발 물러섰다]]></title>
-        <id>https://v.daum.net/v/20231113173133606</id>
-        <link href="https://v.daum.net/v/20231113173133606"/>
-        <updated>2023-11-13T09:11:23.041Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
