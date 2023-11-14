@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-14T03:12:02.320Z</updated>
+    <updated>2023-11-14T04:11:58.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'강남순' 특별출연, 집가며 후회" 박보영X박형식, 강렬한 재회]]></title>
+        <id>https://v.daum.net/v/20231114125007644</id>
+        <link href="https://v.daum.net/v/20231114125007644"/>
+        <updated>2023-11-14T04:11:48.506Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박민 KBS 사장 "윤지오·검언유착·생태탕·김만배 등 편파보도 사과"]]></title>
+        <id>https://v.daum.net/v/20231114123723490</id>
+        <link href="https://v.daum.net/v/20231114123723490"/>
+        <updated>2023-11-14T04:11:48.506Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동준 삭발도 불사 “‘고려 거란 전쟁’ 공들여 열심히 촬영 중”]]></title>
+        <id>https://v.daum.net/v/20231114121510204</id>
+        <link href="https://v.daum.net/v/20231114121510204"/>
+        <updated>2023-11-14T04:11:48.506Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양경원 ‘웰컴투 삼달리’ 출연, 신동미 전 남편 된다]]></title>
         <id>https://v.daum.net/v/20231114120343906</id>
         <link href="https://v.daum.net/v/20231114120343906"/>
         <updated>2023-11-14T03:10:58.930Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 뭉친 고백부부..장나라x손호중 '나의해피엔드', 기세 美쳤군요]]></title>
-        <id>https://v.daum.net/v/20231114114626030</id>
-        <link href="https://v.daum.net/v/20231114114626030"/>
-        <updated>2023-11-14T03:10:58.930Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장나라♥손호준, 부부로 재회…베일 벗은 '나의 해피엔드' 대본 리딩 현장]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231114110926893"/>
         <updated>2023-11-14T02:20:29.847Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강영석, '웰컴투삼달리' 출연…지창욱X신혜선과 호흡]]></title>
-        <id>https://v.daum.net/v/20231114110811813</id>
-        <link href="https://v.daum.net/v/20231114110811813"/>
-        <updated>2023-11-14T02:20:29.850Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 시청률 하락세 맞은 ‘혼례대첩’…자체 최저 굴욕]]></title>
-        <id>https://v.daum.net/v/20231114110001325</id>
-        <link href="https://v.daum.net/v/20231114110001325"/>
-        <updated>2023-11-14T02:20:29.851Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
