@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-14T21:08:53.520Z</updated>
+    <updated>2023-11-14T22:09:26.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청춘 코미디 시트콤 '청춘 유랑단' 16일 첫 방송…안세민-서준-임휘진 출연]]></title>
+        <id>https://v.daum.net/v/20231115070759572</id>
+        <link href="https://v.daum.net/v/20231115070759572"/>
+        <updated>2023-11-14T22:09:15.829Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신재하, 최종 사망.."'악인전기' 신하균과 호흡=아직도 꿈 같아" 종영소감]]></title>
+        <id>https://v.daum.net/v/20231115063118071</id>
+        <link href="https://v.daum.net/v/20231115063118071"/>
+        <updated>2023-11-14T22:09:15.830Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“정유민→진지희, 보지 못한 이미지 변신”...‘완벽한 결혼의 정석’ 관전포인트]]></title>
+        <id>https://v.daum.net/v/20231115061008877</id>
+        <link href="https://v.daum.net/v/20231115061008877"/>
+        <updated>2023-11-14T22:09:15.830Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[려운 “이도현→최현욱과 부자 호흡‥느낌은 달라”]]></title>
         <id>https://v.daum.net/v/20231115060108723</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231114225638055"/>
         <updated>2023-11-14T14:09:50.406Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난데없이 돌 맞은 박은빈, 시청률의 디바]]></title>
-        <id>https://v.daum.net/v/20231114222720853</id>
-        <link href="https://v.daum.net/v/20231114222720853"/>
-        <updated>2023-11-14T14:09:50.407Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼례대첩' 조이현, 로운 정체 알았다 "울분남 앞에서 울분남 욕을 하다니!"]]></title>
-        <id>https://v.daum.net/v/20231114222400821</id>
-        <link href="https://v.daum.net/v/20231114222400821"/>
-        <updated>2023-11-14T14:09:50.410Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스태미너에 좋다면...아내를 위해"...김준현·문세윤, '거북이+뱀' 먹방]]></title>
-        <id>https://v.daum.net/v/20231114222300818</id>
-        <link href="https://v.daum.net/v/20231114222300818"/>
-        <updated>2023-11-14T14:09:50.411Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
