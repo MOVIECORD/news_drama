@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-15T03:10:48.814Z</updated>
+    <updated>2023-11-15T04:13:09.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘워터멜론’ 설인아 “좋은 작품으로 따뜻한 소통 감사” 종영 소감..대세 로코퀸 입증]]></title>
+        <id>https://v.daum.net/v/20231115130024068</id>
+        <link href="https://v.daum.net/v/20231115130024068"/>
+        <updated>2023-11-15T04:12:57.269Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설인아 “글의 힘, 소통의 아름다움 배워” 종영 소감]]></title>
+        <id>https://v.daum.net/v/20231115121048023</id>
+        <link href="https://v.daum.net/v/20231115121048023"/>
+        <updated>2023-11-15T04:12:57.278Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 로운, 돌발 기절X급발진 엔딩..로맨스 예고]]></title>
         <id>https://v.daum.net/v/20231115115854576</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231115104816727"/>
         <updated>2023-11-15T01:52:32.917Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 표 코믹 사극이라니…'밤에 피는 꽃', 대본리딩부터 기대감]]></title>
-        <id>https://v.daum.net/v/20231115104335446</id>
-        <link href="https://v.daum.net/v/20231115104335446"/>
-        <updated>2023-11-15T01:52:32.917Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계모 김주령 빈털터리 됐다, 권선징악 엔딩 존재감]]></title>
-        <id>https://v.daum.net/v/20231115104156361</id>
-        <link href="https://v.daum.net/v/20231115104156361"/>
-        <updated>2023-11-15T01:52:32.917Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
