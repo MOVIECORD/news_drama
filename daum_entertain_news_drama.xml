@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-15T10:11:40.391Z</updated>
+    <updated>2023-11-15T11:09:49.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고려 거란 전쟁' 이제 2회했는데…김동준, 아직은 지켜볼 때]]></title>
+        <id>https://v.daum.net/v/20231115200003261</id>
+        <link href="https://v.daum.net/v/20231115200003261"/>
+        <updated>2023-11-15T11:08:47.111Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 윤선우, 오승아 오해하고 '상간녀·가정파괴범' 막말]]></title>
+        <id>https://v.daum.net/v/20231115194830084</id>
+        <link href="https://v.daum.net/v/20231115194830084"/>
+        <updated>2023-11-15T11:08:47.112Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시청률 22% 남궁민→21% 이제훈…SBS가 맘먹고 내놓은 안보현 카드]]></title>
         <id>https://v.daum.net/v/20231115190101273</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231115152903713"/>
         <updated>2023-11-15T07:09:23.522Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["현실 로판 비주얼"…김유정X송강 '마이 데몬' 비주얼 필름 영상, 도파민 폭발]]></title>
-        <id>https://v.daum.net/v/20231115152730634</id>
-        <link href="https://v.daum.net/v/20231115152730634"/>
-        <updated>2023-11-15T07:09:23.522Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지♥김우빈이 또?  몰려오는 드라마 속 '재회 커플'들]]></title>
-        <id>https://v.daum.net/v/20231115151222982</id>
-        <link href="https://v.daum.net/v/20231115151222982"/>
-        <updated>2023-11-15T06:13:07.560Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
