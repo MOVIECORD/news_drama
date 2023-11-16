@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-16T21:09:09.152Z</updated>
+    <updated>2023-11-16T22:09:52.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임지연, 박해진 앞 인질 붙잡혀 위기...박성웅 실종·서영주 사망 '종영']]></title>
+        <id>https://v.daum.net/v/20231117065003018</id>
+        <link href="https://v.daum.net/v/20231117065003018"/>
+        <updated>2023-11-16T22:09:44.188Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티빙 ‘운수 오진 날’ 배우 유연석과 이정은, “연쇄살인마 광기” vs “무서운 모성애”]]></title>
+        <id>https://v.daum.net/v/20231117063023772</id>
+        <link href="https://v.daum.net/v/20231117063023772"/>
+        <updated>2023-11-16T22:09:44.191Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예능에 드라마 3편, 영화 1편..이이경, 두 마리 토끼 잡는 솔직 매력]]></title>
         <id>https://v.daum.net/v/20231117060507524</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231116211406234"/>
         <updated>2023-11-16T12:18:43.136Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 가까워진 이도겸과 남상지...응급실에서 손잡고 서로 마음 확인]]></title>
-        <id>https://v.daum.net/v/20231116211400232</id>
-        <link href="https://v.daum.net/v/20231116211400232"/>
-        <updated>2023-11-16T12:18:43.137Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3년 만에 복귀' 이나은, '재벌 3세' 안보현 만난다…왕따 논란 꼬리표 지울까]]></title>
-        <id>https://v.daum.net/v/20231116210102971</id>
-        <link href="https://v.daum.net/v/20231116210102971"/>
-        <updated>2023-11-16T12:18:43.137Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
