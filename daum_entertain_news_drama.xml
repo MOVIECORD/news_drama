@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-16T09:11:13.595Z</updated>
+    <updated>2023-11-16T10:11:01.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정신병동' 장률 "어렵고도 아쉬웠던 연기...시즌2는 '꼭'"]]></title>
+        <id>https://v.daum.net/v/20231116185538349</id>
+        <link href="https://v.daum.net/v/20231116185538349"/>
+        <updated>2023-11-16T10:10:50.359Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김향기 "절대 들켜선 안돼"vs신현승 "꼭 찾을것"..쫓고 쫓기는 로맨스]]></title>
+        <id>https://v.daum.net/v/20231116185308290</id>
+        <link href="https://v.daum.net/v/20231116185308290"/>
+        <updated>2023-11-16T10:10:50.360Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['열녀박씨' 이세영, 편의점 냉동고에 머리박기 "소화 못하는 게 없다"]]></title>
+        <id>https://v.daum.net/v/20231116181238302</id>
+        <link href="https://v.daum.net/v/20231116181238302"/>
+        <updated>2023-11-16T10:10:50.361Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이네임' 악역→'정신아' 로맨티스트, 장률 "다른 건 몸무게 뿐, 감사한 숙제죠"]]></title>
         <id>https://v.daum.net/v/20231116180115951</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231116163026671"/>
         <updated>2023-11-16T08:13:22.855Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택시 기사 이성민→살인마 유연석, '운수 오진 날'로 드러낸 새 얼굴]]></title>
-        <id>https://v.daum.net/v/20231116162956639</id>
-        <link href="https://v.daum.net/v/20231116162956639"/>
-        <updated>2023-11-16T08:13:22.857Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['운수 오진 날' 이성민 "'재벌집 막내아들' 후 촬영, 계속 '회장님 같냐' 물어"]]></title>
-        <id>https://v.daum.net/v/20231116162616536</id>
-        <link href="https://v.daum.net/v/20231116162616536"/>
-        <updated>2023-11-16T08:13:22.861Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['운수 오진 날' 유연석 "악랄한 악역 처음, 감정들 납득 안 되기도"]]></title>
-        <id>https://v.daum.net/v/20231116162537511</id>
-        <link href="https://v.daum.net/v/20231116162537511"/>
-        <updated>2023-11-16T08:13:22.863Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
