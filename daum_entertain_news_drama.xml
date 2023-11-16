@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-16T03:10:45.916Z</updated>
+    <updated>2023-11-16T04:12:27.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://v.daum.net/v/20231116120105290"/>
         <updated>2023-11-16T03:10:33.017Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장률 "연우진은 사랑, 박보영은 기둥…실제로도 밝고 자상해"]]></title>
-        <id>https://v.daum.net/v/20231116114101337</id>
-        <link href="https://v.daum.net/v/20231116114101337"/>
-        <updated>2023-11-16T03:10:33.017Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['완결정' 이민영·이미숙, 사돈 간 기 싸움…긴장감 증폭]]></title>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20231116110402613"/>
         <updated>2023-11-16T02:23:51.438Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오사개’ 차은우, 박규영에 과거 학창 시절 트라우마 고백…한 발짝 가까워졌다]]></title>
+        <id>https://v.daum.net/v/20231116110311573</id>
+        <link href="https://v.daum.net/v/20231116110311573"/>
+        <updated>2023-11-16T04:12:16.840Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
