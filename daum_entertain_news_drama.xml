@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-16T13:13:36.131Z</updated>
+    <updated>2023-11-16T14:10:25.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 시즌2 암시? 박해진, 스스로 '개탈' 썼다]]></title>
+        <id>https://v.daum.net/v/20231116224346463</id>
+        <link href="https://v.daum.net/v/20231116224346463"/>
+        <updated>2023-11-16T14:10:15.803Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['국민사형투표' 시즌2 예고? 개탈 쓴 박해진+박성웅 생존 암시]]></title>
+        <id>https://v.daum.net/v/20231116224048417</id>
+        <link href="https://v.daum.net/v/20231116224048417"/>
+        <updated>2023-11-16T14:10:15.804Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성민도 극찬한 사이코패스 유연석..'운수오진날' 은퇴작 아니고서야]]></title>
         <id>https://v.daum.net/v/20231116220024438</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231116185308290"/>
         <updated>2023-11-16T10:10:50.360Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 이세영, 편의점 냉동고에 머리박기 "소화 못하는 게 없다"]]></title>
-        <id>https://v.daum.net/v/20231116181238302</id>
-        <link href="https://v.daum.net/v/20231116181238302"/>
-        <updated>2023-11-16T10:10:50.361Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이네임' 악역→'정신아' 로맨티스트, 장률 "다른 건 몸무게 뿐, 감사한 숙제죠"]]></title>
-        <id>https://v.daum.net/v/20231116180115951</id>
-        <link href="https://v.daum.net/v/20231116180115951"/>
-        <updated>2023-11-16T09:10:11.652Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
