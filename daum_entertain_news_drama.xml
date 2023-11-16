@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-16T14:10:25.942Z</updated>
+    <updated>2023-11-16T15:10:56.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅 생존→박해진 제2의 '개탈'? '국민사형투표' 시즌2 암시일까]]></title>
+        <id>https://v.daum.net/v/20231116233019985</id>
+        <link href="https://v.daum.net/v/20231116233019985"/>
+        <updated>2023-11-16T15:10:46.359Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민사형투표' 시즌2 암시? 박해진, 스스로 '개탈' 썼다]]></title>
         <id>https://v.daum.net/v/20231116224346463</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231116185538349</id>
         <link href="https://v.daum.net/v/20231116185538349"/>
         <updated>2023-11-16T10:10:50.359Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김향기 "절대 들켜선 안돼"vs신현승 "꼭 찾을것"..쫓고 쫓기는 로맨스]]></title>
-        <id>https://v.daum.net/v/20231116185308290</id>
-        <link href="https://v.daum.net/v/20231116185308290"/>
-        <updated>2023-11-16T10:10:50.360Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
