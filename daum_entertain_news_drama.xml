@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-17T12:18:06.975Z</updated>
+    <updated>2023-11-17T13:14:22.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 안은진, 기억 찾은 ♥남궁민에 "어딜가든 꼭 붙어있을 것"]]></title>
+        <id>https://v.daum.net/v/20231117220701034</id>
+        <link href="https://v.daum.net/v/20231117220701034"/>
+        <updated>2023-11-17T13:13:20.731Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민♥안은진 생방 촬영 ‘연인’ 누가 뭐래도 MBC 효자]]></title>
+        <id>https://v.daum.net/v/20231117211809412</id>
+        <link href="https://v.daum.net/v/20231117211809412"/>
+        <updated>2023-11-17T13:13:20.732Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 내일 최종회 100분 확대 편성 “오후 9시30분 방송”]]></title>
         <id>https://v.daum.net/v/20231117211528389</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231117172009566"/>
         <updated>2023-11-17T09:10:09.498Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박하선 “13년만 사극, ‘동이’ 인현왕후+‘하이킥’ 느낌”]]></title>
-        <id>https://v.daum.net/v/20231117171735481</id>
-        <link href="https://v.daum.net/v/20231117171735481"/>
-        <updated>2023-11-17T09:10:09.501Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고래와 나' PD "아기 100일인데 못 본 지 60일, 뼈 갈아넣었다"]]></title>
-        <id>https://v.daum.net/v/20231117171658472</id>
-        <link href="https://v.daum.net/v/20231117171658472"/>
-        <updated>2023-11-17T09:10:09.503Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
