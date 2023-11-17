@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-17T15:10:15.674Z</updated>
+    <updated>2023-11-17T16:14:09.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 탈출' 시즌2 예고.."이탈자는 죽음으로 응징"]]></title>
+        <id>https://v.daum.net/v/20231118001227836</id>
+        <link href="https://v.daum.net/v/20231118001227836"/>
+        <updated>2023-11-17T16:13:58.566Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '7인의 탈출' 이준, 배신당해 엄기준에 복수 '실패']]></title>
         <id>https://v.daum.net/v/20231117235150628</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231117202030669"/>
         <updated>2023-11-17T12:17:56.100Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오승아, 문지후·오세영 불륜 눈치 챘나.."너 내 베개 벴니?"]]></title>
-        <id>https://v.daum.net/v/20231117200010348</id>
-        <link href="https://v.daum.net/v/20231117200010348"/>
-        <updated>2023-11-17T11:08:30.298Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
