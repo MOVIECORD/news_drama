@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-17T11:09:32.219Z</updated>
+    <updated>2023-11-17T12:18:06.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 내일 최종회 100분 확대 편성 “오후 9시30분 방송”]]></title>
+        <id>https://v.daum.net/v/20231117211528389</id>
+        <link href="https://v.daum.net/v/20231117211528389"/>
+        <updated>2023-11-17T12:17:56.099Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 이시강, 남경읍 생존 사실 들통에 "한지완이 살해시도" 뻔뻔]]></title>
+        <id>https://v.daum.net/v/20231117202030669</id>
+        <link href="https://v.daum.net/v/20231117202030669"/>
+        <updated>2023-11-17T12:17:56.100Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오승아, 문지후·오세영 불륜 눈치 챘나.."너 내 베개 벴니?"]]></title>
         <id>https://v.daum.net/v/20231117200010348</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231117171658472"/>
         <updated>2023-11-17T09:10:09.503Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고래와 나' 한지민 "조카들과 고래 보다 제안 받아…운명이라 생각"]]></title>
-        <id>https://v.daum.net/v/20231117165549892</id>
-        <link href="https://v.daum.net/v/20231117165549892"/>
-        <updated>2023-11-17T08:12:48.412Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보영, 최우식 만날까..“'멜로 무비' 긍정 검토 중”]]></title>
-        <id>https://v.daum.net/v/20231117165020764</id>
-        <link href="https://v.daum.net/v/20231117165020764"/>
-        <updated>2023-11-17T08:12:48.412Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
