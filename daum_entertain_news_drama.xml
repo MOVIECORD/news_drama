@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-18T03:10:29.610Z</updated>
+    <updated>2023-11-18T04:11:44.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 탈출’ 이준, 여운 남기는 연기..시즌2 활약 어떨까]]></title>
+        <id>https://v.daum.net/v/20231118121125758</id>
+        <link href="https://v.daum.net/v/20231118121125758"/>
+        <updated>2023-11-18T04:11:32.175Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연인’ 안은진, 직접 청혼하는 사극 여주라니…들꽃 같은 사랑의 ‘재발견’]]></title>
         <id>https://v.daum.net/v/20231118114821500</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231118100855486"/>
         <updated>2023-11-18T01:50:26.629Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영 ‘연인’ 남궁민X안은진, 혼인 약속 지킬 수 있을까]]></title>
-        <id>https://v.daum.net/v/20231118100641462</id>
-        <link href="https://v.daum.net/v/20231118100641462"/>
-        <updated>2023-11-18T01:50:26.630Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
