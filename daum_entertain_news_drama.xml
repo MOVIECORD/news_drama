@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-18T06:12:08.429Z</updated>
+    <updated>2023-11-18T07:09:04.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성훈･정유민, 탕후루 부부 탄생..달콤한 극치 신혼일기]]></title>
+        <id>https://v.daum.net/v/20231118154908663</id>
+        <link href="https://v.daum.net/v/20231118154908663"/>
+        <updated>2023-11-18T07:08:54.138Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘생사기로’ 김동준, 백성현에 구원 요청..목숨 건 기다림 ‘초조’]]></title>
         <id>https://v.daum.net/v/20231118144304910</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231118114003443"/>
         <updated>2023-11-18T03:10:19.059Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미♥옹성우 해독제 비밀 파헤친다…변우석 잡을 단서 포착]]></title>
-        <id>https://v.daum.net/v/20231118113741426</id>
-        <link href="https://v.daum.net/v/20231118113741426"/>
-        <updated>2023-11-18T03:10:19.062Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
