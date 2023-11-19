@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-19T09:09:33.570Z</updated>
+    <updated>2023-11-19T10:10:07.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조진웅, 이선균 대신 '노웨이 아웃'…위기작 구원투수 될까]]></title>
+        <id>https://v.daum.net/v/20231119181002235</id>
+        <link href="https://v.daum.net/v/20231119181002235"/>
+        <updated>2023-11-19T10:09:57.802Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[절절한 이야기·신선한 캐릭터·배우들 호연…‘연인’, 통했다]]></title>
         <id>https://v.daum.net/v/20231119172118435</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231119134640621"/>
         <updated>2023-11-19T05:09:47.940Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희대의 악녀 진지희-이민영, 정유민에 사연 팔이 읍소]]></title>
-        <id>https://v.daum.net/v/20231119134157559</id>
-        <link href="https://v.daum.net/v/20231119134157559"/>
-        <updated>2023-11-19T05:09:47.940Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
