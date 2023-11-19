@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-19T10:10:07.381Z</updated>
+    <updated>2023-11-19T11:07:54.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["도망가고 싶기도 했지만"...남궁민→안은진, '연인' 마지막 인사]]></title>
+        <id>https://v.daum.net/v/20231119200626900</id>
+        <link href="https://v.daum.net/v/20231119200626900"/>
+        <updated>2023-11-19T11:07:47.291Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내년 1월 드라마 라인업 심쿵이네"…박민영·조정석·안보현, 누가 웃을까]]></title>
+        <id>https://v.daum.net/v/20231119200102864</id>
+        <link href="https://v.daum.net/v/20231119200102864"/>
+        <updated>2023-11-19T11:07:47.292Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조진웅, 이선균 대신 '노웨이 아웃'…위기작 구원투수 될까]]></title>
         <id>https://v.daum.net/v/20231119181002235</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231119135114703"/>
         <updated>2023-11-19T05:09:47.939Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워터멜론' 윤재찬 "오디션 위해 밤새 기타 연습…많이 울었죠" ①]]></title>
-        <id>https://v.daum.net/v/20231119135016682</id>
-        <link href="https://v.daum.net/v/20231119135016682"/>
-        <updated>2023-11-19T05:09:47.940Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘철벽’ 유이 vs. ‘플러팅 장인’ 하준, 로맨스의 향방은?]]></title>
-        <id>https://v.daum.net/v/20231119134640621</id>
-        <link href="https://v.daum.net/v/20231119134640621"/>
-        <updated>2023-11-19T05:09:47.940Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
