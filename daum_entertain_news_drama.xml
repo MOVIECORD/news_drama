@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-19T08:12:47.858Z</updated>
+    <updated>2023-11-19T09:09:33.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[절절한 이야기·신선한 캐릭터·배우들 호연…‘연인’, 통했다]]></title>
+        <id>https://v.daum.net/v/20231119172118435</id>
+        <link href="https://v.daum.net/v/20231119172118435"/>
+        <updated>2023-11-19T09:09:24.063Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조진웅, '노 웨이 아웃' 출연 확정..이선균 빈자리 채운다]]></title>
         <id>https://v.daum.net/v/20231119164309611</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231119134157559"/>
         <updated>2023-11-19T05:09:47.940Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강남순' 이유미=체첵 알게 된 변우석, 분노의 눈물..치열해질 마약 빌런과 '맞짱']]></title>
-        <id>https://v.daum.net/v/20231119134039548</id>
-        <link href="https://v.daum.net/v/20231119134039548"/>
-        <updated>2023-11-19T05:09:47.941Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
