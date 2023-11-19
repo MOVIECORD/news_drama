@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-19T15:10:23.144Z</updated>
+    <updated>2023-11-19T16:11:39.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채종협, 父이승준과 담판 짓나?..존속살해 형량 검색 '눈길']]></title>
+        <id>https://v.daum.net/v/20231120005324508</id>
+        <link href="https://v.daum.net/v/20231120005324508"/>
+        <updated>2023-11-19T16:11:29.462Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변우석, 이유미 배신에 '분노'→최희진 죽였다]]></title>
         <id>https://v.daum.net/v/20231119235533119</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231119222413533"/>
         <updated>2023-11-19T14:08:38.521Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도의 디바' 채종협 "박은빈에 마음 있다 " 고백]]></title>
-        <id>https://v.daum.net/v/20231119221142406</id>
-        <link href="https://v.daum.net/v/20231119221142406"/>
-        <updated>2023-11-19T14:08:38.523Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
