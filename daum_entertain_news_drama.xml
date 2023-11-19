@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-19T05:09:56.500Z</updated>
+    <updated>2023-11-19T06:12:23.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 와이프에 접근하지마" 성훈, ♥정유민 향한 진한 애정…거친 남성미]]></title>
+        <id>https://v.daum.net/v/20231119145538952</id>
+        <link href="https://v.daum.net/v/20231119145538952"/>
+        <updated>2023-11-19T06:12:13.224Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 가슴을 툭 건드린 채종협의 한 마디, 박은빈도 울렸다]]></title>
+        <id>https://v.daum.net/v/20231119143153544</id>
+        <link href="https://v.daum.net/v/20231119143153544"/>
+        <updated>2023-11-19T06:12:13.227Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['워터멜론' 윤재찬 "고두심 칭찬 뿌듯…박호산=친구 아버지" ③]]></title>
         <id>https://v.daum.net/v/20231119135215722</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231119120318457"/>
         <updated>2023-11-19T03:10:38.795Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워터멜론' 려운 "최현욱=분위기 메이커…설인아와 로맨스, 설렜다" ②]]></title>
-        <id>https://v.daum.net/v/20231119120215442</id>
-        <link href="https://v.daum.net/v/20231119120215442"/>
-        <updated>2023-11-19T03:10:38.795Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제가 좀 '귀염뽀짝'하죠"…최영우, 8kg 찌운 '연인' 용골대]]></title>
-        <id>https://v.daum.net/v/20231119120210440</id>
-        <link href="https://v.daum.net/v/20231119120210440"/>
-        <updated>2023-11-19T03:10:38.795Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
