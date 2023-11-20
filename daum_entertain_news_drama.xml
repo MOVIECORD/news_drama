@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-20T00:46:11.249Z</updated>
+    <updated>2023-11-20T01:53:49.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김효진, 박은빈 향한 배신감에 계약 종료 선언...워맨스 분열 위기]]></title>
+        <id>https://v.daum.net/v/20231120104130061</id>
+        <link href="https://v.daum.net/v/20231120104130061"/>
+        <updated>2023-11-20T01:53:38.043Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한양 울분남 로운, 전적으로 조이현 따르겠다더니…급발진]]></title>
+        <id>https://v.daum.net/v/20231120101602964</id>
+        <link href="https://v.daum.net/v/20231120101602964"/>
+        <updated>2023-11-20T01:53:38.044Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘혼례대첩’ 내일 월드컵 예선 한국vs중국 중계로 결방]]></title>
+        <id>https://v.daum.net/v/20231120101535948</id>
+        <link href="https://v.daum.net/v/20231120101535948"/>
+        <updated>2023-11-20T01:53:38.044Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 지승현 “구원무, 조선 시대상 반영한 인물‥여러분은 행복하시길”]]></title>
+        <id>https://v.daum.net/v/20231120100543543</id>
+        <link href="https://v.daum.net/v/20231120100543543"/>
+        <updated>2023-11-20T01:53:38.046Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유교걸 이세영vs철벽남 배인혁, 팽팽한 기싸움 포착]]></title>
         <id>https://v.daum.net/v/20231120094332630</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231120085024777"/>
         <updated>2023-11-20T00:45:09.258Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["알았구나, 누군지" 이유미 정체 발각…마약 게이트 터졌다]]></title>
-        <id>https://v.daum.net/v/20231120085014770</id>
-        <link href="https://v.daum.net/v/20231120085014770"/>
-        <updated>2023-11-20T00:45:09.260Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이동건=의자왕' 의혹에 김지석 "기간 짧을 뿐 한 사람에 충실"]]></title>
-        <id>https://v.daum.net/v/20231120084223587</id>
-        <link href="https://v.daum.net/v/20231120084223587"/>
-        <updated>2023-11-20T00:45:09.263Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘무인도의 디바’ 박은빈·김효진, 워맨스 분열 위기...최고 시청률 경신 ‘8.7%’]]></title>
-        <id>https://v.daum.net/v/20231120083555421</id>
-        <link href="https://v.daum.net/v/20231120083555421"/>
-        <updated>2023-11-20T00:45:09.264Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 분노 버튼 눌렀다…이유미X김정은X옹성우 사이다 활약]]></title>
-        <id>https://v.daum.net/v/20231120083147323</id>
-        <link href="https://v.daum.net/v/20231120083147323"/>
-        <updated>2023-11-20T00:45:09.266Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
