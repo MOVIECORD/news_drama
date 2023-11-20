@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-20T13:14:38.364Z</updated>
+    <updated>2023-11-20T14:10:16.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 로운 "조이현과 혼인해야겠다 결심"..절벽 추락→구원 엔딩]]></title>
+        <id>https://v.daum.net/v/20231120225443459</id>
+        <link href="https://v.daum.net/v/20231120225443459"/>
+        <updated>2023-11-20T14:10:08.534Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['혼례대첩' 로운, 조이현에 수줍게 전한 마음 "너에 대해 전부 알고 싶어"]]></title>
+        <id>https://v.daum.net/v/20231120223300350</id>
+        <link href="https://v.daum.net/v/20231120223300350"/>
+        <updated>2023-11-20T14:10:08.534Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["매일 설레게 해줄게. 오빠라고 불러"...남상지, 이도겸과 드디어 '1일']]></title>
         <id>https://v.daum.net/v/20231120214301886</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231120170410934"/>
         <updated>2023-11-20T08:14:03.634Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 결혼의 정석' 이민영, 욕망의 화신..절정의'독기 카리스마']]></title>
-        <id>https://v.daum.net/v/20231120165904713</id>
-        <link href="https://v.daum.net/v/20231120165904713"/>
-        <updated>2023-11-20T08:14:03.634Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 김민석에 멱살잡이 "팽팽한 신경전"]]></title>
-        <id>https://v.daum.net/v/20231120165805686</id>
-        <link href="https://v.daum.net/v/20231120165805686"/>
-        <updated>2023-11-20T08:14:03.634Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
