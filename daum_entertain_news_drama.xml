@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-20T14:10:16.024Z</updated>
+    <updated>2023-11-20T15:10:56.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘운수 오진 날’ 살인마 유연석과 동승… 이성민 악몽 시작됐다]]></title>
+        <id>https://v.daum.net/v/20231120234038770</id>
+        <link href="https://v.daum.net/v/20231120234038770"/>
+        <updated>2023-11-20T15:10:46.418Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 로운 "조이현과 혼인해야겠다 결심"..절벽 추락→구원 엔딩]]></title>
         <id>https://v.daum.net/v/20231120225443459</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120170545002"/>
         <updated>2023-11-20T08:14:03.631Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찌질이로 변신한 임시완… ‘소년시대’, 웃음으로 시청자 붙드나]]></title>
-        <id>https://v.daum.net/v/20231120170410934</id>
-        <link href="https://v.daum.net/v/20231120170410934"/>
-        <updated>2023-11-20T08:14:03.634Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
