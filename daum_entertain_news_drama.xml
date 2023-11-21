@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-21T10:17:33.926Z</updated>
+    <updated>2023-11-21T11:09:42.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아, 문지후X오세영 관계 의심... 배신감에 망연자실]]></title>
+        <id>https://v.daum.net/v/20231121194831015</id>
+        <link href="https://v.daum.net/v/20231121194831015"/>
+        <updated>2023-11-21T11:08:40.828Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 안은진 "남궁민과 '척하면 척'…베스트커플상 원해"]]></title>
         <id>https://v.daum.net/v/20231121190142142</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231121154524832"/>
         <updated>2023-11-21T07:09:25.277Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜진, 차기작 ‘아임홈’ 긍정 검토 중...연기 행보 이상 無]]></title>
-        <id>https://v.daum.net/v/20231121153013239</id>
-        <link href="https://v.daum.net/v/20231121153013239"/>
-        <updated>2023-11-21T07:09:25.277Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
