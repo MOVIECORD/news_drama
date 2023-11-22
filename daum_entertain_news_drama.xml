@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-22T21:10:00.598Z</updated>
+    <updated>2023-11-22T22:09:02.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 이학주 “날 좋아해준 남궁민 선배, 내가 뭐만 하면 웃더라”]]></title>
+        <id>https://v.daum.net/v/20231123070012590</id>
+        <link href="https://v.daum.net/v/20231123070012590"/>
+        <updated>2023-11-22T22:08:54.941Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카멜레온 변신...‘무인도의 디바’ 박은빈, 어떤 연기도 맛깔나게①]]></title>
         <id>https://v.daum.net/v/20231123060016738</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231122183518768"/>
         <updated>2023-11-22T10:11:32.555Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웰컴투 삼달리' 신혜선X신동미X강미나, 연애도 성격대로 '3달 시스터즈']]></title>
-        <id>https://v.daum.net/v/20231122182808626</id>
-        <link href="https://v.daum.net/v/20231122182808626"/>
-        <updated>2023-11-22T10:11:32.558Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
