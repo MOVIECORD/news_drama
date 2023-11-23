@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-23T07:09:48.212Z</updated>
+    <updated>2023-11-23T08:12:44.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비질란테' 이준혁, 이렇게 순수한 광기를 봤나...공감 부르는 '짭질란테']]></title>
+        <id>https://v.daum.net/v/20231123170808830</id>
+        <link href="https://v.daum.net/v/20231123170808830"/>
+        <updated>2023-11-23T08:12:33.109Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국민사형투표’ 서영주 “28일 군입대, 일 끊길까 무섭지만..다시 처음부터”]]></title>
+        <id>https://v.daum.net/v/20231123164418949</id>
+        <link href="https://v.daum.net/v/20231123164418949"/>
+        <updated>2023-11-23T08:12:33.109Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘국민사형투표’ 서영주 “임지연, 센 이미지 무서웠는데..현장서 ‘웃음꽃’”]]></title>
         <id>https://v.daum.net/v/20231123160429493</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231123145250394"/>
         <updated>2023-11-23T06:13:06.031Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍예지, '세자가 사라졌다' 합류 확정…주인공 발탁]]></title>
-        <id>https://v.daum.net/v/20231123141831574</id>
-        <link href="https://v.daum.net/v/20231123141831574"/>
-        <updated>2023-11-23T06:13:06.032Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남주혁 바라기' 이준혁, 마스크 벗었다…희열+짜릿]]></title>
-        <id>https://v.daum.net/v/20231123141402330</id>
-        <link href="https://v.daum.net/v/20231123141402330"/>
-        <updated>2023-11-23T06:13:06.037Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
