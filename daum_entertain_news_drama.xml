@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T19:08:18.703Z</updated>
+    <updated>2023-11-24T20:10:08.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 송강, "계약은 잊지 않았겠지?"…김유정과 손잡고 '데몬' 능력 상실]]></title>
+        <id>https://v.daum.net/v/20231125045700333</id>
+        <link href="https://v.daum.net/v/20231125045700333"/>
+        <updated>2023-11-24T20:09:59.097Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조혜주 "이사장에게 난 유일한 반려 인간", 송강♥김유정에 질투 폭발]]></title>
         <id>https://v.daum.net/v/20231124235101084</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124221103625"/>
         <updated>2023-11-24T13:12:01.783Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30kg대' 박민영→'20kg 증량' 유지태…충격과 감탄 사이 ★들의 고무줄 몸무게]]></title>
-        <id>https://v.daum.net/v/20231124220101387</id>
-        <link href="https://v.daum.net/v/20231124220101387"/>
-        <updated>2023-11-24T13:12:01.784Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
