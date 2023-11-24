@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T02:21:21.780Z</updated>
+    <updated>2023-11-24T03:11:26.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["따뜻한 작품 하려했는데"…남지현, 그럼에도 '하이쿠키' 빚은 이유]]></title>
+        <id>https://v.daum.net/v/20231124120624888</id>
+        <link href="https://v.daum.net/v/20231124120624888"/>
+        <updated>2023-11-24T03:11:18.188Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하이쿠키' 남지현 "마약 이슈 의도 NO…인간 욕망 다룬 작품"]]></title>
+        <id>https://v.daum.net/v/20231124120306811</id>
+        <link href="https://v.daum.net/v/20231124120306811"/>
+        <updated>2023-11-24T03:11:18.193Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남지현 "'하이쿠키'=마약 파문 NO..쉽게 얻으면 쉽게 잃는다"]]></title>
+        <id>https://v.daum.net/v/20231124115125381</id>
+        <link href="https://v.daum.net/v/20231124115125381"/>
+        <updated>2023-11-24T03:11:18.193Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한효주, 국제 에미상서 빛낸 존재감..한국어 인사+영어 시상]]></title>
+        <id>https://v.daum.net/v/20231124113428875</id>
+        <link href="https://v.daum.net/v/20231124113428875"/>
+        <updated>2023-11-24T03:11:18.195Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 깜짝 1위…'고려 거란 전쟁', KBS 효자 작품 될까]]></title>
+        <id>https://v.daum.net/v/20231124112414542</id>
+        <link href="https://v.daum.net/v/20231124112414542"/>
+        <updated>2023-11-24T03:11:18.197Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미♥옹성우 사랑의 맹세 중…김해숙 단단히 화났네]]></title>
         <id>https://v.daum.net/v/20231124103720664</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231124091354588"/>
         <updated>2023-11-24T00:43:21.720Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['푸바오와 할부지', 첫방부터 시청률 4.1%…역시 '슈푸스타']]></title>
-        <id>https://v.daum.net/v/20231124091242567</id>
-        <link href="https://v.daum.net/v/20231124091242567"/>
-        <updated>2023-11-24T00:43:21.723Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손풍기좌' 10기 영수, 열애 중 "여친 띠동갑 보다 어려…재혼 계획 有"]]></title>
-        <id>https://v.daum.net/v/20231124090417313</id>
-        <link href="https://v.daum.net/v/20231124090417313"/>
-        <updated>2023-11-24T00:43:21.724Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘얄밉재’ 돌아온다…이준혁·박성웅 ‘좋거나 나쁜 동재’ 출연확정]]></title>
-        <id>https://v.daum.net/v/20231124085455002</id>
-        <link href="https://v.daum.net/v/20231124085455002"/>
-        <updated>2023-11-24T00:43:21.724Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차원이 다르다" 첫 방송 D-DAY 이세영♥배인혁 '열녀박씨 계약결혼뎐', 관전 포인트 넷]]></title>
-        <id>https://v.daum.net/v/20231124085302959</id>
-        <link href="https://v.daum.net/v/20231124085302959"/>
-        <updated>2023-11-24T00:43:21.726Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁', 흥화진 전투 본격 포문.."진흙 속 진주 같은 전투"]]></title>
-        <id>https://v.daum.net/v/20231124084850840</id>
-        <link href="https://v.daum.net/v/20231124084850840"/>
-        <updated>2023-11-24T00:43:21.727Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
