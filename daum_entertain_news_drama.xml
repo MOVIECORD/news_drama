@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T08:13:34.183Z</updated>
+    <updated>2023-11-24T09:10:36.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이도겸, 남상지와 본격 '열애' 시작]]></title>
+        <id>https://v.daum.net/v/20231124172218426</id>
+        <link href="https://v.daum.net/v/20231124172218426"/>
+        <updated>2023-11-24T09:10:26.651Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인'의 금토극 왕좌…'열녀박씨'VS'마이데몬', 후계자는 누구?]]></title>
         <id>https://v.daum.net/v/20231124170008887</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124153018332"/>
         <updated>2023-11-24T07:09:18.978Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정 "이상이와 1년간 매일같이 보고 있어, 어색할까 걱정"]]></title>
-        <id>https://v.daum.net/v/20231124152902275</id>
-        <link href="https://v.daum.net/v/20231124152902275"/>
-        <updated>2023-11-24T07:09:18.978Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
