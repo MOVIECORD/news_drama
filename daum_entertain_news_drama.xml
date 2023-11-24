@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T11:09:36.355Z</updated>
+    <updated>2023-11-24T12:20:04.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 손성윤, 한지완 유전자 검사 결과에 패닉 "수아母 아냐"]]></title>
+        <id>https://v.daum.net/v/20231124201830710</id>
+        <link href="https://v.daum.net/v/20231124201830710"/>
+        <updated>2023-11-24T12:19:01.966Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오세영, 문지후에 "당신 子 숨어서 낳았다" 충격 고백]]></title>
         <id>https://v.daum.net/v/20231124200507318</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124162825092"/>
         <updated>2023-11-24T08:12:32.231Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마약거래 다룬 '하이쿠키' 남지현 "해피엔딩 아니라서 다행"]]></title>
-        <id>https://v.daum.net/v/20231124154329786</id>
-        <link href="https://v.daum.net/v/20231124154329786"/>
-        <updated>2023-11-24T07:09:18.971Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
