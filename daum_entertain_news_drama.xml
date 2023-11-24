@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T10:11:26.440Z</updated>
+    <updated>2023-11-24T11:09:36.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오세영, 문지후에 "당신 子 숨어서 낳았다" 충격 고백]]></title>
+        <id>https://v.daum.net/v/20231124200507318</id>
+        <link href="https://v.daum.net/v/20231124200507318"/>
+        <updated>2023-11-24T11:08:34.377Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 남연준은 빌런?…이학주, 남궁민과 싸우며 배운 것]]></title>
+        <id>https://v.daum.net/v/20231124200230261</id>
+        <link href="https://v.daum.net/v/20231124200230261"/>
+        <updated>2023-11-24T11:08:34.378Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["쉽게 얻으면 쉽게 잃어" 남지현, 마약 파문 속 묵직한 소신]]></title>
+        <id>https://v.daum.net/v/20231124195002885</id>
+        <link href="https://v.daum.net/v/20231124195002885"/>
+        <updated>2023-11-24T11:08:34.381Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 문지후에 출산 고백 "가정 지켜주려 숨어서 낳아" 뻔뻔]]></title>
+        <id>https://v.daum.net/v/20231124194930863</id>
+        <link href="https://v.daum.net/v/20231124194930863"/>
+        <updated>2023-11-24T11:08:34.381Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오승아, 문지후에 이혼 요구 "어떻게 내 침대서 사랑을 나눠"]]></title>
+        <id>https://v.daum.net/v/20231124192721366</id>
+        <link href="https://v.daum.net/v/20231124192721366"/>
+        <updated>2023-11-24T11:08:34.382Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 떠난 금토극, 계약결혼 다룬 '열녀박씨' vs '마이데몬', 나란히 첫방]]></title>
         <id>https://v.daum.net/v/20231124190004658</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231124154329786"/>
         <updated>2023-11-24T07:09:18.971Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 남다른 농구 실력 "고수의 냄새 솔솔"]]></title>
-        <id>https://v.daum.net/v/20231124154307774</id>
-        <link href="https://v.daum.net/v/20231124154307774"/>
-        <updated>2023-11-24T07:09:18.971Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아는 맛 중 가장 맛있는"… 김유정X송강 '마이 데몬', 완벽 비주얼 로코]]></title>
-        <id>https://v.daum.net/v/20231124154253764</id>
-        <link href="https://v.daum.net/v/20231124154253764"/>
-        <updated>2023-11-24T07:09:18.971Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이데몬' 김유정X송강, 아는 맛 극대화시킬 판타지 비주얼]]></title>
-        <id>https://v.daum.net/v/20231124154045705</id>
-        <link href="https://v.daum.net/v/20231124154045705"/>
-        <updated>2023-11-24T07:09:18.972Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잘 봐, 잘 자란 아역들 싸움이다"..이세영vs김유정, '계약 결혼'으로 맞짱]]></title>
-        <id>https://v.daum.net/v/20231124154031700</id>
-        <link href="https://v.daum.net/v/20231124154031700"/>
-        <updated>2023-11-24T07:09:18.974Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정·송강 '마이 데몬' 완벽한 비주얼 조합…"아는 맛이 더 맛나"]]></title>
-        <id>https://v.daum.net/v/20231124153702554</id>
-        <link href="https://v.daum.net/v/20231124153702554"/>
-        <updated>2023-11-24T07:09:18.974Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
