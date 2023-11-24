@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T00:43:32.798Z</updated>
+    <updated>2023-11-24T01:50:00.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유미♥옹성우 사랑의 맹세 중…김해숙 단단히 화났네]]></title>
+        <id>https://v.daum.net/v/20231124103720664</id>
+        <link href="https://v.daum.net/v/20231124103720664"/>
+        <updated>2023-11-24T01:48:57.977Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로코 장인 지창욱♥신혜선 ‘웰컴투 삼달리’ 기대 포인트 셋]]></title>
+        <id>https://v.daum.net/v/20231124100615556</id>
+        <link href="https://v.daum.net/v/20231124100615556"/>
+        <updated>2023-11-24T01:48:57.977Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로운♥조이현 서사 화룡점정, 엔딩만 봐도 안다]]></title>
+        <id>https://v.daum.net/v/20231124095501050</id>
+        <link href="https://v.daum.net/v/20231124095501050"/>
+        <updated>2023-11-24T01:48:57.982Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이데몬' 김유정·송강, '열녀박씨' 이세영·배인혁과 정면 대결]]></title>
         <id>https://v.daum.net/v/20231124093914485</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231124084850840"/>
         <updated>2023-11-24T00:43:21.727Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘좋거나 나쁜 동재’ 이준혁vs박성웅, 진흙탕 싸움 예고]]></title>
-        <id>https://v.daum.net/v/20231124083800607</id>
-        <link href="https://v.daum.net/v/20231124083800607"/>
-        <updated>2023-11-24T00:43:21.728Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 소현세자 김무준 "남궁민 조언 듣고 눈물..눈빛 남달랐죠"]]></title>
-        <id>https://v.daum.net/v/20231124083010459</id>
-        <link href="https://v.daum.net/v/20231124083010459"/>
-        <updated>2023-11-24T00:43:21.730Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 탈출'로 비난받은 SBS, 김유정X송강 '마이 데몬'으로 금토극 부진 씻을까]]></title>
-        <id>https://v.daum.net/v/20231124083009458</id>
-        <link href="https://v.daum.net/v/20231124083009458"/>
-        <updated>2023-11-24T00:43:21.731Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
