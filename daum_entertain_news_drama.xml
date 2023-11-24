@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-24T21:08:50.894Z</updated>
+    <updated>2023-11-24T22:09:00.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '마이데몬' 김유정·송강, '또라X들'의 만남…비주얼 美쳤다]]></title>
+        <id>https://v.daum.net/v/20231125070503334</id>
+        <link href="https://v.daum.net/v/20231125070503334"/>
+        <updated>2023-11-24T22:08:50.085Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘연인’ 김무준 “남궁민 눈빛·목소리 찡해, 지문에 없던 눈물 흘렀다”]]></title>
+        <id>https://v.daum.net/v/20231125070012228</id>
+        <link href="https://v.daum.net/v/20231125070012228"/>
+        <updated>2023-11-24T22:08:50.085Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하이쿠키’ 남지현 “보자마자 동생같았던 정다빈, 최현욱=한방 있는 배우]]></title>
+        <id>https://v.daum.net/v/20231125070008219</id>
+        <link href="https://v.daum.net/v/20231125070008219"/>
+        <updated>2023-11-24T22:08:50.085Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신이 주선한 맞선?"..'마이데몬' 김유정♥송강, 달콤살벌 첫 만남]]></title>
         <id>https://v.daum.net/v/20231125055101479</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231124232738849"/>
         <updated>2023-11-24T15:09:47.399Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '마이데몬' 김유정X송강, 강렬 첫 만남 "이 잘생긴 또라X 뭐지?"]]></title>
-        <id>https://v.daum.net/v/20231124232638837</id>
-        <link href="https://v.daum.net/v/20231124232638837"/>
-        <updated>2023-11-24T15:09:47.399Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '마이데몬' 김유정, 송강과 맞선→위기 속 '데몬' 능력 교환]]></title>
-        <id>https://v.daum.net/v/20231124231618759</id>
-        <link href="https://v.daum.net/v/20231124231618759"/>
-        <updated>2023-11-24T15:09:47.399Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 이세영X배인혁, 첫방부터 호감…"혼인하셨습니까"]]></title>
-        <id>https://v.daum.net/v/20231124231338742</id>
-        <link href="https://v.daum.net/v/20231124231338742"/>
-        <updated>2023-11-24T15:09:47.399Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
