@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-25T17:08:19.421Z</updated>
+    <updated>2023-11-25T18:11:33.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 송강, 김유정에 "지금은 네 손목에 있지만 원래는 내 것"…'데몬 능력' 상실]]></title>
+        <id>https://v.daum.net/v/20231126025100745</id>
+        <link href="https://v.daum.net/v/20231126025100745"/>
+        <updated>2023-11-25T18:11:23.310Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['열녀박씨' 배인혁♥이세영, 목숨까지 건 사랑 예언···결혼·키스·동거까지]]></title>
         <id>https://v.daum.net/v/20231126000818405</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125224054984"/>
         <updated>2023-11-25T14:09:10.524Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려거란전쟁’ 드디어 전쟁 시작.. 김동준, 출정 앞둔 이원종에 “꼭 승리하라”]]></title>
-        <id>https://v.daum.net/v/20231125223924982</id>
-        <link href="https://v.daum.net/v/20231125223924982"/>
-        <updated>2023-11-25T14:09:10.525Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
