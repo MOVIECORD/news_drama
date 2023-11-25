@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-25T09:09:21.228Z</updated>
+    <updated>2023-11-25T10:10:33.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년시대' 홀린 비주얼 여신, 아이즈원 출신 강혜원이었네!]]></title>
+        <id>https://v.daum.net/v/20231125190514524</id>
+        <link href="https://v.daum.net/v/20231125190514524"/>
+        <updated>2023-11-25T10:09:31.411Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세영, 김유정과 정면 대결서 먼저 웃었다…한복+사극 필승 조합]]></title>
+        <id>https://v.daum.net/v/20231125190102462</id>
+        <link href="https://v.daum.net/v/20231125190102462"/>
+        <updated>2023-11-25T10:09:31.412Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1위 기선제압한 '열녀박씨', 이세영♡배인혁 '허리 꺾기' 눈맞춤 유혹]]></title>
         <id>https://v.daum.net/v/20231125171124543</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231125131733503"/>
         <updated>2023-11-25T05:09:05.368Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제발 2년 전처럼만! MBC가 남궁민 잇는 이세영에 거는 기대]]></title>
-        <id>https://v.daum.net/v/20231125131705493</id>
-        <link href="https://v.daum.net/v/20231125131705493"/>
-        <updated>2023-11-25T05:09:05.369Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨', 연기대상서 '연인' 대항마 될까]]></title>
-        <id>https://v.daum.net/v/20231125130553363</id>
-        <link href="https://v.daum.net/v/20231125130553363"/>
-        <updated>2023-11-25T04:12:02.175Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
