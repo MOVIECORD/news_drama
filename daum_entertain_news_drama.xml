@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-26T15:09:12.215Z</updated>
+    <updated>2023-11-26T16:11:18.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['강남순' 이유미♥옹성우 해피엔딩…변우석 사망→힘쎈男 장충동 예고]]></title>
+        <id>https://v.daum.net/v/20231127002758010</id>
+        <link href="https://v.daum.net/v/20231127002758010"/>
+        <updated>2023-11-26T16:11:07.602Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변우석 쓸쓸한 죽음, 김정은 "빙산의 일각만 쳐냈을 뿐. 범죄는 끝나지 않는다"]]></title>
         <id>https://v.daum.net/v/20231126234101642</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231126210002732"/>
         <updated>2023-11-26T12:16:06.751Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤미라, 딸 유이 1억 적금 깨고 “나 죽으면 생명보험금 타”]]></title>
-        <id>https://v.daum.net/v/20231126204752675</id>
-        <link href="https://v.daum.net/v/20231126204752675"/>
-        <updated>2023-11-26T12:16:06.752Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
