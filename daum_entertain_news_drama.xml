@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-26T06:13:18.967Z</updated>
+    <updated>2023-11-26T07:09:56.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 강승호, 서늘한 광기 속 강렬 눈도장]]></title>
+        <id>https://v.daum.net/v/20231126160553158</id>
+        <link href="https://v.daum.net/v/20231126160553158"/>
+        <updated>2023-11-26T07:08:54.956Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유이 "직접거리지마" vs 하준 "안 직접대겠다"..'효심이네' 러브라인 위기]]></title>
+        <id>https://v.daum.net/v/20231126154846791</id>
+        <link href="https://v.daum.net/v/20231126154846791"/>
+        <updated>2023-11-26T07:08:54.956Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동준, 홍화진 전투 걱정..고민 끝 사찰行]]></title>
         <id>https://v.daum.net/v/20231126144754668</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231126112920158</id>
         <link href="https://v.daum.net/v/20231126112920158"/>
         <updated>2023-11-26T03:10:58.304Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유선호, 재벌 3세 셀럽 첫 등장…이세영과 첫 만남부터 묘한 인연]]></title>
-        <id>https://v.daum.net/v/20231126110820840</id>
-        <link href="https://v.daum.net/v/20231126110820840"/>
-        <updated>2023-11-26T02:24:23.206Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 데몬' 송강, 판타지 만찢남의 정석]]></title>
-        <id>https://v.daum.net/v/20231126103020235</id>
-        <link href="https://v.daum.net/v/20231126103020235"/>
-        <updated>2023-11-26T01:55:15.536Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
