@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-26T12:16:16.973Z</updated>
+    <updated>2023-11-26T13:10:56.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승준, 서정연에 “차학연, 채종협 데리고 들어와”→차학연 '분노']]></title>
+        <id>https://v.daum.net/v/20231126215103081</id>
+        <link href="https://v.daum.net/v/20231126215103081"/>
+        <updated>2023-11-26T13:10:45.718Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 유이 "찝쩍거리지 마라" 경고..하준 "말 심해" 급싸늘]]></title>
+        <id>https://v.daum.net/v/20231126213258954</id>
+        <link href="https://v.daum.net/v/20231126213258954"/>
+        <updated>2023-11-26T13:10:45.718Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 이휘향, 임주은에 유이에 대해 물었다 "내가 도와줄게요"]]></title>
+        <id>https://v.daum.net/v/20231126212131882</id>
+        <link href="https://v.daum.net/v/20231126212131882"/>
+        <updated>2023-11-26T13:10:45.718Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음주운전' 배성우, 어물쩍 복귀를 향한 두 가지 시선]]></title>
         <id>https://v.daum.net/v/20231126210002732</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231126143538479"/>
         <updated>2023-11-26T06:12:12.648Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고백공격' 김도훈 "왜 내 마음을 녹용"…채원빈과 순수X풋풋 캠퍼스 로맨스]]></title>
-        <id>https://v.daum.net/v/20231126142806346</id>
-        <link href="https://v.daum.net/v/20231126142806346"/>
-        <updated>2023-11-26T06:12:12.649Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈, 가수 전격 데뷔..녹음실 비하인드컷 공개]]></title>
-        <id>https://v.daum.net/v/20231126140039002</id>
-        <link href="https://v.daum.net/v/20231126140039002"/>
-        <updated>2023-11-26T05:09:15.611Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네' 유이♥하준 러브라인 먹구름? "집적거리지 마라"]]></title>
-        <id>https://v.daum.net/v/20231126135429918</id>
-        <link href="https://v.daum.net/v/20231126135429918"/>
-        <updated>2023-11-26T05:09:15.611Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
