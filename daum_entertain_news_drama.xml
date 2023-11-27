@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-27T12:18:40.411Z</updated>
+    <updated>2023-11-27T13:13:47.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성민x유연석이 해냈다..'운수오진날', 티빙 유료가입기여자수 1위]]></title>
+        <id>https://v.daum.net/v/20231127212824629</id>
+        <link href="https://v.daum.net/v/20231127212824629"/>
+        <updated>2023-11-27T13:13:38.368Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미 "맨손으로 비행기 세운 남순이, 희열 느꼈죠"]]></title>
         <id>https://v.daum.net/v/20231127210217387</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231127175002935"/>
         <updated>2023-11-27T09:11:07.064Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이데몬' 김법래, 안방극장 사로잡은 노련한 연기 내공]]></title>
-        <id>https://v.daum.net/v/20231127173323472</id>
-        <link href="https://v.daum.net/v/20231127173323472"/>
-        <updated>2023-11-27T09:11:07.066Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
