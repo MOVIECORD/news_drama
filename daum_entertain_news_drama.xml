@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-27T09:11:17.057Z</updated>
+    <updated>2023-11-27T10:11:19.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선덕여왕' 아역이 곧 30대… 남지현의 낯선 도전 '하이쿠키']]></title>
+        <id>https://v.daum.net/v/20231127190215712</id>
+        <link href="https://v.daum.net/v/20231127190215712"/>
+        <updated>2023-11-27T10:11:09.258Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안정원은 죽었다..연쇄살인마 유연석만 남았다]]></title>
+        <id>https://v.daum.net/v/20231127184237350</id>
+        <link href="https://v.daum.net/v/20231127184237350"/>
+        <updated>2023-11-27T10:11:09.260Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥행 공식이 된 이세영, 떡잎부터 남달랐던 '사극 여신' 등극]]></title>
+        <id>https://v.daum.net/v/20231127182401916</id>
+        <link href="https://v.daum.net/v/20231127182401916"/>
+        <updated>2023-11-27T10:11:09.263Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유미 "'힘쎈' 시리즈 부담됐지만…시즌3, 불러주면 신나게"]]></title>
         <id>https://v.daum.net/v/20231127175013944</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231127155537536"/>
         <updated>2023-11-27T07:10:10.369Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진, 이번엔 김은숙 작가 손잡나...'다 이루어질지니'도 러브콜]]></title>
-        <id>https://v.daum.net/v/20231127154917184</id>
-        <link href="https://v.daum.net/v/20231127154917184"/>
-        <updated>2023-11-27T07:10:10.372Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美매체, '마이데몬' 호평..."송강·김유정 모든 게 옳다"]]></title>
-        <id>https://v.daum.net/v/20231127154100772</id>
-        <link href="https://v.daum.net/v/20231127154100772"/>
-        <updated>2023-11-27T07:10:10.372Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성X신현빈의 소리 없는 사랑 이야기 '사랑한다고 말해줘']]></title>
-        <id>https://v.daum.net/v/20231127153813662</id>
-        <link href="https://v.daum.net/v/20231127153813662"/>
-        <updated>2023-11-27T07:10:10.372Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
