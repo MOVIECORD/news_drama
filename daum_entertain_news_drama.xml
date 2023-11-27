@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-27T15:11:06.699Z</updated>
+    <updated>2023-11-27T16:14:12.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['데뷔 34년차' 이영애, 연기 열정 여전...'마에스트라' 1년 준비]]></title>
+        <id>https://v.daum.net/v/20231128010131102</id>
+        <link href="https://v.daum.net/v/20231128010131102"/>
+        <updated>2023-11-27T16:13:10.434Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 조이현 "로운 좋아하냐고? 내겐 서방님뿐" 연모 부정]]></title>
         <id>https://v.daum.net/v/20231127223700235</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231127182401916"/>
         <updated>2023-11-27T10:11:09.263Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유미 "'힘쎈' 시리즈 부담됐지만…시즌3, 불러주면 신나게"]]></title>
-        <id>https://v.daum.net/v/20231127175013944</id>
-        <link href="https://v.daum.net/v/20231127175013944"/>
-        <updated>2023-11-27T09:11:07.064Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
