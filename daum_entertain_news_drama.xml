@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T06:13:49.383Z</updated>
+    <updated>2023-11-28T07:09:32.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스위트홈2', 무너진 아파트 아닌 더 큰 무대로..CG 아닌 폐공장 세트였다]]></title>
+        <id>https://v.daum.net/v/20231128160802192</id>
+        <link href="https://v.daum.net/v/20231128160802192"/>
+        <updated>2023-11-28T07:09:22.724Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유연석 너무 무서워"…이성민 택시 탄 살인마, 알고봐도 소름]]></title>
+        <id>https://v.daum.net/v/20231128160036858</id>
+        <link href="https://v.daum.net/v/20231128160036858"/>
+        <updated>2023-11-28T07:09:22.724Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정, 첫 연극 도전…자폐 극복한 동물학자 役]]></title>
         <id>https://v.daum.net/v/20231128150310533</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231128124259229"/>
         <updated>2023-11-28T04:12:23.762Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성이 선택한 멜로, 말로는 다 못할 사랑의 시작]]></title>
-        <id>https://v.daum.net/v/20231128115507229</id>
-        <link href="https://v.daum.net/v/20231128115507229"/>
-        <updated>2023-11-28T03:10:47.788Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFX·세트·로케이션도 커졌다…이도현 찾는 고민시 "인상 깊었죠"]]></title>
-        <id>https://v.daum.net/v/20231128114601970</id>
-        <link href="https://v.daum.net/v/20231128114601970"/>
-        <updated>2023-11-28T03:10:47.788Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
