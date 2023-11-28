@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T10:11:17.468Z</updated>
+    <updated>2023-11-28T11:08:40.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["멜로 눈빛 장착"…진한 '어른 멜로' 온다]]></title>
+        <id>https://v.daum.net/v/20231128195003357</id>
+        <link href="https://v.daum.net/v/20231128195003357"/>
+        <updated>2023-11-28T11:08:30.602Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 문지후 "내 선택은 불륜녀 아닌 가족" 뻔뻔의 극치... 오승아 분노]]></title>
+        <id>https://v.daum.net/v/20231128194930355</id>
+        <link href="https://v.daum.net/v/20231128194930355"/>
+        <updated>2023-11-28T11:08:30.602Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라 "안쓰럽고 좋았다"…장르물로 파격 연기 변신]]></title>
         <id>https://v.daum.net/v/20231128184426196</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231128160802192"/>
         <updated>2023-11-28T07:09:22.724Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유연석 너무 무서워"…이성민 택시 탄 살인마, 알고봐도 소름]]></title>
-        <id>https://v.daum.net/v/20231128160036858</id>
-        <link href="https://v.daum.net/v/20231128160036858"/>
-        <updated>2023-11-28T07:09:22.724Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정, 첫 연극 도전…자폐 극복한 동물학자 役]]></title>
-        <id>https://v.daum.net/v/20231128150310533</id>
-        <link href="https://v.daum.net/v/20231128150310533"/>
-        <updated>2023-11-28T06:13:39.382Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
