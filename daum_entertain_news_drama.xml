@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T19:09:20.288Z</updated>
+    <updated>2023-11-28T20:10:58.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["피해 1000억"…마약 스타에 우는 제작 업계, 대안 없나]]></title>
+        <id>https://v.daum.net/v/20231129050050287</id>
+        <link href="https://v.daum.net/v/20231129050050287"/>
+        <updated>2023-11-28T20:10:48.175Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬의생' 스핀오프에 서이서 합류...비현실적으로 잘생긴 의사 선생님]]></title>
         <id>https://v.daum.net/v/20231129030031493</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231128164539665"/>
         <updated>2023-11-28T08:13:40.985Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑자기 살인자 된 조이현, ♥로운과 가시밭길? '열렬 지지자' 김현목 변심]]></title>
-        <id>https://v.daum.net/v/20231128164203523</id>
-        <link href="https://v.daum.net/v/20231128164203523"/>
-        <updated>2023-11-28T08:13:40.987Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
