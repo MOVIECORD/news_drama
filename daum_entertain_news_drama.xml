@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T03:11:49.761Z</updated>
+    <updated>2023-11-28T04:12:34.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정병아' 이재규 감독 "연출의 70%는 캐스팅, 좋은 배우를 보는 것 만으로도 충분해"]]></title>
+        <id>https://v.daum.net/v/20231128130227478</id>
+        <link href="https://v.daum.net/v/20231128130227478"/>
+        <updated>2023-11-28T04:12:23.762Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석 첫사랑 한동희, 청초 비주얼과 상반된 사이코패스 면모]]></title>
+        <id>https://v.daum.net/v/20231128124259229</id>
+        <link href="https://v.daum.net/v/20231128124259229"/>
+        <updated>2023-11-28T04:12:23.762Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성이 선택한 멜로, 말로는 다 못할 사랑의 시작]]></title>
         <id>https://v.daum.net/v/20231128115507229</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231128094646206"/>
         <updated>2023-11-28T01:53:44.639Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 박호산→예수정, 이영애와 남다른 인연으로 등장할 '다섯 인물']]></title>
-        <id>https://v.daum.net/v/20231128093217634</id>
-        <link href="https://v.daum.net/v/20231128093217634"/>
-        <updated>2023-11-28T00:45:21.580Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남주혁, 핏빛 메시지 받았다…목숨 건 이준혁 광기의 질주]]></title>
-        <id>https://v.daum.net/v/20231128092702443</id>
-        <link href="https://v.daum.net/v/20231128092702443"/>
-        <updated>2023-11-28T00:45:21.581Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
