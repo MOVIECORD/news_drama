@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T09:11:33.340Z</updated>
+    <updated>2023-11-28T10:11:17.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라 "안쓰럽고 좋았다"…장르물로 파격 연기 변신]]></title>
+        <id>https://v.daum.net/v/20231128184426196</id>
+        <link href="https://v.daum.net/v/20231128184426196"/>
+        <updated>2023-11-28T10:11:07.542Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 정신 잃고 쓰러져]]></title>
         <id>https://v.daum.net/v/20231128174011563</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231128150310533"/>
         <updated>2023-11-28T06:13:39.382Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑말' 정우성, 경찰서 연행됐다..신현빈과 데이트 무산되나]]></title>
-        <id>https://v.daum.net/v/20231128144623855</id>
-        <link href="https://v.daum.net/v/20231128144623855"/>
-        <updated>2023-11-28T06:13:39.383Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
