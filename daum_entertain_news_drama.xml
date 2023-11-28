@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T17:09:20.289Z</updated>
+    <updated>2023-11-28T18:14:11.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['슬의생' 스핀오프에 서이서 합류...비현실적으로 잘생긴 의사 선생님]]></title>
+        <id>https://v.daum.net/v/20231129030031493</id>
+        <link href="https://v.daum.net/v/20231129030031493"/>
+        <updated>2023-11-28T18:13:09.623Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워너원 박지훈 맞나...고독한 태자 모습]]></title>
         <id>https://v.daum.net/v/20231129010030909</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231128164203523"/>
         <updated>2023-11-28T08:13:40.987Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정♥송강 '마이 데몬', 시청률 is 뭔들..OTT 랭킹은 압도적]]></title>
-        <id>https://v.daum.net/v/20231128163552304</id>
-        <link href="https://v.daum.net/v/20231128163552304"/>
-        <updated>2023-11-28T08:13:40.990Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
