@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-28T21:09:19.926Z</updated>
+    <updated>2023-11-28T22:09:29.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘K문화’ 식지않는 글로벌 인기…해외 영상 콘텐츠 소재로 각광]]></title>
+        <id>https://v.daum.net/v/20231129063018483</id>
+        <link href="https://v.daum.net/v/20231129063018483"/>
+        <updated>2023-11-28T22:09:17.391Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' 감독 "조심스러웠던 1회 연장 '더 했으면' 욕심도"]]></title>
+        <id>https://v.daum.net/v/20231129061020319</id>
+        <link href="https://v.daum.net/v/20231129061020319"/>
+        <updated>2023-11-28T22:09:17.395Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연인' 감독 "안은진 분위기메이커인데 '큐'하면 눈물 뚝뚝"]]></title>
         <id>https://v.daum.net/v/20231129060517278</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231128213430111"/>
         <updated>2023-11-28T13:12:50.274Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 한지완, 보청기 숨겨진 인형 찾았으나... 이시강 등장 "당황"]]></title>
-        <id>https://v.daum.net/v/20231128203201035</id>
-        <link href="https://v.daum.net/v/20231128203201035"/>
-        <updated>2023-11-28T12:18:19.574Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["멜로 눈빛 장착"…진한 '어른 멜로' 온다]]></title>
-        <id>https://v.daum.net/v/20231128195003357</id>
-        <link href="https://v.daum.net/v/20231128195003357"/>
-        <updated>2023-11-28T11:08:30.602Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
