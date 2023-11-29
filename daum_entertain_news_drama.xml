@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-29T12:18:33.492Z</updated>
+    <updated>2023-11-29T13:14:31.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비질란테’, 죗값은 법 대신 폭력.. 통쾌·씁쓸한 다크히어로물]]></title>
+        <id>https://v.daum.net/v/20231129220603313</id>
+        <link href="https://v.daum.net/v/20231129220603313"/>
+        <updated>2023-11-29T13:13:29.094Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김서라, 임신한 손성윤 폭행.."子인 줄 알고 사람대접한 것"]]></title>
         <id>https://v.daum.net/v/20231129210858518</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231129155650686"/>
         <updated>2023-11-29T07:10:00.433Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모래에도 꽃이 핀다' 장동윤X이주명, 첫 씨름 로맨스로 케미 예고]]></title>
-        <id>https://v.daum.net/v/20231129152807557</id>
-        <link href="https://v.daum.net/v/20231129152807557"/>
-        <updated>2023-11-29T07:10:00.439Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
