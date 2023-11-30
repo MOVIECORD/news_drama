@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-30T22:10:32.388Z</updated>
+    <updated>2023-11-30T23:10:34.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이재, 곧’ 감독 “6개월 이상 공들인 캐스팅, 대본작업보다 힘들어”]]></title>
+        <id>https://v.daum.net/v/20231201080851996</id>
+        <link href="https://v.daum.net/v/20231201080851996"/>
+        <updated>2023-11-30T23:10:25.315Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고려 거란 전쟁’ 강조 이원종, 본격 전투태세 돌입]]></title>
+        <id>https://v.daum.net/v/20231201075122659</id>
+        <link href="https://v.daum.net/v/20231201075122659"/>
+        <updated>2023-11-30T23:10:25.316Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오랜만에 악역 벗은 임시완, 제대로 통했다]]></title>
         <id>https://v.daum.net/v/20231201063014440</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231130194901133"/>
         <updated>2023-11-30T11:09:04.918Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["형만한 아우될까"… 시즌2로 돌아오는 '스위트홈']]></title>
-        <id>https://v.daum.net/v/20231130192806836</id>
-        <link href="https://v.daum.net/v/20231130192806836"/>
-        <updated>2023-11-30T11:09:04.920Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도의 디바' 김효진, 워맨스→혐관 다 되는 '케미 퀸']]></title>
-        <id>https://v.daum.net/v/20231130183133916</id>
-        <link href="https://v.daum.net/v/20231130183133916"/>
-        <updated>2023-11-30T10:11:08.374Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
