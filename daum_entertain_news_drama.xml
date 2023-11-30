@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-11-30T21:09:29.932Z</updated>
+    <updated>2023-11-30T22:10:32.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오랜만에 악역 벗은 임시완, 제대로 통했다]]></title>
+        <id>https://v.daum.net/v/20231201063014440</id>
+        <link href="https://v.daum.net/v/20231201063014440"/>
+        <updated>2023-11-30T22:09:30.387Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스위트홈2’ 고민시 “발레슈즈 대신 군화…극한 액션 보여줄 것”]]></title>
+        <id>https://v.daum.net/v/20231201063012439</id>
+        <link href="https://v.daum.net/v/20231201063012439"/>
+        <updated>2023-11-30T22:09:30.390Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“반성하고 고민했다” ‘스위트홈2’ 형만한 아우 나올까]]></title>
         <id>https://v.daum.net/v/20231201060106110</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231130183133916"/>
         <updated>2023-11-30T10:11:08.374Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종원 ‘밤에 피는 꽃’ 2차 포스터…그림자 뒤 숨겨진 욕망]]></title>
-        <id>https://v.daum.net/v/20231130173950520</id>
-        <link href="https://v.daum.net/v/20231130173950520"/>
-        <updated>2023-11-30T09:09:53.602Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려 거란 전쟁’ 최수종, 사극 대가의 품격]]></title>
-        <id>https://v.daum.net/v/20231130173626381</id>
-        <link href="https://v.daum.net/v/20231130173626381"/>
-        <updated>2023-11-30T09:09:53.602Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
