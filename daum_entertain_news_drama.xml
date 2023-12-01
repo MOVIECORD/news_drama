@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-01T18:12:37.602Z</updated>
+    <updated>2023-12-01T19:08:13.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 김유정, 송강에 "나랑 해요 결혼"…'김해숙 사망' 진실 알기 위해 악마와 손잡았다]]></title>
+        <id>https://v.daum.net/v/20231202034500604</id>
+        <link href="https://v.daum.net/v/20231202034500604"/>
+        <updated>2023-12-01T19:08:04.297Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 송강, 김유정에 "나는 데몬, 너희는 악마라고도 부른다" 정체 공개]]></title>
+        <id>https://v.daum.net/v/20231202032406539</id>
+        <link href="https://v.daum.net/v/20231202032406539"/>
+        <updated>2023-12-01T19:08:04.297Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김유정, 김해숙 사망 충격→송강에 결혼 제안]]></title>
         <id>https://v.daum.net/v/20231201232433524</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231201221116114"/>
         <updated>2023-12-01T13:13:37.014Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도'에서 온 박은빈, 위기에도 정면돌파 선언..종영 D-2]]></title>
-        <id>https://v.daum.net/v/20231201203450079</id>
-        <link href="https://v.daum.net/v/20231201203450079"/>
-        <updated>2023-12-01T12:18:15.042Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 손성윤, 이시강 때문에 유산하고 복수의 눈물 "내 손으로 처단"]]></title>
-        <id>https://v.daum.net/v/20231201203330049</id>
-        <link href="https://v.daum.net/v/20231201203330049"/>
-        <updated>2023-12-01T12:18:15.046Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
