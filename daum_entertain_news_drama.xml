@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-01T22:09:29.485Z</updated>
+    <updated>2023-12-01T23:09:52.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고려 거란 전쟁’ 양규 지승현, 처절한 절규+일렁이는 눈물 포착]]></title>
+        <id>https://v.daum.net/v/20231202080822083</id>
+        <link href="https://v.daum.net/v/20231202080822083"/>
+        <updated>2023-12-01T23:09:41.950Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["도망갈 겁니까?" 만취 이세영, 배인혁에 입맞춤 '심쿵'..최고 8.3%]]></title>
+        <id>https://v.daum.net/v/20231202075836915</id>
+        <link href="https://v.daum.net/v/20231202075836915"/>
+        <updated>2023-12-01T23:09:41.951Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김해숙 죽음→김유정, 송강에 프러포즈 엔딩..최고 6.8%]]></title>
+        <id>https://v.daum.net/v/20231202074518852</id>
+        <link href="https://v.daum.net/v/20231202074518852"/>
+        <updated>2023-12-01T23:09:41.953Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 김유정, 악마 송강에게 제안했다 "나랑 결혼하자"]]></title>
+        <id>https://v.daum.net/v/20231202074102818</id>
+        <link href="https://v.daum.net/v/20231202074102818"/>
+        <updated>2023-12-01T23:09:41.953Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['열녀박씨' 배인혁, 술 취한 ♥이세영에 기습 키스 당해 '심장 쿵쾅']]></title>
+        <id>https://v.daum.net/v/20231202071003620</id>
+        <link href="https://v.daum.net/v/20231202071003620"/>
+        <updated>2023-12-01T23:09:41.954Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이 데몬' 김유정, 악마와 손 잡았다...송강에 "결혼하자"]]></title>
         <id>https://v.daum.net/v/20231202070009492</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231201231328467"/>
         <updated>2023-12-01T15:10:19.510Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["심장 빨리 뛰어"..'열녀박씨' 이세영, '서방님' 배인혁에 키스]]></title>
-        <id>https://v.daum.net/v/20231201230548415</id>
-        <link href="https://v.daum.net/v/20231201230548415"/>
-        <updated>2023-12-01T14:09:45.148Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현생재회' 배인혁, 이세영에 정식 청혼 "우리 결혼합시다"]]></title>
-        <id>https://v.daum.net/v/20231201223210249</id>
-        <link href="https://v.daum.net/v/20231201223210249"/>
-        <updated>2023-12-01T14:09:45.150Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 데몬' 송강, 정체 밝혔다....김유정 "너 내 경호원 해라"]]></title>
-        <id>https://v.daum.net/v/20231201222748215</id>
-        <link href="https://v.daum.net/v/20231201222748215"/>
-        <updated>2023-12-01T14:09:45.150Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 배인혁, 이세영과 본격 계약 결혼 "한 달간 내 아내"]]></title>
-        <id>https://v.daum.net/v/20231201222613203</id>
-        <link href="https://v.daum.net/v/20231201222613203"/>
-        <updated>2023-12-01T14:09:45.150Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이데몬' 김유정, 송강에 경호원 제안 "우린 운명 공동체"]]></title>
-        <id>https://v.daum.net/v/20231201222216180</id>
-        <link href="https://v.daum.net/v/20231201222216180"/>
-        <updated>2023-12-01T14:09:45.152Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
