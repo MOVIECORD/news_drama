@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-01T20:11:44.215Z</updated>
+    <updated>2023-12-01T21:10:02.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종의 힘..'고려 거란 전쟁', 입소문 터지고 화제성 잡고]]></title>
+        <id>https://v.daum.net/v/20231202060013035</id>
+        <link href="https://v.daum.net/v/20231202060013035"/>
+        <updated>2023-12-01T21:09:00.077Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이데몬' 김유정, 송강에 "나랑 해요 결혼"…'김해숙 사망' 진실 알기 위해 악마와 손잡았다]]></title>
         <id>https://v.daum.net/v/20231202034500604</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231201221342131</id>
         <link href="https://v.daum.net/v/20231201221342131"/>
         <updated>2023-12-01T14:09:45.153Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 이세영, 배인혁에 "난 조선에서 왔다, 이 사기꾼 놈아"]]></title>
-        <id>https://v.daum.net/v/20231201221116114</id>
-        <link href="https://v.daum.net/v/20231201221116114"/>
-        <updated>2023-12-01T13:13:37.014Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
