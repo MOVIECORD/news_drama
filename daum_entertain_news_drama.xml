@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-02T10:10:33.186Z</updated>
+    <updated>2023-12-02T11:09:04.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김해숙 “엄마 살아생전 못했던 것들, 아픔으로 다가와” 눈물]]></title>
+        <id>https://v.daum.net/v/20231202191739674</id>
+        <link href="https://v.daum.net/v/20231202191739674"/>
+        <updated>2023-12-02T11:08:03.019Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조희봉, 촌철살인 날리는 최수종에 항의…팽팽한 긴장감]]></title>
         <id>https://v.daum.net/v/20231202174251361</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231202142633330"/>
         <updated>2023-12-02T06:12:14.890Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 “‘무디바’X서목하, 내게 이정표 되어줘 행복”]]></title>
-        <id>https://v.daum.net/v/20231202141934273</id>
-        <link href="https://v.daum.net/v/20231202141934273"/>
-        <updated>2023-12-02T06:12:14.891Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
