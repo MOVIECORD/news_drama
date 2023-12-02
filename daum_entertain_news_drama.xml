@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-02T15:09:11.652Z</updated>
+    <updated>2023-12-02T16:11:25.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웰컴 투 삼달리' 신혜선, 갑질 논란 휘말렸다→제주도 귀향]]></title>
+        <id>https://v.daum.net/v/20231203002058776</id>
+        <link href="https://v.daum.net/v/20231203002058776"/>
+        <updated>2023-12-02T16:11:15.193Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 ‘웰컴투 삼달리’ 신혜선, 어시스트 조윤서 모함에 ‘위기’→고향 컴백]]></title>
         <id>https://v.daum.net/v/20231202235536617</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231202223959301</id>
         <link href="https://v.daum.net/v/20231202223959301"/>
         <updated>2023-12-02T14:08:25.016Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 배인혁, 트라우마 발작에 이세영이 구한 후 포옹]]></title>
-        <id>https://v.daum.net/v/20231202222555223</id>
-        <link href="https://v.daum.net/v/20231202222555223"/>
-        <updated>2023-12-02T14:08:25.019Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
