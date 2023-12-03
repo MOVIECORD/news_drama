@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-03T15:09:15.649Z</updated>
+    <updated>2023-12-03T16:12:18.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼달리' 신혜선, 전 남친 지창욱 구조 위해 바다 입수]]></title>
+        <id>https://v.daum.net/v/20231204002030397</id>
+        <link href="https://v.daum.net/v/20231204002030397"/>
+        <updated>2023-12-03T16:11:16.085Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선, 갑질 논란에 자책… 물에 빠진 지창욱 구하러 뛰어들어]]></title>
         <id>https://v.daum.net/v/20231203235051153</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203221801734"/>
         <updated>2023-12-03T14:08:15.373Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도의 디바' 이중옥, ♥서정연과 혼인신고 "이승준에게 하는 최고의 복수"]]></title>
-        <id>https://v.daum.net/v/20231203220835690</id>
-        <link href="https://v.daum.net/v/20231203220835690"/>
-        <updated>2023-12-03T13:10:45.501Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
