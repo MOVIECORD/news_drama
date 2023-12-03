@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-03T03:10:23.746Z</updated>
+    <updated>2023-12-03T04:12:08.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["훌륭한 연기, 제 꿈이죠" 유지태의 소신]]></title>
+        <id>https://v.daum.net/v/20231203130002444</id>
+        <link href="https://v.daum.net/v/20231203130002444"/>
+        <updated>2023-12-03T04:11:57.727Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘웰컴투 삼달리’ 잘 망가지는 여배우 신혜선, 볼 맛 난다]]></title>
+        <id>https://v.daum.net/v/20231203124420294</id>
+        <link href="https://v.daum.net/v/20231203124420294"/>
+        <updated>2023-12-03T04:11:57.734Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBS 금토극 어쩌나…'히트 메이커' 김순옥 작가→'비주얼 끝판왕' 송강X김유정도 안 통하네]]></title>
+        <id>https://v.daum.net/v/20231203123007193</id>
+        <link href="https://v.daum.net/v/20231203123007193"/>
+        <updated>2023-12-03T04:11:57.736Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고려 거란 전쟁’, 쫄깃한 전쟁 계속되더니...3주 연속 자체 최고 시청률 경신]]></title>
+        <id>https://v.daum.net/v/20231203123002190</id>
+        <link href="https://v.daum.net/v/20231203123002190"/>
+        <updated>2023-12-03T04:11:57.738Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성훈♥정유민, 2세 기다리던 중 '납치 엔딩'이라니…불안감 고조]]></title>
         <id>https://v.daum.net/v/20231203115023618</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231203091002281"/>
         <updated>2023-12-03T00:48:03.666Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 첫방부터 이세영·김유정 흔들었다..왕좌 노리는 ‘웰컴투 삼달리’]]></title>
-        <id>https://v.daum.net/v/20231203090623249</id>
-        <link href="https://v.daum.net/v/20231203090623249"/>
-        <updated>2023-12-03T00:48:03.667Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 최종회…박은빈, 채종협에 직진, ♥로맨스 물꼬 텄다]]></title>
-        <id>https://v.daum.net/v/20231203090021033</id>
-        <link href="https://v.daum.net/v/20231203090021033"/>
-        <updated>2023-12-03T00:48:03.667Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인도의 디바' 박은빈♥채종협, 달콤 첫키스..로맨스 신호탄]]></title>
-        <id>https://v.daum.net/v/20231203085643956</id>
-        <link href="https://v.daum.net/v/20231203085643956"/>
-        <updated>2023-12-03T00:48:03.668Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강조 거란군에 생포 '절체절명 위기' 최고 9.2% '주말 1위']]></title>
-        <id>https://v.daum.net/v/20231203085354934</id>
-        <link href="https://v.daum.net/v/20231203085354934"/>
-        <updated>2023-12-03T00:48:03.668Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
