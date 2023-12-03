@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-03T05:10:14.385Z</updated>
+    <updated>2023-12-03T06:13:18.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연기자의 차원을 넘어서 응원과 위로의 아이콘이 된 박은빈]]></title>
+        <id>https://v.daum.net/v/20231203143611990</id>
+        <link href="https://v.daum.net/v/20231203143611990"/>
+        <updated>2023-12-03T06:12:12.443Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘강조’ 이원종, 거란군에 생포..생사기로에 놓였다]]></title>
         <id>https://v.daum.net/v/20231203140458386</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203123007193"/>
         <updated>2023-12-03T04:11:57.736Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려 거란 전쟁’, 쫄깃한 전쟁 계속되더니...3주 연속 자체 최고 시청률 경신]]></title>
-        <id>https://v.daum.net/v/20231203123002190</id>
-        <link href="https://v.daum.net/v/20231203123002190"/>
-        <updated>2023-12-03T04:11:57.738Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
