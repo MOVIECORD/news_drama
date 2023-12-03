@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-03T11:08:11.511Z</updated>
+    <updated>2023-12-03T12:17:51.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 하준, 母 때문에 고통 받는 유이에 독립 권했다 "나이가 몇인데..."]]></title>
+        <id>https://v.daum.net/v/20231203211231383</id>
+        <link href="https://v.daum.net/v/20231203211231383"/>
+        <updated>2023-12-03T12:16:49.510Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 정명숙, 며느리 이휘향에 "하준 건드리면 가만안둬"]]></title>
+        <id>https://v.daum.net/v/20231203204349208</id>
+        <link href="https://v.daum.net/v/20231203204349208"/>
+        <updated>2023-12-03T12:16:49.510Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이, 플리' 김향기, 신현승에 정체 밝혔다..표절 시비 날벼락]]></title>
         <id>https://v.daum.net/v/20231203183147885</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231203162910681"/>
         <updated>2023-12-03T08:12:16.883Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前연인 지창욱·신혜선, 8년만에 재회한다…'웰컴투 삼달리']]></title>
-        <id>https://v.daum.net/v/20231203161116368</id>
-        <link href="https://v.daum.net/v/20231203161116368"/>
-        <updated>2023-12-03T08:12:16.883Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강남순' 이유미 "김해숙 눈빛에 압도…김정은과 와이어신, 기억 남아" ②]]></title>
-        <id>https://v.daum.net/v/20231203153451458</id>
-        <link href="https://v.daum.net/v/20231203153451458"/>
-        <updated>2023-12-03T07:08:54.179Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
