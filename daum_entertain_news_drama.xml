@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-04T10:13:11.480Z</updated>
+    <updated>2023-12-04T11:10:08.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 윤선우, 오승아 해고하려는 오세영에 "불륜 폭로할 것" 경고]]></title>
+        <id>https://v.daum.net/v/20231204195400214</id>
+        <link href="https://v.daum.net/v/20231204195400214"/>
+        <updated>2023-12-04T11:09:06.789Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'비질란테' 촬영 중 몰카범 잡아...범죄자 심판하란 뜻인가"]]></title>
+        <id>https://v.daum.net/v/20231204195003158</id>
+        <link href="https://v.daum.net/v/20231204195003158"/>
+        <updated>2023-12-04T11:09:06.789Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밤이 되었습니다' 이재인→정소리, 'MZ배우' 뭉친 '하이틴 스릴러']]></title>
         <id>https://v.daum.net/v/20231204185007264</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231204172403476"/>
         <updated>2023-12-04T09:11:05.768Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환상연가', 박지훈·홍예지 폭발적 케미+역대급 서사 담은 티저 공개]]></title>
-        <id>https://v.daum.net/v/20231204172209425</id>
-        <link href="https://v.daum.net/v/20231204172209425"/>
-        <updated>2023-12-04T09:11:05.770Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년시대' 부여즈, 효진초이와 함께한 '기역니은' 댄스 챌린지 공개]]></title>
-        <id>https://v.daum.net/v/20231204171853284</id>
-        <link href="https://v.daum.net/v/20231204171853284"/>
-        <updated>2023-12-04T09:11:05.771Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
