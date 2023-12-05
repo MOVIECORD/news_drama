@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-05T14:09:54.743Z</updated>
+    <updated>2023-12-05T15:12:19.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최윤소, 이무생 前 부인으로 변신…이영애의 ‘마에스트라’ 합류]]></title>
+        <id>https://v.daum.net/v/20231206000604715</id>
+        <link href="https://v.daum.net/v/20231206000604715"/>
+        <updated>2023-12-05T15:11:13.387Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두툼하게 씹히는 '하모' 샤브샤브… 나도 모르게 "한 판 더"]]></title>
         <id>https://v.daum.net/v/20231205222249914</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231205172645706"/>
         <updated>2023-12-05T09:10:58.161Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채원빈, ‘스위트홈2’ 진영 직진녀로 시선몰이..시청자 눈도장 찍었다]]></title>
-        <id>https://v.daum.net/v/20231205171518332</id>
-        <link href="https://v.daum.net/v/20231205171518332"/>
-        <updated>2023-12-05T09:10:58.162Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
