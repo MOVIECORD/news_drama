@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-06T06:14:06.242Z</updated>
+    <updated>2023-12-06T07:09:59.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피아노 연주·눈물까지...‘사운드트랙#2’, 올 겨울 녹일 ‘감성 로맨스’]]></title>
+        <id>https://v.daum.net/v/20231206153707508</id>
+        <link href="https://v.daum.net/v/20231206153707508"/>
+        <updated>2023-12-06T07:09:49.399Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["복 받았다" 한소희 바통 받은 금새록, '전 남친' 노상현 '현 썸남' 손정혁과 삼각 로맨스 '사운드트랙#2']]></title>
+        <id>https://v.daum.net/v/20231206151602542</id>
+        <link href="https://v.daum.net/v/20231206151602542"/>
+        <updated>2023-12-06T07:09:49.403Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사운드트랙 #2' 뻔함 아닌 클래식…음악과 함께한 사랑 이야기]]></title>
         <id>https://v.daum.net/v/20231206151308402</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231206143120272"/>
         <updated>2023-12-06T06:13:56.293Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사운드트랙 #2' 금새록 "피아노, 난생 처음…매일 집에서 연습"]]></title>
-        <id>https://v.daum.net/v/20231206143119271</id>
-        <link href="https://v.daum.net/v/20231206143119271"/>
-        <updated>2023-12-06T06:13:56.293Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼밴드2' 참가자에서 '사운드트랙#2' 배우로…손정혁 "첫 공식석상, 청심환 2병 먹어"]]></title>
-        <id>https://v.daum.net/v/20231206142931141</id>
-        <link href="https://v.daum.net/v/20231206142931141"/>
-        <updated>2023-12-06T06:13:56.294Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
