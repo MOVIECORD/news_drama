@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-06T09:10:25.013Z</updated>
+    <updated>2023-12-06T10:11:16.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영애 "지휘자 연기 자신있어요"]]></title>
+        <id>https://v.daum.net/v/20231206190402307</id>
+        <link href="https://v.daum.net/v/20231206190402307"/>
+        <updated>2023-12-06T10:11:06.706Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동해, 이설 뒤에서 로맨틱 백허그]]></title>
         <id>https://v.daum.net/v/20231206175331760</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231206153707508"/>
         <updated>2023-12-06T07:09:49.399Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["복 받았다" 한소희 바통 받은 금새록, '전 남친' 노상현 '현 썸남' 손정혁과 삼각 로맨스 '사운드트랙#2']]></title>
-        <id>https://v.daum.net/v/20231206151602542</id>
-        <link href="https://v.daum.net/v/20231206151602542"/>
-        <updated>2023-12-06T07:09:49.403Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
