@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-06T13:13:59.289Z</updated>
+    <updated>2023-12-06T14:09:39.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이응복 감독 "송강·이진욱 전라노출, 이정도 관심이었으면 말릴걸" 너스레]]></title>
+        <id>https://v.daum.net/v/20231206225002513</id>
+        <link href="https://v.daum.net/v/20231206225002513"/>
+        <updated>2023-12-06T14:09:29.315Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김미라, 강율 살리려 몸 던졌다..결국 사망]]></title>
         <id>https://v.daum.net/v/20231206210743269</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231206173618163"/>
         <updated>2023-12-06T09:10:14.559Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연X추영우, '옥씨부인전' 출연 확정]]></title>
-        <id>https://v.daum.net/v/20231206173045901</id>
-        <link href="https://v.daum.net/v/20231206173045901"/>
-        <updated>2023-12-06T09:10:14.560Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
