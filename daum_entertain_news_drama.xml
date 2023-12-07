@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-07T18:14:04.653Z</updated>
+    <updated>2023-12-07T19:09:25.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, 생활 가구 브랜드 CEO 되다...작업복 입고 동안미모 발산]]></title>
+        <id>https://v.daum.net/v/20231208040400055</id>
+        <link href="https://v.daum.net/v/20231208040400055"/>
+        <updated>2023-12-07T19:08:23.654Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균 불똥? 문채원 'SBS 연기대상' 불참.."추가 섭외 연락 無"]]></title>
         <id>https://v.daum.net/v/20231207234241874</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207164020845"/>
         <updated>2023-12-07T08:13:07.285Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비질란테’ 8개 지역 11월 최다 시청 시리즈 등극, 글로벌 흥행 열기]]></title>
-        <id>https://v.daum.net/v/20231207162213256</id>
-        <link href="https://v.daum.net/v/20231207162213256"/>
-        <updated>2023-12-07T08:13:07.287Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
