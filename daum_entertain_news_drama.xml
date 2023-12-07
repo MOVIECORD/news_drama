@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-07T10:12:16.266Z</updated>
+    <updated>2023-12-07T11:09:13.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 윤해영, 전남편 안내상 만났다 "'여보'라니...소름끼쳐"]]></title>
+        <id>https://v.daum.net/v/20231207195430042</id>
+        <link href="https://v.daum.net/v/20231207195430042"/>
+        <updated>2023-12-07T11:09:04.626Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선균 마약 스캔들 여파? '법쩐' 문채원 'SBS 연기대상' 불참]]></title>
+        <id>https://v.daum.net/v/20231207192341602</id>
+        <link href="https://v.daum.net/v/20231207192341602"/>
+        <updated>2023-12-07T11:09:04.626Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍예지 여심+남심 다 잡은 포스 ‘환상연가’서 무슨 역 맡았나 보니]]></title>
         <id>https://v.daum.net/v/20231207183640669</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231207151150448"/>
         <updated>2023-12-07T06:14:08.932Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜·이보영·임지연·이지아..JTBC 2024 드라마 이끈다]]></title>
-        <id>https://v.daum.net/v/20231207144209755</id>
-        <link href="https://v.daum.net/v/20231207144209755"/>
-        <updated>2023-12-07T06:14:08.941Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지원, 까칠했다가 귀여웠다가 "왜 이렇게 설레지"]]></title>
-        <id>https://v.daum.net/v/20231207142722994</id>
-        <link href="https://v.daum.net/v/20231207142722994"/>
-        <updated>2023-12-07T06:14:08.941Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
