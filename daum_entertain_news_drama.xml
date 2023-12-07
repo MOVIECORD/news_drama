@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-07T09:11:14.624Z</updated>
+    <updated>2023-12-07T10:12:16.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍예지 여심+남심 다 잡은 포스 ‘환상연가’서 무슨 역 맡았나 보니]]></title>
+        <id>https://v.daum.net/v/20231207183640669</id>
+        <link href="https://v.daum.net/v/20231207183640669"/>
+        <updated>2023-12-07T10:11:14.208Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘브랜드 인 성수동’ 까칠팀장 김지은, 인턴 로몬과 키스 후 영혼 체인지]]></title>
         <id>https://v.daum.net/v/20231207175732423</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207142722994"/>
         <updated>2023-12-07T06:14:08.941Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁' 이원종, '강조의 정변'→거란에 맞선 충신 '두 얼굴']]></title>
-        <id>https://v.daum.net/v/20231207141456371</id>
-        <link href="https://v.daum.net/v/20231207141456371"/>
-        <updated>2023-12-07T06:14:08.941Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
