@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-08T04:12:46.777Z</updated>
+    <updated>2023-12-08T05:10:16.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘무인도의 디바’ 차학연 “박은빈 노래 실력? 100점, 든든하고 의지됐다”]]></title>
+        <id>https://v.daum.net/v/20231208140418443</id>
+        <link href="https://v.daum.net/v/20231208140418443"/>
+        <updated>2023-12-08T05:10:07.847Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선, 멜로·휴먼·코믹·슬랩스틱까지 다 되는 "몇 안 되는 배우"]]></title>
+        <id>https://v.daum.net/v/20231208132936562</id>
+        <link href="https://v.daum.net/v/20231208132936562"/>
+        <updated>2023-12-08T05:10:07.849Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배인혁, 출근길서 플래시 세례…이준혁 찜찜한 눈빛]]></title>
+        <id>https://v.daum.net/v/20231208132302396</id>
+        <link href="https://v.daum.net/v/20231208132302396"/>
+        <updated>2023-12-08T05:10:07.849Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김상중, 조선 최고의 명재상 변신…이하늬와 극강의 시너지]]></title>
+        <id>https://v.daum.net/v/20231208131820323</id>
+        <link href="https://v.daum.net/v/20231208131820323"/>
+        <updated>2023-12-08T05:10:07.850Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배인혁 출근길 기자회견, 다크한 아우라 폭발]]></title>
         <id>https://v.daum.net/v/20231208131119162</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231208101658926"/>
         <updated>2023-12-08T01:53:16.521Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 데몬' 송강, 샤워 갓 마치고 복근 공격..이건 너무 반칙]]></title>
-        <id>https://v.daum.net/v/20231208094416599</id>
-        <link href="https://v.daum.net/v/20231208094416599"/>
-        <updated>2023-12-08T00:45:22.588Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정, 송강 복근 공격에 흔들리는 눈빛…"입덕 부정기"]]></title>
-        <id>https://v.daum.net/v/20231208092743980</id>
-        <link href="https://v.daum.net/v/20231208092743980"/>
-        <updated>2023-12-08T00:45:22.589Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강 초콜릿 복근 화들짝..김유정 아찔한 눈맞춤 '두근']]></title>
-        <id>https://v.daum.net/v/20231208091537552</id>
-        <link href="https://v.daum.net/v/20231208091537552"/>
-        <updated>2023-12-08T00:45:22.590Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마이 데몬’ 김유정, 송강 선명한 식스팩 복근 공개하자 보인 반응]]></title>
-        <id>https://v.daum.net/v/20231208090828312</id>
-        <link href="https://v.daum.net/v/20231208090828312"/>
-        <updated>2023-12-08T00:45:22.591Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
