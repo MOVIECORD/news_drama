@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-08T12:18:10.226Z</updated>
+    <updated>2023-12-08T13:13:22.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종도 불안하다…tvN, 박은빈 후속빨 받아 이영애까지 '대박'날까]]></title>
+        <id>https://v.daum.net/v/20231208213901329</id>
+        <link href="https://v.daum.net/v/20231208213901329"/>
+        <updated>2023-12-08T13:12:20.793Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더글로리' 2023 AACA 최고 드라마상 수상..임지연 여우조연상]]></title>
         <id>https://v.daum.net/v/20231208204214710</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231208155251973"/>
         <updated>2023-12-08T07:09:37.086Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연 "'무인도의 디바'로 연기에 원동력…힘 얻게 해준 작품"]]></title>
-        <id>https://v.daum.net/v/20231208154945861</id>
-        <link href="https://v.daum.net/v/20231208154945861"/>
-        <updated>2023-12-08T07:09:37.086Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
