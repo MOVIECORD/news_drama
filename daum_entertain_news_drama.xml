@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-09T16:11:28.836Z</updated>
+    <updated>2023-12-09T17:08:30.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나 억울해” 신혜선, 지창욱→강영석 앞 오열‥독수리오형제 재회]]></title>
+        <id>https://v.daum.net/v/20231210013736421</id>
+        <link href="https://v.daum.net/v/20231210013736421"/>
+        <updated>2023-12-09T17:08:20.615Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흙수저→졸부 강영석, 짝사랑 신혜선과 재회 “진짜 왔네?” 설렘]]></title>
         <id>https://v.daum.net/v/20231210010158347</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209224604736"/>
         <updated>2023-12-09T14:08:14.047Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '마에스트라' 이영애, 단원들 보이콧 정면 돌파 "3류로 남고 싶어?"]]></title>
-        <id>https://v.daum.net/v/20231209224100727</id>
-        <link href="https://v.daum.net/v/20231209224100727"/>
-        <updated>2023-12-09T14:08:14.049Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
