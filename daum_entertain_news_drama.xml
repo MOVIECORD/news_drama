@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-10T01:57:33.889Z</updated>
+    <updated>2023-12-10T02:26:31.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세영·최수종, 매주 자체 최고 '승승장구'..'연기대상'을 향해]]></title>
+        <id>https://v.daum.net/v/20231210111452171</id>
+        <link href="https://v.daum.net/v/20231210111452171"/>
+        <updated>2023-12-10T02:26:23.612Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김유정♥송강 신혼 첫날밤→기습 키스 엔딩 터졌다, 최고 6.7%]]></title>
+        <id>https://v.daum.net/v/20231210105907906</id>
+        <link href="https://v.daum.net/v/20231210105907906"/>
+        <updated>2023-12-10T02:26:23.614Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김유정♥송강, 기습 입맞춤 엔딩→달콤 살벌 계약 결혼 '가동']]></title>
         <id>https://v.daum.net/v/20231210104411714</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231210091353534"/>
         <updated>2023-12-10T00:49:53.656Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최수종 잡은 이세영"...'열녀박씨' 9.6%, '고거전'도 제쳤다]]></title>
-        <id>https://v.daum.net/v/20231210090432449</id>
-        <link href="https://v.daum.net/v/20231210090432449"/>
-        <updated>2023-12-10T00:49:53.657Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나 내일 결혼한다" '마이 데몬' 김유정, 송강과 계약 결혼 진행했다]]></title>
-        <id>https://v.daum.net/v/20231210084301208</id>
-        <link href="https://v.daum.net/v/20231210084301208"/>
-        <updated>2023-12-10T00:49:53.658Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
