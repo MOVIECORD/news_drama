@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-11T15:12:06.161Z</updated>
+    <updated>2023-12-11T16:14:59.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이 데몬' 이상이, 김유정만 바라보는 해바라기]]></title>
+        <id>https://v.daum.net/v/20231212010030156</id>
+        <link href="https://v.daum.net/v/20231212010030156"/>
+        <updated>2023-12-11T16:13:57.795Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼례대첩' 조이현 "로운과 더 일찍 만났다면? 내 이상형 아냐" 새침]]></title>
         <id>https://v.daum.net/v/20231211221231116</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231211180609072"/>
         <updated>2023-12-11T09:11:07.140Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청량 934% 상승..'소년시대', 자동으로 사투리 튀어나오는 마력]]></title>
-        <id>https://v.daum.net/v/20231211175415639</id>
-        <link href="https://v.daum.net/v/20231211175415639"/>
-        <updated>2023-12-11T09:11:07.140Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
