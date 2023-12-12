@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-12T07:10:53.876Z</updated>
+    <updated>2023-12-12T08:14:52.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['밤이 되었습니다', 오픈 2주 차 흥행..넷플릭스 TOP10 3위 진입]]></title>
+        <id>https://v.daum.net/v/20231212170716598</id>
+        <link href="https://v.daum.net/v/20231212170716598"/>
+        <updated>2023-12-12T08:13:50.069Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“모든건 시즌3에” ‘스위트홈2, 3’ 동시 촬영 독이었나]]></title>
+        <id>https://v.daum.net/v/20231212161722676</id>
+        <link href="https://v.daum.net/v/20231212161722676"/>
+        <updated>2023-12-12T08:13:50.069Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스위트홈2' 진영 "분신괴물로 변신해 음악, 연기, 운동 모두 열심히 하고 싶어"]]></title>
         <id>https://v.daum.net/v/20231212160204125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231212141643060"/>
         <updated>2023-12-12T06:14:14.415Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려 거란 전쟁’ 부부 케미스트리부터 브로맨스까지]]></title>
-        <id>https://v.daum.net/v/20231212140003350</id>
-        <link href="https://v.daum.net/v/20231212140003350"/>
-        <updated>2023-12-12T05:09:45.820Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석의 두 얼굴…피범벅 얼굴 어디가고, 확 달라졌네]]></title>
-        <id>https://v.daum.net/v/20231212135018961</id>
-        <link href="https://v.daum.net/v/20231212135018961"/>
-        <updated>2023-12-12T05:09:45.820Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
