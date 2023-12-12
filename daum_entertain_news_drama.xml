@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-12T11:10:29.007Z</updated>
+    <updated>2023-12-12T12:19:43.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강율 "자수하고 비리 장부 가져와"…방형주에 '명령']]></title>
+        <id>https://v.daum.net/v/20231212203043921</id>
+        <link href="https://v.daum.net/v/20231212203043921"/>
+        <updated>2023-12-12T12:18:41.758Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 강율, 한지완에 독설 "넌 복수만 중요하지?"]]></title>
+        <id>https://v.daum.net/v/20231212201731629</id>
+        <link href="https://v.daum.net/v/20231212201731629"/>
+        <updated>2023-12-12T12:18:41.758Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세번째 결혼' 오승아, 윤선우 감정은 동정 "불쌍해하지 마요" 선 긋기]]></title>
         <id>https://v.daum.net/v/20231212194000913</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231212151618361"/>
         <updated>2023-12-12T07:09:51.985Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱, '웰컴투 삼달리'도 넷플릭스·티빙 1위...'최악의 악' 이어 또 터졌다]]></title>
-        <id>https://v.daum.net/v/20231212151335271</id>
-        <link href="https://v.daum.net/v/20231212151335271"/>
-        <updated>2023-12-12T06:14:14.405Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정♥송강, 가슴 떨리는 웨딩 촬영·기습 키스 현장]]></title>
-        <id>https://v.daum.net/v/20231212150923116</id>
-        <link href="https://v.daum.net/v/20231212150923116"/>
-        <updated>2023-12-12T06:14:14.407Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
