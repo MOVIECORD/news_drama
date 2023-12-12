@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-12T12:19:43.644Z</updated>
+    <updated>2023-12-12T13:14:31.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이시강, 한지완 '가짜 상속녀' 정체 알았다]]></title>
+        <id>https://v.daum.net/v/20231212212153843</id>
+        <link href="https://v.daum.net/v/20231212212153843"/>
+        <updated>2023-12-12T13:13:29.559Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강율 "자수하고 비리 장부 가져와"…방형주에 '명령']]></title>
         <id>https://v.daum.net/v/20231212203043921</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231212153255905"/>
         <updated>2023-12-12T07:09:51.985Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨 계약결혼뎐', 한복 디자인 도용 빠른 사과…업체 측 "협조 자막 삽입해주기로"]]></title>
-        <id>https://v.daum.net/v/20231212151618361</id>
-        <link href="https://v.daum.net/v/20231212151618361"/>
-        <updated>2023-12-12T07:09:51.985Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
