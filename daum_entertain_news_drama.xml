@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-14T11:10:14.795Z</updated>
+    <updated>2023-12-14T12:18:27.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 이시강, 한지완 정체 알고 소름 반격 "돈 차지하고 처치할 것"]]></title>
+        <id>https://v.daum.net/v/20231214203830229</id>
+        <link href="https://v.daum.net/v/20231214203830229"/>
+        <updated>2023-12-14T12:18:17.413Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤선우, 오승아와 속옷만 입고 "버티자.."]]></title>
         <id>https://v.daum.net/v/20231214200207644</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214154123275"/>
         <updated>2023-12-14T07:09:41.835Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안현모 언니' 안인모 "나라면 도망갔을지도, 이영애 브라바!"]]></title>
-        <id>https://v.daum.net/v/20231214154102261</id>
-        <link href="https://v.daum.net/v/20231214154102261"/>
-        <updated>2023-12-14T07:09:41.835Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
