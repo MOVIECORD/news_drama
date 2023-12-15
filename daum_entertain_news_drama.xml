@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-15T15:11:02.472Z</updated>
+    <updated>2023-12-15T16:13:47.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이데몬' 송강, 김유정과의 키스로 '위기 모면'…키스 사진 보고 '수줍은 미소']]></title>
+        <id>https://v.daum.net/v/20231216010900526</id>
+        <link href="https://v.daum.net/v/20231216010900526"/>
+        <updated>2023-12-15T16:12:45.628Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['열녀박씨' 이세영♥배인혁, 진한 입맞춤.."나의 처음"]]></title>
         <id>https://v.daum.net/v/20231216000459211</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231215222453462"/>
         <updated>2023-12-15T14:10:01.376Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 데몬' 송강, 김유정 집에서 쫓겨났다 "결혼이 이런 거야?"]]></title>
-        <id>https://v.daum.net/v/20231215222059436</id>
-        <link href="https://v.daum.net/v/20231215222059436"/>
-        <updated>2023-12-15T14:10:01.378Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
