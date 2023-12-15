@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-15T21:09:03.431Z</updated>
+    <updated>2023-12-15T22:09:31.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김유정♥송강, 기습 뽀뽀→침대 위 눈맞춤...설렘 지수 초과]]></title>
+        <id>https://v.daum.net/v/20231216070818109</id>
+        <link href="https://v.daum.net/v/20231216070818109"/>
+        <updated>2023-12-15T22:09:21.542Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이세영=내 사람" 배인혁, 직진 키스..또 죽을 운명은 어쩌나]]></title>
+        <id>https://v.daum.net/v/20231216065923949</id>
+        <link href="https://v.daum.net/v/20231216065923949"/>
+        <updated>2023-12-15T22:09:21.547Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이 데몬' 송강, 김유정에 사랑 느꼈다 "타투 사라지면.."]]></title>
         <id>https://v.daum.net/v/20231216060009533</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231215224640635"/>
         <updated>2023-12-15T14:10:01.365Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영, 배인혁과 포옹 "꺼내줄게요..무슨 수 써서라도"]]></title>
-        <id>https://v.daum.net/v/20231215223517570</id>
-        <link href="https://v.daum.net/v/20231215223517570"/>
-        <updated>2023-12-15T14:10:01.367Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영♥배인혁, 입술닿기 1초 전.."좋아해요" 기습 고백]]></title>
-        <id>https://v.daum.net/v/20231215223401559</id>
-        <link href="https://v.daum.net/v/20231215223401559"/>
-        <updated>2023-12-15T14:10:01.371Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
