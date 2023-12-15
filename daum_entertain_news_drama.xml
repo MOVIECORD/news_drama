@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-15T12:19:07.927Z</updated>
+    <updated>2023-12-15T13:12:54.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년시대', 화제성·서버도 '폭발'...쿠팡플레이 "에피소드 공개→재생 장애 발생"]]></title>
+        <id>https://v.daum.net/v/20231215220305266</id>
+        <link href="https://v.daum.net/v/20231215220305266"/>
+        <updated>2023-12-15T13:12:44.616Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이시강, 한지완·남경읍 대화 도청…"둘 다 날 기만했다" 분노]]></title>
         <id>https://v.daum.net/v/20231215204833314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231215175553478"/>
         <updated>2023-12-15T09:10:22.287Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진욱 "넷플릭스 아들 하기엔 나이가, 삼촌 정도"]]></title>
-        <id>https://v.daum.net/v/20231215175003330</id>
-        <link href="https://v.daum.net/v/20231215175003330"/>
-        <updated>2023-12-15T09:10:22.288Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
