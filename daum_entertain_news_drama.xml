@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-16T08:12:56.653Z</updated>
+    <updated>2023-12-16T09:09:26.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수운잡방' 양반 윤산하, 천민 김강민 제자 되다...조선의 부뚜막 스캔들]]></title>
+        <id>https://v.daum.net/v/20231216174831974</id>
+        <link href="https://v.daum.net/v/20231216174831974"/>
+        <updated>2023-12-16T09:09:16.225Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['손가락만 까딱하면' 이진우, 데뷔 후 첫 연기 도전 합격점…귀여운 프로 짝사랑러]]></title>
         <id>https://v.daum.net/v/20231216170031420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216135326675"/>
         <updated>2023-12-16T05:09:35.571Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 뉴스 출연→불륜 남편 사지로 몰아넣는다]]></title>
-        <id>https://v.daum.net/v/20231216134025595</id>
-        <link href="https://v.daum.net/v/20231216134025595"/>
-        <updated>2023-12-16T05:09:35.573Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
