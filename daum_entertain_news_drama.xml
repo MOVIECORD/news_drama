@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-16T16:12:31.364Z</updated>
+    <updated>2023-12-16T17:08:40.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지창욱→이재원, 집까지 침입한 기자와 경찰서行‥신혜선 지켰다]]></title>
+        <id>https://v.daum.net/v/20231217015649368</id>
+        <link href="https://v.daum.net/v/20231217015649368"/>
+        <updated>2023-12-16T17:08:29.802Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['열녀박씨' 배인혁♥이세영, 마음 통했다···전생의 진실 밝혀져]]></title>
         <id>https://v.daum.net/v/20231217010017291</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216231501009"/>
         <updated>2023-12-16T15:09:09.107Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영♥배인혁, 달달 '아이스크림 키스'.."나 그냥 못된 놈 할게요"]]></title>
-        <id>https://v.daum.net/v/20231216231034001</id>
-        <link href="https://v.daum.net/v/20231216231034001"/>
-        <updated>2023-12-16T15:09:09.108Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
