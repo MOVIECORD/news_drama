@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-17T03:11:09.954Z</updated>
+    <updated>2023-12-17T04:13:04.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스위트홈2' 고민시, 변화로 얻은 것]]></title>
+        <id>https://v.daum.net/v/20231217130544597</id>
+        <link href="https://v.daum.net/v/20231217130544597"/>
+        <updated>2023-12-17T04:12:02.386Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고려거란전쟁’ 최수종, 김동준 대신 홀로 개경 남았다…시청률 9.7%]]></title>
+        <id>https://v.daum.net/v/20231217121800046</id>
+        <link href="https://v.daum.net/v/20231217121800046"/>
+        <updated>2023-12-17T04:12:02.387Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수 아들이 이렇게 컸네..'이세영♥' 유선호, 맴찢 짝사랑 모먼트]]></title>
+        <id>https://v.daum.net/v/20231217121159970</id>
+        <link href="https://v.daum.net/v/20231217121159970"/>
+        <updated>2023-12-17T04:12:02.391Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이 데몬' 송강, 로맨스 장인 됐다]]></title>
         <id>https://v.daum.net/v/20231217121016967</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231217093126497"/>
         <updated>2023-12-17T00:49:25.168Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민규, 이영애 수행비서로 ‘마에스트라’ 첫 등장..웃음 나오는 비주얼]]></title>
-        <id>https://v.daum.net/v/20231217093124496</id>
-        <link href="https://v.daum.net/v/20231217093124496"/>
-        <updated>2023-12-17T00:49:25.168Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 배인혁♥ 이세영 죽음 진실 알고 충격 기절..최고 9.8%]]></title>
-        <id>https://v.daum.net/v/20231217091813352</id>
-        <link href="https://v.daum.net/v/20231217091813352"/>
-        <updated>2023-12-17T00:49:25.173Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수운잡방’ 윤산하X김강민, 조선판 ‘식샤를 합시다’]]></title>
-        <id>https://v.daum.net/v/20231217091507320</id>
-        <link href="https://v.daum.net/v/20231217091507320"/>
-        <updated>2023-12-17T00:49:25.174Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
