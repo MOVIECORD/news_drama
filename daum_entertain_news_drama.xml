@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-17T10:09:54.140Z</updated>
+    <updated>2023-12-17T11:08:05.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['차마에' 이영애, 뻔한 불륜 스토리도 연기력으로 이겨냈다…tvN 시청률까지 지휘중]]></title>
+        <id>https://v.daum.net/v/20231217200104917</id>
+        <link href="https://v.daum.net/v/20231217200104917"/>
+        <updated>2023-12-17T11:07:54.530Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스·디즈니+ 흥행·화제성 싹슬이…상반기 '더 글로리'·하반기 '무빙']]></title>
         <id>https://v.daum.net/v/20231217180101596</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231217141100492"/>
         <updated>2023-12-17T06:12:18.661Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수 아들 폭풍성장…유선호 짠내 유발 서브남 등극]]></title>
-        <id>https://v.daum.net/v/20231217140110343</id>
-        <link href="https://v.daum.net/v/20231217140110343"/>
-        <updated>2023-12-17T05:09:23.165Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
