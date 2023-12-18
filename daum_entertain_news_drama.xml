@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-18T01:53:44.864Z</updated>
+    <updated>2023-12-18T02:25:44.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고려 거란 전쟁' 김동준, 또 연기력 논란.."몰입 방해vs재미有"]]></title>
+        <id>https://v.daum.net/v/20231218111906741</id>
+        <link href="https://v.daum.net/v/20231218111906741"/>
+        <updated>2023-12-18T02:24:42.774Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민♥안은진→이세영♥배인혁…베스트 커플상 주인공은?]]></title>
         <id>https://v.daum.net/v/20231218104404071</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231218091047850"/>
         <updated>2023-12-18T00:45:57.941Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이시원 살해 의혹' 이영애, '마에스트라' 폭풍전개 자체 최고 경신]]></title>
-        <id>https://v.daum.net/v/20231218091023839</id>
-        <link href="https://v.daum.net/v/20231218091023839"/>
-        <updated>2023-12-18T00:45:57.942Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
