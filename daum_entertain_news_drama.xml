@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-18T09:12:14.213Z</updated>
+    <updated>2023-12-18T10:12:03.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영대 "'낮뜨달' 원작 인기 몰랐다…시청률은 아쉬움"]]></title>
+        <id>https://v.daum.net/v/20231218185002650</id>
+        <link href="https://v.daum.net/v/20231218185002650"/>
+        <updated>2023-12-18T10:11:54.466Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영대 '낮뜨달' 제발회 이탈 사건에 "불안한 상태, 미숙한 대처였다"]]></title>
+        <id>https://v.daum.net/v/20231218183139360</id>
+        <link href="https://v.daum.net/v/20231218183139360"/>
+        <updated>2023-12-18T10:11:54.468Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBC 최우수상 맡아놓은 안은진→'신인의 저력' 이정하·노윤서]]></title>
         <id>https://v.daum.net/v/20231218180103626</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231218162203508"/>
         <updated>2023-12-18T08:14:11.180Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮뜨달' 김영대 "시청률 낮아 아쉽지만…이런 드라마도 필요해"]]></title>
-        <id>https://v.daum.net/v/20231218162137498</id>
-        <link href="https://v.daum.net/v/20231218162137498"/>
-        <updated>2023-12-18T08:14:11.181Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동윤 은퇴 위기→인생 되치기 가능할까, 20일 첫방]]></title>
-        <id>https://v.daum.net/v/20231218155140469</id>
-        <link href="https://v.daum.net/v/20231218155140469"/>
-        <updated>2023-12-18T07:10:37.793Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
