@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-19T22:09:50.498Z</updated>
+    <updated>2023-12-19T23:08:28.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘밤에 피는 꽃’ 이하늬X박세현, 우당탕탕 女女 케미]]></title>
+        <id>https://v.daum.net/v/20231220074932655</id>
+        <link href="https://v.daum.net/v/20231220074932655"/>
+        <updated>2023-12-19T23:08:21.692Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이재, 곧 죽습니다' 서인국, '인생캐' 달성? "저도 그렇게 생각합니다"]]></title>
         <id>https://v.daum.net/v/20231220070501183</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231219220006507"/>
         <updated>2023-12-19T13:12:30.734Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우아한 제국' 이시강, 이미영에 "강율 母 뺑소니 범인=방형주"]]></title>
-        <id>https://v.daum.net/v/20231219210628719</id>
-        <link href="https://v.daum.net/v/20231219210628719"/>
-        <updated>2023-12-19T12:18:01.821Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
