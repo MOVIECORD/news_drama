@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-19T20:10:19.230Z</updated>
+    <updated>2023-12-19T21:08:23.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[14㎏ 찌운 장동윤 파격 변신, ‘모래꽃’ 인생캐 찍고 ‘우영우’까지 넘을까]]></title>
+        <id>https://v.daum.net/v/20231220055109196</id>
+        <link href="https://v.daum.net/v/20231220055109196"/>
+        <updated>2023-12-19T21:08:13.462Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘경성크리처’ 일본 마루타와 K-크리처물이 만났을 때]]></title>
         <id>https://v.daum.net/v/20231219220006507</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231219183808113</id>
         <link href="https://v.daum.net/v/20231219183808113"/>
         <updated>2023-12-19T10:10:25.818Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년시대' 임시완 "언젠가 해보고 싶던 코미디, 오바하지 말자 생각"]]></title>
-        <id>https://v.daum.net/v/20231219183625088</id>
-        <link href="https://v.daum.net/v/20231219183625088"/>
-        <updated>2023-12-19T10:10:25.821Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
