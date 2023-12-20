@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-20T20:10:38.620Z</updated>
+    <updated>2023-12-20T21:09:27.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박민영, 절친 송하윤 이이경 불륜에 나락…혹독한 복수 시작]]></title>
+        <id>https://v.daum.net/v/20231221055158499</id>
+        <link href="https://v.daum.net/v/20231221055158499"/>
+        <updated>2023-12-20T21:09:17.014Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유태오, 美드라마 ‘더 리쿠르트’ 시즌2 출연]]></title>
         <id>https://v.daum.net/v/20231221003016151</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231220171032135</id>
         <link href="https://v.daum.net/v/20231220171032135"/>
         <updated>2023-12-20T09:09:19.684Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서지혜, JTBC '조립식 가족' 캐스팅..정채연·배현성과 호흡]]></title>
-        <id>https://v.daum.net/v/20231220170523967</id>
-        <link href="https://v.daum.net/v/20231220170523967"/>
-        <updated>2023-12-20T08:10:34.182Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
