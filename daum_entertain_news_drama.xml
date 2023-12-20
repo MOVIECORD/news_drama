@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-20T03:09:07.469Z</updated>
+    <updated>2023-12-20T04:11:32.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서인국만?..이재욱, 죄수복 입고 액션+눈물 하드캐리]]></title>
+        <id>https://v.daum.net/v/20231220130030155</id>
+        <link href="https://v.daum.net/v/20231220130030155"/>
+        <updated>2023-12-20T04:10:30.221Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘남과여’ 15년지기 임재혁 윤예주, 사랑보다 먼 우정보다는 가까운]]></title>
+        <id>https://v.daum.net/v/20231220123438639</id>
+        <link href="https://v.daum.net/v/20231220123438639"/>
+        <updated>2023-12-20T04:10:30.222Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이하늬·조정석의 사극 귀환..최수종 막을 자는 누구?]]></title>
+        <id>https://v.daum.net/v/20231220121404335</id>
+        <link href="https://v.daum.net/v/20231220121404335"/>
+        <updated>2023-12-20T04:10:30.222Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슬의생2' 이후 3년만…조정석, 복귀작으로 '세작' 선택한 이유]]></title>
+        <id>https://v.daum.net/v/20231220121241322</id>
+        <link href="https://v.daum.net/v/20231220121241322"/>
+        <updated>2023-12-20T04:10:30.228Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스트롯3' 김연우 "'미스터트롯' 도전하려 했는데 아내가 말려"]]></title>
         <id>https://v.daum.net/v/20231220114855565</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231220093323393"/>
         <updated>2023-12-20T00:37:00.620Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김우석의 성장..“‘밤이 되었습니다’, 도전 가득했던 作”]]></title>
-        <id>https://v.daum.net/v/20231220093301377</id>
-        <link href="https://v.daum.net/v/20231220093301377"/>
-        <updated>2023-12-20T00:37:00.620Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼례대첩' 로운, 조이현에 사랑의 도주 제안.."도망갑시다"]]></title>
-        <id>https://v.daum.net/v/20231220093140329</id>
-        <link href="https://v.daum.net/v/20231220093140329"/>
-        <updated>2023-12-20T00:37:00.620Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2막 시작 김유정♥송강…'마이 데몬', 2주 연속 드라마·출연자 화제성 '1위']]></title>
-        <id>https://v.daum.net/v/20231220093102302</id>
-        <link href="https://v.daum.net/v/20231220093102302"/>
-        <updated>2023-12-20T00:37:00.621Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영, "내 남편과 불륜이라니!"..절친 송하윤에 복수 선물]]></title>
-        <id>https://v.daum.net/v/20231220090003082</id>
-        <link href="https://v.daum.net/v/20231220090003082"/>
-        <updated>2023-12-20T00:37:00.624Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
