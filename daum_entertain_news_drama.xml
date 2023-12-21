@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-21T09:11:11.017Z</updated>
+    <updated>2023-12-21T10:10:53.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌 아닌데 왜? 장혁이 밝힌 포카앨범 발매 이유]]></title>
+        <id>https://v.daum.net/v/20231221184053553</id>
+        <link href="https://v.daum.net/v/20231221184053553"/>
+        <updated>2023-12-21T10:10:42.398Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오사개' 산신 이현우, 차은우 아닌 박규영 기억 삭제]]></title>
         <id>https://v.daum.net/v/20231221175148165</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231221152831518</id>
         <link href="https://v.daum.net/v/20231221152831518"/>
         <updated>2023-12-21T07:09:57.923Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이재, 곧' 김지훈, 또 나왔다 마라맛 장발 빌런 "연기 좀 살살"]]></title>
-        <id>https://v.daum.net/v/20231221151616982</id>
-        <link href="https://v.daum.net/v/20231221151616982"/>
-        <updated>2023-12-21T07:09:57.925Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
