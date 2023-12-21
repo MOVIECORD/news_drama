@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-21T21:10:09.373Z</updated>
+    <updated>2023-12-21T22:09:06.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경성크리처'라면서···"크리처는 언제 나와요?"]]></title>
+        <id>https://v.daum.net/v/20231222070030013</id>
+        <link href="https://v.daum.net/v/20231222070030013"/>
+        <updated>2023-12-21T22:08:56.942Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베일 벗는 ‘경성크리처’ 시사회 혹평 뒤집을까]]></title>
+        <id>https://v.daum.net/v/20231222070006960</id>
+        <link href="https://v.daum.net/v/20231222070006960"/>
+        <updated>2023-12-21T22:08:56.945Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지완, 이시강에 정체 발각 "남경읍 탈출 시킬 것"]]></title>
         <id>https://v.daum.net/v/20231221205657888</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231221164003334"/>
         <updated>2023-12-21T08:13:15.407Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레이드마크 내려놓고 스스로 연기 천재임을 입증한 임시완]]></title>
-        <id>https://v.daum.net/v/20231221163823261</id>
-        <link href="https://v.daum.net/v/20231221163823261"/>
-        <updated>2023-12-21T08:13:15.407Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동해X이설, 권태로운 장기연애 커플의 실감나는 현실]]></title>
-        <id>https://v.daum.net/v/20231221160430067</id>
-        <link href="https://v.daum.net/v/20231221160430067"/>
-        <updated>2023-12-21T07:09:57.918Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
