@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-21T22:09:06.356Z</updated>
+    <updated>2023-12-21T23:10:57.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년시대' 임시완 "개그와 거리가 멀던 나, 웃길 수 있어 뿌듯"]]></title>
+        <id>https://v.daum.net/v/20231222071101146</id>
+        <link href="https://v.daum.net/v/20231222071101146"/>
+        <updated>2023-12-21T23:10:47.045Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경성크리처'라면서···"크리처는 언제 나와요?"]]></title>
         <id>https://v.daum.net/v/20231222070030013</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231221164536571"/>
         <updated>2023-12-21T08:13:15.407Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁, 유이X하준 '효심이네' 특별출연..'시청률 상승 기대↑']]></title>
-        <id>https://v.daum.net/v/20231221164003334</id>
-        <link href="https://v.daum.net/v/20231221164003334"/>
-        <updated>2023-12-21T08:13:15.407Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
