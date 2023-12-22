@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-22T08:13:11.081Z</updated>
+    <updated>2023-12-22T09:10:30.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년시대' 이선빈 "실제 학창시절 흑거미? 그랬다면 활동 못했을 것"]]></title>
+        <id>https://v.daum.net/v/20231222180141202</id>
+        <link href="https://v.daum.net/v/20231222180141202"/>
+        <updated>2023-12-22T09:10:20.459Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 안 봤슈?…'소년시대', 결말도 완벽할까]]></title>
+        <id>https://v.daum.net/v/20231222175006918</id>
+        <link href="https://v.daum.net/v/20231222175006918"/>
+        <updated>2023-12-22T09:10:20.459Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우x박규영, 눈만 마주쳐도 웃네..달달 메이킹]]></title>
         <id>https://v.daum.net/v/20231222170621732</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231222144024104</id>
         <link href="https://v.daum.net/v/20231222144024104"/>
         <updated>2023-12-22T06:13:13.858Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정X송강 가면 안보현 온다..SBS '재벌X형사' 1월 26일 첫방]]></title>
-        <id>https://v.daum.net/v/20231222142148460</id>
-        <link href="https://v.daum.net/v/20231222142148460"/>
-        <updated>2023-12-22T06:13:13.861Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“돈돈빽빽” 안보현, 재벌3세 형사 변신..‘재벌X형사’ 1월 26일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20231222141914337</id>
-        <link href="https://v.daum.net/v/20231222141914337"/>
-        <updated>2023-12-22T06:13:13.863Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
