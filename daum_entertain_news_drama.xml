@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-22T09:10:30.652Z</updated>
+    <updated>2023-12-22T10:10:48.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시완, '소년시대' 촬영 전 부여 치킨집 사장에 말 건 이유]]></title>
+        <id>https://v.daum.net/v/20231222190143160</id>
+        <link href="https://v.daum.net/v/20231222190143160"/>
+        <updated>2023-12-22T10:10:37.891Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['파친코'→'커튼콜'→‘사운드트랙 #2’..찾았다 노상현!]]></title>
+        <id>https://v.daum.net/v/20231222181344452</id>
+        <link href="https://v.daum.net/v/20231222181344452"/>
+        <updated>2023-12-22T10:10:37.892Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소년시대' 이선빈 "실제 학창시절 흑거미? 그랬다면 활동 못했을 것"]]></title>
         <id>https://v.daum.net/v/20231222180141202</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231222150555998"/>
         <updated>2023-12-22T06:13:13.856Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순정남 장세현, 유쾌+재치→환한 미소까지 "완벽남으로 매력 발산 UP"]]></title>
-        <id>https://v.daum.net/v/20231222150446957</id>
-        <link href="https://v.daum.net/v/20231222150446957"/>
-        <updated>2023-12-22T06:13:13.857Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 핫한 '이재 곧' '모래꽃'에 다 있는 이 배우..김법래 존재감 만렘]]></title>
-        <id>https://v.daum.net/v/20231222144024104</id>
-        <link href="https://v.daum.net/v/20231222144024104"/>
-        <updated>2023-12-22T06:13:13.858Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
