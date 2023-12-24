@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-24T07:08:50.819Z</updated>
+    <updated>2023-12-24T08:11:56.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제일 비싼 소품은 전쟁용 OO"···'고려거란전쟁' 이렇게 만들었다②]]></title>
+        <id>https://v.daum.net/v/20231224170015713</id>
+        <link href="https://v.daum.net/v/20231224170015713"/>
+        <updated>2023-12-24T08:11:46.934Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조연희, 섬세한 표현력 "김세라 그 자체"]]></title>
+        <id>https://v.daum.net/v/20231224165055583</id>
+        <link href="https://v.daum.net/v/20231224165055583"/>
+        <updated>2023-12-24T08:11:46.937Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["OO공포 심해" 서인국이 '이재 곧' 촬영하며 가장 힘들었던 장면]]></title>
         <id>https://v.daum.net/v/20231224160015099</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231224105317952"/>
         <updated>2023-12-24T01:54:13.597Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로운X조이현, 월화극 1위 찍었다…종영 아쉬움 달래는 비하인드컷]]></title>
-        <id>https://v.daum.net/v/20231224104829912</id>
-        <link href="https://v.daum.net/v/20231224104829912"/>
-        <updated>2023-12-24T01:54:13.598Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선 이별 통보, 지창욱父 반대 때문이었다…시청자 울린 순애보었다!]]></title>
-        <id>https://v.daum.net/v/20231224102941727</id>
-        <link href="https://v.daum.net/v/20231224102941727"/>
-        <updated>2023-12-24T01:54:13.598Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
