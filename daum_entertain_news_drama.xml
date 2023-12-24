@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-24T08:11:56.810Z</updated>
+    <updated>2023-12-24T09:11:12.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지창욱, 눈빛 장인 맞네]]></title>
+        <id>https://v.daum.net/v/20231224175204290</id>
+        <link href="https://v.daum.net/v/20231224175204290"/>
+        <updated>2023-12-24T09:10:10.048Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘찌질이’의 정수 보여준 임시완 “병태 연기하면서 숨통 트여”]]></title>
+        <id>https://v.daum.net/v/20231224173208117</id>
+        <link href="https://v.daum.net/v/20231224173208117"/>
+        <updated>2023-12-24T09:10:10.048Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제일 비싼 소품은 전쟁용 OO"···'고려거란전쟁' 이렇게 만들었다②]]></title>
         <id>https://v.daum.net/v/20231224170015713</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231224111502190"/>
         <updated>2023-12-24T02:23:45.476Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정, 대표님 ON-OFF 모드 확실하네]]></title>
-        <id>https://v.daum.net/v/20231224111027155</id>
-        <link href="https://v.daum.net/v/20231224111027155"/>
-        <updated>2023-12-24T02:23:45.476Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조연희, 아들 몸 불타는데 헤드셋 끼고 귀 막아..극강의 소름]]></title>
-        <id>https://v.daum.net/v/20231224105317952</id>
-        <link href="https://v.daum.net/v/20231224105317952"/>
-        <updated>2023-12-24T01:54:13.597Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
