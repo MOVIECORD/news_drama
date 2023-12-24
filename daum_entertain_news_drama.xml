@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-24T16:11:38.830Z</updated>
+    <updated>2023-12-24T17:08:39.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마에스트라' 이영애, 유전병 인정→母 사망 후 살인용의자 지목]]></title>
+        <id>https://v.daum.net/v/20231225011354987</id>
+        <link href="https://v.daum.net/v/20231225011354987"/>
+        <updated>2023-12-24T17:08:29.000Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼달리' 지창욱, 예보관 된 이유=해녀로 사망한 母였다]]></title>
         <id>https://v.daum.net/v/20231225001442842</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231224213307901</id>
         <link href="https://v.daum.net/v/20231224213307901"/>
         <updated>2023-12-24T13:10:24.473Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엄마 죽이고 가"…'효심이네' 유이, 오열하는 母 윤미라 두고 집 떠났다]]></title>
-        <id>https://v.daum.net/v/20231224212554865</id>
-        <link href="https://v.daum.net/v/20231224212554865"/>
-        <updated>2023-12-24T13:10:24.475Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
