@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-24T13:11:26.600Z</updated>
+    <updated>2023-12-24T14:08:59.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재용 "子, 싸늘한 주검으로 와…김동준 목숨 가져갈 것"]]></title>
+        <id>https://v.daum.net/v/20231224230600448</id>
+        <link href="https://v.daum.net/v/20231224230600448"/>
+        <updated>2023-12-24T14:08:50.013Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애, 이혼 선언…모친 사망까지 '굴곡진 음악 인생']]></title>
+        <id>https://v.daum.net/v/20231224225102363</id>
+        <link href="https://v.daum.net/v/20231224225102363"/>
+        <updated>2023-12-24T14:08:50.014Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마에스트라' 이영애, 母 유전병 직접 밝히고 김영재에 "내 인생에서 비켜"]]></title>
+        <id>https://v.daum.net/v/20231224223301270</id>
+        <link href="https://v.daum.net/v/20231224223301270"/>
+        <updated>2023-12-24T14:08:50.014Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애, 유전병 스스로 밝혔다…母 예수정 사망 '충격']]></title>
+        <id>https://v.daum.net/v/20231224222729256</id>
+        <link href="https://v.daum.net/v/20231224222729256"/>
+        <updated>2023-12-24T14:08:50.014Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마에스트라' 이영애, 김영재와 이혼 위해 유전병 밝혀]]></title>
         <id>https://v.daum.net/v/20231224220557127</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231224205801667"/>
         <updated>2023-12-24T12:16:30.582Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네' 유이, 母 윤미라에 독립 선언 "형제들 때문에 힘들어"]]></title>
-        <id>https://v.daum.net/v/20231224204250585</id>
-        <link href="https://v.daum.net/v/20231224204250585"/>
-        <updated>2023-12-24T12:16:30.583Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준, 유이 독립 응원 “아니면 시집와라, 몸만 와도 괜찮아”]]></title>
-        <id>https://v.daum.net/v/20231224203732565</id>
-        <link href="https://v.daum.net/v/20231224203732565"/>
-        <updated>2023-12-24T12:16:30.585Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네' 유이, 母 윤미라에 독립 선언 "나 힘들다고"]]></title>
-        <id>https://v.daum.net/v/20231224203556549</id>
-        <link href="https://v.daum.net/v/20231224203556549"/>
-        <updated>2023-12-24T12:16:30.586Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“독립할 돈 있으면 엄마 줘” 윤미라, 딸 유이 독립 반대]]></title>
-        <id>https://v.daum.net/v/20231224202542497</id>
-        <link href="https://v.daum.net/v/20231224202542497"/>
-        <updated>2023-12-24T12:16:30.588Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
