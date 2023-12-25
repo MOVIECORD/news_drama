@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-25T03:11:12.131Z</updated>
+    <updated>2023-12-25T04:12:35.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘삼달리’ 지창욱-신혜선,  유오성 반대란 '고사리 장마' 이겨낼까?]]></title>
+        <id>https://v.daum.net/v/20231225121738054</id>
+        <link href="https://v.daum.net/v/20231225121738054"/>
+        <updated>2023-12-25T04:12:25.286Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강미나가 그려낸 풋풋한 20대 청춘의 썸]]></title>
         <id>https://v.daum.net/v/20231225112414301</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225083745057"/>
         <updated>2023-12-25T00:44:57.496Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 이영애, 母유전병 인정 + 母사망 후 살인용의자 지목]]></title>
-        <id>https://v.daum.net/v/20231225083314024</id>
-        <link href="https://v.daum.net/v/20231225083314024"/>
-        <updated>2023-12-25T00:44:57.497Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
