@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-25T02:24:27.868Z</updated>
+    <updated>2023-12-25T03:11:12.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강미나가 그려낸 풋풋한 20대 청춘의 썸]]></title>
+        <id>https://v.daum.net/v/20231225112414301</id>
+        <link href="https://v.daum.net/v/20231225112414301"/>
+        <updated>2023-12-25T03:11:03.615Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마에스트로' 최윤소, 이무생 향해 직진..이영애에게도 접근]]></title>
         <id>https://v.daum.net/v/20231225103907617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225083314024"/>
         <updated>2023-12-25T00:44:57.497Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 이영애, 희귀병 '래밍턴병' 예수정 사망에 '슬픔']]></title>
-        <id>https://v.daum.net/v/20231225082428949</id>
-        <link href="https://v.daum.net/v/20231225082428949"/>
-        <updated>2023-12-25T00:44:57.498Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
