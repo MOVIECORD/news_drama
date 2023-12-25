@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-25T06:14:31.892Z</updated>
+    <updated>2023-12-25T07:10:00.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['남과여' 첫방 D-1, 청춘들의 진짜 연애 드큐멘터리..관전 포인트3]]></title>
+        <id>https://v.daum.net/v/20231225152820152</id>
+        <link href="https://v.daum.net/v/20231225152820152"/>
+        <updated>2023-12-25T07:09:52.077Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사랑말’ ‘심각’ 정우성X허준석 → ‘눈물 글썽’ 신현빈]]></title>
         <id>https://v.daum.net/v/20231225150549552</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225103030482"/>
         <updated>2023-12-25T01:51:55.072Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘웰컴투삼달리’ 김미경, 물질하다 실종…시청률 7.9%]]></title>
-        <id>https://v.daum.net/v/20231225100902173</id>
-        <link href="https://v.daum.net/v/20231225100902173"/>
-        <updated>2023-12-25T01:51:55.072Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
