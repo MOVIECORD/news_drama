@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-26T12:17:44.805Z</updated>
+    <updated>2023-12-26T13:11:11.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박규영, 이현우와 다정한 데이트?→'차은우 질투 폭발']]></title>
+        <id>https://v.daum.net/v/20231226220615810</id>
+        <link href="https://v.daum.net/v/20231226220615810"/>
+        <updated>2023-12-26T13:11:03.392Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한혜진·이지아도 못 피한 연기력 논란, 말도 탈도 많았던 드라마계]]></title>
         <id>https://v.daum.net/v/20231226210103134</id>
         <link href="https://v.daum.net/v/20231226210103134"/>
         <updated>2023-12-26T12:16:42.910Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박서준x한소희 '경성크리처', 노잼 혹평에도 시즌2 보고 싶은 이유]]></title>
+        <id>https://v.daum.net/v/20231226203519897</id>
+        <link href="https://v.daum.net/v/20231226203519897"/>
+        <updated>2023-12-26T13:11:03.395Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이시강, 비리 장부 빼앗았다…강율, 머리 맞고 쓰러져]]></title>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231226173553039</id>
         <link href="https://v.daum.net/v/20231226173553039"/>
         <updated>2023-12-26T09:10:22.528Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선산' 김현주→류경수, 예측 불허 미스터리 베일 벗다]]></title>
-        <id>https://v.daum.net/v/20231226171252507</id>
-        <link href="https://v.daum.net/v/20231226171252507"/>
-        <updated>2023-12-26T09:10:22.530Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피도 눈물도 없이’ 이소연 하연주, 한순간 선택으로 뒤바뀐 자매의 운명]]></title>
-        <id>https://v.daum.net/v/20231226165639037</id>
-        <link href="https://v.daum.net/v/20231226165639037"/>
-        <updated>2023-12-26T08:13:02.990Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
