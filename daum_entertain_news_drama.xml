@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-27T08:12:26.204Z</updated>
+    <updated>2023-12-27T09:10:27.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신재휘, 신현빈과 찐 남매인 줄…존재감 폭발]]></title>
+        <id>https://v.daum.net/v/20231227175435871</id>
+        <link href="https://v.daum.net/v/20231227175435871"/>
+        <updated>2023-12-27T09:10:19.089Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마이데몬', '열녀박씨' 넘고 화제성 1위...'경성크리처' 제친 '소년시대']]></title>
+        <id>https://v.daum.net/v/20231227172221903</id>
+        <link href="https://v.daum.net/v/20231227172221903"/>
+        <updated>2023-12-27T09:10:19.089Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오창석 알고 보니 다이아몬드 수저 “능글남 매력 기대 부탁”]]></title>
         <id>https://v.daum.net/v/20231227171027594</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231227123003782"/>
         <updated>2023-12-27T04:11:59.377Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘남과여’ 이동해, 모텔 앞 다른 男과 있는 ♥이설 목격에 충격]]></title>
-        <id>https://v.daum.net/v/20231227121933644</id>
-        <link href="https://v.daum.net/v/20231227121933644"/>
-        <updated>2023-12-27T04:11:59.377Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑한다고 말해줘’ 신재휘, 찐 남동생인 줄..미친 존재감]]></title>
-        <id>https://v.daum.net/v/20231227114218419</id>
-        <link href="https://v.daum.net/v/20231227114218419"/>
-        <updated>2023-12-27T03:10:46.985Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
