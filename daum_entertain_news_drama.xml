@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-27T09:10:27.446Z</updated>
+    <updated>2023-12-27T10:10:46.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희 울고 고윤정 웃었다…볼 거 없던 티빙의 반격, 넷플릭스 주춤 속 잇단 호평]]></title>
+        <id>https://v.daum.net/v/20231227190102576</id>
+        <link href="https://v.daum.net/v/20231227190102576"/>
+        <updated>2023-12-27T10:10:36.972Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사극킹의 귀환’ 최수종, 고려거란전쟁 '강감찬' 열연 모먼트]]></title>
+        <id>https://v.daum.net/v/20231227182759843</id>
+        <link href="https://v.daum.net/v/20231227182759843"/>
+        <updated>2023-12-27T10:10:36.974Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신재휘, 신현빈과 찐 남매인 줄…존재감 폭발]]></title>
         <id>https://v.daum.net/v/20231227175435871</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231227132123670"/>
         <updated>2023-12-27T05:09:58.909Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 사망 여파…박민영 복귀작 ‘내 남편과 결혼해줘’ 제발회 일정 변경]]></title>
-        <id>https://v.daum.net/v/20231227125525149</id>
-        <link href="https://v.daum.net/v/20231227125525149"/>
-        <updated>2023-12-27T04:11:59.377Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 사망 비보에…‘내 남편과 결혼해줘’ 제작발표회 취소]]></title>
-        <id>https://v.daum.net/v/20231227123003782</id>
-        <link href="https://v.daum.net/v/20231227123003782"/>
-        <updated>2023-12-27T04:11:59.377Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
