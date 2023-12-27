@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-27T21:10:14.694Z</updated>
+    <updated>2023-12-27T22:09:28.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 이현우와 갈등→기억 잃은 ♥박규영에 '키스' 거부당했다]]></title>
+        <id>https://v.daum.net/v/20231228064926234</id>
+        <link href="https://v.daum.net/v/20231228064926234"/>
+        <updated>2023-12-27T22:09:18.868Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더글로리·무빙 돌풍…K드라마 세계 넘버 1]]></title>
+        <id>https://v.daum.net/v/20231228063016025</id>
+        <link href="https://v.daum.net/v/20231228063016025"/>
+        <updated>2023-12-27T22:09:18.868Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라 "♥6세 연하 남편, 미소에 반해..잘생긴 당나귀상"]]></title>
         <id>https://v.daum.net/v/20231228054501404</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231227192620935"/>
         <updated>2023-12-27T11:08:34.756Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희 울고 고윤정 웃었다…볼 거 없던 티빙의 반격, 넷플릭스 주춤 속 잇단 호평]]></title>
-        <id>https://v.daum.net/v/20231227190102576</id>
-        <link href="https://v.daum.net/v/20231227190102576"/>
-        <updated>2023-12-27T10:10:36.972Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사극킹의 귀환’ 최수종, 고려거란전쟁 '강감찬' 열연 모먼트]]></title>
-        <id>https://v.daum.net/v/20231227182759843</id>
-        <link href="https://v.daum.net/v/20231227182759843"/>
-        <updated>2023-12-27T10:10:36.974Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
