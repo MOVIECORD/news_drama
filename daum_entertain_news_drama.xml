@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-27T20:11:20.115Z</updated>
+    <updated>2023-12-27T21:10:14.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라 "♥6세 연하 남편, 미소에 반해..잘생긴 당나귀상"]]></title>
+        <id>https://v.daum.net/v/20231228054501404</id>
+        <link href="https://v.daum.net/v/20231228054501404"/>
+        <updated>2023-12-27T21:09:12.736Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유퀴즈' 장나라, ♥6세 연하 남편에 "좋아한다고 먼저 고백" 깜짝]]></title>
         <id>https://v.daum.net/v/20231227223327304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231227182759843"/>
         <updated>2023-12-27T10:10:36.974Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신재휘, 신현빈과 찐 남매인 줄…존재감 폭발]]></title>
-        <id>https://v.daum.net/v/20231227175435871</id>
-        <link href="https://v.daum.net/v/20231227175435871"/>
-        <updated>2023-12-27T09:10:19.089Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
