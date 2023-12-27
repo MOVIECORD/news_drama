@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-27T04:13:01.532Z</updated>
+    <updated>2023-12-27T05:10:08.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조정석은 센스 넘치는 유부남...신세경 "배려 많이 해줘 행복했다"]]></title>
+        <id>https://v.daum.net/v/20231227133131948</id>
+        <link href="https://v.daum.net/v/20231227133131948"/>
+        <updated>2023-12-27T05:09:58.907Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이선균, 사망 공식화…소속사 "마지막길 억울하지 않게 억측 자제"]]></title>
+        <id>https://v.daum.net/v/20231227132123670</id>
+        <link href="https://v.daum.net/v/20231227132123670"/>
+        <updated>2023-12-27T05:09:58.909Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균 사망 여파…박민영 복귀작 ‘내 남편과 결혼해줘’ 제발회 일정 변경]]></title>
         <id>https://v.daum.net/v/20231227125525149</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231227092951771"/>
         <updated>2023-12-27T00:43:14.218Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세경, 첫 남장여자 연기 "남장 비주얼 마음에 들어"]]></title>
-        <id>https://v.daum.net/v/20231227092644647</id>
-        <link href="https://v.daum.net/v/20231227092644647"/>
-        <updated>2023-12-27T00:43:14.218Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세작' 신세경, 데뷔 25년만 첫 남장여자 "비주얼 마음에 쏙 들어"]]></title>
-        <id>https://v.daum.net/v/20231227092640643</id>
-        <link href="https://v.daum.net/v/20231227092640643"/>
-        <updated>2023-12-27T00:43:14.219Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
