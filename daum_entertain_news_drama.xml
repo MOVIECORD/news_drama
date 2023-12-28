@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-28T21:09:23.489Z</updated>
+    <updated>2023-12-28T22:10:20.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청년 수사반장, MZ세대 조용필…안방극장 수놓은 ‘레트로’]]></title>
+        <id>https://v.daum.net/v/20231229063006809</id>
+        <link href="https://v.daum.net/v/20231229063006809"/>
+        <updated>2023-12-28T22:09:18.766Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우아한 제국' 이시강, 남경읍 데려간 한지완에 "좋은 남편 하고파" 뻔뻔]]></title>
         <id>https://v.daum.net/v/20231228204630255</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231228160103050"/>
         <updated>2023-12-28T07:09:30.591Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["시청률 두자리, 도와달라"..이중인격 박지훈x기억상실 홍예지 '환상연가' 어떨까]]></title>
-        <id>https://v.daum.net/v/20231228155737846</id>
-        <link href="https://v.daum.net/v/20231228155737846"/>
-        <updated>2023-12-28T07:09:30.592Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
