@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-28T09:10:33.342Z</updated>
+    <updated>2023-12-28T10:11:11.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기시감 안 드는"…파격 캐스팅 '환상연가', 반전의 언더독될까]]></title>
+        <id>https://v.daum.net/v/20231228185002607</id>
+        <link href="https://v.daum.net/v/20231228185002607"/>
+        <updated>2023-12-28T10:11:00.811Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장나라, 1초마다 바뀌는 넋 나간 표정..이런 모습 처음이야]]></title>
+        <id>https://v.daum.net/v/20231228181025788</id>
+        <link href="https://v.daum.net/v/20231228181025788"/>
+        <updated>2023-12-28T10:11:00.812Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경성크리처' 이지현, 애끓는 모성애..아들의 유품과 함께 돌아온 미싱]]></title>
         <id>https://v.daum.net/v/20231228174505972</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231228155418708"/>
         <updated>2023-12-28T07:09:30.596Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈의 두 얼굴…‘환상연가’, 시청률 10% 넘길 수 있을까]]></title>
-        <id>https://v.daum.net/v/20231228155114568</id>
-        <link href="https://v.daum.net/v/20231228155114568"/>
-        <updated>2023-12-28T07:09:30.598Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1인2역' 박지훈, 약한영웅·국민센터 '환상연가'에 다 있다]]></title>
-        <id>https://v.daum.net/v/20231228154924475</id>
-        <link href="https://v.daum.net/v/20231228154924475"/>
-        <updated>2023-12-28T07:09:30.600Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
