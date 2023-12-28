@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-28T08:13:13.868Z</updated>
+    <updated>2023-12-28T09:10:33.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경성크리처' 이지현, 애끓는 모성애..아들의 유품과 함께 돌아온 미싱]]></title>
+        <id>https://v.daum.net/v/20231228174505972</id>
+        <link href="https://v.daum.net/v/20231228174505972"/>
+        <updated>2023-12-28T09:10:23.369Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["요즘 어렵다, 도와주길"…'환상연가' 시청률 10% 넘길까]]></title>
+        <id>https://v.daum.net/v/20231228173001405</id>
+        <link href="https://v.daum.net/v/20231228173001405"/>
+        <updated>2023-12-28T09:10:23.370Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故이선균 사망 비보 여파..SBS 측 “‘법쩐’ 배우, SBS 연기대상 불참 확정”]]></title>
         <id>https://v.daum.net/v/20231228165321189</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231228154924475"/>
         <updated>2023-12-28T07:09:30.600Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故이선균 비보 여파..SBS "'법쩐' 배우들, '연기대상' 불참 확정"]]></title>
-        <id>https://v.daum.net/v/20231228154529305</id>
-        <link href="https://v.daum.net/v/20231228154529305"/>
-        <updated>2023-12-28T07:09:30.603Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환상연가' 감독 "박지훈, 외로워 보이지만 퇴폐美 있어"]]></title>
-        <id>https://v.daum.net/v/20231228154201164</id>
-        <link href="https://v.daum.net/v/20231228154201164"/>
-        <updated>2023-12-28T07:09:30.603Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
