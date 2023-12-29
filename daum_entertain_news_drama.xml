@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-29T03:11:36.476Z</updated>
+    <updated>2023-12-29T04:12:27.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘세작’ 신세경, 조정석 향한 직진+숨멎 입맞춤]]></title>
+        <id>https://v.daum.net/v/20231229130406066</id>
+        <link href="https://v.daum.net/v/20231229130406066"/>
+        <updated>2023-12-29T04:12:16.951Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘피도 눈물도 없이’ 이소연 “가족, 가장 가깝지만 서로를 아프게 하는 존재”]]></title>
+        <id>https://v.daum.net/v/20231229123426673</id>
+        <link href="https://v.daum.net/v/20231229123426673"/>
+        <updated>2023-12-29T04:12:16.956Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신스틸러 유정래, 활동명 서은호로 김명민과 한솥밥]]></title>
         <id>https://v.daum.net/v/20231229120401267</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231229094257395"/>
         <updated>2023-12-29T01:38:22.555Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜·김재영, 내년 SBS 새 드라마 ‘지옥에서 온 판사’ 출연 확정]]></title>
-        <id>https://v.daum.net/v/20231229092719946</id>
-        <link href="https://v.daum.net/v/20231229092719946"/>
-        <updated>2023-12-29T00:36:13.563Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜X김재영, '지옥에서 온 판사' 출연 확정…독특한 로맨스 판타지 예고]]></title>
-        <id>https://v.daum.net/v/20231229092224813</id>
-        <link href="https://v.daum.net/v/20231229092224813"/>
-        <updated>2023-12-29T00:36:13.564Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
