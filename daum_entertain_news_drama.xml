@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-29T14:09:44.175Z</updated>
+    <updated>2023-12-29T15:10:21.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전현무 "대상 확률 낮아보여…기안84 받았으면"]]></title>
+        <id>https://v.daum.net/v/20231230000402105</id>
+        <link href="https://v.daum.net/v/20231230000402105"/>
+        <updated>2023-12-29T15:10:10.723Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아프고 슬퍼"..'SBS 연기대상', 故 이선균을 추모하는 방법]]></title>
+        <id>https://v.daum.net/v/20231229235619987</id>
+        <link href="https://v.daum.net/v/20231229235619987"/>
+        <updated>2023-12-29T15:10:10.724Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장도연, 우수상 영예…"'라디오스타' 첫 녹화 후 몸살, 잊지 않겠다"]]></title>
+        <id>https://v.daum.net/v/20231229233518828</id>
+        <link href="https://v.daum.net/v/20231229233518828"/>
+        <updated>2023-12-29T15:10:10.726Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김구라, PD상 소신발언…"망하더라도 남들이 안 하는 것 만들길"]]></title>
+        <id>https://v.daum.net/v/20231229231842696</id>
+        <link href="https://v.daum.net/v/20231229231842696"/>
+        <updated>2023-12-29T15:10:10.728Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 올해의 예능인상…"올 한 해 최선 다했다"]]></title>
         <id>https://v.daum.net/v/20231229230628595</id>
@@ -48,7 +76,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화사, 축하공연 무대 변경한 이유.."故 이선균 비보 여파"]]></title>
+        <title type="html"><![CDATA[故 이선균 비보 여파..화사, 축하 공연 변경 "가슴 아픈 일"]]></title>
         <id>https://v.daum.net/v/20231229223804422</id>
         <link href="https://v.daum.net/v/20231229223804422"/>
         <updated>2023-12-29T14:09:34.150Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231229215237834"/>
         <updated>2023-12-29T13:11:35.273Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김일중·재재·테이, 라디오 부문 신인상…"몸담았던 회사 있는데"]]></title>
-        <id>https://v.daum.net/v/20231229213055505</id>
-        <link href="https://v.daum.net/v/20231229213055505"/>
-        <updated>2023-12-29T13:11:35.273Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강유석→정수빈, 7명 후보 전원 신인상 수상…신동엽도 '당황']]></title>
-        <id>https://v.daum.net/v/20231229211554321</id>
-        <link href="https://v.daum.net/v/20231229211554321"/>
-        <updated>2023-12-29T13:11:35.273Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법쩐' 강유석→'7인의 탈출' 김도훈, 신인상 7人 공동 수상]]></title>
-        <id>https://v.daum.net/v/20231229211339292</id>
-        <link href="https://v.daum.net/v/20231229211339292"/>
-        <updated>2023-12-29T12:15:07.400Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정석-신세경, 숨멎 입맞춤 "나는 네가 좋다"]]></title>
-        <id>https://v.daum.net/v/20231229211128271</id>
-        <link href="https://v.daum.net/v/20231229211128271"/>
-        <updated>2023-12-29T12:15:07.400Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
