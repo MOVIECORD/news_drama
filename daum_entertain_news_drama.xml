@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-30T04:12:31.241Z</updated>
+    <updated>2023-12-30T05:09:15.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내 남편과 결혼해줘’ 호구 탈출 박민영, 인생 2회차 180도 변신]]></title>
+        <id>https://v.daum.net/v/20231230133537281</id>
+        <link href="https://v.daum.net/v/20231230133537281"/>
+        <updated>2023-12-30T05:09:05.018Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘웰컴투 삼달리’ 지창욱X신혜선, 키스 1초전 포착]]></title>
+        <id>https://v.daum.net/v/20231230131636135</id>
+        <link href="https://v.daum.net/v/20231230131636135"/>
+        <updated>2023-12-30T05:09:05.019Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수종 '고거전', 'MBC 연기대상'·'SBS 연예대상' 격파할까]]></title>
         <id>https://v.daum.net/v/20231230122322824</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231230091637912"/>
         <updated>2023-12-30T00:43:35.610Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘웰컴투 삼달리’ 지창욱, 신혜선 지키려 父 유오성에 울분 폭발]]></title>
-        <id>https://v.daum.net/v/20231230091624909</id>
-        <link href="https://v.daum.net/v/20231230091624909"/>
-        <updated>2023-12-30T00:43:35.610Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민·안은진VS이세영·배인혁 '베커상' 치열하네...오늘 MBC '연기대상']]></title>
-        <id>https://v.daum.net/v/20231230091209874</id>
-        <link href="https://v.daum.net/v/20231230091209874"/>
-        <updated>2023-12-30T00:43:35.612Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
