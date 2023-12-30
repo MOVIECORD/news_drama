@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-30T06:12:10.379Z</updated>
+    <updated>2023-12-30T07:09:27.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라, 스토커에게 쫓기는 절체절명 위기]]></title>
+        <id>https://v.daum.net/v/20231230160709399</id>
+        <link href="https://v.daum.net/v/20231230160709399"/>
+        <updated>2023-12-30T07:08:25.640Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장나라, 스토커에 쫓기는 충격적 순간..책상 밑 피신]]></title>
+        <id>https://v.daum.net/v/20231230160349377</id>
+        <link href="https://v.daum.net/v/20231230160349377"/>
+        <updated>2023-12-30T07:08:25.643Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱♥신혜선, 드디어 키스 1초전..애절한 로맨스]]></title>
         <id>https://v.daum.net/v/20231230141828591</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231230095301244"/>
         <updated>2023-12-30T01:44:17.706Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥션’ 지성-전미도, 40초 티저만으로도 숨막히는 긴장감]]></title>
-        <id>https://v.daum.net/v/20231230094047129</id>
-        <link href="https://v.daum.net/v/20231230094047129"/>
-        <updated>2023-12-30T00:43:35.609Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸', 하나도 없어요 정상→'이두나!' 수지, 돌아온 조각상]]></title>
-        <id>https://v.daum.net/v/20231230093003047</id>
-        <link href="https://v.daum.net/v/20231230093003047"/>
-        <updated>2023-12-30T00:43:35.609Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
