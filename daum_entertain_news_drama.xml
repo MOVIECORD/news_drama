@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-30T16:12:03.653Z</updated>
+    <updated>2023-12-30T17:08:29.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['4년 후보' 탁재훈, 드디어 'SBS 연예대상' 대상…母·아들딸 언급 '눈물']]></title>
+        <id>https://v.daum.net/v/20231231013153375</id>
+        <link href="https://v.daum.net/v/20231231013153375"/>
+        <updated>2023-12-30T17:08:19.738Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인' MBC 연기대상 9관왕..대상 남궁민 "♥진아름 고마워"]]></title>
+        <id>https://v.daum.net/v/20231231011619324</id>
+        <link href="https://v.daum.net/v/20231231011619324"/>
+        <updated>2023-12-30T17:08:19.739Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지석진, 프로듀서상 영예…생방송 중 전화 연결 "저 멀쩡해요"]]></title>
         <id>https://v.daum.net/v/20231231010655305</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231230224951703"/>
         <updated>2023-12-30T14:08:43.846Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우도환·이세영·안은진 최우수상 “늙어서도 연기할 것…예쁘게 봐주세요”]]></title>
-        <id>https://v.daum.net/v/20231230224800693</id>
-        <link href="https://v.daum.net/v/20231230224800693"/>
-        <updated>2023-12-30T14:08:43.846Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마에스트라’ 이영애, 만취 후 블랙아웃→손에 묻은 피.. 마약 이어 살인 혐의까지?]]></title>
-        <id>https://v.daum.net/v/20231230224622686</id>
-        <link href="https://v.daum.net/v/20231230224622686"/>
-        <updated>2023-12-30T14:08:43.846Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
