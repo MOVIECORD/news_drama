@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-30T09:09:47.737Z</updated>
+    <updated>2023-12-30T10:10:40.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현, VIP구역 프리패스→전용헬기 탑승, 전대미문 FLEX 수사]]></title>
+        <id>https://v.daum.net/v/20231230181614444</id>
+        <link href="https://v.daum.net/v/20231230181614444"/>
+        <updated>2023-12-30T10:09:38.770Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["황제를 잡아라" 현종 김동준, 호장 반란에 위기]]></title>
         <id>https://v.daum.net/v/20231230180657371</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231230104922932</id>
         <link href="https://v.daum.net/v/20231230104922932"/>
         <updated>2023-12-30T02:20:22.572Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복수를 꿈꾸는 을이여, 고개를 들어 박민영을 보라]]></title>
-        <id>https://v.daum.net/v/20231230102918726</id>
-        <link href="https://v.daum.net/v/20231230102918726"/>
-        <updated>2023-12-30T01:44:17.702Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
