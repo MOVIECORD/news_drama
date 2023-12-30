@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-30T08:12:45.594Z</updated>
+    <updated>2023-12-30T09:09:47.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["황제를 잡아라" 현종 김동준, 호장 반란에 위기]]></title>
+        <id>https://v.daum.net/v/20231230180657371</id>
+        <link href="https://v.daum.net/v/20231230180657371"/>
+        <updated>2023-12-30T09:09:37.491Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이십세기 힛트쏭' 김희철 "연말 계획? 이수만 선생님과 놀러가기로"]]></title>
+        <id>https://v.daum.net/v/20231230173733060</id>
+        <link href="https://v.daum.net/v/20231230173733060"/>
+        <updated>2023-12-30T09:09:37.492Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['전 연인' 지창욱X신혜선, 키스 1초 전 포착…분위기 심상치 않네]]></title>
+        <id>https://v.daum.net/v/20231230171522866</id>
+        <link href="https://v.daum.net/v/20231230171522866"/>
+        <updated>2023-12-30T09:09:37.493Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지창욱, 父 유오성에 감정 폭발..신혜선 집안에 한 맺힌 이유는?]]></title>
+        <id>https://v.daum.net/v/20231230171310829</id>
+        <link href="https://v.daum.net/v/20231230171310829"/>
+        <updated>2023-12-30T09:09:37.499Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라, 스토커에게 쫓기는 절체절명 위기]]></title>
         <id>https://v.daum.net/v/20231230160709399</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231230102918726"/>
         <updated>2023-12-30T01:44:17.702Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마약반 형사가 마약을 해?" 지성·전미도 SBS 드라마 '커넥션' 스페셜 티저 공개]]></title>
-        <id>https://v.daum.net/v/20231230101301528</id>
-        <link href="https://v.daum.net/v/20231230101301528"/>
-        <updated>2023-12-30T01:44:17.702Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 이제훈-'악귀' 김태리 공동 대상…우열 가릴 수 없는 2023 SBS 드라마 주역]]></title>
-        <id>https://v.daum.net/v/20231230100901480</id>
-        <link href="https://v.daum.net/v/20231230100901480"/>
-        <updated>2023-12-30T01:44:17.703Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 이선균 추모 소감, 드레스 코드 블랙..SBS 연기대상의 자세]]></title>
-        <id>https://v.daum.net/v/20231230095714288</id>
-        <link href="https://v.daum.net/v/20231230095714288"/>
-        <updated>2023-12-30T01:44:17.704Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈·김태리, SBS 연기대상 공동대상…시청률 3%대]]></title>
-        <id>https://v.daum.net/v/20231230095301244</id>
-        <link href="https://v.daum.net/v/20231230095301244"/>
-        <updated>2023-12-30T01:44:17.706Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
