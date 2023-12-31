@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-31T17:08:49.722Z</updated>
+    <updated>2023-12-31T18:12:21.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대상 최수종 "정말 감사...'더 잘해야겠다' 생각뿐"]]></title>
+        <id>https://v.daum.net/v/20240101021517965</id>
+        <link href="https://v.daum.net/v/20240101021517965"/>
+        <updated>2023-12-31T18:12:12.617Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS 연기대상 '고려거란전쟁' 최수종…"큰 부담 안고 연기"]]></title>
+        <id>https://v.daum.net/v/20240101021304959</id>
+        <link href="https://v.daum.net/v/20240101021304959"/>
+        <updated>2023-12-31T18:12:12.623Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["하희라씨에게 감사" 최수종, 16년 만에 눈물의 대상]]></title>
         <id>https://v.daum.net/v/20240101014931870</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240101002801245"/>
         <updated>2023-12-31T16:11:43.414Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["왜 저를"…안재현♥백진희→최수종♥김동준, 베스트커플상만 다섯쌍]]></title>
-        <id>https://v.daum.net/v/20240101002601225</id>
-        <link href="https://v.daum.net/v/20240101002601225"/>
-        <updated>2023-12-31T16:11:43.415Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준 "♥유이에 장가가고파"…'효심이네' 위해 큰절 올렸다]]></title>
-        <id>https://v.daum.net/v/20240101002330202</id>
-        <link href="https://v.daum.net/v/20240101002330202"/>
-        <updated>2023-12-31T16:11:43.417Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
