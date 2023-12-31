@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-31T20:09:55.432Z</updated>
+    <updated>2023-12-31T21:09:52.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전남친 구설 박민영 ‘내 남편과 결혼해줘’ 복귀…시청자 마음 돌릴까]]></title>
+        <id>https://v.daum.net/v/20240101053208830</id>
+        <link href="https://v.daum.net/v/20240101053208830"/>
+        <updated>2023-12-31T21:08:50.099Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대상 최수종 "정말 감사...'더 잘해야겠다' 생각뿐"]]></title>
         <id>https://v.daum.net/v/20240101021517965</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101003259307"/>
         <updated>2023-12-31T16:11:43.411Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종 눈물, 베스트커플상에 "기가 막혀, 왜 나한테 이런 짐을"]]></title>
-        <id>https://v.daum.net/v/20240101002801245</id>
-        <link href="https://v.daum.net/v/20240101002801245"/>
-        <updated>2023-12-31T16:11:43.414Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
