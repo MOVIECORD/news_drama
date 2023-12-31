@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2023-12-31T05:10:29.063Z</updated>
+    <updated>2023-12-31T06:12:14.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민·안은진으로 시작해 '연인'으로 끝난 MBC 연기대상이 남긴 숙제]]></title>
+        <id>https://v.daum.net/v/20231231141151249</id>
+        <link href="https://v.daum.net/v/20231231141151249"/>
+        <updated>2023-12-31T06:12:04.447Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[긴급 체포된 이영애, 남편과 손절한다]]></title>
         <id>https://v.daum.net/v/20231231140802214</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안보현x박지현 '재벌X형사', 1월 26일 디즈니+ 공개 확정]]></title>
+        <title type="html"><![CDATA[안보현·박지현 '재벌X형사', 1월 26일 디즈니+ 공개 확정]]></title>
         <id>https://v.daum.net/v/20231231135926095</id>
         <link href="https://v.daum.net/v/20231231135926095"/>
         <updated>2023-12-31T05:09:26.934Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231231104101283"/>
         <updated>2023-12-31T01:54:59.236Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤아, 글로벌 1위 '킹더랜드'로 '2023 에이판 스타 어워즈' 2관왕!]]></title>
-        <id>https://v.daum.net/v/20231231104020276</id>
-        <link href="https://v.daum.net/v/20231231104020276"/>
-        <updated>2023-12-31T01:54:59.239Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
