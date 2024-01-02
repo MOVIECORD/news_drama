@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-02T12:18:33.725Z</updated>
+    <updated>2024-01-02T13:12:07.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["송하윤에 운명 도둑맞아야 해"…'내남결' 나인우, 박민영 복수극 조력자일까]]></title>
+        <id>https://v.daum.net/v/20240102220835815</id>
+        <link href="https://v.daum.net/v/20240102220835815"/>
+        <updated>2024-01-02T13:11:57.251Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내남결' 나인우, 박민영 조력자일까…"빚 있다는 것 기억해"]]></title>
+        <id>https://v.daum.net/v/20240102213939436</id>
+        <link href="https://v.daum.net/v/20240102213939436"/>
+        <updated>2024-01-02T13:11:57.251Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 남편과 결혼해줘' 나인우, 박민영 몰래 뒷조사…수상한 정체]]></title>
         <id>https://v.daum.net/v/20240102211306155</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240102162327476"/>
         <updated>2024-01-02T08:13:22.379Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘브랜드 인 성수동’ 팀장 김지은, 인턴 로몬과 박력키스 1분 전]]></title>
-        <id>https://v.daum.net/v/20240102161838299</id>
-        <link href="https://v.daum.net/v/20240102161838299"/>
-        <updated>2024-01-02T08:13:22.381Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이재, 곧 죽습니다' 장승조, 화려한 바이크 액션…몰입도 극대화 성공]]></title>
-        <id>https://v.daum.net/v/20240102160149672</id>
-        <link href="https://v.daum.net/v/20240102160149672"/>
-        <updated>2024-01-02T07:09:19.782Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
