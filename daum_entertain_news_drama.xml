@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-03T11:08:57.595Z</updated>
+    <updated>2024-01-03T12:17:55.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수호 ‘세자가 사라졌다’ 출연확정…첫 사극 연기]]></title>
+        <id>https://v.daum.net/v/20240103203607587</id>
+        <link href="https://v.daum.net/v/20240103203607587"/>
+        <updated>2024-01-03T12:17:45.640Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시강, 한지완에 "내 집에서 나가" 협박]]></title>
+        <id>https://v.daum.net/v/20240103202046389</id>
+        <link href="https://v.daum.net/v/20240103202046389"/>
+        <updated>2024-01-03T12:17:45.640Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장나라가 장나라 했다..로코퀸에서 스릴러퀸으로]]></title>
         <id>https://v.daum.net/v/20240103200311144</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240103173719211"/>
         <updated>2024-01-03T09:11:17.783Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해도 사극과 회귀물 강세…“독창적 세계관과 통쾌한 복수가 재미”]]></title>
-        <id>https://v.daum.net/v/20240103173219006</id>
-        <link href="https://v.daum.net/v/20240103173219006"/>
-        <updated>2024-01-03T09:11:17.784Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['왓 이프...?' 시즌2, 모든 상상이 현실로…국내 반응 호평]]></title>
-        <id>https://v.daum.net/v/20240103171254149</id>
-        <link href="https://v.daum.net/v/20240103171254149"/>
-        <updated>2024-01-03T09:11:17.784Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
