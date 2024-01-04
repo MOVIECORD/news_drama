@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-04T03:11:39.128Z</updated>
+    <updated>2024-01-04T04:12:40.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이러니 베커상 받지…'마이 데몬' 김유정♥송강, 화보 같은 바닷가 데이트]]></title>
+        <id>https://v.daum.net/v/20240104130008957</id>
+        <link href="https://v.daum.net/v/20240104130008957"/>
+        <updated>2024-01-04T04:12:29.337Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경계' 조정석 vs '광기' 최대훈, 핏빛 형제의 난 시작되나]]></title>
         <id>https://v.daum.net/v/20240104115446169</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240104091952861"/>
         <updated>2024-01-04T00:45:31.957Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정♥송강, 바닷가 데이트 미공개 컷 공개…레전드 경신 중]]></title>
-        <id>https://v.daum.net/v/20240104091301532</id>
-        <link href="https://v.daum.net/v/20240104091301532"/>
-        <updated>2024-01-04T00:45:31.957Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
