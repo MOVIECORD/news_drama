@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-04T10:11:08.430Z</updated>
+    <updated>2024-01-04T11:10:19.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 문지후, 불륜녀 오세영 변심에 "나 이혼하니까 바람난 듯"]]></title>
+        <id>https://v.daum.net/v/20240104194200468</id>
+        <link href="https://v.daum.net/v/20240104194200468"/>
+        <updated>2024-01-04T11:09:17.109Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조아람, '하균신' 손잡고 콤비 플레이...'감사합니다' 여주 발탁]]></title>
         <id>https://v.daum.net/v/20240104190524802</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240104145751004"/>
         <updated>2024-01-04T06:13:34.108Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 키스했어요"..차가운 김지은vs해맑은 로몬]]></title>
-        <id>https://v.daum.net/v/20240104145554945</id>
-        <link href="https://v.daum.net/v/20240104145554945"/>
-        <updated>2024-01-04T06:13:34.109Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
