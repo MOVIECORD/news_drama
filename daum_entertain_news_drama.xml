@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-04T22:11:07.954Z</updated>
+    <updated>2024-01-04T23:11:11.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘밤에 피는 꽃’ 장태유 감독 “이하늬, 코믹·액션 다 잘하는 연습벌레”]]></title>
+        <id>https://v.daum.net/v/20240105075534415</id>
+        <link href="https://v.daum.net/v/20240105075534415"/>
+        <updated>2024-01-04T23:10:09.174Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송하윤, '내남결'로 인생캐!.."연기도 캐릭터도 밉상"]]></title>
         <id>https://v.daum.net/v/20240105070007756</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240104170609857"/>
         <updated>2024-01-04T08:12:50.137Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애·이무생→황보름별, 진호은 누가 죽였나]]></title>
-        <id>https://v.daum.net/v/20240104164025987</id>
-        <link href="https://v.daum.net/v/20240104164025987"/>
-        <updated>2024-01-04T08:12:50.138Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
