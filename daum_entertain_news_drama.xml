@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-05T09:10:35.075Z</updated>
+    <updated>2024-01-05T10:10:54.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경성크리처' 강말금, 박서준X한소희 판 키울 거대 서사의 시작]]></title>
+        <id>https://v.daum.net/v/20240105183606390</id>
+        <link href="https://v.daum.net/v/20240105183606390"/>
+        <updated>2024-01-05T10:10:44.427Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재벌과 형사가 공조수사를? 안보현･박지현, 범죄자들 잡는다]]></title>
+        <id>https://v.daum.net/v/20240105182347190</id>
+        <link href="https://v.daum.net/v/20240105182347190"/>
+        <updated>2024-01-05T10:10:44.428Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“진짜 스토커?” 장나라vs이기택, 예사롭지 않은 기류]]></title>
         <id>https://v.daum.net/v/20240105180854920</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240105145537952"/>
         <updated>2024-01-05T06:13:54.189Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱X신혜선, 삼달리판 로미오와 줄리엣…과몰입 유발]]></title>
-        <id>https://v.daum.net/v/20240105144856767</id>
-        <link href="https://v.daum.net/v/20240105144856767"/>
-        <updated>2024-01-05T06:13:54.191Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최우진 ‘이재, 곧 죽습니다’로 데뷔, 오정세 후배형사 된다]]></title>
-        <id>https://v.daum.net/v/20240105144506675</id>
-        <link href="https://v.daum.net/v/20240105144506675"/>
-        <updated>2024-01-05T06:13:54.192Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
