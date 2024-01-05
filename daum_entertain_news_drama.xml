@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-05T08:13:58.569Z</updated>
+    <updated>2024-01-05T09:10:35.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“진짜 스토커?” 장나라vs이기택, 예사롭지 않은 기류]]></title>
+        <id>https://v.daum.net/v/20240105180854920</id>
+        <link href="https://v.daum.net/v/20240105180854920"/>
+        <updated>2024-01-05T09:10:27.227Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“네가 있어야 하는 곳=씨름판” 장동윤 터닝포인트]]></title>
+        <id>https://v.daum.net/v/20240105171421754</id>
+        <link href="https://v.daum.net/v/20240105171421754"/>
+        <updated>2024-01-05T09:10:27.230Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조한선 ‘킬러들의 쇼핑몰’서 살인기계 된다 “칼 달고 살아”]]></title>
         <id>https://v.daum.net/v/20240105165733381</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240105144506675"/>
         <updated>2024-01-05T06:13:54.192Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국 환생→김재욱x오정세 존재감..'이재, 곧 죽습니다' 파트2 마침내 공개]]></title>
-        <id>https://v.daum.net/v/20240105143559416</id>
-        <link href="https://v.daum.net/v/20240105143559416"/>
-        <updated>2024-01-05T06:13:54.193Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골든걸스' 양혁 PD "박진영 무릎 꿇었을 때 성공 직감"]]></title>
-        <id>https://v.daum.net/v/20240105143108231</id>
-        <link href="https://v.daum.net/v/20240105143108231"/>
-        <updated>2024-01-05T06:13:54.195Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
