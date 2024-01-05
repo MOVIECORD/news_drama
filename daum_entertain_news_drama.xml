@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-05T03:12:05.356Z</updated>
+    <updated>2024-01-05T04:12:28.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 D-2 이세영♥배인혁, 지독한 운명 "몰아치는 전개"]]></title>
+        <id>https://v.daum.net/v/20240105131002876</id>
+        <link href="https://v.daum.net/v/20240105131002876"/>
+        <updated>2024-01-05T04:12:20.086Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번아웃 박신혜→슬럼프 박형식, 지친 현생 위로할 ‘닥터슬럼프’ 포스터 공개]]></title>
         <id>https://v.daum.net/v/20240105120413786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240105095315904"/>
         <updated>2024-01-05T01:52:42.396Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애 시크+세련미의 정점, 차마에 룩 화제]]></title>
-        <id>https://v.daum.net/v/20240105094049315</id>
-        <link href="https://v.daum.net/v/20240105094049315"/>
-        <updated>2024-01-05T00:44:58.193Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
