@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-07T15:09:53.211Z</updated>
+    <updated>2024-01-07T16:12:11.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼달리' 유오성, 子지창욱·신혜선 열애 반대 "육지로 가"]]></title>
+        <id>https://v.daum.net/v/20240108003554893</id>
+        <link href="https://v.daum.net/v/20240108003554893"/>
+        <updated>2024-01-07T16:12:01.283Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["다시는 못 일어나게 밟아준 것뿐" 신혜선 괴롭힌 조윤서에, 김미경 일침]]></title>
+        <id>https://v.daum.net/v/20240108002302838</id>
+        <link href="https://v.daum.net/v/20240108002302838"/>
+        <updated>2024-01-07T16:12:01.285Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김미숙, 제주도 찾아온 조윤서에 “내 딸이 그 꼴 당했는데 안 미치냐” 분노]]></title>
         <id>https://v.daum.net/v/20240107234556535</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240107221802144"/>
         <updated>2024-01-07T14:08:44.535Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불륜녀' 이시원, 임신 고백했다…김영재 "여기 떠나"]]></title>
-        <id>https://v.daum.net/v/20240107221631127</id>
-        <link href="https://v.daum.net/v/20240107221631127"/>
-        <updated>2024-01-07T14:08:44.535Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지승현, 온몸에 화살 박힌채 死... "피투성이+치아로 활 당겨"]]></title>
-        <id>https://v.daum.net/v/20240107220303040</id>
-        <link href="https://v.daum.net/v/20240107220303040"/>
-        <updated>2024-01-07T13:11:24.237Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
