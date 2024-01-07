@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-07T14:09:46.448Z</updated>
+    <updated>2024-01-07T15:09:53.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김미숙, 제주도 찾아온 조윤서에 “내 딸이 그 꼴 당했는데 안 미치냐” 분노]]></title>
+        <id>https://v.daum.net/v/20240107234556535</id>
+        <link href="https://v.daum.net/v/20240107234556535"/>
+        <updated>2024-01-07T15:09:44.058Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼달리' 지창욱, 신혜선 폭행영상 유출에 분노 "왜 맞고만 있어?"]]></title>
+        <id>https://v.daum.net/v/20240107234530534</id>
+        <link href="https://v.daum.net/v/20240107234530534"/>
+        <updated>2024-01-07T15:09:44.060Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동준, 사산한 이시아에 "황후가 가장 소중…날 보고 견뎌달라" 위로]]></title>
+        <id>https://v.daum.net/v/20240107233903488</id>
+        <link href="https://v.daum.net/v/20240107233903488"/>
+        <updated>2024-01-07T15:09:44.060Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선 '갑질 영상' 주작한 조윤서, "심심해서 올렸다" 뻔뻔]]></title>
+        <id>https://v.daum.net/v/20240107233802484</id>
+        <link href="https://v.daum.net/v/20240107233802484"/>
+        <updated>2024-01-07T15:09:44.061Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼달리' 지창욱, ♥신혜선에 애정 폭발 "예쁘지를 말든가"]]></title>
+        <id>https://v.daum.net/v/20240107232738465</id>
+        <link href="https://v.daum.net/v/20240107232738465"/>
+        <updated>2024-01-07T15:09:44.061Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영애와 이혼…김영재, 이시원과도 파국 "친권행사하기 전에 떠나라"]]></title>
         <id>https://v.daum.net/v/20240107230010379</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240107220303040"/>
         <updated>2024-01-07T13:11:24.237Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지승현, 끝까지 거란군에 대항…결국 전사했다]]></title>
-        <id>https://v.daum.net/v/20240107220053024</id>
-        <link href="https://v.daum.net/v/20240107220053024"/>
-        <updated>2024-01-07T13:11:24.238Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 독극물 중독에 이무생 ‘의심’.."믿으려했던 내가 멍청했어"]]></title>
-        <id>https://v.daum.net/v/20240107214856958</id>
-        <link href="https://v.daum.net/v/20240107214856958"/>
-        <updated>2024-01-07T13:11:24.238Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생, 이영애 독극물 준 범인 아니었다…"누가 일부러 먹였네"]]></title>
-        <id>https://v.daum.net/v/20240107214854957</id>
-        <link href="https://v.daum.net/v/20240107214854957"/>
-        <updated>2024-01-07T13:11:24.238Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네' 윤미라, 하준♥유이 결혼 반대 "시시껄렁한 회사원 눈에 안 차"]]></title>
-        <id>https://v.daum.net/v/20240107212300792</id>
-        <link href="https://v.daum.net/v/20240107212300792"/>
-        <updated>2024-01-07T13:11:24.239Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네' 하준, 윤미라에 "♥유이와 결혼하겠다" 선언]]></title>
-        <id>https://v.daum.net/v/20240107211944776</id>
-        <link href="https://v.daum.net/v/20240107211944776"/>
-        <updated>2024-01-07T13:11:24.239Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
