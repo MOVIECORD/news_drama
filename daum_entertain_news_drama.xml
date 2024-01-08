@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-08T03:13:02.411Z</updated>
+    <updated>2024-01-08T04:13:18.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고거전' 김한솔 PD "양규 장군에 빙의한 지승현...필연"]]></title>
+        <id>https://v.daum.net/v/20240108125955071</id>
+        <link href="https://v.daum.net/v/20240108125955071"/>
+        <updated>2024-01-08T04:13:07.252Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강미나, '삼달리' 대표 딸 바라기..가슴 먹먹한 모성애 열연]]></title>
+        <id>https://v.daum.net/v/20240108122342449</id>
+        <link href="https://v.daum.net/v/20240108122342449"/>
+        <updated>2024-01-08T04:13:07.254Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘경성크리처’ 이무생X배현성 시즌2 합류, 2024년 서울로 간다]]></title>
         <id>https://v.daum.net/v/20240108120422988</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240108101246866"/>
         <updated>2024-01-08T01:53:58.430Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결' 박민영, 긴 머리 싹둑 잘랐다...'인생 2회차' 과감한 변신]]></title>
-        <id>https://v.daum.net/v/20240108101022787</id>
-        <link href="https://v.daum.net/v/20240108101022787"/>
-        <updated>2024-01-08T01:53:58.432Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재벌가 왕좌 다툼…이재욱X이준영X홍수주, '로얄로더' 2월 공개]]></title>
-        <id>https://v.daum.net/v/20240108095557154</id>
-        <link href="https://v.daum.net/v/20240108095557154"/>
-        <updated>2024-01-08T01:53:58.434Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
