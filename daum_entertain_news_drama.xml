@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-08T01:55:00.381Z</updated>
+    <updated>2024-01-08T02:25:42.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나의 해피엔드' 이기택, 베일에 싸인 조력자]]></title>
+        <id>https://v.daum.net/v/20240108105301533</id>
+        <link href="https://v.daum.net/v/20240108105301533"/>
+        <updated>2024-01-08T02:25:32.381Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 해피엔드' 이기택, 베일에 싸인 장나라 조력자]]></title>
         <id>https://v.daum.net/v/20240108105207501</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240108093105184"/>
         <updated>2024-01-08T00:46:36.532Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상이, '손해 보기 싫어서' 출연 확정…신민아와 재회]]></title>
-        <id>https://v.daum.net/v/20240108092509957</id>
-        <link href="https://v.daum.net/v/20240108092509957"/>
-        <updated>2024-01-08T00:46:36.533Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
