@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-08T13:14:26.852Z</updated>
+    <updated>2024-01-08T14:10:25.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나인우, 박민영처럼 인생 2회차? “다 말할까..이이경·송하윤 바람 핀다고”]]></title>
+        <id>https://v.daum.net/v/20240108230423332</id>
+        <link href="https://v.daum.net/v/20240108230423332"/>
+        <updated>2024-01-08T14:10:16.841Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['환상연가' 무희 홍예지에 푹 빠진 박지훈... 우희진, 가십 전하며 지우 조롱]]></title>
+        <id>https://v.daum.net/v/20240108224700246</id>
+        <link href="https://v.daum.net/v/20240108224700246"/>
+        <updated>2024-01-08T14:10:16.845Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내는 니 좋아했다고"…'내남결' 이기광, 박민영에 첫사랑 고백]]></title>
         <id>https://v.daum.net/v/20240108221329051</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240108175650393"/>
         <updated>2024-01-08T09:10:56.600Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱X이준영, 욕망의 질주..디즈니+ '로얄로더' 2월 공개]]></title>
-        <id>https://v.daum.net/v/20240108175606380</id>
-        <link href="https://v.daum.net/v/20240108175606380"/>
-        <updated>2024-01-08T09:10:56.605Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이아수저 오창석, 인성→능력까지 갖춘 인권변호사]]></title>
-        <id>https://v.daum.net/v/20240108175125263</id>
-        <link href="https://v.daum.net/v/20240108175125263"/>
-        <updated>2024-01-08T09:10:56.606Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
