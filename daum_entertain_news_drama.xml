@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-09T20:11:32.134Z</updated>
+    <updated>2024-01-09T21:09:24.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내남결' 박민영 사망 6일 후 나인우도 죽음.."두 번째 기회"]]></title>
+        <id>https://v.daum.net/v/20240110054502181</id>
+        <link href="https://v.daum.net/v/20240110054502181"/>
+        <updated>2024-01-09T21:09:16.275Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 남편과 결혼해줘' 나인우, 10년 회귀한 비밀 있었다…♥박민영 지킬까]]></title>
         <id>https://v.daum.net/v/20240109220939286</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240109191930737"/>
         <updated>2024-01-09T11:09:20.536Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내남결’ 빌런 이이경 ‘결혼해YOU’로 구준회 만날까 “검토중”]]></title>
-        <id>https://v.daum.net/v/20240109185616340</id>
-        <link href="https://v.daum.net/v/20240109185616340"/>
-        <updated>2024-01-09T10:10:54.452Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
