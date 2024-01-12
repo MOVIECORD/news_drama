@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-12T08:14:16.300Z</updated>
+    <updated>2024-01-12T09:10:48.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[덱스, 진짜 배우 전향하나.."'타로' 주인공役 매우 긍정 검토"]]></title>
+        <id>https://v.daum.net/v/20240112180044131</id>
+        <link href="https://v.daum.net/v/20240112180044131"/>
+        <updated>2024-01-12T09:10:39.553Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경성크리처' 수현 "강은경 작가는 한국의 J.K롤링 같다. 놀라운 필력"]]></title>
+        <id>https://v.daum.net/v/20240112174510703</id>
+        <link href="https://v.daum.net/v/20240112174510703"/>
+        <updated>2024-01-12T09:10:39.560Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['밤피꽃' 이하늬, 출산 6개월 만에 와이어·십자인대 파열 버텼다]]></title>
+        <id>https://v.daum.net/v/20240112172815233</id>
+        <link href="https://v.daum.net/v/20240112172815233"/>
+        <updated>2024-01-12T09:10:39.567Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트로트가수 안성훈, 첫 연기 도전..'나의 해피엔드' 스토커 친구 깜짝 출연]]></title>
+        <id>https://v.daum.net/v/20240112172616176</id>
+        <link href="https://v.daum.net/v/20240112172616176"/>
+        <updated>2024-01-12T09:10:39.568Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경성크리처' 수현 "방황했던 정체성에 대한 보상 받는 기분"]]></title>
+        <id>https://v.daum.net/v/20240112171409895</id>
+        <link href="https://v.daum.net/v/20240112171409895"/>
+        <updated>2024-01-12T09:10:39.568Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정웅인→한채아, ‘멱살 한번 잡힙시다’ 베테랑 배우들이 떴다 ‘최강 라인업’]]></title>
         <id>https://v.daum.net/v/20240112170801771</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240112162513728"/>
         <updated>2024-01-12T08:13:14.244Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워킹맘 수현 "3살 딸과 시간 많이 못 보내, ♥남편이 육아 많이 봐줘"]]></title>
-        <id>https://v.daum.net/v/20240112161604461</id>
-        <link href="https://v.daum.net/v/20240112161604461"/>
-        <updated>2024-01-12T08:13:14.245Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가장 한국적인 스릴러"…'선산', 연상호 감독의 새 연니버스 문 연다]]></title>
-        <id>https://v.daum.net/v/20240112161345392</id>
-        <link href="https://v.daum.net/v/20240112161345392"/>
-        <updated>2024-01-12T08:13:14.246Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경성크리처' 수현 "박서준, 마블 촬영 힘들진 않았는지 궁금했죠"]]></title>
-        <id>https://v.daum.net/v/20240112161002279</id>
-        <link href="https://v.daum.net/v/20240112161002279"/>
-        <updated>2024-01-12T08:13:14.248Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["10년 전부터 품은 이야기"…연상호표 미스터리 스릴러 '선산']]></title>
-        <id>https://v.daum.net/v/20240112160216041</id>
-        <link href="https://v.daum.net/v/20240112160216041"/>
-        <updated>2024-01-12T07:09:28.893Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박희순 "김현주와 '트롤리' 후 '선산' 합류…1+1 전략" 웃음]]></title>
-        <id>https://v.daum.net/v/20240112155015652</id>
-        <link href="https://v.daum.net/v/20240112155015652"/>
-        <updated>2024-01-12T07:09:28.894Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
