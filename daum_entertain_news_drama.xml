@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-12T09:10:48.244Z</updated>
+    <updated>2024-01-12T10:12:17.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지훈X홍예지, 둘처럼 보이는 셋 '묘한 삼각 러브라인']]></title>
+        <id>https://v.daum.net/v/20240112183057833</id>
+        <link href="https://v.daum.net/v/20240112183057833"/>
+        <updated>2024-01-12T10:11:10.460Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["15% 목표"…이하늬표 코믹+액션 통할까, '고거전'과 대결]]></title>
+        <id>https://v.daum.net/v/20240112183005816</id>
+        <link href="https://v.daum.net/v/20240112183005816"/>
+        <updated>2024-01-12T10:11:10.460Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스, 진짜 배우 전향하나.."'타로' 주인공役 매우 긍정 검토"]]></title>
         <id>https://v.daum.net/v/20240112180044131</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240112163122887"/>
         <updated>2024-01-12T08:13:14.241Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호, '밤피꽃' 진행 중 실수…이하늬 격려에 "손 들고 서 있겠다" 쩔쩔]]></title>
-        <id>https://v.daum.net/v/20240112162526732</id>
-        <link href="https://v.daum.net/v/20240112162526732"/>
-        <updated>2024-01-12T08:13:14.242Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덱스, UDT 출신 유튜버·방송인→배우 되나 “‘타로’ 긍정검토중”]]></title>
-        <id>https://v.daum.net/v/20240112162513728</id>
-        <link href="https://v.daum.net/v/20240112162513728"/>
-        <updated>2024-01-12T08:13:14.244Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
