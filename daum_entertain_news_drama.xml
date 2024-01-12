@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-12T02:26:23.402Z</updated>
+    <updated>2024-01-12T03:11:37.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모델 출신 김한영, 中 드라마 '책 속의 남자' 시즌2 '신부' 출연]]></title>
+        <id>https://v.daum.net/v/20240112113453560</id>
+        <link href="https://v.daum.net/v/20240112113453560"/>
+        <updated>2024-01-12T03:11:26.864Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미트2’ 안성훈, 장나라 스토킹범 친구‥‘나의 해피엔드’ 특별출연]]></title>
         <id>https://v.daum.net/v/20240112112108020</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240112091204346"/>
         <updated>2024-01-12T00:46:23.938Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오민석, 복수 부르는 악질 배우자 끝판왕]]></title>
-        <id>https://v.daum.net/v/20240112090752223</id>
-        <link href="https://v.daum.net/v/20240112090752223"/>
-        <updated>2024-01-12T00:46:23.939Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
