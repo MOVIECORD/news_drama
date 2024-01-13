@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-13T01:52:25.864Z</updated>
+    <updated>2024-01-13T02:24:01.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동준, 고려 호족에 전쟁 선포.."최수종 거센 반발에 괴로움"]]></title>
+        <id>https://v.daum.net/v/20240113111113873</id>
+        <link href="https://v.daum.net/v/20240113111113873"/>
+        <updated>2024-01-13T02:23:51.578Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이재, 곧 죽습니다' 김지훈 "각인된 악인 이미지, 언젠가 깨버리는 재미 있지 않을까요?"]]></title>
+        <id>https://v.daum.net/v/20240113110101779</id>
+        <link href="https://v.daum.net/v/20240113110101779"/>
+        <updated>2024-01-13T02:23:51.579Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고거전' 김동준, 고려 호족들에게 전쟁 선포..최수종 반발에 따른 선택은?]]></title>
         <id>https://v.daum.net/v/20240113102117384</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240113073227710"/>
         <updated>2024-01-12T23:09:49.747Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["매일이 기념일" 김유정♥송강, '신혼쀼' 행복은 잠시뿐…본색 드러낸 김태훈]]></title>
-        <id>https://v.daum.net/v/20240113072402650</id>
-        <link href="https://v.daum.net/v/20240113072402650"/>
-        <updated>2024-01-12T23:09:49.747Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정, 믿을 건 송강 뿐...김해숙·김태훈 추악한 진실 '충격']]></title>
-        <id>https://v.daum.net/v/20240113070017448</id>
-        <link href="https://v.daum.net/v/20240113070017448"/>
-        <updated>2024-01-12T22:10:10.497Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
