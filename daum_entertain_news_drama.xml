@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-13T15:10:26.922Z</updated>
+    <updated>2024-01-13T16:12:57.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종원, 이하늬에 "반드시 잡을 것, 내 눈에 띄지 말라"]]></title>
+        <id>https://v.daum.net/v/20240114001401392</id>
+        <link href="https://v.daum.net/v/20240114001401392"/>
+        <updated>2024-01-13T16:11:55.692Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반드시 잡을 것" 이하늬, 이종원과 계속된 만남이라니…역모되나]]></title>
         <id>https://v.daum.net/v/20240113234958254</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113223635949"/>
         <updated>2024-01-13T14:09:08.260Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 광기의 황보름별, 독극물 사건 진범이었다 "충격 반전"]]></title>
-        <id>https://v.daum.net/v/20240113223501940</id>
-        <link href="https://v.daum.net/v/20240113223501940"/>
-        <updated>2024-01-13T14:09:08.262Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
