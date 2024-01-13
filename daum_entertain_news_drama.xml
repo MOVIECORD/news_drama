@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-13T02:24:01.556Z</updated>
+    <updated>2024-01-13T03:10:55.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복면 이하늬=여자..이종원의 삶이 흐트러지기 시작했다]]></title>
+        <id>https://v.daum.net/v/20240113120416252</id>
+        <link href="https://v.daum.net/v/20240113120416252"/>
+        <updated>2024-01-13T03:10:45.186Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이영애 독극물 중독' 단서는 B형 여자..내연녀 이시원 진범인가]]></title>
+        <id>https://v.daum.net/v/20240113114134077</id>
+        <link href="https://v.daum.net/v/20240113114134077"/>
+        <updated>2024-01-13T03:10:45.186Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동준, 고려 호족에 전쟁 선포.."최수종 거센 반발에 괴로움"]]></title>
         <id>https://v.daum.net/v/20240113111113873</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240113080219992"/>
         <updated>2024-01-12T23:09:49.746Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정♥︎송강, 행복한 신혼도 잠시→위기..‘빌런’ 김태훈 폭주]]></title>
-        <id>https://v.daum.net/v/20240113074918794</id>
-        <link href="https://v.daum.net/v/20240113074918794"/>
-        <updated>2024-01-12T23:09:49.747Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유정♥송강, 행복 속 찾아온 위기..김태훈 폭주에 '일촉즉발']]></title>
-        <id>https://v.daum.net/v/20240113073227710</id>
-        <link href="https://v.daum.net/v/20240113073227710"/>
-        <updated>2024-01-12T23:09:49.747Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
