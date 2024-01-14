@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-14T02:31:11.337Z</updated>
+    <updated>2024-01-14T03:11:28.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열정男 유선호, 미움받을 용기 낸 '열녀박씨']]></title>
+        <id>https://v.daum.net/v/20240114120137401</id>
+        <link href="https://v.daum.net/v/20240114120137401"/>
+        <updated>2024-01-14T03:11:17.842Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이하늬표 사극 통했다...'밤에 피는 꽃', '연인'·'열녀박씨' 첫방 시청률 경신]]></title>
+        <id>https://v.daum.net/v/20240114114025011</id>
+        <link href="https://v.daum.net/v/20240114114025011"/>
+        <updated>2024-01-14T03:11:17.842Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["절대 내 눈에 띄지 마시오" '밤피꽃' 이종원, 자꾸 마주치는 이하늬 신경 ..숨은 서사는?]]></title>
         <id>https://v.daum.net/v/20240114111717685</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240114091828804"/>
         <updated>2024-01-14T00:51:07.337Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 주현영, 이런 코미디 사랑꾼을 보았나]]></title>
-        <id>https://v.daum.net/v/20240114090236604</id>
-        <link href="https://v.daum.net/v/20240114090236604"/>
-        <updated>2024-01-14T00:51:07.337Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쓰저씨’ 김석훈 또 터졌네→‘쓰남편’ 이이경과 앙숙 케미]]></title>
-        <id>https://v.daum.net/v/20240114084408338</id>
-        <link href="https://v.daum.net/v/20240114084408338"/>
-        <updated>2024-01-14T00:51:07.338Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
