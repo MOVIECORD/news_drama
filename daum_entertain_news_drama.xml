@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-14T07:09:34.433Z</updated>
+    <updated>2024-01-14T08:13:40.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬가 '이하늬'했다]]></title>
+        <id>https://v.daum.net/v/20240114165258416</id>
+        <link href="https://v.daum.net/v/20240114165258416"/>
+        <updated>2024-01-14T08:12:21.817Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애 "심기일전해 새로운 모습으로"…'마에스트라' 종영 소감]]></title>
+        <id>https://v.daum.net/v/20240114163230112</id>
+        <link href="https://v.daum.net/v/20240114163230112"/>
+        <updated>2024-01-14T08:12:21.817Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강은경 작가 “‘경성크리처’는 시대물… 그 시절 버텨낸 ‘사람들’ 이야기”]]></title>
+        <id>https://v.daum.net/v/20240114161331791</id>
+        <link href="https://v.daum.net/v/20240114161331791"/>
+        <updated>2024-01-14T08:12:21.817Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하늬가 피운 흥행의 꽃, '밤에 피는 꽃']]></title>
         <id>https://v.daum.net/v/20240114160304601</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240114140106231"/>
         <updated>2024-01-14T05:09:31.767Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태훈 아내 조연희, 남편 만행 고발 “내가 귀머거린 줄 알아요”]]></title>
-        <id>https://v.daum.net/v/20240114135942193</id>
-        <link href="https://v.daum.net/v/20240114135942193"/>
-        <updated>2024-01-14T05:09:31.768Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 이영애, 바이올리니스트로 무대에..마지막 종영 인사]]></title>
-        <id>https://v.daum.net/v/20240114135759163</id>
-        <link href="https://v.daum.net/v/20240114135759163"/>
-        <updated>2024-01-14T05:09:31.770Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마에스트라' 이영애 "다시 심기일전 할 것"→김영재 "저도 징글징글" 종영소감]]></title>
-        <id>https://v.daum.net/v/20240114135119053</id>
-        <link href="https://v.daum.net/v/20240114135119053"/>
-        <updated>2024-01-14T05:09:31.771Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
