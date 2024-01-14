@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-14T19:08:09.241Z</updated>
+    <updated>2024-01-14T20:10:31.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이재, 곧 죽습니다’, 회귀물로 펼쳐놓은 장르 종합선물세트]]></title>
+        <id>https://v.daum.net/v/20240115050505490</id>
+        <link href="https://v.daum.net/v/20240115050505490"/>
+        <updated>2024-01-14T20:10:23.218Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동준, 분노의 질주 중 낙마 사고…"돕지 않더라도 가로막진 마시오"]]></title>
         <id>https://v.daum.net/v/20240115003939466</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240114222432592"/>
         <updated>2024-01-14T14:08:34.835Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영애, 도주한 황보름별 잡기 위해 스스로 '미끼' 자처]]></title>
-        <id>https://v.daum.net/v/20240114220631460</id>
-        <link href="https://v.daum.net/v/20240114220631460"/>
-        <updated>2024-01-14T13:10:52.404Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
