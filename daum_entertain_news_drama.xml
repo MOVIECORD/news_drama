@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-15T15:11:48.981Z</updated>
+    <updated>2024-01-15T16:12:56.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나인우, 박민영 구출 "늘 걱정돼요..많이 좋아해요" 고백]]></title>
+        <id>https://v.daum.net/v/20240116004352495</id>
+        <link href="https://v.daum.net/v/20240116004352495"/>
+        <updated>2024-01-15T16:12:45.491Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나인우♥박민영, 본격 로맨스 시작?..."내가 많이 좋아해요" 고백]]></title>
+        <id>https://v.daum.net/v/20240116001735379</id>
+        <link href="https://v.daum.net/v/20240116001735379"/>
+        <updated>2024-01-15T16:12:45.492Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내남결' 박민영, 나인우X최규리 연인 오해 풀고 고백 받았다]]></title>
         <id>https://v.daum.net/v/20240116000852306</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240115201004855"/>
         <updated>2024-01-15T12:19:02.453Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["죄만 안 지으면 되죠" 한소희의 소신, 이렇게 솔직할 수가]]></title>
-        <id>https://v.daum.net/v/20240115200123746</id>
-        <link href="https://v.daum.net/v/20240115200123746"/>
-        <updated>2024-01-15T11:09:09.878Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아인 하차 문제 없다…연상호 감독 "'지옥2' 기대 커, 김성철 대단한 배우"]]></title>
-        <id>https://v.daum.net/v/20240115200114743</id>
-        <link href="https://v.daum.net/v/20240115200114743"/>
-        <updated>2024-01-15T11:09:09.878Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
