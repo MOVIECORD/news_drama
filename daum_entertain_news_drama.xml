@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-15T22:09:46.067Z</updated>
+    <updated>2024-01-15T23:10:36.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환상연가' 박지훈, 두 번째 인격 가뒀지만 父김태우 사망..홍예지 원망]]></title>
+        <id>https://v.daum.net/v/20240116080703344</id>
+        <link href="https://v.daum.net/v/20240116080703344"/>
+        <updated>2024-01-15T23:10:25.825Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이무생 "산소같은 여자=이영애, 그릇이 크신 분"]]></title>
+        <id>https://v.daum.net/v/20240116073601705</id>
+        <link href="https://v.daum.net/v/20240116073601705"/>
+        <updated>2024-01-15T23:10:25.826Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나인우, 박민영에 "많이 ♥해"…이이경 데폭 저지→최규리 오해 해소→고백→졸도]]></title>
         <id>https://v.daum.net/v/20240116070707340</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240115233945783"/>
         <updated>2024-01-15T15:10:46.893Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 남편과 결혼해줘' 박민영, 만취해 나인우와 첫 만남 잊었다]]></title>
-        <id>https://v.daum.net/v/20240115231706547</id>
-        <link href="https://v.daum.net/v/20240115231706547"/>
-        <updated>2024-01-15T15:10:46.893Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영 "난 비호감이라 친구도 없어요..내가 찌질한 것" 나인우 걱정]]></title>
-        <id>https://v.daum.net/v/20240115231358511</id>
-        <link href="https://v.daum.net/v/20240115231358511"/>
-        <updated>2024-01-15T15:10:46.896Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
