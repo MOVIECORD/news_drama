@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-16T11:08:57.913Z</updated>
+    <updated>2024-01-16T12:19:25.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우아한 제국' 이상보 잃은 손성윤, 이시강에 총 겨눴다]]></title>
+        <id>https://v.daum.net/v/20240116202931219</id>
+        <link href="https://v.daum.net/v/20240116202931219"/>
+        <updated>2024-01-16T12:19:15.777Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 반효정, 불륜에 거짓말까지..오세영 '분노']]></title>
+        <id>https://v.daum.net/v/20240116201047839</id>
+        <link href="https://v.daum.net/v/20240116201047839"/>
+        <updated>2024-01-16T12:19:15.778Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세번째 결혼' 반효정, 오세영 쫓아냈다 "문지후와 불륜관계 인정 못해"]]></title>
         <id>https://v.daum.net/v/20240116194330350</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240116172423267"/>
         <updated>2024-01-16T09:10:30.523Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지창욱, 그는 역시 '로맨스 장인'이었어요]]></title>
-        <id>https://v.daum.net/v/20240116170623612</id>
-        <link href="https://v.daum.net/v/20240116170623612"/>
-        <updated>2024-01-16T08:13:41.447Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경성크리처' 박서준의 책임감 "값진 마음으로 끝낸 게 성공이죠"]]></title>
-        <id>https://v.daum.net/v/20240116165300998</id>
-        <link href="https://v.daum.net/v/20240116165300998"/>
-        <updated>2024-01-16T08:13:41.448Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
