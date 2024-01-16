@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-16T17:10:47.731Z</updated>
+    <updated>2024-01-16T18:13:00.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이경♥송하윤, 메인을 누른 빌런커플의 습격이 시작됐다...‘내남결’]]></title>
+        <id>https://v.daum.net/v/20240117025101966</id>
+        <link href="https://v.daum.net/v/20240117025101966"/>
+        <updated>2024-01-16T18:12:51.955Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱스, 본격 배우 진출..조여정·박하선과 '타로' 출연 확정]]></title>
         <id>https://v.daum.net/v/20240116224843847</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240116192905190"/>
         <updated>2024-01-16T11:08:48.593Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결' 박민영, '고거전'도 제쳤다...드라마 화제성 1위]]></title>
-        <id>https://v.daum.net/v/20240116183425325</id>
-        <link href="https://v.daum.net/v/20240116183425325"/>
-        <updated>2024-01-16T10:10:58.698Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
