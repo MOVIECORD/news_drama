@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-16T09:10:40.191Z</updated>
+    <updated>2024-01-16T10:11:09.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내남결' 박민영, '고거전'도 제쳤다...드라마 화제성 1위]]></title>
+        <id>https://v.daum.net/v/20240116183425325</id>
+        <link href="https://v.daum.net/v/20240116183425325"/>
+        <updated>2024-01-16T10:10:58.698Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결별' 정우성·신현빈, 1년만 공항서 재회..재결합 해피엔딩될까]]></title>
+        <id>https://v.daum.net/v/20240116182418053</id>
+        <link href="https://v.daum.net/v/20240116182418053"/>
+        <updated>2024-01-16T10:10:58.706Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차수연 '원더풀월드' 출연, 김남주·차은우와 호흡..MBC 금토극 확정]]></title>
         <id>https://v.daum.net/v/20240116180550543</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240116161821514"/>
         <updated>2024-01-16T08:13:41.448Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피도 눈물도 없이’ 작가 “사고뭉치 언니 때문에 평생 고생한 친구 있어”]]></title>
-        <id>https://v.daum.net/v/20240116155102181</id>
-        <link href="https://v.daum.net/v/20240116155102181"/>
-        <updated>2024-01-16T07:10:14.039Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막장을 닮았지만 박민영의 회귀물 설정으로 흥미진진해진 '내남결']]></title>
-        <id>https://v.daum.net/v/20240116153942711</id>
-        <link href="https://v.daum.net/v/20240116153942711"/>
-        <updated>2024-01-16T07:10:14.042Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
