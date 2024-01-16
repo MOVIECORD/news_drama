@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-16T03:11:12.669Z</updated>
+    <updated>2024-01-16T04:13:45.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["주먹·총·칼 모두 사용"…'액션 대가' 마동석·허명행 감독 뭉친 '황야']]></title>
+        <id>https://v.daum.net/v/20240116131124548</id>
+        <link href="https://v.daum.net/v/20240116131124548"/>
+        <updated>2024-01-16T04:12:43.959Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘LTNS’ 안재홍, 이솜과 부부 호흡 “마음 잘 통해, 말이 필요 없을 정도”]]></title>
+        <id>https://v.daum.net/v/20240116125331227</id>
+        <link href="https://v.daum.net/v/20240116125331227"/>
+        <updated>2024-01-16T04:12:43.960Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수진 ‘나의 해피엔드’ 합류, 장나라 믿고 의지하는 형사 된다]]></title>
+        <id>https://v.daum.net/v/20240116123304925</id>
+        <link href="https://v.daum.net/v/20240116123304925"/>
+        <updated>2024-01-16T04:12:43.961Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하늬 꽃이 활짝 피었습니다..배우 브랜드평판 1위]]></title>
         <id>https://v.daum.net/v/20240116120745386</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240116102448134"/>
         <updated>2024-01-16T01:53:57.955Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사랑한다고 말해줘’ 결국 헤어진 정우성X신현빈, 가슴 시린 이별]]></title>
-        <id>https://v.daum.net/v/20240116101714844</id>
-        <link href="https://v.daum.net/v/20240116101714844"/>
-        <updated>2024-01-16T01:53:57.957Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤피꽃' 감독 자신한 이하늬X이종원 액션, 디테일 살아있네]]></title>
-        <id>https://v.daum.net/v/20240116095114700</id>
-        <link href="https://v.daum.net/v/20240116095114700"/>
-        <updated>2024-01-16T01:53:57.959Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 헤어져요" 정우성X신현빈, 종영 앞두고 결국 이별]]></title>
-        <id>https://v.daum.net/v/20240116094240326</id>
-        <link href="https://v.daum.net/v/20240116094240326"/>
-        <updated>2024-01-16T00:45:40.624Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
