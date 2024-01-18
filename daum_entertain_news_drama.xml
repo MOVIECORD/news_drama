@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-18T09:11:45.651Z</updated>
+    <updated>2024-01-18T10:12:11.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모래꽃' 윤종석, '에이스 형사'란 이런 것]]></title>
+        <id>https://v.daum.net/v/20240118185356571</id>
+        <link href="https://v.daum.net/v/20240118185356571"/>
+        <updated>2024-01-18T10:12:01.227Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱어게인3' 안신애, 코치·프로듀서 활약…"소수빈 무대에 눈물"]]></title>
         <id>https://v.daum.net/v/20240118173624357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118143232725"/>
         <updated>2024-01-18T06:14:29.743Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 유인수, ‘야한 사진관’ 출연..주원x권나라와 호흡]]></title>
-        <id>https://v.daum.net/v/20240118141023910</id>
-        <link href="https://v.daum.net/v/20240118141023910"/>
-        <updated>2024-01-18T06:14:29.745Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
