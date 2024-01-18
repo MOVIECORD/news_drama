@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-18T03:11:07.168Z</updated>
+    <updated>2024-01-18T04:13:06.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웰컴투 삼달리', 청정 무해 인생드 회자되는 이유…종영까지 단 2회]]></title>
+        <id>https://v.daum.net/v/20240118125857088</id>
+        <link href="https://v.daum.net/v/20240118125857088"/>
+        <updated>2024-01-18T04:12:55.949Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이재, 곧’ 서인국 母 김미경, 국민엄마 수식어 안 아까울 열연]]></title>
+        <id>https://v.daum.net/v/20240118121656448</id>
+        <link href="https://v.daum.net/v/20240118121656448"/>
+        <updated>2024-01-18T04:12:55.952Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘멱살 한번’ 제작진 “김하늘, 첫 촬영부터 ‘프로 멱살러’ 기자 그 자체”]]></title>
         <id>https://v.daum.net/v/20240118115132604</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240118105441943"/>
         <updated>2024-01-18T02:25:23.304Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘끝내주는 해결사’ 감독·작가 "이지아X강기영 싱크로율 100%, 만족도 최상"]]></title>
-        <id>https://v.daum.net/v/20240118104947678</id>
-        <link href="https://v.daum.net/v/20240118104947678"/>
-        <updated>2024-01-18T01:53:19.718Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마이 데몬’ 김유정♥송강, 미공개 컷까지 로맨스 도파민 폭발]]></title>
-        <id>https://v.daum.net/v/20240118104724557</id>
-        <link href="https://v.daum.net/v/20240118104724557"/>
-        <updated>2024-01-18T01:53:19.720Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
