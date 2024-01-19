@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-19T05:11:52.463Z</updated>
+    <updated>2024-01-19T06:14:02.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설현, 강풀 유니버스 합류…주지훈 박보영 배성우와 ‘조명가게’ 캐스팅]]></title>
+        <id>https://v.daum.net/v/20240119150611316</id>
+        <link href="https://v.daum.net/v/20240119150611316"/>
+        <updated>2024-01-19T06:13:51.644Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데드맨', 조진웅·김희애·이수경으로 범죄극 새 판 짠다]]></title>
+        <id>https://v.daum.net/v/20240119144900738</id>
+        <link href="https://v.daum.net/v/20240119144900738"/>
+        <updated>2024-01-19T06:13:51.647Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경성크리처' 최영준 "시대 배경과 악역, 영향 無…욕먹는 건 다음 일"]]></title>
+        <id>https://v.daum.net/v/20240119143002036</id>
+        <link href="https://v.daum.net/v/20240119143002036"/>
+        <updated>2024-01-19T06:13:51.649Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경성크리처' 최영준 "외국어 연기 다신 안한다 해놓고 또..미쳤구나"]]></title>
         <id>https://v.daum.net/v/20240119140911388</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240119123546320"/>
         <updated>2024-01-19T04:12:45.639Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경성크리처' 최영준 "8일 굶어 15kg 감량..57kg으로 10개월 살았다"]]></title>
-        <id>https://v.daum.net/v/20240119123434309</id>
-        <link href="https://v.daum.net/v/20240119123434309"/>
-        <updated>2024-01-19T04:12:45.640Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경성크리처’ 최영준 “한소희=열심 몸에 밴 사람, 수현은 미국사람 같아”]]></title>
-        <id>https://v.daum.net/v/20240119123323297</id>
-        <link href="https://v.daum.net/v/20240119123323297"/>
-        <updated>2024-01-19T04:12:45.642Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경성크리처’ 최영준 “57㎏까지 15㎏ 이상 감량, 8일간 안 먹어”]]></title>
-        <id>https://v.daum.net/v/20240119123306294</id>
-        <link href="https://v.daum.net/v/20240119123306294"/>
-        <updated>2024-01-19T04:12:45.643Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
