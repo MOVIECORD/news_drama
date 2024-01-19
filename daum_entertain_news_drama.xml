@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-19T02:26:58.790Z</updated>
+    <updated>2024-01-19T03:11:35.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남장여자 된 신세경 만나는 날 D-2]]></title>
+        <id>https://v.daum.net/v/20240119113202457</id>
+        <link href="https://v.daum.net/v/20240119113202457"/>
+        <updated>2024-01-19T03:11:27.304Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이세영, MBC의 딸"…'열녀박씨' PD의 확신]]></title>
+        <id>https://v.daum.net/v/20240119112954362</id>
+        <link href="https://v.daum.net/v/20240119112954362"/>
+        <updated>2024-01-19T03:11:27.304Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웰컴투 삼달리' 지창욱♥신혜선, 요즘 보기 어려운 유니콘 커플]]></title>
         <id>https://v.daum.net/v/20240119112601212</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240119092723440"/>
         <updated>2024-01-19T00:46:02.981Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희원X강풀 '조명가게' 공개 확정…주지훈·박보영→김설현, 호화 캐스팅]]></title>
-        <id>https://v.daum.net/v/20240119091328992</id>
-        <link href="https://v.daum.net/v/20240119091328992"/>
-        <updated>2024-01-19T00:46:02.981Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 감독 "MBC의 딸 이세영, 또 같이 하고파...'이혼뎐' 어떠냐고"]]></title>
-        <id>https://v.daum.net/v/20240119091020880</id>
-        <link href="https://v.daum.net/v/20240119091020880"/>
-        <updated>2024-01-19T00:46:02.982Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
