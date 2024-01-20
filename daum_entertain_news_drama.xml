@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-20T02:24:32.181Z</updated>
+    <updated>2024-01-20T03:10:59.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬, 시청률도 잡고 관객도 홀렸다…1월 영화배우 브랜드 평판 '1위']]></title>
+        <id>https://v.daum.net/v/20240120115302952</id>
+        <link href="https://v.daum.net/v/20240120115302952"/>
+        <updated>2024-01-20T03:10:48.867Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고거전' 현종 낙마 후 혼수상태..이시아, 하승리 추궁→조승연 탄핵 폭주]]></title>
         <id>https://v.daum.net/v/20240120112103724</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240120092318467"/>
         <updated>2024-01-20T00:45:01.118Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마이 데몬' 송강, 총 맞은 김유정 살리고 소멸… 이대로 끝나나]]></title>
-        <id>https://v.daum.net/v/20240120091539421</id>
-        <link href="https://v.daum.net/v/20240120091539421"/>
-        <updated>2024-01-20T00:45:01.119Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
