@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-20T15:09:15.357Z</updated>
+    <updated>2024-01-20T16:12:56.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼달리' 한은성, 조윤서와 바람핀 것 후회 "내가 신혜선을 두고 너와.."]]></title>
+        <id>https://v.daum.net/v/20240121000907166</id>
+        <link href="https://v.daum.net/v/20240121000907166"/>
+        <updated>2024-01-20T16:11:53.951Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조윤서-신혜선 "갑질 가짜 뉴스 퍼뜨렸다...", '전시회 취소']]></title>
         <id>https://v.daum.net/v/20240120232902787</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240120225202456"/>
         <updated>2024-01-20T14:08:46.829Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬, 이종원에 '아이 인신매매범' 조재윤 고발]]></title>
-        <id>https://v.daum.net/v/20240120224511409</id>
-        <link href="https://v.daum.net/v/20240120224511409"/>
-        <updated>2024-01-20T14:08:46.830Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
