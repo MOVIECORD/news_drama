@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-21T09:09:42.478Z</updated>
+    <updated>2024-01-21T10:10:33.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노도경이 제일 안타까워"..'마이데몬' 강승호 "따뜻한 기운 전해졌길"]]></title>
+        <id>https://v.daum.net/v/20240121185212974</id>
+        <link href="https://v.daum.net/v/20240121185212974"/>
+        <updated>2024-01-21T10:10:23.372Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘웰컴투 삼달리’ 양경원 “덕분에 행복했다..부디 신동미와 잘 살길” 종영 소감]]></title>
+        <id>https://v.daum.net/v/20240121184026842</id>
+        <link href="https://v.daum.net/v/20240121184026842"/>
+        <updated>2024-01-21T10:10:23.374Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희, '하이바이마마' 권혜주 작가와 의리 지켰다..'삼달리' 특별출연 1회'떡밥' 회수]]></title>
         <id>https://v.daum.net/v/20240121174656940</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240121143008510"/>
         <updated>2024-01-21T06:13:05.546Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희, '웰컴투 삼달리' 오늘 특별출연…최종회서 떡밥 회수]]></title>
-        <id>https://v.daum.net/v/20240121142512422</id>
-        <link href="https://v.daum.net/v/20240121142512422"/>
-        <updated>2024-01-21T06:13:05.546Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동준♥하승리, 드디어 합방한다…손잡고 간청까지]]></title>
-        <id>https://v.daum.net/v/20240121142332395</id>
-        <link href="https://v.daum.net/v/20240121142332395"/>
-        <updated>2024-01-21T06:13:05.549Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
