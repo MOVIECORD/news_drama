@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-21T02:32:53.554Z</updated>
+    <updated>2024-01-21T03:11:01.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마이 데몬' 김유정 "도희♥︎구원처럼 많이 성장하고 발전했다"..종영 소감]]></title>
+        <id>https://v.daum.net/v/20240121120023183</id>
+        <link href="https://v.daum.net/v/20240121120023183"/>
+        <updated>2024-01-21T03:10:51.521Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이윤지 “‘마이데몬’ 빌런 수안이로 임하는 동안 늘 신났다” 종영 소감]]></title>
         <id>https://v.daum.net/v/20240121112106598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240121092429743"/>
         <updated>2024-01-21T00:51:13.687Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["서로에게 구원자"..송강♥김유정, 부활 후 결혼 완벽한 해피엔딩 정석]]></title>
-        <id>https://v.daum.net/v/20240121091024593</id>
-        <link href="https://v.daum.net/v/20240121091024593"/>
-        <updated>2024-01-21T00:51:13.688Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
