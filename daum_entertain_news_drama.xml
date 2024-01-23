@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-23T21:09:26.504Z</updated>
+    <updated>2024-01-23T22:09:55.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 나가던 ‘고려거란전쟁’…원작자-제작진 갈등 파장]]></title>
+        <id>https://v.daum.net/v/20240124063014561</id>
+        <link href="https://v.daum.net/v/20240124063014561"/>
+        <updated>2024-01-23T22:09:47.550Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘선산’ 박희순 “‘생활형 형사’ 캐릭터…복합적 감정에 집중”]]></title>
+        <id>https://v.daum.net/v/20240124063013560</id>
+        <link href="https://v.daum.net/v/20240124063013560"/>
+        <updated>2024-01-23T22:09:47.552Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내남결' 박민영, 송하윤과 운명 바꾸기 시작…♥이이경 청혼 결과는?]]></title>
+        <id>https://v.daum.net/v/20240124062003490</id>
+        <link href="https://v.daum.net/v/20240124062003490"/>
+        <updated>2024-01-23T22:09:47.552Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커플팰리스' 싱글남녀 100인 얼굴 공개…비주얼+스펙까지 화려한 '초대형 연프']]></title>
         <id>https://v.daum.net/v/20240124060602356</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240123211357524"/>
         <updated>2024-01-23T12:18:29.728Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결' 박민영, 송하윤 머리채 잡고 절교 선언 "싫어졌다"]]></title>
-        <id>https://v.daum.net/v/20240123210510373</id>
-        <link href="https://v.daum.net/v/20240123210510373"/>
-        <updated>2024-01-23T12:18:29.729Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하연주, 이소연 마주쳤다…어린 시절 목걸이에 '경악']]></title>
-        <id>https://v.daum.net/v/20240123205043116</id>
-        <link href="https://v.daum.net/v/20240123205043116"/>
-        <updated>2024-01-23T12:18:29.730Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도눈물도없이' 하연주, 친언니 이소연 '며느리' 삼을 생각에 싱글벙글 "충격재회"]]></title>
-        <id>https://v.daum.net/v/20240123203030834</id>
-        <link href="https://v.daum.net/v/20240123203030834"/>
-        <updated>2024-01-23T12:18:29.733Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
