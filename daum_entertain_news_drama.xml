@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-23T09:10:46.235Z</updated>
+    <updated>2024-01-23T10:11:16.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공유, 박희순 질투했다…"박병은보다 승부욕 많아, 난 넣자마자 잡았는데"]]></title>
+        <id>https://v.daum.net/v/20240123190101429</id>
+        <link href="https://v.daum.net/v/20240123190101429"/>
+        <updated>2024-01-23T10:11:06.662Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고거전’ 원작자, 역사 왜곡 논란 작가·PD 반박 글에 “웃기지도 않아”]]></title>
+        <id>https://v.daum.net/v/20240123183003772</id>
+        <link href="https://v.daum.net/v/20240123183003772"/>
+        <updated>2024-01-23T10:11:06.662Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁' 작가, 원작자 비판에 반박 "재설계한 별개의 작품"]]></title>
+        <id>https://v.daum.net/v/20240123182935746</id>
+        <link href="https://v.daum.net/v/20240123182935746"/>
+        <updated>2024-01-23T10:11:06.665Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["끝내주는 액션"..'킬러들의 쇼핑몰', IMDb 평점 8.6 해외서 호평]]></title>
+        <id>https://v.daum.net/v/20240123182811700</id>
+        <link href="https://v.daum.net/v/20240123182811700"/>
+        <updated>2024-01-23T10:11:06.665Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박슬기 "첫째 딸, 혹시 애정 결핍일까요?" 오은영에 고민상담]]></title>
+        <id>https://v.daum.net/v/20240123181820372</id>
+        <link href="https://v.daum.net/v/20240123181820372"/>
+        <updated>2024-01-23T10:11:06.665Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고려거란전쟁' 원작 작가, 방향성 비판.."조선구마사 사태 가능성"]]></title>
         <id>https://v.daum.net/v/20240123180706040</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240123165301347"/>
         <updated>2024-01-23T08:14:28.002Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현 "탕후루 헤어 위해 스프레이 반 통 써…두피 포기"]]></title>
-        <id>https://v.daum.net/v/20240123164958222</id>
-        <link href="https://v.daum.net/v/20240123164958222"/>
-        <updated>2024-01-23T08:14:28.002Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고거전' 원작자, 또 폭로 "천추태후, 빌런 될 뻔…'조선구마사' 가능성 경고"]]></title>
-        <id>https://v.daum.net/v/20240123163601648</id>
-        <link href="https://v.daum.net/v/20240123163601648"/>
-        <updated>2024-01-23T08:14:28.003Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영에 사사건건 시비…김중희 얄미운 꼰대, 시청자 혈압 상승]]></title>
-        <id>https://v.daum.net/v/20240123163141473</id>
-        <link href="https://v.daum.net/v/20240123163141473"/>
-        <updated>2024-01-23T08:14:28.004Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아·강기영, 이혼 도장 대신 찍어주러 출동 '끝내주는 해결사']]></title>
-        <id>https://v.daum.net/v/20240123162530190</id>
-        <link href="https://v.daum.net/v/20240123162530190"/>
-        <updated>2024-01-23T08:14:28.005Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려거란전쟁’ 작가·PD, 역사왜곡 논란에 입열었다 “도넘은 비난”]]></title>
-        <id>https://v.daum.net/v/20240123162515182</id>
-        <link href="https://v.daum.net/v/20240123162515182"/>
-        <updated>2024-01-23T08:14:28.006Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
