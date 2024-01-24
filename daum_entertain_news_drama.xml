@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-24T10:12:03.924Z</updated>
+    <updated>2024-01-24T11:09:20.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아, 절벽서 추락... 오세영 "왜 내 손에 피 묻히게 해"]]></title>
+        <id>https://v.daum.net/v/20240124195031657</id>
+        <link href="https://v.daum.net/v/20240124195031657"/>
+        <updated>2024-01-24T11:09:10.269Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킬러들의 쇼핑몰' 삼촌 이동욱X조카 김혜준, 서스펜스 매콤한 이 조합]]></title>
         <id>https://v.daum.net/v/20240124184036349</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240124164210885"/>
         <updated>2024-01-24T08:13:24.085Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혁, '고거전' 갈등에 "배우들도 마음 무거워…드라마로 봐주시길"]]></title>
-        <id>https://v.daum.net/v/20240124163006199</id>
-        <link href="https://v.daum.net/v/20240124163006199"/>
-        <updated>2024-01-24T08:13:24.089Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
