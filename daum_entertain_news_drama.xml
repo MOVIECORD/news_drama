@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-25T21:08:54.849Z</updated>
+    <updated>2024-01-25T22:07:43.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저희 또 만났어요…박신혜·박형식→수지·김우빈, 작품서 재회한 ★들]]></title>
+        <id>https://v.daum.net/v/20240126065100060</id>
+        <link href="https://v.daum.net/v/20240126065100060"/>
+        <updated>2024-01-25T22:07:32.824Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김미경 “‘국민엄마’? 쑥스러워…내 딸은 ‘개그맨 엄마’래요”]]></title>
+        <id>https://v.daum.net/v/20240126063017818</id>
+        <link href="https://v.daum.net/v/20240126063017818"/>
+        <updated>2024-01-25T22:07:32.825Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저조한 시청률 때문?…‘남과여’ 화->금 편성 변경, 무슨 일?]]></title>
         <id>https://v.daum.net/v/20240126053907240</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240125175812614"/>
         <updated>2024-01-25T09:10:23.045Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임재혁, 정장 차림으로 윤예주 찾아간 이유는]]></title>
-        <id>https://v.daum.net/v/20240125175153413</id>
-        <link href="https://v.daum.net/v/20240125175153413"/>
-        <updated>2024-01-25T09:10:23.045Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜X박형식, 로코 장인의 호흡 "이 정도로 친했나?"]]></title>
-        <id>https://v.daum.net/v/20240125175006359</id>
-        <link href="https://v.daum.net/v/20240125175006359"/>
-        <updated>2024-01-25T09:10:23.045Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
