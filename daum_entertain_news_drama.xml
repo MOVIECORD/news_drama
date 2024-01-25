@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-25T20:10:44.168Z</updated>
+    <updated>2024-01-25T21:08:54.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저조한 시청률 때문?…‘남과여’ 화->금 편성 변경, 무슨 일?]]></title>
+        <id>https://v.daum.net/v/20240126053907240</id>
+        <link href="https://v.daum.net/v/20240126053907240"/>
+        <updated>2024-01-25T21:08:44.749Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“톱스타 회당 10억원, 드라마 제작 산업 악순환”]]></title>
         <id>https://v.daum.net/v/20240126003014678</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240125175006359"/>
         <updated>2024-01-25T09:10:23.045Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려거란전쟁' 측 "혼란에 무거운 책임감..원작은 참고 자료 중 하나"]]></title>
-        <id>https://v.daum.net/v/20240125173903971</id>
-        <link href="https://v.daum.net/v/20240125173903971"/>
-        <updated>2024-01-25T09:10:23.046Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
