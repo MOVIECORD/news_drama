@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-26T20:10:23.537Z</updated>
+    <updated>2024-01-26T21:09:28.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그런 재벌 아냐"..안보현, 팬층 두터운 재벌3세→경찰 특채까지]]></title>
+        <id>https://v.daum.net/v/20240127055010667</id>
+        <link href="https://v.daum.net/v/20240127055010667"/>
+        <updated>2024-01-26T21:09:18.206Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌X형사' 안보현, 일가족 살인범 잡고 하루아침에 경찰 됐다…박지현과 '공조' 시작]]></title>
         <id>https://v.daum.net/v/20240127012700985</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240126224047033"/>
         <updated>2024-01-26T14:09:30.212Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 박지현, 안보현 현행범 체포...'강렬 첫만남']]></title>
-        <id>https://v.daum.net/v/20240126223512014</id>
-        <link href="https://v.daum.net/v/20240126223512014"/>
-        <updated>2024-01-26T14:09:30.213Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
