@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-27T21:08:50.721Z</updated>
+    <updated>2024-01-27T22:09:58.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['밤에 피는 꽃' 이하늬, 김상중VS허정도 꽃잎 둘러싼 비밀 파헤칠까…갈등 예고!]]></title>
+        <id>https://v.daum.net/v/20240128070026501</id>
+        <link href="https://v.daum.net/v/20240128070026501"/>
+        <updated>2024-01-27T22:09:49.691Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박신혜X박형식 “인생 최악의 슬럼프”..14년 만의 재회]]></title>
+        <id>https://v.daum.net/v/20240128065519446</id>
+        <link href="https://v.daum.net/v/20240128065519446"/>
+        <updated>2024-01-27T22:09:49.691Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘고려거란전쟁’ 이시아, 김동준·황실 지키려 계략 “조승연, 거란으로 보내야”]]></title>
+        <id>https://v.daum.net/v/20240128064017369</id>
+        <link href="https://v.daum.net/v/20240128064017369"/>
+        <updated>2024-01-27T22:09:49.692Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신세경 구하려던 조정석 배신하나 “임금에게 친구 없어”]]></title>
+        <id>https://v.daum.net/v/20240128061028110</id>
+        <link href="https://v.daum.net/v/20240128061028110"/>
+        <updated>2024-01-27T22:09:49.693Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조성하, 조정석 역모 모함 임금 최대훈 이성 잃었다]]></title>
+        <id>https://v.daum.net/v/20240128060933098</id>
+        <link href="https://v.daum.net/v/20240128060933098"/>
+        <updated>2024-01-27T22:09:49.693Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손현주, 조정석 지키고 청 압송 죄인 됐다 ‘딸 신세경 눈물’]]></title>
         <id>https://v.daum.net/v/20240128060624072</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240128001623365"/>
         <updated>2024-01-27T16:11:14.962Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식, 의료사고로 '추락'→'번아웃' 박신혜와 벼랑 끝 재회]]></title>
-        <id>https://v.daum.net/v/20240127235247225</id>
-        <link href="https://v.daum.net/v/20240127235247225"/>
-        <updated>2024-01-27T15:08:37.747Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터슬럼프' 박신혜VS박형식, 불꽃 튀는 첫 만남 "전쟁의 서막"]]></title>
-        <id>https://v.daum.net/v/20240127235231223</id>
-        <link href="https://v.daum.net/v/20240127235231223"/>
-        <updated>2024-01-27T15:08:37.748Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터슬럼프' 박형식, 의료 사고로 100억 빚 생겼다..박신혜 재회]]></title>
-        <id>https://v.daum.net/v/20240127235107218</id>
-        <link href="https://v.daum.net/v/20240127235107218"/>
-        <updated>2024-01-27T15:08:37.748Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤피꽃' 김상중, 과거 이하늬 오빠 사살 시도 "흔적 없이 처리"]]></title>
-        <id>https://v.daum.net/v/20240127235100214</id>
-        <link href="https://v.daum.net/v/20240127235100214"/>
-        <updated>2024-01-27T15:08:37.748Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '닥터슬럼프' 쇼닥터 박형식, 의료사고로 추락→빚더미... 첫사랑 박신혜와 재회]]></title>
-        <id>https://v.daum.net/v/20240127234800199</id>
-        <link href="https://v.daum.net/v/20240127234800199"/>
-        <updated>2024-01-27T15:08:37.750Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
