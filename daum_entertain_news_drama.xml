@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-27T10:11:03.938Z</updated>
+    <updated>2024-01-27T11:07:24.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세작' 조정석, 장엄한 임금 즉위식 공개]]></title>
+        <id>https://v.daum.net/v/20240127200039752</id>
+        <link href="https://v.daum.net/v/20240127200039752"/>
+        <updated>2024-01-27T11:07:14.598Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고거전' 역사 왜곡 논란은 사과, 작가 교체설은 부인..1주 결방 이유]]></title>
         <id>https://v.daum.net/v/20240127182026710</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240127151227313</id>
         <link href="https://v.daum.net/v/20240127151227313"/>
         <updated>2024-01-27T07:09:31.905Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준, 긴급 체포 후 취조실 포착..이휘향 함정에도 '여유']]></title>
-        <id>https://v.daum.net/v/20240127150501274</id>
-        <link href="https://v.daum.net/v/20240127150501274"/>
-        <updated>2024-01-27T06:11:36.848Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
