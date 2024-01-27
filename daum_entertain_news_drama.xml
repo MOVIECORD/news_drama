@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-27T06:11:46.586Z</updated>
+    <updated>2024-01-27T07:09:41.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현, 못말리는 FLEX 수사 시작 "박지현과 공조"]]></title>
+        <id>https://v.daum.net/v/20240127153807561</id>
+        <link href="https://v.daum.net/v/20240127153807561"/>
+        <updated>2024-01-27T07:09:31.900Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁', 역사 왜곡 논란에 1주간 결방 "상황 인지"]]></title>
+        <id>https://v.daum.net/v/20240127153803560</id>
+        <link href="https://v.daum.net/v/20240127153803560"/>
+        <updated>2024-01-27T07:09:31.904Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안보현, 재벌답게 개인 요트 타고 살인사건 현장 도착]]></title>
+        <id>https://v.daum.net/v/20240127151227313</id>
+        <link href="https://v.daum.net/v/20240127151227313"/>
+        <updated>2024-01-27T07:09:31.905Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하준, 긴급 체포 후 취조실 포착..이휘향 함정에도 '여유']]></title>
         <id>https://v.daum.net/v/20240127150501274</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240127130828164"/>
         <updated>2024-01-27T04:11:00.329Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정우성이라면.." 신현빈, 손끝으로 전한 사랑]]></title>
-        <id>https://v.daum.net/v/20240127130002107</id>
-        <link href="https://v.daum.net/v/20240127130002107"/>
-        <updated>2024-01-27T04:11:00.329Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜 경단 끝→박형식 로코 오랜만, ‘닥터슬럼프’ 오늘 첫방]]></title>
-        <id>https://v.daum.net/v/20240127121817904</id>
-        <link href="https://v.daum.net/v/20240127121817904"/>
-        <updated>2024-01-27T04:11:00.329Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼달리' 강영석, 이렇게나 성실한 MBTI 'P']]></title>
-        <id>https://v.daum.net/v/20240127120214816</id>
-        <link href="https://v.daum.net/v/20240127120214816"/>
-        <updated>2024-01-27T03:10:12.836Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
