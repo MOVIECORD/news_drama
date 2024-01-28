@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-28T01:48:01.946Z</updated>
+    <updated>2024-01-28T02:18:20.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신세경, 능동적 여주의 표본]]></title>
+        <id>https://v.daum.net/v/20240128111028612</id>
+        <link href="https://v.daum.net/v/20240128111028612"/>
+        <updated>2024-01-28T02:18:10.667Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['닥터슬럼프', 각 잡은 박신혜X박형식 로코 귀환…4.8% 순조로운 출발]]></title>
+        <id>https://v.daum.net/v/20240128110835577</id>
+        <link href="https://v.daum.net/v/20240128110835577"/>
+        <updated>2024-01-28T02:18:10.668Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장나라, 손호준 살해 혐의…긴급 체포 엔딩에 '충격']]></title>
+        <id>https://v.daum.net/v/20240128110332492</id>
+        <link href="https://v.daum.net/v/20240128110332492"/>
+        <updated>2024-01-28T02:18:10.668Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 누군지 아니? 이하늬다!..안보현·박신혜 공세에도 '기세등등']]></title>
         <id>https://v.daum.net/v/20240128103536965</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240128093050938"/>
         <updated>2024-01-28T00:45:24.436Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려 거란 전쟁', 역사 왜곡 논란에도 10.9%…고도의 심리전]]></title>
-        <id>https://v.daum.net/v/20240128091744783</id>
-        <link href="https://v.daum.net/v/20240128091744783"/>
-        <updated>2024-01-28T00:45:24.437Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손호준, 또 사망 하차하나…장나라, 남편 살해 혐의로 '긴급체포']]></title>
-        <id>https://v.daum.net/v/20240128090603647</id>
-        <link href="https://v.daum.net/v/20240128090603647"/>
-        <updated>2024-01-28T00:45:24.438Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준, 검찰 송치..이휘향에 반격 예고]]></title>
-        <id>https://v.daum.net/v/20240128085444398</id>
-        <link href="https://v.daum.net/v/20240128085444398"/>
-        <updated>2024-01-28T00:45:24.440Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
