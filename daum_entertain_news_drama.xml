@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-29T03:10:06.930Z</updated>
+    <updated>2024-01-29T04:11:34.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열심히만 살았더니 우울증... 박신혜의 하소연이 공감 가는 이유]]></title>
+        <id>https://v.daum.net/v/20240129130506003</id>
+        <link href="https://v.daum.net/v/20240129130506003"/>
+        <updated>2024-01-29T04:11:25.244Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케미요정 박세현, 이하늬와 워맨스→이기우와 묘한 기류]]></title>
+        <id>https://v.daum.net/v/20240129124530709</id>
+        <link href="https://v.daum.net/v/20240129124530709"/>
+        <updated>2024-01-29T04:11:25.246Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장나라, 손호준 시신 목격 후 오열…위태로운 여주 탄생]]></title>
+        <id>https://v.daum.net/v/20240129124030611</id>
+        <link href="https://v.daum.net/v/20240129124030611"/>
+        <updated>2024-01-29T04:11:25.246Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“술 깨고 나면 원망하겠지만” 박형식X박신혜 쌍방 힐링 시작]]></title>
+        <id>https://v.daum.net/v/20240129123735562</id>
+        <link href="https://v.daum.net/v/20240129123735562"/>
+        <updated>2024-01-29T04:11:25.247Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['LTNS', 입소문 탔다…티빙 오리지널 주간 시청UV 1위]]></title>
         <id>https://v.daum.net/v/20240129120137836</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240129111141649"/>
         <updated>2024-01-29T02:16:39.616Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세경, 믿었던 조정석에게 버림받아…한 서린 복수 서막]]></title>
-        <id>https://v.daum.net/v/20240129105149698</id>
-        <link href="https://v.daum.net/v/20240129105149698"/>
-        <updated>2024-01-29T02:16:39.617Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기세 달라진 현종, '고려거란전쟁' 최고 시청률 10.5%]]></title>
-        <id>https://v.daum.net/v/20240129102601650</id>
-        <link href="https://v.daum.net/v/20240129102601650"/>
-        <updated>2024-01-29T01:43:08.005Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’·‘오당기’ 다음은 ‘재벌X형사’..정가희, 국과수 부검의로 강렬 첫 등장]]></title>
-        <id>https://v.daum.net/v/20240129102519621</id>
-        <link href="https://v.daum.net/v/20240129102519621"/>
-        <updated>2024-01-29T01:43:08.005Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜, 출산 공백기 무색한 ‘로코퀸’..‘닥터슬럼프’ 시청률 상승]]></title>
-        <id>https://v.daum.net/v/20240129101426133</id>
-        <link href="https://v.daum.net/v/20240129101426133"/>
-        <updated>2024-01-29T01:43:08.007Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
