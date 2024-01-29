@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-29T01:43:17.274Z</updated>
+    <updated>2024-01-29T02:16:50.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피도 눈물도 없는 조정석이라니…흑화한 임금의 정석]]></title>
+        <id>https://v.daum.net/v/20240129111141649</id>
+        <link href="https://v.daum.net/v/20240129111141649"/>
+        <updated>2024-01-29T02:16:39.616Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신세경, 믿었던 조정석에게 버림받아…한 서린 복수 서막]]></title>
+        <id>https://v.daum.net/v/20240129105149698</id>
+        <link href="https://v.daum.net/v/20240129105149698"/>
+        <updated>2024-01-29T02:16:39.617Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기세 달라진 현종, '고려거란전쟁' 최고 시청률 10.5%]]></title>
         <id>https://v.daum.net/v/20240129102601650</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240129091835715"/>
         <updated>2024-01-29T00:43:01.587Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“그를 껴안은 내 자신을 원망하겠지만”…‘닥터슬럼프’ 박형식·박신혜의 취중 진심→눈물 포옹]]></title>
-        <id>https://v.daum.net/v/20240129091803682</id>
-        <link href="https://v.daum.net/v/20240129091803682"/>
-        <updated>2024-01-29T00:43:01.587Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은채, '정년이' 합류 확정…국극 최고 스타 문옥경 役]]></title>
-        <id>https://v.daum.net/v/20240129091635630</id>
-        <link href="https://v.daum.net/v/20240129091635630"/>
-        <updated>2024-01-29T00:43:01.587Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
