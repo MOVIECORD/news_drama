@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-29T20:10:25.826Z</updated>
+    <updated>2024-01-29T21:08:54.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이크 타고 드럼 치고…국민 엄마 김미경의 인생찬가]]></title>
+        <id>https://v.daum.net/v/20240130060144615</id>
+        <link href="https://v.daum.net/v/20240130060144615"/>
+        <updated>2024-01-29T21:08:46.533Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터슬럼프’ 마음에 치료가 필요한 의사들의 이야기]]></title>
         <id>https://v.daum.net/v/20240130050802909</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129210403256"/>
         <updated>2024-01-29T12:17:45.043Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생 바닥치니 더 맛깔나네…혐관 맛집 '닥터슬럼프']]></title>
-        <id>https://v.daum.net/v/20240129210140218</id>
-        <link href="https://v.daum.net/v/20240129210140218"/>
-        <updated>2024-01-29T12:17:45.043Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
