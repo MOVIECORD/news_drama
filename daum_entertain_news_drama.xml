@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-30T10:11:52.796Z</updated>
+    <updated>2024-01-30T11:09:10.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 문지후, 오세영 덫에 걸렸다... 불법촬영 협박죄로 체포]]></title>
+        <id>https://v.daum.net/v/20240130194900444</id>
+        <link href="https://v.daum.net/v/20240130194900444"/>
+        <updated>2024-01-30T11:09:01.439Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모래꽃' 장동윤 "사랑해 주신 덕분에 김백두 존재할 수 있었다" 종영 소감]]></title>
         <id>https://v.daum.net/v/20240130190724575</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240130160657490"/>
         <updated>2024-01-30T07:10:05.013Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환상연가' 불구덩이 던져진 홍예지, 망연자실한 박지훈]]></title>
-        <id>https://v.daum.net/v/20240130160527389</id>
-        <link href="https://v.daum.net/v/20240130160527389"/>
-        <updated>2024-01-30T07:10:05.013Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
