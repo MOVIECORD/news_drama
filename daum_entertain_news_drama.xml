@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-01-31T21:10:35.809Z</updated>
+    <updated>2024-01-31T22:10:09.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘끝내주는 해결사’ 이지아 “‘작살’내는 히어로역 화끈한 이지아 자신”]]></title>
+        <id>https://v.daum.net/v/20240201063021058</id>
+        <link href="https://v.daum.net/v/20240201063021058"/>
+        <updated>2024-01-31T22:09:59.397Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["스포츠 팬 잡아라"…OTT, 독점중계 한판승부]]></title>
         <id>https://v.daum.net/v/20240201060029630</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240131210648883"/>
         <updated>2024-01-31T12:18:30.956Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아, 화려한 액션으로 첫 등장‥인질 잡힌 아이 구출]]></title>
-        <id>https://v.daum.net/v/20240131210436851</id>
-        <link href="https://v.daum.net/v/20240131210436851"/>
-        <updated>2024-01-31T12:18:30.957Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
