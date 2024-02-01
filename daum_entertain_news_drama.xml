@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-01T12:17:55.241Z</updated>
+    <updated>2024-02-01T13:10:25.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['킬러들의 쇼핑몰', 이동욱 비주얼로 말아주는 더 진한 '아저씨']]></title>
+        <id>https://v.daum.net/v/20240201220529126</id>
+        <link href="https://v.daum.net/v/20240201220529126"/>
+        <updated>2024-02-01T13:10:15.437Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이소연, 하연주 머리에 김치 국물 테러.."가족 넘보지 마"]]></title>
+        <id>https://v.daum.net/v/20240201211922510</id>
+        <link href="https://v.daum.net/v/20240201211922510"/>
+        <updated>2024-02-01T13:10:15.439Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동욱, '핑계고 대상' 싹 지운 목숨 건 액션 "칼 소리만 들려"]]></title>
         <id>https://v.daum.net/v/20240201204020908</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240201173735356"/>
         <updated>2024-02-01T09:11:13.394Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결' 문수영, 나인우의 든든한 조력자]]></title>
-        <id>https://v.daum.net/v/20240201172623795</id>
-        <link href="https://v.daum.net/v/20240201172623795"/>
-        <updated>2024-02-01T09:11:13.394Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모래꽃' 김민석, 종영 소감 "씨름 훈련 열심히 받았다"]]></title>
-        <id>https://v.daum.net/v/20240201172516748</id>
-        <link href="https://v.daum.net/v/20240201172516748"/>
-        <updated>2024-02-01T09:11:13.394Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
