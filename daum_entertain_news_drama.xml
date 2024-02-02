@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-02T04:12:54.490Z</updated>
+    <updated>2024-02-02T05:09:41.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['성난 사람들' 감독 "에미상 수상 후? 피곤…이민자 이야기 계속"]]></title>
+        <id>https://v.daum.net/v/20240202135005789</id>
+        <link href="https://v.daum.net/v/20240202135005789"/>
+        <updated>2024-02-02T05:09:30.418Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동해, 이설과 이별 후유증 극복 시작]]></title>
+        <id>https://v.daum.net/v/20240202132301081</id>
+        <link href="https://v.daum.net/v/20240202132301081"/>
+        <updated>2024-02-02T05:09:30.419Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현, 모델 살인범 찾고 박지현에게 경찰 인정 받을까]]></title>
         <id>https://v.daum.net/v/20240202130126562</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240202113601832"/>
         <updated>2024-02-02T03:11:04.263Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["벌써 설레" 아이유·박보검→김수현·김지원, 2024 新드라마]]></title>
-        <id>https://v.daum.net/v/20240202113430782</id>
-        <link href="https://v.daum.net/v/20240202113430782"/>
-        <updated>2024-02-02T03:11:04.263Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세작, 매혹된 자들’ 조정석, 권력의 정점에 선 군주의 고독 카리스마]]></title>
-        <id>https://v.daum.net/v/20240202112457368</id>
-        <link href="https://v.daum.net/v/20240202112457368"/>
-        <updated>2024-02-02T03:11:04.264Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
