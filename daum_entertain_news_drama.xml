@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-02T07:09:41.569Z</updated>
+    <updated>2024-02-02T08:13:02.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[처연한 이동욱의 눈빛, 그의 과거가 궁금하다]]></title>
+        <id>https://v.daum.net/v/20240202163204394</id>
+        <link href="https://v.daum.net/v/20240202163204394"/>
+        <updated>2024-02-02T08:12:52.929Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["연기력 살벌하네"…'내남결', 전 세계가 과몰입]]></title>
+        <id>https://v.daum.net/v/20240202163002294</id>
+        <link href="https://v.daum.net/v/20240202163002294"/>
+        <updated>2024-02-02T08:12:52.930Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["축하해 내가 버린 쓰레기 주운거"..'민폐 하객' 박민영, 송하윤♥︎이이경 결혼식서 화끈]]></title>
         <id>https://v.daum.net/v/20240202160520438</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240202123136172"/>
         <updated>2024-02-02T04:12:44.932Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현 앞머리 두 가닥이 의미하는 것]]></title>
-        <id>https://v.daum.net/v/20240202122105027</id>
-        <link href="https://v.daum.net/v/20240202122105027"/>
-        <updated>2024-02-02T04:12:44.934Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["직접 겪었던 것···최대한 진실되게 그려내" 스티븐 연·이성진이 일궈낸 韓계 미국인의 이야기]]></title>
-        <id>https://v.daum.net/v/20240202121048880</id>
-        <link href="https://v.daum.net/v/20240202121048880"/>
-        <updated>2024-02-02T03:11:04.261Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
