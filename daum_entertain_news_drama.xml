@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-02T11:09:56.869Z</updated>
+    <updated>2024-02-02T12:16:45.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지아표 건강한 복수, 당 0% 제로 사이다 '끝내주는 해결사']]></title>
+        <id>https://v.daum.net/v/20240202210222619</id>
+        <link href="https://v.daum.net/v/20240202210222619"/>
+        <updated>2024-02-02T12:16:36.532Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내연녀' 하연주, 정찬 본처 도발.."열렬한 사랑에 빠진 것"]]></title>
+        <id>https://v.daum.net/v/20240202204554443</id>
+        <link href="https://v.daum.net/v/20240202204554443"/>
+        <updated>2024-02-02T12:16:36.533Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['피도 눈물도 없이' 하연주, '이혼 거부' 양혜진에 막말 "자식 담보로 너무 빼먹어"]]></title>
+        <id>https://v.daum.net/v/20240202204300415</id>
+        <link href="https://v.daum.net/v/20240202204300415"/>
+        <updated>2024-02-02T12:16:36.536Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경쟁자 없으니 빈집털이 성공…이지아, '연기력 논란' 갈림길에 서다]]></title>
         <id>https://v.daum.net/v/20240202180102869</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240202132301081"/>
         <updated>2024-02-02T05:09:30.419Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현, 모델 살인범 찾고 박지현에게 경찰 인정 받을까]]></title>
-        <id>https://v.daum.net/v/20240202130126562</id>
-        <link href="https://v.daum.net/v/20240202130126562"/>
-        <updated>2024-02-02T04:12:44.931Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성난 사람들' 스티븐연 "송강호는 나의 영웅, 의미는 감사하지만 비교 반박"]]></title>
-        <id>https://v.daum.net/v/20240202125519450</id>
-        <link href="https://v.daum.net/v/20240202125519450"/>
-        <updated>2024-02-02T04:12:44.931Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티븐 연 "송강호는 내 영웅…비슷한 성과? 비교 반박"]]></title>
-        <id>https://v.daum.net/v/20240202125008378</id>
-        <link href="https://v.daum.net/v/20240202125008378"/>
-        <updated>2024-02-02T04:12:44.932Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
