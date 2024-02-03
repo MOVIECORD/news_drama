@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-03T17:10:17.909Z</updated>
+    <updated>2024-02-03T18:12:07.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌X형사' 안보현, 갤러리 살인 사건에 "이건 밀실 살인…이 안에 범인 있다"]]></title>
+        <id>https://v.daum.net/v/20240204024200564</id>
+        <link href="https://v.daum.net/v/20240204024200564"/>
+        <updated>2024-02-03T18:11:04.988Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터슬럼프' 박형식, 박신혜에 "우리 동창 말고 친구 하자"]]></title>
         <id>https://v.daum.net/v/20240204000305168</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240203225710757"/>
         <updated>2024-02-03T14:07:50.539Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세작' 조정석, 신세경 다시 만났다 "날 죽이러 왔나"]]></title>
-        <id>https://v.daum.net/v/20240203225254683</id>
-        <link href="https://v.daum.net/v/20240203225254683"/>
-        <updated>2024-02-03T14:07:50.540Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
