@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-03T01:39:47.651Z</updated>
+    <updated>2024-02-03T02:13:34.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[♥손호준 살해 혐의 증거 불충분…장나라, 정신병원 자진 입원 후 각성]]></title>
+        <id>https://v.daum.net/v/20240203111302685</id>
+        <link href="https://v.daum.net/v/20240203111302685"/>
+        <updated>2024-02-03T02:13:25.766Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["보여줄게~ 완전히 달라진 나 ♬" 장나라, 독기 품었다]]></title>
+        <id>https://v.daum.net/v/20240203110741643</id>
+        <link href="https://v.daum.net/v/20240203110741643"/>
+        <updated>2024-02-03T02:13:25.769Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터슬럼프' 박신혜, 박형식과 인생 최초 오락실 입성 "새 챕터 열린다"]]></title>
         <id>https://v.daum.net/v/20240203101018064</id>
@@ -76,7 +90,7 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['밤피꽃' 이하늬, 이종원에 안겼다 13.1%..작년→올해 MBC드라마 최고 신기록]]></title>
+        <title type="html"><![CDATA[이하늬 '밤피꽃' 자체 최고 13.1%..'연인' 넘고 MBC드라마 신기록]]></title>
         <id>https://v.daum.net/v/20240203090130340</id>
         <link href="https://v.daum.net/v/20240203090130340"/>
         <updated>2024-02-03T00:42:07.927Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240203081238941"/>
         <updated>2024-02-03T00:42:07.928Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수절과부 이하늬, 이종원에 안겼다…최고 14%]]></title>
-        <id>https://v.daum.net/v/20240203080302869</id>
-        <link href="https://v.daum.net/v/20240203080302869"/>
-        <updated>2024-02-02T23:09:33.675Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰·웹소설 作 온다…‘살인자ㅇ난감’→‘피라미드 게임’ 원작 팬 사로잡을까]]></title>
-        <id>https://v.daum.net/v/20240203080301868</id>
-        <link href="https://v.daum.net/v/20240203080301868"/>
-        <updated>2024-02-02T23:09:33.678Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
