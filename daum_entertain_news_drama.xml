@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-03T04:11:03.503Z</updated>
+    <updated>2024-02-03T05:10:16.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희 "잘해야 한다는 압박감…괜찮아, 벼랑 끝이라도 잘 매달려 있으니까"]]></title>
+        <id>https://v.daum.net/v/20240203133007796</id>
+        <link href="https://v.daum.net/v/20240203133007796"/>
+        <updated>2024-02-03T05:09:14.828Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['밤에 피는 꽃' 이종원, 카리스마에 로맨스 한 스푼..女心 저격 완료]]></title>
+        <id>https://v.daum.net/v/20240203132442750</id>
+        <link href="https://v.daum.net/v/20240203132442750"/>
+        <updated>2024-02-03T05:09:14.833Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하준, 김규철X이휘향에 고소 선전포고.."배임, 주가조작 혐의"]]></title>
         <id>https://v.daum.net/v/20240203130306611</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240203111513703"/>
         <updated>2024-02-03T03:12:23.467Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[♥손호준 살해 혐의 증거 불충분…장나라, 정신병원 자진 입원 후 각성]]></title>
-        <id>https://v.daum.net/v/20240203111302685</id>
-        <link href="https://v.daum.net/v/20240203111302685"/>
-        <updated>2024-02-03T02:13:25.766Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보여줄게~ 완전히 달라진 나 ♬" 장나라, 독기 품었다]]></title>
-        <id>https://v.daum.net/v/20240203110741643</id>
-        <link href="https://v.daum.net/v/20240203110741643"/>
-        <updated>2024-02-03T02:13:25.769Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
