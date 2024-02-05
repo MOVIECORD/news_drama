@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-05T09:10:10.051Z</updated>
+    <updated>2024-02-05T10:11:19.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나인우♥박민영 ‘내남결’ 내일 10분 일찍 본다, 아시안컵 여파]]></title>
+        <id>https://v.daum.net/v/20240205190535406</id>
+        <link href="https://v.daum.net/v/20240205190535406"/>
+        <updated>2024-02-05T10:11:10.907Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최원명 백수희 이별 현장 포착, 연애하지 않았던 이유]]></title>
+        <id>https://v.daum.net/v/20240205185115160</id>
+        <link href="https://v.daum.net/v/20240205185115160"/>
+        <updated>2024-02-05T10:11:10.909Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대장금'VS'의녀 대장금', 같은 이영애 다른 장금이 '선긋기']]></title>
         <id>https://v.daum.net/v/20240205175523696</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240205150256095"/>
         <updated>2024-02-05T06:13:24.762Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쓰레기 처리반’ 박민영♥나인우, 짜릿한 사내연애 시작 “우리, 라고 했다”]]></title>
-        <id>https://v.daum.net/v/20240205145723808</id>
-        <link href="https://v.daum.net/v/20240205145723808"/>
-        <updated>2024-02-05T06:13:24.766Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 자리에서 죽이시지요"..신세경, 조정석 앞 대쪽같은 내새끼]]></title>
-        <id>https://v.daum.net/v/20240205145022527</id>
-        <link href="https://v.daum.net/v/20240205145022527"/>
-        <updated>2024-02-05T06:13:24.767Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
