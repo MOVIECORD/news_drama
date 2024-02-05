@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-05T01:48:16.285Z</updated>
+    <updated>2024-02-05T02:23:29.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정신적vs육체적 외도, 이솜♥안재홍 불륜 쫓더니…"드라마가 美쳤다"]]></title>
+        <id>https://v.daum.net/v/20240205112214874</id>
+        <link href="https://v.daum.net/v/20240205112214874"/>
+        <updated>2024-02-05T02:23:19.238Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕' 김수현, 혹독한 처가살이 재벌 사위..스틸 첫 공개]]></title>
+        <id>https://v.daum.net/v/20240205104926988</id>
+        <link href="https://v.daum.net/v/20240205104926988"/>
+        <updated>2024-02-05T02:23:19.238Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘눈물의 여왕’ 김수현, 재벌에 비주얼까지 갖췄는데‥혹독한 처가살이]]></title>
         <id>https://v.daum.net/v/20240205104124584</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240205085208656"/>
         <updated>2024-02-05T00:43:37.937Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결' 이이경X송하윤 드디어 결혼, 박민영 꿈은 이루어진다]]></title>
-        <id>https://v.daum.net/v/20240205085102624</id>
-        <link href="https://v.daum.net/v/20240205085102624"/>
-        <updated>2024-02-05T00:43:37.939Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경-송하윤, 드디어 결혼..박민영 하객 참석 '위너 포스']]></title>
-        <id>https://v.daum.net/v/20240205084351430</id>
-        <link href="https://v.daum.net/v/20240205084351430"/>
-        <updated>2024-02-05T00:43:37.941Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
