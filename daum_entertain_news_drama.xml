@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-06T13:12:04.939Z</updated>
+    <updated>2024-02-06T14:08:50.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내남결' 나인우, 박민영 대신 교통사고..'前 약혼녀' 보아 악행 시작]]></title>
+        <id>https://v.daum.net/v/20240206222345651</id>
+        <link href="https://v.daum.net/v/20240206222345651"/>
+        <updated>2024-02-06T14:08:40.390Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내남결' 박민영, 보아와 신경전...나인우 교통사고 충격 엔딩]]></title>
         <id>https://v.daum.net/v/20240206220203431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206184635935"/>
         <updated>2024-02-06T10:11:14.715Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영옥 "음주 사고 당한 손자 8년째 돌봐…일 쉬면 괴로워"]]></title>
-        <id>https://v.daum.net/v/20240206182609507</id>
-        <link href="https://v.daum.net/v/20240206182609507"/>
-        <updated>2024-02-06T10:11:14.717Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
