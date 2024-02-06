@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-06T10:11:23.722Z</updated>
+    <updated>2024-02-06T11:09:04.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 박영운, 오세영 불륜 과거 알았다.. 뺨 때리며 "나가!"]]></title>
+        <id>https://v.daum.net/v/20240206195000077</id>
+        <link href="https://v.daum.net/v/20240206195000077"/>
+        <updated>2024-02-06T11:08:57.257Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송하윤 뺨치는 최강 빌런? ‘내남결’ 보아의 어깨가 무겁다]]></title>
         <id>https://v.daum.net/v/20240206191012396</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206153152916"/>
         <updated>2024-02-06T07:09:11.764Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상승세 '닥터슬럼프'…'일타'·'동백꽃'과 닮았다]]></title>
-        <id>https://v.daum.net/v/20240206153014832</id>
-        <link href="https://v.daum.net/v/20240206153014832"/>
-        <updated>2024-02-06T07:09:11.766Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
