@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-06T01:41:47.346Z</updated>
+    <updated>2024-02-06T02:16:59.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이경♥송하윤 결혼시켰더니 보아가…'내남결', 최고 14.1% 기염]]></title>
+        <id>https://v.daum.net/v/20240206105002030</id>
+        <link href="https://v.daum.net/v/20240206105002030"/>
+        <updated>2024-02-06T02:15:57.316Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내남결’ 오늘 10분 빨리 본다..아시안컵 현장 중계로 편성 변경]]></title>
         <id>https://v.daum.net/v/20240206103921442</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206091109435"/>
         <updated>2024-02-06T00:42:06.707Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 문상민 ‘웨딩 임파서블’ 티저 공개…플러팅 설렘 주의]]></title>
-        <id>https://v.daum.net/v/20240206090440217</id>
-        <link href="https://v.daum.net/v/20240206090440217"/>
-        <updated>2024-02-06T00:42:06.708Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
