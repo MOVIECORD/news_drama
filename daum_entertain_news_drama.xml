@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-08T21:09:05.891Z</updated>
+    <updated>2024-02-08T22:09:38.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독특한 ‘살인자ㅇ난감’ 설연휴 Pick 될 수 있을까]]></title>
+        <id>https://v.daum.net/v/20240209070106401</id>
+        <link href="https://v.daum.net/v/20240209070106401"/>
+        <updated>2024-02-08T22:09:28.048Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강기영, 이지아 男과 포옹하고 있는 모습 목격하고 '충격']]></title>
+        <id>https://v.daum.net/v/20240209064206116</id>
+        <link href="https://v.daum.net/v/20240209064206116"/>
+        <updated>2024-02-08T22:09:28.049Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬의생' 스핀오프, 조정석 5인방 잇나…고윤정 센터 '슬전생' 첫 공개]]></title>
         <id>https://v.daum.net/v/20240209002411198</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240208163426738"/>
         <updated>2024-02-08T08:12:44.254Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정아, '야한 사진관' 출연..권나라 선배]]></title>
-        <id>https://v.daum.net/v/20240208163301699</id>
-        <link href="https://v.daum.net/v/20240208163301699"/>
-        <updated>2024-02-08T08:12:44.255Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아X강기영, 옷 찢기고 밀가루 폭탄 맞았다…'살벌 육탄전' 포착]]></title>
-        <id>https://v.daum.net/v/20240208162207424</id>
-        <link href="https://v.daum.net/v/20240208162207424"/>
-        <updated>2024-02-08T08:12:44.255Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
