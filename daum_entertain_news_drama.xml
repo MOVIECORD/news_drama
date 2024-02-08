@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-08T06:13:45.492Z</updated>
+    <updated>2024-02-08T07:10:53.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지아, 미스캐스팅 논란 터졌다...부정확한 발성도 문제, 액션 활극 무리였나]]></title>
+        <id>https://v.daum.net/v/20240208160102752</id>
+        <link href="https://v.daum.net/v/20240208160102752"/>
+        <updated>2024-02-08T07:10:44.847Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이설 잊은 이동해, 그 앞에 닥친 또 다른 유혹]]></title>
+        <id>https://v.daum.net/v/20240208155253471</id>
+        <link href="https://v.daum.net/v/20240208155253471"/>
+        <updated>2024-02-08T07:10:44.848Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지아 강기영 살벌한 육탄전, 밀가루 맞고 옷 찢기고]]></title>
+        <id>https://v.daum.net/v/20240208154853379</id>
+        <link href="https://v.daum.net/v/20240208154853379"/>
+        <updated>2024-02-08T07:10:44.848Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁' 하이라이트 귀주대첩 미리보기..최수종 명연기→CG가 만든 걸작]]></title>
+        <id>https://v.daum.net/v/20240208154322201</id>
+        <link href="https://v.daum.net/v/20240208154322201"/>
+        <updated>2024-02-08T07:10:44.850Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['SNL 코리아' 진흙탕전… 에이스토리 공정위 신고→쿠팡 "무고죄 고소"]]></title>
         <id>https://v.daum.net/v/20240208150748102</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240208115502885"/>
         <updated>2024-02-08T03:11:21.052Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혼 축하드립니다... 해결사 이지아라는 판타지의 실체]]></title>
-        <id>https://v.daum.net/v/20240208114600651</id>
-        <link href="https://v.daum.net/v/20240208114600651"/>
-        <updated>2024-02-08T03:11:21.053Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문상민, 춤 실력 최초 공개...댄스 본능+표정+눈빛 삼위일체]]></title>
-        <id>https://v.daum.net/v/20240208112419008</id>
-        <link href="https://v.daum.net/v/20240208112419008"/>
-        <updated>2024-02-08T03:11:21.053Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피라미드 게임' 김지연, 합법적 왕따 깰 저격수 "당차고 똑똑한 인물"]]></title>
-        <id>https://v.daum.net/v/20240208111644699</id>
-        <link href="https://v.daum.net/v/20240208111644699"/>
-        <updated>2024-02-08T03:11:21.054Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라 '나의 해피엔드', 설 연휴 기간 13, 14회 휴방]]></title>
-        <id>https://v.daum.net/v/20240208111120399</id>
-        <link href="https://v.daum.net/v/20240208111120399"/>
-        <updated>2024-02-08T02:15:50.157Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
