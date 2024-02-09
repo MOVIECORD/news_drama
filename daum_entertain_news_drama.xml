@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-09T08:12:56.985Z</updated>
+    <updated>2024-02-09T09:10:56.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['살인자ㅇ난감' 연휴 스타트와 동시 공개, 원작 땡기는 묘한 맛]]></title>
+        <id>https://v.daum.net/v/20240209171548924</id>
+        <link href="https://v.daum.net/v/20240209171548924"/>
+        <updated>2024-02-09T09:10:47.419Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민 넘은 이하늬, 이종석 턱 밑 당도..이준호까지 닿을까]]></title>
         <id>https://v.daum.net/v/20240209164616680</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240209110946627"/>
         <updated>2024-02-09T02:14:59.820Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스트롯3' 정서주, 팀전·여왕전 올킬…3·4라운드 연속 진]]></title>
-        <id>https://v.daum.net/v/20240209110841612</id>
-        <link href="https://v.daum.net/v/20240209110841612"/>
-        <updated>2024-02-09T02:14:59.821Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
