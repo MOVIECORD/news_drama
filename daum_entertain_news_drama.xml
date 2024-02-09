@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-09T03:11:04.253Z</updated>
+    <updated>2024-02-09T04:12:05.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마와 영화의 경계를 보기 좋게 허문 '킬러들의 쇼핑몰']]></title>
+        <id>https://v.daum.net/v/20240209131006691</id>
+        <link href="https://v.daum.net/v/20240209131006691"/>
+        <updated>2024-02-09T04:11:54.935Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아. 의문의 남성과 포옹? 前남친 강기영 충격 엔딩]]></title>
         <id>https://v.daum.net/v/20240209120533249</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240209100829787"/>
         <updated>2024-02-09T01:41:05.365Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재준, 공유·공효진 후배서 홀로서기 "다양한 경험으로 단단해져" ③]]></title>
-        <id>https://v.daum.net/v/20240209100734780</id>
-        <link href="https://v.daum.net/v/20240209100734780"/>
-        <updated>2024-02-09T01:41:05.365Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
