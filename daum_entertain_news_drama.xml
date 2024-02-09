@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-09T11:09:20.190Z</updated>
+    <updated>2024-02-09T12:19:00.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피도 눈물도 없이' 하연주, 이소연과 자매 들키나..우발적 "언니"]]></title>
+        <id>https://v.daum.net/v/20240209203333442</id>
+        <link href="https://v.daum.net/v/20240209203333442"/>
+        <updated>2024-02-09T12:18:49.902Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['피도 눈물도 없이' 장세현, 불륜→이혼한 父에 분노 "행복하시냐"]]></title>
+        <id>https://v.daum.net/v/20240209201024324</id>
+        <link href="https://v.daum.net/v/20240209201024324"/>
+        <updated>2024-02-09T12:18:49.903Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["시청률 빠졌는데 하필 결방까지"…안보현도 불안, 치고 올라오는 JTBC·tvN]]></title>
         <id>https://v.daum.net/v/20240209200101239</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240209120533249"/>
         <updated>2024-02-09T03:10:54.130Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['LTNS' 안재홍, '은퇴설'이라는 연기대상]]></title>
-        <id>https://v.daum.net/v/20240209120144227</id>
-        <link href="https://v.daum.net/v/20240209120144227"/>
-        <updated>2024-02-09T03:10:54.132Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세작'의 금토일 4회 연속 편성…tvN의 도박, 설연휴 通할까]]></title>
-        <id>https://v.daum.net/v/20240209120012197</id>
-        <link href="https://v.daum.net/v/20240209120012197"/>
-        <updated>2024-02-09T03:10:54.135Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
