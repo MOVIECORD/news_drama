@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-11T05:10:15.716Z</updated>
+    <updated>2024-02-11T06:13:31.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁', 논란 속 빛나는 최수종의 존재감]]></title>
+        <id>https://v.daum.net/v/20240211150019278</id>
+        <link href="https://v.daum.net/v/20240211150019278"/>
+        <updated>2024-02-11T06:13:21.745Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로몬 몸에서 깨어난' 김지은, 손에 살인자 흔적 '충격 전개']]></title>
+        <id>https://v.daum.net/v/20240211142132915</id>
+        <link href="https://v.daum.net/v/20240211142132915"/>
+        <updated>2024-02-11T06:13:21.746Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘효심이네’ 유이, 25년 전 집 나간 아버지 찾는다]]></title>
         <id>https://v.daum.net/v/20240211134922640</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240211120018941"/>
         <updated>2024-02-11T03:09:59.547Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황찬성, 日드라마 '순다방인연' 주인공 발탁]]></title>
-        <id>https://v.daum.net/v/20240211114139819</id>
-        <link href="https://v.daum.net/v/20240211114139819"/>
-        <updated>2024-02-11T03:09:59.547Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불후' 라포엠, DK 잡고 조영남편 최종 우승]]></title>
-        <id>https://v.daum.net/v/20240211113522763</id>
-        <link href="https://v.daum.net/v/20240211113522763"/>
-        <updated>2024-02-11T03:09:59.548Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
