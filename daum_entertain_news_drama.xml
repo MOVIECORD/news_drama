@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-12T10:12:20.971Z</updated>
+    <updated>2024-02-12T11:09:34.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식, 시청률 '반타작' 못막았다...2작품 연속 3%대, 무거운 주연의 무게]]></title>
+        <id>https://v.daum.net/v/20240212200102639</id>
+        <link href="https://v.daum.net/v/20240212200102639"/>
+        <updated>2024-02-12T11:08:32.207Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[39세인데 2번째 은퇴설…안재홍 "뜨거운 반응, 부담으로 느껴지지 않죠"]]></title>
         <id>https://v.daum.net/v/20240212190112096</id>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이이경, 하다다하 전 여친 박민영 스토킹까지]]></title>
+        <title type="html"><![CDATA[이이경, 하다하다 전 여친 박민영 스토킹까지]]></title>
         <id>https://v.daum.net/v/20240212141738575</id>
         <link href="https://v.daum.net/v/20240212141738575"/>
         <updated>2024-02-12T06:13:10.922Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정석을 들었다 놨다..'세작' 신세경의 힘]]></title>
-        <id>https://v.daum.net/v/20240212141524532</id>
-        <link href="https://v.daum.net/v/20240212141524532"/>
-        <updated>2024-02-12T06:13:10.925Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
