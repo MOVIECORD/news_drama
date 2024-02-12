@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-12T01:42:16.405Z</updated>
+    <updated>2024-02-12T02:17:37.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터슬럼프' 이성경 등장..박형식♥︎박신혜, 쌍방 설렘에 질투까지]]></title>
+        <id>https://v.daum.net/v/20240212110022831</id>
+        <link href="https://v.daum.net/v/20240212110022831"/>
+        <updated>2024-02-12T02:17:28.983Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“오랫동안 연모해왔다” 조정석, 첫날밤 보낸 신세경♥에 애틋한 마음]]></title>
         <id>https://v.daum.net/v/20240212102819276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212082618220"/>
         <updated>2024-02-12T00:42:46.765Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설렘·워맨스·재미 다 있네…‘밤에 피는 꽃’, 여기가 케미 맛집]]></title>
-        <id>https://v.daum.net/v/20240212082401194</id>
-        <link href="https://v.daum.net/v/20240212082401194"/>
-        <updated>2024-02-12T00:42:46.767Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
