@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-12T09:11:29.680Z</updated>
+    <updated>2024-02-12T10:12:20.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[39세인데 2번째 은퇴설…안재홍 "뜨거운 반응, 부담으로 느껴지지 않죠"]]></title>
+        <id>https://v.daum.net/v/20240212190112096</id>
+        <link href="https://v.daum.net/v/20240212190112096"/>
+        <updated>2024-02-12T10:12:10.890Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터슬럼프’ 공성하, 드디어 윤박과 서로의 존재 알았다…새로운 인연 암시]]></title>
         <id>https://v.daum.net/v/20240212175400280</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240212141524532</id>
         <link href="https://v.daum.net/v/20240212141524532"/>
         <updated>2024-02-12T06:13:10.925Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강기영 “‘우영우’, 삶 바꿔줬다”..‘끝내주는 해결사’로 데뷔 첫 주연]]></title>
-        <id>https://v.daum.net/v/20240212135347180</id>
-        <link href="https://v.daum.net/v/20240212135347180"/>
-        <updated>2024-02-12T05:10:48.066Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
