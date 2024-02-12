@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-12T11:09:34.255Z</updated>
+    <updated>2024-02-12T12:17:13.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어디서 개가 짖어"…'내남결' 박민영, 협박하는 이이경에 킥 날렸다]]></title>
+        <id>https://v.daum.net/v/20240212211217204</id>
+        <link href="https://v.daum.net/v/20240212211217204"/>
+        <updated>2024-02-12T12:17:04.942Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형식, 시청률 '반타작' 못막았다...2작품 연속 3%대, 무거운 주연의 무게]]></title>
         <id>https://v.daum.net/v/20240212200102639</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212142211686"/>
         <updated>2024-02-12T06:13:10.921Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경, 하다하다 전 여친 박민영 스토킹까지]]></title>
-        <id>https://v.daum.net/v/20240212141738575</id>
-        <link href="https://v.daum.net/v/20240212141738575"/>
-        <updated>2024-02-12T06:13:10.922Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
