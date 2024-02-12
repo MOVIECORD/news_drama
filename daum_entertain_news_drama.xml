@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-12T21:09:52.947Z</updated>
+    <updated>2024-02-12T22:09:01.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리 놓쳤지만…MBC, 이하늬→한석규로 '드라마 왕국' 재건]]></title>
+        <id>https://v.daum.net/v/20240213065949438</id>
+        <link href="https://v.daum.net/v/20240213065949438"/>
+        <updated>2024-02-12T22:08:52.797Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘내남결’ 송하윤, 박민영 탓하며 유산 거짓말..결국 “이이경 무정자증” 폭로]]></title>
+        <id>https://v.daum.net/v/20240213065423389</id>
+        <link href="https://v.daum.net/v/20240213065423389"/>
+        <updated>2024-02-12T22:08:52.798Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[망가진 김수현, 우주인 이민호, 풋풋한 박보검]]></title>
+        <id>https://v.daum.net/v/20240213063018014</id>
+        <link href="https://v.daum.net/v/20240213063018014"/>
+        <updated>2024-02-12T22:08:52.800Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘살인자ㅇ난감’에 이재명 대표 등장? “사실무근”]]></title>
         <id>https://v.daum.net/v/20240213003012272</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240212200102639"/>
         <updated>2024-02-12T11:08:32.207Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[39세인데 2번째 은퇴설…안재홍 "뜨거운 반응, 부담으로 느껴지지 않죠"]]></title>
-        <id>https://v.daum.net/v/20240212190112096</id>
-        <link href="https://v.daum.net/v/20240212190112096"/>
-        <updated>2024-02-12T10:12:10.890Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터슬럼프’ 공성하, 드디어 윤박과 서로의 존재 알았다…새로운 인연 암시]]></title>
-        <id>https://v.daum.net/v/20240212175400280</id>
-        <link href="https://v.daum.net/v/20240212175400280"/>
-        <updated>2024-02-12T09:11:20.420Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오버립 논란' 보아 "도파민 폭발"vs"몰입 방해" 어떤 빌런 될까]]></title>
-        <id>https://v.daum.net/v/20240212175002210</id>
-        <link href="https://v.daum.net/v/20240212175002210"/>
-        <updated>2024-02-12T09:11:20.420Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
