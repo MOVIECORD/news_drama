@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-13T04:13:12.626Z</updated>
+    <updated>2024-02-13T05:09:44.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내남결’ 흑화한 박민영, 골프채 들고 세간살이 박살]]></title>
+        <id>https://v.daum.net/v/20240213133517747</id>
+        <link href="https://v.daum.net/v/20240213133517747"/>
+        <updated>2024-02-13T05:09:34.127Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지원, 머리부터 발끝까지 화려..카리스마 공개]]></title>
         <id>https://v.daum.net/v/20240213120203084</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240213095138491"/>
         <updated>2024-02-13T01:42:11.473Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 이런 모습도 있었어? 거친 남성미 폭발 첫 스틸]]></title>
-        <id>https://v.daum.net/v/20240213094352094</id>
-        <link href="https://v.daum.net/v/20240213094352094"/>
-        <updated>2024-02-13T01:42:11.473Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
