@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-14T01:43:08.403Z</updated>
+    <updated>2024-02-14T02:16:34.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이번엔 죽여"..'내남결' 이이경, 재결합 무산→박민영 목조르기]]></title>
+        <id>https://v.daum.net/v/20240214104620221</id>
+        <link href="https://v.daum.net/v/20240214104620221"/>
+        <updated>2024-02-14T02:16:24.679Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대박 터진 ‘살인자ㅇ난감’ 3일만에 글로벌 TOP 10 비영어권 TV 2위]]></title>
         <id>https://v.daum.net/v/20240214103910878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240214084040423"/>
         <updated>2024-02-14T00:43:09.495Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현역가왕' 전유진, 1대 가왕 등극…시청률 17.3% 피날레]]></title>
-        <id>https://v.daum.net/v/20240214083211201</id>
-        <link href="https://v.daum.net/v/20240214083211201"/>
-        <updated>2024-02-14T00:43:09.497Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
