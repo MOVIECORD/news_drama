@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-14T06:13:57.798Z</updated>
+    <updated>2024-02-14T07:12:57.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우식 "교복 입기 싫었다..나도 멋있는 거 하고 싶더라"]]></title>
+        <id>https://v.daum.net/v/20240214161017624</id>
+        <link href="https://v.daum.net/v/20240214161017624"/>
+        <updated>2024-02-14T07:12:47.968Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교복 입기 싫었다는 '35세' 최우식, "얼굴에 생길 나이테, 자연스런 변화 기다려"]]></title>
+        <id>https://v.daum.net/v/20240214151601092</id>
+        <link href="https://v.daum.net/v/20240214151601092"/>
+        <updated>2024-02-14T07:12:47.969Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살인자ㅇ난감' 최우식 "인생 최대 몸무게, 벌크업 시도 했지만…"]]></title>
         <id>https://v.daum.net/v/20240214150701659</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240214143614171"/>
         <updated>2024-02-14T06:13:48.077Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["타란티노풍, 반드시 봐야"…'살인자ㅇ난감', 글로벌 반응 뜨겁다]]></title>
-        <id>https://v.daum.net/v/20240214143415080</id>
-        <link href="https://v.daum.net/v/20240214143415080"/>
-        <updated>2024-02-14T06:13:48.078Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아 강기영, 오민석 기자회견 등판…묵직한 한방 예고]]></title>
-        <id>https://v.daum.net/v/20240214142837779</id>
-        <link href="https://v.daum.net/v/20240214142837779"/>
-        <updated>2024-02-14T06:13:48.080Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
