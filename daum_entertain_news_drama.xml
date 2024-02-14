@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-14T10:11:06.267Z</updated>
+    <updated>2024-02-14T11:09:44.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우식 "마른 게 콤플렉스…증량? 얼굴만 살 찌더라"]]></title>
+        <id>https://v.daum.net/v/20240214195002412</id>
+        <link href="https://v.daum.net/v/20240214195002412"/>
+        <updated>2024-02-14T11:09:35.696Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아, 산부인과 CCTV 확보... 오세영 '신생아 바꿔치기' 밝혀내나?]]></title>
+        <id>https://v.daum.net/v/20240214194800387</id>
+        <link href="https://v.daum.net/v/20240214194800387"/>
+        <updated>2024-02-14T11:09:35.697Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내남결' 주역 박민영, 베트남 포상휴가 '참석'..3월 중순 출국]]></title>
         <id>https://v.daum.net/v/20240214190159645</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240214162736326"/>
         <updated>2024-02-14T08:12:34.456Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 이태형 ‘미나씨’ 속 훈훈 연하남 활약…연애세포 자극]]></title>
-        <id>https://v.daum.net/v/20240214162409181</id>
-        <link href="https://v.daum.net/v/20240214162409181"/>
-        <updated>2024-02-14T08:12:34.457Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최우식 "교복 입기 싫었다..나도 멋있는 거 하고 싶더라"]]></title>
-        <id>https://v.daum.net/v/20240214161017624</id>
-        <link href="https://v.daum.net/v/20240214161017624"/>
-        <updated>2024-02-14T07:12:47.968Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
