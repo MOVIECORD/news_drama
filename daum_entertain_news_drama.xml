@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-16T20:10:34.486Z</updated>
+    <updated>2024-02-16T21:08:37.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌X형사' 안보현, "이건 살인사건"…박지현과 '연쇄 강도 살인사건' 추적]]></title>
+        <id>https://v.daum.net/v/20240217060301869</id>
+        <link href="https://v.daum.net/v/20240217060301869"/>
+        <updated>2024-02-16T21:08:27.454Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌X형사' 안보현, 살인 용의자에 "10년 그렇게 살았다면 당신도 문제" 일침]]></title>
+        <id>https://v.daum.net/v/20240217051500507</id>
+        <link href="https://v.daum.net/v/20240217051500507"/>
+        <updated>2024-02-16T21:08:27.454Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이하늬, 오라비 죽음 진실 알았다…♥이종원 "당신만을 위해 살아도" 고백]]></title>
         <id>https://v.daum.net/v/20240217001321453</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240216223810872"/>
         <updated>2024-02-16T14:09:53.723Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤피꽃' 이하늬, 남편에게 정체 들켜.."잡히지 않았으면 좋겠다"]]></title>
-        <id>https://v.daum.net/v/20240216223315854</id>
-        <link href="https://v.daum.net/v/20240216223315854"/>
-        <updated>2024-02-16T14:09:53.723Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 박지현, 안보현에 "폭탄을 머리에 이고 있는 기분"]]></title>
-        <id>https://v.daum.net/v/20240216222719797</id>
-        <link href="https://v.daum.net/v/20240216222719797"/>
-        <updated>2024-02-16T14:09:53.723Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
