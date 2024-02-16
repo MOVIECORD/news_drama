@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-16T08:14:00.860Z</updated>
+    <updated>2024-02-16T09:10:06.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['살인자o난감' 이희준 "노인 연기 인위적으로 척하지 않으려 경계했다"]]></title>
+        <id>https://v.daum.net/v/20240216180637327</id>
+        <link href="https://v.daum.net/v/20240216180637327"/>
+        <updated>2024-02-16T09:09:56.442Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘밤에 피는 꽃’ 제작사 대표, 김상중 빌런 캐스팅 위해 집까지 찾아가 설득한 사연]]></title>
+        <id>https://v.daum.net/v/20240216175525067</id>
+        <link href="https://v.daum.net/v/20240216175525067"/>
+        <updated>2024-02-16T09:09:56.443Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기억 잃은 박지훈, 난관에 봉착한 홍예지…결말은?]]></title>
         <id>https://v.daum.net/v/20240216165842574</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240216141820238"/>
         <updated>2024-02-16T06:13:27.554Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장원영 언니' 장다아, 어머님이 누구니? 바로 정애연]]></title>
-        <id>https://v.daum.net/v/20240216134943224</id>
-        <link href="https://v.daum.net/v/20240216134943224"/>
-        <updated>2024-02-16T05:10:48.799Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽은 손호준이 돌아왔다? 납치된 장나라처럼 결박당해 '분노']]></title>
-        <id>https://v.daum.net/v/20240216134240987</id>
-        <link href="https://v.daum.net/v/20240216134240987"/>
-        <updated>2024-02-16T05:10:48.799Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
