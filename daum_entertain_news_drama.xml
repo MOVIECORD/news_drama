@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-17T15:10:18.950Z</updated>
+    <updated>2024-02-17T16:11:33.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최종 '밤에 피는 꽃' 이하늬, ♥이종원과 해피엔딩→김상중 복수 성공]]></title>
+        <id>https://v.daum.net/v/20240218010557125</id>
+        <link href="https://v.daum.net/v/20240218010557125"/>
+        <updated>2024-02-17T16:11:23.051Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터슬럼프' 누명 벗은 박형식, ♥박신혜에 고백→달달 손깍지]]></title>
         <id>https://v.daum.net/v/20240217235126844</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217224641574"/>
         <updated>2024-02-17T14:08:34.256Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤에 피는 꽃' 이하늬, 김상중 무너뜨렸다.."이제 그만하시지요"]]></title>
-        <id>https://v.daum.net/v/20240217224159546</id>
-        <link href="https://v.daum.net/v/20240217224159546"/>
-        <updated>2024-02-17T14:08:34.257Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
