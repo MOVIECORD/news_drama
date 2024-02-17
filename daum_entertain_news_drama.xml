@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-17T19:09:29.818Z</updated>
+    <updated>2024-02-17T20:09:52.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌X형사' 박지현, 순식간에 10억 대령하는 안보현에 "넌 대체 어떤 세상에 사는 거냐?"]]></title>
+        <id>https://v.daum.net/v/20240218050600588</id>
+        <link href="https://v.daum.net/v/20240218050600588"/>
+        <updated>2024-02-17T20:09:43.411Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최종 '밤에 피는 꽃' 이하늬, ♥이종원과 해피엔딩→김상중 복수 성공]]></title>
         <id>https://v.daum.net/v/20240218010557125</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217225215598"/>
         <updated>2024-02-17T14:08:34.255Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정석 신세경 포옹 “어떤 고통이든 전하 곁에” 불타는 나무 불길 ‘세작’]]></title>
-        <id>https://v.daum.net/v/20240217224641574</id>
-        <link href="https://v.daum.net/v/20240217224641574"/>
-        <updated>2024-02-17T14:08:34.256Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
