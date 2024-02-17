@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-17T06:13:05.688Z</updated>
+    <updated>2024-02-17T07:08:47.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라･이기택, 끝날 때까지 끝난 게 아니다..얼음처럼 굳은 두 사람]]></title>
+        <id>https://v.daum.net/v/20240217153349611</id>
+        <link href="https://v.daum.net/v/20240217153349611"/>
+        <updated>2024-02-17T07:08:36.824Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조정석, 신세경에 파워 직진 포옹..제작진 "로맨스 최고조"]]></title>
+        <id>https://v.daum.net/v/20240217151613482</id>
+        <link href="https://v.daum.net/v/20240217151613482"/>
+        <updated>2024-02-17T07:08:36.825Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현·박지현, 국새 찾으러 클럽行..영앤리치 커플 10억 플렉스]]></title>
         <id>https://v.daum.net/v/20240217151159455</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240217131402474"/>
         <updated>2024-02-17T05:09:12.437Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밤피꽃' 이종원, 눈빛 그리고 직진 고백 한마디면 충분했다]]></title>
-        <id>https://v.daum.net/v/20240217131332472</id>
-        <link href="https://v.daum.net/v/20240217131332472"/>
-        <updated>2024-02-17T05:09:12.438Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강재준·이은형→이지훈·아야네 임신…박수홍vs친형 부부 1심 선고]]></title>
-        <id>https://v.daum.net/v/20240217125017361</id>
-        <link href="https://v.daum.net/v/20240217125017361"/>
-        <updated>2024-02-17T04:13:04.797Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
