@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-21T20:10:44.323Z</updated>
+    <updated>2024-02-21T21:09:13.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘끝내주는 해결사’ 강기영, 서웅진 투신 사건 증거 찾았는데…괴한 습격에 ‘위기’]]></title>
+        <id>https://v.daum.net/v/20240222060303474</id>
+        <link href="https://v.daum.net/v/20240222060303474"/>
+        <updated>2024-02-21T21:09:06.823Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주연 배우 '대박', 제작사 '쪽박'… K콘텐츠 열풍의 그늘]]></title>
+        <id>https://v.daum.net/v/20240222060038359</id>
+        <link href="https://v.daum.net/v/20240222060038359"/>
+        <updated>2024-02-21T21:09:06.825Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“강기영 이용할래”…이지아, 오민석 감옥 보낼 수 있을까]]></title>
         <id>https://v.daum.net/v/20240221213301747</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240221185010955"/>
         <updated>2024-02-21T10:12:15.378Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['짜릿한 국뽕'...전세계서도 1위한 한국 드라마]]></title>
-        <id>https://v.daum.net/v/20240221181931090</id>
-        <link href="https://v.daum.net/v/20240221181931090"/>
-        <updated>2024-02-21T10:12:15.384Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밤피꽃’ 오의식, ‘중간투입’에도 빛난 이유..“이하늬 행복에 기여, 만족”]]></title>
-        <id>https://v.daum.net/v/20240221181926088</id>
-        <link href="https://v.daum.net/v/20240221181926088"/>
-        <updated>2024-02-21T10:12:15.384Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
