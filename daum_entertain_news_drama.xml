@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-22T12:17:11.566Z</updated>
+    <updated>2024-02-22T13:11:36.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘끝내주는 해결사’ 이지아, 사이비 신도로 몰린 손지나 구출…“이혼하고 친권 찾자”]]></title>
+        <id>https://v.daum.net/v/20240222213901468</id>
+        <link href="https://v.daum.net/v/20240222213901468"/>
+        <updated>2024-02-22T13:11:27.144Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피도 눈물도 없이' 이소연, 시모 된 하연주에 "네 추악함, 알고 있다"]]></title>
         <id>https://v.daum.net/v/20240222205230848</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240222162123421"/>
         <updated>2024-02-22T08:13:15.630Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이이경→나인우 인터뷰 안한다…시청률 12%·글로벌 1위 "뒷얘기 못 듣나요"]]></title>
-        <id>https://v.daum.net/v/20240222161802280</id>
-        <link href="https://v.daum.net/v/20240222161802280"/>
-        <updated>2024-02-22T08:13:15.631Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
