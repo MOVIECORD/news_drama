@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-22T10:10:59.049Z</updated>
+    <updated>2024-02-22T11:08:22.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미나씨' 김태영 "저는 기본 프사 써요"]]></title>
+        <id>https://v.daum.net/v/20240222200112821</id>
+        <link href="https://v.daum.net/v/20240222200112821"/>
+        <updated>2024-02-22T11:08:12.755Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 윤선우, 숙모 된 오승아에 사랑고백 "전노민과 이혼해"]]></title>
+        <id>https://v.daum.net/v/20240222194631403</id>
+        <link href="https://v.daum.net/v/20240222194631403"/>
+        <updated>2024-02-22T11:08:12.757Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정음, ♥이영돈과 이혼 발표에도 '7인의 부활' 포스터 촬영…꿋꿋이 '본업' 열중]]></title>
         <id>https://v.daum.net/v/20240222182308517</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240222155009907"/>
         <updated>2024-02-22T07:10:13.371Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백성현, 훈남 의사 된다…함은정과는 '천적']]></title>
-        <id>https://v.daum.net/v/20240222154437649</id>
-        <link href="https://v.daum.net/v/20240222154437649"/>
-        <updated>2024-02-22T07:10:13.371Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수지맞은 우리’ 훈남 의사 백성현, 함은정과는 병원 내 천적]]></title>
-        <id>https://v.daum.net/v/20240222152955852</id>
-        <link href="https://v.daum.net/v/20240222152955852"/>
-        <updated>2024-02-22T07:10:13.373Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
