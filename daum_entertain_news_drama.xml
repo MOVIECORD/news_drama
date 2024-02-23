@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-23T21:08:56.006Z</updated>
+    <updated>2024-02-23T22:09:08.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌X형사' 박지현, 안보현 구여친에 질투 폭발.."진짜 사귀었냐?"]]></title>
+        <id>https://v.daum.net/v/20240224061902274</id>
+        <link href="https://v.daum.net/v/20240224061902274"/>
+        <updated>2024-02-23T22:08:59.028Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['재벌X형사' 박지현, 안보현母 죽음 진실 알았다..욕조서 변사체로 발견]]></title>
         <id>https://v.daum.net/v/20240223234110566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240223203800947"/>
         <updated>2024-02-23T12:16:51.252Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세번째결혼' 윤선우 딸 안나, 오승아가 잃어버린 친딸이었다]]></title>
-        <id>https://v.daum.net/v/20240223195133433</id>
-        <link href="https://v.daum.net/v/20240223195133433"/>
-        <updated>2024-02-23T11:08:41.129Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
