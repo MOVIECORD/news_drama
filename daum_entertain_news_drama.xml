@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-24T01:38:41.457Z</updated>
+    <updated>2024-02-24T02:15:15.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나혼산' 김대호, 올해는 대상 노리나… 대가족 기운 팍팍]]></title>
+        <id>https://v.daum.net/v/20240224104627391</id>
+        <link href="https://v.daum.net/v/20240224104627391"/>
+        <updated>2024-02-24T02:15:05.443Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손호준 살인범 소이현 웃었다, 장나라 공포 휩싸인 얼굴…‘나의 해피엔드’ 갈등 폭주]]></title>
         <id>https://v.daum.net/v/20240224103423280</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240224080007535"/>
         <updated>2024-02-23T23:09:10.074Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현, 어린 시절 母 교통사고 잘못된 기억이었다…최고 12%]]></title>
-        <id>https://v.daum.net/v/20240224075902499</id>
-        <link href="https://v.daum.net/v/20240224075902499"/>
-        <updated>2024-02-23T23:09:10.075Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
