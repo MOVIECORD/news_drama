@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-24T02:15:15.420Z</updated>
+    <updated>2024-02-24T03:12:09.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주체불가 연기 에너지…이 기운, 오롯이 이종원의 것]]></title>
+        <id>https://v.daum.net/v/20240224120138157</id>
+        <link href="https://v.daum.net/v/20240224120138157"/>
+        <updated>2024-02-24T03:11:59.742Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["母, 먼저 외고 자퇴 권유해"…최규리, 2년 방황 후 만들어낸 기적]]></title>
+        <id>https://v.daum.net/v/20240224115601069</id>
+        <link href="https://v.daum.net/v/20240224115601069"/>
+        <updated>2024-02-24T03:11:59.742Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나혼산' 김대호, 올해는 대상 노리나… 대가족 기운 팍팍]]></title>
         <id>https://v.daum.net/v/20240224104627391</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240224082101785"/>
         <updated>2024-02-24T00:40:34.284Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 안보현, 봉인된 트라우마 방아쇠 당겼다..시청률 급등]]></title>
-        <id>https://v.daum.net/v/20240224080502676</id>
-        <link href="https://v.daum.net/v/20240224080502676"/>
-        <updated>2024-02-23T23:09:10.074Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔사계' 9기 옥순 "왜 깨워?"vs14기 옥순 "병주고 약줘" 싸움 났다]]></title>
-        <id>https://v.daum.net/v/20240224080007535</id>
-        <link href="https://v.daum.net/v/20240224080007535"/>
-        <updated>2024-02-23T23:09:10.074Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
