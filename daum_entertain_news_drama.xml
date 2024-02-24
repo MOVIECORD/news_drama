@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-24T09:09:01.565Z</updated>
+    <updated>2024-02-24T10:09:55.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하준=재벌 사위인데..'효심이네' 윤미라, 딸 유이 결혼 반대 왜?]]></title>
+        <id>https://v.daum.net/v/20240224190017643</id>
+        <link href="https://v.daum.net/v/20240224190017643"/>
+        <updated>2024-02-24T10:09:47.908Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소이현, 살기 가득한 눈빛+섬뜩한 따귀‥광기 모먼트 포착]]></title>
         <id>https://v.daum.net/v/20240224180137197</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240224144010317"/>
         <updated>2024-02-24T06:11:54.502Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하윤경, 안보현과 구여친 재회..'재벌X형사' 빛낸 특별출연]]></title>
-        <id>https://v.daum.net/v/20240224143717295</id>
-        <link href="https://v.daum.net/v/20240224143717295"/>
-        <updated>2024-02-24T06:11:54.503Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
