@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-25T03:11:52.546Z</updated>
+    <updated>2024-02-25T04:11:38.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘세작’ 조정석, 박예영과 재합방 추진? 키스 1초전]]></title>
+        <id>https://v.daum.net/v/20240225131048776</id>
+        <link href="https://v.daum.net/v/20240225131048776"/>
+        <updated>2024-02-25T04:11:29.332Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터 슬럼프’ 박형식-박신혜 “너보다 더 큰 이유는 없어!”]]></title>
         <id>https://v.daum.net/v/20240225120842070</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240225090605645"/>
         <updated>2024-02-25T00:45:45.104Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브랜딩인성수동' 악마팀장 김지은 돌아왔다..덜렁이→카리스마 대전환]]></title>
-        <id>https://v.daum.net/v/20240225090536636</id>
-        <link href="https://v.daum.net/v/20240225090536636"/>
-        <updated>2024-02-25T00:45:45.106Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
