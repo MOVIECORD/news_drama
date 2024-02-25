@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-25T02:18:59.854Z</updated>
+    <updated>2024-02-25T03:11:52.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닥터 슬럼프’ 박형식-박신혜 “너보다 더 큰 이유는 없어!”]]></title>
+        <id>https://v.daum.net/v/20240225120842070</id>
+        <link href="https://v.daum.net/v/20240225120842070"/>
+        <updated>2024-02-25T03:10:50.510Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['특이 캐릭터 전문' 전종서, 새로운 연기 도전]]></title>
+        <id>https://v.daum.net/v/20240225111800972</id>
+        <link href="https://v.daum.net/v/20240225111800972"/>
+        <updated>2024-02-25T03:10:50.511Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환상연가' 궁궐 돌아온 박지훈, 황희와 정면 대립..폭풍전야 신경전]]></title>
         <id>https://v.daum.net/v/20240225111054825</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240225090536636"/>
         <updated>2024-02-25T00:45:45.106Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애매함도 내 일부" 박세현, 스스로 다독였던 '밤피꽃']]></title>
-        <id>https://v.daum.net/v/20240225090153568</id>
-        <link href="https://v.daum.net/v/20240225090153568"/>
-        <updated>2024-02-25T00:45:45.107Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률 1%대로 떨어진 KBS '환상연가', 종영 2회 앞두고 반등할까]]></title>
-        <id>https://v.daum.net/v/20240225090102530</id>
-        <link href="https://v.daum.net/v/20240225090102530"/>
-        <updated>2024-02-25T00:45:45.111Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
