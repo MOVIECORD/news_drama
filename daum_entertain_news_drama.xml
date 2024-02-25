@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-25T09:09:52.499Z</updated>
+    <updated>2024-02-25T10:09:20.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[男男 키스? '영혼=로몬' 김지은, 완벽남에 고백 받아]]></title>
+        <id>https://v.daum.net/v/20240225182605302</id>
+        <link href="https://v.daum.net/v/20240225182605302"/>
+        <updated>2024-02-25T10:09:11.512Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고거전' 김훈·최질의 난, 오늘은 끝나겠지..김동준 목숨 건 사투]]></title>
         <id>https://v.daum.net/v/20240225154952542</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240225133119054"/>
         <updated>2024-02-25T05:09:42.593Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박형식♥박신혜 클럽 일탈? 재회 빌드업 화려하네]]></title>
-        <id>https://v.daum.net/v/20240225132526959</id>
-        <link href="https://v.daum.net/v/20240225132526959"/>
-        <updated>2024-02-25T05:09:42.594Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
