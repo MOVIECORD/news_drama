@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-26T09:11:20.071Z</updated>
+    <updated>2024-02-26T10:12:26.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불참에도 '핫'…"오디션 합격" 장다아, '장원영 언니' 뗄까]]></title>
+        <id>https://v.daum.net/v/20240226185013847</id>
+        <link href="https://v.daum.net/v/20240226185013847"/>
+        <updated>2024-02-26T10:11:19.439Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소이현, 불륜 목격→아이 유산에 복수 캐릭터 진심 "내게 이런 모습 신기"]]></title>
+        <id>https://v.daum.net/v/20240226181613019</id>
+        <link href="https://v.daum.net/v/20240226181613019"/>
+        <updated>2024-02-26T10:11:19.440Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송지호, 김혜윤 친오빠 된다..'선재 업고 튀어' 출연]]></title>
         <id>https://v.daum.net/v/20240226175937455</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240226162428767"/>
         <updated>2024-02-26T08:13:09.810Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현역가왕' 전유진 "우승 상금 1억, 대학 등록금으로 쓸 것"]]></title>
-        <id>https://v.daum.net/v/20240226161552375</id>
-        <link href="https://v.daum.net/v/20240226161552375"/>
-        <updated>2024-02-26T08:13:09.814Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남과여' 임재혁, 알고보니 춤신춤왕..윤예주 앞 무아지경 댄스 삼매경]]></title>
-        <id>https://v.daum.net/v/20240226155930439</id>
-        <link href="https://v.daum.net/v/20240226155930439"/>
-        <updated>2024-02-26T07:10:54.151Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
