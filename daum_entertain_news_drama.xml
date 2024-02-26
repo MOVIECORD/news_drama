@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-26T10:12:26.923Z</updated>
+    <updated>2024-02-26T11:08:42.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 윤선우, 반효정에 진실 알렸다 "이아린 친모가 오승아"]]></title>
+        <id>https://v.daum.net/v/20240226194501910</id>
+        <link href="https://v.daum.net/v/20240226194501910"/>
+        <updated>2024-02-26T11:07:35.104Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불참에도 '핫'…"오디션 합격" 장다아, '장원영 언니' 뗄까]]></title>
         <id>https://v.daum.net/v/20240226185013847</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240226162522805"/>
         <updated>2024-02-26T08:13:09.809Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔로지옥' 신슬기→ 장원영 언니 장다아… '피라미드 게임' 기대]]></title>
-        <id>https://v.daum.net/v/20240226162428767</id>
-        <link href="https://v.daum.net/v/20240226162428767"/>
-        <updated>2024-02-26T08:13:09.810Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
