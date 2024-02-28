@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-28T09:09:37.707Z</updated>
+    <updated>2024-02-28T10:11:23.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['응팔' 정봉이 한번 더?..안재홍, 주오남 벗고 '닭강정' 순정남 계보]]></title>
+        <id>https://v.daum.net/v/20240228182150204</id>
+        <link href="https://v.daum.net/v/20240228182150204"/>
+        <updated>2024-02-28T10:11:14.334Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1박 2일'은 아니지만…김선호, 3년만 문세윤 만난다]]></title>
         <id>https://v.daum.net/v/20240228180029474</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228155253128"/>
         <updated>2024-02-28T07:09:38.800Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈길 끄는 '웨딩 임파서블', 필요한 건 전종서-문상민의 '찐 케미']]></title>
-        <id>https://v.daum.net/v/20240228153538350</id>
-        <link href="https://v.daum.net/v/20240228153538350"/>
-        <updated>2024-02-28T07:09:38.802Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
