@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-28T13:10:29.128Z</updated>
+    <updated>2024-02-28T14:09:11.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['화밤 대기획' 하동근, '남해 이장' 친부와 깜짝 합동 무대]]></title>
+        <id>https://v.daum.net/v/20240228223304126</id>
+        <link href="https://v.daum.net/v/20240228223304126"/>
+        <updated>2024-02-28T14:09:03.115Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['끝내주는 해결사' 이지아, 母 타살 깨닫나 "엄마가 목격자였어?"]]></title>
         <id>https://v.daum.net/v/20240228212125158</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228162312623"/>
         <updated>2024-02-28T08:12:44.205Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현x김지원, 기대 이상의 얼굴 합]]></title>
-        <id>https://v.daum.net/v/20240228161502231</id>
-        <link href="https://v.daum.net/v/20240228161502231"/>
-        <updated>2024-02-28T08:12:44.207Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
