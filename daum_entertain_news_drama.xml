@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-29T03:11:51.841Z</updated>
+    <updated>2024-02-29T04:12:12.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기생충' 이어 한 번 더..정지소, 조여정 딸 된다]]></title>
+        <id>https://v.daum.net/v/20240229125013411</id>
+        <link href="https://v.daum.net/v/20240229125013411"/>
+        <updated>2024-02-29T04:12:03.566Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘밤피꽃’ 시청률 18.4% 인데..이기우 “포상휴가 無, 이렇게 끝내긴 아쉬워”]]></title>
+        <id>https://v.daum.net/v/20240229124509342</id>
+        <link href="https://v.daum.net/v/20240229124509342"/>
+        <updated>2024-02-29T04:12:03.566Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학교폭력은 왜 사라지지 않을까…드라마 '피라미드 게임']]></title>
         <id>https://v.daum.net/v/20240229120039356</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240229110244785"/>
         <updated>2024-02-29T02:14:52.694Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카리나와 열애' 이재욱 측 "인격권 침해 심각…강력 법적대응"]]></title>
-        <id>https://v.daum.net/v/20240229105223293</id>
-        <link href="https://v.daum.net/v/20240229105223293"/>
-        <updated>2024-02-29T02:14:52.694Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사강, 남편상 첫 심경→첫째 딸 댓글 '먹먹'…박지윤 등 응원물결]]></title>
-        <id>https://v.daum.net/v/20240229105002194</id>
-        <link href="https://v.daum.net/v/20240229105002194"/>
-        <updated>2024-02-29T02:14:52.696Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
