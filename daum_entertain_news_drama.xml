@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-02-29T10:11:27.482Z</updated>
+    <updated>2024-02-29T11:09:16.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 윤선우 피습 배후에 충격 "숙부가 질투에 조카를..."]]></title>
+        <id>https://v.daum.net/v/20240229195600801</id>
+        <link href="https://v.daum.net/v/20240229195600801"/>
+        <updated>2024-02-29T11:09:07.454Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우, 안보현과 연기력 맞대결…빼앗긴 시청률 탈환할까]]></title>
+        <id>https://v.daum.net/v/20240229192001251</id>
+        <link href="https://v.daum.net/v/20240229192001251"/>
+        <updated>2024-02-29T11:09:07.454Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여배우가 미스캐스팅…이재욱 마저 흔들린 ‘로얄로더’, 노잼 오명까지]]></title>
         <id>https://v.daum.net/v/20240229191005051</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240229161750218"/>
         <updated>2024-02-29T08:12:19.972Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["캐스팅 잘못했다"…김남주 복귀작 '원더풀월드', '달나라 왕자님' 차은우 연기가 관건]]></title>
-        <id>https://v.daum.net/v/20240229160101581</id>
-        <link href="https://v.daum.net/v/20240229160101581"/>
-        <updated>2024-02-29T07:10:54.867Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모성애에 끌린 김남주, '원더풀 월드'로 6년 만에 복귀]]></title>
-        <id>https://v.daum.net/v/20240229155251214</id>
-        <link href="https://v.daum.net/v/20240229155251214"/>
-        <updated>2024-02-29T07:10:54.871Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
