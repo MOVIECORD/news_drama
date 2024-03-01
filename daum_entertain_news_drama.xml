@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-01T10:10:46.025Z</updated>
+    <updated>2024-03-01T11:08:40.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송하윤 "21년간 우울증 걸려본 적 없어, 내가 건강해야 연기도 건강하죠"]]></title>
+        <id>https://v.daum.net/v/20240301200101406</id>
+        <link href="https://v.daum.net/v/20240301200101406"/>
+        <updated>2024-03-01T11:08:31.377Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피라미드 게임' 김지연, 장다아·신슬기도 의지한 연기력 A+]]></title>
         <id>https://v.daum.net/v/20240301183416681</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240301134031127"/>
         <updated>2024-03-01T05:10:31.751Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현, 살인 용의자 된 최동구와 철창 대면..'냉랭']]></title>
-        <id>https://v.daum.net/v/20240301133300022</id>
-        <link href="https://v.daum.net/v/20240301133300022"/>
-        <updated>2024-03-01T05:10:31.752Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
