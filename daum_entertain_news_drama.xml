@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-01T07:10:22.551Z</updated>
+    <updated>2024-03-01T08:14:11.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지은 작가라고 하니 벌써 기대되는 김정난·나영희 소비법]]></title>
+        <id>https://v.daum.net/v/20240301165335369</id>
+        <link href="https://v.daum.net/v/20240301165335369"/>
+        <updated>2024-03-01T08:13:09.843Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['재벌X형사' 안보현, 하나뿐인 절친과 살인 용의자로 조우 '충격']]></title>
+        <id>https://v.daum.net/v/20240301161258803</id>
+        <link href="https://v.daum.net/v/20240301161258803"/>
+        <updated>2024-03-01T08:13:09.846Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조정석, 멜로가 체질]]></title>
         <id>https://v.daum.net/v/20240301151617804</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240301133012972"/>
         <updated>2024-03-01T05:10:31.753Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기가 로기완에게 "모든 게 나 때문이다?..누구나 행복할 자격 있다"]]></title>
-        <id>https://v.daum.net/v/20240301125000299</id>
-        <link href="https://v.daum.net/v/20240301125000299"/>
-        <updated>2024-03-01T04:14:17.391Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주 연기x차은우 얼굴 보자..'원더풀월드', '연인' '밤피꽃' 흥행 이을까]]></title>
-        <id>https://v.daum.net/v/20240301124023180</id>
-        <link href="https://v.daum.net/v/20240301124023180"/>
-        <updated>2024-03-01T04:14:17.392Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
