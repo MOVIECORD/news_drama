@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-01T15:10:40.319Z</updated>
+    <updated>2024-03-01T16:11:51.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['첫방' 김남주, 子 뺑소니범 차로 쳤다…"왜 내 차에 죽냐" 막말에 '분노']]></title>
+        <id>https://v.daum.net/v/20240302002003307</id>
+        <link href="https://v.daum.net/v/20240302002003307"/>
+        <updated>2024-03-01T16:11:43.806Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕' 김수현·김지원, 3년차 부부로…"미워도 다시 한번"]]></title>
         <id>https://v.daum.net/v/20240301234007032</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240301203126647</id>
         <link href="https://v.daum.net/v/20240301203126647"/>
         <updated>2024-03-01T12:17:24.035Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이' 하연주, 이소연에 울분 "베프에게 배신 당해"]]></title>
-        <id>https://v.daum.net/v/20240301201827546</id>
-        <link href="https://v.daum.net/v/20240301201827546"/>
-        <updated>2024-03-01T12:17:24.036Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
