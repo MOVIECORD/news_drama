@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-02T17:07:52.899Z</updated>
+    <updated>2024-03-02T18:12:40.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더플 월드' 차은우, 강동원 우산씬 오마쥬 어색하지 않네]]></title>
+        <id>https://v.daum.net/v/20240303023341076</id>
+        <link href="https://v.daum.net/v/20240303023341076"/>
+        <updated>2024-03-02T18:12:31.910Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘세작’ 조정석→신세경 “아름답게 담긴 최종회 엔딩, 가장 인상 깊어” 종영소감]]></title>
         <id>https://v.daum.net/v/20240303015907960</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302230305336"/>
         <updated>2024-03-02T14:08:49.896Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세트장 살인사건' 이나은에, "루머 쏟아져…매니저가 스토커였다" 섬뜩]]></title>
-        <id>https://v.daum.net/v/20240302230005311</id>
-        <link href="https://v.daum.net/v/20240302230005311"/>
-        <updated>2024-03-02T14:08:49.898Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
