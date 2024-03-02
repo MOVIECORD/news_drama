@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-02T15:10:27.267Z</updated>
+    <updated>2024-03-02T16:11:36.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, ♥김남주와 운명적 만남 시작]]></title>
+        <id>https://v.daum.net/v/20240303003414723</id>
+        <link href="https://v.daum.net/v/20240303003414723"/>
+        <updated>2024-03-02T16:11:27.342Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세작' 장영남, 신세경 女 정체 알았다→옷 벗기다가 조정석에 들통]]></title>
         <id>https://v.daum.net/v/20240303000756635</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302225725305"/>
         <updated>2024-03-02T14:08:49.899Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“선처 바라지 않아”…김남주, 보복 살인으로 징역]]></title>
-        <id>https://v.daum.net/v/20240302225701302</id>
-        <link href="https://v.daum.net/v/20240302225701302"/>
-        <updated>2024-03-02T14:08:49.899Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
