@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-02T10:09:24.781Z</updated>
+    <updated>2024-03-02T11:08:59.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 고주원, 하준에 "부모님 죽인 사람 이휘향"]]></title>
+        <id>https://v.daum.net/v/20240302200840373</id>
+        <link href="https://v.daum.net/v/20240302200840373"/>
+        <updated>2024-03-02T11:08:51.871Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우, 빗속의 찬란한 '우산남'…슬픔 담긴 촉촉한 눈빛]]></title>
+        <id>https://v.daum.net/v/20240302193805155</id>
+        <link href="https://v.daum.net/v/20240302193805155"/>
+        <updated>2024-03-02T11:08:51.871Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌형사’ 안보현, 여배우 살해 진범 신박하게 밝힌다]]></title>
         <id>https://v.daum.net/v/20240302173710097</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240302133417780"/>
         <updated>2024-03-02T05:10:00.696Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음 흔들린 이설, 이동해와의 약속 끝까지 지켰다 ‘짜릿 엔딩’]]></title>
-        <id>https://v.daum.net/v/20240302132719728</id>
-        <link href="https://v.daum.net/v/20240302132719728"/>
-        <updated>2024-03-02T05:10:00.698Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원더풀 월드’ 차은우 본격 등판, 김남주와 무덤 앞 첫 만남]]></title>
-        <id>https://v.daum.net/v/20240302130713610</id>
-        <link href="https://v.daum.net/v/20240302130713610"/>
-        <updated>2024-03-02T04:11:40.696Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
