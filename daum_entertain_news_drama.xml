@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-03T01:44:55.044Z</updated>
+    <updated>2024-03-03T02:18:25.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닥터슬럼프’ 박신혜♥박형식, 다시 시작된 ‘소확행’ 현실 연애…전국 5.7%]]></title>
+        <id>https://v.daum.net/v/20240303105704971</id>
+        <link href="https://v.daum.net/v/20240303105704971"/>
+        <updated>2024-03-03T02:18:17.717Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 강동원 이어 2024 새롭게 등장한 '우산 남신']]></title>
         <id>https://v.daum.net/v/20240303104026677</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240303090034002"/>
         <updated>2024-03-03T00:44:48.213Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["웃통 벗은 이이경, 어쩌려고?"..공민정 밝힌 '내남결' 흥행 이유]]></title>
-        <id>https://v.daum.net/v/20240303090002936</id>
-        <link href="https://v.daum.net/v/20240303090002936"/>
-        <updated>2024-03-03T00:44:48.213Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
