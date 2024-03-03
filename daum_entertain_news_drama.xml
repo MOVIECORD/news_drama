@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-03T07:08:43.626Z</updated>
+    <updated>2024-03-03T08:14:12.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오만석, 김남주 마음에 비수 꽂은 '분노 유발자'..특별출연에 시선 싹쓸이]]></title>
+        <id>https://v.daum.net/v/20240303163109789</id>
+        <link href="https://v.daum.net/v/20240303163109789"/>
+        <updated>2024-03-03T08:13:10.581Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밤에 피는 꽃' 정용주가 마음속에 간직한 꽃봉오리]]></title>
         <id>https://v.daum.net/v/20240303160013238</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240303132058164"/>
         <updated>2024-03-03T05:09:57.440Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준, 유이 앞 무릎 꿇었다…드디어 로맨틱 프러포즈]]></title>
-        <id>https://v.daum.net/v/20240303130925009</id>
-        <link href="https://v.daum.net/v/20240303130925009"/>
-        <updated>2024-03-03T04:12:59.195Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
