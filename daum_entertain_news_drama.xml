@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-04T06:59:06.629Z</updated>
+    <updated>2024-03-04T07:56:28.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["힙합 이즈 낫 데드"…'랩컵', '쇼미더머니' 빈자리 메울까]]></title>
+        <id>https://v.daum.net/v/20240304164839799</id>
+        <link href="https://v.daum.net/v/20240304164839799"/>
+        <updated>2024-03-04T07:56:19.374Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽉 잡아..김하늘이 '멱살' 잡고 캐리한다]]></title>
+        <id>https://v.daum.net/v/20240304160340058</id>
+        <link href="https://v.daum.net/v/20240304160340058"/>
+        <updated>2024-03-04T07:56:19.376Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피도 눈물도 없이' 이소연·오창석·장세현, 마침내 삼자대면]]></title>
         <id>https://v.daum.net/v/20240304155502583</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240304141829468"/>
         <updated>2024-03-04T05:44:06.003Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려거란전쟁', 8일 종방연…10개월 대장정 마침표]]></title>
-        <id>https://v.daum.net/v/20240304125603692</id>
-        <link href="https://v.daum.net/v/20240304125603692"/>
-        <updated>2024-03-04T04:39:41.302Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS, '고려거란전쟁' 후속 준비…대하사극 2025년 방송 목표]]></title>
-        <id>https://v.daum.net/v/20240304125010607</id>
-        <link href="https://v.daum.net/v/20240304125010607"/>
-        <updated>2024-03-04T04:39:41.303Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
