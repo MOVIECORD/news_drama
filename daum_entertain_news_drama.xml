@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-04T03:44:43.926Z</updated>
+    <updated>2024-03-04T04:40:43.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁', 8일 종방연…10개월 대장정 마침표]]></title>
+        <id>https://v.daum.net/v/20240304125603692</id>
+        <link href="https://v.daum.net/v/20240304125603692"/>
+        <updated>2024-03-04T04:39:41.302Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS, '고려거란전쟁' 후속 준비…대하사극 2025년 방송 목표]]></title>
+        <id>https://v.daum.net/v/20240304125010607</id>
+        <link href="https://v.daum.net/v/20240304125010607"/>
+        <updated>2024-03-04T04:39:41.303Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남주, 6년을 어떻게 참았나…공백기 무색한 '원더풀 열연']]></title>
+        <id>https://v.daum.net/v/20240304124651487</id>
+        <link href="https://v.daum.net/v/20240304124651487"/>
+        <updated>2024-03-04T04:39:41.303Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피라미드 게임', 단 4회 만에 학원 심리 스릴러의 진가 발휘→호평 일색]]></title>
         <id>https://v.daum.net/v/20240304122848133</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240304103710952"/>
         <updated>2024-03-04T01:59:06.614Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기생수: 더 그레이' 연상호 감독 "원작 세계관 토대로 확장시킨 이야기"]]></title>
-        <id>https://v.daum.net/v/20240304101357855</id>
-        <link href="https://v.daum.net/v/20240304101357855"/>
-        <updated>2024-03-04T01:59:06.614Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서, 20억 출연료 계약 체결]]></title>
-        <id>https://v.daum.net/v/20240304095818038</id>
-        <link href="https://v.daum.net/v/20240304095818038"/>
-        <updated>2024-03-04T01:59:06.615Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려거란전쟁’ 논란 속 KBS, 후속 대하사극 내놓는다 “2025년 목표”]]></title>
-        <id>https://v.daum.net/v/20240304094308381</id>
-        <link href="https://v.daum.net/v/20240304094308381"/>
-        <updated>2024-03-04T01:59:06.616Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
