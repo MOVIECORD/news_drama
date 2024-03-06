@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-06T02:15:35.567Z</updated>
+    <updated>2024-03-06T03:11:26.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄기준 또 얼굴 갈아끼웠다..'7인의 부활' 덮기준 매튜리 부활]]></title>
+        <id>https://v.daum.net/v/20240306120627994</id>
+        <link href="https://v.daum.net/v/20240306120627994"/>
+        <updated>2024-03-06T03:10:24.637Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[믿보영과 이무생로랑의 만남..'하이드', 압도적 스틸+빈틈없는 열연]]></title>
+        <id>https://v.daum.net/v/20240306113857948</id>
+        <link href="https://v.daum.net/v/20240306113857948"/>
+        <updated>2024-03-06T03:10:24.637Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고려거란전쟁' 최수종, 피날레 장식할 활약..'사극 대가'의 품격]]></title>
         <id>https://v.daum.net/v/20240306110115060</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240306083902167"/>
         <updated>2024-03-06T00:42:40.168Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60배 묻고 더블로 가! tvN 공무원 된 공민정 "양주란처럼 쭈구리 면모 있죠"]]></title>
-        <id>https://v.daum.net/v/20240306083102969</id>
-        <link href="https://v.daum.net/v/20240306083102969"/>
-        <updated>2024-03-06T00:42:40.170Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["좋아하나 보죠" 문상민, '예비형수' 전종서 유혹 작전 ON]]></title>
-        <id>https://v.daum.net/v/20240306082413783</id>
-        <link href="https://v.daum.net/v/20240306082413783"/>
-        <updated>2024-03-06T00:42:40.171Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
