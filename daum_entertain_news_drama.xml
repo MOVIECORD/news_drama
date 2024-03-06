@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-06T21:09:17.338Z</updated>
+    <updated>2024-03-06T22:10:08.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회당 10억 제작비?…토종 OTT가 살아남는 법]]></title>
+        <id>https://v.daum.net/v/20240307070016126</id>
+        <link href="https://v.daum.net/v/20240307070016126"/>
+        <updated>2024-03-06T22:09:58.484Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오민석X나영희, 이지아 '불신지옥 이간질 작전'에 '나락行']]></title>
+        <id>https://v.daum.net/v/20240307063408849</id>
+        <link href="https://v.daum.net/v/20240307063408849"/>
+        <updated>2024-03-06T22:09:58.485Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전종서, 이런 ‘로코 여주’는 처음이야]]></title>
+        <id>https://v.daum.net/v/20240307063021808</id>
+        <link href="https://v.daum.net/v/20240307063021808"/>
+        <updated>2024-03-06T22:09:58.485Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힘 빠진 ‘고려거란전쟁’…남은 2회 유종의 미 거둘까]]></title>
+        <id>https://v.daum.net/v/20240307063016801</id>
+        <link href="https://v.daum.net/v/20240307063016801"/>
+        <updated>2024-03-06T22:09:58.486Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 다음은 여기?…아마존, K콘텐츠 새 발판으로]]></title>
         <id>https://v.daum.net/v/20240307060105438</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240306172626650"/>
         <updated>2024-03-06T09:10:32.653Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이포엠스튜디오, 日 종합엔터테인먼트 기업 KADOKAWA와 합작회사 설립]]></title>
-        <id>https://v.daum.net/v/20240306171713358</id>
-        <link href="https://v.daum.net/v/20240306171713358"/>
-        <updated>2024-03-06T09:10:32.653Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차은우와 호흡' 김남주, 6년 만에 컴백한 여왕…확실한 이름값]]></title>
-        <id>https://v.daum.net/v/20240306164202882</id>
-        <link href="https://v.daum.net/v/20240306164202882"/>
-        <updated>2024-03-06T08:13:55.479Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차승원→김선호 '폭군', 영화 아닌 4부작 시리즈 공개 확정]]></title>
-        <id>https://v.daum.net/v/20240306162914417</id>
-        <link href="https://v.daum.net/v/20240306162914417"/>
-        <updated>2024-03-06T08:13:55.479Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀주대첩' 영웅 최수종, '고려거란전쟁' 스페셜 출연 불발]]></title>
-        <id>https://v.daum.net/v/20240306161847951</id>
-        <link href="https://v.daum.net/v/20240306161847951"/>
-        <updated>2024-03-06T08:13:55.483Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
