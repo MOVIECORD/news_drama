@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-06T05:10:04.098Z</updated>
+    <updated>2024-03-06T06:14:15.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박철민 이승연→김용림 ‘용감무쌍 용수정’ 출연, 관록있는 연기 더한다]]></title>
+        <id>https://v.daum.net/v/20240306144402351</id>
+        <link href="https://v.daum.net/v/20240306144402351"/>
+        <updated>2024-03-06T06:14:06.313Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘끝내주는 해결사’ 호랑이굴에 들어간 이지아, 큰 그림 성공하나]]></title>
         <id>https://v.daum.net/v/20240306140609987</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240306110115060"/>
         <updated>2024-03-06T02:15:26.216Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피라미드 게임' 원작 작가 "김지연·장다아·신슬기 연기 굉장히 매력적"]]></title>
-        <id>https://v.daum.net/v/20240306101051559</id>
-        <link href="https://v.daum.net/v/20240306101051559"/>
-        <updated>2024-03-06T01:42:06.356Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
