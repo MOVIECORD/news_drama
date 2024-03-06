@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-06T01:43:08.392Z</updated>
+    <updated>2024-03-06T02:15:35.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁' 최수종, 피날레 장식할 활약..'사극 대가'의 품격]]></title>
+        <id>https://v.daum.net/v/20240306110115060</id>
+        <link href="https://v.daum.net/v/20240306110115060"/>
+        <updated>2024-03-06T02:15:26.216Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피라미드 게임' 원작 작가 "김지연·장다아·신슬기 연기 굉장히 매력적"]]></title>
         <id>https://v.daum.net/v/20240306101051559</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240306082413783"/>
         <updated>2024-03-06T00:42:40.171Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 짜장면만 먹는데 '1천만뷰'...미공개컷 떴다]]></title>
-        <id>https://v.daum.net/v/20240306081811651</id>
-        <link href="https://v.daum.net/v/20240306081811651"/>
-        <updated>2024-03-06T00:42:40.173Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
