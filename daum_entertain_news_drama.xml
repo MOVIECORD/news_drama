@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T01:28:14.362Z</updated>
+    <updated>2024-03-07T02:09:46.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식♥박신혜, 단짠 모멘트…'닥터슬럼프' 넷플릭스 순위 상승]]></title>
+        <id>https://v.daum.net/v/20240307110905144</id>
+        <link href="https://v.daum.net/v/20240307110905144"/>
+        <updated>2024-03-07T02:09:36.894Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형식♥︎박신혜 ‘닥터슬럼프’, 넷플릭스 글로벌 TOP10 순위 상승 6위→3위]]></title>
+        <id>https://v.daum.net/v/20240307110649028</id>
+        <link href="https://v.daum.net/v/20240307110649028"/>
+        <updated>2024-03-07T02:09:36.894Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아･강기영, 본격 복수..장모 죽인 오민석 궁지 내몰았다]]></title>
         <id>https://v.daum.net/v/20240307100506836</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240307090942645"/>
         <updated>2024-03-07T00:35:15.685Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음, 이혼 감정 폭발하나 "지금까지 보여준 적 없는 모습"]]></title>
-        <id>https://v.daum.net/v/20240307090634536</id>
-        <link href="https://v.daum.net/v/20240307090634536"/>
-        <updated>2024-03-07T00:35:15.685Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑화한 황정음, 다시 한번 화려한 성공 꿈꾼다]]></title>
-        <id>https://v.daum.net/v/20240307090634535</id>
-        <link href="https://v.daum.net/v/20240307090634535"/>
-        <updated>2024-03-07T00:35:15.686Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
