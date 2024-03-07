@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T16:11:41.280Z</updated>
+    <updated>2024-03-07T17:11:01.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 유아 “엄청난 장신구 필요 없다…일 안 하고 살고 싶어”]]></title>
+        <id>https://v.daum.net/v/20240308014801160</id>
+        <link href="https://v.daum.net/v/20240308014801160"/>
+        <updated>2024-03-07T17:09:59.592Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스트롯3' 정서주, 22점차 우승→3억 주인공…2위 배아현·3위 오유진]]></title>
         <id>https://v.daum.net/v/20240308003655917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307172541123"/>
         <updated>2024-03-07T09:08:49.571Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지아 "생동감 넘치는 캐릭터 감사…후련함, 통쾌함 잘 전달되길"]]></title>
-        <id>https://v.daum.net/v/20240307171331696</id>
-        <link href="https://v.daum.net/v/20240307171331696"/>
-        <updated>2024-03-07T09:08:49.572Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
