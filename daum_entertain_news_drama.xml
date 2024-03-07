@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T09:08:56.407Z</updated>
+    <updated>2024-03-07T10:10:03.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장다아 화제성만?..'피라미드게임' 몰입도 높이는 김지연]]></title>
+        <id>https://v.daum.net/v/20240307183745428</id>
+        <link href="https://v.daum.net/v/20240307183745428"/>
+        <updated>2024-03-07T10:09:54.252Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고윤정 웃고 홍수주 울었다…외모로 떴지만 연기력으로 엇갈린 성적표]]></title>
         <id>https://v.daum.net/v/20240307180102393</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307145619017"/>
         <updated>2024-03-07T06:14:09.171Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현♥김지원 '눈물의 여왕', tvN 역대 최고 '사랑불' 넘을까]]></title>
-        <id>https://v.daum.net/v/20240307145002720</id>
-        <link href="https://v.daum.net/v/20240307145002720"/>
-        <updated>2024-03-07T06:14:09.171Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
