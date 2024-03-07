@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T07:09:16.306Z</updated>
+    <updated>2024-03-07T08:10:28.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재벌집'·'내남결'→'선재'까지…회귀물 흥행 신화 계속될까]]></title>
+        <id>https://v.daum.net/v/20240307171005582</id>
+        <link href="https://v.daum.net/v/20240307171005582"/>
+        <updated>2024-03-07T08:10:21.034Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임재혁, 15년 절친 윤예주에 고백…어색한 침묵 어쩌나]]></title>
+        <id>https://v.daum.net/v/20240307170448326</id>
+        <link href="https://v.daum.net/v/20240307170448326"/>
+        <updated>2024-03-07T08:10:21.034Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김수현 씨, 제 목소리 적응됐나요?" 박경림 투혼, '눈물의 여왕' 팀도 감동]]></title>
         <id>https://v.daum.net/v/20240307155002550</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240307144256387"/>
         <updated>2024-03-07T06:14:09.178Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['흑화 중 흑화 제대로' 황정음, '이영돈 불륜' 폭로 후 첫 근황]]></title>
-        <id>https://v.daum.net/v/20240307142949712</id>
-        <link href="https://v.daum.net/v/20240307142949712"/>
-        <updated>2024-03-07T06:14:09.180Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지구마불2' 곽튜브 "김태호, 존경하는 아버지…시즌2 영광이다"]]></title>
-        <id>https://v.daum.net/v/20240307142606570</id>
-        <link href="https://v.daum.net/v/20240307142606570"/>
-        <updated>2024-03-07T06:14:09.183Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
