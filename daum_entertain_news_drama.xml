@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-07T13:10:03.821Z</updated>
+    <updated>2024-03-07T14:10:36.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종영' 이지아♥강기영, '5년 기한' 결혼→오민석 살인죄 인정]]></title>
+        <id>https://v.daum.net/v/20240307222429948</id>
+        <link href="https://v.daum.net/v/20240307222429948"/>
+        <updated>2024-03-07T14:10:28.019Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아, 오민석에 복수 성공→♥강기영과 삼혼 ‘인생 파트너’ 됐다]]></title>
         <id>https://v.daum.net/v/20240307220626787</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307171005582"/>
         <updated>2024-03-07T08:10:21.034Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임재혁, 15년 절친 윤예주에 고백…어색한 침묵 어쩌나]]></title>
-        <id>https://v.daum.net/v/20240307170448326</id>
-        <link href="https://v.daum.net/v/20240307170448326"/>
-        <updated>2024-03-07T08:10:21.034Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
