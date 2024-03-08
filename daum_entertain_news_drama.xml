@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-08T01:41:49.130Z</updated>
+    <updated>2024-03-08T02:17:04.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현·김지원 '눈물의 여왕' 첫 방송 D-1..웃음→가족애 시너지 예고]]></title>
+        <id>https://v.daum.net/v/20240308104510982</id>
+        <link href="https://v.daum.net/v/20240308104510982"/>
+        <updated>2024-03-08T02:16:57.655Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현♥김지원만 있나? 세기의 사돈싸움 발발]]></title>
+        <id>https://v.daum.net/v/20240308104157821</id>
+        <link href="https://v.daum.net/v/20240308104157821"/>
+        <updated>2024-03-08T02:16:57.656Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['끝내주는 해결사' 강기영 종영소감 "첫 로맨스, 설렌다는 반응에 자신감 얻어"]]></title>
         <id>https://v.daum.net/v/20240308094702502</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240308084201216"/>
         <updated>2024-03-08T00:42:27.212Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 김남주와 두 번째 만남 '긴장감 폭발'…서늘한 눈빛]]></title>
-        <id>https://v.daum.net/v/20240308084031184</id>
-        <link href="https://v.daum.net/v/20240308084031184"/>
-        <updated>2024-03-08T00:42:27.213Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현, 대낮에 사이비 신도 활동]]></title>
-        <id>https://v.daum.net/v/20240308083736087</id>
-        <link href="https://v.daum.net/v/20240308083736087"/>
-        <updated>2024-03-08T00:42:27.214Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
