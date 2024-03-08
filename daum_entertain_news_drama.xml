@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-08T21:09:57.118Z</updated>
+    <updated>2024-03-08T22:10:54.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["잘 사는 것 같아?"…'원더풀월드' 차은우, 김남주에 일기장 받고 분노]]></title>
+        <id>https://v.daum.net/v/20240309065422851</id>
+        <link href="https://v.daum.net/v/20240309065422851"/>
+        <updated>2024-03-08T22:10:46.805Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["네 편 할게. 믿어" 안보현, 징계 받은 박지현에 '진심 위로']]></title>
+        <id>https://v.daum.net/v/20240309064106772</id>
+        <link href="https://v.daum.net/v/20240309064106772"/>
+        <updated>2024-03-08T22:10:46.807Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내가 치트키"...'재벌X형사' 안보현, 미워할 수 없는 자신감]]></title>
+        <id>https://v.daum.net/v/20240309064003765</id>
+        <link href="https://v.daum.net/v/20240309064003765"/>
+        <updated>2024-03-08T22:10:46.811Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘원더풀 월드’ 김남주, 비슷한 아픔 지닌 차은우와 만났다…“살아가길 바라는 마음에서”]]></title>
         <id>https://v.daum.net/v/20240309060308560</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20240308223624917</id>
         <link href="https://v.daum.net/v/20240308223624917"/>
         <updated>2024-03-08T14:10:03.890Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 차은우, 김남주에 분노 "내가 잘 사는 것 같냐"]]></title>
-        <id>https://v.daum.net/v/20240308223327896</id>
-        <link href="https://v.daum.net/v/20240308223327896"/>
-        <updated>2024-03-08T14:10:03.891Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 비 맞는 김남주에 우산 씌워주며 첫 만남 "子, 마음 아파할 것"]]></title>
-        <id>https://v.daum.net/v/20240308223015879</id>
-        <link href="https://v.daum.net/v/20240308223015879"/>
-        <updated>2024-03-08T14:10:03.894Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 안보현 "엄마 미안해, 꼭 지켜봐줘" 애틋]]></title>
-        <id>https://v.daum.net/v/20240308221541790</id>
-        <link href="https://v.daum.net/v/20240308221541790"/>
-        <updated>2024-03-08T14:10:03.895Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
