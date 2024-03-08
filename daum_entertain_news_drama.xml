@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-08T09:11:18.916Z</updated>
+    <updated>2024-03-08T10:12:41.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현♥김지원 오고 김남주와 경쟁…안보현 '재벌X형사', 시청률 10% 회복할까]]></title>
+        <id>https://v.daum.net/v/20240308190106266</id>
+        <link href="https://v.daum.net/v/20240308190106266"/>
+        <updated>2024-03-08T10:12:31.930Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광희, 김지은·로몬 갈등 해결하는 키포인트 될까]]></title>
+        <id>https://v.daum.net/v/20240308182321685</id>
+        <link href="https://v.daum.net/v/20240308182321685"/>
+        <updated>2024-03-08T10:12:31.930Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안소요, 김지연 위해 희생했다..학교폭력 정면 돌파]]></title>
+        <id>https://v.daum.net/v/20240308181313498</id>
+        <link href="https://v.daum.net/v/20240308181313498"/>
+        <updated>2024-03-08T10:12:31.930Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 맨발로 개천에 들어갔다..애절 눈빛에 시청자들 ‘심쿵’]]></title>
         <id>https://v.daum.net/v/20240308173209509</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240308143007281"/>
         <updated>2024-03-08T06:12:28.014Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고려거란전쟁’ 현종 김동준, 두 번의 몽진은 없다]]></title>
-        <id>https://v.daum.net/v/20240308140928541</id>
-        <link href="https://v.daum.net/v/20240308140928541"/>
-        <updated>2024-03-08T05:10:48.648Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세' 오정세, 김수현과 재회..'눈물의 여왕' 특별 출연]]></title>
-        <id>https://v.daum.net/v/20240308140131282</id>
-        <link href="https://v.daum.net/v/20240308140131282"/>
-        <updated>2024-03-08T05:10:48.648Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박상원→이일화까지 얽히고 설킨 ‘고윤 패밀리’]]></title>
-        <id>https://v.daum.net/v/20240308140035243</id>
-        <link href="https://v.daum.net/v/20240308140035243"/>
-        <updated>2024-03-08T05:10:48.649Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
