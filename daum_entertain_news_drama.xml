@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-09T10:11:06.835Z</updated>
+    <updated>2024-03-09T11:10:40.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['효심이네' 유이, 집 나간 父 남경읍과 재회…못 알아봐 '실망']]></title>
+        <id>https://v.daum.net/v/20240309200835088</id>
+        <link href="https://v.daum.net/v/20240309200835088"/>
+        <updated>2024-03-09T11:10:31.337Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현 '1주 천하' 끝났다…김남주 이어 김수현까지, 위태로운 정상의 자리]]></title>
         <id>https://v.daum.net/v/20240309190101594</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240309151929474</id>
         <link href="https://v.daum.net/v/20240309151929474"/>
         <updated>2024-03-09T07:08:46.899Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종, 20만 대군 이끌고 최후 전투 나선다..대망의 ‘귀주대첩’ 서막]]></title>
-        <id>https://v.daum.net/v/20240309150904371</id>
-        <link href="https://v.daum.net/v/20240309150904371"/>
-        <updated>2024-03-09T06:14:12.306Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
