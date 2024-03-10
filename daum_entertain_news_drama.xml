@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-10T07:09:25.601Z</updated>
+    <updated>2024-03-10T08:12:34.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중갑기병 도착!..최수종 감격의 눈물..드디어 '귀주대첩' 피날레]]></title>
+        <id>https://v.daum.net/v/20240310164118058</id>
+        <link href="https://v.daum.net/v/20240310164118058"/>
+        <updated>2024-03-10T08:12:26.883Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터슬럼프' 박신혜♥박형식, 오동민 사망 후 다시 찾은 일상..후유증은 여전]]></title>
         <id>https://v.daum.net/v/20240310155423035</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240310132538991"/>
         <updated>2024-03-10T05:09:23.261Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“각자도생이라면서‥”‥‘효심이네’ 유이, 결혼 미루고 父 간이식 해주나?]]></title>
-        <id>https://v.daum.net/v/20240310131642851</id>
-        <link href="https://v.daum.net/v/20240310131642851"/>
-        <updated>2024-03-10T05:09:23.262Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
