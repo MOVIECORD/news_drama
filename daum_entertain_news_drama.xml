@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-11T17:10:03.070Z</updated>
+    <updated>2024-03-11T18:12:37.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김하늘·연우진·장승조, 3색 ‘멱살’ 키워드 미리 보기]]></title>
+        <id>https://v.daum.net/v/20240312030008080</id>
+        <link href="https://v.daum.net/v/20240312030008080"/>
+        <updated>2024-03-11T18:12:28.320Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장다아, 사랑스럽다가 서늘해졌다가…발레 비하인드컷 공개]]></title>
         <id>https://v.daum.net/v/20240312020007034</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311211249827"/>
         <updated>2024-03-11T12:17:12.711Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영훈 "문상민 안광 별로..너무 이글거려" 디스]]></title>
-        <id>https://v.daum.net/v/20240311210946798</id>
-        <link href="https://v.daum.net/v/20240311210946798"/>
-        <updated>2024-03-11T12:17:12.712Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
