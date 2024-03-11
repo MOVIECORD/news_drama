@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-11T22:09:13.437Z</updated>
+    <updated>2024-03-11T23:11:18.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지배종’ 얼굴 또 바꾼 한효주, 냉철한 CEO 변신]]></title>
+        <id>https://v.daum.net/v/20240312081018419</id>
+        <link href="https://v.daum.net/v/20240312081018419"/>
+        <updated>2024-03-11T23:11:09.226Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁' 측 "귀주대첩 의도적 편집? 사실무근"]]></title>
+        <id>https://v.daum.net/v/20240312072904745</id>
+        <link href="https://v.daum.net/v/20240312072904745"/>
+        <updated>2024-03-11T23:11:09.227Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨딩 임파서블' 문상민, 배윤경과 정략결혼 모른 채 ♥전종서 향한 사랑]]></title>
         <id>https://v.daum.net/v/20240312070018358</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240311222136682"/>
         <updated>2024-03-11T14:09:30.508Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨딩 임파서블' 문상민, 유죄인간 전종서에 제대로 반했다 "미쳤구나"]]></title>
-        <id>https://v.daum.net/v/20240311220230445</id>
-        <link href="https://v.daum.net/v/20240311220230445"/>
-        <updated>2024-03-11T13:10:23.143Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서, 미행 기자 따돌리기 성공 "꽉 잡아라"]]></title>
-        <id>https://v.daum.net/v/20240311215644362</id>
-        <link href="https://v.daum.net/v/20240311215644362"/>
-        <updated>2024-03-11T13:10:23.143Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
