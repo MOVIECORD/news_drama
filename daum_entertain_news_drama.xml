@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-11T03:12:21.529Z</updated>
+    <updated>2024-03-11T04:13:13.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현♥김지원에 끼어든 불청객 박성훈, 아슬아슬한 기류]]></title>
+        <id>https://v.daum.net/v/20240311130415828</id>
+        <link href="https://v.daum.net/v/20240311130415828"/>
+        <updated>2024-03-11T04:13:04.988Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 시절 우리가 사랑한 드라마, ‘수사반장’→‘궁’의 반가운 컴백]]></title>
         <id>https://v.daum.net/v/20240311120301086</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311101308065"/>
         <updated>2024-03-11T01:42:40.555Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“지금부터 형벌의 시간” 황정음→엄기준 ‘7인의 부활’ 2차 티저 공개]]></title>
-        <id>https://v.daum.net/v/20240311101307062</id>
-        <link href="https://v.daum.net/v/20240311101307062"/>
-        <updated>2024-03-11T01:42:40.558Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
