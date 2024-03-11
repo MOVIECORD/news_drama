@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-11T18:12:37.856Z</updated>
+    <updated>2024-03-11T19:09:57.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함은정, 완벽주의 의사 변신 “관련 책 읽으며 환자 대하는 자세 익혔다”]]></title>
+        <id>https://v.daum.net/v/20240312040008419</id>
+        <link href="https://v.daum.net/v/20240312040008419"/>
+        <updated>2024-03-11T19:08:55.701Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김하늘·연우진·장승조, 3색 ‘멱살’ 키워드 미리 보기]]></title>
         <id>https://v.daum.net/v/20240312030008080</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240311213044034</id>
         <link href="https://v.daum.net/v/20240311213044034"/>
         <updated>2024-03-11T13:10:23.145Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨딩 임파서블' 문상민, 만취 고백…전종서 집서 하룻밤]]></title>
-        <id>https://v.daum.net/v/20240311211249827</id>
-        <link href="https://v.daum.net/v/20240311211249827"/>
-        <updated>2024-03-11T12:17:12.711Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
