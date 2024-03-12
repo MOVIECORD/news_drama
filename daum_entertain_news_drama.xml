@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-12T10:10:22.166Z</updated>
+    <updated>2024-03-12T11:08:49.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오세영, 박영운=뺑소니범 진실 알았다... 오승아, 친딸 행방불명에 경악]]></title>
+        <id>https://v.daum.net/v/20240312195330179</id>
+        <link href="https://v.daum.net/v/20240312195330179"/>
+        <updated>2024-03-12T11:08:40.904Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오세영, 딸 김시온 죽인 진범 정체에 충격 "남편이 범인"]]></title>
+        <id>https://v.daum.net/v/20240312193715900</id>
+        <link href="https://v.daum.net/v/20240312193715900"/>
+        <updated>2024-03-12T11:08:40.905Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지아 "김고은 '돈값' 소신, 저도 동의해요"]]></title>
         <id>https://v.daum.net/v/20240312190111254</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240312165025045"/>
         <updated>2024-03-12T08:12:51.851Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["2022년부터 전쟁씬 준비했다"..'고려거란전쟁' 17일 스페셜 방송]]></title>
-        <id>https://v.daum.net/v/20240312163616486</id>
-        <link href="https://v.daum.net/v/20240312163616486"/>
-        <updated>2024-03-12T08:12:51.852Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고거전' 귀주대첩 이끈 김한솔 PD, KBS 퇴사..향후 거취 주목]]></title>
-        <id>https://v.daum.net/v/20240312162757066</id>
-        <link href="https://v.daum.net/v/20240312162757066"/>
-        <updated>2024-03-12T08:12:51.853Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
