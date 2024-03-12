@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-12T20:10:50.507Z</updated>
+    <updated>2024-03-12T21:10:21.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘끝내주는 해결사’ 이지아 “시청자 분들, 발차기는 좀 시원하셨나요?”]]></title>
+        <id>https://v.daum.net/v/20240313055808564</id>
+        <link href="https://v.daum.net/v/20240313055808564"/>
+        <updated>2024-03-12T21:10:13.195Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안보현, 진지함과 능청스러움 오가는 ‘재벌X형사’]]></title>
+        <id>https://v.daum.net/v/20240313052008289</id>
+        <link href="https://v.daum.net/v/20240313052008289"/>
+        <updated>2024-03-12T21:10:13.195Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘고려거란전쟁’ 대하드라마 새 지평 평가 받는 이유]]></title>
         <id>https://v.daum.net/v/20240313020006237</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240312205935603"/>
         <updated>2024-03-12T12:16:36.932Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이' 이소연, 도청기 역이용해 하연주 잡았다 "끝장낼 것"]]></title>
-        <id>https://v.daum.net/v/20240312202700895</id>
-        <link href="https://v.daum.net/v/20240312202700895"/>
-        <updated>2024-03-12T12:16:36.933Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오세영, 임신한 배 주먹으로 내려치며 "♥박영운 아이 밴 것 끔찍"]]></title>
-        <id>https://v.daum.net/v/20240312201659720</id>
-        <link href="https://v.daum.net/v/20240312201659720"/>
-        <updated>2024-03-12T12:16:36.936Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
