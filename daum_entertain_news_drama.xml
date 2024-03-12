@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-12T14:09:26.253Z</updated>
+    <updated>2024-03-12T15:09:57.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함은정·백성현, 파란만장 인생사 2차 티저 공개]]></title>
+        <id>https://v.daum.net/v/20240313000010528</id>
+        <link href="https://v.daum.net/v/20240313000010528"/>
+        <updated>2024-03-12T15:09:48.947Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨딩 임파서블' 배윤정, 문상민에 직진고백 "네 마음 뒤적여봐도 돼?"]]></title>
         <id>https://v.daum.net/v/20240312221259846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240312190111254"/>
         <updated>2024-03-12T10:10:13.239Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장다아→류다인, "오디션으로 뽑은" 신예들 일냈다]]></title>
-        <id>https://v.daum.net/v/20240312183022487</id>
-        <link href="https://v.daum.net/v/20240312183022487"/>
-        <updated>2024-03-12T10:10:13.239Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
