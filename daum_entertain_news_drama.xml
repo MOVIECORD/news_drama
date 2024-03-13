@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-13T17:10:40.230Z</updated>
+    <updated>2024-03-13T18:13:06.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임수향·지현우, 엇갈린 인연 서사 미리보기]]></title>
+        <id>https://v.daum.net/v/20240314030008819</id>
+        <link href="https://v.daum.net/v/20240314030008819"/>
+        <updated>2024-03-13T18:12:04.477Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김하늘·연우진·장승조, 살인사건 연루…첫방 전 미리보는 쟁점3]]></title>
         <id>https://v.daum.net/v/20240314020008758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240313184317296"/>
         <updated>2024-03-13T10:10:30.332Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재 이어 한효주도 국경 넘네…한국 작품 없어! 해외는?]]></title>
-        <id>https://v.daum.net/v/20240313183002979</id>
-        <link href="https://v.daum.net/v/20240313183002979"/>
-        <updated>2024-03-13T10:10:30.332Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
