@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-13T09:11:03.054Z</updated>
+    <updated>2024-03-13T10:10:39.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지아, 이혼 편견 정조준…끝내주는 발차기 한방]]></title>
+        <id>https://v.daum.net/v/20240313190127691</id>
+        <link href="https://v.daum.net/v/20240313190127691"/>
+        <updated>2024-03-13T10:10:30.330Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김유정, 허리가 어디에 있는거야…340만원 원피스인데 짧아진 하체]]></title>
+        <id>https://v.daum.net/v/20240313190119687</id>
+        <link href="https://v.daum.net/v/20240313190119687"/>
+        <updated>2024-03-13T10:10:30.330Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한효주, 오구리슌 만나나…"日 넷플릭스 '로맨틱 어나니머스' 출연"]]></title>
+        <id>https://v.daum.net/v/20240313184317296</id>
+        <link href="https://v.daum.net/v/20240313184317296"/>
+        <updated>2024-03-13T10:10:30.332Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정재 이어 한효주도 국경 넘네…한국 작품 없어! 해외는?]]></title>
+        <id>https://v.daum.net/v/20240313183002979</id>
+        <link href="https://v.daum.net/v/20240313183002979"/>
+        <updated>2024-03-13T10:10:30.332Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하승리 "'고거전' 논란 영향?...그저 맡은 바 열심히"]]></title>
         <id>https://v.daum.net/v/20240313181002410</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240313175407896"/>
         <updated>2024-03-13T09:10:53.845Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야한 사진관' 단골 예약! 주원X권나라 "인생 드라마" 자신 이유]]></title>
-        <id>https://v.daum.net/v/20240313175139848</id>
-        <link href="https://v.daum.net/v/20240313175139848"/>
-        <updated>2024-03-13T09:10:53.845Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남과여' 이동해X이설, 파티장에서 재회..애틋 시선→동업 재개할까]]></title>
-        <id>https://v.daum.net/v/20240313172954137</id>
-        <link href="https://v.daum.net/v/20240313172954137"/>
-        <updated>2024-03-13T09:10:53.845Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘X연우진X장승조, 진짜 '멱살' 잡아야 할 자는 누구일까]]></title>
-        <id>https://v.daum.net/v/20240313172628060</id>
-        <link href="https://v.daum.net/v/20240313172628060"/>
-        <updated>2024-03-13T09:10:53.845Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한효주, 오구리 슌과 日 로코 호흡.."'로맨틱 어나니머스' 캐스팅"]]></title>
-        <id>https://v.daum.net/v/20240313172013860</id>
-        <link href="https://v.daum.net/v/20240313172013860"/>
-        <updated>2024-03-13T09:10:53.846Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
