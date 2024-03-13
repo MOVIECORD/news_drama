@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-13T19:09:36.319Z</updated>
+    <updated>2024-03-13T20:10:05.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“작품 없다”…드라마 불황에 예능으로 향하는 배우들]]></title>
+        <id>https://v.daum.net/v/20240314050003555</id>
+        <link href="https://v.daum.net/v/20240314050003555"/>
+        <updated>2024-03-13T20:09:56.900Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향·지현우, 엇갈린 인연 서사 미리보기]]></title>
         <id>https://v.daum.net/v/20240314030008819</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240313190119687"/>
         <updated>2024-03-13T10:10:30.330Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한효주, 오구리슌 만나나…"日 넷플릭스 '로맨틱 어나니머스' 출연"]]></title>
-        <id>https://v.daum.net/v/20240313184317296</id>
-        <link href="https://v.daum.net/v/20240313184317296"/>
-        <updated>2024-03-13T10:10:30.332Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
