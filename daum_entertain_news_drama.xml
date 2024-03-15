@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-15T03:13:54.269Z</updated>
+    <updated>2024-03-15T04:13:08.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 불법 도박장 포착…퇴폐美 폭발]]></title>
+        <id>https://v.daum.net/v/20240315130343383</id>
+        <link href="https://v.daum.net/v/20240315130343383"/>
+        <updated>2024-03-15T04:12:59.032Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닭강정 된 김유정? 이병헌 감독의 '닭강정', 통할 수 있을까]]></title>
         <id>https://v.daum.net/v/20240315114720845</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240315084712368"/>
         <updated>2024-03-15T00:42:51.075Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현♥︎김지원, 각방 정리하고 같은 침대 쓴다]]></title>
-        <id>https://v.daum.net/v/20240315084515315</id>
-        <link href="https://v.daum.net/v/20240315084515315"/>
-        <updated>2024-03-15T00:42:51.077Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
