@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-15T20:12:17.768Z</updated>
+    <updated>2024-03-15T21:08:23.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘원더풀 월드’ 김남주, 차은우와 악연일까…子 죽인 오만석 아내 병실서 만났다]]></title>
+        <id>https://v.daum.net/v/20240316060308083</id>
+        <link href="https://v.daum.net/v/20240316060308083"/>
+        <updated>2024-03-15T21:08:14.075Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희vs혜리, 주어 빠진 신경전…'당사자' 류준열 입 열까]]></title>
         <id>https://v.daum.net/v/20240316010440978</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240315204330522"/>
         <updated>2024-03-15T12:16:49.963Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하연주, 이소연에 ♥남편 불륜 사진 전송→엘리베이터 추락시켰다]]></title>
-        <id>https://v.daum.net/v/20240315203059300</id>
-        <link href="https://v.daum.net/v/20240315203059300"/>
-        <updated>2024-03-15T12:16:49.964Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
