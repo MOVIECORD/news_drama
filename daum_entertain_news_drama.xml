@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-15T00:43:52.956Z</updated>
+    <updated>2024-03-15T01:43:51.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서범준, KBS 2TV 새 월화드라마 '멱살 한번 잡힙시다' 출연]]></title>
+        <id>https://v.daum.net/v/20240315104223904</id>
+        <link href="https://v.daum.net/v/20240315104223904"/>
+        <updated>2024-03-15T01:43:42.423Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["방부제 미모 깜짝, 전성기 안 끝나" 채시라 10년만에 토크쇼]]></title>
+        <id>https://v.daum.net/v/20240315103520524</id>
+        <link href="https://v.daum.net/v/20240315103520524"/>
+        <updated>2024-03-15T01:43:42.424Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이광희, 파격적인 MZ 재벌로 180도 변신 성공]]></title>
+        <id>https://v.daum.net/v/20240315100205089</id>
+        <link href="https://v.daum.net/v/20240315100205089"/>
+        <updated>2024-03-15T01:43:42.425Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“몰랐던 역사, 죄스러워”..‘고거전’ 김동준, 연기력논란→최우수상의 무게]]></title>
         <id>https://v.daum.net/v/20240315093919158</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240315081701643"/>
         <updated>2024-03-15T00:42:51.084Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현, 가족이 범죄 연루? 본가에서 시신 나와 충격]]></title>
-        <id>https://v.daum.net/v/20240315081133533</id>
-        <link href="https://v.daum.net/v/20240315081133533"/>
-        <updated>2024-03-15T00:42:51.085Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주, 김강우 불륜녀 차수연과 맞대면 ‘싸늘’]]></title>
-        <id>https://v.daum.net/v/20240315080824456</id>
-        <link href="https://v.daum.net/v/20240315080824456"/>
-        <updated>2024-03-14T23:10:13.220Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고거전' 양규장군 지승현, '개콘'서 고민 상담… "로코 하고파"]]></title>
-        <id>https://v.daum.net/v/20240315075457217</id>
-        <link href="https://v.daum.net/v/20240315075457217"/>
-        <updated>2024-03-14T23:10:13.222Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
