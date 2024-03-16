@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-16T17:08:54.082Z</updated>
+    <updated>2024-03-16T18:11:59.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현, 박지은 작가 부탁 없어도 완벽한 복근, 청초한 미모 준비 완료]]></title>
+        <id>https://v.daum.net/v/20240317030620670</id>
+        <link href="https://v.daum.net/v/20240317030620670"/>
+        <updated>2024-03-16T18:11:50.935Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오현경, 일일드라마 첫 도전 “출생의 비밀=관전포인트”]]></title>
         <id>https://v.daum.net/v/20240317020007648</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240316224809911"/>
         <updated>2024-03-16T14:08:11.618Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원, ♥김수현에 키스 "안 하던 거 하고 살 것"]]></title>
-        <id>https://v.daum.net/v/20240316223934854</id>
-        <link href="https://v.daum.net/v/20240316223934854"/>
-        <updated>2024-03-16T14:08:11.618Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
