@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-16T09:10:16.408Z</updated>
+    <updated>2024-03-16T10:11:16.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["당신 살인자잖아" 차은우, 김남주와 냉랭 기류..적대관계 되나]]></title>
+        <id>https://v.daum.net/v/20240316184959678</id>
+        <link href="https://v.daum.net/v/20240316184959678"/>
+        <updated>2024-03-16T10:11:08.992Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형식·박신혜 '닥터슬럼프', 종영까지 2회…막방 효과로 10% 넘을까]]></title>
         <id>https://v.daum.net/v/20240316180102100</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240316135425752"/>
         <updated>2024-03-16T05:10:27.914Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효심이네', "유이는 왜 사라졌을까?"..남은 2회 관전 포인트]]></title>
-        <id>https://v.daum.net/v/20240316134512626</id>
-        <link href="https://v.daum.net/v/20240316134512626"/>
-        <updated>2024-03-16T05:10:27.914Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
