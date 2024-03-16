@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-16T03:11:36.299Z</updated>
+    <updated>2024-03-16T04:11:37.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 김남주에 독설 “당신 살인자잖아”]]></title>
+        <id>https://v.daum.net/v/20240316130545211</id>
+        <link href="https://v.daum.net/v/20240316130545211"/>
+        <updated>2024-03-16T04:11:28.887Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공승연 측 "손호준과 열애? 사실무근"]]></title>
         <id>https://v.daum.net/v/20240316121104761</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240316094556240"/>
         <updated>2024-03-16T01:40:03.913Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 아내 김지원 옆을 지키는 든든한 남편美]]></title>
-        <id>https://v.daum.net/v/20240316094337219</id>
-        <link href="https://v.daum.net/v/20240316094337219"/>
-        <updated>2024-03-16T01:40:03.914Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
