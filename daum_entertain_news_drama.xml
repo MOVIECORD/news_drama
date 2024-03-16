@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-16T02:15:44.407Z</updated>
+    <updated>2024-03-16T03:11:36.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공승연 측 "손호준과 열애? 사실무근"]]></title>
+        <id>https://v.daum.net/v/20240316121104761</id>
+        <link href="https://v.daum.net/v/20240316121104761"/>
+        <updated>2024-03-16T03:11:27.578Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수현, ♥김지원 옛 동창이 수상하다… 박성훈과 2차 신경전]]></title>
+        <id>https://v.daum.net/v/20240316115006598</id>
+        <link href="https://v.daum.net/v/20240316115006598"/>
+        <updated>2024-03-16T03:11:27.580Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수지맞은 우리' 오현경 "첫 일일극, 신개념 가족 보여줄 것"]]></title>
+        <id>https://v.daum.net/v/20240316111541333</id>
+        <link href="https://v.daum.net/v/20240316111541333"/>
+        <updated>2024-03-16T03:11:27.580Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현, 살인 용의자 검거 현장서 곽시양 체포…혼외자 스캔들 발발]]></title>
         <id>https://v.daum.net/v/20240316110154197</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240316094337219"/>
         <updated>2024-03-16T01:40:03.914Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 박성훈과 신경전…김지원 지킨다]]></title>
-        <id>https://v.daum.net/v/20240316093927168</id>
-        <link href="https://v.daum.net/v/20240316093927168"/>
-        <updated>2024-03-16T00:41:41.835Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주, 차은우와 죽은 오만석의 아내 병실서 만났다…시청률 11% 파죽지세]]></title>
-        <id>https://v.daum.net/v/20240316093002067</id>
-        <link href="https://v.daum.net/v/20240316093002067"/>
-        <updated>2024-03-16T00:41:41.836Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원더풀 월드’ 김남주·차은우, 죽은 오만석 아내 병실서 조우…자체 최고 시청률 경신]]></title>
-        <id>https://v.daum.net/v/20240316092808050</id>
-        <link href="https://v.daum.net/v/20240316092808050"/>
-        <updated>2024-03-16T00:41:41.839Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
