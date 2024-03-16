@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-16T10:11:16.829Z</updated>
+    <updated>2024-03-16T11:07:51.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하준♥유이 해피엔딩일까? 종영 앞둔 ‘효심이네 각자도생’ 마지막 관전 포인트]]></title>
+        <id>https://v.daum.net/v/20240316192815276</id>
+        <link href="https://v.daum.net/v/20240316192815276"/>
+        <updated>2024-03-16T11:07:41.783Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현, 아내 김지원 향한 위협에 경계심 최고조]]></title>
+        <id>https://v.daum.net/v/20240316192145176</id>
+        <link href="https://v.daum.net/v/20240316192145176"/>
+        <updated>2024-03-16T11:07:41.784Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당신 살인자잖아" 차은우, 김남주와 냉랭 기류..적대관계 되나]]></title>
         <id>https://v.daum.net/v/20240316184959678</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240316143233250"/>
         <updated>2024-03-16T06:12:34.652Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하준X유이 웨딩마치 울리나, ‘효심이네’ 종영까지 단 2회]]></title>
-        <id>https://v.daum.net/v/20240316142917218</id>
-        <link href="https://v.daum.net/v/20240316142917218"/>
-        <updated>2024-03-16T06:12:34.652Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유이는 왜 사라졌을까?"..'효심이네' 종영 앞두고 분분]]></title>
-        <id>https://v.daum.net/v/20240316135425752</id>
-        <link href="https://v.daum.net/v/20240316135425752"/>
-        <updated>2024-03-16T05:10:27.914Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
