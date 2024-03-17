@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-17T08:12:08.363Z</updated>
+    <updated>2024-03-17T09:09:11.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤이즈, '멈춰줘'로 김수현♥김지원 감정 대변]]></title>
+        <id>https://v.daum.net/v/20240317174136473</id>
+        <link href="https://v.daum.net/v/20240317174136473"/>
+        <updated>2024-03-17T09:09:03.894Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학폭 넘어 계급 문제 다루는 ‘피라미드 게임’… “새로운 ‘오징어 게임’”]]></title>
+        <id>https://v.daum.net/v/20240317173415322</id>
+        <link href="https://v.daum.net/v/20240317173415322"/>
+        <updated>2024-03-17T09:09:03.894Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현x김지원 ‘눈물의 여왕’ 입소문 터지고, 시청률 오르고..보는 맛 나는 로코]]></title>
         <id>https://v.daum.net/v/20240317155019136</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240317124157293"/>
         <updated>2024-03-17T04:12:22.006Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35년·20년·8년…기다림 끝에 오는 ‘수사반장’ ‘대장금’ ‘시그널’]]></title>
-        <id>https://v.daum.net/v/20240317122700990</id>
-        <link href="https://v.daum.net/v/20240317122700990"/>
-        <updated>2024-03-17T04:12:22.007Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 김수현에게 반했다]]></title>
-        <id>https://v.daum.net/v/20240317120024523</id>
-        <link href="https://v.daum.net/v/20240317120024523"/>
-        <updated>2024-03-17T03:10:32.934Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
