@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-17T00:45:41.716Z</updated>
+    <updated>2024-03-17T01:47:19.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우=김남주가 죽인 오만석 친아들..최고시청률 8.6% 기세 올랐다]]></title>
+        <id>https://v.daum.net/v/20240317100422663</id>
+        <link href="https://v.daum.net/v/20240317100422663"/>
+        <updated>2024-03-17T01:46:18.021Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악역 전문' 김준배의 새로운 얼굴, 알을 깨고 날개를 펴다]]></title>
+        <id>https://v.daum.net/v/20240317094902439</id>
+        <link href="https://v.daum.net/v/20240317094902439"/>
+        <updated>2024-03-17T01:46:18.023Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 앞둔 ‘효심이네 각자도생’ 유이♥하준, 이대로 파혼 엔딩?]]></title>
         <id>https://v.daum.net/v/20240317094500376</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240317085017602"/>
         <updated>2024-03-17T00:45:34.645Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현 상의 탈의+완벽 복근→김지원 키스 유도까지]]></title>
-        <id>https://v.daum.net/v/20240317084819579</id>
-        <link href="https://v.daum.net/v/20240317084819579"/>
-        <updated>2024-03-17T00:45:34.646Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김지원, ♥김수현에 다시 반했다..최고 13%]]></title>
-        <id>https://v.daum.net/v/20240317084540561</id>
-        <link href="https://v.daum.net/v/20240317084540561"/>
-        <updated>2024-03-17T00:45:34.649Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
