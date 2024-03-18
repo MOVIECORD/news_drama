@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-18T20:10:44.673Z</updated>
+    <updated>2024-03-18T21:11:52.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박신혜♥박형식, 11년 만에 재회 안통했다...차가운 무관심 속 씁쓸한 종영]]></title>
+        <id>https://v.daum.net/v/20240319060107643</id>
+        <link href="https://v.daum.net/v/20240319060107643"/>
+        <updated>2024-03-18T21:11:43.116Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 ‘멱살 한번’ 김하늘, 장승조 불륜 의심→내연녀 한지은 시체 발견 ‘충격’]]></title>
         <id>https://v.daum.net/v/20240318233230215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240318210507441"/>
         <updated>2024-03-18T12:16:58.443Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕', '사랑의 불시착'보다 빠르고 뜨겁고 핫하다]]></title>
-        <id>https://v.daum.net/v/20240318205925314</id>
-        <link href="https://v.daum.net/v/20240318205925314"/>
-        <updated>2024-03-18T12:16:58.443Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
