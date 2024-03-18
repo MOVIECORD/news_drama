@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-18T10:11:20.164Z</updated>
+    <updated>2024-03-18T11:09:19.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕' 곽동연, 얄미운데 밉지 않은 마성의 처남]]></title>
+        <id>https://v.daum.net/v/20240318195722151</id>
+        <link href="https://v.daum.net/v/20240318195722151"/>
+        <updated>2024-03-18T11:09:10.126Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오세영, 전노민과 위자료 협상 했으나... 반효정에 거짓말 들통]]></title>
+        <id>https://v.daum.net/v/20240318194530908</id>
+        <link href="https://v.daum.net/v/20240318194530908"/>
+        <updated>2024-03-18T11:09:10.128Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천만 감독' 이병헌도 현타왔다…"'닭강정' 핵 장면, 도저히 안 되겠더라"]]></title>
         <id>https://v.daum.net/v/20240318190107842</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240318170844378"/>
         <updated>2024-03-18T08:12:53.569Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보기 좋게 뒤집은 신데렐라 이야기로 시청자 붙든 ‘눈물의 여왕’]]></title>
-        <id>https://v.daum.net/v/20240318170606250</id>
-        <link href="https://v.daum.net/v/20240318170606250"/>
-        <updated>2024-03-18T08:12:53.573Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현 출연료만 80억?…'텐트밖4' 밟고 올라선 '눈물의 여왕', 신드롬 조짐에도 씁쓸한 뒷맛]]></title>
-        <id>https://v.daum.net/v/20240318170107002</id>
-        <link href="https://v.daum.net/v/20240318170107002"/>
-        <updated>2024-03-18T08:12:53.573Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
