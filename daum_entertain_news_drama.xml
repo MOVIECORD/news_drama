@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-19T10:10:55.492Z</updated>
+    <updated>2024-03-19T11:09:29.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오세영은 운도 좋지... 경찰서 가자던 반효정, 갑자기 쓰러져]]></title>
+        <id>https://v.daum.net/v/20240319195000231</id>
+        <link href="https://v.daum.net/v/20240319195000231"/>
+        <updated>2024-03-19T11:09:20.077Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕', 김수현 연기가 다 살렸다]]></title>
         <id>https://v.daum.net/v/20240319190833592</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240319165702346</id>
         <link href="https://v.daum.net/v/20240319165702346"/>
         <updated>2024-03-19T08:12:40.424Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남과 여' 이설 "편성 변경 2회...산업 전반에 대해 배웠다" 고백]]></title>
-        <id>https://v.daum.net/v/20240319161843032</id>
-        <link href="https://v.daum.net/v/20240319161843032"/>
-        <updated>2024-03-19T08:12:40.430Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
