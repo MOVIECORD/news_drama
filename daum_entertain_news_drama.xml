@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-20T22:09:05.803Z</updated>
+    <updated>2024-03-20T23:11:33.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이혼 저격' 황정음 "스트레스 풀리지만 까맣게 탄 느낌" 어떻길래]]></title>
+        <id>https://v.daum.net/v/20240321075357164</id>
+        <link href="https://v.daum.net/v/20240321075357164"/>
+        <updated>2024-03-20T23:11:24.177Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안재홍, 정호연에게 능욕 당했다…"그 자체로 유머, 마성의 힘 느껴"]]></title>
         <id>https://v.daum.net/v/20240321070101451</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240320193208125"/>
         <updated>2024-03-20T11:09:00.030Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주원, 눈빛+목소리부터 다르다…깊이감 있는 연기 내공]]></title>
-        <id>https://v.daum.net/v/20240320192212885</id>
-        <link href="https://v.daum.net/v/20240320192212885"/>
-        <updated>2024-03-20T11:09:00.030Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
