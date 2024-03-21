@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-21T01:43:27.345Z</updated>
+    <updated>2024-03-21T02:18:43.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지원 디테일의 여왕, 새로운 도전 제대로 통했다]]></title>
+        <id>https://v.daum.net/v/20240321104317713</id>
+        <link href="https://v.daum.net/v/20240321104317713"/>
+        <updated>2024-03-21T02:18:34.009Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고윤정 ‘슬전의’ 하반기 편성 예정..‘눈물의 여왕’ 후속은 정려원x위하준 ‘졸업’]]></title>
         <id>https://v.daum.net/v/20240321103826431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240321091543332"/>
         <updated>2024-03-21T00:43:59.089Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로는 아닙니다만' 장기용X천우희, 대본 리딩 현장 공개…상반기 방송]]></title>
-        <id>https://v.daum.net/v/20240321091522314</id>
-        <link href="https://v.daum.net/v/20240321091522314"/>
-        <updated>2024-03-21T00:43:59.091Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
