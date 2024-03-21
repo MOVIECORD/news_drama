@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-21T10:11:50.618Z</updated>
+    <updated>2024-03-21T11:09:14.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세 번째 결혼' 오세영, 의식불명 연기 반효정에 악녀 본색 "죽으면 화장부터..."]]></title>
+        <id>https://v.daum.net/v/20240321194730417</id>
+        <link href="https://v.daum.net/v/20240321194730417"/>
+        <updated>2024-03-21T11:09:04.873Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥행불패 이제훈x거장 안판석 제2의 '하얀거탑' 나오나..장르물 '협상의 기술' 호흡]]></title>
+        <id>https://v.daum.net/v/20240321191151676</id>
+        <link href="https://v.daum.net/v/20240321191151676"/>
+        <updated>2024-03-21T11:09:04.874Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주지훈 "데뷔 후 첫 전신 슈트 착용, 이번 작품 포인트"]]></title>
         <id>https://v.daum.net/v/20240321182447475</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240321154707281"/>
         <updated>2024-03-21T07:09:51.307Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지현우X임수향, KBS 구원투수될까..'미녀와 순정남' 온다]]></title>
-        <id>https://v.daum.net/v/20240321154532188</id>
-        <link href="https://v.daum.net/v/20240321154532188"/>
-        <updated>2024-03-21T07:09:51.309Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슬전생’ 의료 파업 여파에 결국 편성 연기..‘눈여’ 후속은 ‘졸업’]]></title>
-        <id>https://v.daum.net/v/20240321154522183</id>
-        <link href="https://v.daum.net/v/20240321154522183"/>
-        <updated>2024-03-21T07:09:51.311Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
