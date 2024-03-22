@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-22T01:41:44.256Z</updated>
+    <updated>2024-03-22T02:16:07.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현♥김지원, 로코 레전드인데 본방사수 할 수밖에]]></title>
+        <id>https://v.daum.net/v/20240322110412613</id>
+        <link href="https://v.daum.net/v/20240322110412613"/>
+        <updated>2024-03-22T02:15:58.919Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피라미드 게임' 성공적 데뷔 신슬기 "'서도아'용기고 행복..성장하겠다"]]></title>
         <id>https://v.daum.net/v/20240322102408939</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240322084516251</id>
         <link href="https://v.daum.net/v/20240322084516251"/>
         <updated>2024-03-22T00:42:20.287Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석 "김혜윤과 연기 호흡? 실제로 설렜다"]]></title>
-        <id>https://v.daum.net/v/20240322083955128</id>
-        <link href="https://v.daum.net/v/20240322083955128"/>
-        <updated>2024-03-22T00:42:20.289Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
