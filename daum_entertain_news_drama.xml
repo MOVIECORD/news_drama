@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-23T09:10:29.226Z</updated>
+    <updated>2024-03-23T10:09:58.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비하 논란 '닭강정', 아랍권 왕실 언급 이유 "안재홍 설정 위해서"]]></title>
+        <id>https://v.daum.net/v/20240323183335002</id>
+        <link href="https://v.daum.net/v/20240323183335002"/>
+        <updated>2024-03-23T10:09:49.288Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장승조 불륜 의심…김하늘 두고 기싸움]]></title>
         <id>https://v.daum.net/v/20240323175753654</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240323140613610</id>
         <link href="https://v.daum.net/v/20240323140613610"/>
         <updated>2024-03-23T05:10:10.253Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재벌X형사’ 피투성이로 권총 쥔 안보현, 母 살해당한 사건 현장서 포착]]></title>
-        <id>https://v.daum.net/v/20240323133447258</id>
-        <link href="https://v.daum.net/v/20240323133447258"/>
-        <updated>2024-03-23T05:10:10.254Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
