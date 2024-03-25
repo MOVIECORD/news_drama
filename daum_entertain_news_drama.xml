@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-25T01:45:53.029Z</updated>
+    <updated>2024-03-25T02:19:38.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘재벌X형사’ 정가희 “언제나 씩씩했던 ‘윤지원’ 마음 속에 소중히 간직” 종영 소감]]></title>
+        <id>https://v.daum.net/v/20240325111714875</id>
+        <link href="https://v.daum.net/v/20240325111714875"/>
+        <updated>2024-03-25T02:19:29.331Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서동원 "시즌2 연결되어 가길"]]></title>
+        <id>https://v.daum.net/v/20240325110358225</id>
+        <link href="https://v.daum.net/v/20240325110358225"/>
+        <updated>2024-03-25T02:19:29.332Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕' 뒤통수녀→'범죄도시4' 개봉..이주빈은 승승장구 중]]></title>
         <id>https://v.daum.net/v/20240325104015022</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240325083453162"/>
         <updated>2024-03-25T00:44:17.357Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현, ♥김지원에 이혼합의서 들켰다 "가증스러워"]]></title>
-        <id>https://v.daum.net/v/20240325083020040</id>
-        <link href="https://v.daum.net/v/20240325083020040"/>
-        <updated>2024-03-25T00:44:17.357Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현·김새론 열애설에도…'눈물의 여왕', 자체 최고 시청률 14.1%]]></title>
-        <id>https://v.daum.net/v/20240325082540926</id>
-        <link href="https://v.daum.net/v/20240325082540926"/>
-        <updated>2024-03-25T00:44:17.357Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
