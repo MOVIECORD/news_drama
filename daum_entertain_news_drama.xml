@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-25T14:09:44.244Z</updated>
+    <updated>2024-03-25T15:11:41.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘멱살’ 김하늘, 한지은 살인사건 참고인 조사 대상 됐다]]></title>
+        <id>https://v.daum.net/v/20240325234801494</id>
+        <link href="https://v.daum.net/v/20240325234801494"/>
+        <updated>2024-03-25T15:11:31.813Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“도대체 왜”…‘멱살’ 김하늘, 장승조=한지은 살인범 의심]]></title>
         <id>https://v.daum.net/v/20240325224202060</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240325190135033"/>
         <updated>2024-03-25T10:10:48.332Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원은 무슨 죄…400억 대작 '눈물의 여왕'에 누가 초를 쳤나]]></title>
-        <id>https://v.daum.net/v/20240325190118026</id>
-        <link href="https://v.daum.net/v/20240325190118026"/>
-        <updated>2024-03-25T10:10:48.333Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
