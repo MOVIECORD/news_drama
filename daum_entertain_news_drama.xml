@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-25T10:10:57.865Z</updated>
+    <updated>2024-03-25T11:11:06.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 오승아, 오세영 제대로 속였다... 안내상 휴대폰 획득]]></title>
+        <id>https://v.daum.net/v/20240325194930665</id>
+        <link href="https://v.daum.net/v/20240325194930665"/>
+        <updated>2024-03-25T11:10:04.379Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장다아 연기 직관한 김지연 "후반부 성장 대견해"]]></title>
         <id>https://v.daum.net/v/20240325190135033</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240325165002967"/>
         <updated>2024-03-25T08:14:24.324Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“지옥에 온 걸 환영해” ‘거대악’ 엄기준 향한 ‘복수자’ 이준의 반격]]></title>
-        <id>https://v.daum.net/v/20240325163904465</id>
-        <link href="https://v.daum.net/v/20240325163904465"/>
-        <updated>2024-03-25T08:14:24.325Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
