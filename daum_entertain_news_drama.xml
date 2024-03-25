@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-25T13:12:10.853Z</updated>
+    <updated>2024-03-25T14:09:44.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“도대체 왜”…‘멱살’ 김하늘, 장승조=한지은 살인범 의심]]></title>
+        <id>https://v.daum.net/v/20240325224202060</id>
+        <link href="https://v.daum.net/v/20240325224202060"/>
+        <updated>2024-03-25T14:09:35.121Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘멱살 한번 잡힙시다’ 장승조 “한지은=내 애인? 스토커였다”]]></title>
+        <id>https://v.daum.net/v/20240325223302018</id>
+        <link href="https://v.daum.net/v/20240325223302018"/>
+        <updated>2024-03-25T14:09:35.127Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘웨딩임파서블’ 김도완, 문상민♥전종서 관계 의심? 키스 사진 ‘충격’]]></title>
         <id>https://v.daum.net/v/20240325220903836</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240325190118026"/>
         <updated>2024-03-25T10:10:48.333Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허광한 韓 드라마 데뷔작 ‘노 웨이 아웃’ 올 하반기 공개]]></title>
-        <id>https://v.daum.net/v/20240325185257854</id>
-        <link href="https://v.daum.net/v/20240325185257854"/>
-        <updated>2024-03-25T10:10:48.333Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피라미드 게임' 김지연 "이렇게 큰 배역 처음…열심히 살았다"]]></title>
-        <id>https://v.daum.net/v/20240325185013812</id>
-        <link href="https://v.daum.net/v/20240325185013812"/>
-        <updated>2024-03-25T10:10:48.334Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
