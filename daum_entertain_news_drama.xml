@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-26T14:11:05.283Z</updated>
+    <updated>2024-03-26T15:10:16.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김하늘, 한지은 다 사랑해" 장승조, 희대의 예쁜 쓰레기…불륜 동영상 발각]]></title>
+        <id>https://v.daum.net/v/20240327000506637</id>
+        <link href="https://v.daum.net/v/20240327000506637"/>
+        <updated>2024-03-26T15:10:09.415Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박근형, 차화연 빚 갚아주나? 판 뒤흔든다]]></title>
+        <id>https://v.daum.net/v/20240327000012540</id>
+        <link href="https://v.daum.net/v/20240327000012540"/>
+        <updated>2024-03-26T15:10:09.418Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재벌가 경영권 다툼…시청자도 '금수저'에 빠졌다]]></title>
+        <id>https://v.daum.net/v/20240326233002198</id>
+        <link href="https://v.daum.net/v/20240326233002198"/>
+        <updated>2024-03-26T15:10:09.418Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8억은 많고 3억은 적나…김수현 몸값에 또 '시끌', 끊이지 않는 구설수]]></title>
         <id>https://v.daum.net/v/20240326215802203</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240326194500977"/>
         <updated>2024-03-26T11:09:15.885Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사' 안보현 "철없는 재벌 3세 연기? 제가 봐도 재수없죠"]]></title>
-        <id>https://v.daum.net/v/20240326190302071</id>
-        <link href="https://v.daum.net/v/20240326190302071"/>
-        <updated>2024-03-26T10:11:44.657Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤상현 “‘슈룹’→‘닥터슬럼프’ 금쪽이..실제론 속 안썩이는 아들”]]></title>
-        <id>https://v.daum.net/v/20240326190017996</id>
-        <link href="https://v.daum.net/v/20240326190017996"/>
-        <updated>2024-03-26T10:11:44.660Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈물의여왕' 김수현, 회당 출연료 8억 아닌 3억.."전작보다 낮아"]]></title>
-        <id>https://v.daum.net/v/20240326184313536</id>
-        <link href="https://v.daum.net/v/20240326184313536"/>
-        <updated>2024-03-26T10:11:44.660Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
