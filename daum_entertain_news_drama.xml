@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-26T01:43:13.936Z</updated>
+    <updated>2024-03-26T02:16:06.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웨딩 임파서블', 26일 방송 30분 당겼다..월드컵 중계 맞대결 무산]]></title>
+        <id>https://v.daum.net/v/20240326111154785</id>
+        <link href="https://v.daum.net/v/20240326111154785"/>
+        <updated>2024-03-26T02:15:57.966Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 박성훈 “악역할 때 피드백 더 좋은듯…도전의식 샘솟아”]]></title>
+        <id>https://v.daum.net/v/20240326110435453</id>
+        <link href="https://v.daum.net/v/20240326110435453"/>
+        <updated>2024-03-26T02:15:57.971Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 부활', 리셋 된 복수의 판…'단죄자X설계자' 출격 준비 완료]]></title>
         <id>https://v.daum.net/v/20240326103116916</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240326084421539"/>
         <updated>2024-03-26T00:43:02.740Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수지맞은 우리' 첫방, 함은정, 위에 올라탄 백성현에 주먹..쾌조의 출발]]></title>
-        <id>https://v.daum.net/v/20240326083734392</id>
-        <link href="https://v.daum.net/v/20240326083734392"/>
-        <updated>2024-03-26T00:43:02.744Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선재 업고 튀어' 변우석X김혜윤, 15년 서사…인물관계도 공개]]></title>
-        <id>https://v.daum.net/v/20240326083202262</id>
-        <link href="https://v.daum.net/v/20240326083202262"/>
-        <updated>2024-03-26T00:43:02.744Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
