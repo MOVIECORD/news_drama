@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-27T12:19:22.486Z</updated>
+    <updated>2024-03-27T13:10:34.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현=회당 3억?…배우 출연료, '뜨거운 감자' 이유]]></title>
+        <id>https://v.daum.net/v/20240327221003112</id>
+        <link href="https://v.daum.net/v/20240327221003112"/>
+        <updated>2024-03-27T13:10:26.154Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장세현, 시신으로 발견..정혜선 "재수없는 이소연 탓"]]></title>
         <id>https://v.daum.net/v/20240327211330205</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240327171349663"/>
         <updated>2024-03-27T08:14:09.892Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘♥연우진, 깜찍한 플러팅→풋풋한 커플 데이트]]></title>
-        <id>https://v.daum.net/v/20240327171040558</id>
-        <link href="https://v.daum.net/v/20240327171040558"/>
-        <updated>2024-03-27T08:14:09.892Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
