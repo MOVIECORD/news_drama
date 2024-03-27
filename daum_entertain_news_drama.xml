@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-27T20:12:17.578Z</updated>
+    <updated>2024-03-27T21:09:08.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플랫폼 바꾸고 해외 선공개… 드라마 '불황 뚫기' 총력]]></title>
+        <id>https://v.daum.net/v/20240328060029874</id>
+        <link href="https://v.daum.net/v/20240328060029874"/>
+        <updated>2024-03-27T21:08:59.400Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현=회당 3억?…배우 출연료, '뜨거운 감자' 이유]]></title>
         <id>https://v.daum.net/v/20240327221003112</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240327171522722</id>
         <link href="https://v.daum.net/v/20240327171522722"/>
         <updated>2024-03-27T09:11:38.169Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재욱, 진실 파헤치기 위해 탈옥 감행..욕망의 끝 예고]]></title>
-        <id>https://v.daum.net/v/20240327171349663</id>
-        <link href="https://v.daum.net/v/20240327171349663"/>
-        <updated>2024-03-27T08:14:09.892Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
