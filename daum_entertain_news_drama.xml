@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-28T15:12:12.771Z</updated>
+    <updated>2024-03-28T16:12:31.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이윤진 "이범수 측, 폭로글 사실 아니라는 기사 내달라고 연락와"]]></title>
+        <id>https://v.daum.net/v/20240329003045135</id>
+        <link href="https://v.daum.net/v/20240329003045135"/>
+        <updated>2024-03-28T16:12:21.881Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌X형사’도 시즌2 시동..시즌제 맛집 SBS에 새 메뉴 탄생이요]]></title>
         <id>https://v.daum.net/v/20240328210823706</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328164435606"/>
         <updated>2024-03-28T08:12:24.451Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장승조, 한지은 말고 또 다른 내연녀 있나? 연우진 "딱 잡혔어"]]></title>
-        <id>https://v.daum.net/v/20240328162917914</id>
-        <link href="https://v.daum.net/v/20240328162917914"/>
-        <updated>2024-03-28T08:12:24.453Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
