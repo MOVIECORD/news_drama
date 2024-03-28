@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-28T18:14:38.741Z</updated>
+    <updated>2024-03-28T19:07:52.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명수·이유영, 유교 로맨스 예고…‘함부로 대해줘’ 5월 첫방송]]></title>
+        <id>https://v.daum.net/v/20240329040010911</id>
+        <link href="https://v.daum.net/v/20240329040010911"/>
+        <updated>2024-03-28T19:07:43.157Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이윤진 "이범수 측, 폭로글 사실 아니라는 기사 내달라고 연락와"]]></title>
         <id>https://v.daum.net/v/20240329003045135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328170016207"/>
         <updated>2024-03-28T08:12:24.448Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신예' 문상민, 또 설렘 자극 남주..신현빈과 '새벽 2시의 신데렐라' 호흡]]></title>
-        <id>https://v.daum.net/v/20240328164435606</id>
-        <link href="https://v.daum.net/v/20240328164435606"/>
-        <updated>2024-03-28T08:12:24.451Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
