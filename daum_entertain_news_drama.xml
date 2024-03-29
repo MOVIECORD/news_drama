@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-29T09:09:51.964Z</updated>
+    <updated>2024-03-29T10:11:21.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남편이 '남의 편' 됐네…김남주·김하늘·이보영, 스릴러를 뒤집다]]></title>
+        <id>https://v.daum.net/v/20240329190139952</id>
+        <link href="https://v.daum.net/v/20240329190139952"/>
+        <updated>2024-03-29T10:11:12.825Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알고보면 더 재미있는 '눈물의 여왕', 김수현·김지원 고교부터 로맨스]]></title>
+        <id>https://v.daum.net/v/20240329183853402</id>
+        <link href="https://v.daum.net/v/20240329183853402"/>
+        <updated>2024-03-29T10:11:12.825Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스카이 캐슬' 윤세아X김병철 부부 재회 '완벽한 가족', 심상치 않다]]></title>
+        <id>https://v.daum.net/v/20240329181256850</id>
+        <link href="https://v.daum.net/v/20240329181256850"/>
+        <updated>2024-03-29T10:11:12.828Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정음 이혼에 묻힌 460억…감독 교체 '7인의 부활', 여전한 막장 논란은 숙제]]></title>
         <id>https://v.daum.net/v/20240329180107519</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240329160140655"/>
         <updated>2024-03-29T07:10:05.617Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["티저 떡밥·MBTI·돌림자·삼남매"…'연애남매' 이진주 PD가 밝힌 모든 것①]]></title>
-        <id>https://v.daum.net/v/20240329155718480</id>
-        <link href="https://v.daum.net/v/20240329155718480"/>
-        <updated>2024-03-29T07:10:05.618Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['욕망의 화신' 황정음, 뜻밖의 진실 목도…흔들리는 눈빛]]></title>
-        <id>https://v.daum.net/v/20240329155717479</id>
-        <link href="https://v.daum.net/v/20240329155717479"/>
-        <updated>2024-03-29T07:10:05.618Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘7인의 부활’ 황정음, 뜻밖의 진실과 마주한다…싸늘한 눈빛]]></title>
-        <id>https://v.daum.net/v/20240329155404356</id>
-        <link href="https://v.daum.net/v/20240329155404356"/>
-        <updated>2024-03-29T07:10:05.619Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
