@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-30T03:14:22.850Z</updated>
+    <updated>2024-03-30T04:12:29.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘원더풀 월드’ 김남주-차은우 ‘두개의 무덤’ 파놓은 복수여정]]></title>
+        <id>https://v.daum.net/v/20240330125434431</id>
+        <link href="https://v.daum.net/v/20240330125434431"/>
+        <updated>2024-03-30T04:11:27.977Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희♥류준열 열애 2주째 논란→이윤진, 이범수 폭로ing]]></title>
         <id>https://v.daum.net/v/20240330114445940</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240330094141533"/>
         <updated>2024-03-30T01:39:28.469Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현 '민폐 여주' 논란에 입 열었다…'재벌X형사' 감독 "내 부족함 때문, 불만 존중"]]></title>
-        <id>https://v.daum.net/v/20240330093808495</id>
-        <link href="https://v.daum.net/v/20240330093808495"/>
-        <updated>2024-03-30T00:41:46.959Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
