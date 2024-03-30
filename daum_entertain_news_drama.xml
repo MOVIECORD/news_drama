@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-30T08:13:37.457Z</updated>
+    <updated>2024-03-30T09:09:22.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조연희, 딸 폭력하는 술집 여자…뒷돈까지 받네]]></title>
+        <id>https://v.daum.net/v/20240330175507572</id>
+        <link href="https://v.daum.net/v/20240330175507572"/>
+        <updated>2024-03-30T09:09:13.827Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희 측 "류준열과 결별… 개인사로 대중 힘들게 해 죄송"]]></title>
+        <id>https://v.daum.net/v/20240330173005323</id>
+        <link href="https://v.daum.net/v/20240330173005323"/>
+        <updated>2024-03-30T09:09:13.830Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미녀와 순정남' 차화연·윤유선, 경계심 가득한 만남→신경전]]></title>
         <id>https://v.daum.net/v/20240330170359932</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240330142253250"/>
         <updated>2024-03-30T06:12:14.359Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주, MBC서 드디어 체면치레…SBS 안보현 없으니 시청률 2배↑]]></title>
-        <id>https://v.daum.net/v/20240330142102231</id>
-        <link href="https://v.daum.net/v/20240330142102231"/>
-        <updated>2024-03-30T06:12:14.361Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼 서류' 들킨 김수현, 배신자 낙인..처가살이 강도 UP]]></title>
-        <id>https://v.daum.net/v/20240330141905211</id>
-        <link href="https://v.daum.net/v/20240330141905211"/>
-        <updated>2024-03-30T06:12:14.362Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
