@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-30T02:14:59.052Z</updated>
+    <updated>2024-03-30T03:14:22.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희♥류준열 열애 2주째 논란→이윤진, 이범수 폭로ing]]></title>
+        <id>https://v.daum.net/v/20240330114445940</id>
+        <link href="https://v.daum.net/v/20240330114445940"/>
+        <updated>2024-03-30T03:14:13.289Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심상치 않던 심이영, '7인의 부활' 이준·윤태영과 한 배 탔다]]></title>
+        <id>https://v.daum.net/v/20240330112917757</id>
+        <link href="https://v.daum.net/v/20240330112917757"/>
+        <updated>2024-03-30T03:14:13.290Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동준의 A to Z…“제국의 아이들 15주년 계획이요?”]]></title>
         <id>https://v.daum.net/v/20240330110309460</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240330093808495"/>
         <updated>2024-03-30T00:41:46.959Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드쿤스트, 10kg 증량 후 도드라진 '제3의 눈' 당혹 '나혼산']]></title>
-        <id>https://v.daum.net/v/20240330093530467</id>
-        <link href="https://v.daum.net/v/20240330093530467"/>
-        <updated>2024-03-30T00:41:46.961Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음, 복수에 이 갈았다 "너부터 시작이야"…첫방 5%]]></title>
-        <id>https://v.daum.net/v/20240330093338455</id>
-        <link href="https://v.daum.net/v/20240330093338455"/>
-        <updated>2024-03-30T00:41:46.962Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
