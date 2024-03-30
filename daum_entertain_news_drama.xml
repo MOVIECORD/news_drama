@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-30T07:11:00.604Z</updated>
+    <updated>2024-03-30T08:13:37.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미녀와 순정남' 차화연·윤유선, 경계심 가득한 만남→신경전]]></title>
+        <id>https://v.daum.net/v/20240330170359932</id>
+        <link href="https://v.daum.net/v/20240330170359932"/>
+        <updated>2024-03-30T08:13:28.730Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류준열·한소희, 공개 열애 2주 만 결별]]></title>
+        <id>https://v.daum.net/v/20240330164915769</id>
+        <link href="https://v.daum.net/v/20240330164915769"/>
+        <updated>2024-03-30T08:13:28.730Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유비, 시니컬→간절함→독기 '감정 베리에이션']]></title>
         <id>https://v.daum.net/v/20240330160322286</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240330141905211"/>
         <updated>2024-03-30T06:12:14.362Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 퀸즈그룹 공식 배신자 낙인..주인공 '고난시기' 등장이요]]></title>
-        <id>https://v.daum.net/v/20240330140916120</id>
-        <link href="https://v.daum.net/v/20240330140916120"/>
-        <updated>2024-03-30T05:10:03.718Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울대 법대 김수현, 혹독한 재벌가 처가살이에 반격 준비]]></title>
-        <id>https://v.daum.net/v/20240330140337062</id>
-        <link href="https://v.daum.net/v/20240330140337062"/>
-        <updated>2024-03-30T05:10:03.723Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
