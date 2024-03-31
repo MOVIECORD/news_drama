@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-31T02:21:40.325Z</updated>
+    <updated>2024-03-31T03:11:15.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현 미행했던 임철수..'사랑의 불시착'→'눈물의 여왕' 존재감 어쩔]]></title>
+        <id>https://v.daum.net/v/20240331114216142</id>
+        <link href="https://v.daum.net/v/20240331114216142"/>
+        <updated>2024-03-31T03:11:06.733Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조윤희, 또 악의 편에 서나..윤종훈과 위장부부 생활 시작]]></title>
+        <id>https://v.daum.net/v/20240331112212792</id>
+        <link href="https://v.daum.net/v/20240331112212792"/>
+        <updated>2024-03-31T03:11:06.735Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원더풀 월드' 김남주 각성, 차은우에 일침 "母 단순 사고 아냐"...최고 시청률 12.6%]]></title>
         <id>https://v.daum.net/v/20240331111645717</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240331100300223"/>
         <updated>2024-03-31T01:51:59.785Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 이준, 연쇄살인범 누명 벗었다...엄기준과 대치 엔딩 '짜릿']]></title>
-        <id>https://v.daum.net/v/20240331100130196</id>
-        <link href="https://v.daum.net/v/20240331100130196"/>
-        <updated>2024-03-31T01:51:59.788Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주X차은우, 김수현X김지원에 당한 일격...기죽는 토요일]]></title>
-        <id>https://v.daum.net/v/20240331095215988</id>
-        <link href="https://v.daum.net/v/20240331095215988"/>
-        <updated>2024-03-31T01:51:59.789Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
