@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-03-31T01:53:01.755Z</updated>
+    <updated>2024-03-31T02:21:40.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['원더풀 월드' 김남주 각성, 차은우에 일침 "母 단순 사고 아냐"...최고 시청률 12.6%]]></title>
+        <id>https://v.daum.net/v/20240331111645717</id>
+        <link href="https://v.daum.net/v/20240331111645717"/>
+        <updated>2024-03-31T02:20:38.396Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임수정, 변함없는 ‘멜로 퀸’이 가능했던 3가지 이유]]></title>
+        <id>https://v.daum.net/v/20240331111124591</id>
+        <link href="https://v.daum.net/v/20240331111124591"/>
+        <updated>2024-03-31T02:20:38.396Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘母 죽음 충격’ 차은우, 김남주 붙잡고 눈물→먹먹한 여운]]></title>
         <id>https://v.daum.net/v/20240331105101134</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240331095215988"/>
         <updated>2024-03-31T01:51:59.789Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재벌X형사'→'범죄도시4' 김신비 "군대에서 배우 꿈 키웠는데…"]]></title>
-        <id>https://v.daum.net/v/20240331093013647</id>
-        <link href="https://v.daum.net/v/20240331093013647"/>
-        <updated>2024-03-31T00:47:56.673Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김신비 "'재벌X형사' 시즌2, 장규리와 러브라인 더 나오길"]]></title>
-        <id>https://v.daum.net/v/20240331093008643</id>
-        <link href="https://v.daum.net/v/20240331093008643"/>
-        <updated>2024-03-31T00:47:56.674Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
