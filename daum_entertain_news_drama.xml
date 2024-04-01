@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-01T21:09:23.902Z</updated>
+    <updated>2024-04-01T22:10:09.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이혼 조정' 황정음 "남편 일, 9년 동안 몰랐다…'내 집이니 나가'라고"]]></title>
+        <id>https://v.daum.net/v/20240402065017651</id>
+        <link href="https://v.daum.net/v/20240402065017651"/>
+        <updated>2024-04-01T22:10:00.792Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 앞둔 '웨딩 임파서블' 문상민♥전종서 이별→재회로 '해피엔딩 예고']]></title>
+        <id>https://v.daum.net/v/20240402065009648</id>
+        <link href="https://v.daum.net/v/20240402065009648"/>
+        <updated>2024-04-01T22:10:00.796Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀은 없어' 고경표, 감전 사고 후 자비 없는 팩트 폭격기 된다]]></title>
+        <id>https://v.daum.net/v/20240402064015526</id>
+        <link href="https://v.daum.net/v/20240402064015526"/>
+        <updated>2024-04-01T22:10:00.799Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“많이 좋아했어, 안녕”…‘웨딩임파서블’ 전종서·문상민 헤어졌다]]></title>
         <id>https://v.daum.net/v/20240401221501990</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240401173148157"/>
         <updated>2024-04-01T09:11:57.635Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오징어게임2’ 김시은 ‘넉오프’서 김수현 만날까 “긍정검토중”]]></title>
-        <id>https://v.daum.net/v/20240401170407032</id>
-        <link href="https://v.daum.net/v/20240401170407032"/>
-        <updated>2024-04-01T08:14:44.417Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌 감독 특유의 수다스러운 말발 튀김옷이 눅눅하게 느껴진 까닭]]></title>
-        <id>https://v.daum.net/v/20240401170141893</id>
-        <link href="https://v.daum.net/v/20240401170141893"/>
-        <updated>2024-04-01T08:14:44.418Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이', 김경희 작가 중도 하차..KBS "작가 교체"]]></title>
-        <id>https://v.daum.net/v/20240401165520553</id>
-        <link href="https://v.daum.net/v/20240401165520553"/>
-        <updated>2024-04-01T08:14:44.418Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
