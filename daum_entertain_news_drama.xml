@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-01T12:18:44.758Z</updated>
+    <updated>2024-04-01T13:10:23.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웨딩 임파서블' 전종서, ♥문상민과 이별…"우린 만나면 불행할 것"]]></title>
+        <id>https://v.daum.net/v/20240401220812928</id>
+        <link href="https://v.daum.net/v/20240401220812928"/>
+        <updated>2024-04-01T13:10:14.093Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["더 아프기 싫어".. '웨딩 임파서블' 전종서·문상민, 짧은 이별→빗 속 재회]]></title>
+        <id>https://v.daum.net/v/20240401220430894</id>
+        <link href="https://v.daum.net/v/20240401220430894"/>
+        <updated>2024-04-01T13:10:14.094Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘웨딩임파서블’ 전종서 “문상민 아니면 이제 안 될 것 같다” 오열]]></title>
         <id>https://v.daum.net/v/20240401211801338</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240401163809872"/>
         <updated>2024-04-01T08:14:44.418Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현의 '재벌X형사', 골 때려도 밉지 않았던 이유]]></title>
-        <id>https://v.daum.net/v/20240401163604784</id>
-        <link href="https://v.daum.net/v/20240401163604784"/>
-        <updated>2024-04-01T08:14:44.418Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수지맞은 우리’ 조미령에 빰 맞은 함은정, 불화 제대로 터졌다]]></title>
-        <id>https://v.daum.net/v/20240401163356685</id>
-        <link href="https://v.daum.net/v/20240401163356685"/>
-        <updated>2024-04-01T08:14:44.420Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
