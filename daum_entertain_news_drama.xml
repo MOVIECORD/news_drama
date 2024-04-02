@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-02T14:10:13.665Z</updated>
+    <updated>2024-04-02T15:11:12.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송하윤까지…김풍, '찌질의 역사' 학폭 배우들에 한숨]]></title>
+        <id>https://v.daum.net/v/20240402235545794</id>
+        <link href="https://v.daum.net/v/20240402235545794"/>
+        <updated>2024-04-02T15:10:10.811Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨딩 임파서블' 문상민♥전종서, 1년 만에 재회→프러포즈로 '해피엔딩']]></title>
         <id>https://v.daum.net/v/20240402221049695</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240402171230568"/>
         <updated>2024-04-02T08:12:46.226Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영X최현욱, '그놈은 흑염룡' 출연..웹툰 원작 홈런 터트릴까]]></title>
-        <id>https://v.daum.net/v/20240402171157549</id>
-        <link href="https://v.daum.net/v/20240402171157549"/>
-        <updated>2024-04-02T08:12:46.229Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
