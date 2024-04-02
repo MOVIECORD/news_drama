@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-02T11:09:59.379Z</updated>
+    <updated>2024-04-02T12:18:49.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['피도눈물도없이' 기억 잃은 하연주, 과거 악행에 충격 "내가 그런 쓰레기였다고?"]]></title>
+        <id>https://v.daum.net/v/20240402202830718</id>
+        <link href="https://v.daum.net/v/20240402202830718"/>
+        <updated>2024-04-02T12:17:47.821Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세번째 결혼' 윤해영, 원수 오세영 목 졸랐다 "내 손으로 없앨 것"]]></title>
         <id>https://v.daum.net/v/20240402195500872</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240402170220114"/>
         <updated>2024-04-02T08:12:46.235Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시체 발견한 수호, 명세빈의 비밀까지…'고난 시작']]></title>
-        <id>https://v.daum.net/v/20240402170141051</id>
-        <link href="https://v.daum.net/v/20240402170141051"/>
-        <updated>2024-04-02T08:12:46.235Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
