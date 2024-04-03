@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-03T03:12:07.844Z</updated>
+    <updated>2024-04-03T04:12:50.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비밀은 없어’ 고경표 “존경 안 해, 짜증나→발냄새 심해” 팩폭 퍼레이드]]></title>
+        <id>https://v.daum.net/v/20240403125320557</id>
+        <link href="https://v.daum.net/v/20240403125320557"/>
+        <updated>2024-04-03T04:12:40.539Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘크래시’ 곽선영 허성태, 교통범죄수사팀 반전 티키타카, 깨알 재미 살린다]]></title>
+        <id>https://v.daum.net/v/20240403123313222</id>
+        <link href="https://v.daum.net/v/20240403123313222"/>
+        <updated>2024-04-03T04:12:40.539Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["몰입 와장창"…로맨스 드라마에 '전종서 남친' 특출 '와글와글']]></title>
         <id>https://v.daum.net/v/20240403121002807</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['피지컬:100' 아모띠 "3억 상금, 서울에 집 살 것"…김동현·윤성빈 반응은? ①]]></title>
+        <title type="html"><![CDATA['피지컬:100' 아모띠 "3억 상금, 서울에 집 살 것"…김동현·윤성빈 반응은? [인터...]]></title>
         <id>https://v.daum.net/v/20240403115340163</id>
         <link href="https://v.daum.net/v/20240403115340163"/>
         <updated>2024-04-03T03:11:58.665Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240403094621141"/>
         <updated>2024-04-03T01:43:47.211Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멱살' 연우진, '전여친' 김하늘 오해 풀었다..3.2% 자체 최고 시청률]]></title>
-        <id>https://v.daum.net/v/20240403093218534</id>
-        <link href="https://v.daum.net/v/20240403093218534"/>
-        <updated>2024-04-03T00:42:25.722Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘눈물의 여왕’ 넷플릭스 글로벌 1위…美 타임지 호평까지 “낡은 관습 타파”]]></title>
-        <id>https://v.daum.net/v/20240403093210527</id>
-        <link href="https://v.daum.net/v/20240403093210527"/>
-        <updated>2024-04-03T00:42:25.723Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
