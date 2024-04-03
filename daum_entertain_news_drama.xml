@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-03T01:43:56.042Z</updated>
+    <updated>2024-04-03T02:18:12.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주원에 몰입감 폭발..팽팽 긴장감 불어넣는 강약조절 연기 포텐]]></title>
+        <id>https://v.daum.net/v/20240403111121190</id>
+        <link href="https://v.daum.net/v/20240403111121190"/>
+        <updated>2024-04-03T02:18:03.478Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전종서 로코에 ♥이충현 카메오라니…'낄끼빠빠'와 '로맨틱' 그 사이]]></title>
         <id>https://v.daum.net/v/20240403095704598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240403084507894"/>
         <updated>2024-04-03T00:42:25.737Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스승' 설경구·'비범한 천재' 박은빈..'하이퍼 나이프' 촬영 돌입]]></title>
-        <id>https://v.daum.net/v/20240403084435860</id>
-        <link href="https://v.daum.net/v/20240403084435860"/>
-        <updated>2024-04-03T00:42:25.740Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
