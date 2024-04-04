@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-04T10:10:33.925Z</updated>
+    <updated>2024-04-04T11:09:36.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세번째 결혼' 전노민, 윤지후에 막말 "숙모 오승아와 정분 난 파렴치 조카"]]></title>
+        <id>https://v.daum.net/v/20240404195200855</id>
+        <link href="https://v.daum.net/v/20240404195200855"/>
+        <updated>2024-04-04T11:08:34.103Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희·이재욱 울었다…240억 '지배종' vs 연상호 '기생수', SF 대작에 거는 기대]]></title>
         <id>https://v.daum.net/v/20240404190108494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240404152727533"/>
         <updated>2024-04-04T07:09:45.289Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파워철벽' 함은정X'이해불가' 백성현, 혐관케미 터졌다]]></title>
-        <id>https://v.daum.net/v/20240404151656034</id>
-        <link href="https://v.daum.net/v/20240404151656034"/>
-        <updated>2024-04-04T07:09:45.289Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
