@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-04T08:14:42.612Z</updated>
+    <updated>2024-04-04T09:10:58.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유아인 출연 '종말의 바보' 작가 "소행성 충돌보다 무서운 건 사람"]]></title>
+        <id>https://v.daum.net/v/20240404175430498</id>
+        <link href="https://v.daum.net/v/20240404175430498"/>
+        <updated>2024-04-04T09:10:50.069Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김금순·윤금선아가 빚어낸 '정순'의 상처와 치유]]></title>
+        <id>https://v.daum.net/v/20240404175049356</id>
+        <link href="https://v.daum.net/v/20240404175049356"/>
+        <updated>2024-04-04T09:10:50.071Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다이어트 아이콘' 고경표, 입금 완료]]></title>
         <id>https://v.daum.net/v/20240404170408352</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240404135140194"/>
         <updated>2024-04-04T05:12:02.771Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 측 "학폭? 본인·지인 확인 결과 사실무근…법적 대응"]]></title>
-        <id>https://v.daum.net/v/20240404132059034</id>
-        <link href="https://v.daum.net/v/20240404132059034"/>
-        <updated>2024-04-04T05:12:02.772Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음 "A씨=이영돈 상간녀 내 오해…일반인 피해 입혀 죄송"]]></title>
-        <id>https://v.daum.net/v/20240404123844803</id>
-        <link href="https://v.daum.net/v/20240404123844803"/>
-        <updated>2024-04-04T04:13:21.901Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
