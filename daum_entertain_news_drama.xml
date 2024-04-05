@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-05T03:12:37.245Z</updated>
+    <updated>2024-04-05T04:14:44.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동휘 "동료 배우와 이렇게 잘맞기 쉽지 않아"...'수사반장'에 대한 자신감]]></title>
+        <id>https://v.daum.net/v/20240405125101860</id>
+        <link href="https://v.daum.net/v/20240405125101860"/>
+        <updated>2024-04-05T04:14:34.793Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈→이동휘 "이렇게 호흡 잘 맞는 팀 만나기 쉽지 않은데…"]]></title>
+        <id>https://v.daum.net/v/20240405121512940</id>
+        <link href="https://v.daum.net/v/20240405121512940"/>
+        <updated>2024-04-05T04:14:34.797Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야한 사진관', 진입하면 퇴로가 없는 '내 마음에 저장' 각]]></title>
         <id>https://v.daum.net/v/20240405112240672</id>
@@ -62,6 +76,13 @@
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[박은빈, 이번엔 천재 의사 된다…‘하이퍼 나이프’ 출연 확정]]></title>
+        <id>https://v.daum.net/v/20240405100733718</id>
+        <link href="https://v.daum.net/v/20240405100733718"/>
+        <updated>2024-04-05T04:14:34.803Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김수현X김지원, 이혼 도장 찍었지만 사랑은 그대로…'눈물의 여왕' 2막 어떨까]]></title>
         <id>https://v.daum.net/v/20240405100022293</id>
         <link href="https://v.daum.net/v/20240405100022293"/>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240405093931171"/>
         <updated>2024-04-05T00:43:31.559Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멱살' 무언시에 숨겨진 비밀 셋..추리 본능 자극하는 극강 서스펜스]]></title>
-        <id>https://v.daum.net/v/20240405092905701</id>
-        <link href="https://v.daum.net/v/20240405092905701"/>
-        <updated>2024-04-05T00:43:31.559Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장 1958' 이제훈·이동휘·최우성·윤현수, 4인 단체 스틸컷 '의리']]></title>
-        <id>https://v.daum.net/v/20240405091523131</id>
-        <link href="https://v.daum.net/v/20240405091523131"/>
-        <updated>2024-04-05T00:43:31.559Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권유리 ‘선재 업고 튀어’ 특별출연, 눈부신 소녀시대 제복 자태]]></title>
-        <id>https://v.daum.net/v/20240405091314037</id>
-        <link href="https://v.daum.net/v/20240405091314037"/>
-        <updated>2024-04-05T00:43:31.561Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
