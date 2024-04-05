@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-05T22:10:52.225Z</updated>
+    <updated>2024-04-05T23:11:32.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3번의 사과, 황정음 헛발질 폭로가 남긴 것]]></title>
+        <id>https://v.daum.net/v/20240406080032913</id>
+        <link href="https://v.daum.net/v/20240406080032913"/>
+        <updated>2024-04-05T23:10:30.649Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 황정음, 엄기준 죽이기 돌입...이준과 비밀 공조 시작]]></title>
+        <id>https://v.daum.net/v/20240406080004871</id>
+        <link href="https://v.daum.net/v/20240406080004871"/>
+        <updated>2024-04-05T23:10:30.654Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더풀 월드' 차은우, 김남주 손잡고 반전 예고..최고 12.7%]]></title>
+        <id>https://v.daum.net/v/20240406073242714</id>
+        <link href="https://v.daum.net/v/20240406073242714"/>
+        <updated>2024-04-05T23:10:30.654Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 메두사 황정음 선전포고..총성 엔딩 최고 6.4%]]></title>
+        <id>https://v.daum.net/v/20240406071227530</id>
+        <link href="https://v.daum.net/v/20240406071227530"/>
+        <updated>2024-04-05T23:10:30.654Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["위험한 놈" 김강우, 차은우 경계…김남주는 싸늘]]></title>
+        <id>https://v.daum.net/v/20240406071008515</id>
+        <link href="https://v.daum.net/v/20240406071008515"/>
+        <updated>2024-04-05T23:10:30.655Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닭강정’으로 입증한 류승룡의 연기 스펙트럼]]></title>
         <id>https://v.daum.net/v/20240406070310437</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240406042400139"/>
         <updated>2024-04-05T20:11:13.043Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 母 사망 진범 알았다…김남주 "너도 아는 사람"]]></title>
-        <id>https://v.daum.net/v/20240405234445190</id>
-        <link href="https://v.daum.net/v/20240405234445190"/>
-        <updated>2024-04-05T15:10:39.832Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주, "차은우母 사망, 사고 아닌 사건…배후=박혁권" 차은우와 힘 합칠까]]></title>
-        <id>https://v.daum.net/v/20240405232638115</id>
-        <link href="https://v.daum.net/v/20240405232638115"/>
-        <updated>2024-04-05T15:10:39.837Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀월드' 차은우, 복수 타깃은 박혁권...범인 알고 있었다 '소름 반전']]></title>
-        <id>https://v.daum.net/v/20240405232530113</id>
-        <link href="https://v.daum.net/v/20240405232530113"/>
-        <updated>2024-04-05T15:10:39.845Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 메두사=황정음...이준과 비밀 공조 "원하는건 엄기준의 죽음"]]></title>
-        <id>https://v.daum.net/v/20240405231832072</id>
-        <link href="https://v.daum.net/v/20240405231832072"/>
-        <updated>2024-04-05T15:10:39.845Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메두사=황정음, 엄기준 향한 복수 시작..이준과 비밀 공조]]></title>
-        <id>https://v.daum.net/v/20240405231755064</id>
-        <link href="https://v.daum.net/v/20240405231755064"/>
-        <updated>2024-04-05T15:10:39.845Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
