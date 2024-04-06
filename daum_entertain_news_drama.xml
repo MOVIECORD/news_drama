@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-06T05:11:14.818Z</updated>
+    <updated>2024-04-06T06:12:41.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['눈물의 여왕' 김수현 용두리X김지원 퀸드일가, 세기의 사돈 어색한 저녁식사]]></title>
+        <title type="html"><![CDATA['7인의 부활' 이유비, 인물 간 텐션 유발..불안함→두려움→분노 '3단 감정선']]></title>
+        <id>https://v.daum.net/v/20240406151204750</id>
+        <link href="https://v.daum.net/v/20240406151204750"/>
+        <updated>2024-04-06T06:12:33.593Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['야한 사진관' 주원, 한 번만 보고 안 본 사람 없다..'겉바속촉' 매력]]></title>
+        <id>https://v.daum.net/v/20240406150154571</id>
+        <link href="https://v.daum.net/v/20240406150154571"/>
+        <updated>2024-04-06T06:12:33.593Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕' 김수현 용두리X김지원 퀸즈일가, 세기의 사돈 어색한 저녁식사]]></title>
         <id>https://v.daum.net/v/20240406140621976</id>
         <link href="https://v.daum.net/v/20240406140621976"/>
         <updated>2024-04-06T05:10:12.925Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240406102113534"/>
         <updated>2024-04-06T01:41:22.081Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금한나가 누구길래…황정음, 알고보니 신분속인 채 뒷작업 중]]></title>
-        <id>https://v.daum.net/v/20240406101203426</id>
-        <link href="https://v.daum.net/v/20240406101203426"/>
-        <updated>2024-04-06T01:41:22.081Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열애·결별·이혼·학폭 의혹…바쁘다 바빠 연예계]]></title>
-        <id>https://v.daum.net/v/20240406093230881</id>
-        <link href="https://v.daum.net/v/20240406093230881"/>
-        <updated>2024-04-06T00:42:04.892Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
