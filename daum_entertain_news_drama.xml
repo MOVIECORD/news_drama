@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-06T02:17:00.929Z</updated>
+    <updated>2024-04-06T03:11:41.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 메두사=황정음이었다…이유비 지목 후 총소리 엔딩]]></title>
+        <id>https://v.daum.net/v/20240406114518569</id>
+        <link href="https://v.daum.net/v/20240406114518569"/>
+        <updated>2024-04-06T03:11:32.053Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멱살' 김하늘·연우진·장승조, 갈등 최고조..'일촉즉발' 삼각관계]]></title>
         <id>https://v.daum.net/v/20240406111243162</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240406081421075"/>
         <updated>2024-04-06T00:42:04.903Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3번의 사과, 황정음 헛발질 폭로가 남긴 것]]></title>
-        <id>https://v.daum.net/v/20240406080032913</id>
-        <link href="https://v.daum.net/v/20240406080032913"/>
-        <updated>2024-04-05T23:10:30.649Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
