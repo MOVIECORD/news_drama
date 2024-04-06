@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-06T00:43:06.786Z</updated>
+    <updated>2024-04-06T01:41:31.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활', "지금부터 우리의 비밀공조를 시작한다"…'메두사'는 황정음이었다]]></title>
+        <id>https://v.daum.net/v/20240406102332551</id>
+        <link href="https://v.daum.net/v/20240406102332551"/>
+        <updated>2024-04-06T01:41:22.080Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['선재 업고 튀어’ D-2...변우석-김혜윤, 빗속 눈물의 우산 재회 ‘설렘주의보 발동’]]></title>
+        <id>https://v.daum.net/v/20240406102113534</id>
+        <link href="https://v.daum.net/v/20240406102113534"/>
+        <updated>2024-04-06T01:41:22.081Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금한나가 누구길래…황정음, 알고보니 신분속인 채 뒷작업 중]]></title>
+        <id>https://v.daum.net/v/20240406101203426</id>
+        <link href="https://v.daum.net/v/20240406101203426"/>
+        <updated>2024-04-06T01:41:22.081Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열애·결별·이혼·학폭 의혹…바쁘다 바빠 연예계]]></title>
         <id>https://v.daum.net/v/20240406093230881</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240406073242714"/>
         <updated>2024-04-05T23:10:30.654Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 메두사 황정음 선전포고..총성 엔딩 최고 6.4%]]></title>
-        <id>https://v.daum.net/v/20240406071227530</id>
-        <link href="https://v.daum.net/v/20240406071227530"/>
-        <updated>2024-04-05T23:10:30.654Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["위험한 놈" 김강우, 차은우 경계…김남주는 싸늘]]></title>
-        <id>https://v.daum.net/v/20240406071008515</id>
-        <link href="https://v.daum.net/v/20240406071008515"/>
-        <updated>2024-04-05T23:10:30.655Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닭강정’으로 입증한 류승룡의 연기 스펙트럼]]></title>
-        <id>https://v.daum.net/v/20240406070310437</id>
-        <link href="https://v.daum.net/v/20240406070310437"/>
-        <updated>2024-04-05T22:09:50.392Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
