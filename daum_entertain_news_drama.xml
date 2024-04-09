@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-09T20:10:34.637Z</updated>
+    <updated>2024-04-09T21:10:32.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선재 업고 튀어' 김혜윤, 변우석♥ 일방 아니었네]]></title>
+        <id>https://v.daum.net/v/20240410060000361</id>
+        <link href="https://v.daum.net/v/20240410060000361"/>
+        <updated>2024-04-09T21:10:24.159Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국서 처음 본 배양육 소재, 근미래에 물음표 던질 ‘지배종’]]></title>
+        <id>https://v.daum.net/v/20240410055105243</id>
+        <link href="https://v.daum.net/v/20240410055105243"/>
+        <updated>2024-04-09T21:10:24.160Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선업튀' 변우석, 김혜윤 짝사랑 중이었다…교통사고 막고 '애틋 포옹']]></title>
         <id>https://v.daum.net/v/20240409221239794</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240409205003081"/>
         <updated>2024-04-09T12:17:55.202Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이' 오창석, 이소연에 직진 고백 "네 남자 될 권리 줄래?"]]></title>
-        <id>https://v.daum.net/v/20240409204552986</id>
-        <link href="https://v.daum.net/v/20240409204552986"/>
-        <updated>2024-04-09T12:17:55.204Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜윤, 변우석·송건희와 아슬아슬한 '삼자대면']]></title>
-        <id>https://v.daum.net/v/20240409203005594</id>
-        <link href="https://v.daum.net/v/20240409203005594"/>
-        <updated>2024-04-09T12:17:55.205Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
