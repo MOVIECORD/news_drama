@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-09T22:09:40.589Z</updated>
+    <updated>2024-04-09T23:10:41.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 변우석, ♥김혜윤 하반신 마비 사고 막았다…미래 바뀌기 시작]]></title>
+        <id>https://v.daum.net/v/20240410081001608</id>
+        <link href="https://v.daum.net/v/20240410081001608"/>
+        <updated>2024-04-09T23:10:32.259Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김하늘, 살인범 의혹]]></title>
+        <id>https://v.daum.net/v/20240410080903594</id>
+        <link href="https://v.daum.net/v/20240410080903594"/>
+        <updated>2024-04-09T23:10:32.262Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연상호 감독, '기생수: 더 그레이'로 이름값 회복]]></title>
         <id>https://v.daum.net/v/20240410070138613</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240409212008802"/>
         <updated>2024-04-09T13:10:21.136Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김승현 딸 “난 축복받지 못한 느낌”, 23살 어린 동생에 질투+혼란]]></title>
-        <id>https://v.daum.net/v/20240409211452662</id>
-        <link href="https://v.daum.net/v/20240409211452662"/>
-        <updated>2024-04-09T12:17:55.201Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["누님, 뛰어야 할 것 같은데?"…'김혜윤 구 최애' 송건희 첫 등장]]></title>
-        <id>https://v.daum.net/v/20240409211350631</id>
-        <link href="https://v.daum.net/v/20240409211350631"/>
-        <updated>2024-04-09T12:17:55.201Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
