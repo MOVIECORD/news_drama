@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-10T10:12:04.524Z</updated>
+    <updated>2024-04-10T11:11:09.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공 배양육 소재 건든 '지배종', 새롭고 새롭고 또 새롭다]]></title>
+        <id>https://v.daum.net/v/20240410193747425</id>
+        <link href="https://v.daum.net/v/20240410193747425"/>
+        <updated>2024-04-10T11:11:00.233Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서범준, 김하늘 정보원이었다…성실한 막내 아닌 '제우스']]></title>
         <id>https://v.daum.net/v/20240410165409814</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410110103033"/>
         <updated>2024-04-10T02:19:14.862Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한효주 차 위로 떨어진男..'지배종', 파격 그 자체 첫공개]]></title>
-        <id>https://v.daum.net/v/20240410101519062</id>
-        <link href="https://v.daum.net/v/20240410101519062"/>
-        <updated>2024-04-10T01:43:50.601Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
