@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-10T15:11:44.578Z</updated>
+    <updated>2024-04-10T16:16:23.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기생수: 더 그레이' 터졌다... 넷플릭스 글로벌 TOP10 비영어 부문 1위 등극]]></title>
+        <id>https://v.daum.net/v/20240411003431227</id>
+        <link href="https://v.daum.net/v/20240411003431227"/>
+        <updated>2024-04-10T16:15:21.852Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나는 솔로' 측 "억대 재방료 탐낸 적 없다…남규홍 PD 딸, 아빠찬스 NO"]]></title>
         <id>https://v.daum.net/v/20240411000138434</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410154351393"/>
         <updated>2024-04-10T07:11:16.380Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주원, 극 완성도 높인 눈빛+표정..모든 감정 담아낸 명불허전 연기]]></title>
-        <id>https://v.daum.net/v/20240410150802722</id>
-        <link href="https://v.daum.net/v/20240410150802722"/>
-        <updated>2024-04-10T06:13:46.209Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
