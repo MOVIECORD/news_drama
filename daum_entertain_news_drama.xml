@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-11T21:10:16.503Z</updated>
+    <updated>2024-04-11T22:09:56.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에버글로우 시현, 배우 데뷔→드라마 '살롱 드 홈즈' 출연 확정]]></title>
+        <id>https://v.daum.net/v/20240412070834638</id>
+        <link href="https://v.daum.net/v/20240412070834638"/>
+        <updated>2024-04-11T22:09:48.255Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’, ‘사불’보다 빠르다…신드롬 이유3]]></title>
+        <id>https://v.daum.net/v/20240412063014026</id>
+        <link href="https://v.daum.net/v/20240412063014026"/>
+        <updated>2024-04-11T22:09:48.256Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이혜정 “저 남자 묻어버려야” 살벌…‘탐정들의 영업비밀’ 정규 편성]]></title>
         <id>https://v.daum.net/v/20240412040024300</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240411164649372"/>
         <updated>2024-04-11T08:13:25.790Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장 1958’ 이제훈 맨몸 액션연기, 달리고 구르는 악전고투]]></title>
-        <id>https://v.daum.net/v/20240411160349802</id>
-        <link href="https://v.daum.net/v/20240411160349802"/>
-        <updated>2024-04-11T07:10:45.252Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤다훈 사업 실패 들통날까..조미령에 머리채 잡힌 사연]]></title>
-        <id>https://v.daum.net/v/20240411153503526</id>
-        <link href="https://v.daum.net/v/20240411153503526"/>
-        <updated>2024-04-11T07:10:45.253Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
