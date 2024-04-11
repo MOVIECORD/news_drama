@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-11T13:12:17.117Z</updated>
+    <updated>2024-04-11T14:09:38.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄효섭, '지배종' 재계 1위 회장 변신]]></title>
+        <id>https://v.daum.net/v/20240411224601579</id>
+        <link href="https://v.daum.net/v/20240411224601579"/>
+        <updated>2024-04-11T14:09:30.442Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하연주, 이름 또 바꿨다 '이혜지→배도은→김수미'..이소연 '충격']]></title>
         <id>https://v.daum.net/v/20240411210649128</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240411141958666"/>
         <updated>2024-04-11T06:13:37.618Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생의 밑바닥까지 본 이보영, 이젠 각성과 반격 보여줄까]]></title>
-        <id>https://v.daum.net/v/20240411141847625</id>
-        <link href="https://v.daum.net/v/20240411141847625"/>
-        <updated>2024-04-11T06:13:37.619Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
