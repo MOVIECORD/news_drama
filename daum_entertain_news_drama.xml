@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-11T18:12:32.174Z</updated>
+    <updated>2024-04-11T19:09:24.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혜정 “저 남자 묻어버려야” 살벌…‘탐정들의 영업비밀’ 정규 편성]]></title>
+        <id>https://v.daum.net/v/20240412040024300</id>
+        <link href="https://v.daum.net/v/20240412040024300"/>
+        <updated>2024-04-11T19:08:22.325Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향·지현우, 집중 모드 ON…촬영장 비하인드컷 공개]]></title>
         <id>https://v.daum.net/v/20240412030009046</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240411153503526</id>
         <link href="https://v.daum.net/v/20240411153503526"/>
         <updated>2024-04-11T07:10:45.253Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘, 촬영장에서 맞이한 46살 생일..훈훈해진 '멱살']]></title>
-        <id>https://v.daum.net/v/20240411152113978</id>
-        <link href="https://v.daum.net/v/20240411152113978"/>
-        <updated>2024-04-11T07:10:45.254Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
