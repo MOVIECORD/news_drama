@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-11T17:10:39.666Z</updated>
+    <updated>2024-04-11T18:12:32.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임수향·지현우, 집중 모드 ON…촬영장 비하인드컷 공개]]></title>
+        <id>https://v.daum.net/v/20240412030009046</id>
+        <link href="https://v.daum.net/v/20240412030009046"/>
+        <updated>2024-04-11T18:12:22.999Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수호·홍예지·명세빈·김주헌·김민규, 생동감 있는 현장 비하인드컷]]></title>
         <id>https://v.daum.net/v/20240412010010790</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240411152113978"/>
         <updated>2024-04-11T07:10:45.254Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼식이 삼촌’ 해외포스터 공개, 속내 알 수 없는 송강호 표정]]></title>
-        <id>https://v.daum.net/v/20240411145332900</id>
-        <link href="https://v.daum.net/v/20240411145332900"/>
-        <updated>2024-04-11T06:13:37.618Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
