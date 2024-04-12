@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-12T07:12:56.287Z</updated>
+    <updated>2024-04-12T08:12:56.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김하늘X연우진, 혐관→로맨스 다시 시작?…'멱살 한번' 속 급이 다른 멜로]]></title>
+        <id>https://v.daum.net/v/20240412164250044</id>
+        <link href="https://v.daum.net/v/20240412164250044"/>
+        <updated>2024-04-12T08:12:49.919Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수호, 데뷔 첫 사극으로 꿈꾸는 '세자상']]></title>
         <id>https://v.daum.net/v/20240412155417636</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240412124730124"/>
         <updated>2024-04-12T04:12:31.092Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현 이제훈 그리고 수호…'세자가 사라졌다', 주말 시청률 전쟁 합류]]></title>
-        <id>https://v.daum.net/v/20240412123654002</id>
-        <link href="https://v.daum.net/v/20240412123654002"/>
-        <updated>2024-04-12T04:12:31.093Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
