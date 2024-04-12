@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-12T18:12:02.122Z</updated>
+    <updated>2024-04-12T19:08:55.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 황정음, 엄기준이 판 함정에 빠진 이준 도왔다…'메두사' 정체 발각 위기]]></title>
+        <id>https://v.daum.net/v/20240413032100427</id>
+        <link href="https://v.daum.net/v/20240413032100427"/>
+        <updated>2024-04-12T19:08:46.636Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 부활' 이준, "걔도 내가 느꼈던 감정들 느끼고 있지 않을까"…이유비 걱정]]></title>
         <id>https://v.daum.net/v/20240413025100257</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“죽여 줄게” 차은우, 난간에서 박혁권 살해 협박…“같이 가자”]]></title>
+        <title type="html"><![CDATA[“죽여줄게” 차은우, 난간에서 박혁권 살해 협박…“같이 가자”]]></title>
         <id>https://v.daum.net/v/20240413024201233</id>
         <link href="https://v.daum.net/v/20240413024201233"/>
         <updated>2024-04-12T18:11:00.081Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240412222039580"/>
         <updated>2024-04-12T14:10:08.510Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 엄기준, 이정신에 악수 거부당하고 '분노']]></title>
-        <id>https://v.daum.net/v/20240412221523498</id>
-        <link href="https://v.daum.net/v/20240412221523498"/>
-        <updated>2024-04-12T14:10:08.511Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
