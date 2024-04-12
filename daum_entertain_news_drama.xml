@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-12T06:13:49.994Z</updated>
+    <updated>2024-04-12T07:12:56.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수호, 데뷔 첫 사극으로 꿈꾸는 '세자상']]></title>
+        <id>https://v.daum.net/v/20240412155417636</id>
+        <link href="https://v.daum.net/v/20240412155417636"/>
+        <updated>2024-04-12T07:11:54.504Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥미로운 소재와 볼거리로 몰입감 배양하는 '지배종']]></title>
+        <id>https://v.daum.net/v/20240412151956537</id>
+        <link href="https://v.daum.net/v/20240412151956537"/>
+        <updated>2024-04-12T07:11:54.505Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지배종' 한효주, "TED 강연 찾아보고 대본 통째로 외워" 뜨거운 연기 열정]]></title>
         <id>https://v.daum.net/v/20240412150825135</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240412123654002"/>
         <updated>2024-04-12T04:12:31.093Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["선생님, 처음부터 너였어"..김수현♥김지원 다음은 정려원♥위하준 로맨스]]></title>
-        <id>https://v.daum.net/v/20240412123100897</id>
-        <link href="https://v.daum.net/v/20240412123100897"/>
-        <updated>2024-04-12T04:12:31.095Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘보쌈’으로 시작된 수호의 사랑과 모험, ‘세자가 사라졌다’...‘여심’ 자극제 될까]]></title>
-        <id>https://v.daum.net/v/20240412123003877</id>
-        <link href="https://v.daum.net/v/20240412123003877"/>
-        <updated>2024-04-12T04:12:31.096Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
