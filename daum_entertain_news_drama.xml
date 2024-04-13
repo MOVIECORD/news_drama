@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-13T02:09:46.278Z</updated>
+    <updated>2024-04-13T03:10:15.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[굿모닝, 오늘은 수호 DAY입니다]]></title>
+        <id>https://v.daum.net/v/20240413120019527</id>
+        <link href="https://v.daum.net/v/20240413120019527"/>
+        <updated>2024-04-13T03:09:13.247Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘원더풀 월드’ 김강우, 짖는 개일까?, 무는 개일까?]]></title>
+        <id>https://v.daum.net/v/20240413112045184</id>
+        <link href="https://v.daum.net/v/20240413112045184"/>
+        <updated>2024-04-13T03:09:13.247Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현, ♥김지원 협박한 박성훈과 몸싸움..살벌 멱살잡이]]></title>
         <id>https://v.daum.net/v/20240413104345842</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240413075009083"/>
         <updated>2024-04-12T23:08:08.252Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김강우, 불륜 저지르고 子 살해범에 증거 넘겼다…김남주, 기자회견서 '폭로']]></title>
-        <id>https://v.daum.net/v/20240413073902963</id>
-        <link href="https://v.daum.net/v/20240413073902963"/>
-        <updated>2024-04-12T23:08:08.253Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 엄기준, 메두사 존재 알았다..황정음 정체 발각 위기]]></title>
-        <id>https://v.daum.net/v/20240413073418872</id>
-        <link href="https://v.daum.net/v/20240413073418872"/>
-        <updated>2024-04-12T23:08:08.254Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
