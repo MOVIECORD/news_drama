@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-14T02:56:02.223Z</updated>
+    <updated>2024-04-14T03:50:46.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김주헌 압도적 존재감, 첫 미니시리즈 사극 도전 청신호]]></title>
+        <id>https://v.daum.net/v/20240414123042031</id>
+        <link href="https://v.daum.net/v/20240414123042031"/>
+        <updated>2024-04-14T03:50:37.255Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수호, 새로운 왕세자의 탄생]]></title>
+        <id>https://v.daum.net/v/20240414121757893</id>
+        <link href="https://v.daum.net/v/20240414121757893"/>
+        <updated>2024-04-14T03:50:37.256Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안방에 설렘 주의보…봄 사랑 벚꽃 말고 '선재 업고 튀어']]></title>
+        <id>https://v.daum.net/v/20240414120144700</id>
+        <link href="https://v.daum.net/v/20240414120144700"/>
+        <updated>2024-04-14T03:50:37.257Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공 배양육 앞세운 '지배종', 디즈니+ 새 흥행작 등극할까]]></title>
+        <id>https://v.daum.net/v/20240414120118681</id>
+        <link href="https://v.daum.net/v/20240414120118681"/>
+        <updated>2024-04-14T03:50:37.257Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미녀와 순정남' 임수향, '첫사랑=지현우' 알았다 '혼돈']]></title>
         <id>https://v.daum.net/v/20240414112826003</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240414100548684"/>
         <updated>2024-04-14T02:55:00.419Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현 고백 속 김지원, 혼란에 빠졌다…최고 20%]]></title>
-        <id>https://v.daum.net/v/20240414100302617</id>
-        <link href="https://v.daum.net/v/20240414100302617"/>
-        <updated>2024-04-14T02:55:00.420Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주 "차은우, 한번도 지각 無+스태프 짐도 들어..잘될 수밖에"]]></title>
-        <id>https://v.daum.net/v/20240414100039557</id>
-        <link href="https://v.daum.net/v/20240414100039557"/>
-        <updated>2024-04-14T02:55:00.422Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 차은우 "각자의 해피엔딩, 계속 응원"]]></title>
-        <id>https://v.daum.net/v/20240414095911481</id>
-        <link href="https://v.daum.net/v/20240414095911481"/>
-        <updated>2024-04-14T02:55:00.423Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 차은우 "복수심 납득이 숙제..새드엔딩 상상"]]></title>
-        <id>https://v.daum.net/v/20240414095622426</id>
-        <link href="https://v.daum.net/v/20240414095622426"/>
-        <updated>2024-04-14T00:57:35.778Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
