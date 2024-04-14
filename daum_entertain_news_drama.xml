@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-14T05:57:48.852Z</updated>
+    <updated>2024-04-14T07:53:13.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕' 김수현 취중 고백신 노래였구나..'Promise' 오늘 발매]]></title>
+        <id>https://v.daum.net/v/20240414151412035</id>
+        <link href="https://v.daum.net/v/20240414151412035"/>
+        <updated>2024-04-14T07:53:04.080Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연우진 장승조 경찰서 앞에서 주먹다짐, 갈등 최고조]]></title>
         <id>https://v.daum.net/v/20240414144256215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240414120118681"/>
         <updated>2024-04-14T03:50:37.257Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 임수향, '첫사랑=지현우' 알았다 '혼돈']]></title>
-        <id>https://v.daum.net/v/20240414112826003</id>
-        <link href="https://v.daum.net/v/20240414112826003"/>
-        <updated>2024-04-14T02:55:00.405Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
