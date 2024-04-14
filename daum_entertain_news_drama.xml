@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-14T03:50:46.563Z</updated>
+    <updated>2024-04-14T04:35:04.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사실 이무생이어서 넘어갔지만, 이 밑바닥 빌런도 납득이 필요하다]]></title>
+        <id>https://v.daum.net/v/20240414132319694</id>
+        <link href="https://v.daum.net/v/20240414132319694"/>
+        <updated>2024-04-14T04:34:56.476Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원더풀 월드' 김남주 "쉽지 않은 작품, 용기 있게 끌고 가"]]></title>
+        <id>https://v.daum.net/v/20240414130249353</id>
+        <link href="https://v.daum.net/v/20240414130249353"/>
+        <updated>2024-04-14T04:34:56.477Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈빛만으로 박성훈 변신, 김수현 1인2역 연기 차력쇼]]></title>
+        <id>https://v.daum.net/v/20240414123550075</id>
+        <link href="https://v.daum.net/v/20240414123550075"/>
+        <updated>2024-04-14T04:34:56.477Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김주헌 압도적 존재감, 첫 미니시리즈 사극 도전 청신호]]></title>
         <id>https://v.daum.net/v/20240414123042031</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240414101301808"/>
         <updated>2024-04-14T02:55:00.414Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘선재 업고 튀어’, 입소문 제대로 터졌다...변우석x김혜윤, 쌍방 로맨스 예고]]></title>
-        <id>https://v.daum.net/v/20240414100857740</id>
-        <link href="https://v.daum.net/v/20240414100857740"/>
-        <updated>2024-04-14T02:55:00.416Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 차은우 "꽉 찬 해피엔딩…선율아, 더 잘 살고 행복하자"]]></title>
-        <id>https://v.daum.net/v/20240414100624694</id>
-        <link href="https://v.daum.net/v/20240414100624694"/>
-        <updated>2024-04-14T02:55:00.419Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주 “얼굴천재 차은우, 단 한 번도 늦은 적 없고 성실”]]></title>
-        <id>https://v.daum.net/v/20240414100548684</id>
-        <link href="https://v.daum.net/v/20240414100548684"/>
-        <updated>2024-04-14T02:55:00.419Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
