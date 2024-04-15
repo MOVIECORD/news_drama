@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-15T03:20:11.316Z</updated>
+    <updated>2024-04-15T04:26:54.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변우석 김혜윤, 불 꺼진 수영장서 로맨틱 케미 폭발]]></title>
+        <id>https://v.daum.net/v/20240415132310223</id>
+        <link href="https://v.daum.net/v/20240415132310223"/>
+        <updated>2024-04-15T04:26:45.060Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미녀와 순정남’ 지현우, 여심 잡은 순박 츤데레]]></title>
         <id>https://v.daum.net/v/20240415121821883</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415100715076"/>
         <updated>2024-04-15T03:20:02.542Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼식이 삼촌' 변요한에게 손 내민 송강호, 원대한 계획의 시작]]></title>
-        <id>https://v.daum.net/v/20240415100329932</id>
-        <link href="https://v.daum.net/v/20240415100329932"/>
-        <updated>2024-04-15T03:20:02.543Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
