@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-15T18:13:54.655Z</updated>
+    <updated>2024-04-15T19:09:32.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고경표, 은퇴설 나온 작품 근황 “무조건 재미있다” 자신]]></title>
+        <id>https://v.daum.net/v/20240416040014353</id>
+        <link href="https://v.daum.net/v/20240416040014353"/>
+        <updated>2024-04-15T19:09:25.447Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수, 마성의 유교남…기품 넘치는 첫 스틸 공개]]></title>
         <id>https://v.daum.net/v/20240416010007830</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415165002750"/>
         <updated>2024-04-15T08:11:03.689Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수호, 믿었던 신하에 칼 맞았다…뒤통수 얼얼 엔딩]]></title>
-        <id>https://v.daum.net/v/20240415163309016</id>
-        <link href="https://v.daum.net/v/20240415163309016"/>
-        <updated>2024-04-15T08:11:03.689Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
