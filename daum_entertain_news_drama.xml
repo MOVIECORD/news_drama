@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-15T13:12:27.263Z</updated>
+    <updated>2024-04-15T14:09:28.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 김혜윤, ♥변우석과 첫키스…기억 못한 채 15년 후로 돌아가 '충격']]></title>
+        <id>https://v.daum.net/v/20240415221208439</id>
+        <link href="https://v.daum.net/v/20240415221208439"/>
+        <updated>2024-04-15T14:09:19.224Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선업튀' 변우석, 술 취한 김혜윤에 고백+뽀뽀 "좋아해"]]></title>
         <id>https://v.daum.net/v/20240415220526388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240415155506122"/>
         <updated>2024-04-15T07:08:28.053Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새라X이한울, '수지맞은 우리' OST 가창..오늘 '칵테일 사랑' 리메이크]]></title>
-        <id>https://v.daum.net/v/20240415152922166</id>
-        <link href="https://v.daum.net/v/20240415152922166"/>
-        <updated>2024-04-15T07:08:28.055Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
