@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-16T21:10:13.196Z</updated>
+    <updated>2024-04-16T22:10:20.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김혜윤, 생명의 은인=♥변우석 알고 ‘눈물’..“내가 잃어버린 건 너였을까”]]></title>
+        <id>https://v.daum.net/v/20240417065413882</id>
+        <link href="https://v.daum.net/v/20240417065413882"/>
+        <updated>2024-04-16T22:10:11.720Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀은 없어' 고경표·강한나·주종혁, 거짓말보다 짜릿한 진심이 터진다]]></title>
+        <id>https://v.daum.net/v/20240417064016688</id>
+        <link href="https://v.daum.net/v/20240417064016688"/>
+        <updated>2024-04-16T22:10:11.722Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선재 업고 튀어' 김혜윤, 변우석 도움에 구사일생..눈물 포옹]]></title>
         <id>https://v.daum.net/v/20240416221538894</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240416194800860"/>
         <updated>2024-04-16T11:08:41.242Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익순이가 카레이싱을?..확 달라진 곽선영, '크래시' 액션 연기 첫 도전]]></title>
-        <id>https://v.daum.net/v/20240416193320525</id>
-        <link href="https://v.daum.net/v/20240416193320525"/>
-        <updated>2024-04-16T11:08:41.245Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그날의 진실은?' 주원X권나라, 충격적 사실 알게된다]]></title>
-        <id>https://v.daum.net/v/20240416191104977</id>
-        <link href="https://v.daum.net/v/20240416191104977"/>
-        <updated>2024-04-16T10:11:22.722Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
