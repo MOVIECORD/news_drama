@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-17T09:10:14.482Z</updated>
+    <updated>2024-04-17T10:11:15.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박은빈, 천재 의사 된다..'하이퍼 나이프' 출연 확정]]></title>
+        <id>https://v.daum.net/v/20240417190921227</id>
+        <link href="https://v.daum.net/v/20240417190921227"/>
+        <updated>2024-04-17T10:11:06.311Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연기도, 스토리도 좋은데…'야한 사진관', 플랫폼 고집에 희생되나]]></title>
+        <id>https://v.daum.net/v/20240417183003213</id>
+        <link href="https://v.daum.net/v/20240417183003213"/>
+        <updated>2024-04-17T10:11:06.312Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼식이 삼촌' 송강호, 34년만에 첫 드라마..이유있는 변신]]></title>
         <id>https://v.daum.net/v/20240417180058403</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240417151159487"/>
         <updated>2024-04-17T06:15:20.928Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더풀 월드' 작가 "차은우, 이렇게까지?…잠재력 무궁무진해" ②]]></title>
-        <id>https://v.daum.net/v/20240417145752921</id>
-        <link href="https://v.daum.net/v/20240417145752921"/>
-        <updated>2024-04-17T06:15:20.928Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장’ 이제훈 “낯선 시대 완벽 구현, 촬영하면서도 신기했다”]]></title>
-        <id>https://v.daum.net/v/20240417145410754</id>
-        <link href="https://v.daum.net/v/20240417145410754"/>
-        <updated>2024-04-17T06:15:20.930Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
