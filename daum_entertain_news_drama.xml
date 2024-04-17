@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-17T22:09:24.103Z</updated>
+    <updated>2024-04-17T23:12:03.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정려원 위하준, 키스 1초 전 교무실 밀회]]></title>
+        <id>https://v.daum.net/v/20240418081109536</id>
+        <link href="https://v.daum.net/v/20240418081109536"/>
+        <updated>2024-04-17T23:11:54.611Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대치동 강사' 정려원♥'제자' 위하준, 학원서 키스..'졸업' 포스터 2종 공개]]></title>
+        <id>https://v.daum.net/v/20240418080935501</id>
+        <link href="https://v.daum.net/v/20240418080935501"/>
+        <updated>2024-04-17T23:11:54.615Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홀로서기 한 변요한, 5월 극장·안방 동시 겨냥]]></title>
         <id>https://v.daum.net/v/20240418063016832</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240417180058403"/>
         <updated>2024-04-17T09:10:05.340Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4.1% 수도권 최고 찍었다..'선재 업고 튀어'에 오는 반응]]></title>
-        <id>https://v.daum.net/v/20240417180044393</id>
-        <link href="https://v.daum.net/v/20240417180044393"/>
-        <updated>2024-04-17T09:10:05.341Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS, 새 예능 '정글밥' 론칭…"'정글의 법칙' 스핀오프 NO, 류수영 검토"]]></title>
-        <id>https://v.daum.net/v/20240417172647269</id>
-        <link href="https://v.daum.net/v/20240417172647269"/>
-        <updated>2024-04-17T09:10:05.342Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
