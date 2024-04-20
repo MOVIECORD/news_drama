@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-20T07:10:11.106Z</updated>
+    <updated>2024-04-20T08:11:33.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전설의 형사’ 4인방 이제훈·이동휘→최우성, 본격 첫 출격…뭉클한 성장 스토리 예고]]></title>
+        <id>https://v.daum.net/v/20240420162408436</id>
+        <link href="https://v.daum.net/v/20240420162408436"/>
+        <updated>2024-04-20T08:11:25.276Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정음, 딸 복수 성공할까..6人 지하감옥 데스게임 결과는?]]></title>
         <id>https://v.daum.net/v/20240420155514036</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240420110018431"/>
         <updated>2024-04-20T02:17:55.959Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장 1958' 이제훈, 열혈 형사 박영한으로 화끈하게 변신…'물 만났다!' 호평]]></title>
-        <id>https://v.daum.net/v/20240420104337264</id>
-        <link href="https://v.daum.net/v/20240420104337264"/>
-        <updated>2024-04-20T02:17:55.959Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
