@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-20T05:10:17.885Z</updated>
+    <updated>2024-04-20T06:12:39.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱이라 가능한 것 #동조자 #로다주 #블랙코미디]]></title>
+        <id>https://v.daum.net/v/20240420145035374</id>
+        <link href="https://v.daum.net/v/20240420145035374"/>
+        <updated>2024-04-20T06:12:32.144Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체면치레도 못한 시청률 대가들의 추락, 흥행 보증수표는 왜 부도가 났나]]></title>
+        <id>https://v.daum.net/v/20240420142511099</id>
+        <link href="https://v.daum.net/v/20240420142511099"/>
+        <updated>2024-04-20T06:12:32.144Z</updated>
+        <content type="html"><![CDATA[엔터미디어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현 첫사랑=배수지 아닌 이수지?..김지원 동공지진]]></title>
         <id>https://v.daum.net/v/20240420140023798</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240420100909984"/>
         <updated>2024-04-20T01:43:37.045Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['말랑 로맨틱' 김수현, 김지원 위해 이번엔 '크리스마스 이벤트']]></title>
-        <id>https://v.daum.net/v/20240420095304783</id>
-        <link href="https://v.daum.net/v/20240420095304783"/>
-        <updated>2024-04-20T01:43:37.046Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈 매직 또 통했다…'수사반장 1958', 첫방송 10% 돌파]]></title>
-        <id>https://v.daum.net/v/20240420094526646</id>
-        <link href="https://v.daum.net/v/20240420094526646"/>
-        <updated>2024-04-20T01:43:37.047Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
