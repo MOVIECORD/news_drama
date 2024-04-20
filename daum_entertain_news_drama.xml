@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-20T03:13:49.569Z</updated>
+    <updated>2024-04-20T04:14:13.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동룡이가 진화했다..'수사반장 1958' 이동휘, 믿고 보는 웃음벨]]></title>
+        <id>https://v.daum.net/v/20240420124020210</id>
+        <link href="https://v.daum.net/v/20240420124020210"/>
+        <updated>2024-04-20T04:14:07.189Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘눈물의 여왕’ 하나만 뽑으려 했는데…‘웃음 담뿍’에 멜로도 3색]]></title>
         <id>https://v.daum.net/v/20240420120047954</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240420090116112"/>
         <updated>2024-04-20T00:44:30.695Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장 1958' 이제훈·이동휘, 첫방부터 '베커상' 침 바르기]]></title>
-        <id>https://v.daum.net/v/20240420090028071</id>
-        <link href="https://v.daum.net/v/20240420090028071"/>
-        <updated>2024-04-20T00:44:30.697Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
