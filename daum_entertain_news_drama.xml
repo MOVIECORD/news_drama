@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-21T02:22:17.700Z</updated>
+    <updated>2024-04-21T03:10:59.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 변우석♥김혜윤 보고도 안 설렌다면 유죄]]></title>
+        <id>https://v.daum.net/v/20240421113710348</id>
+        <link href="https://v.daum.net/v/20240421113710348"/>
+        <updated>2024-04-21T03:10:51.612Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현♥김지원 사랑의 서사…dori, '눈물의 여왕' OST 참여]]></title>
         <id>https://v.daum.net/v/20240421112057136</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240421094102634"/>
         <updated>2024-04-21T00:47:34.384Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음, 사망했다…딸 학대 영상 공개에 여론 '들썩']]></title>
-        <id>https://v.daum.net/v/20240421092803464</id>
-        <link href="https://v.daum.net/v/20240421092803464"/>
-        <updated>2024-04-21T00:47:34.384Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
