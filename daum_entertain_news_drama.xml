@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-21T01:52:48.488Z</updated>
+    <updated>2024-04-21T02:22:17.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현♥김지원 사랑의 서사…dori, '눈물의 여왕' OST 참여]]></title>
+        <id>https://v.daum.net/v/20240421112057136</id>
+        <link href="https://v.daum.net/v/20240421112057136"/>
+        <updated>2024-04-21T02:22:11.618Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 김수현, ‘기억소실’ 김지원과 천천히 다정해질 결심]]></title>
+        <id>https://v.daum.net/v/20240421111451014</id>
+        <link href="https://v.daum.net/v/20240421111451014"/>
+        <updated>2024-04-21T02:22:11.618Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선재 업고 튀어' 변우석♥김혜윤, 시청자 가슴 불 지핀 '엔딩 맛집']]></title>
         <id>https://v.daum.net/v/20240421104218464</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240421092803464"/>
         <updated>2024-04-21T00:47:34.384Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정신 차려" 임수향, 첫사랑에 또 반해··지독한 ♥지현우 입덕 부정기]]></title>
-        <id>https://v.daum.net/v/20240421092622428</id>
-        <link href="https://v.daum.net/v/20240421092622428"/>
-        <updated>2024-04-21T00:47:34.385Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정음, 이준 살리고 죽었다…"당신, 헛되지 않았어"]]></title>
-        <id>https://v.daum.net/v/20240421092505398</id>
-        <link href="https://v.daum.net/v/20240421092505398"/>
-        <updated>2024-04-21T00:47:34.387Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
