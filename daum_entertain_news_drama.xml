@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-23T15:10:42.232Z</updated>
+    <updated>2024-04-23T16:13:38.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지현우, ‘신사’ 지우고 인생캐 추가]]></title>
+        <id>https://v.daum.net/v/20240424010006369</id>
+        <link href="https://v.daum.net/v/20240424010006369"/>
+        <updated>2024-04-23T16:12:36.136Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수·이유영 ‘함부로 대해줘’, 캐릭터 포스터 공개…승자 없는 사랑 대결]]></title>
         <id>https://v.daum.net/v/20240424000053900</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240423213047378"/>
         <updated>2024-04-23T13:11:12.969Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜윤, 송건희에 정색 "이렇게 개차반일 줄··그렇게 살지 마"]]></title>
-        <id>https://v.daum.net/v/20240423211903244</id>
-        <link href="https://v.daum.net/v/20240423211903244"/>
-        <updated>2024-04-23T13:11:12.971Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
