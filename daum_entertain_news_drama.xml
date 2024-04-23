@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-23T14:10:06.876Z</updated>
+    <updated>2024-04-23T15:10:42.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명수·이유영 ‘함부로 대해줘’, 캐릭터 포스터 공개…승자 없는 사랑 대결]]></title>
+        <id>https://v.daum.net/v/20240424000053900</id>
+        <link href="https://v.daum.net/v/20240424000053900"/>
+        <updated>2024-04-23T15:10:33.956Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘선업튀’ 김혜윤, 변우석 고백에 “나 좋아하지마” 칼거절→‘납치 엔딩’]]></title>
+        <id>https://v.daum.net/v/20240423233302679</id>
+        <link href="https://v.daum.net/v/20240423233302679"/>
+        <updated>2024-04-23T15:10:33.960Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이규형, 피도 눈물도 없는 국회의원 "아이디어 막 떠올라"]]></title>
         <id>https://v.daum.net/v/20240423224742376</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240423211903244"/>
         <updated>2024-04-23T13:11:12.971Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선업튀' 김혜윤, ♥변우석 고백 듣고 도망쳤다…'나를 왜?']]></title>
-        <id>https://v.daum.net/v/20240423211329159</id>
-        <link href="https://v.daum.net/v/20240423211329159"/>
-        <updated>2024-04-23T12:18:43.789Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선업튀' 변우석, 김혜윤 눈물 오해.."나한테 기대"]]></title>
-        <id>https://v.daum.net/v/20240423211008092</id>
-        <link href="https://v.daum.net/v/20240423211008092"/>
-        <updated>2024-04-23T12:18:43.790Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
