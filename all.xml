@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-23T20:11:20.022Z</updated>
+    <updated>2024-04-23T21:09:31.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사실혼·삼혼·처형 추행 의혹에…유영재 "선우은숙과 긴 싸움 할 것" 반박 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240424060112113</id>
+        <link href="https://v.daum.net/v/20240424060112113"/>
+        <updated>2024-04-23T21:09:23.175Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지현우, ‘신사’ 지우고 인생캐 추가 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240424010006369</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240423213410448"/>
         <updated>2024-04-23T13:11:12.967Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선업튀' 김혜윤, 변우석→송건희 고백까지..혼란vs거부 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240423213047378</id>
-        <link href="https://v.daum.net/v/20240423213047378"/>
-        <updated>2024-04-23T13:11:12.969Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
