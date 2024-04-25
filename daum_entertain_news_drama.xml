@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-25T09:10:59.662Z</updated>
+    <updated>2024-04-25T10:11:15.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼식이 삼촌' 대체불가 유재명, 그가 아니면 불가능]]></title>
+        <id>https://v.daum.net/v/20240425184320142</id>
+        <link href="https://v.daum.net/v/20240425184320142"/>
+        <updated>2024-04-25T10:11:08.301Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[죄수복 입은 김수현, 기억 잃은 김지원과 재회‥또 고구마 전개?]]></title>
         <id>https://v.daum.net/v/20240425170737801</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240425111316523"/>
         <updated>2024-04-25T02:21:29.547Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한효주가 꿈꾸는 '지배종'은 과연 세속적 욕망을 이겨낼 수 있을까]]></title>
-        <id>https://v.daum.net/v/20240425111039360</id>
-        <link href="https://v.daum.net/v/20240425111039360"/>
-        <updated>2024-04-25T02:21:29.548Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
