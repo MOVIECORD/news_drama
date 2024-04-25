@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-25T05:10:39.321Z</updated>
+    <updated>2024-04-25T06:13:31.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명수, 비장미 발산 "예의범절이 사람을 만드는 법"]]></title>
+        <id>https://v.daum.net/v/20240425142446177</id>
+        <link href="https://v.daum.net/v/20240425142446177"/>
+        <updated>2024-04-25T06:13:23.764Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노희경 신작 제작사 측 “제작비 800억? 정해진 바 없어, 기획 초반 단계”]]></title>
         <id>https://v.daum.net/v/20240425134926439</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240425092948397"/>
         <updated>2024-04-25T00:46:56.282Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈X이동휘X최우성X윤현수, 첫 임무는 '대환장' 거지 떼 소탕]]></title>
-        <id>https://v.daum.net/v/20240425091931989</id>
-        <link href="https://v.daum.net/v/20240425091931989"/>
-        <updated>2024-04-25T00:46:56.283Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
