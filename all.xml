@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-26T17:11:11.746Z</updated>
+    <updated>2024-04-26T18:13:15.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이혜원 “딸 안리원의 서프라이즈 생일 파티에 깜짝…안정환에게 배웠나” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240427024500339</id>
+        <link href="https://v.daum.net/v/20240427024500339"/>
+        <updated>2024-04-26T18:13:08.443Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘수사반장’ 이제훈 “은행 강도 인질로 잡힌 서은수 구출→ 손 잡고 영화관 데이트” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240427005101009</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240426225034032"/>
         <updated>2024-04-26T14:09:35.449Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서은수, 바람맞힌 이제훈 용서 후 팔찌 선물…“꼭 두르고 다녀라” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240426224501006</id>
-        <link href="https://v.daum.net/v/20240426224501006"/>
-        <updated>2024-04-26T14:09:35.449Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
