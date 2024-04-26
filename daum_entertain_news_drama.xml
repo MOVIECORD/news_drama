@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-26T12:18:16.991Z</updated>
+    <updated>2024-04-26T13:10:35.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우성, 생애 첫 수사는 거지떼 소탕 작전]]></title>
+        <id>https://v.daum.net/v/20240426220830495</id>
+        <link href="https://v.daum.net/v/20240426220830495"/>
+        <updated>2024-04-26T13:10:27.088Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피도 눈물도' 빌런 하연주, 끝없는 욕망...이소연子에 "내 아들이면 좋겠다"]]></title>
         <id>https://v.daum.net/v/20240426203901857</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240426150434156"/>
         <updated>2024-04-26T06:14:40.869Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원만? '눈물의 여왕' 김수현, 누구와 붙어도 '찰떡 케미']]></title>
-        <id>https://v.daum.net/v/20240426144307398</id>
-        <link href="https://v.daum.net/v/20240426144307398"/>
-        <updated>2024-04-26T06:14:40.870Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
