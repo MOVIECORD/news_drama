@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-27T21:09:54.102Z</updated>
+    <updated>2024-04-27T22:09:55.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우린 또 만날거야" 김수현, 밀어내는 김지원에도 '직진' 진심]]></title>
+        <id>https://v.daum.net/v/20240428070337707</id>
+        <link href="https://v.daum.net/v/20240428070337707"/>
+        <updated>2024-04-27T22:09:46.838Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 이유비, 친모 목숨줄 쥔 이정신에 "원하는 것 다할 테니 엄마는 건들지 말아 달라" 애원]]></title>
+        <id>https://v.daum.net/v/20240428065100543</id>
+        <link href="https://v.daum.net/v/20240428065100543"/>
+        <updated>2024-04-27T22:09:46.838Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지원 사라지고 김수현 교통사고 엔딩, 시청자 불만폭발]]></title>
         <id>https://v.daum.net/v/20240428060753310</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240427231905510"/>
         <updated>2024-04-27T15:09:17.985Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성훈, 김지원 위치추적 김수현 차로 쳤다 ‘눈물의 여왕’]]></title>
-        <id>https://v.daum.net/v/20240427225106332</id>
-        <link href="https://v.daum.net/v/20240427225106332"/>
-        <updated>2024-04-27T14:08:46.066Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지원 기억 떠올렸는데…♥김수현, 박성훈 차에 치였다]]></title>
-        <id>https://v.daum.net/v/20240427224731303</id>
-        <link href="https://v.daum.net/v/20240427224731303"/>
-        <updated>2024-04-27T14:08:46.068Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
