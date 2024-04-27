@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-27T03:11:52.755Z</updated>
+    <updated>2024-04-27T04:11:35.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제훈, 형사가 체질]]></title>
+        <id>https://v.daum.net/v/20240427125835621</id>
+        <link href="https://v.daum.net/v/20240427125835621"/>
+        <updated>2024-04-27T04:11:28.588Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘눈물의 여왕’ 해피엔딩 '더 바랄게 없죠'..제로베이스원 김태래 OST 출격]]></title>
         <id>https://v.daum.net/v/20240427113434110</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240427082037234"/>
         <updated>2024-04-27T00:44:00.281Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차기작 촬영은 아니라면서…김지원♥김수현, 언론 인터뷰엔 불응]]></title>
-        <id>https://v.daum.net/v/20240427081901227</id>
-        <link href="https://v.daum.net/v/20240427081901227"/>
-        <updated>2024-04-27T00:44:00.284Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
