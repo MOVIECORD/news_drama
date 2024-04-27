@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-27T02:20:18.951Z</updated>
+    <updated>2024-04-27T03:11:52.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘눈물의 여왕’ 해피엔딩 '더 바랄게 없죠'..제로베이스원 김태래 OST 출격]]></title>
+        <id>https://v.daum.net/v/20240427113434110</id>
+        <link href="https://v.daum.net/v/20240427113434110"/>
+        <updated>2024-04-27T03:11:45.411Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수사반장' 이제훈, 4인방 팀업 활약→서은수와 깊어진 사랑…10.6% 자체 최고]]></title>
         <id>https://v.daum.net/v/20240427105735748</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240427081901227"/>
         <updated>2024-04-27T00:44:00.284Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 인질 잡힌 서은수 구해→'꼴통 1반' 맹활약..최고 12.9%]]></title>
-        <id>https://v.daum.net/v/20240427081556211</id>
-        <link href="https://v.daum.net/v/20240427081556211"/>
-        <updated>2024-04-27T00:44:00.285Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
