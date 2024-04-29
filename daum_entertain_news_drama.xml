@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-29T05:13:06.922Z</updated>
+    <updated>2024-04-29T06:15:23.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희선, 첫 블랙코미디 도전…인생캐 경신할 포스 공개]]></title>
+        <id>https://v.daum.net/v/20240429145144177</id>
+        <link href="https://v.daum.net/v/20240429145144177"/>
+        <updated>2024-04-29T06:14:21.545Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘크래시’ 감독 “빌런 허성태-이호철에 선한 역할 제안” 반전 캐스팅]]></title>
+        <id>https://v.daum.net/v/20240429144513932</id>
+        <link href="https://v.daum.net/v/20240429144513932"/>
+        <updated>2024-04-29T06:14:21.549Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕', 8주 연속 드라마 화제성 1위..역대 5위 등극]]></title>
+        <id>https://v.daum.net/v/20240429143930680</id>
+        <link href="https://v.daum.net/v/20240429143930680"/>
+        <updated>2024-04-29T06:14:21.552Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수 “MZ 선비 흥미로워, 스트레스 날리는 작품 되길”]]></title>
         <id>https://v.daum.net/v/20240429140038058</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240429120027851"/>
         <updated>2024-04-29T03:12:02.085Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현 "'눈물의 여왕' 아쉽고 섭섭…어마어마했던 감정신, 특별해"]]></title>
-        <id>https://v.daum.net/v/20240429115058497</id>
-        <link href="https://v.daum.net/v/20240429115058497"/>
-        <updated>2024-04-29T03:12:02.085Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하이드’ 이청아 “치열하고 뜨거운 신 많았음에도 행복했던 현장”]]></title>
-        <id>https://v.daum.net/v/20240429114432214</id>
-        <link href="https://v.daum.net/v/20240429114432214"/>
-        <updated>2024-04-29T03:12:02.086Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 tvN 최고 드라마?…'눈물의 여왕' 선 넘은 '총상'·'호상'엔딩 분통]]></title>
-        <id>https://v.daum.net/v/20240429114137125</id>
-        <link href="https://v.daum.net/v/20240429114137125"/>
-        <updated>2024-04-29T03:12:02.086Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
