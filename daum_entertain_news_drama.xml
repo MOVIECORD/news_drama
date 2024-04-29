@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-04-29T15:10:44.785Z</updated>
+    <updated>2024-04-29T16:13:35.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김명수 “신윤복役, 새로운 현대 문물을 접할 때 반응 재밌다”]]></title>
+        <id>https://v.daum.net/v/20240430010008326</id>
+        <link href="https://v.daum.net/v/20240430010008326"/>
+        <updated>2024-04-29T16:12:33.385Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["수현아, 너 진짜 잘한다…또래들 중에 탑이야"…백서방 극찬한 김갑수]]></title>
         <id>https://v.daum.net/v/20240429225501301</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240429194830028"/>
         <updated>2024-04-29T11:10:39.080Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세 번째 결혼' 오승아, 전노민 향한 복수 시작 "천벌 받길"]]></title>
-        <id>https://v.daum.net/v/20240429193942882</id>
-        <link href="https://v.daum.net/v/20240429193942882"/>
-        <updated>2024-04-29T11:10:39.080Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
