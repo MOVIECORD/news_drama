@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-01T03:12:11.788Z</updated>
+    <updated>2024-05-01T04:12:51.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘선업튀’ 택시기사 허형규, 대사 한 줄 없이 장르 파괴급 존재감]]></title>
+        <id>https://v.daum.net/v/20240501122908562</id>
+        <link href="https://v.daum.net/v/20240501122908562"/>
+        <updated>2024-05-01T04:12:43.502Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선재 업고 튀어' 변우석, 찾았다 인생작]]></title>
         <id>https://v.daum.net/v/20240501120918314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240501093440207"/>
         <updated>2024-05-01T00:48:44.350Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재명, 김수현 만난다…‘비숲2’ PD 신작 ‘넉오프’ 출연]]></title>
-        <id>https://v.daum.net/v/20240501090306462</id>
-        <link href="https://v.daum.net/v/20240501090306462"/>
-        <updated>2024-05-01T00:48:44.351Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
