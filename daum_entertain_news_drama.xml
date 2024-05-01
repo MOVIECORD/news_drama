@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-01T20:12:39.972Z</updated>
+    <updated>2024-05-01T21:10:05.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심각한 OTT 장르물보다 가벼운 TV 드라마]]></title>
+        <id>https://v.daum.net/v/20240502060044326</id>
+        <link href="https://v.daum.net/v/20240502060044326"/>
+        <updated>2024-05-01T21:09:56.788Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['BL 강국' 태국 공략 나선 K콘텐츠… 드라마 합작 봇물]]></title>
+        <id>https://v.daum.net/v/20240502060035317</id>
+        <link href="https://v.daum.net/v/20240502060035317"/>
+        <updated>2024-05-01T21:09:56.788Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[껴안고 대기+섬세한 키스…김수현♥김지원→변우석♥김혜윤, 메이킹도 '핫']]></title>
         <id>https://v.daum.net/v/20240501223003579</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240501190813014"/>
         <updated>2024-05-01T10:11:34.231Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세자가 사라졌다' 수호·홍예지→김민규, 얽히고설킨 운명의 격렬 서사]]></title>
-        <id>https://v.daum.net/v/20240501170314747</id>
-        <link href="https://v.daum.net/v/20240501170314747"/>
-        <updated>2024-05-01T08:15:45.078Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그 누구도 그녀를 대체할 수 없다"..'우리, 집' 이혜영]]></title>
-        <id>https://v.daum.net/v/20240501164008148</id>
-        <link href="https://v.daum.net/v/20240501164008148"/>
-        <updated>2024-05-01T08:15:45.079Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
