@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-01T09:11:49.100Z</updated>
+    <updated>2024-05-01T10:11:42.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘선업튀’에 이승협도 있다, 선재 친구 걔!]]></title>
+        <id>https://v.daum.net/v/20240501190813014</id>
+        <link href="https://v.daum.net/v/20240501190813014"/>
+        <updated>2024-05-01T10:11:34.231Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세자가 사라졌다' 수호·홍예지→김민규, 얽히고설킨 운명의 격렬 서사]]></title>
         <id>https://v.daum.net/v/20240501170314747</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240501122908562"/>
         <updated>2024-05-01T04:12:43.502Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선재 업고 튀어' 변우석, 찾았다 인생작]]></title>
-        <id>https://v.daum.net/v/20240501120918314</id>
-        <link href="https://v.daum.net/v/20240501120918314"/>
-        <updated>2024-05-01T03:12:04.708Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
