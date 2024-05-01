@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-01T22:10:50.585Z</updated>
+    <updated>2024-05-01T23:12:17.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['비밀은 없어' 첫방..고경표, 안하무인 아이돌 참교육 "한 대 맞자" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240502074318733</id>
+        <link href="https://v.daum.net/v/20240502074318733"/>
+        <updated>2024-05-01T23:11:15.650Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀은 없어' 고경표, 강한나와 첫 만남에 X쌌다…지독한 첫만남! (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240502065923110</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240501211030337"/>
         <updated>2024-05-01T12:18:59.054Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이' 정찬, 독약 먹고도 의식 회복..하연주 '당황' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240501205548016</id>
-        <link href="https://v.daum.net/v/20240501205548016"/>
-        <updated>2024-05-01T12:18:59.056Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
