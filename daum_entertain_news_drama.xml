@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-01T02:26:04.078Z</updated>
+    <updated>2024-05-01T03:12:11.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[美매체 "'눈물의 여왕' 성공할 수 있었던 8가지 이유"..끝났는데도 뜨겁다]]></title>
+        <title type="html"><![CDATA['선재 업고 튀어' 변우석, 찾았다 인생작]]></title>
+        <id>https://v.daum.net/v/20240501120918314</id>
+        <link href="https://v.daum.net/v/20240501120918314"/>
+        <updated>2024-05-01T03:12:04.708Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'눈물의 여왕' 결말 어땠냐면…" 곽동연이 본 '호상엔딩']]></title>
+        <id>https://v.daum.net/v/20240501120109109</id>
+        <link href="https://v.daum.net/v/20240501120109109"/>
+        <updated>2024-05-01T03:12:04.710Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수현, 눈물로 보낸 '눈물의 여왕'.."기분 오묘" 울먹]]></title>
+        <id>https://v.daum.net/v/20240501115222814</id>
+        <link href="https://v.daum.net/v/20240501115222814"/>
+        <updated>2024-05-01T03:12:04.712Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['선재 업고 튀어', 시청률 4% 안착…'눈물의 여왕' 배턴 받을까]]></title>
+        <id>https://v.daum.net/v/20240501113827404</id>
+        <link href="https://v.daum.net/v/20240501113827404"/>
+        <updated>2024-05-01T03:12:04.713Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美매체 "'눈물의 여왕' 성공할 수 있었던 8가지 이유"..끝나도 뜨겁다]]></title>
         <id>https://v.daum.net/v/20240501112419045</id>
         <link href="https://v.daum.net/v/20240501112419045"/>
         <updated>2024-05-01T02:25:55.418Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240501090306462"/>
         <updated>2024-05-01T00:48:44.351Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["곽동연 미쳤나, 연기 왜 이렇게 잘해"…8살 연상 누나의 고백]]></title>
-        <id>https://v.daum.net/v/20240501084201954</id>
-        <link href="https://v.daum.net/v/20240501084201954"/>
-        <updated>2024-05-01T00:48:44.353Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선재 업고 튀어' 변우석·김혜윤 키스→변우석 피습… 청천벽력 엔딩]]></title>
-        <id>https://v.daum.net/v/20240501083019744</id>
-        <link href="https://v.daum.net/v/20240501083019744"/>
-        <updated>2024-05-01T00:48:44.354Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석♥김혜윤, 15년 만에 진심 확인했는데→'피습' 엔딩 충격]]></title>
-        <id>https://v.daum.net/v/20240501082720694</id>
-        <link href="https://v.daum.net/v/20240501082720694"/>
-        <updated>2024-05-01T00:48:44.356Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석♥김혜윤, 쌍방 확인 키스→'괴한 피습' 충격 엔딩]]></title>
-        <id>https://v.daum.net/v/20240501080913470</id>
-        <link href="https://v.daum.net/v/20240501080913470"/>
-        <updated>2024-04-30T23:10:19.559Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
