@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-02T08:14:53.614Z</updated>
+    <updated>2024-05-02T09:11:46.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지성, 지상파 복귀.."안색은 드라마 역사상 가장 안좋아"]]></title>
+        <id>https://v.daum.net/v/20240502180520829</id>
+        <link href="https://v.daum.net/v/20240502180520829"/>
+        <updated>2024-05-02T09:11:39.725Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['100kg 특수분장' 수현 "나도 날 못 알아봐…韓 인정 욕심"]]></title>
+        <id>https://v.daum.net/v/20240502175002355</id>
+        <link href="https://v.daum.net/v/20240502175002355"/>
+        <updated>2024-05-02T09:11:39.726Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주종혁, 임영웅 버금가는 '국민 사위' 트롯 가수 변신]]></title>
         <id>https://v.daum.net/v/20240502170402577</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240502150222589"/>
         <updated>2024-05-02T06:14:52.900Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희, 5살 연하 장기용과 케미에 자신감 “멜로장인 되고파”]]></title>
-        <id>https://v.daum.net/v/20240502150147533</id>
-        <link href="https://v.daum.net/v/20240502150147533"/>
-        <updated>2024-05-02T06:14:52.902Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기용 복귀작 '히어로는 아닙니다만', 3년 만에 나와도 "살아 있네"]]></title>
-        <id>https://v.daum.net/v/20240502150113499</id>
-        <link href="https://v.daum.net/v/20240502150113499"/>
-        <updated>2024-05-02T06:14:52.903Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
