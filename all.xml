@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-02T03:11:26.809Z</updated>
+    <updated>2024-05-02T04:12:47.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[고경표, 브랜드 대상 시상식서 직언 “고맙단 말은 평소에 해” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240502130154532</id>
+        <link href="https://v.daum.net/v/20240502130154532"/>
+        <updated>2024-05-02T04:12:40.170Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고경표, 입금되니 연기 한번 끝내주네…쉴 새 없이 날아다녔다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240502120211187</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240502100236320"/>
         <updated>2024-05-02T01:47:54.184Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오연서, '플레이어2' 의문의 존재로 등장...송승헌에 은밀한 제안 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240502095849093</id>
-        <link href="https://v.daum.net/v/20240502095849093"/>
-        <updated>2024-05-02T01:47:54.189Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
