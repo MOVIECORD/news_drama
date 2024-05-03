@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-03T22:09:51.643Z</updated>
+    <updated>2024-05-03T23:10:56.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희, 프랑스 대학 합격 논란 해명…유재환 "여친=이복동생 NO"]]></title>
+        <id>https://v.daum.net/v/20240504080048374</id>
+        <link href="https://v.daum.net/v/20240504080048374"/>
+        <updated>2024-05-03T23:10:50.575Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["못 잡을 놈 없다" 이제훈, 엄준기 살해 범인 검거→서은수와 결혼]]></title>
+        <id>https://v.daum.net/v/20240504080013328</id>
+        <link href="https://v.daum.net/v/20240504080013328"/>
+        <updated>2024-05-03T23:10:50.576Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“내가 엄기준 아이 낳았다” 이유비, 죗값 받기 위해 긴급 기자회견]]></title>
+        <id>https://v.daum.net/v/20240504073335123</id>
+        <link href="https://v.daum.net/v/20240504073335123"/>
+        <updated>2024-05-03T23:10:50.576Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사람답게 살고싶어"...'7인의 부활' 드디어 진실 밝힌 악인들]]></title>
+        <id>https://v.daum.net/v/20240504073005055</id>
+        <link href="https://v.daum.net/v/20240504073005055"/>
+        <updated>2024-05-03T23:10:50.577Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준→이유비 5人, 자백 기자회견..죗값 받고 엄기준 처단하나]]></title>
+        <id>https://v.daum.net/v/20240504072224973</id>
+        <link href="https://v.daum.net/v/20240504072224973"/>
+        <updated>2024-05-03T23:10:50.578Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘종말의바보’ 감독 “‘슬의생’ 보고 안은진 캐스팅, 잘 될 거라 확신했다”]]></title>
         <id>https://v.daum.net/v/20240504070018710</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240504060000274"/>
         <updated>2024-05-03T21:09:11.697Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 조윤희, "정라엘에게 속죄하고 싶다, 진심으로"…죽음 앞에 두고 후회]]></title>
-        <id>https://v.daum.net/v/20240504053600034</id>
-        <link href="https://v.daum.net/v/20240504053600034"/>
-        <updated>2024-05-03T21:09:11.697Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장’ 이제훈, 서은수에 청혼…“연락 없이 돌아오지 못할 수도”]]></title>
-        <id>https://v.daum.net/v/20240504002401964</id>
-        <link href="https://v.daum.net/v/20240504002401964"/>
-        <updated>2024-05-03T16:13:26.420Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장1958' 이제훈, 엄준기 죽음에 충격+분노...범인 살모사에 죗값]]></title>
-        <id>https://v.daum.net/v/20240503234700556</id>
-        <link href="https://v.daum.net/v/20240503234700556"/>
-        <updated>2024-05-03T15:11:26.346Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 이유비→이준, 모든 진실 스스로 밝혔다]]></title>
-        <id>https://v.daum.net/v/20240503233548478</id>
-        <link href="https://v.daum.net/v/20240503233548478"/>
-        <updated>2024-05-03T15:11:26.347Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈 "검사가 다 썩었다" 맹비난..살인자 검거에 난항]]></title>
-        <id>https://v.daum.net/v/20240503231125273</id>
-        <link href="https://v.daum.net/v/20240503231125273"/>
-        <updated>2024-05-03T15:11:26.348Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
