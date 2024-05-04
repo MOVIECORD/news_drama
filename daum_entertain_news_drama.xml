@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-04T10:10:08.825Z</updated>
+    <updated>2024-05-04T11:08:18.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 변우석은 어떻게 월요병 치료제가 됐나]]></title>
+        <id>https://v.daum.net/v/20240504200418477</id>
+        <link href="https://v.daum.net/v/20240504200418477"/>
+        <updated>2024-05-04T11:08:10.368Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더벅머리된 장기용, 3년만에 체면치레할까...MBC 이제훈이 변수]]></title>
+        <id>https://v.daum.net/v/20240504200101441</id>
+        <link href="https://v.daum.net/v/20240504200101441"/>
+        <updated>2024-05-04T11:08:10.369Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장기용=우울증, 수현=뚱뚱..천우희가 구원할 수 있을까?]]></title>
         <id>https://v.daum.net/v/20240504190818039</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240504141636081"/>
         <updated>2024-05-04T06:12:39.938Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄기준 살벌한 반격… 이유비 각성 후 심경 변화?]]></title>
-        <id>https://v.daum.net/v/20240504141233043</id>
-        <link href="https://v.daum.net/v/20240504141233043"/>
-        <updated>2024-05-04T06:12:39.941Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한정판 레어템 같은 매력, 이래서 '수사반장 1958'에 빠져든다]]></title>
-        <id>https://v.daum.net/v/20240504140725007</id>
-        <link href="https://v.daum.net/v/20240504140725007"/>
-        <updated>2024-05-04T05:10:26.676Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
