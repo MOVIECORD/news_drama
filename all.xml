@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-06T20:10:40.274Z</updated>
+    <updated>2024-05-06T21:10:42.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김혜윤, 어색 'Gee' 댄스에 오열+취중 연기까지 '믿고 보는 배우 맞네' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240507060011633</id>
+        <link href="https://v.daum.net/v/20240507060011633"/>
+        <updated>2024-05-06T21:10:35.455Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연우, 눈빛→헤어스타일 모두 바꿨다…기묘한 매력녀 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240506232635486</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240506210823501"/>
         <updated>2024-05-06T12:18:43.889Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오창석, '정찬 휴대폰 훔치기' 성공→서하준에 "기회 줘서 고마워" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240506204746344</id>
-        <link href="https://v.daum.net/v/20240506204746344"/>
-        <updated>2024-05-06T12:18:43.890Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
