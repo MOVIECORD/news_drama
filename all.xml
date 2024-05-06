@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-06T21:10:42.972Z</updated>
+    <updated>2024-05-06T22:10:42.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박찬욱·송혜교·류준열·탕웨이 뜬다…'백상예술대상' 오늘 개최 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240507070004435</id>
+        <link href="https://v.daum.net/v/20240507070004435"/>
+        <updated>2024-05-06T22:10:34.802Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘선업튀’ 변우석, 김혜윤에 ‘공주님 안기’ 스킬→“신경 쓰이게 하지 마” 박력 매력까지 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240507065425371</id>
+        <link href="https://v.daum.net/v/20240507065425371"/>
+        <updated>2024-05-06T22:10:34.803Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜윤, 어색 'Gee' 댄스에 오열+취중 연기까지 '믿고 보는 배우 맞네' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240507060011633</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20240506211733571"/>
         <updated>2024-05-06T12:18:43.886Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선재 업고 튀어' 변우석 괴한 피습 →김혜윤, 시계 잃어버렸단 소식에 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240506211350547</id>
-        <link href="https://v.daum.net/v/20240506211350547"/>
-        <updated>2024-05-06T12:18:43.888Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선업튀' 김혜윤, ♥변우석 피습에 오열 "내가 죽어어야 했는데"…세 번째 타임슬립行 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240506210823501</id>
-        <link href="https://v.daum.net/v/20240506210823501"/>
-        <updated>2024-05-06T12:18:43.889Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
