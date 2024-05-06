@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-06T08:15:29.130Z</updated>
+    <updated>2024-05-06T09:12:04.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강한나, 데뷔 첫 생활밀착형 캐릭터로 물 만났나..'비밀은 없어' 넷플릭스 1위]]></title>
+        <id>https://v.daum.net/v/20240506180315709</id>
+        <link href="https://v.daum.net/v/20240506180315709"/>
+        <updated>2024-05-06T09:11:55.460Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버석한 장기용도 좋네..신경 쓰이는 이 남자]]></title>
+        <id>https://v.daum.net/v/20240506172554199</id>
+        <link href="https://v.daum.net/v/20240506172554199"/>
+        <updated>2024-05-06T09:11:55.461Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘선업튀’ ‘히어로는’ ‘졸업’까지… 누가 ‘눈물의 여왕’ 여운 이을까]]></title>
         <id>https://v.daum.net/v/20240506164709605</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240506120128814"/>
         <updated>2024-05-06T03:12:03.985Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘야한사진관’ 최종회…저승길 오른 주원, 생과 사를 초월한 사투]]></title>
-        <id>https://v.daum.net/v/20240506115702606</id>
-        <link href="https://v.daum.net/v/20240506115702606"/>
-        <updated>2024-05-06T03:12:03.985Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세자가 사라졌다' 수호, 한층 깊어진 감정..자체 최고 시청률 이끈 열연]]></title>
-        <id>https://v.daum.net/v/20240506112625170</id>
-        <link href="https://v.daum.net/v/20240506112625170"/>
-        <updated>2024-05-06T03:12:03.985Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
