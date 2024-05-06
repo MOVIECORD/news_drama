@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-06T06:14:59.246Z</updated>
+    <updated>2024-05-06T07:11:30.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멱살' 김하늘X장승조, 첫 만남 바닷가 재회..악연의 진실 공개]]></title>
+        <id>https://v.daum.net/v/20240506160913119</id>
+        <link href="https://v.daum.net/v/20240506160913119"/>
+        <updated>2024-05-06T07:10:28.631Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변우석, 김혜윤 공주님 안기→밀착 스킨십...'솔친자 매력’ 폭발]]></title>
         <id>https://v.daum.net/v/20240506135313081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240506103001260"/>
         <updated>2024-05-06T01:51:52.893Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로' 천우희, 신비+당돌 '독보적 비범함']]></title>
-        <id>https://v.daum.net/v/20240506102644198</id>
-        <link href="https://v.daum.net/v/20240506102644198"/>
-        <updated>2024-05-06T01:51:52.893Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
