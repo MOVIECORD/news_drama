@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T15:10:39.150Z</updated>
+    <updated>2024-05-08T16:13:28.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이제훈 어록4 “부끄러움 모르는 인간이 세상 제일 잡놈” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240509003153884</id>
+        <link href="https://v.daum.net/v/20240509003153884"/>
+        <updated>2024-05-08T16:13:20.655Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고경표, 강한나 조언에 뉴스 앵커 포기 "썩고 부패해 악취 나" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240508224344809</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240508183753167"/>
         <updated>2024-05-08T10:12:00.611Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내남결'·'눈물의 여왕'·'선업튀', tvN 전략 제대로 통했다 "제대로 만든 콘텐츠 성공" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240508183346064</id>
-        <link href="https://v.daum.net/v/20240508183346064"/>
-        <updated>2024-05-08T10:12:00.614Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
