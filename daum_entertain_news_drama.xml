@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-09T10:13:44.139Z</updated>
+    <updated>2024-05-09T11:09:40.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정경호 쓰던 칠판"…'졸업' 정려원, '일타' 기운 받았다]]></title>
+        <id>https://v.daum.net/v/20240509195002143</id>
+        <link href="https://v.daum.net/v/20240509195002143"/>
+        <updated>2024-05-09T11:09:31.620Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT 생태계는 못 뒤집은 '지배종'…'삼식이 삼촌'은 먹여 살릴까]]></title>
         <id>https://v.daum.net/v/20240509191016221</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240509154552714"/>
         <updated>2024-05-09T07:12:09.103Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인생작 될 것"…'졸업' 정려원·위하준의 자신감 가득한 로맨스]]></title>
-        <id>https://v.daum.net/v/20240509153853439</id>
-        <link href="https://v.daum.net/v/20240509153853439"/>
-        <updated>2024-05-09T07:12:09.106Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
