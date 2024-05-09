@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-09T08:14:39.219Z</updated>
+    <updated>2024-05-09T09:11:54.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[240억 태운 디즈니+ '지배종'의 허무한 퇴장…400억 '삼식이 삼촌' 어쩌나]]></title>
+        <id>https://v.daum.net/v/20240509180006249</id>
+        <link href="https://v.daum.net/v/20240509180006249"/>
+        <updated>2024-05-09T09:11:47.673Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤정훈, 촬영 도중 '부상' 고백 "달리다 넘어져, 영광의 상처"]]></title>
+        <id>https://v.daum.net/v/20240509172137938</id>
+        <link href="https://v.daum.net/v/20240509172137938"/>
+        <updated>2024-05-09T09:11:47.673Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멱살 한번' 성태 "어린 우재 역, 감정 연기 어려웠지만 많이 배워"]]></title>
         <id>https://v.daum.net/v/20240509165730849</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240509152702845"/>
         <updated>2024-05-09T07:12:09.115Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간 푸바오가 여기 있네..'수사반장' 최우성을 사랑할 수밖에 없는 이유]]></title>
-        <id>https://v.daum.net/v/20240509152441722</id>
-        <link href="https://v.daum.net/v/20240509152441722"/>
-        <updated>2024-05-09T07:12:09.117Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정려원 셀프 인생작 '졸업'..'눈여' 넘을 수 있을까]]></title>
-        <id>https://v.daum.net/v/20240509152001467</id>
-        <link href="https://v.daum.net/v/20240509152001467"/>
-        <updated>2024-05-09T07:12:09.119Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
