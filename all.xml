@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-10T10:12:27.013Z</updated>
+    <updated>2024-05-10T11:10:08.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이준, 엄기준 실체 밝힐까…“예상치 못한 전개有” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240510195542066</id>
+        <link href="https://v.daum.net/v/20240510195542066"/>
+        <updated>2024-05-10T11:10:02.422Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈→돌아온 최덕문, 다시 강력해진 수사 1반 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240510190556150</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240510154646002"/>
         <updated>2024-05-10T07:11:02.158Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범법자에게 관대한 넷플릭스, '음주' 배성우→'마약' 탑 복귀처의 공통점 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240510152602267</id>
-        <link href="https://v.daum.net/v/20240510152602267"/>
-        <updated>2024-05-10T07:11:02.159Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
