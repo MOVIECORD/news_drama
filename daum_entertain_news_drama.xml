@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-10T20:12:11.944Z</updated>
+    <updated>2024-05-10T21:09:59.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 윤태영, 이준에 "정라엘, 내 딸…살면서 단 한 번도 만나지 못했어" 눈물]]></title>
+        <id>https://v.daum.net/v/20240511060901750</id>
+        <link href="https://v.daum.net/v/20240511060901750"/>
+        <updated>2024-05-10T21:09:50.865Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘졸업’ 정려원♥위하준, 김수현♥김지원과 바톤터치‥사제 로맨스 통할까]]></title>
+        <id>https://v.daum.net/v/20240511054520507</id>
+        <link href="https://v.daum.net/v/20240511054520507"/>
+        <updated>2024-05-10T21:09:50.866Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 주가 조작 사건에 한탄 "대인이 대도 되는 세상"]]></title>
         <id>https://v.daum.net/v/20240510234645849</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240510203002465"/>
         <updated>2024-05-10T12:19:08.397Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준, 엄기준 실체 밝힐까…“예상치 못한 전개有”]]></title>
-        <id>https://v.daum.net/v/20240510195542066</id>
-        <link href="https://v.daum.net/v/20240510195542066"/>
-        <updated>2024-05-10T11:10:02.422Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈→돌아온 최덕문, 다시 강력해진 수사 1반]]></title>
-        <id>https://v.daum.net/v/20240510190556150</id>
-        <link href="https://v.daum.net/v/20240510190556150"/>
-        <updated>2024-05-10T10:11:25.187Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
