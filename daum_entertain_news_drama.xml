@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-11T01:48:17.294Z</updated>
+    <updated>2024-05-11T02:20:51.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지배종’ 이희준 “다음은 없어!”..시즌2 진짜 없어?]]></title>
+        <id>https://v.daum.net/v/20240511111948893</id>
+        <link href="https://v.daum.net/v/20240511111948893"/>
+        <updated>2024-05-11T02:20:43.670Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘7인의 부활’ 엄기준 막은 윤종훈, 심장이식으로 조윤희 살리고 사망]]></title>
+        <id>https://v.daum.net/v/20240511105029552</id>
+        <link href="https://v.daum.net/v/20240511105029552"/>
+        <updated>2024-05-11T02:20:43.672Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['졸업' 첫 방송 D-DAY...모두가 기다린 정려원X위하준 표 '현실 멜로']]></title>
         <id>https://v.daum.net/v/20240511100542135</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240511063341922"/>
         <updated>2024-05-10T22:10:20.165Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 윤종훈, "아빠로 살게 해 줘서 고마워"…조윤희에 심장 주고 떠났다]]></title>
-        <id>https://v.daum.net/v/20240511062103838</id>
-        <link href="https://v.daum.net/v/20240511062103838"/>
-        <updated>2024-05-10T22:10:20.165Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, ♥서은수 난임 고충에 "우리가 함께 있는 게 진짜 행복" 위로]]></title>
-        <id>https://v.daum.net/v/20240511062007829</id>
-        <link href="https://v.daum.net/v/20240511062007829"/>
-        <updated>2024-05-10T22:10:20.166Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
