@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-11T07:11:13.619Z</updated>
+    <updated>2024-05-11T08:12:43.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정형돈, 가족 향한 악플에…"저 불쌍하게 살고 있지 않아요" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240511161709480</id>
+        <link href="https://v.daum.net/v/20240511161709480"/>
+        <updated>2024-05-11T08:12:36.173Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유비, 다정 미소→거짓 눈물→분노 절규..'변화무쌍 얼굴‘ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240511155921285</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240511082525001"/>
         <updated>2024-05-11T00:44:21.650Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장’ 억울한 죽음 뒤 진실 밝혀낸 이제훈, 분당 최고 시청률 11.6% (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240511080724872</id>
-        <link href="https://v.daum.net/v/20240511080724872"/>
-        <updated>2024-05-10T23:10:48.176Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
