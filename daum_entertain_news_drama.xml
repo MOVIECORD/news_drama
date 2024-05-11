@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-11T10:10:52.200Z</updated>
+    <updated>2024-05-11T11:09:15.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수사반장 1958' 이제훈→정수빈, 팀플레이 시너지 예고]]></title>
+        <id>https://v.daum.net/v/20240511193709340</id>
+        <link href="https://v.daum.net/v/20240511193709340"/>
+        <updated>2024-05-11T11:08:13.382Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세자가 사라졌다' 2막 시작 전 숨 고르기..명장면 제작 비화 공개]]></title>
         <id>https://v.daum.net/v/20240511182141735</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240511091421554"/>
         <updated>2024-05-11T00:44:21.648Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장' 이제훈, 살인범 잡고도.."힘없는 사람만 나자빠져" 씁쓸]]></title>
-        <id>https://v.daum.net/v/20240511084341150</id>
-        <link href="https://v.daum.net/v/20240511084341150"/>
-        <updated>2024-05-11T00:44:21.649Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
