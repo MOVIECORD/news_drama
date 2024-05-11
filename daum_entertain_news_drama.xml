@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-11T05:10:30.506Z</updated>
+    <updated>2024-05-11T06:13:09.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크래시’ 공개한 떡밥, 이민기에 교통사고 트라우마 있나]]></title>
+        <id>https://v.daum.net/v/20240511141638294</id>
+        <link href="https://v.daum.net/v/20240511141638294"/>
+        <updated>2024-05-11T06:13:00.613Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["강강약약" 이제훈, ‘휴머니즘 형사’ 그 자체..스케일 커진 사건 속 힐링]]></title>
+        <id>https://v.daum.net/v/20240511141017223</id>
+        <link href="https://v.daum.net/v/20240511141017223"/>
+        <updated>2024-05-11T06:13:00.613Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘수사반장’ 이제훈, 잔혹한 살인사건 마주한다‥새로운 국면 맞은 수사]]></title>
         <id>https://v.daum.net/v/20240511140425170</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240511080102794"/>
         <updated>2024-05-10T23:10:48.176Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["심장 주고 싶다" 윤종훈, 조윤희 살리고 사망 '충격' 하차]]></title>
-        <id>https://v.daum.net/v/20240511075521697</id>
-        <link href="https://v.daum.net/v/20240511075521697"/>
-        <updated>2024-05-10T23:10:48.177Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의 부활' 윤종훈, 이준 복수 돕다 사망…심장이식해 조윤희 살렸다]]></title>
-        <id>https://v.daum.net/v/20240511075002665</id>
-        <link href="https://v.daum.net/v/20240511075002665"/>
-        <updated>2024-05-10T23:10:48.177Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
