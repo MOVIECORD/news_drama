@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-12T07:10:08.346Z</updated>
+    <updated>2024-05-12T08:12:57.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이제는 액션 수호라 불러다오 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240512161643314</id>
+        <link href="https://v.daum.net/v/20240512161643314"/>
+        <updated>2024-05-12T08:12:49.621Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동룡이 없고 미친개만 있다..이동휘, 이제훈 옆 '수사반장' 없어선 안 될 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240512155056763</id>
@@ -100,13 +107,6 @@
         <id>https://v.daum.net/v/20240512122441505</id>
         <link href="https://v.daum.net/v/20240512122441505"/>
         <updated>2024-05-12T04:13:12.686Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소이 초능력=속마음 읽기..신비로움에 풋풋함 한 스푼 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240512113021542</id>
-        <link href="https://v.daum.net/v/20240512113021542"/>
-        <updated>2024-05-12T03:11:44.133Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
