@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-12T13:10:18.298Z</updated>
+    <updated>2024-05-12T14:09:48.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미우새' 박정현 "♥남편=대학교수, 8년 친구가 연인으로 발전"]]></title>
+        <id>https://v.daum.net/v/20240512225405738</id>
+        <link href="https://v.daum.net/v/20240512225405738"/>
+        <updated>2024-05-12T14:09:40.960Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["귀신 들린 거야"…'히어로는 아닙니다만' 천우희, 장기용 초능력에 실신]]></title>
+        <id>https://v.daum.net/v/20240512225346721</id>
+        <link href="https://v.daum.net/v/20240512225346721"/>
+        <updated>2024-05-12T14:09:40.960Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['졸업' 위하준, 정려원 제자서 동료로…학원 간판 자리 빼앗았다]]></title>
+        <id>https://v.daum.net/v/20240512223732638</id>
+        <link href="https://v.daum.net/v/20240512223732638"/>
+        <updated>2024-05-12T14:09:40.961Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['졸업' 정려원, 동료 된 옛 제자 위하준에 "앞으로 나 놀려먹을 시간 없을 것"]]></title>
+        <id>https://v.daum.net/v/20240512223530633</id>
+        <link href="https://v.daum.net/v/20240512223530633"/>
+        <updated>2024-05-12T14:09:40.963Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미우새' 김승수, 양정아에 모닝 영상통화 플러팅 "보고 싶어서"]]></title>
+        <id>https://v.daum.net/v/20240512222542562</id>
+        <link href="https://v.daum.net/v/20240512222542562"/>
+        <updated>2024-05-12T14:09:40.964Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차화연, 출소 후 고윤에 "임수향 사망=네 탓..돈으로 보상해"]]></title>
         <id>https://v.daum.net/v/20240512213448031</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240512203312390"/>
         <updated>2024-05-12T12:19:07.891Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“전신 수술→기억 상실”…임수향, '女배우'에서 '시골 손녀'로 변신]]></title>
-        <id>https://v.daum.net/v/20240512203246378</id>
-        <link href="https://v.daum.net/v/20240512203246378"/>
-        <updated>2024-05-12T12:19:07.893Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 임수향, 전신 재건 수술 후 기억상실증 "아무 생각 안 나"]]></title>
-        <id>https://v.daum.net/v/20240512202912332</id>
-        <link href="https://v.daum.net/v/20240512202912332"/>
-        <updated>2024-05-12T12:19:07.895Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 임수향, 기억 상실증 걸려 이주실 손녀로 새 삶 시작]]></title>
-        <id>https://v.daum.net/v/20240512202131250</id>
-        <link href="https://v.daum.net/v/20240512202131250"/>
-        <updated>2024-05-12T12:19:07.896Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“엄마 탓 누나 임수향 죽어” 이상준, 차화연과 절연]]></title>
-        <id>https://v.daum.net/v/20240512202038239</id>
-        <link href="https://v.daum.net/v/20240512202038239"/>
-        <updated>2024-05-12T12:19:07.898Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 지현우, 임수향 성 상납 진실 밝히려 고군분투]]></title>
-        <id>https://v.daum.net/v/20240512201029087</id>
-        <link href="https://v.daum.net/v/20240512201029087"/>
-        <updated>2024-05-12T12:19:07.900Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
