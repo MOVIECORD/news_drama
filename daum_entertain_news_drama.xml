@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-13T09:11:37.434Z</updated>
+    <updated>2024-05-13T10:12:35.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이호철 "팀워크, 언밸런스하면서 좋아…다들 시즌2 하고 싶다고"]]></title>
+        <id>https://v.daum.net/v/20240513183006208</id>
+        <link href="https://v.daum.net/v/20240513183006208"/>
+        <updated>2024-05-13T10:11:33.864Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스캔들’ 대본 리딩 현장 공개…한채영→한보름 호흡 어땠나]]></title>
+        <id>https://v.daum.net/v/20240513181139639</id>
+        <link href="https://v.daum.net/v/20240513181139639"/>
+        <updated>2024-05-13T10:11:33.865Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구해줘2' 과거 청산 케미..엄태구, ♥한선화 케어 받은 핑크 왕자]]></title>
         <id>https://v.daum.net/v/20240513180919580</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240513155221192"/>
         <updated>2024-05-13T07:10:58.023Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크래시' 허성태 "드라마서 첫 선역 맡아…액션 신 없지만 '꼰대미' 보여줄 것"]]></title>
-        <id>https://v.daum.net/v/20240513154530878</id>
-        <link href="https://v.daum.net/v/20240513154530878"/>
-        <updated>2024-05-13T07:10:58.025Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘크래시’ 감독 “운전실력? 이제훈보다 곽선영, 악바리에 깡 좋아”]]></title>
-        <id>https://v.daum.net/v/20240513153829579</id>
-        <link href="https://v.daum.net/v/20240513153829579"/>
-        <updated>2024-05-13T07:10:58.026Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
