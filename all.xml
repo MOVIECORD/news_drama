@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-13T10:12:35.835Z</updated>
+    <updated>2024-05-13T11:09:56.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['용수정' 엄현경, 주가 하락 부른 방송 사고... 권화운이 감쌌다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240513194831441</id>
+        <link href="https://v.daum.net/v/20240513194831441"/>
+        <updated>2024-05-13T11:08:54.870Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이호철 "팀워크, 언밸런스하면서 좋아…다들 시즌2 하고 싶다고" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240513183006208</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240513160353700"/>
         <updated>2024-05-13T07:10:58.020Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["칼 대신 자동차가 무기" 韓최초 교통범죄 드라마 탄생 '크래시' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240513155221192</id>
-        <link href="https://v.daum.net/v/20240513155221192"/>
-        <updated>2024-05-13T07:10:58.023Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
