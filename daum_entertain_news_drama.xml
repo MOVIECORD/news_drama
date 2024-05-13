@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-13T03:12:38.963Z</updated>
+    <updated>2024-05-13T04:13:42.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변우석 벗겨진 와이셔츠→김혜윤 동공지진…때아닌 결별 위기]]></title>
+        <id>https://v.daum.net/v/20240513130549747</id>
+        <link href="https://v.daum.net/v/20240513130549747"/>
+        <updated>2024-05-13T04:13:34.766Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위하준, 형 수집가 벗고 첫 멜로 합격점..♥정려원도 반했다]]></title>
+        <id>https://v.daum.net/v/20240513121649987</id>
+        <link href="https://v.daum.net/v/20240513121649987"/>
+        <updated>2024-05-13T04:13:34.766Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['예쁜누나'·'밀회' 넘었다…정려원♥위하준, '눈물의 여왕' 안부럽네]]></title>
         <id>https://v.daum.net/v/20240513115002052</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240513104201105"/>
         <updated>2024-05-13T01:54:46.162Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["선재야 돌아와"…변우석, '소나기'도 TOP10 '대박']]></title>
-        <id>https://v.daum.net/v/20240513103831940</id>
-        <link href="https://v.daum.net/v/20240513103831940"/>
-        <updated>2024-05-13T01:54:46.162Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지배종' 한효주 "스스로 고립시켜 외로웠던 촬영장..특별한 경험"]]></title>
-        <id>https://v.daum.net/v/20240513103451764</id>
-        <link href="https://v.daum.net/v/20240513103451764"/>
-        <updated>2024-05-13T01:54:46.162Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
