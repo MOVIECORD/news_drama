@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-14T16:13:29.467Z</updated>
+    <updated>2024-05-14T17:10:00.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임수향, 지현우 미소 부르는 뽀글+뿔테 파격 변신]]></title>
+        <id>https://v.daum.net/v/20240515020141117</id>
+        <link href="https://v.daum.net/v/20240515020141117"/>
+        <updated>2024-05-14T17:09:53.762Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영, 팜므파탈 욕망녀 변신 “다 내 손 안에 있어” 티저 공개]]></title>
         <id>https://v.daum.net/v/20240515010008796</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240514220141059"/>
         <updated>2024-05-14T13:12:48.951Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석, 사라진 김혜윤에 불안..솔선커플 위기오나]]></title>
-        <id>https://v.daum.net/v/20240514215849019</id>
-        <link href="https://v.daum.net/v/20240514215849019"/>
-        <updated>2024-05-14T13:12:48.954Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
