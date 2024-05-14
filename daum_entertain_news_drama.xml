@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-14T09:12:09.415Z</updated>
+    <updated>2024-05-14T10:14:22.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손석구 ‘해방일지’ 감독과 재회하나 “‘천국보다 아름다운’ 긍정검토”]]></title>
+        <id>https://v.daum.net/v/20240514185534166</id>
+        <link href="https://v.daum.net/v/20240514185534166"/>
+        <updated>2024-05-14T10:13:21.010Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[며느리 김희선 X 시母 이혜영 '우리 집', MBC 금토극 흥행불패 잇나]]></title>
         <id>https://v.daum.net/v/20240514181051026</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240514145915378"/>
         <updated>2024-05-14T06:15:16.851Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키즈 크리에이터 한선화, 어쩌다 큰 형님 엄태구와 한 침대에]]></title>
-        <id>https://v.daum.net/v/20240514143326149</id>
-        <link href="https://v.daum.net/v/20240514143326149"/>
-        <updated>2024-05-14T06:15:16.854Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
