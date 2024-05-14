@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-14T03:12:49.759Z</updated>
+    <updated>2024-05-14T04:12:49.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘선업튀’ 변우석-김혜윤, 뜻하지 않은 하룻밤‥신혼 생활 미리보기]]></title>
+        <id>https://v.daum.net/v/20240514130928485</id>
+        <link href="https://v.daum.net/v/20240514130928485"/>
+        <updated>2024-05-14T04:12:41.515Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘수사반장’ 종영까지 단 2회, 이제훈→이동휘 비하인드 대방출]]></title>
+        <id>https://v.daum.net/v/20240514122320789</id>
+        <link href="https://v.daum.net/v/20240514122320789"/>
+        <updated>2024-05-14T04:12:41.519Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청순 비주얼 문희, 알고 보니 무술 실력자]]></title>
         <id>https://v.daum.net/v/20240514114825680</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240514101107674"/>
         <updated>2024-05-14T01:51:35.894Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['함부로 대해줘' 이유영, 시간순삭 러블리 원맨쇼]]></title>
-        <id>https://v.daum.net/v/20240514100345322</id>
-        <link href="https://v.daum.net/v/20240514100345322"/>
-        <updated>2024-05-14T01:51:35.895Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈·강태오, ‘병맛 커플’ 탄생…‘감자연구소’ 출연 확정]]></title>
-        <id>https://v.daum.net/v/20240514095701998</id>
-        <link href="https://v.daum.net/v/20240514095701998"/>
-        <updated>2024-05-14T01:51:35.898Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
