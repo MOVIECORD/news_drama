@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-15T22:11:41.051Z</updated>
+    <updated>2024-05-15T23:11:52.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강한나, 서운하다는 고경표에 터져나온 속마음 "설렜으니까"]]></title>
+        <id>https://v.daum.net/v/20240516081133508</id>
+        <link href="https://v.daum.net/v/20240516081133508"/>
+        <updated>2024-05-15T23:11:43.274Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고경표, 연애예능서 강한나에 고백했다]]></title>
+        <id>https://v.daum.net/v/20240516073847811</id>
+        <link href="https://v.daum.net/v/20240516073847811"/>
+        <updated>2024-05-15T23:11:43.275Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“연출일 뿐이지만”…‘졸업’에 성명 낸 교사들의 속사정]]></title>
         <id>https://v.daum.net/v/20240516063150784</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240515180742608"/>
         <updated>2024-05-15T09:13:33.326Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호, 첫 시리즈 ‘삼식이 삼촌’…박찬욱 감독도 극찬했다]]></title>
-        <id>https://v.daum.net/v/20240515170603817</id>
-        <link href="https://v.daum.net/v/20240515170603817"/>
-        <updated>2024-05-15T09:13:33.326Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고경표X강한나, 심상치 않은 기류…"연애 예능 첫 촬영에 감정선 요동"]]></title>
-        <id>https://v.daum.net/v/20240515165941678</id>
-        <link href="https://v.daum.net/v/20240515165941678"/>
-        <updated>2024-05-15T08:13:46.186Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
