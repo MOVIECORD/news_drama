@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-15T12:20:17.390Z</updated>
+    <updated>2024-05-15T13:13:55.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강별, 함은정 이별 소식에 미소→신정윤과 같은 건물로 이사]]></title>
+        <id>https://v.daum.net/v/20240515212001090</id>
+        <link href="https://v.daum.net/v/20240515212001090"/>
+        <updated>2024-05-15T13:12:53.120Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기 vs 규현 굿바이..‘유명가수와 길거리 심사단' 톱7 눈물 속 종영]]></title>
         <id>https://v.daum.net/v/20240515210142871</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240515160001617"/>
         <updated>2024-05-15T07:11:22.322Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박준우 연출 '크래시', 이민기·곽선영 태우고 '모범택시' 영광 재연할까]]></title>
-        <id>https://v.daum.net/v/20240515143046087</id>
-        <link href="https://v.daum.net/v/20240515143046087"/>
-        <updated>2024-05-15T06:15:37.779Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
