@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-17T15:11:10.860Z</updated>
+    <updated>2024-05-17T16:14:21.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘수사반장’ 이제훈, 이봉준 살인 행위 목격→옥상에서 추락]]></title>
+        <id>https://v.daum.net/v/20240518003303217</id>
+        <link href="https://v.daum.net/v/20240518003303217"/>
+        <updated>2024-05-17T16:13:19.284Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구성환, 패왕별희 화장법으로 초토화 "슬픈데 웃겨"]]></title>
+        <id>https://v.daum.net/v/20240518001742113</id>
+        <link href="https://v.daum.net/v/20240518001742113"/>
+        <updated>2024-05-17T16:13:19.284Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구성환, 코쿤·키 저격 디스 "천천히 먹는 사람 이해 안돼"]]></title>
         <id>https://v.daum.net/v/20240518000001925</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240517224142257"/>
         <updated>2024-05-17T14:10:54.853Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 의문의 살인사건에 분노... "증거부터 확보"]]></title>
-        <id>https://v.daum.net/v/20240517222342126</id>
-        <link href="https://v.daum.net/v/20240517222342126"/>
-        <updated>2024-05-17T14:10:54.854Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장 1958’ 이제훈, 정수빈 보고에 충격 “여공 매달 실종!”]]></title>
-        <id>https://v.daum.net/v/20240517222326125</id>
-        <link href="https://v.daum.net/v/20240517222326125"/>
-        <updated>2024-05-17T14:10:54.854Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
