@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-17T20:13:06.786Z</updated>
+    <updated>2024-05-17T21:09:52.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구성환, 비빔국수→햄버거→랍스타... 삼시세끼 화려한 먹방에 '군침']]></title>
+        <id>https://v.daum.net/v/20240518053402528</id>
+        <link href="https://v.daum.net/v/20240518053402528"/>
+        <updated>2024-05-17T21:09:46.172Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 부활' 엄기준, 살아 돌아온 윤종훈에 '충격'…이유비, 살인 자수]]></title>
         <id>https://v.daum.net/v/20240518032100963</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240517231427561"/>
         <updated>2024-05-17T15:11:03.085Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수사반장’ 이제훈, ‘종남 4공자’ 김정화 증언에 분노…“반드시 체포할 것”]]></title>
-        <id>https://v.daum.net/v/20240517225700392</id>
-        <link href="https://v.daum.net/v/20240517225700392"/>
-        <updated>2024-05-17T15:11:03.088Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
