@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-17T18:14:03.253Z</updated>
+    <updated>2024-05-17T19:08:39.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['7인의 부활' 엄기준, 살아 돌아온 윤종훈에 '충격'…이유비, 살인 자수]]></title>
+        <id>https://v.daum.net/v/20240518032100963</id>
+        <link href="https://v.daum.net/v/20240518032100963"/>
+        <updated>2024-05-17T19:08:31.082Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7인의 부활' 이유비, 정라엘 친부 윤태영에 "죄송합니다, 죄송해요" 눈물의 사죄]]></title>
         <id>https://v.daum.net/v/20240518021500782</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240517225700392"/>
         <updated>2024-05-17T15:11:03.088Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, '실종' 여공 시신에 분노→수사 돌입 "반드시 체포"]]></title>
-        <id>https://v.daum.net/v/20240517224758300</id>
-        <link href="https://v.daum.net/v/20240517224758300"/>
-        <updated>2024-05-17T14:10:54.851Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
