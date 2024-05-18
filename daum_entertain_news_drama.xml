@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-18T02:25:00.396Z</updated>
+    <updated>2024-05-18T03:11:34.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[덕후가 좋아하는 덕후이야기]]></title>
+        <id>https://v.daum.net/v/20240518121013876</id>
+        <link href="https://v.daum.net/v/20240518121013876"/>
+        <updated>2024-05-18T03:11:28.094Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['졸업' 정려원X위하준 사제 어게인?...설레는 비밀 수업 개시]]></title>
+        <id>https://v.daum.net/v/20240518114945698</id>
+        <link href="https://v.daum.net/v/20240518114945698"/>
+        <updated>2024-05-18T03:11:28.094Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정화, 안방극장 컴백…이제훈 조력자로 특별출연]]></title>
+        <id>https://v.daum.net/v/20240518114236614</id>
+        <link href="https://v.daum.net/v/20240518114236614"/>
+        <updated>2024-05-18T03:11:28.095Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수사반장 1958' 이제훈, 범행 현장 잠입 시도중 추락]]></title>
+        <id>https://v.daum.net/v/20240518114101595</id>
+        <link href="https://v.daum.net/v/20240518114101595"/>
+        <updated>2024-05-18T03:11:28.095Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["전설은 이렇게 탄생했다"..'수사반장 1958', 최종회 D-DAY]]></title>
+        <id>https://v.daum.net/v/20240518112853477</id>
+        <link href="https://v.daum.net/v/20240518112853477"/>
+        <updated>2024-05-18T03:11:28.095Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영철 "장영란 결혼식 불참?…과거 짝사랑했다"]]></title>
         <id>https://v.daum.net/v/20240518111434269</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240518102535598"/>
         <updated>2024-05-18T01:51:06.093Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로는 아닙니다만' 천우희 정체 발각? 고두심 싸늘한 눈빛 포착]]></title>
-        <id>https://v.daum.net/v/20240518101047394</id>
-        <link href="https://v.daum.net/v/20240518101047394"/>
-        <updated>2024-05-18T01:51:06.093Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장1958' 이제훈, 병원 잠입 중 추락…최대 위기]]></title>
-        <id>https://v.daum.net/v/20240518094543059</id>
-        <link href="https://v.daum.net/v/20240518094543059"/>
-        <updated>2024-05-18T01:51:06.095Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최시훈 결혼' 에일리, 소름 돋는 무대 '전율']]></title>
-        <id>https://v.daum.net/v/20240518093806964</id>
-        <link href="https://v.daum.net/v/20240518093806964"/>
-        <updated>2024-05-18T00:45:12.231Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장 1958' 이제훈, 병실 잠입 시도 중 추락…온몸 내던졌다]]></title>
-        <id>https://v.daum.net/v/20240518093245871</id>
-        <link href="https://v.daum.net/v/20240518093245871"/>
-        <updated>2024-05-18T00:45:12.233Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼자산다' 시청자 픽 통했다…구성환, 스튜디오 발칵 뒤집힌 일상]]></title>
-        <id>https://v.daum.net/v/20240518093206866</id>
-        <link href="https://v.daum.net/v/20240518093206866"/>
-        <updated>2024-05-18T00:45:12.234Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
