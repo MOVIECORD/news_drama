@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-18T09:12:07.442Z</updated>
+    <updated>2024-05-18T10:10:50.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세자가 사라졌다', 주말밤을 '수호'하라]]></title>
+        <id>https://v.daum.net/v/20240518190706753</id>
+        <link href="https://v.daum.net/v/20240518190706753"/>
+        <updated>2024-05-18T10:10:41.386Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정재 "'오징어게임 시즌2', 시즌1보다 재미있어…황동혁 감독 천재"]]></title>
+        <id>https://v.daum.net/v/20240518182930212</id>
+        <link href="https://v.daum.net/v/20240518182930212"/>
+        <updated>2024-05-18T10:10:41.386Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['졸업' 정려원·위하준, 사제 넘어 동료로..설레는 비밀 수업 개시]]></title>
         <id>https://v.daum.net/v/20240518180835032</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240518165053127"/>
         <updated>2024-05-18T08:12:32.241Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 이상엽, 새신랑 일상→신혼집 공개]]></title>
-        <id>https://v.daum.net/v/20240518164500044</id>
-        <link href="https://v.daum.net/v/20240518164500044"/>
-        <updated>2024-05-18T08:12:32.241Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수사반장 1958' 이제훈→윤현수 종영 소감 "따뜻했던 현장, 그리울 것"]]></title>
-        <id>https://v.daum.net/v/20240518163846982</id>
-        <link href="https://v.daum.net/v/20240518163846982"/>
-        <updated>2024-05-18T08:12:32.242Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
