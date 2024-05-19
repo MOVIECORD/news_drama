@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-19T15:11:14.998Z</updated>
+    <updated>2024-05-19T16:12:27.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미녀와 순정남' 지현우, ♥임수향 정체 알고 직진 플러팅]]></title>
+        <id>https://v.daum.net/v/20240520002542736</id>
+        <link href="https://v.daum.net/v/20240520002542736"/>
+        <updated>2024-05-19T16:12:19.507Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사실 난 사기꾼" 천우희, 양심의 가책 못 이겨 ♥장기용과 결혼식 '중단']]></title>
+        <id>https://v.daum.net/v/20240520001318646</id>
+        <link href="https://v.daum.net/v/20240520001318646"/>
+        <updated>2024-05-19T16:12:19.509Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['히어로는 아닙니다만' 천우희, ♥장기용과 결혼 도중 사기꾼 정체 고백]]></title>
         <id>https://v.daum.net/v/20240519235747380</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240519212241336"/>
         <updated>2024-05-19T13:10:13.160Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향 찾았다..지현우 오열 "살아있어 줘서 고마워"]]></title>
-        <id>https://v.daum.net/v/20240519212104328</id>
-        <link href="https://v.daum.net/v/20240519212104328"/>
-        <updated>2024-05-19T13:10:13.162Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미녀와 순정남’ 지현우, 임수향 생존에 오열 “다신 네 손 안 놓을 것”]]></title>
-        <id>https://v.daum.net/v/20240519212057323</id>
-        <link href="https://v.daum.net/v/20240519212057323"/>
-        <updated>2024-05-19T13:10:13.164Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
