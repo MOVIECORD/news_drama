@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-19T05:11:18.670Z</updated>
+    <updated>2024-05-19T06:15:27.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장기용·천우희 결혼식 포착…고두심 vs 김금순 '팽팽한 눈싸움']]></title>
+        <id>https://v.daum.net/v/20240519150028109</id>
+        <link href="https://v.daum.net/v/20240519150028109"/>
+        <updated>2024-05-19T06:14:25.943Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최불암, '수사반장 1958' 종영 용두용미 만든 영원한 '박 반장']]></title>
+        <id>https://v.daum.net/v/20240519141740122</id>
+        <link href="https://v.daum.net/v/20240519141740122"/>
+        <updated>2024-05-19T06:14:25.944Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미녀와 순정남’ 임수향 발목 문신 발견 지현우, 충격→눈물까지 글썽?]]></title>
         <id>https://v.daum.net/v/20240519140634853</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240519123251507"/>
         <updated>2024-05-19T04:13:23.006Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복도커플' 김명수♥이유영, 유교 로맨스 시동 건다]]></title>
-        <id>https://v.daum.net/v/20240519121212340</id>
-        <link href="https://v.daum.net/v/20240519121212340"/>
-        <updated>2024-05-19T03:12:56.229Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이혼' 황정음, 성공적인 악역 도전…"덕분에 좋은 에너지 나눠"]]></title>
-        <id>https://v.daum.net/v/20240519120830296</id>
-        <link href="https://v.daum.net/v/20240519120830296"/>
-        <updated>2024-05-19T03:12:56.229Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
