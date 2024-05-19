@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-19T20:12:16.378Z</updated>
+    <updated>2024-05-19T21:10:18.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 에이트 쇼’, 재미에 경도된 세상에 던지는 블랙코미디 혹은 잔혹극]]></title>
+        <id>https://v.daum.net/v/20240520060607186</id>
+        <link href="https://v.daum.net/v/20240520060607186"/>
+        <updated>2024-05-19T21:10:09.675Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명수♥이유영, 유교 로맨스 시동…관전포인트 공개]]></title>
         <id>https://v.daum.net/v/20240520020010282</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240519213244404"/>
         <updated>2024-05-19T13:10:13.152Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 고윤, 쫄딱 망한 차화연 목격하고 충격... 식당에서도 쫓겨나]]></title>
-        <id>https://v.daum.net/v/20240519213001388</id>
-        <link href="https://v.daum.net/v/20240519213001388"/>
-        <updated>2024-05-19T13:10:13.153Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
