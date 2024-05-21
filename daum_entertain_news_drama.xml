@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-21T10:11:24.783Z</updated>
+    <updated>2024-05-21T11:10:17.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크래시', 시청률 흐름이 '우영우'인데…엑셀 페달 힘껏 밟고 질주 시작]]></title>
+        <id>https://v.daum.net/v/20240521200128912</id>
+        <link href="https://v.daum.net/v/20240521200128912"/>
+        <updated>2024-05-21T11:10:05.847Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['용수정' 권화운, 엄현경과 스캔들 배후 찾고 이승연에 총 겨눴다]]></title>
+        <id>https://v.daum.net/v/20240521194847587</id>
+        <link href="https://v.daum.net/v/20240521194847587"/>
+        <updated>2024-05-21T11:10:05.854Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영VS한보름, 한때 모녀사이였는데…싸늘 대치]]></title>
         <id>https://v.daum.net/v/20240521190141547</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240521165628830"/>
         <updated>2024-05-21T08:13:37.653Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 지성, 긴박한 추적 중 오열 터졌다…변질된 우정의 타임라인]]></title>
-        <id>https://v.daum.net/v/20240521165103655</id>
-        <link href="https://v.daum.net/v/20240521165103655"/>
-        <updated>2024-05-21T08:13:37.654Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최악의 악' 이신기, '이토록 친밀한 배신자' 출연 "이번엔 선의 편"]]></title>
-        <id>https://v.daum.net/v/20240521164951602</id>
-        <link href="https://v.daum.net/v/20240521164951602"/>
-        <updated>2024-05-21T08:13:37.654Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
