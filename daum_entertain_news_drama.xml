@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-22T20:11:36.344Z</updated>
+    <updated>2024-05-22T21:11:57.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마 공동제작하고, 배우들 국경 넘나들고… 손잡은 韓日]]></title>
+        <id>https://v.daum.net/v/20240523060049669</id>
+        <link href="https://v.daum.net/v/20240523060049669"/>
+        <updated>2024-05-22T21:11:48.842Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비밀은 없어’ 고경표, 강한나와 키스로 마음 확인→본격적인 러브라인 시작?]]></title>
+        <id>https://v.daum.net/v/20240523051501174</id>
+        <link href="https://v.daum.net/v/20240523051501174"/>
+        <updated>2024-05-22T21:11:48.845Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정표,  SBS 드라마 '커넥션' 캐스팅…지성과 호흡]]></title>
         <id>https://v.daum.net/v/20240523044004769</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240522201643222"/>
         <updated>2024-05-22T12:20:07.964Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['용수정' 임주은, 권화운에 직진 선언 "엄현경 안 돼, 절대 안 밀려날 것"]]></title>
-        <id>https://v.daum.net/v/20240522195030627</id>
-        <link href="https://v.daum.net/v/20240522195030627"/>
-        <updated>2024-05-22T11:09:26.419Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선재업고튀어', 인기 과열에 서버 폭발→현장 예매설까지 "단관 美쳤다"]]></title>
-        <id>https://v.daum.net/v/20240522193638363</id>
-        <link href="https://v.daum.net/v/20240522193638363"/>
-        <updated>2024-05-22T11:09:26.419Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
