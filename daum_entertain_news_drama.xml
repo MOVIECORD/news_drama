@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-22T15:11:16.829Z</updated>
+    <updated>2024-05-22T16:14:41.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민규, 수호·홍예지 포옹 목격…가시밭 삼각 로맨스]]></title>
+        <id>https://v.daum.net/v/20240523010009753</id>
+        <link href="https://v.daum.net/v/20240523010009753"/>
+        <updated>2024-05-22T16:13:39.509Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["암표 갖고 튀어"…'선업튀' 티켓 '600배 뻥튀기'→시청자 분노 UP]]></title>
         <id>https://v.daum.net/v/20240522225006538</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240522183052982"/>
         <updated>2024-05-22T10:11:06.292Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명민, '유어 아너' 출연…범죄조직 보스 된다]]></title>
-        <id>https://v.daum.net/v/20240522182452854</id>
-        <link href="https://v.daum.net/v/20240522182452854"/>
-        <updated>2024-05-22T10:11:06.294Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
