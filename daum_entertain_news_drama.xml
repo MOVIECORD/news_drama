@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-22T10:11:13.964Z</updated>
+    <updated>2024-05-22T11:10:28.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['수사반장' 윤현수의 짝사랑…"차은우VS이제훈? 이동휘!"]]></title>
+        <title type="html"><![CDATA['용수정' 임주은, 권화운에 직진 선언 "엄현경 안 돼, 절대 안 밀려날 것"]]></title>
+        <id>https://v.daum.net/v/20240522195030627</id>
+        <link href="https://v.daum.net/v/20240522195030627"/>
+        <updated>2024-05-22T11:09:26.419Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['선재업고튀어', 인기 과열에 서버 폭발→현장 예매설까지 "단관 美쳤다"]]></title>
+        <id>https://v.daum.net/v/20240522193638363</id>
+        <link href="https://v.daum.net/v/20240522193638363"/>
+        <updated>2024-05-22T11:09:26.419Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일편단심 윤현수 "차은우VS이제훈? 이동휘!"]]></title>
         <id>https://v.daum.net/v/20240522190143613</id>
         <link href="https://v.daum.net/v/20240522190143613"/>
         <updated>2024-05-22T10:11:06.283Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240522165750784"/>
         <updated>2024-05-22T08:14:49.120Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지호, 김혜윤 알려준 번호로 복권 당첨 돈방석…일등 신랑감]]></title>
-        <id>https://v.daum.net/v/20240522165445693</id>
-        <link href="https://v.daum.net/v/20240522165445693"/>
-        <updated>2024-05-22T08:14:49.120Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크래시', 제2의 '우영우' 기대하게 만드는 선한 영향력]]></title>
-        <id>https://v.daum.net/v/20240522164743455</id>
-        <link href="https://v.daum.net/v/20240522164743455"/>
-        <updated>2024-05-22T08:14:49.127Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
