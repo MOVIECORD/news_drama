@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-23T14:10:56.858Z</updated>
+    <updated>2024-05-23T15:11:54.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장기용♥천우희→박소이♥문우진, 서툴러 더 설렌다]]></title>
+        <id>https://v.daum.net/v/20240523234741223</id>
+        <link href="https://v.daum.net/v/20240523234741223"/>
+        <updated>2024-05-23T15:11:46.214Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["조세호는 G바겐, 예비신부는 G하철?"…용산에 초고층 신혼집 구한 이유]]></title>
+        <id>https://v.daum.net/v/20240523232308050</id>
+        <link href="https://v.daum.net/v/20240523232308050"/>
+        <updated>2024-05-23T15:11:46.216Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄현경, 서준영과 산부인과행 “이상한 소문나면 너 때문이야”]]></title>
         <id>https://v.daum.net/v/20240523210900325</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240523174802206"/>
         <updated>2024-05-23T09:12:51.033Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돌싱글즈5', 자녀 유무→생활기록부 공개]]></title>
-        <id>https://v.daum.net/v/20240523172219217</id>
-        <link href="https://v.daum.net/v/20240523172219217"/>
-        <updated>2024-05-23T09:12:51.036Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불가사의한 체험" '설계자', 차가운 참치캔 같은 강동원의 참맛]]></title>
-        <id>https://v.daum.net/v/20240523170841726</id>
-        <link href="https://v.daum.net/v/20240523170841726"/>
-        <updated>2024-05-23T08:13:27.945Z</updated>
-        <content type="html"><![CDATA[스포티비뉴스]]></content>
     </entry>
 </feed>
