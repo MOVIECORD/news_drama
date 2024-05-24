@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-24T15:12:17.827Z</updated>
+    <updated>2024-05-24T16:12:50.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘우리, 집’ 김희선, 권해효 사망 후 춤추는 이혜영에 충격 “서로 꼭 다 알아야지만 가족인가”]]></title>
+        <id>https://v.daum.net/v/20240525002400488</id>
+        <link href="https://v.daum.net/v/20240525002400488"/>
+        <updated>2024-05-24T16:12:43.039Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한보름, 작가 데뷔 꿈꿨는데…슈퍼스타된 전남친에 싸늘 시선]]></title>
         <id>https://v.daum.net/v/20240525000141334</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240524224139478"/>
         <updated>2024-05-24T14:10:55.313Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희선, 가족 간의 가스라이팅 암시…“가족 구성원의 정서적 독립 막는 것 안 돼”]]></title>
-        <id>https://v.daum.net/v/20240524223900426</id>
-        <link href="https://v.daum.net/v/20240524223900426"/>
-        <updated>2024-05-24T14:10:55.315Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
