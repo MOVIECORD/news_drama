@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-24T08:14:30.320Z</updated>
+    <updated>2024-05-24T09:12:51.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희선, 인생 송두리째 흔들린다…'우리 집' 오늘 첫방부터 "폭풍전개"]]></title>
+        <id>https://v.daum.net/v/20240524175942560</id>
+        <link href="https://v.daum.net/v/20240524175942560"/>
+        <updated>2024-05-24T09:11:49.477Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지성 "난 기본 베이스일 뿐…빛내는 캐릭터 많아"]]></title>
+        <id>https://v.daum.net/v/20240524175006367</id>
+        <link href="https://v.daum.net/v/20240524175006367"/>
+        <updated>2024-05-24T09:11:49.478Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["지성, 과호흡으로 쓰러질 뻔"…마약 중독 연기한 '커넥션' 뭐길래]]></title>
+        <id>https://v.daum.net/v/20240524173901119</id>
+        <link href="https://v.daum.net/v/20240524173901119"/>
+        <updated>2024-05-24T09:11:49.479Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["변우석♥김혜윤 열애? 노코멘트"…보조개까지 '똑닮' 운명 못보내]]></title>
         <id>https://v.daum.net/v/20240524170005038</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240524153013236"/>
         <updated>2024-05-24T07:10:32.668Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 장르물 베테랑 지성, '마약' 소재 '묵직하게' 풀어낸다]]></title>
-        <id>https://v.daum.net/v/20240524152753161</id>
-        <link href="https://v.daum.net/v/20240524152753161"/>
-        <updated>2024-05-24T07:10:32.669Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘커넥션’ 안 할 이유 無”…‘마약 중독자’ 지성, ‘약들린’ 연기 어떨까]]></title>
-        <id>https://v.daum.net/v/20240524152709147</id>
-        <link href="https://v.daum.net/v/20240524152709147"/>
-        <updated>2024-05-24T07:10:32.671Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 전미도 "첫 장르물 도전, 지성 지도편달 덕에 편하게 해"]]></title>
-        <id>https://v.daum.net/v/20240524152504071</id>
-        <link href="https://v.daum.net/v/20240524152504071"/>
-        <updated>2024-05-24T07:10:32.672Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
