@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-24T10:11:35.926Z</updated>
+    <updated>2024-05-24T11:10:47.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김래원vs남궁민 시즌2?…"한날한시 첫방+스릴러" 누가 웃을까]]></title>
+        <id>https://v.daum.net/v/20240524193002301</id>
+        <link href="https://v.daum.net/v/20240524193002301"/>
+        <updated>2024-05-24T11:10:39.570Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강형욱 "CCTV, 직원 감시용 아냐" 해명에도… '개훌륭' 또 결방]]></title>
         <id>https://v.daum.net/v/20240524190912869</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240524155107902"/>
         <updated>2024-05-24T07:10:32.663Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전현무, 17년 키운 반려견과 이별…"유기견 봉사·병원비 후원 중"]]></title>
-        <id>https://v.daum.net/v/20240524154802792</id>
-        <link href="https://v.daum.net/v/20240524154802792"/>
-        <updated>2024-05-24T07:10:32.665Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
