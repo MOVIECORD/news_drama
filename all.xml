@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-24T16:12:50.866Z</updated>
+    <updated>2024-05-24T17:12:00.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[임수향, 지현우 플러팅에 설렘+혼란 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240525020141204</id>
+        <link href="https://v.daum.net/v/20240525020141204"/>
+        <updated>2024-05-24T17:10:58.485Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우리, 집’ 김희선, 권해효 사망 후 춤추는 이혜영에 충격 “서로 꼭 다 알아야지만 가족인가” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240525002400488</id>
@@ -100,13 +107,6 @@
         <id>https://v.daum.net/v/20240524224231491</id>
         <link href="https://v.daum.net/v/20240524224231491"/>
         <updated>2024-05-24T14:10:55.311Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연우, 김희선에 심리 상담…"쇼윈도 부부면서 왜 못 헤어질까" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240524224139478</id>
-        <link href="https://v.daum.net/v/20240524224139478"/>
-        <updated>2024-05-24T14:10:55.313Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
