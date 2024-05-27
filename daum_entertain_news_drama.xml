@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-05-27T14:10:14.347Z</updated>
+    <updated>2024-05-27T15:12:26.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[표예진x이준영 MBTI는?..'대놓고 신데렐라' 작가가 밝힌 꿀잼 포인트]]></title>
+        <id>https://v.daum.net/v/20240527232941204</id>
+        <link href="https://v.daum.net/v/20240527232941204"/>
+        <updated>2024-05-27T15:12:18.037Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김혜윤, 사랑해"..변우석, 죽음 위기 속 기억 되찾았다]]></title>
         <id>https://v.daum.net/v/20240527230844048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240527211501071"/>
         <updated>2024-05-27T12:19:14.895Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘선업튀’ 김혜윤, 기억 잃은 ♥변우석 손잡고 그리움의 눈물 “선재야”]]></title>
-        <id>https://v.daum.net/v/20240527211143037</id>
-        <link href="https://v.daum.net/v/20240527211143037"/>
-        <updated>2024-05-27T12:19:14.900Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
