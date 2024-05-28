@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-28T14:11:29.028Z</updated>
+    <updated>2024-05-28T15:10:50.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이준영·표예진 '나는 대놓고 신데렐라를 꿈꾼다' 유자 작가가 밝힌 캐릭터 MBTI (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240528233301196</id>
+        <link href="https://v.daum.net/v/20240528233301196"/>
+        <updated>2024-05-28T15:10:43.578Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘선업튀’ 변우석♥김혜윤 벚꽃 비 맞으며 “평생 옆에 있을게”…꽉 막힌 해피엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240528230301940</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240528212312540"/>
         <updated>2024-05-28T13:12:50.008Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석, ♥김혜윤 기억해내고 눈물의 키스…"어떻게 널 지울 생각을 해?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240528211743428</id>
-        <link href="https://v.daum.net/v/20240528211743428"/>
-        <updated>2024-05-28T12:19:03.004Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
