@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-29T12:19:25.349Z</updated>
+    <updated>2024-05-29T13:12:46.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[전지현・강동원 주연 '북극성', 내년 공개 확정 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240529215243834</id>
+        <link href="https://v.daum.net/v/20240529215243834"/>
+        <updated>2024-05-29T13:12:35.081Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하연주, 병원 탈출+의사에 마취제 주입..분노의 복수 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240529205043512</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240529183101794"/>
         <updated>2024-05-29T10:11:45.395Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크래시' 문희, TCI 팀 화룡점정 찍은 만능 신예..전방위 활약 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240529182744729</id>
-        <link href="https://v.daum.net/v/20240529182744729"/>
-        <updated>2024-05-29T10:11:45.398Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
