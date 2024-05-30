@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-30T06:14:45.089Z</updated>
+    <updated>2024-05-30T07:11:37.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['더 에이트 쇼' 문정희 "5층으로 6개월간 살아 오지랖 넓어져…스스로 돌아보게 돼" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240530153146648</id>
+        <link href="https://v.daum.net/v/20240530153146648"/>
+        <updated>2024-05-30T07:11:30.230Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영VS한보름…한씨 여자들의 숨막히는 눈빛 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240530151401698</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240530135247728"/>
         <updated>2024-05-30T05:10:41.980Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍백'도 가고, '솔선'도 가고…tvN, 상반기 웃으며 마무리할까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240530135008640</id>
-        <link href="https://v.daum.net/v/20240530135008640"/>
-        <updated>2024-05-30T05:10:41.980Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
