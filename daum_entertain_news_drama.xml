@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-01T20:11:51.189Z</updated>
+    <updated>2024-06-01T21:10:58.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["친구 사이로 만족"..'커넥션' 지성, 학창시절부터 전미도 짝사랑 '애틋']]></title>
+        <id>https://v.daum.net/v/20240602054202788</id>
+        <link href="https://v.daum.net/v/20240602054202788"/>
+        <updated>2024-06-01T21:10:49.814Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커넥션' 지성, 다시 마약했다→무고한 죽음 목격 후 눈물]]></title>
         <id>https://v.daum.net/v/20240602005545353</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240601223631525"/>
         <updated>2024-06-01T14:10:04.066Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지성, 결국 '레몬뽕' 먹었다···마약 중독 증상 심해져]]></title>
-        <id>https://v.daum.net/v/20240601223219437</id>
-        <link href="https://v.daum.net/v/20240601223219437"/>
-        <updated>2024-06-01T14:10:04.067Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
