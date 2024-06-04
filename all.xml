@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-04T22:11:21.650Z</updated>
+    <updated>2024-06-04T23:12:14.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[권은빈, 넷플릭스 '하이라키' 신스틸러..7일 공개 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240605080053741</id>
+        <link href="https://v.daum.net/v/20240605080053741"/>
+        <updated>2024-06-04T23:12:06.212Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 송승헌X오연서, 첫 판 벌려…연예계 클럽 마약 성범죄 잡는다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240605070002859</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240604204844011"/>
         <updated>2024-06-04T12:19:26.457Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도눈물도없이' 이소연, 하연주=간 공여자 진실에 충격.. "서하준은 어디에?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240604202741608</id>
-        <link href="https://v.daum.net/v/20240604202741608"/>
-        <updated>2024-06-04T12:19:26.459Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
