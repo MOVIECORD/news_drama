@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-04T18:15:15.288Z</updated>
+    <updated>2024-06-04T19:09:24.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘낮과 밤이 다른 그녀’ 측 “이정은, 현장에서 ‘임블리’라 불러”]]></title>
+        <id>https://v.daum.net/v/20240605040012026</id>
+        <link href="https://v.daum.net/v/20240605040012026"/>
+        <updated>2024-06-04T19:09:16.718Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 에이트 쇼’ 일부 자막 동해를 일본해로 표기]]></title>
         <id>https://v.daum.net/v/20240605003147043</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240604190005433"/>
         <updated>2024-06-04T10:11:29.231Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전석호, 전혜진 복귀작 ‘라이딩 인생’서 부부 호흡 “긍정 검토중”]]></title>
-        <id>https://v.daum.net/v/20240604185008149</id>
-        <link href="https://v.daum.net/v/20240604185008149"/>
-        <updated>2024-06-04T10:11:29.233Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
