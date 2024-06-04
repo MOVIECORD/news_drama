@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-04T15:11:52.353Z</updated>
+    <updated>2024-06-04T16:14:33.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 에이트 쇼’ 일부 자막 동해를 일본해로 표기]]></title>
+        <id>https://v.daum.net/v/20240605003147043</id>
+        <link href="https://v.daum.net/v/20240605003147043"/>
+        <updated>2024-06-04T16:14:24.825Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식지 않는 선업튀 열풍…‘소나기’ 멜론차트 톱10]]></title>
+        <id>https://v.daum.net/v/20240605003141039</id>
+        <link href="https://v.daum.net/v/20240605003141039"/>
+        <updated>2024-06-04T16:14:24.825Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 송승헌, 정수정 때문에 못 떠났나? 마약 수사 중 하도권과 추격전]]></title>
         <id>https://v.daum.net/v/20240604220030350</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240604185008149"/>
         <updated>2024-06-04T10:11:29.233Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘플레이어2’ 오연서, 첫 등장부터 시선 집중…반전 엔딩]]></title>
-        <id>https://v.daum.net/v/20240604184316979</id>
-        <link href="https://v.daum.net/v/20240604184316979"/>
-        <updated>2024-06-04T10:11:29.234Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['틈만 나면' 유연석, 첫 독립 일화 "전 재산 천만 원 보증금 내고 돈 없어"]]></title>
-        <id>https://v.daum.net/v/20240604183445723</id>
-        <link href="https://v.daum.net/v/20240604183445723"/>
-        <updated>2024-06-04T10:11:29.235Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
