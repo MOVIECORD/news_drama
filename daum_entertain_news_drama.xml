@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-06T17:11:27.453Z</updated>
+    <updated>2024-06-06T18:13:49.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘한채영 딸’ 한보름, 드라마 작가 변신 “대본 순식간에 읽어”]]></title>
+        <id>https://v.daum.net/v/20240607030142992</id>
+        <link href="https://v.daum.net/v/20240607030142992"/>
+        <updated>2024-06-06T18:13:40.362Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한선화, 키즈 크리에이터 됐지만 구독자수 굴욕…"내려놨다"]]></title>
         <id>https://v.daum.net/v/20240606234302973</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240606190141764"/>
         <updated>2024-06-06T10:11:40.662Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“모든 걸 내려놓고 연기했다”…한선화 표 놀이법 뭐길래]]></title>
-        <id>https://v.daum.net/v/20240606185401652</id>
-        <link href="https://v.daum.net/v/20240606185401652"/>
-        <updated>2024-06-06T10:11:40.663Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
