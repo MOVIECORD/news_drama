@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-07T20:11:20.520Z</updated>
+    <updated>2024-06-07T21:12:20.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘커넥션’ 지성, 마약 중독 절규→권율·정유민 불륜 목격까지...‘연기가 날뛰다’]]></title>
+        <id>https://v.daum.net/v/20240608060606926</id>
+        <link href="https://v.daum.net/v/20240608060606926"/>
+        <updated>2024-06-07T21:12:13.246Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물의 여왕' 곽동연 "제 모든 것 다 꺼내 보인 드라마, 제작진 100% 믿었죠"]]></title>
         <id>https://v.daum.net/v/20240608041459329</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240607220426770"/>
         <updated>2024-06-07T13:13:37.387Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥션’ 측 "지성·전미도·정순원 시너지..오늘 색다른 히든카드 등장"]]></title>
-        <id>https://v.daum.net/v/20240607212047190</id>
-        <link href="https://v.daum.net/v/20240607212047190"/>
-        <updated>2024-06-07T12:21:37.771Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
