@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-07T19:09:34.794Z</updated>
+    <updated>2024-06-07T20:11:20.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['눈물의 여왕' 곽동연 "제 모든 것 다 꺼내 보인 드라마, 제작진 100% 믿었죠"]]></title>
+        <id>https://v.daum.net/v/20240608041459329</id>
+        <link href="https://v.daum.net/v/20240608041459329"/>
+        <updated>2024-06-07T20:11:12.785Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지성, 권율·정유민 불륜 관계 눈치챘다…윤나무 타살 확신, 마약과 연관있나?]]></title>
         <id>https://v.daum.net/v/20240607234143994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240607212047190"/>
         <updated>2024-06-07T12:21:37.771Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베일 벗은 '애콜라이트', '제다이 마스터' 이정재 존재감 빛났다]]></title>
-        <id>https://v.daum.net/v/20240607210044902</id>
-        <link href="https://v.daum.net/v/20240607210044902"/>
-        <updated>2024-06-07T12:21:37.777Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
