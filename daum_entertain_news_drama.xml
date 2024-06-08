@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-08T10:12:18.739Z</updated>
+    <updated>2024-06-08T11:10:17.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어쨌든 김남희를 찾아야”…김희선·이혜영, ‘불길한 추적 공조’]]></title>
+        <id>https://v.daum.net/v/20240608194501296</id>
+        <link href="https://v.daum.net/v/20240608194501296"/>
+        <updated>2024-06-08T11:09:15.263Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“죽이는 건 안 된다”…수호, 이번엔 ‘전광석화 검술 액션’]]></title>
+        <id>https://v.daum.net/v/20240608192700160</id>
+        <link href="https://v.daum.net/v/20240608192700160"/>
+        <updated>2024-06-08T11:09:15.263Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니·지드래곤, 억소리 나는 애마… 정체는?]]></title>
         <id>https://v.daum.net/v/20240608174731880</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240608151351807"/>
         <updated>2024-06-08T07:10:42.322Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘크래시’ 최종회까지 단 4회, 최종 빌런은 허정도-강기둥 부자?]]></title>
-        <id>https://v.daum.net/v/20240608150931775</id>
-        <link href="https://v.daum.net/v/20240608150931775"/>
-        <updated>2024-06-08T06:13:36.907Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우리, 집’ 김희선-이혜영 매서운 기세녀들의 광폭 질주 “김남희 찾아야”]]></title>
-        <id>https://v.daum.net/v/20240608141108104</id>
-        <link href="https://v.daum.net/v/20240608141108104"/>
-        <updated>2024-06-08T06:13:36.908Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
