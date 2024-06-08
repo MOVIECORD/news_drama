@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-08T05:11:33.960Z</updated>
+    <updated>2024-06-08T06:14:38.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크래시’ 최종회까지 단 4회, 최종 빌런은 허정도-강기둥 부자?]]></title>
+        <id>https://v.daum.net/v/20240608150931775</id>
+        <link href="https://v.daum.net/v/20240608150931775"/>
+        <updated>2024-06-08T06:13:36.907Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘우리, 집’ 김희선-이혜영 매서운 기세녀들의 광폭 질주 “김남희 찾아야”]]></title>
+        <id>https://v.daum.net/v/20240608141108104</id>
+        <link href="https://v.daum.net/v/20240608141108104"/>
+        <updated>2024-06-08T06:13:36.908Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민우 母, 외출 3시간 만 공동현관서 발견… 보자마자 오열]]></title>
         <id>https://v.daum.net/v/20240608140613053</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240608113046861"/>
         <updated>2024-06-08T03:13:05.886Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정려원♥위하준, 탕비실 뽀뽀→회의중 눈맞춤..스릴만점 비밀 연애]]></title>
-        <id>https://v.daum.net/v/20240608112143786</id>
-        <link href="https://v.daum.net/v/20240608112143786"/>
-        <updated>2024-06-08T02:27:32.910Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, '1박2일' 출격… 데뷔 첫 지상파 예능 나들이]]></title>
-        <id>https://v.daum.net/v/20240608104850518</id>
-        <link href="https://v.daum.net/v/20240608104850518"/>
-        <updated>2024-06-08T01:55:24.008Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
