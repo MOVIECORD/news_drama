@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-09T07:10:45.041Z</updated>
+    <updated>2024-06-09T08:13:59.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최종회 앞둔 '히어로는' 장기용, 마지막 타임슬립...천우희 구할까]]></title>
+        <id>https://v.daum.net/v/20240609170400605</id>
+        <link href="https://v.daum.net/v/20240609170400605"/>
+        <updated>2024-06-09T08:12:57.695Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘플레이어2’ 송승헌, 한국 재입성→오연서와 본격 공조 시작]]></title>
+        <id>https://v.daum.net/v/20240609162126768</id>
+        <link href="https://v.daum.net/v/20240609162126768"/>
+        <updated>2024-06-09T08:12:57.697Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['선재야 울지마' 변우석, 타이완 팬들 만나 감격의 눈물]]></title>
+        <id>https://v.daum.net/v/20240609161341660</id>
+        <link href="https://v.daum.net/v/20240609161341660"/>
+        <updated>2024-06-09T08:12:57.699Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정려원♥위하준, 싹 변한 김송일 만난다…세상 어색한 삼자대면]]></title>
         <id>https://v.daum.net/v/20240609160634513</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240609135923592"/>
         <updated>2024-06-09T05:10:22.437Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당혹' 정려원 VS '경계' 위하준 VS '여유만만' 김송일]]></title>
-        <id>https://v.daum.net/v/20240609135647545</id>
-        <link href="https://v.daum.net/v/20240609135647545"/>
-        <updated>2024-06-09T05:10:22.438Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['졸업' 김송일 변신에 대치동 발칵...정려원X위하준과 어색한 삼자대면]]></title>
-        <id>https://v.daum.net/v/20240609134530390</id>
-        <link href="https://v.daum.net/v/20240609134530390"/>
-        <updated>2024-06-09T05:10:22.441Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 지성, 마약 연기 압권..'소름 유발' 인생캐 경신]]></title>
-        <id>https://v.daum.net/v/20240609132736100</id>
-        <link href="https://v.daum.net/v/20240609132736100"/>
-        <updated>2024-06-09T05:10:22.444Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
