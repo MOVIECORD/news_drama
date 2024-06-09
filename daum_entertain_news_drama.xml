@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-09T21:11:53.102Z</updated>
+    <updated>2024-06-09T22:10:30.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나대신꿈’에 시트콤 부활까지…안방극장, 웃겨야 산다!]]></title>
+        <id>https://v.daum.net/v/20240610063141002</id>
+        <link href="https://v.daum.net/v/20240610063141002"/>
+        <updated>2024-06-09T22:10:22.897Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“꽃뱀 돈 먹고 떨어져” 김혜선, 임수향 머리채 잡고 돈 뿌려]]></title>
         <id>https://v.daum.net/v/20240610055235208</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240609215101760"/>
         <updated>2024-06-09T13:11:01.900Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미녀와 순정남’ 고윤, 임수향에 “내가 너 좋다잖아” 집착→지현우, 주먹다짐]]></title>
-        <id>https://v.daum.net/v/20240609213228588</id>
-        <link href="https://v.daum.net/v/20240609213228588"/>
-        <updated>2024-06-09T13:11:01.900Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
