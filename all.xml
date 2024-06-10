@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-10T14:12:29.329Z</updated>
+    <updated>2024-06-10T15:13:32.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[前 테니스 국가대표 이형택 "선수로 복귀하고 싶어" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240610233856552</id>
+        <link href="https://v.daum.net/v/20240610233856552"/>
+        <updated>2024-06-10T15:12:30.550Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기보배 "육아보다 국가대표가 쉬웠다" 고충 토로 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240610231142256</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240610195141341"/>
         <updated>2024-06-10T11:10:09.029Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘용수정’ 엄현경, 임주은 정체 알았다 “너 나 알지?” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240610194943312</id>
-        <link href="https://v.daum.net/v/20240610194943312"/>
-        <updated>2024-06-10T11:10:09.029Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
