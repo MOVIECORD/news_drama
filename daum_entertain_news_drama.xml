@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-12T21:10:54.156Z</updated>
+    <updated>2024-06-12T22:11:13.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스탠포드 초청' 류수영 "♥박하선, 신메뉴 시식 힘들어해"]]></title>
+        <id>https://v.daum.net/v/20240613070015421</id>
+        <link href="https://v.daum.net/v/20240613070015421"/>
+        <updated>2024-06-12T22:11:06.991Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀아주는 여자' 엄태구, 한선화와 클럽 첫 만남→마약 의심까지? "내 앞에 나타나지마"]]></title>
+        <id>https://v.daum.net/v/20240613065048274</id>
+        <link href="https://v.daum.net/v/20240613065048274"/>
+        <updated>2024-06-12T22:11:06.992Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K드라마·K예능… 지금 세계는 ‘K리메이크 붐’]]></title>
         <id>https://v.daum.net/v/20240613060037659</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612210602337"/>
         <updated>2024-06-12T12:20:10.897Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변우석, '선재 업고 튈' 팬 걱정하더니…"부럽당" 직접 등판]]></title>
-        <id>https://v.daum.net/v/20240612210006225</id>
-        <link href="https://v.daum.net/v/20240612210006225"/>
-        <updated>2024-06-12T12:20:10.898Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도 눈물도 없이' 하연주, 간호사 변장→이소연 미행 "차라리 같이 죽자"]]></title>
-        <id>https://v.daum.net/v/20240612205045043</id>
-        <link href="https://v.daum.net/v/20240612205045043"/>
-        <updated>2024-06-12T12:20:10.898Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
