@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-12T20:11:50.539Z</updated>
+    <updated>2024-06-12T21:10:54.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K드라마·K예능… 지금 세계는 ‘K리메이크 붐’]]></title>
+        <id>https://v.daum.net/v/20240613060037659</id>
+        <link href="https://v.daum.net/v/20240613060037659"/>
+        <updated>2024-06-12T21:10:47.032Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최강희 "3년간 연기 중단 후 알바하면서 지내"]]></title>
         <id>https://v.daum.net/v/20240612225226797</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240612205045043"/>
         <updated>2024-06-12T12:20:10.898Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피도눈물도없이' 하연주, 수배범 돼서도 이소연 습격 "어차피 사형, 나혼자 못 당해"]]></title>
-        <id>https://v.daum.net/v/20240612202830604</id>
-        <link href="https://v.daum.net/v/20240612202830604"/>
-        <updated>2024-06-12T12:20:10.898Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
