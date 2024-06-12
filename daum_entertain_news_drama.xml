@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-12T09:12:09.862Z</updated>
+    <updated>2024-06-12T10:12:00.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임신한 명세빈..김주헌과 필사적인 사랑 "휘몰아친다"]]></title>
+        <id>https://v.daum.net/v/20240612182523391</id>
+        <link href="https://v.daum.net/v/20240612182523391"/>
+        <updated>2024-06-12T10:11:53.010Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['애콜라이트', 디즈니+ 신기록 경신..더 기대되는 이정재]]></title>
+        <id>https://v.daum.net/v/20240612182223318</id>
+        <link href="https://v.daum.net/v/20240612182223318"/>
+        <updated>2024-06-12T10:11:53.010Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독사과' 이은지 "母, 집에 있는 주사기 보고 오해"]]></title>
         <id>https://v.daum.net/v/20240612180908015</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612164809294"/>
         <updated>2024-06-12T08:13:49.334Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리 집' 김희선, 아들 재찬 구할까…한성민과 독대]]></title>
-        <id>https://v.daum.net/v/20240612164123047</id>
-        <link href="https://v.daum.net/v/20240612164123047"/>
-        <updated>2024-06-12T08:13:49.336Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채종협X김소현 '우연일까', '플레이어2' 후속 확정..7월 중 방송]]></title>
-        <id>https://v.daum.net/v/20240612163840951</id>
-        <link href="https://v.daum.net/v/20240612163840951"/>
-        <updated>2024-06-12T08:13:49.336Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
