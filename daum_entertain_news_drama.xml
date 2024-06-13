@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-13T04:14:35.737Z</updated>
+    <updated>2024-06-13T05:13:03.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민정, '체크인 한양' 특별출연…3년 만 안방극장 복귀]]></title>
+        <id>https://v.daum.net/v/20240613135456799</id>
+        <link href="https://v.daum.net/v/20240613135456799"/>
+        <updated>2024-06-13T05:12:01.704Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라·남지현, 화끈+시원한 '단짠' 워맨스]]></title>
+        <id>https://v.daum.net/v/20240613135027655</id>
+        <link href="https://v.daum.net/v/20240613135027655"/>
+        <updated>2024-06-13T05:12:01.707Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘놀아주는 여자’ 엄태구, 한선화 직장서 아슬아슬한 재회]]></title>
+        <id>https://v.daum.net/v/20240613134654515</id>
+        <link href="https://v.daum.net/v/20240613134654515"/>
+        <updated>2024-06-13T05:12:01.708Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스캔들' 납득 가능 비주얼 군단..최웅→김진우 女心 저격 준비 완료]]></title>
+        <id>https://v.daum.net/v/20240613133542172</id>
+        <link href="https://v.daum.net/v/20240613133542172"/>
+        <updated>2024-06-13T05:12:01.711Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장나라·남지현 워맨스 어떨까, “호흡 정말 잘 맞아”]]></title>
+        <id>https://v.daum.net/v/20240613132142778</id>
+        <link href="https://v.daum.net/v/20240613132142778"/>
+        <updated>2024-06-13T05:12:01.714Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크래시' 문희, 빠져들 수밖에 없는 '황금막내'의 매력]]></title>
         <id>https://v.daum.net/v/20240613124017901</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240613121717463"/>
         <updated>2024-06-13T04:13:33.674Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로는' 장기용 "장발 잘 어울리는 듯…아빠 연기, 미리 간접 체험"]]></title>
-        <id>https://v.daum.net/v/20240613121605446</id>
-        <link href="https://v.daum.net/v/20240613121605446"/>
-        <updated>2024-06-13T04:13:33.676Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수현, 헐리웃 영화 女주인공 포기…"한국 팬들에 다가가고파, 후회 NO"]]></title>
-        <id>https://v.daum.net/v/20240613121301385</id>
-        <link href="https://v.daum.net/v/20240613121301385"/>
-        <updated>2024-06-13T04:13:33.677Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로는 아닙니다만' 장기용 "母가 우울증 연기 걱정..박소이, 정말 딸로 보여"]]></title>
-        <id>https://v.daum.net/v/20240613121249379</id>
-        <link href="https://v.daum.net/v/20240613121249379"/>
-        <updated>2024-06-13T04:13:33.679Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로는 아닙니다만' 장기용 "천우희와 호흡 영광, 최선 다해줘 감사"]]></title>
-        <id>https://v.daum.net/v/20240613121247377</id>
-        <link href="https://v.daum.net/v/20240613121247377"/>
-        <updated>2024-06-13T04:13:33.680Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히어로는 아닙니다만' 장기용 "3년만 복귀에 내 얼굴 어색..제대 후 마음 여유 생겨"]]></title>
-        <id>https://v.daum.net/v/20240613121245374</id>
-        <link href="https://v.daum.net/v/20240613121245374"/>
-        <updated>2024-06-13T04:13:33.684Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
