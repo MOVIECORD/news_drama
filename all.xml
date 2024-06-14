@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-14T11:09:56.535Z</updated>
+    <updated>2024-06-14T12:20:22.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['피도 눈물도' 이소연, 서하준과 결혼+임신 '꽉 찬 해피엔딩'...감옥 간 하연주 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240614205646018</id>
+        <link href="https://v.daum.net/v/20240614205646018"/>
+        <updated>2024-06-14T12:20:13.485Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['용수정' 흑화한 엄현경, 지수원에 복수 선언 "임주은 망칠 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240614200500480</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240614162336114"/>
         <updated>2024-06-14T08:13:41.148Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피도 눈물도 없이’ 오창석 “백성윤 캐릭터, 애착 강하게 남아” 종영소감 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240614160316546</id>
-        <link href="https://v.daum.net/v/20240614160316546"/>
-        <updated>2024-06-14T07:11:42.970Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
