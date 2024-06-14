@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-14T15:11:59.615Z</updated>
+    <updated>2024-06-14T16:13:55.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['커넥션' 박근록, 지성에 "아무도 그때 그걸 못 봤더라"…윤나무 사망 진실 밝힐까? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240615010000033</id>
+        <link href="https://v.daum.net/v/20240615010000033"/>
+        <updated>2024-06-14T16:12:53.629Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['커넥션' 정재경, "지성, 약에 중독된 사실 알고 있었다"…비밀 지킨 이유는? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240615002100668</id>
+        <link href="https://v.daum.net/v/20240615002100668"/>
+        <updated>2024-06-14T16:12:53.631Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘커넥션’ 백지원과 뒷거래한 정재광, 지성 편 맞을까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240614234800314</id>
@@ -19,7 +33,7 @@
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘우리, 집’ 김희선, 연우 손아귀에서 가족’ 돌려받기 위한 ‘대반격’ {종합} (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <title type="html"><![CDATA[‘우리, 집’ 김희선, 연우 손아귀에서 가족 돌려받기 위한 ‘대반격’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240614233650212</id>
         <link href="https://v.daum.net/v/20240614233650212"/>
         <updated>2024-06-14T15:11:50.144Z</updated>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20240614222446407"/>
         <updated>2024-06-14T14:11:32.572Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥션’ 정재광, 지성 마약 중독된 사실 알고 있었다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240614222403403</id>
-        <link href="https://v.daum.net/v/20240614222403403"/>
-        <updated>2024-06-14T14:11:32.575Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우리, 집’ 김남희 돌아왔지만,,,김희선 냉대 “내 집에 들어오지 마!” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240614222149375</id>
-        <link href="https://v.daum.net/v/20240614222149375"/>
-        <updated>2024-06-14T14:11:32.579Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
