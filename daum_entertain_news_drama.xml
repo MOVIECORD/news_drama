@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-14T09:11:46.424Z</updated>
+    <updated>2024-06-14T10:11:38.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘커넥션’ 지성과 정재광, ‘위험한 독대’로 “의심도·분노도·혼란도 최고조”]]></title>
+        <id>https://v.daum.net/v/20240614184807863</id>
+        <link href="https://v.daum.net/v/20240614184807863"/>
+        <updated>2024-06-14T10:11:30.508Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀연애' 정려원♥위하준, 대치동 학원 떠나 겨울 바다 데이트]]></title>
         <id>https://v.daum.net/v/20240614175845795</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240614155108199"/>
         <updated>2024-06-14T07:11:42.973Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뛰뛰빵빵' 이은지→안유진, 제작진에 거래 제안…나영석 "돈 벌었다"]]></title>
-        <id>https://v.daum.net/v/20240614154415926</id>
-        <link href="https://v.daum.net/v/20240614154415926"/>
-        <updated>2024-06-14T07:11:42.973Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
