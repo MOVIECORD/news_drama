@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-16T03:12:37.999Z</updated>
+    <updated>2024-06-16T04:14:17.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선재'만? '히어로'·'졸업'까지, 불멸의 직진 로맨스]]></title>
+        <id>https://v.daum.net/v/20240616125249831</id>
+        <link href="https://v.daum.net/v/20240616125249831"/>
+        <updated>2024-06-16T04:13:15.419Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘커넥션’ 지성이 밝혀야 할 20년 이어온 커넥션 ‘첩첩산중’]]></title>
+        <id>https://v.daum.net/v/20240616124459706</id>
+        <link href="https://v.daum.net/v/20240616124459706"/>
+        <updated>2024-06-16T04:13:15.419Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람이 죽어나가는 '놀이공원'... '빌런 대표' 욕심 때문이었다]]></title>
+        <id>https://v.daum.net/v/20240616121500450</id>
+        <link href="https://v.daum.net/v/20240616121500450"/>
+        <updated>2024-06-16T04:13:15.422Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘졸업’ 김정영, 서정연과 손잡고 정려원 겨냥 “밟기만 하면 되냐”]]></title>
         <id>https://v.daum.net/v/20240616115314022</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240616100400347"/>
         <updated>2024-06-16T02:02:34.649Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령이 선택한 남자, 송승헌의 매력 분석]]></title>
-        <id>https://v.daum.net/v/20240616094249013</id>
-        <link href="https://v.daum.net/v/20240616094249013"/>
-        <updated>2024-06-16T00:53:32.732Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘찐팬구역’ 차태현, 김경문 감독에 “당근보다 채찍” 주문]]></title>
-        <id>https://v.daum.net/v/20240616094103992</id>
-        <link href="https://v.daum.net/v/20240616094103992"/>
-        <updated>2024-06-16T00:53:32.733Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은지, 세월 정통으로 맞아 이정은 됐다…'첫방' 4% 출발]]></title>
-        <id>https://v.daum.net/v/20240616093715932</id>
-        <link href="https://v.daum.net/v/20240616093715932"/>
-        <updated>2024-06-16T00:53:32.737Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
