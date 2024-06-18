@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-18T06:15:12.319Z</updated>
+    <updated>2024-06-18T07:12:06.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크래시' 이민기→곽선영 "시청률 10% 넘으면 시청자와 드라이브"]]></title>
+        <id>https://v.daum.net/v/20240618154823397</id>
+        <link href="https://v.daum.net/v/20240618154823397"/>
+        <updated>2024-06-18T07:11:04.545Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['감사합니다' 신하균→정문성, 5인 포스터 공개…7월 6일 첫방]]></title>
+        <id>https://v.daum.net/v/20240618152001869</id>
+        <link href="https://v.daum.net/v/20240618152001869"/>
+        <updated>2024-06-18T07:11:04.545Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허성태, 캐릭터 변신 완벽 성공..악역↔︎선역 종횡무진 활약]]></title>
         <id>https://v.daum.net/v/20240618150455039</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240618135701948"/>
         <updated>2024-06-18T05:11:50.758Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크래시' 오늘 종영…허성태 "권선징악, 지켜지는 세상이길"]]></title>
-        <id>https://v.daum.net/v/20240618135601908</id>
-        <link href="https://v.daum.net/v/20240618135601908"/>
-        <updated>2024-06-18T05:11:50.758Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감사팀' 신하균 VS '오너 형제' 진구·정문성, '경직된 기류' 사장실 포착]]></title>
-        <id>https://v.daum.net/v/20240618132545119</id>
-        <link href="https://v.daum.net/v/20240618132545119"/>
-        <updated>2024-06-18T05:11:50.759Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
