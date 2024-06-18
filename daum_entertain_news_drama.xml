@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-18T03:13:23.396Z</updated>
+    <updated>2024-06-18T04:13:19.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜리, 활동 복귀→카리나 첫 예능…정종연 새 예능 '미스터리 수사단']]></title>
+        <id>https://v.daum.net/v/20240618121845717</id>
+        <link href="https://v.daum.net/v/20240618121845717"/>
+        <updated>2024-06-18T04:13:11.093Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스터리 수사단' 혜리, '재밌네' 저격 논란에 "딱히 코멘트 없어"]]></title>
         <id>https://v.daum.net/v/20240618121020531</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240618102445806"/>
         <updated>2024-06-18T01:58:00.370Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진기주, 서강준과 로맨스 호흡…'언더커버 하이스쿨' 출연]]></title>
-        <id>https://v.daum.net/v/20240618101913567</id>
-        <link href="https://v.daum.net/v/20240618101913567"/>
-        <updated>2024-06-18T01:58:00.372Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
