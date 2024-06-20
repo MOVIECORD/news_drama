@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-20T03:12:11.720Z</updated>
+    <updated>2024-06-20T04:12:51.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[연상호 감독 '계시록', 넷플릭스 제작 확정…류준열·신현빈 출연]]></title>
+        <title type="html"><![CDATA['탈주' 이제훈 "전신탈의 육체표현 준비했는데…눈 깜빡할 새 지나가"]]></title>
+        <id>https://v.daum.net/v/20240620130046293</id>
+        <link href="https://v.daum.net/v/20240620130046293"/>
+        <updated>2024-06-20T04:12:44.122Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류준열·신현빈, 연상호 감독 '계시록' 주연 확정… 넷플릭스 제작 나서]]></title>
         <id>https://v.daum.net/v/20240620113654248</id>
         <link href="https://v.daum.net/v/20240620113654248"/>
         <updated>2024-06-20T03:12:03.839Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240620094524688"/>
         <updated>2024-06-20T00:47:34.684Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 구성환, 예능 대세의 달라진 삶?…꽃분이 근황]]></title>
-        <id>https://v.daum.net/v/20240620094519682</id>
-        <link href="https://v.daum.net/v/20240620094519682"/>
-        <updated>2024-06-20T00:47:34.686Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
