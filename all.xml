@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T21:12:53.002Z</updated>
+    <updated>2024-06-20T22:10:29.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['故최진실 子' 지플랫, 파격 비주얼 컴백…엄정화도 지원사격 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240621063002555</id>
+        <link href="https://v.daum.net/v/20240621063002555"/>
+        <updated>2024-06-20T22:10:21.189Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한선화, 계약 종료로 쫓겨났다…엄태구 집 입성 "라면 드실래요?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240620224904484</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240620173507038"/>
         <updated>2024-06-20T09:13:10.329Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘삼식이 삼촌’ 송강호 피투성이 충격 엔딩‥“묵직하게 기억되길” 소감 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240620172715754</id>
-        <link href="https://v.daum.net/v/20240620172715754"/>
-        <updated>2024-06-20T09:13:10.331Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
