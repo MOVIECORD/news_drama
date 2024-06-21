@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T09:11:35.986Z</updated>
+    <updated>2024-06-21T10:12:29.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['히어로'는 끝났지만, 장기용은 이제 시작입니다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240621190139548</id>
+        <link href="https://v.daum.net/v/20240621190139548"/>
+        <updated>2024-06-21T10:11:27.840Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곽선영 "'크래시', 매 순간 행복했던 작품…'텐트밖'도 기대" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240621185002342</id>
+        <link href="https://v.daum.net/v/20240621185002342"/>
+        <updated>2024-06-21T10:11:27.845Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정려원♥위하준 해피엔딩일까, 결말 앞두고 위기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240621173428964</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20240621162301888"/>
         <updated>2024-06-21T08:14:19.075Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뛰뛰빵빵' 이은지→안유진, 샴페인 가불 갚는다…무아지경 댄스 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240621162211863</id>
-        <link href="https://v.daum.net/v/20240621162211863"/>
-        <updated>2024-06-21T08:14:19.076Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['타이코메트리’ 김윤수로, 남자다운 분위기…'웹드 남신' 등극 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240621161409661</id>
-        <link href="https://v.daum.net/v/20240621161409661"/>
-        <updated>2024-06-21T08:14:19.077Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
