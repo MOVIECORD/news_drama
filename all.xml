@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T18:15:05.081Z</updated>
+    <updated>2024-06-21T19:08:55.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['커넥션' 지성, 방앗간 살인사건 용의자 이강욱 놓쳤다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240622034200440</id>
+        <link href="https://v.daum.net/v/20240622034200440"/>
+        <updated>2024-06-21T19:08:47.776Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우리, 집’ 재찬, ‘아웃팅’에 김희선 눈 앞에서 투신! 그러나... (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240621234842582</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240621221802514"/>
         <updated>2024-06-21T14:10:05.987Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소현·채종협·윤지온·김다솜 ‘우연일까?’ 출연확정, 7월 첫방 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240621215327070</id>
-        <link href="https://v.daum.net/v/20240621215327070"/>
-        <updated>2024-06-21T13:13:07.661Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
