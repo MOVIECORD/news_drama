@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-21T08:14:26.625Z</updated>
+    <updated>2024-06-21T09:11:35.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정려원♥위하준 해피엔딩일까, 결말 앞두고 위기]]></title>
+        <id>https://v.daum.net/v/20240621173428964</id>
+        <link href="https://v.daum.net/v/20240621173428964"/>
+        <updated>2024-06-21T09:11:27.332Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최강야구' 김성근 감독, 징크스 깼다…정근우 '비상사태' 선포]]></title>
+        <id>https://v.daum.net/v/20240621172207656</id>
+        <link href="https://v.daum.net/v/20240621172207656"/>
+        <updated>2024-06-21T09:11:27.332Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽선영 "운전에 경각심 일깨운 '크래시'…도로가 평화로워지길"]]></title>
         <id>https://v.daum.net/v/20240621170954341</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240621161409661"/>
         <updated>2024-06-21T08:14:19.077Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['초짜' 남지현, '베테랑' 장나라에 낚였네…탈출 가능할까]]></title>
-        <id>https://v.daum.net/v/20240621161157599</id>
-        <link href="https://v.daum.net/v/20240621161157599"/>
-        <updated>2024-06-21T08:14:19.079Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['논문 표절 논란' 설민석, 4년 만 MBC 복귀]]></title>
-        <id>https://v.daum.net/v/20240621160920524</id>
-        <link href="https://v.daum.net/v/20240621160920524"/>
-        <updated>2024-06-21T07:11:41.949Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
