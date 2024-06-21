@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-21T22:10:56.864Z</updated>
+    <updated>2024-06-21T23:10:18.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희선, 피범벅 시母 이혜영 목격 충격..또 연우의 광기?]]></title>
+        <id>https://v.daum.net/v/20240622071522793</id>
+        <link href="https://v.daum.net/v/20240622071522793"/>
+        <updated>2024-06-21T23:10:10.636Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리, 집' 김희선, 피 범벅된 이혜영 목격..충격 눈물 VS 통곡]]></title>
+        <id>https://v.daum.net/v/20240622071518792</id>
+        <link href="https://v.daum.net/v/20240622071518792"/>
+        <updated>2024-06-21T23:10:10.637Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커넥션' 권율, 윤나무 사망하던 날에도 정유민과 불륜…"다 말할 것" 이강욱 협박]]></title>
         <id>https://v.daum.net/v/20240622065423486</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240621224344740"/>
         <updated>2024-06-21T14:10:05.975Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 차엽 "지성이 날 찾아왔다"...권율·김경남 '불안']]></title>
-        <id>https://v.daum.net/v/20240621224215700</id>
-        <link href="https://v.daum.net/v/20240621224215700"/>
-        <updated>2024-06-21T14:10:05.985Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마약중독’ 지성, 레몬뽕 끊기 위한 특단의 조취...벗어날 수 있을까]]></title>
-        <id>https://v.daum.net/v/20240621223602656</id>
-        <link href="https://v.daum.net/v/20240621223602656"/>
-        <updated>2024-06-21T14:10:05.985Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
