@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-21T21:12:54.855Z</updated>
+    <updated>2024-06-21T22:10:56.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['커넥션' 권율, 윤나무 사망하던 날에도 정유민과 불륜…"다 말할 것" 이강욱 협박]]></title>
+        <id>https://v.daum.net/v/20240622065423486</id>
+        <link href="https://v.daum.net/v/20240622065423486"/>
+        <updated>2024-06-21T22:10:48.648Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["구역질 나" 전미도, 남편 친구와 불륜→사망 보험금 노리는 정유민에 '독설']]></title>
+        <id>https://v.daum.net/v/20240622064106405</id>
+        <link href="https://v.daum.net/v/20240622064106405"/>
+        <updated>2024-06-21T22:10:48.650Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지성, 분노의 전력질주..'범인' 잡힐까]]></title>
         <id>https://v.daum.net/v/20240622060003955</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240621223602656"/>
         <updated>2024-06-21T14:10:05.985Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의문의 약 삼킨 지성, 마약 중독 벗어날 수 있을까?]]></title>
-        <id>https://v.daum.net/v/20240621223053617</id>
-        <link href="https://v.daum.net/v/20240621223053617"/>
-        <updated>2024-06-21T14:10:05.985Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 지성, 이강욱 잡을 기회 놓쳤다]]></title>
-        <id>https://v.daum.net/v/20240621222535581</id>
-        <link href="https://v.daum.net/v/20240621222535581"/>
-        <updated>2024-06-21T14:10:05.985Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
