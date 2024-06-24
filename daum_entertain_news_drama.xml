@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-24T12:20:25.863Z</updated>
+    <updated>2024-06-24T13:13:54.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼식이 삼촌' 송강호, 이제 드라마서 자주 보나? "또 하고 싶어요"]]></title>
+        <id>https://v.daum.net/v/20240624220129619</id>
+        <link href="https://v.daum.net/v/20240624220129619"/>
+        <updated>2024-06-24T13:12:52.550Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["모두 다 죽어"…'플레이어2' 송승헌, 야쿠자 조직에 납치돼 목숨 위기]]></title>
+        <id>https://v.daum.net/v/20240624214802453</id>
+        <link href="https://v.daum.net/v/20240624214802453"/>
+        <updated>2024-06-24T13:12:52.550Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 오연서, 이수혁 꼬리 잡았다…은밀한 거래 제안]]></title>
         <id>https://v.daum.net/v/20240624211513125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240624172509779"/>
         <updated>2024-06-24T09:13:25.512Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['놀아주는 여자' 한선화, 키즈 크리에이터 고은하로 행복 전파]]></title>
-        <id>https://v.daum.net/v/20240624172111636</id>
-        <link href="https://v.daum.net/v/20240624172111636"/>
-        <updated>2024-06-24T09:13:25.513Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리, 집' 경찰관 정헌, 본격 맹활약 나선 구경태]]></title>
-        <id>https://v.daum.net/v/20240624171926577</id>
-        <link href="https://v.daum.net/v/20240624171926577"/>
-        <updated>2024-06-24T09:13:25.515Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
