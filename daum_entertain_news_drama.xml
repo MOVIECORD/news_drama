@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-24T15:12:33.878Z</updated>
+    <updated>2024-06-24T16:13:19.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호 "신연식 감독과 세 작품이나 함께 한 이유? 인연의 소중함"]]></title>
+        <id>https://v.daum.net/v/20240625005954210</id>
+        <link href="https://v.daum.net/v/20240625005954210"/>
+        <updated>2024-06-24T16:13:12.001Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼식이 삼촌' 송강호 "'대부' 빗댄 박찬욱 극찬? 부끄러움과 아쉬움 있어"]]></title>
+        <id>https://v.daum.net/v/20240625005615196</id>
+        <link href="https://v.daum.net/v/20240625005615196"/>
+        <updated>2024-06-24T16:13:12.001Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼식이 삼촌' 송강호 "강성민과 애증 관계… 김산에게는 열정적 사랑 품어"]]></title>
+        <id>https://v.daum.net/v/20240625005245157</id>
+        <link href="https://v.daum.net/v/20240625005245157"/>
+        <updated>2024-06-24T16:13:12.002Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 송승헌, 납치 자작극으로 이수혁 체포→검찰 후송 도중 사망]]></title>
         <id>https://v.daum.net/v/20240624221854851</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240624180101009"/>
         <updated>2024-06-24T09:13:25.507Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명수 품에 안긴 이유영, 숨겨둔 과거 아픔 수면 위로]]></title>
-        <id>https://v.daum.net/v/20240624175005632</id>
-        <link href="https://v.daum.net/v/20240624175005632"/>
-        <updated>2024-06-24T09:13:25.511Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강호 "영화만 고집할 필요 NO…글로벌 흥행 아쉬운 '삼식이 삼촌'이지만"]]></title>
-        <id>https://v.daum.net/v/20240624175002628</id>
-        <link href="https://v.daum.net/v/20240624175002628"/>
-        <updated>2024-06-24T09:13:25.511Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스‘캔들' 터질 게 터졌다..최웅, '약혼녀' 한보름 두고 은밀한 만남]]></title>
-        <id>https://v.daum.net/v/20240624174819576</id>
-        <link href="https://v.daum.net/v/20240624174819576"/>
-        <updated>2024-06-24T09:13:25.511Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
