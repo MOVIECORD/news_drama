@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-24T21:10:44.450Z</updated>
+    <updated>2024-06-24T22:11:48.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정은·표예진·한선화, ‘코미디 퀸’을 향해]]></title>
+        <id>https://v.daum.net/v/20240625070009917</id>
+        <link href="https://v.daum.net/v/20240625070009917"/>
+        <updated>2024-06-24T22:11:40.732Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플레이어2' 송승헌, 오연서에 경고 "대통령도 믿지 마"…사이비 교주 허성태 '강렬 등장']]></title>
+        <id>https://v.daum.net/v/20240625065503825</id>
+        <link href="https://v.daum.net/v/20240625065503825"/>
+        <updated>2024-06-24T22:11:40.733Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정상훈 “정자왕 캐릭터, 날 생각하고 썼나 싶어”]]></title>
         <id>https://v.daum.net/v/20240625020009436</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240624194500926"/>
         <updated>2024-06-24T11:11:40.829Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘졸업’ 소문의 주인공 정려원-위하준, 악의적 선동 이겨낼까?]]></title>
-        <id>https://v.daum.net/v/20240624184817170</id>
-        <link href="https://v.daum.net/v/20240624184817170"/>
-        <updated>2024-06-24T10:13:07.112Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화인가 스캔들' 김하늘→정지훈, 치명적 눈빛…캐릭터 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20240624180323103</id>
-        <link href="https://v.daum.net/v/20240624180323103"/>
-        <updated>2024-06-24T09:13:25.504Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
