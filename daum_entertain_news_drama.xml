@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-24T13:13:54.744Z</updated>
+    <updated>2024-06-24T14:11:25.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['플레이어2' 송승헌, 납치 자작극으로 이수혁 체포→검찰 후송 도중 사망]]></title>
+        <id>https://v.daum.net/v/20240624221854851</id>
+        <link href="https://v.daum.net/v/20240624221854851"/>
+        <updated>2024-06-24T14:11:17.457Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼식이 삼촌' 송강호, 이제 드라마서 자주 보나? "또 하고 싶어요"]]></title>
         <id>https://v.daum.net/v/20240624220129619</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240624174819576"/>
         <updated>2024-06-24T09:13:25.511Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영에 이런 모습이?…'스캔들' 첫주부터 제대로 흑화]]></title>
-        <id>https://v.daum.net/v/20240624172509779</id>
-        <link href="https://v.daum.net/v/20240624172509779"/>
-        <updated>2024-06-24T09:13:25.512Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
