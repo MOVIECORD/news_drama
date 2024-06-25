@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-25T13:14:27.507Z</updated>
+    <updated>2024-06-25T14:11:02.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권혁수 "이경영 선배님, 내가 성대모사 제일 잘한다고 인정"]]></title>
+        <id>https://v.daum.net/v/20240625230445903</id>
+        <link href="https://v.daum.net/v/20240625230445903"/>
+        <updated>2024-06-25T14:10:55.488Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 오연서, 여성 신도 겁탈하는 사이비 교주 허성태 막으려다 '위기']]></title>
         <id>https://v.daum.net/v/20240625215622056</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240625194817548"/>
         <updated>2024-06-25T11:10:10.276Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜빈, 쌍둥이 임신했다…"아들만 셋인데" ♥남편에게 정관수술 제안]]></title>
-        <id>https://v.daum.net/v/20240625190107532</id>
-        <link href="https://v.daum.net/v/20240625190107532"/>
-        <updated>2024-06-25T10:12:36.443Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
