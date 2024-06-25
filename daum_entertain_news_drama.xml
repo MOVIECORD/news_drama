@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-25T20:12:29.824Z</updated>
+    <updated>2024-06-25T21:10:56.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['놀아주는 여자' 엄태구vs권율, 한선화 두고 신경전…삼각 로맨스 어쩌나]]></title>
+        <id>https://v.daum.net/v/20240626060011201</id>
+        <link href="https://v.daum.net/v/20240626060011201"/>
+        <updated>2024-06-25T21:10:49.088Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권혁수 "이경영 선배님, 내가 성대모사 제일 잘한다고 인정"]]></title>
         <id>https://v.daum.net/v/20240625230445903</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240625195200635"/>
         <updated>2024-06-25T11:10:10.276Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성하, 善이야? 惡이야?]]></title>
-        <id>https://v.daum.net/v/20240625194817548</id>
-        <link href="https://v.daum.net/v/20240625194817548"/>
-        <updated>2024-06-25T11:10:10.276Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
