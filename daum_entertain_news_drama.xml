@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-26T22:11:13.038Z</updated>
+    <updated>2024-06-26T23:11:23.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한보름, 결국 유산했다…결혼식 전날 사고 당해, 범인은 새엄마]]></title>
+        <id>https://v.daum.net/v/20240627080502305</id>
+        <link href="https://v.daum.net/v/20240627080502305"/>
+        <updated>2024-06-26T23:11:15.687Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한채영, 이병준·김규선에 최웅 숨긴 사실 들켰다..한보름은 유산]]></title>
+        <id>https://v.daum.net/v/20240627080359287</id>
+        <link href="https://v.daum.net/v/20240627080359287"/>
+        <updated>2024-06-26T23:11:15.689Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돌싱글즈5' 이혜영, 진행도 패션도 '센스만점']]></title>
         <id>https://v.daum.net/v/20240627070009220</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240626195000462"/>
         <updated>2024-06-26T11:10:12.076Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교통사고 최웅, 의식 회복…한채영에 싸늘한 시선]]></title>
-        <id>https://v.daum.net/v/20240626193510200</id>
-        <link href="https://v.daum.net/v/20240626193510200"/>
-        <updated>2024-06-26T11:10:12.076Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['50대 후반' 김희애, 벨트를 너무 조였나…꽉 낀 핏에 드러난 한줌 허리]]></title>
-        <id>https://v.daum.net/v/20240626190102401</id>
-        <link href="https://v.daum.net/v/20240626190102401"/>
-        <updated>2024-06-26T10:11:33.089Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
