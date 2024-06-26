@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-26T20:13:38.836Z</updated>
+    <updated>2024-06-26T21:12:40.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니랜드 꿈꾸는 넷플릭스… 테마파크 도전장]]></title>
+        <id>https://v.daum.net/v/20240627060043173</id>
+        <link href="https://v.daum.net/v/20240627060043173"/>
+        <updated>2024-06-26T21:11:34.432Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌아온 예능신 3대장… 흥행신화 다시 쓸까]]></title>
+        <id>https://v.daum.net/v/20240627060025130</id>
+        <link href="https://v.daum.net/v/20240627060025130"/>
+        <updated>2024-06-26T21:11:34.432Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희정, 결국 강별에 결혼 승낙 "두고두고 내 옆에서 증명해라"]]></title>
         <id>https://v.daum.net/v/20240626210802019</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240626184132932"/>
         <updated>2024-06-26T10:11:33.093Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니 영 "연기로도 '역시 소녀시대' 들을 거예요!"]]></title>
-        <id>https://v.daum.net/v/20240626182432537</id>
-        <link href="https://v.daum.net/v/20240626182432537"/>
-        <updated>2024-06-26T10:11:33.094Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장규리, 팩트 폭격기→긴장감 기폭제..없으면 안되는 육각형 존재감]]></title>
-        <id>https://v.daum.net/v/20240626181525277</id>
-        <link href="https://v.daum.net/v/20240626181525277"/>
-        <updated>2024-06-26T10:11:33.097Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
