@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-27T20:11:23.691Z</updated>
+    <updated>2024-06-27T21:11:29.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘돌풍’ 7년만 돌아온 박경수, 정치 도파민 충족시킬까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240628060405776</id>
+        <link href="https://v.daum.net/v/20240628060405776"/>
+        <updated>2024-06-27T21:10:26.855Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한보름, 아이 잃고 결혼 앞둔 최웅 실종...한채영이 쏜 시련에 '오열' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240627212101872</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240627185400749"/>
         <updated>2024-06-27T10:11:28.246Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮과 밤이 다른 그녀', 해외 반응 시작됐다…넷플릭스 글로벌 톱10 진입 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240627185342743</id>
-        <link href="https://v.daum.net/v/20240627185342743"/>
-        <updated>2024-06-27T10:11:28.248Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
