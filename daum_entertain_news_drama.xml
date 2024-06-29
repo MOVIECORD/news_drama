@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-29T09:13:14.868Z</updated>
+    <updated>2024-06-29T10:10:49.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나대신꿈' 표예진의 재발견 "마음껏 자유로울 수 있어..소중한 작품"]]></title>
+        <id>https://v.daum.net/v/20240629184113520</id>
+        <link href="https://v.daum.net/v/20240629184113520"/>
+        <updated>2024-06-29T10:10:41.439Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지성·전미도, “레몬뽕의 진실 밝혀지나? 결연한 투샷으로 파국의 문 연다”]]></title>
+        <id>https://v.daum.net/v/20240629183301399</id>
+        <link href="https://v.daum.net/v/20240629183301399"/>
+        <updated>2024-06-29T10:10:41.440Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정은지·최진혁, 도랑에 빠졌다...나란히 앉은 차 안에서 잊지 못할 ‘색다른 밤’ 경험]]></title>
         <id>https://v.daum.net/v/20240629181201157</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240629153602689"/>
         <updated>2024-06-29T07:11:07.212Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 임수향, 드라마 하차 위기…'위태로운 배우의 꿈']]></title>
-        <id>https://v.daum.net/v/20240629152639538</id>
-        <link href="https://v.daum.net/v/20240629152639538"/>
-        <updated>2024-06-29T07:11:07.212Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리, 집' 김희선→재찬, 최종회 D-DAY 소감 "성장했던 시간"]]></title>
-        <id>https://v.daum.net/v/20240629152340512</id>
-        <link href="https://v.daum.net/v/20240629152340512"/>
-        <updated>2024-06-29T07:11:07.212Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
