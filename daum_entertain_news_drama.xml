@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-30T03:12:49.542Z</updated>
+    <updated>2024-06-30T04:12:47.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘졸업’ 위하준, 정려원 구하기 위해 교실 밖 나섰다 “주세요, 빛나는 졸업장”]]></title>
+        <id>https://v.daum.net/v/20240630130700806</id>
+        <link href="https://v.daum.net/v/20240630130700806"/>
+        <updated>2024-06-30T04:12:40.096Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['부모 빚 논란' 마이크로닷 복귀→지연·황재균, 때아닌 이혼설]]></title>
         <id>https://v.daum.net/v/20240630121020220</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240630092232879"/>
         <updated>2024-06-30T00:53:58.370Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 지성 마약 중독 진범은 박근록 "윤나무와 우정 때문"]]></title>
-        <id>https://v.daum.net/v/20240630091831831</id>
-        <link href="https://v.daum.net/v/20240630091831831"/>
-        <updated>2024-06-30T00:53:58.370Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
