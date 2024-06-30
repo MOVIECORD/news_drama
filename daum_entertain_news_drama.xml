@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-30T10:10:39.267Z</updated>
+    <updated>2024-06-30T11:08:34.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이 죽일 X"…'미녀와 순정남' 윤유선, 지현우 친모 이일화 정체 알고 분노]]></title>
+        <id>https://v.daum.net/v/20240630200631736</id>
+        <link href="https://v.daum.net/v/20240630200631736"/>
+        <updated>2024-06-30T11:08:27.290Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정은, MZ 세대와 제대로 한판 붙다...신조어 해결사 등극]]></title>
+        <id>https://v.daum.net/v/20240630195711619</id>
+        <link href="https://v.daum.net/v/20240630195711619"/>
+        <updated>2024-06-30T11:08:27.290Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘졸업’ 정려원X위하준, 최후의 반격...‘최종회’ 앞두고 ‘비장한 표정’ 흥미진진]]></title>
         <id>https://v.daum.net/v/20240630190901126</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240630145458900"/>
         <updated>2024-06-30T06:14:03.262Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이일화, 지현우 키워준 윤유선에 무릎 꿇고 '오열'..거센 후폭풍]]></title>
-        <id>https://v.daum.net/v/20240630144621722</id>
-        <link href="https://v.daum.net/v/20240630144621722"/>
-        <updated>2024-06-30T06:14:03.264Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 지성, 초점 잃은 눈동자와 거친 숨소리]]></title>
-        <id>https://v.daum.net/v/20240630144503698</id>
-        <link href="https://v.daum.net/v/20240630144503698"/>
-        <updated>2024-06-30T06:14:03.265Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
