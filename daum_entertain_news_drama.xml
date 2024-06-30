@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-06-30T09:13:39.399Z</updated>
+    <updated>2024-06-30T10:10:39.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘졸업’ 정려원X위하준, 최후의 반격...‘최종회’ 앞두고 ‘비장한 표정’ 흥미진진]]></title>
+        <id>https://v.daum.net/v/20240630190901126</id>
+        <link href="https://v.daum.net/v/20240630190901126"/>
+        <updated>2024-06-30T10:10:31.875Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤유선, 절친 이일화 배신에 절규…‘미녀와 순정남’ 긴장감 ↑]]></title>
         <id>https://v.daum.net/v/20240630171316265</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240630144503698"/>
         <updated>2024-06-30T06:14:03.265Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우리, 집’ 연우 “연기가 재미있다고 느끼게 해 준 작품” 종영 소감]]></title>
-        <id>https://v.daum.net/v/20240630144200644</id>
-        <link href="https://v.daum.net/v/20240630144200644"/>
-        <updated>2024-06-30T06:14:03.267Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
