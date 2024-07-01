@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T09:14:30.783Z</updated>
+    <updated>2024-07-01T10:13:50.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김희선 "'우리 집'=배움의 시간…장르물·로코도 OK" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240701185917318</id>
+        <link href="https://v.daum.net/v/20240701185917318"/>
+        <updated>2024-07-01T10:13:42.567Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박경수 작가는 왜 대통령 시해 시도라는 극단적인 설정을 넣었을까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240701174810526</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240701151907883"/>
         <updated>2024-07-01T07:11:40.661Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경고한 한채영, 코웃음 친 김규선..모녀지간 팽팽 대립 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240701151745821</id>
-        <link href="https://v.daum.net/v/20240701151745821"/>
-        <updated>2024-07-01T07:11:40.662Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
