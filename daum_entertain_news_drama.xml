@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-02T20:12:19.414Z</updated>
+    <updated>2024-07-02T21:10:56.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나대신꿈' 표예진 "망가지는 연기, 전혀 두렵지 않았어요"]]></title>
+        <id>https://v.daum.net/v/20240703060142695</id>
+        <link href="https://v.daum.net/v/20240703060142695"/>
+        <updated>2024-07-02T21:10:49.137Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조은숙, 영화 '4월의 불꽃' 출연…2년 반만에 스크린 복귀]]></title>
         <id>https://v.daum.net/v/20240703043004599</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240702205146059"/>
         <updated>2024-07-02T12:20:05.336Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한보름, 父 살해한 원수 한채영에 복수 선언 "절대 용서 안 해"]]></title>
-        <id>https://v.daum.net/v/20240702203130730</id>
-        <link href="https://v.daum.net/v/20240702203130730"/>
-        <updated>2024-07-02T12:20:05.337Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
