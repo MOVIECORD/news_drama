@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-02T03:13:36.354Z</updated>
+    <updated>2024-07-02T04:14:28.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌풍' 김용완 감독 "대통령 시해 소재, 우려 있었지만…" ②]]></title>
+        <id>https://v.daum.net/v/20240702123000616</id>
+        <link href="https://v.daum.net/v/20240702123000616"/>
+        <updated>2024-07-02T04:14:22.328Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["김희애 사랑하는 게 느껴져"…'돌풍' 김용완 감독, 42년차 배우에게 받은 충격]]></title>
+        <id>https://v.daum.net/v/20240702122902605</id>
+        <link href="https://v.daum.net/v/20240702122902605"/>
+        <updated>2024-07-02T04:14:22.329Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돌풍' 김용완 감독 "김희애·설경구 캐스팅? 내겐 로또 당첨" ①]]></title>
+        <id>https://v.daum.net/v/20240702122650560</id>
+        <link href="https://v.daum.net/v/20240702122650560"/>
+        <updated>2024-07-02T04:14:22.329Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“맵고 짜고 달아”…매혹의 ‘화인가 스캔들’, 올해 디즈니+ 화제작 될까]]></title>
+        <id>https://v.daum.net/v/20240702122101453</id>
+        <link href="https://v.daum.net/v/20240702122101453"/>
+        <updated>2024-07-02T04:14:22.329Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김하늘·정지훈 '화인가 스캔들', 위기에 빠진 디즈니+ 구하나]]></title>
+        <id>https://v.daum.net/v/20240702122020445</id>
+        <link href="https://v.daum.net/v/20240702122020445"/>
+        <updated>2024-07-02T04:14:22.333Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘화인가스캔들’ 경호원 된 정지훈, 김하늘도 설레게 한 결 다른 액션]]></title>
         <id>https://v.daum.net/v/20240702121141220</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240702115258375"/>
         <updated>2024-07-02T03:12:34.352Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상훈 “‘나는 돈가스가 싫어요’ 나보고 쓴 줄..정관수술·아들 셋 같아”]]></title>
-        <id>https://v.daum.net/v/20240702115020219</id>
-        <link href="https://v.daum.net/v/20240702115020219"/>
-        <updated>2024-07-02T03:12:34.356Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["드라마계 마라탕후루"..정상훈·전혜빈 '돈가스', 新 농촌 시트콤 열까]]></title>
-        <id>https://v.daum.net/v/20240702115003191</id>
-        <link href="https://v.daum.net/v/20240702115003191"/>
-        <updated>2024-07-02T03:12:34.357Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘 “정지훈과 호흡? 힘이 좋아서 편했다”]]></title>
-        <id>https://v.daum.net/v/20240702114805045</id>
-        <link href="https://v.daum.net/v/20240702114805045"/>
-        <updated>2024-07-02T03:12:34.359Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘돈가스가 싫어요’ PD “드라마 시장 상업적으로 흐르지만 단막극 의미 있어”]]></title>
-        <id>https://v.daum.net/v/20240702114756026</id>
-        <link href="https://v.daum.net/v/20240702114756026"/>
-        <updated>2024-07-02T03:12:34.360Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상훈 “날 모티브로 드라마 쓴 줄…실제 정관수술”]]></title>
-        <id>https://v.daum.net/v/20240702114738012</id>
-        <link href="https://v.daum.net/v/20240702114738012"/>
-        <updated>2024-07-02T03:12:34.362Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
