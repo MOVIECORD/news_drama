@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-03T21:11:48.257Z</updated>
+    <updated>2024-07-03T22:13:03.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희애 "남편 이해영, 너무 자랑스러워…넋을 잃고 봤다"]]></title>
+        <id>https://v.daum.net/v/20240704070101079</id>
+        <link href="https://v.daum.net/v/20240704070101079"/>
+        <updated>2024-07-03T22:11:55.910Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄태구, 한선화가 찾던 '현우 오빠'였다…타임캡슐 '발견']]></title>
+        <id>https://v.daum.net/v/20240704064106790</id>
+        <link href="https://v.daum.net/v/20240704064106790"/>
+        <updated>2024-07-03T22:11:55.910Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3%→7% 수직 상승..'낮밤녀'가 일낼 줄 알고 계셨나요]]></title>
         <id>https://v.daum.net/v/20240703225419545</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240703193102356"/>
         <updated>2024-07-03T11:10:22.434Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민주X조한결X조민구, '20년 전, 숨은 이야기 또 있다']]></title>
-        <id>https://v.daum.net/v/20240703192612278</id>
-        <link href="https://v.daum.net/v/20240703192612278"/>
-        <updated>2024-07-03T11:10:22.434Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유영, '일·사랑' 다 잡았다...'함부로 해피엔딩→결혼 소식'까지]]></title>
-        <id>https://v.daum.net/v/20240703192609275</id>
-        <link href="https://v.daum.net/v/20240703192609275"/>
-        <updated>2024-07-03T11:10:22.434Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
