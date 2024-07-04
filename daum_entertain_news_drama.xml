@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-04T11:12:03.144Z</updated>
+    <updated>2024-07-04T12:21:05.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[90년대로 회귀?…시대착오적 '화인가 스캔들']]></title>
+        <id>https://v.daum.net/v/20240704210004892</id>
+        <link href="https://v.daum.net/v/20240704210004892"/>
+        <updated>2024-07-04T12:19:58.650Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한보름, 父 죽인 한채영에 복수 시작 "최웅 찾아와 결혼할 것"]]></title>
+        <id>https://v.daum.net/v/20240704205331769</id>
+        <link href="https://v.daum.net/v/20240704205331769"/>
+        <updated>2024-07-04T12:19:58.655Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검찰, 이승기 전 소속사 후크 권진영 대표에 징역 3년 구형]]></title>
+        <id>https://v.daum.net/v/20240704201336930</id>
+        <link href="https://v.daum.net/v/20240704201336930"/>
+        <updated>2024-07-04T12:19:58.655Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신데렐라 꿈꾸니?"..이승연, 子 여친 엄현경에 막말]]></title>
         <id>https://v.daum.net/v/20240704200955823</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240704173656131"/>
         <updated>2024-07-04T09:12:11.039Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮과 밤이 다른 그녀' 이정은, 30세 연하 아이돌과 절친 됐다]]></title>
-        <id>https://v.daum.net/v/20240704165320313</id>
-        <link href="https://v.daum.net/v/20240704165320313"/>
-        <updated>2024-07-04T08:15:05.006Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정연 ‘트라이’서 사격부 에이스 된다‥윤계상과 호흡]]></title>
-        <id>https://v.daum.net/v/20240704163642690</id>
-        <link href="https://v.daum.net/v/20240704163642690"/>
-        <updated>2024-07-04T08:15:05.007Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱어송라이터' 이동은, '수지맞은 우리' OST 가창..오늘 발매]]></title>
-        <id>https://v.daum.net/v/20240704163604655</id>
-        <link href="https://v.daum.net/v/20240704163604655"/>
-        <updated>2024-07-04T08:15:05.008Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
