@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-04T22:11:46.241Z</updated>
+    <updated>2024-07-04T23:12:12.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['58세 아빠' 신성우, 3살 아들 어린이집 행사 참석…노장 투혼]]></title>
+        <id>https://v.daum.net/v/20240705074447211</id>
+        <link href="https://v.daum.net/v/20240705074447211"/>
+        <updated>2024-07-04T23:11:11.025Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아빠는 꽃중년’ 안재욱, 세상 떠난 父 집 돌아보다 충격]]></title>
+        <id>https://v.daum.net/v/20240705074001133</id>
+        <link href="https://v.daum.net/v/20240705074001133"/>
+        <updated>2024-07-04T23:11:11.025Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['편스토랑' 김재중, 친누나만 8명…20세 차이 큰누나 최초 공개]]></title>
         <id>https://v.daum.net/v/20240705065006510</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240704194400077"/>
         <updated>2024-07-04T11:11:53.881Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박철민, 딸 엄현경 결혼 반대 "권화운 집안 그냥 싫어"]]></title>
-        <id>https://v.daum.net/v/20240704194257049</id>
-        <link href="https://v.daum.net/v/20240704194257049"/>
-        <updated>2024-07-04T11:11:53.882Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜빈, 쌍둥이 아들 임신했다…아이만 다섯, 잉꼬부부 ♥남편 결국 정관수술]]></title>
-        <id>https://v.daum.net/v/20240704191601318</id>
-        <link href="https://v.daum.net/v/20240704191601318"/>
-        <updated>2024-07-04T11:11:53.885Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
