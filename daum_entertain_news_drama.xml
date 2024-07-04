@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-04T12:21:05.427Z</updated>
+    <updated>2024-07-04T13:13:57.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘용수정’ 이승연, 엄현경에 권화운 전처 죽음 언급 “너도 그런 꼴 당할 것”]]></title>
+        <id>https://v.daum.net/v/20240704213209463</id>
+        <link href="https://v.daum.net/v/20240704213209463"/>
+        <updated>2024-07-04T13:13:49.716Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한보름, 복수 결심 "최웅 다시 만나 결혼할 것…용서 안 해"]]></title>
+        <id>https://v.daum.net/v/20240704212503384</id>
+        <link href="https://v.daum.net/v/20240704212503384"/>
+        <updated>2024-07-04T13:13:49.716Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[90년대로 회귀?…시대착오적 '화인가 스캔들']]></title>
         <id>https://v.daum.net/v/20240704210004892</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240704180636365"/>
         <updated>2024-07-04T09:12:11.038Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상이 한지현 ‘손해 보기 싫어서’ 스핀오프 ‘사장님의 식단표’로 멜로 호흡]]></title>
-        <id>https://v.daum.net/v/20240704173841203</id>
-        <link href="https://v.daum.net/v/20240704173841203"/>
-        <updated>2024-07-04T09:12:11.039Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['커넥션' 권율·김경남·차엽, 우정 산산조각…피투성이 갈등]]></title>
-        <id>https://v.daum.net/v/20240704173656131</id>
-        <link href="https://v.daum.net/v/20240704173656131"/>
-        <updated>2024-07-04T09:12:11.039Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
