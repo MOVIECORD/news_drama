@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-05T15:12:19.723Z</updated>
+    <updated>2024-07-05T16:14:34.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나는 돈가스가 싫어요’ 정상훈, ‘정관수술≠중성화수술’ 에도 수술 거부 “느낌 안 온다며”]]></title>
+        <id>https://v.daum.net/v/20240706001226415</id>
+        <link href="https://v.daum.net/v/20240706001226415"/>
+        <updated>2024-07-05T16:14:27.634Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위하준 “10살 연상 정려원과 호흡 부담 NO, 버벅대며 스킨십 연기”]]></title>
         <id>https://v.daum.net/v/20240706000017283</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240705204101643"/>
         <updated>2024-07-05T12:19:23.698Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장나라vs남지현' 상극 변호사의 ‘단짠’ 팀플레이]]></title>
-        <id>https://v.daum.net/v/20240705203829614</id>
-        <link href="https://v.daum.net/v/20240705203829614"/>
-        <updated>2024-07-05T12:19:23.700Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
