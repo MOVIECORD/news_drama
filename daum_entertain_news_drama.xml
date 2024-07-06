@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-06T06:14:03.055Z</updated>
+    <updated>2024-07-06T07:10:31.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전혜빈, 여섯째 임신? 정상훈 "정관수술 했는데.." 멘붕]]></title>
+        <id>https://v.daum.net/v/20240706154957972</id>
+        <link href="https://v.daum.net/v/20240706154957972"/>
+        <updated>2024-07-06T07:09:29.751Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지현우 친모' 이일화, 눈물 그렁..출생 비밀 후폭풍]]></title>
+        <id>https://v.daum.net/v/20240706151959600</id>
+        <link href="https://v.daum.net/v/20240706151959600"/>
+        <updated>2024-07-06T07:09:29.752Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혜빈 여섯째 임신? ‘정자왕’ 정상훈 충격 “정관수술 했는데”]]></title>
         <id>https://v.daum.net/v/20240706145936357</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240706135155628"/>
         <updated>2024-07-06T05:11:17.071Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 母 괴롭히는 금쪽이 루이X후이바오…베테랑 아이바오 육아법은?]]></title>
-        <id>https://v.daum.net/v/20240706134711587</id>
-        <link href="https://v.daum.net/v/20240706134711587"/>
-        <updated>2024-07-06T05:11:17.072Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라 강형호, 신하균 ‘감사합니다’ OST 첫 주자…오늘 공개]]></title>
-        <id>https://v.daum.net/v/20240706134136542</id>
-        <link href="https://v.daum.net/v/20240706134136542"/>
-        <updated>2024-07-06T05:11:17.073Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
