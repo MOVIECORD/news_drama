@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-06T16:12:28.482Z</updated>
+    <updated>2024-07-06T17:09:23.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[♥정상훈 묶었는데..'아들 다섯' 전혜빈, 여섯째 또 임신 '오열']]></title>
+        <id>https://v.daum.net/v/20240707011837507</id>
+        <link href="https://v.daum.net/v/20240707011837507"/>
+        <updated>2024-07-06T17:09:13.956Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소신 팀장' 신하균, 잦은 이직 이유 "쥐새끼들 잡고 나면 퇴사"]]></title>
         <id>https://v.daum.net/v/20240707001101324</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240706222942891"/>
         <updated>2024-07-06T14:09:37.100Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은지, 마약 배달녀 덫에 걸린 최진혁 구출…남친 선언]]></title>
-        <id>https://v.daum.net/v/20240706221510752</id>
-        <link href="https://v.daum.net/v/20240706221510752"/>
-        <updated>2024-07-06T14:09:37.102Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
