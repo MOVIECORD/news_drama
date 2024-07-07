@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-07T10:11:41.768Z</updated>
+    <updated>2024-07-07T11:09:05.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['커넥션' 박정표, '명품 믿보배' 열혈 형사 유경환 役 인생캐 추가]]></title>
+        <id>https://v.daum.net/v/20240707193426177</id>
+        <link href="https://v.daum.net/v/20240707193426177"/>
+        <updated>2024-07-07T11:08:57.444Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정은지, 정신 잃고 응급실 입원…원인불명]]></title>
+        <id>https://v.daum.net/v/20240707193302166</id>
+        <link href="https://v.daum.net/v/20240707193302166"/>
+        <updated>2024-07-07T11:08:57.448Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더글로리' 이중옥 맞아?..물오른 능청 코믹 연기]]></title>
         <id>https://v.daum.net/v/20240707185546865</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240707150137418"/>
         <updated>2024-07-07T06:15:21.706Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향♥︎지현우, 풋풋 교복 데이트 포착..변함없는 순정]]></title>
-        <id>https://v.daum.net/v/20240707145713299</id>
-        <link href="https://v.daum.net/v/20240707145713299"/>
-        <updated>2024-07-07T06:15:21.706Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백패커2' 인천국제공항서 펼치는 역대급 미션은?]]></title>
-        <id>https://v.daum.net/v/20240707145016199</id>
-        <link href="https://v.daum.net/v/20240707145016199"/>
-        <updated>2024-07-07T06:15:21.708Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
