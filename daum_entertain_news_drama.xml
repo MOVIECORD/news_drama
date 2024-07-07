@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-07T06:15:28.503Z</updated>
+    <updated>2024-07-07T07:11:24.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘감사합니다’ 신하균, 본격 비리 청소 시작…최고 4.5%]]></title>
+        <id>https://v.daum.net/v/20240707161054502</id>
+        <link href="https://v.daum.net/v/20240707161054502"/>
+        <updated>2024-07-07T07:11:17.725Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용두사미는 없었다..본방 이끈 ‘커넥션’ 14.2%의 힘]]></title>
+        <id>https://v.daum.net/v/20240707153024934</id>
+        <link href="https://v.daum.net/v/20240707153024934"/>
+        <updated>2024-07-07T07:11:17.729Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향♥지현우, 치매 심해진 이주실과 교복 데이트]]></title>
         <id>https://v.daum.net/v/20240707150137418</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240707140030265"/>
         <updated>2024-07-07T05:13:00.530Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감사합니다' 신하균, 진구에 선전포고…비리 척결 나선다]]></title>
-        <id>https://v.daum.net/v/20240707135253119</id>
-        <link href="https://v.daum.net/v/20240707135253119"/>
-        <updated>2024-07-07T05:13:00.530Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥션’ 김경남 “벌써 종영 아쉬워, 작품 오래 기억되길” 종영 소감]]></title>
-        <id>https://v.daum.net/v/20240707135024097</id>
-        <link href="https://v.daum.net/v/20240707135024097"/>
-        <updated>2024-07-07T05:13:00.531Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
