@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-08T21:11:40.601Z</updated>
+    <updated>2024-07-08T22:11:41.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전유성 "술 끊은지 6개월…비웃는 놈들 비웃어주고 싶어서"]]></title>
+        <id>https://v.daum.net/v/20240709070102944</id>
+        <link href="https://v.daum.net/v/20240709070102944"/>
+        <updated>2024-07-08T22:11:32.320Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['물어보살', "방치된 지적장애 조카 15년 키웠는데 결혼해도 데려가라고"]]></title>
+        <id>https://v.daum.net/v/20240709063051618</id>
+        <link href="https://v.daum.net/v/20240709063051618"/>
+        <updated>2024-07-08T22:11:32.321Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개그맨 류정남 "코인으로 3분 만에 천만원 벌었다 전재산 2억9천 날려"]]></title>
+        <id>https://v.daum.net/v/20240709061606501</id>
+        <link href="https://v.daum.net/v/20240709061606501"/>
+        <updated>2024-07-08T22:11:32.323Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전유성 "신동엽, 데뷔 시켜줘 감사하다며 큰 돈 보내줘…임플란트 했다"]]></title>
         <id>https://v.daum.net/v/20240709060040221</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240708195730507"/>
         <updated>2024-07-08T11:10:24.689Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플레이어2' 오연서 "종영 시원섭섭..매력적인 정수민 연기 뿌듯"]]></title>
-        <id>https://v.daum.net/v/20240708194723354</id>
-        <link href="https://v.daum.net/v/20240708194723354"/>
-        <updated>2024-07-08T11:10:24.689Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한보름, '미남 감독' 전승빈과 핑크빛♥…같은 작품서 만나 관계 급진전]]></title>
-        <id>https://v.daum.net/v/20240708193102155</id>
-        <link href="https://v.daum.net/v/20240708193102155"/>
-        <updated>2024-07-08T11:10:24.698Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자 신하균 아냐?..'감사합니다' 조아람, 시청자 눈도장 제대로]]></title>
-        <id>https://v.daum.net/v/20240708192223046</id>
-        <link href="https://v.daum.net/v/20240708192223046"/>
-        <updated>2024-07-08T11:10:24.698Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
