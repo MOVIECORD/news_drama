@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-08T09:13:09.691Z</updated>
+    <updated>2024-07-08T10:12:45.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강형욱 논란에 '개훌륭', 폐지→휴식기…"리뉴얼 후 방송"]]></title>
+        <id>https://v.daum.net/v/20240708190045757</id>
+        <link href="https://v.daum.net/v/20240708190045757"/>
+        <updated>2024-07-08T10:12:36.824Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지진희・김지수, 드라마 '가족X멜로' 출연 확정…8월10일 첫 방송]]></title>
+        <id>https://v.daum.net/v/20240708182452110</id>
+        <link href="https://v.daum.net/v/20240708182452110"/>
+        <updated>2024-07-08T10:12:36.824Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창완, '아침창' 하차→새 라디오 '저녁바람'으로 컴백]]></title>
         <id>https://v.daum.net/v/20240708181227860</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240708162427844"/>
         <updated>2024-07-08T08:14:45.476Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김하늘X정지훈 '화인가 스캔들', 디즈니+ 韓 TV쇼 이틀 연속 1위→해외 반응도]]></title>
-        <id>https://v.daum.net/v/20240708161914640</id>
-        <link href="https://v.daum.net/v/20240708161914640"/>
-        <updated>2024-07-08T08:14:45.477Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬의생' 도재학 맞아?..'감사합니다' 정문성, 얼굴 갈아끼웠네]]></title>
-        <id>https://v.daum.net/v/20240708161458438</id>
-        <link href="https://v.daum.net/v/20240708161458438"/>
-        <updated>2024-07-08T08:14:45.479Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
