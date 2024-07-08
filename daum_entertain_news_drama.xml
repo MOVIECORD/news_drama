@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-08T20:13:38.953Z</updated>
+    <updated>2024-07-08T21:11:40.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전유성 "신동엽, 데뷔 시켜줘 감사하다며 큰 돈 보내줘…임플란트 했다"]]></title>
+        <id>https://v.daum.net/v/20240709060040221</id>
+        <link href="https://v.daum.net/v/20240709060040221"/>
+        <updated>2024-07-08T21:11:32.930Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐릭터 삼킨 조아람…'감사합니다'서도 남다른 존재감 발휘]]></title>
         <id>https://v.daum.net/v/20240709050004544</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240708192223046"/>
         <updated>2024-07-08T11:10:24.698Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민호, 샤이니 아닌 배우 컴백…마이웨이 재벌 2세 변신]]></title>
-        <id>https://v.daum.net/v/20240708192100014</id>
-        <link href="https://v.daum.net/v/20240708192100014"/>
-        <updated>2024-07-08T11:10:24.700Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
