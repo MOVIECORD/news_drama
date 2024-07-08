@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-08T12:21:13.466Z</updated>
+    <updated>2024-07-08T13:14:26.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['플레이어2' 송승헌, 아지트 습격당해 칼부림…고윤 사망]]></title>
+        <title type="html"><![CDATA['플레이어2' 송승헌, 대통령 조성하·김경남 불법 비자금 거래 폭로]]></title>
+        <id>https://v.daum.net/v/20240708220735064</id>
+        <link href="https://v.daum.net/v/20240708220735064"/>
+        <updated>2024-07-08T13:14:19.453Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플레이어2' 송승헌, 오연서에 조성하 변호 "그놈 무너뜨리려 하는 건 사실"]]></title>
+        <id>https://v.daum.net/v/20240708214545782</id>
+        <link href="https://v.daum.net/v/20240708214545782"/>
+        <updated>2024-07-08T13:14:19.453Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플레이어2' 고윤, 송승헌 아지트 습격해 칼부림…실패해 총에 맞았다]]></title>
         <id>https://v.daum.net/v/20240708212053534</id>
         <link href="https://v.daum.net/v/20240708212053534"/>
         <updated>2024-07-08T12:21:04.551Z</updated>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240708190045757</id>
         <link href="https://v.daum.net/v/20240708190045757"/>
         <updated>2024-07-08T10:12:36.824Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지진희・김지수, 드라마 '가족X멜로' 출연 확정…8월10일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20240708182452110</id>
-        <link href="https://v.daum.net/v/20240708182452110"/>
-        <updated>2024-07-08T10:12:36.824Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창완, '아침창' 하차→새 라디오 '저녁바람'으로 컴백]]></title>
-        <id>https://v.daum.net/v/20240708181227860</id>
-        <link href="https://v.daum.net/v/20240708181227860"/>
-        <updated>2024-07-08T09:13:01.631Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
