@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-09T12:21:33.208Z</updated>
+    <updated>2024-07-09T13:15:30.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 '플레이어2' 송승헌X오연서, 김경남에 복수 성공…시즌3 예고?]]></title>
+        <id>https://v.daum.net/v/20240709215632744</id>
+        <link href="https://v.daum.net/v/20240709215632744"/>
+        <updated>2024-07-09T13:15:23.127Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플레이어2' 김경남, 오연서 납치해 송승헌 협박 "한 시간 줄게"]]></title>
+        <id>https://v.daum.net/v/20240709212553319</id>
+        <link href="https://v.daum.net/v/20240709212553319"/>
+        <updated>2024-07-09T13:15:23.129Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플레이어2' 송승헌, 김경남에 복수하려 대통령 조성하와 자작극]]></title>
         <id>https://v.daum.net/v/20240709211658197</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240709174350680"/>
         <updated>2024-07-09T09:12:13.008Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이종 격투기 선수' 최두호 vs '주먹 요정' 태원석..'플레이어2' 쫄깃 액션]]></title>
-        <id>https://v.daum.net/v/20240709173409335</id>
-        <link href="https://v.daum.net/v/20240709173409335"/>
-        <updated>2024-07-09T09:12:13.008Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플레이어2' 이시언 "열심히 촬영한 만큼 아쉬워" 종영 소감]]></title>
-        <id>https://v.daum.net/v/20240709173130253</id>
-        <link href="https://v.daum.net/v/20240709173130253"/>
-        <updated>2024-07-09T09:12:13.009Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
