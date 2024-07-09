@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-09T15:12:28.516Z</updated>
+    <updated>2024-07-09T16:15:07.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['살롱드립2' 이정하 "23살에 물류센터 점장, 데뷔 전 알바 많이 해"]]></title>
+        <id>https://v.daum.net/v/20240710001507178</id>
+        <link href="https://v.daum.net/v/20240710001507178"/>
+        <updated>2024-07-09T16:14:00.879Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 '플레이어2' 송승헌X오연서, 김경남에 복수 성공…시즌3 예고?]]></title>
         <id>https://v.daum.net/v/20240709215632744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240709185704605"/>
         <updated>2024-07-09T10:12:13.315Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최시원∙정인선∙이태환, 새 주말극 주인공..색다른 DNA 로코]]></title>
-        <id>https://v.daum.net/v/20240709174350680</id>
-        <link href="https://v.daum.net/v/20240709174350680"/>
-        <updated>2024-07-09T09:12:13.008Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
