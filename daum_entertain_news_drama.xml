@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-09T02:00:19.156Z</updated>
+    <updated>2024-07-09T02:36:28.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“따뜻한 시선으로 봐줬으면”…앤팀 케이, 日 지상파 드라마로 첫 연기 도전]]></title>
+        <id>https://v.daum.net/v/20240709111509490</id>
+        <link href="https://v.daum.net/v/20240709111509490"/>
+        <updated>2024-07-09T02:36:20.526Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진영, '수상한 그녀' 영화 이어 드라마도 출연]]></title>
+        <id>https://v.daum.net/v/20240709110123763</id>
+        <link href="https://v.daum.net/v/20240709110123763"/>
+        <updated>2024-07-09T02:36:20.526Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1박 2일' 연정훈•나인우, 웃음X눈물 가득한 마지막 촬영 현장 스틸 선공개…돈독한 케미스트리]]></title>
         <id>https://v.daum.net/v/20240709105954576</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240709101132324"/>
         <updated>2024-07-09T02:00:12.933Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플레이어2' 송승헌 "많은 사랑 있었기에 시즌2 왔다" 종영 소감]]></title>
-        <id>https://v.daum.net/v/20240709101056302</id>
-        <link href="https://v.daum.net/v/20240709101056302"/>
-        <updated>2024-07-09T02:00:12.934Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“치명적 페로몬” 최시원-정인선-이태환 ‘DNA 러버’ 2차 티저 공개]]></title>
-        <id>https://v.daum.net/v/20240709101055301</id>
-        <link href="https://v.daum.net/v/20240709101055301"/>
-        <updated>2024-07-09T02:00:12.935Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
