@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-10T03:14:26.448Z</updated>
+    <updated>2024-07-10T04:15:12.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위하준 "분필 가루를 얼마나 먹었는데, 결국 노부부에게 칠판 무료나눔"]]></title>
+        <id>https://v.daum.net/v/20240710130801500</id>
+        <link href="https://v.daum.net/v/20240710130801500"/>
+        <updated>2024-07-10T04:15:04.895Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진세연, 김재중의 첫사랑…냉미녀→뇌 전문 천재 허당 의사 변신]]></title>
+        <id>https://v.daum.net/v/20240710122038627</id>
+        <link href="https://v.daum.net/v/20240710122038627"/>
+        <updated>2024-07-10T04:15:04.898Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갯마을차차차' 작감이 만든 '엄마친구아들'..정해인♥정소민 첫만남 포착]]></title>
         <id>https://v.daum.net/v/20240710121122475</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240710110759296"/>
         <updated>2024-07-10T02:35:10.141Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태원석, '플레이어2'의 마동석]]></title>
-        <id>https://v.daum.net/v/20240710110701244</id>
-        <link href="https://v.daum.net/v/20240710110701244"/>
-        <updated>2024-07-10T02:35:10.144Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진세연, 김재중 첫사랑 된 허당 천재의사]]></title>
-        <id>https://v.daum.net/v/20240710110347074</id>
-        <link href="https://v.daum.net/v/20240710110347074"/>
-        <updated>2024-07-10T02:35:10.145Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
