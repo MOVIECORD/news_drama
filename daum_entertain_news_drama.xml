@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-10T21:10:35.732Z</updated>
+    <updated>2024-07-10T22:11:10.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'굿파트너' 이혼 권장?"… SBS판 사랑과 전쟁이 온다]]></title>
+        <id>https://v.daum.net/v/20240711064314406</id>
+        <link href="https://v.daum.net/v/20240711064314406"/>
+        <updated>2024-07-10T22:11:02.680Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카페 사장님도 위하준 팬…"에이드+빵도 서비스로 주시더라"]]></title>
         <id>https://v.daum.net/v/20240710210102688</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240710180108461"/>
         <updated>2024-07-10T09:11:54.724Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' PD "'사랑과 전쟁'처럼 깜짝 놀랄 이혼 이야기…공감 위해 고민"]]></title>
-        <id>https://v.daum.net/v/20240710175712307</id>
-        <link href="https://v.daum.net/v/20240710175712307"/>
-        <updated>2024-07-10T09:11:54.724Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
