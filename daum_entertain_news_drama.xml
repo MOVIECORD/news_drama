@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-13T03:13:08.263Z</updated>
+    <updated>2024-07-13T04:14:21.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남지현, ‘장나라 남편’ 지승현 외도 목격…‘굿파트너’ 첫 방송 시청률 10.8%]]></title>
+        <id>https://v.daum.net/v/20240713125528458</id>
+        <link href="https://v.daum.net/v/20240713125528458"/>
+        <updated>2024-07-13T04:13:19.963Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서준영, ♥엄현경에 간접 고백 “권화운 버리고 나한테 올 거야?”]]></title>
         <id>https://v.daum.net/v/20240713113727972</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240713090125335"/>
         <updated>2024-07-13T00:52:26.853Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['NEW 흑역사' 정은지X최진혁, 취중 입맞춤 후폭풍은?]]></title>
-        <id>https://v.daum.net/v/20240713083536054</id>
-        <link href="https://v.daum.net/v/20240713083536054"/>
-        <updated>2024-07-13T00:52:26.853Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
