@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-14T21:10:08.065Z</updated>
+    <updated>2024-07-14T22:12:14.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신하균, 횡령금 34억 회수로 NO사표→진구 분노]]></title>
+        <id>https://v.daum.net/v/20240715065429189</id>
+        <link href="https://v.daum.net/v/20240715065429189"/>
+        <updated>2024-07-14T22:11:12.713Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아이가 있을 줄 몰랐다" 혼외자 고백한 이일화 내쫓은 박상원]]></title>
+        <id>https://v.daum.net/v/20240715065417185</id>
+        <link href="https://v.daum.net/v/20240715065417185"/>
+        <updated>2024-07-14T22:11:12.713Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박상원, 아내 이일화 혼외자에 분노 지현우 해고위기 불똥]]></title>
         <id>https://v.daum.net/v/20240715060712364</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240714231720663"/>
         <updated>2024-07-14T15:16:47.699Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균, 횡령금 34억 찾았다…진구에 반격 ‘완승’]]></title>
-        <id>https://v.daum.net/v/20240714230944620</id>
-        <link href="https://v.daum.net/v/20240714230944620"/>
-        <updated>2024-07-14T14:14:26.943Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최진혁, 정은지 외박 소식에 “김아영, 친구 외박 말려야 하는 거 아니냐” 질투]]></title>
-        <id>https://v.daum.net/v/20240714230851611</id>
-        <link href="https://v.daum.net/v/20240714230851611"/>
-        <updated>2024-07-14T14:14:26.943Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
