@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-15T20:11:49.393Z</updated>
+    <updated>2024-07-15T21:13:03.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고딩엄빠5' 방선아 "남친과 한달만에 동거…10개월 동안 임신 몰랐다"]]></title>
+        <id>https://v.daum.net/v/20240716060013956</id>
+        <link href="https://v.daum.net/v/20240716060013956"/>
+        <updated>2024-07-15T21:12:01.132Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엄마의 최애는 나'…'덕후의 딸' 김정영X하영, 현실 모녀 공감→이이경 깜짝 등장]]></title>
         <id>https://v.daum.net/v/20240715221533208</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240715175606648"/>
         <updated>2024-07-15T09:13:03.030Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대범 "40대 음주 사고 개그맨 K, 나 아냐…이혼도 NO"]]></title>
-        <id>https://v.daum.net/v/20240715173213986</id>
-        <link href="https://v.daum.net/v/20240715173213986"/>
-        <updated>2024-07-15T09:13:03.033Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
