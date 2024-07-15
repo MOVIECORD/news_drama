@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-15T12:22:07.768Z</updated>
+    <updated>2024-07-15T13:15:48.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['덕후의 딸' 하영, 母 김정영에 "이이경 덕질하는 것도 창피해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240715212705807</id>
+        <link href="https://v.daum.net/v/20240715212705807"/>
+        <updated>2024-07-15T13:15:41.697Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['덕후의 딸' 김정영, 이이경 콘서트 암표상 잡다 경찰서行 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240715210802579</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240715173003904"/>
         <updated>2024-07-15T09:13:03.033Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황윤성 "데뷔 8년 간 정산금 0원…이찬원 소속사 옮긴 후 200만원 받아" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240715172217648</id>
-        <link href="https://v.daum.net/v/20240715172217648"/>
-        <updated>2024-07-15T09:13:03.033Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
