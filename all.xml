@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-15T13:15:48.828Z</updated>
+    <updated>2024-07-15T14:10:13.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['엄마의 최애는 나'…'덕후의 딸' 김정영X하영, 현실 모녀 공감→이이경 깜짝 등장 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240715221533208</id>
+        <link href="https://v.daum.net/v/20240715221533208"/>
+        <updated>2024-07-15T14:10:00.573Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['덕후의 딸' 하영, 母 김정영에 "이이경 덕질하는 것도 창피해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240715212705807</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240715173213986"/>
         <updated>2024-07-15T09:13:03.033Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너만 생각나" 정은지 쟁탈전..최진혁 vs 백서후 승자는? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240715173003904</id>
-        <link href="https://v.daum.net/v/20240715173003904"/>
-        <updated>2024-07-15T09:13:03.033Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
