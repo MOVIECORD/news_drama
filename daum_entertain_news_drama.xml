@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-17T22:11:36.404Z</updated>
+    <updated>2024-07-17T23:12:15.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호가 유일한 라이벌인 자신을 넘어서는 법]]></title>
+        <id>https://v.daum.net/v/20240718080012383</id>
+        <link href="https://v.daum.net/v/20240718080012383"/>
+        <updated>2024-07-17T23:12:07.005Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권율, 엄태구에 "아직 한선화 포기 안 했다" 날 선 경고]]></title>
         <id>https://v.daum.net/v/20240718064205069</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240717193514466"/>
         <updated>2024-07-17T11:09:49.940Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고준, 변영주 감독 '백설공주'로 4년 만에 드라마 컴백]]></title>
-        <id>https://v.daum.net/v/20240717182550873</id>
-        <link href="https://v.daum.net/v/20240717182550873"/>
-        <updated>2024-07-17T10:12:32.908Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
