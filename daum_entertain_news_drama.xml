@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-17T20:12:06.939Z</updated>
+    <updated>2024-07-17T21:11:09.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓드라마 너무 줄었네… 美日 향하는 배우들]]></title>
+        <id>https://v.daum.net/v/20240718060040431</id>
+        <link href="https://v.daum.net/v/20240718060040431"/>
+        <updated>2024-07-17T21:11:01.728Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 독주 시대… 티빙, 웨이브 업고 튀어!]]></title>
+        <id>https://v.daum.net/v/20240718060010369</id>
+        <link href="https://v.daum.net/v/20240718060010369"/>
+        <updated>2024-07-17T21:11:01.728Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주현, 살인 사건에 휘말린 전교 1등]]></title>
         <id>https://v.daum.net/v/20240718010010915</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240717175002753"/>
         <updated>2024-07-17T09:14:13.353Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈·이동휘·차은우·곽동연, 새 예능 '핀란드 셋방살이' 출격]]></title>
-        <id>https://v.daum.net/v/20240717173805333</id>
-        <link href="https://v.daum.net/v/20240717173805333"/>
-        <updated>2024-07-17T09:14:13.354Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 가족' 측 "모든 배우 출연료 지급 완료..미지급건 없다"]]></title>
-        <id>https://v.daum.net/v/20240717173003048</id>
-        <link href="https://v.daum.net/v/20240717173003048"/>
-        <updated>2024-07-17T09:14:13.355Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
