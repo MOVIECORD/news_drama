@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-17T15:15:14.506Z</updated>
+    <updated>2024-07-17T16:14:13.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주현, 살인 사건에 휘말린 전교 1등]]></title>
+        <id>https://v.daum.net/v/20240718010010915</id>
+        <link href="https://v.daum.net/v/20240718010010915"/>
+        <updated>2024-07-17T16:14:07.183Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한보름, 한채영에 "꽃뱀 과거 만천하에 폭로할 것" 선언]]></title>
         <id>https://v.daum.net/v/20240717205201185</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240717173003048"/>
         <updated>2024-07-17T09:14:13.355Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘완벽한 가족’ 측 “모든 배우 출연료 지급 완료, 미지급 없어”]]></title>
-        <id>https://v.daum.net/v/20240717172354842</id>
-        <link href="https://v.daum.net/v/20240717172354842"/>
-        <updated>2024-07-17T09:14:13.360Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
