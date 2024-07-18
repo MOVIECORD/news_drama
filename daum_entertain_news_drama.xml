@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-18T14:11:05.077Z</updated>
+    <updated>2024-07-18T15:12:59.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병철, 살인사건 휘말린 딸 구한다 “변화 과정 흥미로워”]]></title>
+        <id>https://v.daum.net/v/20240719000118187</id>
+        <link href="https://v.daum.net/v/20240719000118187"/>
+        <updated>2024-07-18T15:12:52.975Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['같이 삽시다' 이상아 "이연수, 남자가 보기에 재미없는 스타일"]]></title>
         <id>https://v.daum.net/v/20240718223002464</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240718181619128"/>
         <updated>2024-07-18T10:12:26.611Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 진영, 첫 단독 아시아 투어 팬미팅 개최…글로벌 스타로 우뚝]]></title>
-        <id>https://v.daum.net/v/20240718181213987</id>
-        <link href="https://v.daum.net/v/20240718181213987"/>
-        <updated>2024-07-18T10:12:26.612Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
