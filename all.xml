@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-19T09:12:01.149Z</updated>
+    <updated>2024-07-19T10:11:51.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 남지현, 또 난관 봉착…장나라 일침 이번에도 통할까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240719185701029</id>
+        <link href="https://v.daum.net/v/20240719185701029"/>
+        <updated>2024-07-19T10:11:43.766Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채종협, 10년 전 첫사랑 김소현 만났다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240719181031094</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240719161501133"/>
         <updated>2024-07-19T08:14:32.252Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 엔딩 찢은 진구, 빌런인데 이상하게 감긴다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240719160849008</id>
-        <link href="https://v.daum.net/v/20240719160849008"/>
-        <updated>2024-07-19T07:12:42.349Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
