@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-20T01:57:51.013Z</updated>
+    <updated>2024-07-20T02:30:02.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[45세 이민우, 할아버지 됐다…손자 "할머니들 연락주세요" 공개 구혼]]></title>
+        <id>https://v.daum.net/v/20240720111119907</id>
+        <link href="https://v.daum.net/v/20240720111119907"/>
+        <updated>2024-07-20T02:29:55.878Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비투비 서은광, 온앤오프와 훈훈 케미…"군백기 후 1위 축하해"]]></title>
+        <id>https://v.daum.net/v/20240720110438831</id>
+        <link href="https://v.daum.net/v/20240720110438831"/>
+        <updated>2024-07-20T02:29:55.879Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['논문 표절 논란' 설민석 "공황장애·대인기피증…학위 취소 대학원 재입학"]]></title>
         <id>https://v.daum.net/v/20240720105514710</id>
@@ -62,6 +76,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[티파니 영 "'불륜녀', 슈얼! 와이 낫?"..송중기→송강호 인정한 '신인 배우']]></title>
+        <id>https://v.daum.net/v/20240720100003035</id>
+        <link href="https://v.daum.net/v/20240720100003035"/>
+        <updated>2024-07-20T02:29:55.900Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['나혼산' 전현무, 정신과 상담 결과는?…"사람 아예 안 믿어"]]></title>
         <id>https://v.daum.net/v/20240720095541981</id>
         <link href="https://v.daum.net/v/20240720095541981"/>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240720091646616"/>
         <updated>2024-07-20T00:50:06.368Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라, 이혼 결심→남지현에 이혼 사건 의뢰 "내 사건 맡아"…10% 돌파]]></title>
-        <id>https://v.daum.net/v/20240720080247051</id>
-        <link href="https://v.daum.net/v/20240720080247051"/>
-        <updated>2024-07-19T23:11:39.873Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장나라, 남편 외도 목격→이혼 결심 ‘굿파트너’ 시청률 10% 돌파]]></title>
-        <id>https://v.daum.net/v/20240720075141907</id>
-        <link href="https://v.daum.net/v/20240720075141907"/>
-        <updated>2024-07-19T23:11:39.874Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 장나라, '불륜 남편' 지승현과 이혼 결심..시청률 10% 돌파]]></title>
-        <id>https://v.daum.net/v/20240720073357806</id>
-        <link href="https://v.daum.net/v/20240720073357806"/>
-        <updated>2024-07-19T23:11:39.876Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
