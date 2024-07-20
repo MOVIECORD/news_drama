@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-20T19:08:55.951Z</updated>
+    <updated>2024-07-20T20:11:53.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 남지현, "왜 나한테만 이런 일이"…지승현-한재이, 장나라 '선 외도' 주장 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240721050601882</id>
+        <link href="https://v.daum.net/v/20240721050601882"/>
+        <updated>2024-07-20T20:11:45.475Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낮밤녀' 정은지, 이정은 몸으로 정재성에 납치됐다 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240720235510098</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240720223543761"/>
         <updated>2024-07-20T14:10:09.812Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균, 사과문 게재…식당 테러범 뒤쫓다 정문성 마주했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240720223331751</id>
-        <link href="https://v.daum.net/v/20240720223331751"/>
-        <updated>2024-07-20T14:10:09.814Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
