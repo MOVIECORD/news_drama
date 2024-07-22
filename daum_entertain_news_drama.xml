@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-22T12:21:27.798Z</updated>
+    <updated>2024-07-22T13:16:05.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫방 '우연일까?' 채종협, ♥김소현과 10년 만에 재회…첫사랑 소환 시작]]></title>
+        <id>https://v.daum.net/v/20240722221433753</id>
+        <link href="https://v.daum.net/v/20240722221433753"/>
+        <updated>2024-07-22T13:15:59.434Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우연일까?' 김소현, 고교 시절 김다솜 대신 채종협에 고백]]></title>
+        <id>https://v.daum.net/v/20240722213238241</id>
+        <link href="https://v.daum.net/v/20240722213238241"/>
+        <updated>2024-07-22T13:15:59.435Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“하나도 안 변했네”…채종협, 10년만 ‘첫사랑’ 김소현과 재회]]></title>
         <id>https://v.daum.net/v/20240722211203939</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240722180701580"/>
         <updated>2024-07-22T09:15:25.717Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인, 정소민에 "인생에서 처음 만난 또라이"…거침없는 '엄마친구아들']]></title>
-        <id>https://v.daum.net/v/20240722180205454</id>
-        <link href="https://v.daum.net/v/20240722180205454"/>
-        <updated>2024-07-22T09:15:25.718Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“스스로 취준생이라 생각” 이정은, 20대로 보인 진짜 이유]]></title>
-        <id>https://v.daum.net/v/20240722175747295</id>
-        <link href="https://v.daum.net/v/20240722175747295"/>
-        <updated>2024-07-22T09:15:25.718Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
