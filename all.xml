@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T20:12:06.415Z</updated>
+    <updated>2024-07-24T21:11:34.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘스위트홈’ 차라리 시즌2·3 동시 공개됐다면 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240725052112250</id>
+        <link href="https://v.daum.net/v/20240725052112250"/>
+        <updated>2024-07-24T21:11:26.696Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유진 "DNA러버, 신선했다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240724222801387</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240724175713827"/>
         <updated>2024-07-24T09:12:09.435Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 윤하 "'눈물의 여왕'에 통 크게 쐈다…절친 김지원에 선물" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240724175234679</id>
-        <link href="https://v.daum.net/v/20240724175234679"/>
-        <updated>2024-07-24T09:12:09.435Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
