@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T13:16:36.257Z</updated>
+    <updated>2024-07-24T14:11:55.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정유진 "DNA러버, 신선했다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240724222801387</id>
+        <link href="https://v.daum.net/v/20240724222801387"/>
+        <updated>2024-07-24T14:11:47.655Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄태구, ♥한선화 향한 직진+반말 "예쁘네, 우리 은하" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240724214920886</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240724175234679"/>
         <updated>2024-07-24T09:12:09.435Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한, '백설공주' 여자친구 공개...상대는 배우 한소은 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240724172801907</id>
-        <link href="https://v.daum.net/v/20240724172801907"/>
-        <updated>2024-07-24T09:12:09.438Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
