@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-25T12:21:14.431Z</updated>
+    <updated>2024-07-25T13:16:07.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누워있어도 존재감 만렙..이도엽, '감사합니다' 히든키]]></title>
+        <id>https://v.daum.net/v/20240725213221553</id>
+        <link href="https://v.daum.net/v/20240725213221553"/>
+        <updated>2024-07-25T13:15:04.888Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘용수정’ 서준영, 엄현경 극적 구조…권화운→이승연, 박철민 살해]]></title>
         <id>https://v.daum.net/v/20240725205847797</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240725175003528"/>
         <updated>2024-07-25T09:13:19.568Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리구두 벗어던지고 스니커즈 끈 동여맨 신현빈]]></title>
-        <id>https://v.daum.net/v/20240725174730447</id>
-        <link href="https://v.daum.net/v/20240725174730447"/>
-        <updated>2024-07-25T09:13:19.570Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
