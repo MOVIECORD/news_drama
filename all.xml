@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-25T14:11:24.022Z</updated>
+    <updated>2024-07-25T15:11:48.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[신하균·이정하, 현실 반영한 JU건설 비리 청소 리스트 공개 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240725232801172</id>
+        <link href="https://v.daum.net/v/20240725232801172"/>
+        <updated>2024-07-25T15:11:40.282Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누워있어도 존재감 만렙..이도엽, '감사합니다' 히든키 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240725213221553</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240725175759799"/>
         <updated>2024-07-25T09:13:19.567Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송강·이도현→고민시의 발견 '스위트홈'…감독 "다시 볼 수 없는 조합" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240725175003528</id>
-        <link href="https://v.daum.net/v/20240725175003528"/>
-        <updated>2024-07-25T09:13:19.568Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
