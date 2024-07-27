@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-27T15:10:58.080Z</updated>
+    <updated>2024-07-27T16:14:04.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["밤 7시 넘어서만 데이트"..최진혁, 정은지·이정은 동일인물 의심 시작]]></title>
+        <id>https://v.daum.net/v/20240728002219209</id>
+        <link href="https://v.daum.net/v/20240728002219209"/>
+        <updated>2024-07-27T16:13:56.782Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최진혁, 이정은 정체 의심···정은지 들통나나]]></title>
         <id>https://v.daum.net/v/20240727235826891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240727223815183"/>
         <updated>2024-07-27T14:10:34.824Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감사합니다' 신하균X이정하, 신재하 추적→신제품 시연회서 기술 유출 폭로]]></title>
-        <id>https://v.daum.net/v/20240727223716182</id>
-        <link href="https://v.daum.net/v/20240727223716182"/>
-        <updated>2024-07-27T14:10:34.825Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
