@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-28T03:12:48.150Z</updated>
+    <updated>2024-07-28T04:13:21.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이래서 하균神 …신하균, 누구랑 붙어도 폭발한다]]></title>
+        <id>https://v.daum.net/v/20240728125244023</id>
+        <link href="https://v.daum.net/v/20240728125244023"/>
+        <updated>2024-07-28T04:13:13.981Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['횹사마' 채종협 복귀작인데…어디서 본 느낌은 '우연일까?']]></title>
         <id>https://v.daum.net/v/20240728120130482</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240728090919443"/>
         <updated>2024-07-28T00:55:20.944Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 韓 넘어 아시아서 통했다···2주만 6개국 톱8 차트인]]></title>
-        <id>https://v.daum.net/v/20240728090352324</id>
-        <link href="https://v.daum.net/v/20240728090352324"/>
-        <updated>2024-07-28T00:55:20.945Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
