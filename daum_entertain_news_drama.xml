@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-28T11:08:44.709Z</updated>
+    <updated>2024-07-28T12:18:43.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재성 형 "외모+오른발, 내가 동생보다 한 수 위"]]></title>
+        <id>https://v.daum.net/v/20240728205339423</id>
+        <link href="https://v.daum.net/v/20240728205339423"/>
+        <updated>2024-07-28T12:18:35.734Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지각시 1분당 15만원" 이재성, 국대·마인츠 벌금 제도 언급]]></title>
         <id>https://v.daum.net/v/20240728195039532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240728140314044"/>
         <updated>2024-07-28T05:12:26.597Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균, 취재진 앞 행사 중단 시켜…신재하와 대치 현장]]></title>
-        <id>https://v.daum.net/v/20240728135706926</id>
-        <link href="https://v.daum.net/v/20240728135706926"/>
-        <updated>2024-07-28T05:12:26.601Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
