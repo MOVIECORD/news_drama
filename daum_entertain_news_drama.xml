@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-29T20:12:28.729Z</updated>
+    <updated>2024-07-29T21:13:08.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신하균의 이정하 육아일기? 제맛 못 살린 케미]]></title>
+        <id>https://v.daum.net/v/20240730061038054</id>
+        <link href="https://v.daum.net/v/20240730061038054"/>
+        <updated>2024-07-29T21:12:06.331Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고준희 "'버닝썬' 언급되며 드라마 하차 통보 당해…은퇴 생각도"]]></title>
+        <id>https://v.daum.net/v/20240730060020805</id>
+        <link href="https://v.daum.net/v/20240730060020805"/>
+        <updated>2024-07-29T21:12:06.334Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낮과 밤이 다른 그녀' 변화무쌍한 정재성의 캐릭터 소화력]]></title>
         <id>https://v.daum.net/v/20240729233901446</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240729184550223"/>
         <updated>2024-07-29T10:14:08.593Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 가족' 김명수·김도현, 강력반 형사 출격…특별출연 '눈길']]></title>
-        <id>https://v.daum.net/v/20240729180540198</id>
-        <link href="https://v.daum.net/v/20240729180540198"/>
-        <updated>2024-07-29T09:13:21.725Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정하 끝끝내 '연기력 논란' 못 지웠다...특별출연 배우에게도 밀린 존재감]]></title>
-        <id>https://v.daum.net/v/20240729180106065</id>
-        <link href="https://v.daum.net/v/20240729180106065"/>
-        <updated>2024-07-29T09:13:21.729Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
