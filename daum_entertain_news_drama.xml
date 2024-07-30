@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-30T08:15:05.900Z</updated>
+    <updated>2024-07-30T09:12:32.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱글즈' 지미X희진, 결혼·임신 발표 "나이 40에 속도위반 할 줄은…"]]></title>
+        <id>https://v.daum.net/v/20240730180142880</id>
+        <link href="https://v.daum.net/v/20240730180142880"/>
+        <updated>2024-07-30T09:12:26.311Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정현·금새록→최태준·양혜지, '다리미 패밀리' 라인업 완성]]></title>
+        <id>https://v.daum.net/v/20240730174607316</id>
+        <link href="https://v.daum.net/v/20240730174607316"/>
+        <updated>2024-07-30T09:12:26.313Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김민경·김대호→전현무까지…올림픽 중계 나선 스타들]]></title>
+        <id>https://v.daum.net/v/20240730172430642</id>
+        <link href="https://v.daum.net/v/20240730172430642"/>
+        <updated>2024-07-30T09:12:26.314Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박준형X브라이언 'XYOB', 론칭 4개월 만 누적 1000만뷰]]></title>
+        <id>https://v.daum.net/v/20240730171630346</id>
+        <link href="https://v.daum.net/v/20240730171630346"/>
+        <updated>2024-07-30T09:12:26.314Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리 헤어진 적 없어" 윤지온, 김소현 흔들었다…아슬아슬 삼각관계]]></title>
         <id>https://v.daum.net/v/20240730165419475</id>
@@ -55,7 +83,7 @@
         <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김정헌·최태준→금새록·양혜지 ‘다리미 패밀리’ 재미 보장 라인업 완성]]></title>
+        <title type="html"><![CDATA[김정현·최태준→금새록·양혜지 ‘다리미 패밀리’ 재미 보장 라인업 완성]]></title>
         <id>https://v.daum.net/v/20240730154801866</id>
         <link href="https://v.daum.net/v/20240730154801866"/>
         <updated>2024-07-30T07:11:20.083Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240730154439716"/>
         <updated>2024-07-30T07:11:20.084Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 최유나 변호사 "드라마 집필, 변호사 시험 한번 더 본 느낌"]]></title>
-        <id>https://v.daum.net/v/20240730154030520</id>
-        <link href="https://v.daum.net/v/20240730154030520"/>
-        <updated>2024-07-30T07:11:20.086Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“우리 헤어진 적 없어”…윤지온, 김소현 마음 뒤흔들었다]]></title>
-        <id>https://v.daum.net/v/20240730153602341</id>
-        <link href="https://v.daum.net/v/20240730153602341"/>
-        <updated>2024-07-30T07:11:20.090Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['놀아주는 여자' 엄태구, 로맨스가 되네…화제성 4주 연속 1위]]></title>
-        <id>https://v.daum.net/v/20240730153247200</id>
-        <link href="https://v.daum.net/v/20240730153247200"/>
-        <updated>2024-07-30T07:11:20.093Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태준, KBS2 ‘다리미 패밀리’ 주연...로맨틱 돈다발 블랙코미디’로 컴백]]></title>
-        <id>https://v.daum.net/v/20240730153003060</id>
-        <link href="https://v.daum.net/v/20240730153003060"/>
-        <updated>2024-07-30T07:11:20.099Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
