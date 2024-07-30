@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-30T09:12:32.811Z</updated>
+    <updated>2024-07-30T10:14:23.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채종협 인기 발목잡혔다…갑자기 올드해진 tvN, 20년 전 감성 속수무책]]></title>
+        <id>https://v.daum.net/v/20240730190112696</id>
+        <link href="https://v.daum.net/v/20240730190112696"/>
+        <updated>2024-07-30T10:13:20.760Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돌싱글즈' 지미X희진, 결혼·임신 발표 "나이 40에 속도위반 할 줄은…"]]></title>
         <id>https://v.daum.net/v/20240730180142880</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240730154505736"/>
         <updated>2024-07-30T07:11:20.084Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유어 아너', 메인 포스터·예고 영상 최초 공개 "두려운 약점은 가족"]]></title>
-        <id>https://v.daum.net/v/20240730154439716</id>
-        <link href="https://v.daum.net/v/20240730154439716"/>
-        <updated>2024-07-30T07:11:20.084Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
