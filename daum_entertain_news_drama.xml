@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-07-31T11:10:01.565Z</updated>
+    <updated>2024-07-31T12:21:46.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄태구, 이성 잃고 임철수 폭행 "내가 건들지 말라고 했지"]]></title>
+        <id>https://v.daum.net/v/20240731211730288</id>
+        <link href="https://v.daum.net/v/20240731211730288"/>
+        <updated>2024-07-31T12:21:37.489Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채종엽, 출구 없는 마성의 3단 매력...‘후영앓이’로 도파민 증폭]]></title>
+        <id>https://v.daum.net/v/20240731211213190</id>
+        <link href="https://v.daum.net/v/20240731211213190"/>
+        <updated>2024-07-31T12:21:37.489Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tvN서 울고 JTBC서 웃을까…15년차 김소현, 박보검과는 달라야 할텐데]]></title>
         <id>https://v.daum.net/v/20240731200101272</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240731163932476"/>
         <updated>2024-07-31T08:14:51.245Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소현, 과몰입 유발 첫사랑 비주얼…19살→29살 표현까지 완벽]]></title>
-        <id>https://v.daum.net/v/20240731163443288</id>
-        <link href="https://v.daum.net/v/20240731163443288"/>
-        <updated>2024-07-31T08:14:51.248Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김다솜 짝사랑남, 황성빈이었다…의미심장 기류]]></title>
-        <id>https://v.daum.net/v/20240731162904063</id>
-        <link href="https://v.daum.net/v/20240731162904063"/>
-        <updated>2024-07-31T08:14:51.249Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
