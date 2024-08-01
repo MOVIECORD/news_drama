@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-01T08:15:12.476Z</updated>
+    <updated>2024-08-01T09:11:25.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['남의 연애3' 최종 선택→데이트 최초 공개…현실 커플은?]]></title>
+        <id>https://v.daum.net/v/20240801175905387</id>
+        <link href="https://v.daum.net/v/20240801175905387"/>
+        <updated>2024-08-01T09:11:16.741Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이지훈, 와이원엔터 전속계약…류승범·황정음 한솥밥]]></title>
         <id>https://v.daum.net/v/20240801171103400</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801154058978"/>
         <updated>2024-08-01T07:11:00.811Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮밤녀' 살인 진범=배해선…이정은→최진혁, 실마리 잡았다]]></title>
-        <id>https://v.daum.net/v/20240801153138605</id>
-        <link href="https://v.daum.net/v/20240801153138605"/>
-        <updated>2024-08-01T07:11:00.812Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
