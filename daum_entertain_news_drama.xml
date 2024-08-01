@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-01T22:10:53.496Z</updated>
+    <updated>2024-08-01T23:11:47.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재중X진세연, 초밀착 스킨십 포착…불꽃 로맨스]]></title>
+        <id>https://v.daum.net/v/20240802080414672</id>
+        <link href="https://v.daum.net/v/20240802080414672"/>
+        <updated>2024-08-01T23:11:38.363Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀아주는 여자' 양현민 "참 극혐인 두 달, 사랑해 주신 모든 분들께 감사해" 일문일답]]></title>
+        <id>https://v.daum.net/v/20240802073617257</id>
+        <link href="https://v.daum.net/v/20240802073617257"/>
+        <updated>2024-08-01T23:11:38.367Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['놀여' 문동혁 "주신 사랑에 배로 보답하는 배우 될 것" 종영소감]]></title>
+        <id>https://v.daum.net/v/20240802073348221</id>
+        <link href="https://v.daum.net/v/20240802073348221"/>
+        <updated>2024-08-01T23:11:38.368Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조진웅 "'시그널2, 조진웅 아니면 이상한 거 아니야?'..나도 동의"]]></title>
+        <id>https://v.daum.net/v/20240802072718144</id>
+        <link href="https://v.daum.net/v/20240802072718144"/>
+        <updated>2024-08-01T23:11:38.368Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박은혜, 자택에 뱀 출몰 "119 등 신고해 봤지만…등골 오싹"]]></title>
+        <id>https://v.daum.net/v/20240802072014028</id>
+        <link href="https://v.daum.net/v/20240802072014028"/>
+        <updated>2024-08-01T23:11:38.369Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노 웨이 아웃' 유재명 "허광한, 그렇게 유명한 줄 몰랐다…조진웅 든든" ②]]></title>
         <id>https://v.daum.net/v/20240802070714854</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240802070019718"/>
         <updated>2024-08-01T22:10:44.077Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노 웨이 아웃' 유재명 "이광수♥이선빈, 아름다운 커플"]]></title>
-        <id>https://v.daum.net/v/20240802070016714</id>
-        <link href="https://v.daum.net/v/20240802070016714"/>
-        <updated>2024-08-01T22:10:44.078Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재명, 조두순 연상케 한 희대의 성범죄자役 “이미지 걱정 안 해”]]></title>
-        <id>https://v.daum.net/v/20240802070016709</id>
-        <link href="https://v.daum.net/v/20240802070016709"/>
-        <updated>2024-08-01T22:10:44.080Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리미 패밀리' 오영실→조복래, 완벽 라인업…'미녀와 순정남' 후속]]></title>
-        <id>https://v.daum.net/v/20240802070013706</id>
-        <link href="https://v.daum.net/v/20240802070013706"/>
-        <updated>2024-08-01T22:10:44.081Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조진웅 “‘시그널2’ 늙고 병들기 전에 해야, 흥분할까봐 아직 대본 못봐”]]></title>
-        <id>https://v.daum.net/v/20240802070012701</id>
-        <link href="https://v.daum.net/v/20240802070012701"/>
-        <updated>2024-08-01T22:10:44.083Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조진웅 “이제 ‘런닝맨’ 아닌 배우 이광수 ‘노웨이아웃’으로 끝나”]]></title>
-        <id>https://v.daum.net/v/20240802070008693</id>
-        <link href="https://v.daum.net/v/20240802070008693"/>
-        <updated>2024-08-01T22:10:44.086Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
