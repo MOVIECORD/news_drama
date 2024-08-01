@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-01T13:15:51.529Z</updated>
+    <updated>2024-08-01T14:12:36.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["앞으로도 나랑 놀자" 엄태구♥한선화, 반지 프러포즈→'해피엔딩']]></title>
+        <id>https://v.daum.net/v/20240801222502356</id>
+        <link href="https://v.daum.net/v/20240801222502356"/>
+        <updated>2024-08-01T14:12:25.681Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리 오늘 같이 있자" 엄태구♥한선화, 해피엔드 입맞춤]]></title>
         <id>https://v.daum.net/v/20240801215023628</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801162604834"/>
         <updated>2024-08-01T08:15:03.985Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문지인 “시댁 스트레스 얼마나 심한지 모르지?” 한선화에 현실 조언]]></title>
-        <id>https://v.daum.net/v/20240801162255720</id>
-        <link href="https://v.daum.net/v/20240801162255720"/>
-        <updated>2024-08-01T08:15:03.986Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
