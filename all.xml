@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-02T12:20:20.510Z</updated>
+    <updated>2024-08-02T13:15:44.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김재중, 동생 이종원 구하다 사고 당해…테니스 선수 인생 나락으로 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240802221322567</id>
+        <link href="https://v.daum.net/v/20240802221322567"/>
+        <updated>2024-08-02T13:15:36.194Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘놀여’ 문지인, 차세대 로코퀸 등극...“사람 냄새 나는 드라마” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240802210602602</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240802155052724"/>
         <updated>2024-08-02T07:12:10.546Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재찬 “첫 정극 도전 걱정했지만‥콩트하러 가는 느낌” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240802154812640</id>
-        <link href="https://v.daum.net/v/20240802154812640"/>
-        <updated>2024-08-02T07:12:10.551Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
