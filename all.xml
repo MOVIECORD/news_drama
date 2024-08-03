@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-03T15:10:29.721Z</updated>
+    <updated>2024-08-03T16:13:40.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정은지, 이정은 정체 안 최진혁에 이별 통보…"헤어지자" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240804002045595</id>
+        <link href="https://v.daum.net/v/20240804002045595"/>
+        <updated>2024-08-03T16:13:31.946Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘낮밤녀’ 정은지, 이정은 정체 아는 최진혁에 이별 선언 “이 모습으로 옆에 있기 싫어” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240803235820294</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240803223130864"/>
         <updated>2024-08-03T14:11:57.744Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감사합니다' 이정하, 조아람 채용 비리 제보자=오희준 정체 알고 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240803223000816</id>
-        <link href="https://v.daum.net/v/20240803223000816"/>
-        <updated>2024-08-03T14:11:57.745Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
