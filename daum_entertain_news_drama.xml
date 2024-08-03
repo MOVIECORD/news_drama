@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-03T08:14:56.947Z</updated>
+    <updated>2024-08-03T09:12:42.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올림픽 결방無 '감사합니다', 신하균x이정하 채용 비리 파헤친다]]></title>
+        <id>https://v.daum.net/v/20240803174948888</id>
+        <link href="https://v.daum.net/v/20240803174948888"/>
+        <updated>2024-08-03T09:11:40.900Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['낮밤녀' 최진혁 종영소감 "웃겨서 지연될 정도로 분위기 좋던 촬영장"]]></title>
+        <id>https://v.daum.net/v/20240803172529623</id>
+        <link href="https://v.daum.net/v/20240803172529623"/>
+        <updated>2024-08-03T09:11:40.900Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낮밤녀' 정은지, 살인마 배해선 인질로 잡혔다…남친 최진혁 구하러 출동]]></title>
         <id>https://v.daum.net/v/20240803170705346</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240803134550593"/>
         <updated>2024-08-03T05:10:49.014Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재중, 수술로 기억 잃고 달라졌다]]></title>
-        <id>https://v.daum.net/v/20240803134317569</id>
-        <link href="https://v.daum.net/v/20240803134317569"/>
-        <updated>2024-08-03T05:10:49.015Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감사합니다' 외부 감사팀 김지현, 신하균과 팽팽한 기류…진구 스캔들 결말은]]></title>
-        <id>https://v.daum.net/v/20240803131644425</id>
-        <link href="https://v.daum.net/v/20240803131644425"/>
-        <updated>2024-08-03T05:10:49.016Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
