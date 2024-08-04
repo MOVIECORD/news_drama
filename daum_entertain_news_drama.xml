@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-04T21:11:16.429Z</updated>
+    <updated>2024-08-04T22:12:19.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신하균, 강압 감사 논란…“이정하·조아람 덕에 누명 벗었다”]]></title>
+        <id>https://v.daum.net/v/20240805070458820</id>
+        <link href="https://v.daum.net/v/20240805070458820"/>
+        <updated>2024-08-04T22:12:10.706Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종영 ‘낮밤녀’ 최진혁, 돌아온 ♥정은지와 입맞춤 “많이 보고싶었다”]]></title>
+        <id>https://v.daum.net/v/20240805065920680</id>
+        <link href="https://v.daum.net/v/20240805065920680"/>
+        <updated>2024-08-04T22:12:10.707Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신하균 사람 죽인 감사? 과거사 전말 드러났다]]></title>
         <id>https://v.daum.net/v/20240805060334232</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240804232036503"/>
         <updated>2024-08-04T15:11:22.443Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낮밤녀’ 정은지, 떠나는 이정은에 “기분 이상해… 너는 나한테 선물이었다”]]></title>
-        <id>https://v.daum.net/v/20240804231930489</id>
-        <link href="https://v.daum.net/v/20240804231930489"/>
-        <updated>2024-08-04T15:11:22.444Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낮밤녀' 정영주, 이정은·정은지 비밀 알았다 "이모 잘 보내주자"]]></title>
-        <id>https://v.daum.net/v/20240804225626107</id>
-        <link href="https://v.daum.net/v/20240804225626107"/>
-        <updated>2024-08-04T14:11:27.334Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
