@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-05T11:11:20.526Z</updated>
+    <updated>2024-08-05T12:22:47.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["너 좋아했고 좋아해"…'우연일까?' 채종협, ♥김소현에 키스로 첫사랑 고백]]></title>
+        <id>https://v.daum.net/v/20240805205831130</id>
+        <link href="https://v.daum.net/v/20240805205831130"/>
+        <updated>2024-08-05T12:21:40.057Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘낮밤녀’ 배해선, 두 얼굴의 살인마 여정 마침표 “뜻깊은 경험이었다”]]></title>
         <id>https://v.daum.net/v/20240805185645547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805170942245"/>
         <updated>2024-08-05T08:15:55.814Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이정은지'여서 가능했던 청춘과 노년에 건넨 위로와 응원]]></title>
-        <id>https://v.daum.net/v/20240805165024432</id>
-        <link href="https://v.daum.net/v/20240805165024432"/>
-        <updated>2024-08-05T08:15:55.815Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
