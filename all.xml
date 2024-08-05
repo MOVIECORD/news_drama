@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-05T14:11:10.584Z</updated>
+    <updated>2024-08-05T15:12:56.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김병철, 박주현 지키기 고군분투 활약 예고 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240805234700267</id>
+        <link href="https://v.daum.net/v/20240805234700267"/>
+        <updated>2024-08-05T15:11:54.930Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소현♥채종협 오늘부터 1일 “무르기 없기” 박력 키스 엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240805222507417</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240805173903330"/>
         <updated>2024-08-05T09:12:11.529Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌·공유·박서준·이진욱·박보영..카카오엔터 ★들, 올 하반기 OTT 큰 거 온다! (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240805173332163</id>
-        <link href="https://v.daum.net/v/20240805173332163"/>
-        <updated>2024-08-05T09:12:11.532Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
