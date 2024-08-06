@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-06T13:15:44.065Z</updated>
+    <updated>2024-08-06T14:11:29.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벌써 위기..김소현♥채종협, 로맨스 어쩌나]]></title>
+        <id>https://v.daum.net/v/20240806222100996</id>
+        <link href="https://v.daum.net/v/20240806222100996"/>
+        <updated>2024-08-06T14:11:20.396Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["심장 뻐근할 만큼" 채종협♥김소현 달달 연애…김정난 등장에 위기]]></title>
         <id>https://v.daum.net/v/20240806220816839</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240806182806605"/>
         <updated>2024-08-06T10:12:41.812Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우연일까?' 채종협♥김소현, 이제 입맞춤했는데..뜻밖의 위기]]></title>
-        <id>https://v.daum.net/v/20240806181428213</id>
-        <link href="https://v.daum.net/v/20240806181428213"/>
-        <updated>2024-08-06T10:12:41.813Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
