@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-07T12:22:36.089Z</updated>
+    <updated>2024-08-07T13:16:55.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘우씨왕후’ 방영 전부터 고증 논란 ‘시끌’…“재창작된 사극, 전문가 자문받아”]]></title>
+        <id>https://v.daum.net/v/20240807213418545</id>
+        <link href="https://v.daum.net/v/20240807213418545"/>
+        <updated>2024-08-07T13:16:45.086Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박소진, ♥재벌그룹 장남과 결혼…백화점 전무 맡았다]]></title>
         <id>https://v.daum.net/v/20240807200203855</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240807164755254"/>
         <updated>2024-08-07T08:15:13.386Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노 웨이 아웃’, 화제성 차트 올킬…‘기대작’ 저력 과시]]></title>
-        <id>https://v.daum.net/v/20240807164648199</id>
-        <link href="https://v.daum.net/v/20240807164648199"/>
-        <updated>2024-08-07T08:15:13.387Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
