@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-07T10:13:22.381Z</updated>
+    <updated>2024-08-07T11:09:59.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박소진, ♥재벌그룹 장남과 결혼…백화점 전무 맡았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240807200203855</id>
+        <link href="https://v.daum.net/v/20240807200203855"/>
+        <updated>2024-08-07T11:09:52.176Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우씨왕후' 측, 고증 논란에 입 열었다 "전문가 자문, 역사 기반의 재창작물" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240807184813054</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240807164648199"/>
         <updated>2024-08-07T08:15:13.387Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김소현 첫사랑' 윤지온, 보호본능 유발 치트키…헤어나올 수 없는 질척임 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240807164032888</id>
-        <link href="https://v.daum.net/v/20240807164032888"/>
-        <updated>2024-08-07T08:15:13.389Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
