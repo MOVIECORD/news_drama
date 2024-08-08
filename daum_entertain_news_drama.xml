@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-08T04:16:01.040Z</updated>
+    <updated>2024-08-08T05:12:57.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[180cm 신용석, 새로운 문짝남..최민호와 브로맨스]]></title>
+        <id>https://v.daum.net/v/20240808134117276</id>
+        <link href="https://v.daum.net/v/20240808134117276"/>
+        <updated>2024-08-08T05:11:55.639Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연상호, 日 '가스인간' 총괄 프로듀서…넷플릭스만 7편째]]></title>
         <id>https://v.daum.net/v/20240808131146403</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240808104620838"/>
         <updated>2024-08-08T02:02:32.137Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김무열, '노 웨이 아웃 : 더 룰렛'서 '패전처리투수' 이상봉으로 갓벽한 변신 '존재감 폭발']]></title>
-        <id>https://v.daum.net/v/20240808104614834</id>
-        <link href="https://v.daum.net/v/20240808104614834"/>
-        <updated>2024-08-08T02:02:32.139Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
