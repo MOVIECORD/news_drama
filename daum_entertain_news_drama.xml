@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-09T22:13:18.725Z</updated>
+    <updated>2024-08-09T23:11:27.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재중, 진세연에 돌직구 고백 "나 좀 바라봐요"]]></title>
+        <id>https://v.daum.net/v/20240810080505551</id>
+        <link href="https://v.daum.net/v/20240810080505551"/>
+        <updated>2024-08-09T23:11:19.504Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜 기억 지우개' 김재중, 기억상실 사고…이종원 숨기는 것 있나? 거짓 증언 의심!]]></title>
+        <id>https://v.daum.net/v/20240810074034210</id>
+        <link href="https://v.daum.net/v/20240810074034210"/>
+        <updated>2024-08-09T23:11:19.506Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중, 진세연에 '선전포고'…"당신 눈을 하트로 만들 것"]]></title>
         <id>https://v.daum.net/v/20240810071003972</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240809223340503"/>
         <updated>2024-08-09T14:11:19.811Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나쁜 기억 지우개' 진세연, 김재중 고백 선 그었다 "남자친구 있어"]]></title>
-        <id>https://v.daum.net/v/20240809223255490</id>
-        <link href="https://v.daum.net/v/20240809223255490"/>
-        <updated>2024-08-09T14:11:19.813Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불꽃 플러팅' 김재중에 진세연 "저 남자친구 있어요" 철벽]]></title>
-        <id>https://v.daum.net/v/20240809221231200</id>
-        <link href="https://v.daum.net/v/20240809221231200"/>
-        <updated>2024-08-09T13:15:27.276Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
