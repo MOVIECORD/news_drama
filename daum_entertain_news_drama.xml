@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-11T11:09:30.191Z</updated>
+    <updated>2024-08-11T12:20:11.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스캔들’ 2주 만에 돌아온다...사건 쟁점+인물 되짚기...‘파격 전개 가동’]]></title>
+        <id>https://v.daum.net/v/20240811203006455</id>
+        <link href="https://v.daum.net/v/20240811203006455"/>
+        <updated>2024-08-11T12:19:09.599Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명민, 사고로 아들 잃었다…헤아릴 수 없는 슬픔, 허망한 얼굴]]></title>
         <id>https://v.daum.net/v/20240811191602302</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240811145719295"/>
         <updated>2024-08-11T06:16:30.597Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명민, 교도소 출소→子 죽음 진실 찾는다..무자비 복수 예고]]></title>
-        <id>https://v.daum.net/v/20240811145126226</id>
-        <link href="https://v.daum.net/v/20240811145126226"/>
-        <updated>2024-08-11T06:16:30.598Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
