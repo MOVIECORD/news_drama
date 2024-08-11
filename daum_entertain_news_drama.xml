@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-11T02:09:37.664Z</updated>
+    <updated>2024-08-11T03:12:26.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백서후 "끊임없이 도전, 안주 않고 계속 성장하겠다"]]></title>
+        <id>https://v.daum.net/v/20240811115014870</id>
+        <link href="https://v.daum.net/v/20240811115014870"/>
+        <updated>2024-08-11T03:12:17.863Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['낮밤녀' 백서후 "이정은, 20대 또래 그 자체…로맨스 걱정 필요 없어"]]></title>
+        <id>https://v.daum.net/v/20240811115002865</id>
+        <link href="https://v.daum.net/v/20240811115002865"/>
+        <updated>2024-08-11T03:12:17.864Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허준석, '감사합니다' 무게감 더한 '차갑고 건조한 얼굴']]></title>
+        <id>https://v.daum.net/v/20240811114838850</id>
+        <link href="https://v.daum.net/v/20240811114838850"/>
+        <updated>2024-08-11T03:12:17.864Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['완벽한 가족' 윤상현, 과몰입 유발러 활약 예고]]></title>
+        <id>https://v.daum.net/v/20240811112516586</id>
+        <link href="https://v.daum.net/v/20240811112516586"/>
+        <updated>2024-08-11T03:12:17.866Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지진희, 본인 제삿날에 '버터향 컴백'…벼락부자 건물주 등장]]></title>
         <id>https://v.daum.net/v/20240811110024198</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240811093411983"/>
         <updated>2024-08-11T00:56:40.725Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교도소 출소한 김명민…子 죽음 진실 쫓는다]]></title>
-        <id>https://v.daum.net/v/20240811093203956</id>
-        <link href="https://v.daum.net/v/20240811093203956"/>
-        <updated>2024-08-11T00:56:40.729Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재중, 대표되다...스포츠 에이전시 설립 “내가 독식하겠다”]]></title>
-        <id>https://v.daum.net/v/20240811093001932</id>
-        <link href="https://v.daum.net/v/20240811093001932"/>
-        <updated>2024-08-11T00:56:40.730Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽은 줄 알았던 지진희 등장에 기절초풍…‘가족X멜로’ 4.8% 출발]]></title>
-        <id>https://v.daum.net/v/20240811091356751</id>
-        <link href="https://v.daum.net/v/20240811091356751"/>
-        <updated>2024-08-11T00:56:40.732Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재중, 스포츠 에이전시 설립.."내가 독식하겠다"]]></title>
-        <id>https://v.daum.net/v/20240811085203393</id>
-        <link href="https://v.daum.net/v/20240811085203393"/>
-        <updated>2024-08-11T00:56:40.733Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
