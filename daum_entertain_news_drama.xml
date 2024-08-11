@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-11T07:10:22.612Z</updated>
+    <updated>2024-08-11T08:14:07.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신하균 “진짜 쥐새끼 잡을 수 있을지 기대해주길” 종영소감]]></title>
+        <id>https://v.daum.net/v/20240811164918784</id>
+        <link href="https://v.daum.net/v/20240811164918784"/>
+        <updated>2024-08-11T08:13:56.543Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향-지현우, 포장마차→오락실 데이트 포착]]></title>
         <id>https://v.daum.net/v/20240811155348043</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240811143228945"/>
         <updated>2024-08-11T06:16:30.605Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백서후, 끝까지 빛난 신스틸러 “많은 위로 받았다”]]></title>
-        <id>https://v.daum.net/v/20240811143004889</id>
-        <link href="https://v.daum.net/v/20240811143004889"/>
-        <updated>2024-08-11T06:16:30.606Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
