@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-11T09:13:17.548Z</updated>
+    <updated>2024-08-11T10:12:54.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘감사합니다’ 오늘 종영… 신하균→이정하 “쥐새끼 잡을 수 있을지 마지막까지 기대” 종영소감]]></title>
+        <id>https://v.daum.net/v/20240811182748467</id>
+        <link href="https://v.daum.net/v/20240811182748467"/>
+        <updated>2024-08-11T10:11:52.244Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임수향, 기억 떠올랐다…♥지현우와 포장마차 데이트]]></title>
         <id>https://v.daum.net/v/20240811174701705</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240811145017192"/>
         <updated>2024-08-11T06:16:30.599Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균·이정하·진구·조아람 "'감사합니다' 사랑에 감사합니다"]]></title>
-        <id>https://v.daum.net/v/20240811144654141</id>
-        <link href="https://v.daum.net/v/20240811144654141"/>
-        <updated>2024-08-11T06:16:30.599Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
