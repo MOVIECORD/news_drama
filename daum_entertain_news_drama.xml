@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-12T14:14:00.425Z</updated>
+    <updated>2024-08-12T15:13:20.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“모르면 손해”…D-2 ‘완벽한 가족’ 첫방 관전 포인트 미리보기]]></title>
+        <id>https://v.daum.net/v/20240812235700965</id>
+        <link href="https://v.daum.net/v/20240812235700965"/>
+        <updated>2024-08-12T15:13:13.031Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소현♥채종엽, 김정난·윤지온 탓 갈등 "너도 떠나는 애였다"]]></title>
         <id>https://v.daum.net/v/20240812220800246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240812195001682"/>
         <updated>2024-08-12T11:10:43.911Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈·설경구 '하이퍼나이프', 2025년 상반기 디즈니+ 공개]]></title>
-        <id>https://v.daum.net/v/20240812194701646</id>
-        <link href="https://v.daum.net/v/20240812194701646"/>
-        <updated>2024-08-12T11:10:43.916Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
