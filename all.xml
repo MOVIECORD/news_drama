@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-13T14:11:59.471Z</updated>
+    <updated>2024-08-13T15:11:46.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[손현주, 아들 뺑소니 살인 은폐…"뭔들 못하겠나" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240813231103979</id>
+        <link href="https://v.daum.net/v/20240813231103979"/>
+        <updated>2024-08-13T15:11:39.120Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우연 아닌 운명" 김소현, 채종협과 함께 미국行 택해 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240813224017763</id>
@@ -40,7 +47,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손현주 증거인멸 실패…아들 뺑소니 덮으려나 나락 위기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <title type="html"><![CDATA[손현주 증거인멸 실패…아들 뺑소니 덮으려다 나락 위기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240813211727895</id>
         <link href="https://v.daum.net/v/20240813211727895"/>
         <updated>2024-08-13T12:21:42.743Z</updated>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240813195000576"/>
         <updated>2024-08-13T11:09:50.595Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손나은 VS 천우희, 누가누가 더 예쁜가…1045만원 같은 옷 다른 느낌 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240813190104703</id>
-        <link href="https://v.daum.net/v/20240813190104703"/>
-        <updated>2024-08-13T10:13:01.562Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
