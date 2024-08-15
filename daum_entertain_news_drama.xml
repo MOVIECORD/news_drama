@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-15T14:10:56.263Z</updated>
+    <updated>2024-08-15T15:12:07.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주현 살인 고백에 윤세아 "엄마가 해결" 섬뜩...진범은 최예빈]]></title>
+        <id>https://v.daum.net/v/20240815234900003</id>
+        <link href="https://v.daum.net/v/20240815234900003"/>
+        <updated>2024-08-15T15:11:58.608Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주현 '살인 누명', 수상한 가족 섬뜩→부모 "김병철X윤세아 조심해"]]></title>
+        <id>https://v.daum.net/v/20240815234401989</id>
+        <link href="https://v.daum.net/v/20240815234401989"/>
+        <updated>2024-08-15T15:11:58.611Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강별, 백성현 유전자 검체 조작까지...김희정, 친자 불성립에 '충격']]></title>
         <id>https://v.daum.net/v/20240815211630064</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240815170049406</id>
         <link href="https://v.daum.net/v/20240815170049406"/>
         <updated>2024-08-15T08:15:17.854Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인♥정소민 친구에서 연인으로…17일 시작합니다]]></title>
-        <id>https://v.daum.net/v/20240815165600320</id>
-        <link href="https://v.daum.net/v/20240815165600320"/>
-        <updated>2024-08-15T08:15:17.855Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라디오쇼' 박명수 "광복절에 식민지 얘기? 기분 확 나빠"]]></title>
-        <id>https://v.daum.net/v/20240815165046244</id>
-        <link href="https://v.daum.net/v/20240815165046244"/>
-        <updated>2024-08-15T08:15:17.857Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
