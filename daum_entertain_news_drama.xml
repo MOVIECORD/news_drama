@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-15T03:14:39.721Z</updated>
+    <updated>2024-08-15T04:13:49.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘굿파트너’ 장나라vs지승현, 이혼 전쟁 불 붙는 위기의 부부]]></title>
+        <id>https://v.daum.net/v/20240815124211461</id>
+        <link href="https://v.daum.net/v/20240815124211461"/>
+        <updated>2024-08-15T04:13:42.665Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 박재철 ‘백설공주’ 캐스팅, 고보결 매니저로 찰떡 호흡]]></title>
+        <id>https://v.daum.net/v/20240815122943308</id>
+        <link href="https://v.daum.net/v/20240815122943308"/>
+        <updated>2024-08-15T04:13:42.669Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘버터향 가득’ 지진희, 심상치 않은 기세...‘가족X멜로’로 출연자 화제성 5위]]></title>
         <id>https://v.daum.net/v/20240815114500484</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240815094419141"/>
         <updated>2024-08-15T02:20:28.981Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진세연, 술 만취해 주차장에서 잠든 채 발견]]></title>
-        <id>https://v.daum.net/v/20240815092402861</id>
-        <link href="https://v.daum.net/v/20240815092402861"/>
-        <updated>2024-08-15T02:20:28.983Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진세연, 만취 상태로 주차장서 잠든 채 발견]]></title>
-        <id>https://v.daum.net/v/20240815091720750</id>
-        <link href="https://v.daum.net/v/20240815091720750"/>
-        <updated>2024-08-15T02:20:28.984Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
