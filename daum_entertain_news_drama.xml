@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-16T09:14:41.018Z</updated>
+    <updated>2024-08-16T10:12:34.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양혜지, 패션 디자이너 변신…팔색조 매력 스틸 공개]]></title>
+        <id>https://v.daum.net/v/20240816190129094</id>
+        <link href="https://v.daum.net/v/20240816190129094"/>
+        <updated>2024-08-16T10:12:27.006Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조진웅 딸, 혐박범에 납치당해…첼리스트 준비했는데]]></title>
+        <id>https://v.daum.net/v/20240816183201551</id>
+        <link href="https://v.daum.net/v/20240816183201551"/>
+        <updated>2024-08-16T10:12:27.008Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김해준 "예비신부 김승혜, 꼬리찜도 해줘" 자랑]]></title>
         <id>https://v.daum.net/v/20240816180333024</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240816163357537"/>
         <updated>2024-08-16T08:16:19.511Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최희진, 남편 유재명에 칼 겨눴다‥살기어린 눈빛]]></title>
-        <id>https://v.daum.net/v/20240816162811385</id>
-        <link href="https://v.daum.net/v/20240816162811385"/>
-        <updated>2024-08-16T08:16:19.513Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['톡파원' 전현무, 최원영·심이영 결혼식서 눈물?…특별한 인연]]></title>
-        <id>https://v.daum.net/v/20240816161655074</id>
-        <link href="https://v.daum.net/v/20240816161655074"/>
-        <updated>2024-08-16T08:16:19.515Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
