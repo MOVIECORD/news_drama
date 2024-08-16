@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-16T15:12:12.888Z</updated>
+    <updated>2024-08-16T16:15:41.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라, 한재이에 "당신 해고야"…엄마 아빠 사이에서 갈등하는 유나의 선택은?]]></title>
+        <id>https://v.daum.net/v/20240817003001355</id>
+        <link href="https://v.daum.net/v/20240817003001355"/>
+        <updated>2024-08-16T16:15:31.525Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '백설공주' 변요한, 친구 살해로 징역10년→ 결국 추락엔딩]]></title>
         <id>https://v.daum.net/v/20240817001054256</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240816224801180"/>
         <updated>2024-08-16T14:10:37.553Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한, 친구들 살해한 범인으로 지목되어 입건]]></title>
-        <id>https://v.daum.net/v/20240816224543146</id>
-        <link href="https://v.daum.net/v/20240816224543146"/>
-        <updated>2024-08-16T14:10:37.555Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
