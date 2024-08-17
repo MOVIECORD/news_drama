@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-17T02:35:29.851Z</updated>
+    <updated>2024-08-17T03:13:39.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['런닝맨' 유재석VS박성웅, 올림픽 급 '불꽃 매치'…동갑내기 기싸움]]></title>
+        <id>https://v.daum.net/v/20240817115525887</id>
+        <link href="https://v.daum.net/v/20240817115525887"/>
+        <updated>2024-08-17T03:12:32.469Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변요한 연기 차력쇼, '백설공주' 첫방부터 맞고 구르고 울고 70분 '순삭']]></title>
+        <id>https://v.daum.net/v/20240817114405809</id>
+        <link href="https://v.daum.net/v/20240817114405809"/>
+        <updated>2024-08-17T03:12:32.469Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월드스타도 섬에선 평등?…방탄소년단 진, '푹다행' 일꾼 출격]]></title>
         <id>https://v.daum.net/v/20240817113346741</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240817103130189"/>
         <updated>2024-08-17T01:59:53.097Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양지은 "치과의사 남편, 결혼 전 수입無…만삭에 배타고 행사 가기도"]]></title>
-        <id>https://v.daum.net/v/20240817102055089</id>
-        <link href="https://v.daum.net/v/20240817102055089"/>
-        <updated>2024-08-17T01:59:53.097Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손나은, 최민호 멱살 잡았다]]></title>
-        <id>https://v.daum.net/v/20240817101830072</id>
-        <link href="https://v.daum.net/v/20240817101830072"/>
-        <updated>2024-08-17T01:59:53.098Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
