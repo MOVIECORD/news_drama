@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-17T19:11:08.434Z</updated>
+    <updated>2024-08-17T20:12:06.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[표지훈, 남지현 소개팅에 질투 폭발 "나 만날 시간은 없으면서"]]></title>
+        <id>https://v.daum.net/v/20240818050101018</id>
+        <link href="https://v.daum.net/v/20240818050101018"/>
+        <updated>2024-08-17T20:11:57.449Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['굿파트너' 장나라, 남지현父 내연녀에 "좀 꺼지실래요?"…"채무 변제한 것"]]></title>
         <id>https://v.daum.net/v/20240818010001397</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240817231200573"/>
         <updated>2024-08-17T14:12:25.843Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마친구아들' 김지은, 이번엔 구급대원…"저 검은띠에요"]]></title>
-        <id>https://v.daum.net/v/20240817231130568</id>
-        <link href="https://v.daum.net/v/20240817231130568"/>
-        <updated>2024-08-17T14:12:25.843Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
