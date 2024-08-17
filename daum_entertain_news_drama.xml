@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-17T15:11:28.912Z</updated>
+    <updated>2024-08-17T16:16:04.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라, 남지현父 내연녀에 "좀 꺼지실래요?"…"채무 변제한 것"]]></title>
+        <id>https://v.daum.net/v/20240818010001397</id>
+        <link href="https://v.daum.net/v/20240818010001397"/>
+        <updated>2024-08-17T16:15:02.436Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 김준한, 한재이에 "장나라, 유나가 너 같은 인간을 만난 게 사고…평생 죄인으로 살라" 독설]]></title>
+        <id>https://v.daum.net/v/20240818001806195</id>
+        <link href="https://v.daum.net/v/20240818001806195"/>
+        <updated>2024-08-17T16:15:02.436Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재결합 실패할 시 위자료로 빌라 넘긴다"…'가족X멜로' 지진희vs손나은, 김지수 두고 내기]]></title>
         <id>https://v.daum.net/v/20240817235546075</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240817231130568"/>
         <updated>2024-08-17T14:12:25.843Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가족X멜로' 손나은, 母 김지수에 "졸부 돼서 매달리는 지진희에 흔들리는 거 아니냐"]]></title>
-        <id>https://v.daum.net/v/20240817230635509</id>
-        <link href="https://v.daum.net/v/20240817230635509"/>
-        <updated>2024-08-17T14:12:25.844Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 지승현, 한재이에 "주제 파악 좀 해…여기까지 하자" '충격']]></title>
-        <id>https://v.daum.net/v/20240817230320482</id>
-        <link href="https://v.daum.net/v/20240817230320482"/>
-        <updated>2024-08-17T14:12:25.844Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
     </entry>
 </feed>
