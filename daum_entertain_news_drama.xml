@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-18T10:12:16.816Z</updated>
+    <updated>2024-08-18T11:09:14.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최시원·이태환이 달라졌다? ‘웃음기 제로’ 독대 현장]]></title>
+        <id>https://v.daum.net/v/20240818195103412</id>
+        <link href="https://v.daum.net/v/20240818195103412"/>
+        <updated>2024-08-18T11:09:06.020Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기억 찾은 임수향, 지현우 VS 고윤 사이 ‘안절부절’]]></title>
         <id>https://v.daum.net/v/20240818190902567</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240818144427952"/>
         <updated>2024-08-18T06:15:59.817Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종원, 사각관계 로맨스의 중심…입체적 캐릭터 완성]]></title>
-        <id>https://v.daum.net/v/20240818144403944</id>
-        <link href="https://v.daum.net/v/20240818144403944"/>
-        <updated>2024-08-18T06:15:59.819Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
