@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-18T09:14:04.601Z</updated>
+    <updated>2024-08-18T10:12:16.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기억 찾은 임수향, 지현우 VS 고윤 사이 ‘안절부절’]]></title>
+        <id>https://v.daum.net/v/20240818190902567</id>
+        <link href="https://v.daum.net/v/20240818190902567"/>
+        <updated>2024-08-18T10:12:08.372Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정소민, 소꿉친구 정해인은 잘나가는데…파혼·퇴사 후폭풍]]></title>
+        <id>https://v.daum.net/v/20240818185504179</id>
+        <link href="https://v.daum.net/v/20240818185504179"/>
+        <updated>2024-08-18T10:12:08.372Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘불편’ 정소민 VS ‘싸늘’ 박지영 '어색 그 자체']]></title>
         <id>https://v.daum.net/v/20240818180555105</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240818144403944"/>
         <updated>2024-08-18T06:15:59.819Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내연녀들 진짜 저래?..'굿파트너' 장나라 뒷목잡게 만든 이진희]]></title>
-        <id>https://v.daum.net/v/20240818144227909</id>
-        <link href="https://v.daum.net/v/20240818144227909"/>
-        <updated>2024-08-18T06:15:59.820Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 지현우, 임수향 두고 고윤과 대치..웃음기 뺀 삼자대면]]></title>
-        <id>https://v.daum.net/v/20240818143808827</id>
-        <link href="https://v.daum.net/v/20240818143808827"/>
-        <updated>2024-08-18T06:15:59.821Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
