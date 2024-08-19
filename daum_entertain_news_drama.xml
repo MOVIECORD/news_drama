@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-19T12:22:12.787Z</updated>
+    <updated>2024-08-19T13:16:58.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고물상 미란이' 임세미♥이시우, 버림받은 이들을 위한 '힐링 로맨스']]></title>
+        <id>https://v.daum.net/v/20240819221548396</id>
+        <link href="https://v.daum.net/v/20240819221548396"/>
+        <updated>2024-08-19T13:16:49.251Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고물상 미란이' 이시우, ♥임세미에 "매일 보고 싶어서 와요" 고백]]></title>
+        <id>https://v.daum.net/v/20240819212355884</id>
+        <link href="https://v.daum.net/v/20240819212355884"/>
+        <updated>2024-08-19T13:16:49.255Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희정, 백성현 출생비밀 은폐한 선우재덕에 "의심해서 미안"]]></title>
         <id>https://v.daum.net/v/20240819210930752</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240819182726575"/>
         <updated>2024-08-19T10:14:06.065Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내생활' 도도남매, 장윤정·도경완 없이 미국행…영어도 척척]]></title>
-        <id>https://v.daum.net/v/20240819180257988</id>
-        <link href="https://v.daum.net/v/20240819180257988"/>
-        <updated>2024-08-19T09:13:03.771Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김선호 "'1박2일' 팀들과 잘 지내…예능? 여유 되면"]]></title>
-        <id>https://v.daum.net/v/20240819180250985</id>
-        <link href="https://v.daum.net/v/20240819180250985"/>
-        <updated>2024-08-19T09:13:03.772Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
