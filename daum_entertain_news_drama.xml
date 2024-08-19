@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-19T20:13:03.838Z</updated>
+    <updated>2024-08-19T21:11:34.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김완선, 친이모에 13년 간 가스라이팅 당해 "갇혀있는 느낌"]]></title>
+        <id>https://v.daum.net/v/20240820060011251</id>
+        <link href="https://v.daum.net/v/20240820060011251"/>
+        <updated>2024-08-19T21:11:27.239Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문상민 ‘새벽 2시의 신데렐라’로 로코 주연 입지 다질까?]]></title>
+        <id>https://v.daum.net/v/20240820054102085</id>
+        <link href="https://v.daum.net/v/20240820054102085"/>
+        <updated>2024-08-19T21:11:27.239Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이진희, '도도X뻔뻔' 욕망 빌런..'굿파트너' 분노 유발 호연]]></title>
         <id>https://v.daum.net/v/20240819230901686</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240819185003951"/>
         <updated>2024-08-19T10:14:06.061Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파혼X퇴직' 정소민, K-장녀 애환 200% '현실 공감↑’]]></title>
-        <id>https://v.daum.net/v/20240819183359731</id>
-        <link href="https://v.daum.net/v/20240819183359731"/>
-        <updated>2024-08-19T10:14:06.062Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아무도 없는 숲속에서', 이동진→박지선 극찬한 K스릴러]]></title>
-        <id>https://v.daum.net/v/20240819182930627</id>
-        <link href="https://v.daum.net/v/20240819182930627"/>
-        <updated>2024-08-19T10:14:06.064Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
