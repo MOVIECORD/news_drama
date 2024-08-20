@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-20T22:11:41.887Z</updated>
+    <updated>2024-08-20T23:13:34.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마이 유스’ 송중기·천우희, 서로의 첫사랑 된다‥2025년 방송]]></title>
+        <id>https://v.daum.net/v/20240821080349255</id>
+        <link href="https://v.daum.net/v/20240821080349255"/>
+        <updated>2024-08-20T23:13:24.223Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“약속을 증명해”..손현주, 김명민이 건넨 총으로 사람 죽였다]]></title>
+        <id>https://v.daum.net/v/20240821073225745</id>
+        <link href="https://v.daum.net/v/20240821073225745"/>
+        <updated>2024-08-20T23:13:24.227Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김선호, ‘폭군’으로 다시 날아올랐다]]></title>
         <id>https://v.daum.net/v/20240821060507786</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240820195247670"/>
         <updated>2024-08-20T11:11:41.612Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임주은, 마성가에서 쫓겨났다... "엄현경 없애버리고 싶어" 분노]]></title>
-        <id>https://v.daum.net/v/20240820195131649</id>
-        <link href="https://v.daum.net/v/20240820195131649"/>
-        <updated>2024-08-20T11:11:41.613Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘불붙은 워맨스’ 장나라X남지현, 화끈한 이혼쇼, 예측 불가 엔딩]]></title>
-        <id>https://v.daum.net/v/20240820193725392</id>
-        <link href="https://v.daum.net/v/20240820193725392"/>
-        <updated>2024-08-20T11:11:41.614Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
