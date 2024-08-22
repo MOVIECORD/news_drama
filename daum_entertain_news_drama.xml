@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-22T09:12:24.513Z</updated>
+    <updated>2024-08-22T10:13:15.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로코퀸의 귀환…신민아, 설렘가득한 로맨스→찐 자매 케미]]></title>
+        <id>https://v.daum.net/v/20240822190906697</id>
+        <link href="https://v.daum.net/v/20240822190906697"/>
+        <updated>2024-08-22T10:13:07.517Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['새벽 2시' 윤박 "박소진과 세 작품 만에 결혼, 다음은 이혼일 듯"]]></title>
         <id>https://v.daum.net/v/20240822180527619</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240822163002683"/>
         <updated>2024-08-22T08:14:44.781Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아빠는 갈 데가 없네"...가해자들에게 '노웨이아웃'이 전한 섬뜩한 메시지]]></title>
-        <id>https://v.daum.net/v/20240822162052407</id>
-        <link href="https://v.daum.net/v/20240822162052407"/>
-        <updated>2024-08-22T08:14:44.782Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
