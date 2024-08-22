@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-22T10:13:15.721Z</updated>
+    <updated>2024-08-22T11:11:22.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[까칠 신혜선VS러블리 신혜선, 같은 사람이라고? 티저 공개]]></title>
+        <id>https://v.daum.net/v/20240822200127760</id>
+        <link href="https://v.daum.net/v/20240822200127760"/>
+        <updated>2024-08-22T11:10:20.376Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승연, 며느리 임주은에 이혼 요구 "네 발로 나가는 게 모양 덜 빠질 것"]]></title>
+        <id>https://v.daum.net/v/20240822194701532</id>
+        <link href="https://v.daum.net/v/20240822194701532"/>
+        <updated>2024-08-22T11:10:20.378Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로코퀸의 귀환…신민아, 설렘가득한 로맨스→찐 자매 케미]]></title>
         <id>https://v.daum.net/v/20240822190906697</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240822163425872"/>
         <updated>2024-08-22T08:14:44.778Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준X한소희 '경성크리처' 돌아온다..시즌2 9월 공개 확정]]></title>
-        <id>https://v.daum.net/v/20240822163012707</id>
-        <link href="https://v.daum.net/v/20240822163012707"/>
-        <updated>2024-08-22T08:14:44.780Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현준, 결혼 생활 위기 맞았다…아내 비밀 알고 배신감]]></title>
-        <id>https://v.daum.net/v/20240822163002683</id>
-        <link href="https://v.daum.net/v/20240822163002683"/>
-        <updated>2024-08-22T08:14:44.781Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
