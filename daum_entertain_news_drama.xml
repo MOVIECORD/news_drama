@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-23T14:12:37.059Z</updated>
+    <updated>2024-08-23T15:14:34.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[딸 유나, 장나라보다 지승현·한재이 불륜 먼저 알았다 ‘충격’]]></title>
+        <title type="html"><![CDATA[‘백설공주에게 죽음을-Black Out’ 변요한, 장하은 유골 찾았지만...또 누명 쓰나?!]]></title>
+        <id>https://v.daum.net/v/20240823234951227</id>
+        <link href="https://v.daum.net/v/20240823234951227"/>
+        <updated>2024-08-23T15:13:32.564Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딸 유나, 지승현·한재이 외도 먼저 알았다…장나라 '분노']]></title>
+        <id>https://v.daum.net/v/20240823232103046</id>
+        <link href="https://v.daum.net/v/20240823232103046"/>
+        <updated>2024-08-23T15:13:32.565Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딸 유나, 지승현·한재이 불륜+임신 먼저 알았다..장나라 ‘충격’]]></title>
         <id>https://v.daum.net/v/20240823230952936</id>
         <link href="https://v.daum.net/v/20240823230952936"/>
         <updated>2024-08-23T14:12:28.340Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240823193801563"/>
         <updated>2024-08-23T11:09:52.764Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피지컬100에도 나오더니…저스틴 하비, '폭군'서 살벌한 눈빛]]></title>
-        <id>https://v.daum.net/v/20240823190601170</id>
-        <link href="https://v.daum.net/v/20240823190601170"/>
-        <updated>2024-08-23T10:12:33.532Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영재, 평화 다 깨버렸다…반전의 두 얼굴]]></title>
-        <id>https://v.daum.net/v/20240823190203117</id>
-        <link href="https://v.daum.net/v/20240823190203117"/>
-        <updated>2024-08-23T10:12:33.535Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
