@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-24T21:11:13.378Z</updated>
+    <updated>2024-08-24T22:11:35.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“잘못했어요” 한재이, 이별 당하더니..장나라에 무릎 꿇고 사과 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240825070328552</id>
+        <link href="https://v.daum.net/v/20240825070328552"/>
+        <updated>2024-08-24T22:10:33.265Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인 교통사고 과거사, 국가대표 수영선수 포기했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240825054754885</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240824230942327"/>
         <updated>2024-08-24T14:10:51.678Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내연女’ 한재이, 결국 장나라에 무릎 꿇었다..“죄송해요” 눈물 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240824230651317</id>
-        <link href="https://v.daum.net/v/20240824230651317"/>
-        <updated>2024-08-24T14:10:51.679Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
