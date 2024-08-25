@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-25T21:10:20.074Z</updated>
+    <updated>2024-08-25T22:11:10.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민호·김민하에게 큰 자산이 된 '파친코2' 한수와 선자]]></title>
+        <id>https://v.daum.net/v/20240826070001280</id>
+        <link href="https://v.daum.net/v/20240826070001280"/>
+        <updated>2024-08-25T22:11:02.090Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“박도라는 죽었고, 우리도 끝났어”…임수향, 지현우 밀어내며 '오열']]></title>
+        <id>https://v.daum.net/v/20240826065453228</id>
+        <link href="https://v.daum.net/v/20240826065453228"/>
+        <updated>2024-08-25T22:11:02.093Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지은, 갯벌맨 윤지온 못 알아보고 앙숙 재회 ‘티격태격’]]></title>
         <id>https://v.daum.net/v/20240826060200672</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240825232051600"/>
         <updated>2024-08-25T15:11:04.610Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가족X멜로' 지진희 과거 밝혀졌다..태국에서 하이힐 피팅 모델]]></title>
-        <id>https://v.daum.net/v/20240825231929594</id>
-        <link href="https://v.daum.net/v/20240825231929594"/>
-        <updated>2024-08-25T15:11:04.612Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가족X멜로' 손나은, 초밀착한 최민호에 '심쿵'..붉어진 볼]]></title>
-        <id>https://v.daum.net/v/20240825230147504</id>
-        <link href="https://v.daum.net/v/20240825230147504"/>
-        <updated>2024-08-25T14:09:59.034Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
