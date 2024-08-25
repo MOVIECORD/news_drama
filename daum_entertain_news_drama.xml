@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-25T15:12:06.623Z</updated>
+    <updated>2024-08-25T16:13:24.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지수 충격, 지진희 과거 "태국에서 하이힐 피팅 모델"]]></title>
+        <id>https://v.daum.net/v/20240826003802107</id>
+        <link href="https://v.daum.net/v/20240826003802107"/>
+        <updated>2024-08-25T16:13:15.639Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["왜 여기 있어?"..손나은·최민호X지진희·김지수, 같은 모텔에서 만났다!]]></title>
+        <id>https://v.daum.net/v/20240826002331006</id>
+        <link href="https://v.daum.net/v/20240826002331006"/>
+        <updated>2024-08-25T16:13:15.639Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가족X멜로' 지진희♥김지수·손나은♥최민호, 모텔서 4자대면 "여기서 뭐해?"]]></title>
+        <id>https://v.daum.net/v/20240826001740981</id>
+        <link href="https://v.daum.net/v/20240826001740981"/>
+        <updated>2024-08-25T16:13:15.643Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가족X멜로' 지진희·김지수, 손나은·최민호와 호텔서 마주쳐 "이 자식이"]]></title>
         <id>https://v.daum.net/v/20240826000357832</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240825213232944"/>
         <updated>2024-08-25T13:12:35.478Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마친구아들' 정해인, 파혼 전으로 돌아가지 않겠단 ♥정소민 말에 안도]]></title>
-        <id>https://v.daum.net/v/20240825212951925</id>
-        <link href="https://v.daum.net/v/20240825212951925"/>
-        <updated>2024-08-25T13:12:35.481Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미녀와 순정남' 지현우, ♥임수향 지키고자 박상원 양자 제안 수락]]></title>
-        <id>https://v.daum.net/v/20240825212540901</id>
-        <link href="https://v.daum.net/v/20240825212540901"/>
-        <updated>2024-08-25T13:12:35.481Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수향 "고윤이 날 감금했어" 고백... 지현우, 복수 위해 박상원 양자 됐다]]></title>
-        <id>https://v.daum.net/v/20240825212430884</id>
-        <link href="https://v.daum.net/v/20240825212430884"/>
-        <updated>2024-08-25T13:12:35.484Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
