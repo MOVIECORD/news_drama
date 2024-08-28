@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-28T10:12:26.807Z</updated>
+    <updated>2024-08-28T11:10:56.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보검 ‘굿보이’ 촬영 중 부상 “치료 중, 촬영 일시 중단”]]></title>
+        <id>https://v.daum.net/v/20240828200327599</id>
+        <link href="https://v.daum.net/v/20240828200327599"/>
+        <updated>2024-08-28T11:10:46.403Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스튜디오S, 남궁민X박은빈 '스토브리그' 日 리메이크 확정]]></title>
+        <id>https://v.daum.net/v/20240828200311594</id>
+        <link href="https://v.daum.net/v/20240828200311594"/>
+        <updated>2024-08-28T11:10:46.403Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임주은, 공정환 팽한 이승연 협박... "한 때는 보기 좋은 커플이었는데"]]></title>
+        <id>https://v.daum.net/v/20240828195831464</id>
+        <link href="https://v.daum.net/v/20240828195831464"/>
+        <updated>2024-08-28T11:10:46.403Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박보검, ‘굿보이’ 액션 촬영 중 부상…“촬영 중단, 현재 치료 중”]]></title>
         <id>https://v.daum.net/v/20240828185231969</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240828175103280"/>
         <updated>2024-08-28T09:13:26.409Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민하·이민호 '파친코2', 애플TV+ TV쇼 부문 14개국 1위]]></title>
-        <id>https://v.daum.net/v/20240828173957963</id>
-        <link href="https://v.daum.net/v/20240828173957963"/>
-        <updated>2024-08-28T09:13:26.412Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 "'아없숲', 결코 재미없지 않다..♥CEO 아내는 울기까지"]]></title>
-        <id>https://v.daum.net/v/20240828173330780</id>
-        <link href="https://v.daum.net/v/20240828173330780"/>
-        <updated>2024-08-28T09:13:26.414Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민·박은빈의 ‘스토브리그’ 日서 리메이크 된다]]></title>
-        <id>https://v.daum.net/v/20240828173051700</id>
-        <link href="https://v.daum.net/v/20240828173051700"/>
-        <updated>2024-08-28T09:13:26.417Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
