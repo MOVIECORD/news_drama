@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-30T18:15:42.352Z</updated>
+    <updated>2024-08-30T19:10:41.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 유나, "가장 큰 벌은 나를 못 보는 것, 빨리 벌 받아"…지승현 아닌 장나라 택한 진짜 이유]]></title>
+        <id>https://v.daum.net/v/20240831031800729</id>
+        <link href="https://v.daum.net/v/20240831031800729"/>
+        <updated>2024-08-30T19:09:39.542Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['굿파트너' 유나, 장나라에 "곧 아기도 키워야 하는 아빠…나도 이제 아빠 필요 없어"]]></title>
         <id>https://v.daum.net/v/20240831021501660</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240830224002160"/>
         <updated>2024-08-30T14:11:12.304Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 불륜남 지승현 "딸은 목숨 걸고 지킬거야" 뻔뻔]]></title>
-        <id>https://v.daum.net/v/20240830223520129</id>
-        <link href="https://v.daum.net/v/20240830223520129"/>
-        <updated>2024-08-30T14:11:12.306Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
