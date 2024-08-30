@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-30T17:15:01.245Z</updated>
+    <updated>2024-08-30T18:15:42.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 유나, 장나라에 "곧 아기도 키워야 하는 아빠…나도 이제 아빠 필요 없어"]]></title>
+        <id>https://v.daum.net/v/20240831021501660</id>
+        <link href="https://v.daum.net/v/20240831021501660"/>
+        <updated>2024-08-30T18:15:32.749Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나영석 PD, '서진이네'·'삼시세끼' 한 이유 "회사 돈 말라서 벌어야"]]></title>
         <id>https://v.daum.net/v/20240831000551828</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240830223520129"/>
         <updated>2024-08-30T14:11:12.306Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 장나라 딸 유나, '불륜' 지승현과 만남 거부 "父 필요 없어"]]></title>
-        <id>https://v.daum.net/v/20240830223327116</id>
-        <link href="https://v.daum.net/v/20240830223327116"/>
-        <updated>2024-08-30T14:11:12.307Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
