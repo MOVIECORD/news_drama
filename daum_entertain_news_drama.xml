@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-30T10:13:03.118Z</updated>
+    <updated>2024-08-30T11:12:16.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임주은, 결혼 과거 들통나자 이승연 협박 "엄현경父 죽인 살인자"]]></title>
+        <id>https://v.daum.net/v/20240830195704037</id>
+        <link href="https://v.daum.net/v/20240830195704037"/>
+        <updated>2024-08-30T11:12:09.458Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우씨왕후' 박지환, 웃음기 쏙 뺐다..지창욱 든든한 그림자 변신]]></title>
         <id>https://v.daum.net/v/20240830183727512</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240830162725450"/>
         <updated>2024-08-30T08:16:10.820Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃음기 뺀 박지환, ‘우씨왕후’ 중심 지킨 존재감...과몰입 부른 활약]]></title>
-        <id>https://v.daum.net/v/20240830161501155</id>
-        <link href="https://v.daum.net/v/20240830161501155"/>
-        <updated>2024-08-30T08:16:10.821Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
