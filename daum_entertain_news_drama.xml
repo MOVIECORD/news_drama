@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-08-31T15:12:04.942Z</updated>
+    <updated>2024-08-31T16:13:55.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라. 남지현에 "아무도 날 필요로 하지 않는 것 같은데 어쩌지?" 눈물]]></title>
+        <id>https://v.daum.net/v/20240901003900986</id>
+        <link href="https://v.daum.net/v/20240901003900986"/>
+        <updated>2024-08-31T16:13:46.423Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['엄친아' 5회, 황당 '배장금' 서사 '빈축'.."정해인·정소민 무슨 죄"]]></title>
+        <id>https://v.daum.net/v/20240901002658958</id>
+        <link href="https://v.daum.net/v/20240901002658958"/>
+        <updated>2024-08-31T16:13:46.424Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지진희, 손나은 울린 눈물의 사과 "내가 어떻게 널 후회하니"]]></title>
         <id>https://v.daum.net/v/20240901001032857</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240831225251439"/>
         <updated>2024-08-31T14:09:50.085Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 이시언, 사기꾼으로 등장..."3000만원 주면 합의해줄게"]]></title>
-        <id>https://v.daum.net/v/20240831224650410</id>
-        <link href="https://v.daum.net/v/20240831224650410"/>
-        <updated>2024-08-31T14:09:50.086Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 장나라, 퇴사 권고에 '당황'→10년만 첫 휴가]]></title>
-        <id>https://v.daum.net/v/20240831224534403</id>
-        <link href="https://v.daum.net/v/20240831224534403"/>
-        <updated>2024-08-31T14:09:50.088Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
