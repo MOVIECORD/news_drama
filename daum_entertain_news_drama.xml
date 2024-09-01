@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-01T09:13:29.952Z</updated>
+    <updated>2024-09-01T10:11:48.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고윤, 임수향♥지현우 데이트 목격했다 ‘충격’]]></title>
+        <id>https://v.daum.net/v/20240901184505229</id>
+        <link href="https://v.daum.net/v/20240901184505229"/>
+        <updated>2024-09-01T10:11:40.036Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김병철X윤세아X박주현, 최후의 고군분투 '완벽한 가족으로?']]></title>
         <id>https://v.daum.net/v/20240901173216840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240901145928450"/>
         <updated>2024-09-01T06:16:42.862Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 장나라 울고 남지현 홀로서기…전국 시청률 15.4%]]></title>
-        <id>https://v.daum.net/v/20240901143650871</id>
-        <link href="https://v.daum.net/v/20240901143650871"/>
-        <updated>2024-09-01T06:16:42.866Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
