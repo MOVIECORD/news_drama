@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-02T20:13:11.503Z</updated>
+    <updated>2024-09-02T21:10:53.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 춘애라고?...’굿파트너’ 불륜녀 한재이, 눈도장 찍었다]]></title>
+        <id>https://v.daum.net/v/20240903060208469</id>
+        <link href="https://v.daum.net/v/20240903060208469"/>
+        <updated>2024-09-02T21:10:45.687Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신용석, 유쾌+능청 분위기 메이커 등극]]></title>
         <id>https://v.daum.net/v/20240903000234294</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240902194831642"/>
         <updated>2024-09-02T11:09:58.064Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 강훈 손목 잡고 탈출한 흑기녀..비주얼 쇼크]]></title>
-        <id>https://v.daum.net/v/20240902184250335</id>
-        <link href="https://v.daum.net/v/20240902184250335"/>
-        <updated>2024-09-02T10:13:19.535Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
