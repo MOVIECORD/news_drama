@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-03T03:13:59.208Z</updated>
+    <updated>2024-09-03T04:14:39.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재중♥진세연, 키스 후…순정만화 같은 스킨십 '달달+애틋']]></title>
+        <id>https://v.daum.net/v/20240903122800022</id>
+        <link href="https://v.daum.net/v/20240903122800022"/>
+        <updated>2024-09-03T04:14:30.861Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소꿉친구가 사랑 됐다..정해인♥정소민 본격 스킨십 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20240903122433939</id>
+        <link href="https://v.daum.net/v/20240903122433939"/>
+        <updated>2024-09-03T04:14:30.864Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이브'→'신데렐라' 재미는 있는데…쿠플, 아쉬운 TV 동시 공개]]></title>
         <id>https://v.daum.net/v/20240903120206266</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240903110608433"/>
         <updated>2024-09-03T02:06:46.752Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈, 투어스·키오프 제쳤다...9월 신인 아이돌그룹 평판 1위 등극]]></title>
-        <id>https://v.daum.net/v/20240903110301306</id>
-        <link href="https://v.daum.net/v/20240903110301306"/>
-        <updated>2024-09-03T02:06:46.754Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3선 국회의원 배종옥, 앞뒤 다른 이중성에 소름]]></title>
-        <id>https://v.daum.net/v/20240903110152227</id>
-        <link href="https://v.daum.net/v/20240903110152227"/>
-        <updated>2024-09-03T02:06:46.755Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
