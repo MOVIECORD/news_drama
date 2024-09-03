@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-03T10:13:00.642Z</updated>
+    <updated>2024-09-03T11:10:56.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승연, 권화운 전처 살해했나? 박현숙에 "당신이 내 아들 전처 엄마지?"]]></title>
+        <id>https://v.daum.net/v/20240903195830379</id>
+        <link href="https://v.daum.net/v/20240903195830379"/>
+        <updated>2024-09-03T11:10:46.997Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘당황’ 이상이 vs ‘분노’ 한지현, 상상 이상 긴장감]]></title>
         <id>https://v.daum.net/v/20240903190830148</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240903170708482"/>
         <updated>2024-09-03T08:15:34.598Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나에게서 진짜 리틀 장나라의 기운이 느껴지는 이유]]></title>
-        <id>https://v.daum.net/v/20240903164551474</id>
-        <link href="https://v.daum.net/v/20240903164551474"/>
-        <updated>2024-09-03T08:15:34.599Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
