@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-04T16:16:48.930Z</updated>
+    <updated>2024-09-04T17:10:41.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘재벌가 손자’ 박상남, 집에서 쫓겨난 철부지…신입 입사]]></title>
+        <id>https://v.daum.net/v/20240905020128178</id>
+        <link href="https://v.daum.net/v/20240905020128178"/>
+        <updated>2024-09-04T17:10:31.213Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘개소리’ 듣는 이순재, 사건 해결사로…티저 공개]]></title>
         <id>https://v.daum.net/v/20240905010127985</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240904191054092"/>
         <updated>2024-09-04T10:12:55.123Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마친구아들' 글로벌 통했다…3주 연속 넷플릭스 톱10 진입]]></title>
-        <id>https://v.daum.net/v/20240904182850848</id>
-        <link href="https://v.daum.net/v/20240904182850848"/>
-        <updated>2024-09-04T10:12:55.123Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
