@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-04T20:13:58.288Z</updated>
+    <updated>2024-09-04T21:11:57.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘1인2역 장인’ 신혜선, ‘나의 해리에게’로 한 번 더 도전 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240905060636883</id>
+        <link href="https://v.daum.net/v/20240905060636883"/>
+        <updated>2024-09-04T21:11:45.943Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘재벌가 손자’ 박상남, 집에서 쫓겨난 철부지…신입 입사 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240905020128178</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240904191901279"/>
         <updated>2024-09-04T11:10:01.617Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장영란, 子 준우 과잉보호 고백 "초등학교 1학년처럼 대해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240904191054092</id>
-        <link href="https://v.daum.net/v/20240904191054092"/>
-        <updated>2024-09-04T10:12:55.123Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
