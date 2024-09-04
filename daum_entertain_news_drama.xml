@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-04T08:15:42.604Z</updated>
+    <updated>2024-09-04T09:14:09.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유어 아너' 박세현, 애절+섬세한 감정선…몰입감 UP]]></title>
+        <id>https://v.daum.net/v/20240904181151265</id>
+        <link href="https://v.daum.net/v/20240904181151265"/>
+        <updated>2024-09-04T09:13:07.723Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정재성, '낮밤녀'부터 '굿파트너'까지…강렬 존재감]]></title>
+        <id>https://v.daum.net/v/20240904175355493</id>
+        <link href="https://v.daum.net/v/20240904175355493"/>
+        <updated>2024-09-04T09:13:07.723Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아빠는 둘인데 아이가 셋]]></title>
+        <id>https://v.daum.net/v/20240904174331015</id>
+        <link href="https://v.daum.net/v/20240904174331015"/>
+        <updated>2024-09-04T09:13:07.725Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥에서 온 판사' 박신혜, 인간→악마 순식간에 돌변 '美친 표현력']]></title>
+        <id>https://v.daum.net/v/20240904172704305</id>
+        <link href="https://v.daum.net/v/20240904172704305"/>
+        <updated>2024-09-04T09:13:07.728Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김명민x김도훈 폭주 흔드는 변수..'유어아너' 박세현 눈도장 '쾅']]></title>
         <id>https://v.daum.net/v/20240904165954290</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240904160121917"/>
         <updated>2024-09-04T07:11:51.249Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명민 딸 박세현, 가정사에 충격…"나 미워하지 마요"]]></title>
-        <id>https://v.daum.net/v/20240904154450136</id>
-        <link href="https://v.daum.net/v/20240904154450136"/>
-        <updated>2024-09-04T07:11:51.250Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인♥정소민 '엄마친구아들', 넷플릭스 글로벌 톱5 등극]]></title>
-        <id>https://v.daum.net/v/20240904154323086</id>
-        <link href="https://v.daum.net/v/20240904154323086"/>
-        <updated>2024-09-04T07:11:51.252Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아없숲' 윤계상 "3주간 14kg 뺐는데 되려 젊어보인다는 소리에 무너져내려"]]></title>
-        <id>https://v.daum.net/v/20240904153603821</id>
-        <link href="https://v.daum.net/v/20240904153603821"/>
-        <updated>2024-09-04T07:11:51.252Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박상남·박하나 꽁냥 로맨스 포착…'결혼하자 맹꽁아!']]></title>
-        <id>https://v.daum.net/v/20240904153502787</id>
-        <link href="https://v.daum.net/v/20240904153502787"/>
-        <updated>2024-09-04T07:11:51.253Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
