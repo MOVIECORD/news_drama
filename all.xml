@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-06T16:14:31.525Z</updated>
+    <updated>2024-09-06T17:10:42.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김정현♥금새록, 설렘 유발 꽁냥 케미 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240907020011969</id>
+        <link href="https://v.daum.net/v/20240907020011969"/>
+        <updated>2024-09-06T17:10:34.193Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성웅, 갑질로 나락간 父이순재 피해 다니는 이유 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240907010010699</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240906221832264"/>
         <updated>2024-09-06T14:11:54.560Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 남지현, 장나라 향한 진심 "제 곁에 있어주세요" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240906221551243</id>
-        <link href="https://v.daum.net/v/20240906221551243"/>
-        <updated>2024-09-06T13:17:35.360Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
