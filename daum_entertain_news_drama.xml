@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-07T19:10:11.271Z</updated>
+    <updated>2024-09-07T20:12:36.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라, "집행 유예가 아니라 무기징역을 받아야지"…곽시양의 살인 현장 목격]]></title>
+        <id>https://v.daum.net/v/20240908041802479</id>
+        <link href="https://v.daum.net/v/20240908041802479"/>
+        <updated>2024-09-07T20:12:28.546Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['굿파트너' 장나라, '대정'과 이별→재벌 2세 곽시양 징역 15년 확정]]></title>
         <id>https://v.daum.net/v/20240908010050267</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240907223328716"/>
         <updated>2024-09-07T14:10:20.832Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백설공주에게 죽음을-Black Out’ ?!” 변요한, 드러난 진실에 분노+실망 “나 때문이라니”]]></title>
-        <id>https://v.daum.net/v/20240907222341679</id>
-        <link href="https://v.daum.net/v/20240907222341679"/>
-        <updated>2024-09-07T14:10:20.833Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
