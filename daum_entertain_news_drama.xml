@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-12T12:22:14.536Z</updated>
+    <updated>2024-09-12T13:20:29.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정♥이종원 치킨 당기는 맥주 로맨스…대본리딩 현장]]></title>
+        <id>https://v.daum.net/v/20240912213024221</id>
+        <link href="https://v.daum.net/v/20240912213024221"/>
+        <updated>2024-09-12T13:19:27.313Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강별, 시부 앞에 드러낸 야망+질투 "언니 함은정 이기고 싶다"]]></title>
         <id>https://v.daum.net/v/20240912212127079</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240912165959111"/>
         <updated>2024-09-12T08:15:40.391Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인연? 악연? 김병철·윤상현, 오랜 인연 밝혀진다]]></title>
-        <id>https://v.daum.net/v/20240912165702015</id>
-        <link href="https://v.daum.net/v/20240912165702015"/>
-        <updated>2024-09-12T08:15:40.393Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
