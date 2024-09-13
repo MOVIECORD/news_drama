@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-13T09:12:47.991Z</updated>
+    <updated>2024-09-13T10:13:05.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['강매강', 공개 하루만에 디즈니+ 韓 콘텐츠 종합 1위...심상치 않은 화력 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240913181636946</id>
+        <link href="https://v.daum.net/v/20240913181636946"/>
+        <updated>2024-09-13T10:12:57.768Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유어아너' 김명민, 시청률 1%대에 "이게 시청률이야?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240913180304663</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240913164639966"/>
         <updated>2024-09-13T08:15:24.896Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼자산다' 박지현, '영웅 1세대' 아버지 만난다…스펙터클 하루 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240913163251557</id>
-        <link href="https://v.daum.net/v/20240913163251557"/>
-        <updated>2024-09-13T08:15:24.898Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
