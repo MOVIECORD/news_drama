@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-14T19:09:29.684Z</updated>
+    <updated>2024-09-14T20:15:00.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[19년 전 방송된 '김삼순'은 어떻게 2024년을 사로잡았나]]></title>
+        <id>https://v.daum.net/v/20240915051132602</id>
+        <link href="https://v.daum.net/v/20240915051132602"/>
+        <updated>2024-09-14T20:14:51.015Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['굿파트너' 장나라-남지현, 이혼 조정 거부하는 의뢰인 부부에 '진땀']]></title>
         <id>https://v.daum.net/v/20240915035100388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240914231036542"/>
         <updated>2024-09-14T15:11:49.334Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['독립' 장나라, 영업 어려움 토로 "이혼은 소개도 단골도 없어"]]></title>
-        <id>https://v.daum.net/v/20240914230202480</id>
-        <link href="https://v.daum.net/v/20240914230202480"/>
-        <updated>2024-09-14T14:10:22.049Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
