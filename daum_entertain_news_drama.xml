@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-14T18:14:54.082Z</updated>
+    <updated>2024-09-14T19:09:29.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['굿파트너' 장나라-남지현, 이혼 조정 거부하는 의뢰인 부부에 '진땀']]></title>
+        <id>https://v.daum.net/v/20240915035100388</id>
+        <link href="https://v.daum.net/v/20240915035100388"/>
+        <updated>2024-09-14T19:09:21.237Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['굿파트너' 최종화 '국민 불륜남' 지승현 등장…장나라와 어색 대면]]></title>
         <id>https://v.daum.net/v/20240915010150053</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240914230202480"/>
         <updated>2024-09-14T14:10:22.049Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["법정에서 뵙죠" 장나라X남지현, 상대 변호사로 '대격돌']]></title>
-        <id>https://v.daum.net/v/20240914230035453</id>
-        <link href="https://v.daum.net/v/20240914230035453"/>
-        <updated>2024-09-14T14:10:22.049Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
