@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-14T03:13:56.703Z</updated>
+    <updated>2024-09-14T04:14:34.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라vs남지현 소송 맞대결..이태성X신소율 파격 등장]]></title>
+        <id>https://v.daum.net/v/20240914130937975</id>
+        <link href="https://v.daum.net/v/20240914130937975"/>
+        <updated>2024-09-14T04:14:24.884Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도 감독 “‘오징어게임’이 노골적으로 베껴” 소송 vs 넷플릭스 측 “근거 없어”]]></title>
+        <id>https://v.daum.net/v/20240914122449569</id>
+        <link href="https://v.daum.net/v/20240914122449569"/>
+        <updated>2024-09-14T04:14:24.884Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인·정소민, 열애설도 당당→직접 응원까지]]></title>
         <id>https://v.daum.net/v/20240914120007339</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240914103530469"/>
         <updated>2024-09-14T02:08:15.096Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백설공주’ 진작 변요한에 ‘락 온’된 고보결이 침묵한 이유는?]]></title>
-        <id>https://v.daum.net/v/20240914103454460</id>
-        <link href="https://v.daum.net/v/20240914103454460"/>
-        <updated>2024-09-14T02:08:15.097Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지진희, 트렌스젠더와 과거 무슨 일이? '벼락부자' 이유 공개]]></title>
-        <id>https://v.daum.net/v/20240914102252318</id>
-        <link href="https://v.daum.net/v/20240914102252318"/>
-        <updated>2024-09-14T02:08:15.099Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
