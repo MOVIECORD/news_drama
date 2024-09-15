@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-15T09:11:35.719Z</updated>
+    <updated>2024-09-15T10:11:55.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘불안 시그널’ 포착? ‘DNA 러버’ 곤혹스런 최시원 VS 충격 정인선 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240915183301516</id>
+        <link href="https://v.daum.net/v/20240915183301516"/>
+        <updated>2024-09-15T10:11:46.216Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“넌 내 마음 모르잖아”…정해인·정소민, 갑자기 바다행? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240915180000070</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240915135053042"/>
         <updated>2024-09-15T05:12:07.080Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엄마친구아들’ 정해인·정소민, 바다서 포착…“또 한 차례 변화 맞는다” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240915135030038</id>
-        <link href="https://v.daum.net/v/20240915135030038"/>
-        <updated>2024-09-15T05:12:07.083Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
