@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-16T13:22:10.437Z</updated>
+    <updated>2024-09-16T14:13:11.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가족X멜로' 김영재 "오랜만에 만날 수 있었던 따스한 작품" 종영 소감]]></title>
+        <id>https://v.daum.net/v/20240916230232154</id>
+        <link href="https://v.daum.net/v/20240916230232154"/>
+        <updated>2024-09-16T14:12:09.626Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['손해 보기 싫어서' 신민아, ♥김영대와 한집살이→키스 엔딩]]></title>
         <id>https://v.daum.net/v/20240916215514689</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240916171501638"/>
         <updated>2024-09-16T08:17:32.345Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팽현숙 "남편 최양락에 용돈? 카드 3장 준다"]]></title>
-        <id>https://v.daum.net/v/20240916171051577</id>
-        <link href="https://v.daum.net/v/20240916171051577"/>
-        <updated>2024-09-16T08:17:32.348Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
