@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-16T20:14:43.109Z</updated>
+    <updated>2024-09-16T22:10:56.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신민아♥김영대 첫 키스…가짜 부부 연기→진짜 사랑 시작]]></title>
+        <id>https://v.daum.net/v/20240917061002530</id>
+        <link href="https://v.daum.net/v/20240917061002530"/>
+        <updated>2024-09-16T22:10:48.025Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가족X멜로' 김영재 "오랜만에 만날 수 있었던 따스한 작품" 종영 소감]]></title>
         <id>https://v.daum.net/v/20240916230232154</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240916171851690"/>
         <updated>2024-09-16T09:15:15.854Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정소민, 위암 수술 이력 들키고 두려움+속상함 폭발...‘가치 증명’]]></title>
-        <id>https://v.daum.net/v/20240916171501638</id>
-        <link href="https://v.daum.net/v/20240916171501638"/>
-        <updated>2024-09-16T08:17:32.345Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
