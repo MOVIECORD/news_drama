@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-16T10:14:08.526Z</updated>
+    <updated>2024-09-16T11:12:13.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가족X멜로' 김지수 "애연아, 네 삶은 이제부터 시작이니까"]]></title>
+        <id>https://v.daum.net/v/20240916193327680</id>
+        <link href="https://v.daum.net/v/20240916193327680"/>
+        <updated>2024-09-16T11:12:04.117Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤이니 아닌 배우 최민호 "다양하고 많은 감정 선물해줘 고마워"]]></title>
         <id>https://v.daum.net/v/20240916185728386</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240916161252051"/>
         <updated>2024-09-16T08:17:32.354Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 연휴엔 넷플릭스 중드 ‘정주행’ 추천 8]]></title>
-        <id>https://v.daum.net/v/20240916161232046</id>
-        <link href="https://v.daum.net/v/20240916161232046"/>
-        <updated>2024-09-16T08:17:32.354Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
