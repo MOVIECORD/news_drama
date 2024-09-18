@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-18T05:12:23.490Z</updated>
+    <updated>2024-09-18T06:17:42.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑이 집착이 될 때... 고보결, 변요한 향한 지독한 첫사랑의 말로]]></title>
+        <id>https://v.daum.net/v/20240918144634924</id>
+        <link href="https://v.daum.net/v/20240918144634924"/>
+        <updated>2024-09-18T06:17:34.078Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘나쁜 기억 지우개’ 종영까지 단 2회…김재중 “꿈만 같았다”]]></title>
+        <id>https://v.daum.net/v/20240918143902801</id>
+        <link href="https://v.daum.net/v/20240918143902801"/>
+        <updated>2024-09-18T06:17:34.082Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘백설공주’ 고보결 두 얼굴에 시청자 패닉…변요한 향한 지독한 첫사랑]]></title>
+        <id>https://v.daum.net/v/20240918142451563</id>
+        <link href="https://v.daum.net/v/20240918142451563"/>
+        <updated>2024-09-18T06:17:34.083Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아육대’서 승부…8년 만의 아이돌 '양궁 혼성 단체전' 결과는]]></title>
+        <id>https://v.daum.net/v/20240918142030474</id>
+        <link href="https://v.daum.net/v/20240918142030474"/>
+        <updated>2024-09-18T06:17:34.087Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단 진, 초등학생과 ‘폭소 유발 테니스’ 경기 공개]]></title>
         <id>https://v.daum.net/v/20240918141031310</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240918114446008"/>
         <updated>2024-09-18T03:14:21.457Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백설공주’ 고보결 위험한 순정에 시청자 패닉]]></title>
-        <id>https://v.daum.net/v/20240918101439430</id>
-        <link href="https://v.daum.net/v/20240918101439430"/>
-        <updated>2024-09-18T02:09:40.463Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신민아, 전 남친에 가짜 결혼 들켰다]]></title>
-        <id>https://v.daum.net/v/20240918093452779</id>
-        <link href="https://v.daum.net/v/20240918093452779"/>
-        <updated>2024-09-18T00:55:20.780Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신성록x오나라, 박신혜 복귀작 특별출연 "분량 상관없이 최선"]]></title>
-        <id>https://v.daum.net/v/20240918093128723</id>
-        <link href="https://v.daum.net/v/20240918093128723"/>
-        <updated>2024-09-18T00:55:20.781Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김병철·윤세아, 박주현 입양 배경 밝혀지나]]></title>
-        <id>https://v.daum.net/v/20240918092701657</id>
-        <link href="https://v.daum.net/v/20240918092701657"/>
-        <updated>2024-09-18T00:55:20.781Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
