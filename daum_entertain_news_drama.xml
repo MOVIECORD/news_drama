@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-18T22:12:28.952Z</updated>
+    <updated>2024-09-18T23:12:17.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 ‘K-로코’는 없었다…‘새벽2시의 신데렐라’ 해외서 터진 비결]]></title>
+        <id>https://v.daum.net/v/20240919073036255</id>
+        <link href="https://v.daum.net/v/20240919073036255"/>
+        <updated>2024-09-18T23:12:08.255Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 언론 "'쇼군' 에미상 석권, 한국 드라마 약진 덕분"]]></title>
         <id>https://v.daum.net/v/20240919060210081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240918162031371"/>
         <updated>2024-09-18T08:15:19.984Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최시원♥정인선, 이태환 때문에 헤어지다니..이별 초읽기]]></title>
-        <id>https://v.daum.net/v/20240918153929813</id>
-        <link href="https://v.daum.net/v/20240918153929813"/>
-        <updated>2024-09-18T07:12:03.705Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
