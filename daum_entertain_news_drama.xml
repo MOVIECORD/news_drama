@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-19T12:23:34.544Z</updated>
+    <updated>2024-09-19T13:21:22.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강별, 선우재덕에 이간질 "함은정, 아버님과 나를 떠보고 있어"]]></title>
+        <id>https://v.daum.net/v/20240919212600935</id>
+        <link href="https://v.daum.net/v/20240919212600935"/>
+        <updated>2024-09-19T13:20:19.821Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴키드 진권, ‘나의 해리에게’ 합류…신혜선·이진욱과 호흡]]></title>
         <id>https://v.daum.net/v/20240919204556350</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240919180619189"/>
         <updated>2024-09-19T09:13:19.778Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜, 출산 후에도 잘 나가네…원톱 주연으로 SBS 복귀, '흥행 타율' 잇는다]]></title>
-        <id>https://v.daum.net/v/20240919180106030</id>
-        <link href="https://v.daum.net/v/20240919180106030"/>
-        <updated>2024-09-19T09:13:19.780Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
