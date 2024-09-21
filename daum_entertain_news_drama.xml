@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-21T18:15:31.492Z</updated>
+    <updated>2024-09-21T19:09:06.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지옥 판사' 박신혜, "난 악마, 지옥에서 왔죠"…지옥 판사가 인간 세상에 온 이유는?]]></title>
+        <id>https://v.daum.net/v/20240922032401811</id>
+        <link href="https://v.daum.net/v/20240922032401811"/>
+        <updated>2024-09-21T19:08:58.195Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '지옥에서 온 판사' 악마 빙의 박신혜, 살인 자백한 김재영 칼로 찔러 '충격 엔딩']]></title>
         <id>https://v.daum.net/v/20240922003458269</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240921232101861"/>
         <updated>2024-09-21T15:13:12.270Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥에서 온 판사' 김재영X박신혜, 피고인과 검사로 '강렬 첫 만남']]></title>
-        <id>https://v.daum.net/v/20240921231908850</id>
-        <link href="https://v.daum.net/v/20240921231908850"/>
-        <updated>2024-09-21T15:13:12.272Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
