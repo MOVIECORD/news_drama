@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-21T03:14:12.112Z</updated>
+    <updated>2024-09-21T04:14:40.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엄친아' 정소민, 잠든 정해인에 초밀착 터치 '달달함 한도초과']]></title>
+        <id>https://v.daum.net/v/20240921130004422</id>
+        <link href="https://v.daum.net/v/20240921130004422"/>
+        <updated>2024-09-21T04:14:31.438Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미녀와 순정남' 하반신 마비된 임수향, 이일화·윤유선 만났다]]></title>
         <id>https://v.daum.net/v/20240921114951863</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240921095453605"/>
         <updated>2024-09-21T00:55:30.638Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼시세끼' 임영웅, 등장하자마자 효과 제대로…시청률 11.4%]]></title>
-        <id>https://v.daum.net/v/20240921094350510</id>
-        <link href="https://v.daum.net/v/20240921094350510"/>
-        <updated>2024-09-21T00:55:30.640Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
