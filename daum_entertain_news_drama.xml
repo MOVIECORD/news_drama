@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-22T10:13:10.717Z</updated>
+    <updated>2024-09-22T11:09:43.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지옥에서 온 판사’ 김재영, 냉vs온 오가는 매력으로 시선 싹쓸이...‘여심 장악’]]></title>
+        <id>https://v.daum.net/v/20240922200305308</id>
+        <link href="https://v.daum.net/v/20240922200305308"/>
+        <updated>2024-09-22T11:09:35.147Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인♥정소민, 입맞춤 후 '1일차 커플'…"설레고 떨리는 쌍방 로맨스 예고"]]></title>
         <id>https://v.daum.net/v/20240922185327434</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240922153926147"/>
         <updated>2024-09-22T07:11:31.674Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다리미 피맬리’ 박지영→김현준, 쉬는 시간에도 열일모드... 28일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20240922153601107</id>
-        <link href="https://v.daum.net/v/20240922153601107"/>
-        <updated>2024-09-22T07:11:31.675Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
