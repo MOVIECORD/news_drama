@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-23T13:21:39.075Z</updated>
+    <updated>2024-09-23T14:12:56.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘혼외자’ 김영대, 신민아와 동시 해고...‘악플러’ 이상이, 한지현에 고백]]></title>
+        <id>https://v.daum.net/v/20240923230301056</id>
+        <link href="https://v.daum.net/v/20240923230301056"/>
+        <updated>2024-09-23T14:12:47.899Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원혁♥이수민, 결혼 5개월 만에 중대 발표 "예쁜 아이 생겼다"]]></title>
         <id>https://v.daum.net/v/20240923221400687</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240923194415462"/>
         <updated>2024-09-23T11:10:39.627Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여자 마동석"된 박신혜, 폭력적vs인과응보 '시끌'…장나라 자리 꿰찼는데]]></title>
-        <id>https://v.daum.net/v/20240923193150246</id>
-        <link href="https://v.daum.net/v/20240923193150246"/>
-        <updated>2024-09-23T11:10:39.634Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
