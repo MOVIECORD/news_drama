@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-23T20:14:51.629Z</updated>
+    <updated>2024-09-23T21:12:47.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고딩엄빠5' 이남희 "父 가정폭력 피해 12세 연상남 만나 19세에 임신"]]></title>
+        <id>https://v.daum.net/v/20240924060156611</id>
+        <link href="https://v.daum.net/v/20240924060156611"/>
+        <updated>2024-09-23T21:11:45.013Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나의 해리에게' 신혜선, 같은 사람 맞아? 연기차력 수준 1인 2역]]></title>
+        <id>https://v.daum.net/v/20240924054251355</id>
+        <link href="https://v.daum.net/v/20240924054251355"/>
+        <updated>2024-09-23T21:11:45.013Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 해리에게' 첫방, 신혜선이 신혜선이 아니다?]]></title>
         <id>https://v.daum.net/v/20240924000032444</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240923195503617"/>
         <updated>2024-09-23T11:10:39.622Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권화운, 임주은 가짜 임신 알았다... "당장 짐 싸서 나가" 분노]]></title>
-        <id>https://v.daum.net/v/20240923195432610</id>
-        <link href="https://v.daum.net/v/20240923195432610"/>
-        <updated>2024-09-23T11:10:39.623Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['용수정' 임주은, 유산 알게 된 권화운에 "박철민 죽인 것 알아" 협박]]></title>
-        <id>https://v.daum.net/v/20240923195340596</id>
-        <link href="https://v.daum.net/v/20240923195340596"/>
-        <updated>2024-09-23T11:10:39.626Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
