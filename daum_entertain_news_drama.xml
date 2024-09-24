@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-24T19:10:39.792Z</updated>
+    <updated>2024-09-24T20:14:23.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가난한 '캔디' 박신혜는 잊어줘..'눈눈이이' 무자비한 악마]]></title>
+        <id>https://v.daum.net/v/20240925044023815</id>
+        <link href="https://v.daum.net/v/20240925044023815"/>
+        <updated>2024-09-24T20:14:17.107Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신민아 "내 연애, 내 가정 깨트린 놈 박살낼 것"]]></title>
         <id>https://v.daum.net/v/20240924213001080</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240924191259209"/>
         <updated>2024-09-24T10:13:14.134Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조우진X지창욱 '강남 비-사이드', 부국제 예매 오픈 직후 GV 회차 매진 기록]]></title>
-        <id>https://v.daum.net/v/20240924183849212</id>
-        <link href="https://v.daum.net/v/20240924183849212"/>
-        <updated>2024-09-24T10:13:14.136Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
