@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T18:18:00.122Z</updated>
+    <updated>2024-09-25T20:15:18.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김용건, 여성 편력 폭로 나왔다.."배드신 있으면 껄떡거려" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240926045128748</id>
+        <link href="https://v.daum.net/v/20240926045128748"/>
+        <updated>2024-09-25T20:14:16.512Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["너 방송내면 죽여버린다"…김아영, 김용건과 몸싸움→변사체로 발견 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240925234145981</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240925190703989"/>
         <updated>2024-09-25T10:14:24.158Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["방송인으로 떳떳" 박찬욱→'첫 수상' 송강호, '서울드라마어워즈' 피날레 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240925190427913</id>
-        <link href="https://v.daum.net/v/20240925190427913"/>
-        <updated>2024-09-25T10:14:24.159Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
