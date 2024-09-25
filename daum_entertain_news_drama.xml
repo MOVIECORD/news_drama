@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-25T12:23:49.676Z</updated>
+    <updated>2024-09-25T13:22:25.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개소리' 이순재, '오줌테러→갑질' 2연타에 나락行..도피성 요양]]></title>
+        <id>https://v.daum.net/v/20240925221224205</id>
+        <link href="https://v.daum.net/v/20240925221224205"/>
+        <updated>2024-09-25T13:22:16.930Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 감독, 골든버그상…송강호·김혜윤·변우석 수상]]></title>
+        <id>https://v.daum.net/v/20240925212922612</id>
+        <link href="https://v.daum.net/v/20240925212922612"/>
+        <updated>2024-09-25T13:22:16.930Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스캔들' 납치된 한보름, 김규선에 복수 "파멸 선물할 것"]]></title>
         <id>https://v.daum.net/v/20240925205001984</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240925184511434"/>
         <updated>2024-09-25T10:14:24.164Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 부석순 ‘서울드라마어워즈’ ost상 수상… “좋은 영향 끼치는 가수 될 것”]]></title>
-        <id>https://v.daum.net/v/20240925183814307</id>
-        <link href="https://v.daum.net/v/20240925183814307"/>
-        <updated>2024-09-25T10:14:24.166Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저희도 시청자" 부석순, OST로 드라마 시상식 참석]]></title>
-        <id>https://v.daum.net/v/20240925183731293</id>
-        <link href="https://v.daum.net/v/20240925183731293"/>
-        <updated>2024-09-25T10:14:24.168Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
