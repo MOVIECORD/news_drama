@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T21:13:15.307Z</updated>
+    <updated>2024-09-25T22:13:05.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["수범이들 감사" 김혜윤X변우석, 다시 만났다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240926070002375</id>
+        <link href="https://v.daum.net/v/20240926070002375"/>
+        <updated>2024-09-25T22:12:03.426Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 대기 중인데 집에 보냈나…'SDA' 축하공연 황당 취소 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240926061003845</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240925212922612"/>
         <updated>2024-09-25T13:22:16.930Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스캔들' 납치된 한보름, 김규선에 복수 "파멸 선물할 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240925205001984</id>
-        <link href="https://v.daum.net/v/20240925205001984"/>
-        <updated>2024-09-25T12:23:40.017Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
