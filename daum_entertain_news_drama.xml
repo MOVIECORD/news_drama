@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-25T14:14:00.986Z</updated>
+    <updated>2024-09-25T15:14:06.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["너 방송내면 죽여버린다"…김아영, 김용건과 몸싸움→변사체로 발견]]></title>
+        <id>https://v.daum.net/v/20240925234145981</id>
+        <link href="https://v.daum.net/v/20240925234145981"/>
+        <updated>2024-09-25T15:13:57.436Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['개소리' 이순재, 노상방뇨 중 걸렸다…아이돌 '오줌테러범' 낙인]]></title>
+        <id>https://v.daum.net/v/20240925232815889</id>
+        <link href="https://v.daum.net/v/20240925232815889"/>
+        <updated>2024-09-25T15:13:57.436Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이순재, 아이돌에게 오줌 테러 후 갑질 배우로…조롱 망상→눈물까지]]></title>
+        <id>https://v.daum.net/v/20240925231537804</id>
+        <link href="https://v.daum.net/v/20240925231537804"/>
+        <updated>2024-09-25T15:13:57.448Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이순재 오줌테러, 김용건 여성편력 폭로..'개소리' 듣고 공조 시작]]></title>
         <id>https://v.daum.net/v/20240925224556590</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240925190427913"/>
         <updated>2024-09-25T10:14:24.159Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리미' 김정현 "아픔 드러내는 편 아냐, 즐거움 드리고 싶어"]]></title>
-        <id>https://v.daum.net/v/20240925190001796</id>
-        <link href="https://v.daum.net/v/20240925190001796"/>
-        <updated>2024-09-25T10:14:24.160Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS, 제27대 사장 공개 모집 "투명하고 공정하게 진행할 것"]]></title>
-        <id>https://v.daum.net/v/20240925185401652</id>
-        <link href="https://v.daum.net/v/20240925185401652"/>
-        <updated>2024-09-25T10:14:24.161Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 감독, 골든버그상 수상 "나도 방송인..떳떳이 받겠다"]]></title>
-        <id>https://v.daum.net/v/20240925185147597</id>
-        <link href="https://v.daum.net/v/20240925185147597"/>
-        <updated>2024-09-25T10:14:24.162Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
