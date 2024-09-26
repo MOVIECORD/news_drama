@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-26T13:21:45.248Z</updated>
+    <updated>2024-09-26T14:11:27.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박성웅, 몰카 찍다 적발→도망...김용건은 '너튜버 살인' 누명]]></title>
+        <id>https://v.daum.net/v/20240926231015343</id>
+        <link href="https://v.daum.net/v/20240926231015343"/>
+        <updated>2024-09-26T14:11:19.475Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김용건, 살인자 누명→경찰 조사..."나 어떻게 해" 멘붕]]></title>
         <id>https://v.daum.net/v/20240926221620537</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240926173144446</id>
         <link href="https://v.daum.net/v/20240926173144446"/>
         <updated>2024-09-26T09:13:36.184Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대세' 이시우, 김혜윤·로몬 만난다..'오늘부터 인간입니다만' 출연]]></title>
-        <id>https://v.daum.net/v/20240926170431220</id>
-        <link href="https://v.daum.net/v/20240926170431220"/>
-        <updated>2024-09-26T08:16:22.082Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
