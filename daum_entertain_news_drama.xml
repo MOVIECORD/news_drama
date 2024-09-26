@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-26T10:14:10.358Z</updated>
+    <updated>2024-09-26T11:11:57.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한채영, 진실 안 딸 김규선에 "그래 나 괴물이야"]]></title>
+        <id>https://v.daum.net/v/20240926200431312</id>
+        <link href="https://v.daum.net/v/20240926200431312"/>
+        <updated>2024-09-26T11:10:55.272Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘용감무쌍 용수정’ 양정아, 뺨 때린 이승연에 맞서며 “악귀!”]]></title>
+        <id>https://v.daum.net/v/20240926200013214</id>
+        <link href="https://v.daum.net/v/20240926200013214"/>
+        <updated>2024-09-26T11:10:55.272Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지연, 싱글맘 된다]]></title>
         <id>https://v.daum.net/v/20240926182924693</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240926164807532</id>
         <link href="https://v.daum.net/v/20240926164807532"/>
         <updated>2024-09-26T08:16:22.092Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥에서 온 판사' 김재영, 날렵한 액션…인생캐 경신]]></title>
-        <id>https://v.daum.net/v/20240926164800516</id>
-        <link href="https://v.daum.net/v/20240926164800516"/>
-        <updated>2024-09-26T08:16:22.093Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“수상하다 수상해”…박성웅, 연우 먼발치서 지켜보고 있다?]]></title>
-        <id>https://v.daum.net/v/20240926163414042</id>
-        <link href="https://v.daum.net/v/20240926163414042"/>
-        <updated>2024-09-26T08:16:22.094Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
