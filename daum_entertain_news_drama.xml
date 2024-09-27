@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-27T21:12:11.835Z</updated>
+    <updated>2024-09-27T22:12:07.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박신혜, 아동학대 가해자 처단 예고..."나쁜 어른 벌 받아야지"]]></title>
+        <id>https://v.daum.net/v/20240928063107101</id>
+        <link href="https://v.daum.net/v/20240928063107101"/>
+        <updated>2024-09-27T22:11:58.354Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예전만 못한 KBS 주말드라마, 이 갈고 나온 ‘다리미 패밀리’는 다를까]]></title>
+        <id>https://v.daum.net/v/20240928061520952</id>
+        <link href="https://v.daum.net/v/20240928061520952"/>
+        <updated>2024-09-27T22:11:58.355Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전여빈, 알고보니 시한부였다…힘든 투병생활에도 해피 바이러스]]></title>
         <id>https://v.daum.net/v/20240928054202493</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240927210330369"/>
         <updated>2024-09-27T12:23:37.315Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한보름, 반지 두고 한채영과 육탄전…김규선에 "최웅 포기 안 해" 선언]]></title>
-        <id>https://v.daum.net/v/20240927202700741</id>
-        <link href="https://v.daum.net/v/20240927202700741"/>
-        <updated>2024-09-27T12:23:37.318Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘용감무쌍 용수정’ 권화운, 전처 죽인 ‘살인자’ 이승연 실체에 충격]]></title>
-        <id>https://v.daum.net/v/20240927195424337</id>
-        <link href="https://v.daum.net/v/20240927195424337"/>
-        <updated>2024-09-27T11:11:19.981Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
