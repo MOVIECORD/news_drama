@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-27T19:11:14.909Z</updated>
+    <updated>2024-09-27T20:13:30.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘백설공주에게 죽음을-Black Out’  소름돋는 이가섭 정체, 한소은 시체 숨긴 범인이었다!]]></title>
+        <id>https://v.daum.net/v/20240928044529038</id>
+        <link href="https://v.daum.net/v/20240928044529038"/>
+        <updated>2024-09-27T20:13:20.259Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥 판사' 박신혜, 아동학대범에 "거짓말하면 나쁜 어른, 나쁜 어른은 벌 받아야 돼"]]></title>
         <id>https://v.daum.net/v/20240928015700793</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240927191301738"/>
         <updated>2024-09-27T10:13:44.275Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜, 아동학대 가해자 노린다]]></title>
-        <id>https://v.daum.net/v/20240927191205726</id>
-        <link href="https://v.daum.net/v/20240927191205726"/>
-        <updated>2024-09-27T10:13:44.277Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
