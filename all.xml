@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-29T10:12:14.831Z</updated>
+    <updated>2024-09-29T11:10:07.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박지영, ‘아픈 손가락’ 금새록 이상한 낌새 눈치챘나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20240929192707402</id>
+        <link href="https://v.daum.net/v/20240929192707402"/>
+        <updated>2024-09-29T11:09:48.038Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“최시원과 사랑한 죄?”…정인선, 이철우 살해 레이더에 걸렸다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20240929190002088</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240929152702376"/>
         <updated>2024-09-29T07:11:07.732Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄친아' 정소민, 정해인 사고 소식에 응급실 재회 "사랑해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240929145444786</id>
-        <link href="https://v.daum.net/v/20240929145444786"/>
-        <updated>2024-09-29T06:16:14.851Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
