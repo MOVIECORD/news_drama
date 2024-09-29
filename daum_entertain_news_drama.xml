@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-09-29T02:51:31.909Z</updated>
+    <updated>2024-09-29T03:22:48.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이순재, 건강 이상 딛고 이름값... 노상방뇨→물세례 완벽 소화]]></title>
+        <id>https://v.daum.net/v/20240929122024655</id>
+        <link href="https://v.daum.net/v/20240929122024655"/>
+        <updated>2024-09-29T03:21:46.361Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이순재, 건강 이상→여론 질타까지…곤두박질 연기도 일품]]></title>
+        <id>https://v.daum.net/v/20240929115134044</id>
+        <link href="https://v.daum.net/v/20240929115134044"/>
+        <updated>2024-09-29T03:21:46.362Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥에서 온 판사' 박신혜, 인간쓰레기 지옥 특급 배송…최고 13.1%]]></title>
         <id>https://v.daum.net/v/20240929114543957</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240929085255039"/>
         <updated>2024-09-29T01:02:39.200Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜, 교제폭력∙ 보험살인∙아동학대 인간쓰레기들 날렸다..최고 13.1%]]></title>
-        <id>https://v.daum.net/v/20240929084416923</id>
-        <link href="https://v.daum.net/v/20240929084416923"/>
-        <updated>2024-09-29T01:02:39.204Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인X정소민, ‘스릴 만점’ 아슬하고 설레는 비밀연애]]></title>
-        <id>https://v.daum.net/v/20240929083929887</id>
-        <link href="https://v.daum.net/v/20240929083929887"/>
-        <updated>2024-09-29T01:02:39.204Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
