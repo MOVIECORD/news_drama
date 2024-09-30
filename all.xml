@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-30T22:12:13.646Z</updated>
+    <updated>2024-09-30T23:12:45.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['손보싫' 신민아, ♥김영대 위탁아 정체 알고 분노→母 사망 소식에 '오열' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241001073005623</id>
+        <link href="https://v.daum.net/v/20241001073005623"/>
+        <updated>2024-09-30T23:12:36.426Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이렇게 힙했나"…'스테이지 파이터', 한국무용 오디션 시작 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241001070625437</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20240930205916072"/>
         <updated>2024-09-30T12:25:17.039Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최웅 독립선언에 김규선 "한보름 꼬임에...가스라이팅 당했다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20240930204430900</id>
-        <link href="https://v.daum.net/v/20240930204430900"/>
-        <updated>2024-09-30T12:25:17.041Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
