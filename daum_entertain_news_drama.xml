@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-01T12:25:22.860Z</updated>
+    <updated>2024-10-01T13:22:03.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["계산 없이 사랑해"…종영 '손보싫' 신민아♥김영대, 결혼반지 끼고 키스]]></title>
+        <id>https://v.daum.net/v/20241001215809196</id>
+        <link href="https://v.daum.net/v/20241001215809196"/>
+        <updated>2024-10-01T13:21:54.784Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['손보싫' 신민아, 헤어진 김영대와 재회…박시연과 연인으로 오해]]></title>
+        <id>https://v.daum.net/v/20241001213515979</id>
+        <link href="https://v.daum.net/v/20241001213515979"/>
+        <updated>2024-10-01T13:21:54.784Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신민아, 母 마지막 위탁아 김영대에 '이별' 통보 "너 이제 자유야"]]></title>
         <id>https://v.daum.net/v/20241001211019744</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241001170543653"/>
         <updated>2024-10-01T08:17:05.871Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거운 입소문 ‘나의 해리에게’, 신혜선‧이진욱, 아찔 키스신 공개]]></title>
-        <id>https://v.daum.net/v/20241001170108536</id>
-        <link href="https://v.daum.net/v/20241001170108536"/>
-        <updated>2024-10-01T08:17:05.872Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준혁vs박성웅 신경전 살벌하네]]></title>
-        <id>https://v.daum.net/v/20241001160938606</id>
-        <link href="https://v.daum.net/v/20241001160938606"/>
-        <updated>2024-10-01T07:14:13.830Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
