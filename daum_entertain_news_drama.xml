@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-02T22:13:50.373Z</updated>
+    <updated>2024-10-02T23:12:29.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유명 웹툰작가' 류해준 사망, 도끼로 살해..박성웅 시신 최초발견]]></title>
+        <id>https://v.daum.net/v/20241003081127584</id>
+        <link href="https://v.daum.net/v/20241003081127584"/>
+        <updated>2024-10-02T23:12:18.940Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘정년이’ 정지인 PD “김태리? 무엇을 상상하든 그 이상”]]></title>
+        <id>https://v.daum.net/v/20241003080520536</id>
+        <link href="https://v.daum.net/v/20241003080520536"/>
+        <updated>2024-10-02T23:12:18.958Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신민아 "남자친구 김우빈과 공개 연애, 부담스럽냐고요?"]]></title>
+        <id>https://v.daum.net/v/20241003080126512</id>
+        <link href="https://v.daum.net/v/20241003080126512"/>
+        <updated>2024-10-02T23:12:18.958Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['개소리' 김용건, 소속사 계약 파기당했다..대표 "더는 못해" 손절]]></title>
         <id>https://v.daum.net/v/20241003065016681</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241002191001849"/>
         <updated>2024-10-02T10:13:33.755Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘손해 보기 싫어서’ 신민아→김영대 종영소감 “모두가 손해 보지 않는 삶 살았으면”]]></title>
-        <id>https://v.daum.net/v/20241002185940473</id>
-        <link href="https://v.daum.net/v/20241002185940473"/>
-        <updated>2024-10-02T10:13:33.755Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나의 해리에게’ 신혜선, 집요한 카메라 시선 견디는 연기내공 ‘굿’]]></title>
-        <id>https://v.daum.net/v/20241002183056575</id>
-        <link href="https://v.daum.net/v/20241002183056575"/>
-        <updated>2024-10-02T10:13:33.756Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김태리가 한다고 해서"…라미란, '정년이' 향한 자부심]]></title>
-        <id>https://v.daum.net/v/20241002181911284</id>
-        <link href="https://v.daum.net/v/20241002181911284"/>
-        <updated>2024-10-02T10:13:33.758Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
