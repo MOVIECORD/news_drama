@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-02T09:14:55.636Z</updated>
+    <updated>2024-10-02T10:13:40.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정·이종원, 초밀착 '심쿵'…'취하는 로맨스'에 취한다]]></title>
+        <id>https://v.daum.net/v/20241002191001849</id>
+        <link href="https://v.daum.net/v/20241002191001849"/>
+        <updated>2024-10-02T10:13:33.755Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘손해 보기 싫어서’ 신민아→김영대 종영소감 “모두가 손해 보지 않는 삶 살았으면”]]></title>
+        <id>https://v.daum.net/v/20241002185940473</id>
+        <link href="https://v.daum.net/v/20241002185940473"/>
+        <updated>2024-10-02T10:13:33.755Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘나의 해리에게’ 신혜선, 집요한 카메라 시선 견디는 연기내공 ‘굿’]]></title>
+        <id>https://v.daum.net/v/20241002183056575</id>
+        <link href="https://v.daum.net/v/20241002183056575"/>
+        <updated>2024-10-02T10:13:33.756Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["김태리가 한다고 해서"…라미란, '정년이' 향한 자부심]]></title>
+        <id>https://v.daum.net/v/20241002181911284</id>
+        <link href="https://v.daum.net/v/20241002181911284"/>
+        <updated>2024-10-02T10:13:33.758Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['로투킹2' 원어스·크래비티·더크루원, 살벌한 에이스 배틀 예고]]></title>
         <id>https://v.daum.net/v/20241002180608985</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241002164405160"/>
         <updated>2024-10-02T08:17:12.375Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지드래곤, 유재석·조세호 만난다…'유퀴즈' 첫 출연]]></title>
-        <id>https://v.daum.net/v/20241002160840671</id>
-        <link href="https://v.daum.net/v/20241002160840671"/>
-        <updated>2024-10-02T07:12:09.133Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서인국, 첫 미국 팬미팅 투어 성료…글로벌 인기 실감]]></title>
-        <id>https://v.daum.net/v/20241002155151760</id>
-        <link href="https://v.daum.net/v/20241002155151760"/>
-        <updated>2024-10-02T07:12:09.133Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손보싫' 신민아 "욕설 연기 속시원…실제 모습은 아닙니다"]]></title>
-        <id>https://v.daum.net/v/20241002154854584</id>
-        <link href="https://v.daum.net/v/20241002154854584"/>
-        <updated>2024-10-02T07:12:09.134Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변요한 “살해 당한 심보영 유골 마주한 순간, 고정우와 내 경계 무너져”]]></title>
-        <id>https://v.daum.net/v/20241002154628469</id>
-        <link href="https://v.daum.net/v/20241002154628469"/>
-        <updated>2024-10-02T07:12:09.134Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
