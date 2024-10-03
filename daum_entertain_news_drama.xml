@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-03T08:16:39.838Z</updated>
+    <updated>2024-10-03T09:13:47.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엄친아' 정해인♥정소민, 마지막 인사 "알콩달콩 모습 즐겨주길"]]></title>
+        <id>https://v.daum.net/v/20241003174844958</id>
+        <link href="https://v.daum.net/v/20241003174844958"/>
+        <updated>2024-10-03T09:13:39.870Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김용건, 기억력 저하에 치매 의심..갑작스런 건강 이상]]></title>
+        <id>https://v.daum.net/v/20241003174341815</id>
+        <link href="https://v.daum.net/v/20241003174341815"/>
+        <updated>2024-10-03T09:13:39.870Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김대호 아나 홍제동 집 지붕, 잡초에 뒤덮였다]]></title>
         <id>https://v.daum.net/v/20241003161258392</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241003124001200"/>
         <updated>2024-10-03T04:15:44.572Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메소드 연기' 강찬희 "이동휘 선배의 팬, 열연에 배꼽 터지도록 웃어"]]></title>
-        <id>https://v.daum.net/v/20241003115001073</id>
-        <link href="https://v.daum.net/v/20241003115001073"/>
-        <updated>2024-10-03T03:18:28.003Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메소드 연기' 이동휘 "11년간 노하우 담은 코미디, 자서전 같은 작품"]]></title>
-        <id>https://v.daum.net/v/20241003113902859</id>
-        <link href="https://v.daum.net/v/20241003113902859"/>
-        <updated>2024-10-03T03:18:28.004Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
