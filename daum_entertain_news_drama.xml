@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-06T21:11:10.914Z</updated>
+    <updated>2024-10-06T22:11:26.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘엄마친구아들’ 정해인 “로코 첫 도전, 어느 때보다 많이 웃었다” 종영소감]]></title>
+        <id>https://v.daum.net/v/20241007070643640</id>
+        <link href="https://v.daum.net/v/20241007070643640"/>
+        <updated>2024-10-06T22:11:18.840Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['손보싫' 한지현 "♥이상이와 키스신 무섭고 걱정..멘탈 나가기도"]]></title>
+        <id>https://v.daum.net/v/20241007064000251</id>
+        <link href="https://v.daum.net/v/20241007064000251"/>
+        <updated>2024-10-06T22:11:18.841Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“너무 예뻐” 정소민 웨딩드레스 입고도 정해인 헤드록]]></title>
         <id>https://v.daum.net/v/20241007060613952</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241006223201886"/>
         <updated>2024-10-06T14:10:38.408Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄친아' 정해인, 웨딩드레스 입은 ♥정소민에 감탄…결혼 연기 '반전']]></title>
-        <id>https://v.daum.net/v/20241006221717752</id>
-        <link href="https://v.daum.net/v/20241006221717752"/>
-        <updated>2024-10-06T14:10:38.410Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["♥정소민, 외계인이어도 상관 없어" 정해인, '웨딩 콩깍지' 씌였네]]></title>
-        <id>https://v.daum.net/v/20241006220314634</id>
-        <link href="https://v.daum.net/v/20241006220314634"/>
-        <updated>2024-10-06T13:16:58.613Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
