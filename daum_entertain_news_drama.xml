@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-09T14:13:28.289Z</updated>
+    <updated>2024-10-09T15:12:45.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배현성, 정채연·황인엽과 가족 깨지나…친부 이종혁 만나 당황]]></title>
+        <id>https://v.daum.net/v/20241009235251332</id>
+        <link href="https://v.daum.net/v/20241009235251332"/>
+        <updated>2024-10-09T15:12:36.641Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우린 스페셜해" 정채연, 황인엽·배현성과 당당한 한 가족‥눈 희번득 돌아이 연기?]]></title>
         <id>https://v.daum.net/v/20241009225913037</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241009193745290"/>
         <updated>2024-10-09T11:10:59.765Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황인엽·정채연·배현성, 10년째 붙어 다닌 '조립' 썰 푼다]]></title>
-        <id>https://v.daum.net/v/20241009185801725</id>
-        <link href="https://v.daum.net/v/20241009185801725"/>
-        <updated>2024-10-09T10:14:12.439Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
