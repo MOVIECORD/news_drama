@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-09T19:10:52.077Z</updated>
+    <updated>2024-10-09T20:13:51.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정소민, 위암 알고 있었다…"의아하단 반응 이해해"]]></title>
+        <id>https://v.daum.net/v/20241010050602755</id>
+        <link href="https://v.daum.net/v/20241010050602755"/>
+        <updated>2024-10-09T20:13:43.702Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤계상 "불의의 피해 겪은 분들 외면하는 일이 가장 무서운 것 같아"]]></title>
         <id>https://v.daum.net/v/20241010011925962</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241009195130410"/>
         <updated>2024-10-09T11:10:59.764Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘비밀의 숲’ 스핀오프 ‘좋거나 나쁜 동재’, 내일 첫 공개…”이준혁, 서동재 그 자체”]]></title>
-        <id>https://v.daum.net/v/20241009194855387</id>
-        <link href="https://v.daum.net/v/20241009194855387"/>
-        <updated>2024-10-09T11:10:59.764Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
