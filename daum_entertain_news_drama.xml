@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-10T10:13:57.865Z</updated>
+    <updated>2024-10-10T11:11:42.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["악마 딸 맞네" 임주은, 父 이승연에 팔아넘기고 배신당해]]></title>
+        <id>https://v.daum.net/v/20241010201000467</id>
+        <link href="https://v.daum.net/v/20241010201000467"/>
+        <updated>2024-10-10T11:11:32.824Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘용수정’ 엄현경, 임주은에 이승연 악행 폭로 “父 공정환 납치됐어”]]></title>
+        <id>https://v.daum.net/v/20241010200651388</id>
+        <link href="https://v.daum.net/v/20241010200651388"/>
+        <updated>2024-10-10T11:11:32.825Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['느그 동재' 아닌 '우리 동재' 이야기…얄밉거나 짠내 나거나]]></title>
         <id>https://v.daum.net/v/20241010183003575</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241010173821538"/>
         <updated>2024-10-10T09:14:01.815Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC 20기 탤런트 한석규, 전속계약서 품고 '이친자'로 친정 귀환]]></title>
-        <id>https://v.daum.net/v/20241010173550465</id>
-        <link href="https://v.daum.net/v/20241010173550465"/>
-        <updated>2024-10-10T09:14:01.822Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정년이', 편성 갈등→퀴어 삭제했지만 "여성서사 그대로"]]></title>
-        <id>https://v.daum.net/v/20241010173002266</id>
-        <link href="https://v.daum.net/v/20241010173002266"/>
-        <updated>2024-10-10T09:14:01.825Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
