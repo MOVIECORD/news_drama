@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-12T10:12:20.897Z</updated>
+    <updated>2024-10-12T11:11:05.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정숙한 세일즈' 오늘 첫 방송…믿고 보는 세일즈 포인트 '셋']]></title>
+        <id>https://v.daum.net/v/20241012200105494</id>
+        <link href="https://v.daum.net/v/20241012200105494"/>
+        <updated>2024-10-12T11:10:58.434Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘지옥에서 온 판사’ 김인권, 악마 연기도 코믹스럽게]]></title>
+        <id>https://v.daum.net/v/20241012200102490</id>
+        <link href="https://v.daum.net/v/20241012200102490"/>
+        <updated>2024-10-12T11:10:58.436Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박신혜, 타격감 無 죄인 차단..사이다 끝판왕]]></title>
         <id>https://v.daum.net/v/20241012180500517</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20241012155444841</id>
         <link href="https://v.daum.net/v/20241012155444841"/>
         <updated>2024-10-12T07:10:56.407Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥에서 온 판사' 박신혜, 오의식 골프채 처단…사이다 예고]]></title>
-        <id>https://v.daum.net/v/20241012154026724</id>
-        <link href="https://v.daum.net/v/20241012154026724"/>
-        <updated>2024-10-12T07:10:56.407Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사당귀' 박명수, '흑백요리사' 인기에…"정지선=스타셰프"]]></title>
-        <id>https://v.daum.net/v/20241012152521566</id>
-        <link href="https://v.daum.net/v/20241012152521566"/>
-        <updated>2024-10-12T07:10:56.408Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
