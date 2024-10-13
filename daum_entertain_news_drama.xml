@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-13T14:12:00.011Z</updated>
+    <updated>2024-10-13T15:12:21.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황인엽·정채연·배현성의 꼬마 버전, 무해한 비하인드 영상]]></title>
+        <id>https://v.daum.net/v/20241014000018165</id>
+        <link href="https://v.daum.net/v/20241014000018165"/>
+        <updated>2024-10-13T15:12:12.324Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['정숙한 세일즈' 김소연, 최재림♥홍지희 불륜에 복수 성공…연우진, 수상한 정체]]></title>
+        <id>https://v.daum.net/v/20241013235400119</id>
+        <link href="https://v.daum.net/v/20241013235400119"/>
+        <updated>2024-10-13T15:12:12.329Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정숙한 세일즈' 김소연, 남편 최재림 불륜 목격…만취해 연우진에 하소연]]></title>
         <id>https://v.daum.net/v/20241013225221795</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241013212926023"/>
         <updated>2024-10-13T13:18:43.442Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금새록, 실명치료 결국 포기..양혜지에 막말까지 들어 "너와의 시간은 감옥"]]></title>
-        <id>https://v.daum.net/v/20241013212402986</id>
-        <link href="https://v.daum.net/v/20241013212402986"/>
-        <updated>2024-10-13T13:18:43.443Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리미 패밀리' 금새록, 치료비 8억에 수술 포기→김정현과 로맨스 급물살]]></title>
-        <id>https://v.daum.net/v/20241013212222974</id>
-        <link href="https://v.daum.net/v/20241013212222974"/>
-        <updated>2024-10-13T13:18:43.443Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
