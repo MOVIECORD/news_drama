@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-14T08:17:49.450Z</updated>
+    <updated>2024-10-14T09:14:26.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안예슬X주원탁, 이승기 '결혼해줄래'로 '결혼하자 맹꽁아!' OST 부른다]]></title>
+        <id>https://v.daum.net/v/20241014174738407</id>
+        <link href="https://v.daum.net/v/20241014174738407"/>
+        <updated>2024-10-14T09:14:17.388Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수령인' 조준영, 존재감 빛났다…눈물부터 분노까지 '감정 열연']]></title>
+        <id>https://v.daum.net/v/20241014172641627</id>
+        <link href="https://v.daum.net/v/20241014172641627"/>
+        <updated>2024-10-14T09:14:17.390Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정숙한 세일즈' 김소연→이세희, 편견을 말하다..최고 5.6%]]></title>
         <id>https://v.daum.net/v/20241014171430128</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241014162036003"/>
         <updated>2024-10-14T08:17:41.138Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태준, 설렘 유발 등목에 따뜻한 오빠美까지]]></title>
-        <id>https://v.daum.net/v/20241014161725886</id>
-        <link href="https://v.daum.net/v/20241014161725886"/>
-        <updated>2024-10-14T08:17:41.139Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란·정은채, '나래식' 출격…박나래 "예능 생각 없나"]]></title>
-        <id>https://v.daum.net/v/20241014161440775</id>
-        <link href="https://v.daum.net/v/20241014161440775"/>
-        <updated>2024-10-14T08:17:41.142Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
