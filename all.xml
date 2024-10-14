@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-14T11:11:47.044Z</updated>
+    <updated>2024-10-14T12:25:09.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이연두, 김사권 프러포즈에도 정색 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241014201518507</id>
+        <link href="https://v.daum.net/v/20241014201518507"/>
+        <updated>2024-10-14T12:25:01.569Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소연, 남편 불륜 목격했다…절친과 외도에 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241014200108148</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241014165940458"/>
         <updated>2024-10-14T08:17:41.121Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명불허전 김태리의 아우라, '정년이'에 흠뻑 빠져드는 이유 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241014165204153</id>
-        <link href="https://v.daum.net/v/20241014165204153"/>
-        <updated>2024-10-14T08:17:41.121Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
