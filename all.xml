@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-15T16:16:15.640Z</updated>
+    <updated>2024-10-15T17:12:45.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[강미나·최리, ‘두집 살림’ 하준 두고 우정과 전쟁 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241016020017687</id>
+        <link href="https://v.daum.net/v/20241016020017687"/>
+        <updated>2024-10-15T17:12:38.067Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민기·한지현 뭉쳤다…‘페이스미’ 2차 티저 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241016000018874</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241015172003696"/>
         <updated>2024-10-15T09:13:30.430Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고딩엄빠5' 조아라 "전과자 남편과 열애 중 바람핀 것 세번 들켰다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241015170726130</id>
-        <link href="https://v.daum.net/v/20241015170726130"/>
-        <updated>2024-10-15T08:17:13.418Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
