@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-15T14:12:49.879Z</updated>
+    <updated>2024-10-15T15:13:15.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민기·한지현 뭉쳤다…‘페이스미’ 2차 티저]]></title>
+        <id>https://v.daum.net/v/20241016000018874</id>
+        <link href="https://v.daum.net/v/20241016000018874"/>
+        <updated>2024-10-15T15:13:07.112Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세영♥사카구치 켄타로 만남 통했다... '사랑 후에 오는 것들' 亞 4개국 톱5 등극]]></title>
+        <id>https://v.daum.net/v/20241015233530612</id>
+        <link href="https://v.daum.net/v/20241015233530612"/>
+        <updated>2024-10-15T15:13:07.112Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종원, 시골行 택한 이유 있었네…주류업체 대표 됐다]]></title>
         <id>https://v.daum.net/v/20241015222002480</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241015170726130"/>
         <updated>2024-10-15T08:17:13.418Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김태리 母' 문소리 정체 뭘까?…'정년이' 서사 가득 채운 열연]]></title>
-        <id>https://v.daum.net/v/20241015170114821</id>
-        <link href="https://v.daum.net/v/20241015170114821"/>
-        <updated>2024-10-15T08:17:13.419Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱 “‘강매강’ 배우 중 내가 제일 웃겨…내 유머에 중독된 지인 많아”]]></title>
-        <id>https://v.daum.net/v/20241015165944686</id>
-        <link href="https://v.daum.net/v/20241015165944686"/>
-        <updated>2024-10-15T08:17:13.420Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
