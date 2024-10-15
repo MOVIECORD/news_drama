@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-15T10:15:08.452Z</updated>
+    <updated>2024-10-15T11:11:21.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서준영, 권화운에 엄현경 향한 순애보 고백 "그 사람 다치는 거 못 봐"]]></title>
+        <id>https://v.daum.net/v/20241015195030242</id>
+        <link href="https://v.daum.net/v/20241015195030242"/>
+        <updated>2024-10-15T11:11:12.244Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돌싱글즈6', 드디어 직업·나이 정보공개…의사 등장? "사람 살리는 직업"]]></title>
         <id>https://v.daum.net/v/20241015190243907</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241015165508467"/>
         <updated>2024-10-15T08:17:13.428Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['틈만 나면', 야구 중계로 편성 연기…22일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20241015164654071</id>
-        <link href="https://v.daum.net/v/20241015164654071"/>
-        <updated>2024-10-15T08:17:13.430Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
