@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-15T11:11:21.303Z</updated>
+    <updated>2024-10-15T12:24:20.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김사권 "네 잘나고 위선적인 비혼주의, 곧 금갈 것" 이연두에 일침]]></title>
+        <id>https://v.daum.net/v/20241015210000103</id>
+        <link href="https://v.daum.net/v/20241015210000103"/>
+        <updated>2024-10-15T12:24:11.485Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['용수정' 이승연 건강 이상? 권화운, 의미심장한 표정]]></title>
+        <id>https://v.daum.net/v/20241015201449812</id>
+        <link href="https://v.daum.net/v/20241015201449812"/>
+        <updated>2024-10-15T12:24:11.491Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서준영, 권화운에 엄현경 향한 순애보 고백 "그 사람 다치는 거 못 봐"]]></title>
         <id>https://v.daum.net/v/20241015195030242</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241015165748604"/>
         <updated>2024-10-15T08:17:13.423Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스나이퍼→사격 섭렵한 서현우 “총기액션 로망 꽃피워, 이제 활쏴야 하나”]]></title>
-        <id>https://v.daum.net/v/20241015165607514</id>
-        <link href="https://v.daum.net/v/20241015165607514"/>
-        <updated>2024-10-15T08:17:13.424Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 전 남친 이진욱 결혼 소식에 멘붕]]></title>
-        <id>https://v.daum.net/v/20241015165508467</id>
-        <link href="https://v.daum.net/v/20241015165508467"/>
-        <updated>2024-10-15T08:17:13.428Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
