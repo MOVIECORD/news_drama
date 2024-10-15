@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-15T09:13:38.604Z</updated>
+    <updated>2024-10-15T10:15:08.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['돌싱글즈6', 드디어 직업·나이 정보공개…의사 등장? "사람 살리는 직업" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241015190243907</id>
+        <link href="https://v.daum.net/v/20241015190243907"/>
+        <updated>2024-10-15T10:14:59.500Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조나단X파트리샤, 유병재와 한솥밥…블랙페이퍼와 전속계약 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241015181125505</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241015164654071"/>
         <updated>2024-10-15T08:17:13.430Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강상준, ♥신혜선과 키스까지 했지만…짝사랑 관뒀다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241015164141750</id>
-        <link href="https://v.daum.net/v/20241015164141750"/>
-        <updated>2024-10-15T08:17:13.432Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
