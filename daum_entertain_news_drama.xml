@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-16T22:12:49.185Z</updated>
+    <updated>2024-10-16T23:12:55.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정년이' 김태리, 소리 잘하는 흙감자]]></title>
+        <id>https://v.daum.net/v/20241017080806666</id>
+        <link href="https://v.daum.net/v/20241017080806666"/>
+        <updated>2024-10-16T23:12:47.876Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이순재, 비밀 공개→실종된 예수정 아들 찾아]]></title>
+        <id>https://v.daum.net/v/20241017074549237</id>
+        <link href="https://v.daum.net/v/20241017074549237"/>
+        <updated>2024-10-16T23:12:47.877Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['힙합대세' 폴 블랑코, '나의 해리에게' 마지막 장식..강훈 마음 전한다]]></title>
+        <id>https://v.daum.net/v/20241017074059164</id>
+        <link href="https://v.daum.net/v/20241017074059164"/>
+        <updated>2024-10-16T23:12:47.877Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최무성, 가족 버리고 10년만에 나타난 전처와 만났다]]></title>
+        <id>https://v.daum.net/v/20241017073853133</id>
+        <link href="https://v.daum.net/v/20241017073853133"/>
+        <updated>2024-10-16T23:12:47.878Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["버릴 땐 언제고" 최무성, 가족 버린 전처 만났다]]></title>
+        <id>https://v.daum.net/v/20241017072546961</id>
+        <link href="https://v.daum.net/v/20241017072546961"/>
+        <updated>2024-10-16T23:12:47.879Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['89세' 이순재, '시니어벤져스' 예수정 위해 나섰다]]></title>
         <id>https://v.daum.net/v/20241017064523351</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20241017052501443"/>
         <updated>2024-10-16T21:12:27.269Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스캔들' 최웅, 한채영 거짓말에 분노 "前여친 한보름 탓하지 마"]]></title>
-        <id>https://v.daum.net/v/20241016203848706</id>
-        <link href="https://v.daum.net/v/20241016203848706"/>
-        <updated>2024-10-16T12:23:55.440Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이깟 돈"... 한보름, 한채영 돈자랑에 8억 돈다발 뿌렸다]]></title>
-        <id>https://v.daum.net/v/20241016203144607</id>
-        <link href="https://v.daum.net/v/20241016203144607"/>
-        <updated>2024-10-16T12:23:55.440Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배현성, 황인엽에 주먹 날렸다… 다툼에 유혈 사태까지]]></title>
-        <id>https://v.daum.net/v/20241016200743265</id>
-        <link href="https://v.daum.net/v/20241016200743265"/>
-        <updated>2024-10-16T11:11:07.837Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘용수정’ 서준영, 뇌종양 악화로 실신…엄현경 결국 눈물]]></title>
-        <id>https://v.daum.net/v/20241016195700123</id>
-        <link href="https://v.daum.net/v/20241016195700123"/>
-        <updated>2024-10-16T11:11:07.839Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄현경, 서준영 시한부 투병 알았다.. "눈물"]]></title>
-        <id>https://v.daum.net/v/20241016194800018</id>
-        <link href="https://v.daum.net/v/20241016194800018"/>
-        <updated>2024-10-16T11:11:07.847Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
