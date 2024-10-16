@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-16T04:16:44.703Z</updated>
+    <updated>2024-10-16T05:13:58.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[심이영 송창의 최정윤 대본리딩 현장, 첫만남부터 시너지 폭발 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241016141141936</id>
+        <link href="https://v.daum.net/v/20241016141141936"/>
+        <updated>2024-10-16T05:13:46.457Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박신혜 화제성 1위…'지옥에서 온 판사' 측 "9·10회 80분 확대 편성" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241016130105908</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241016110215032"/>
         <updated>2024-10-16T02:19:20.610Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘취하는 로맨스’ 김세정·이종원, ‘상큼한 커플’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241016105303522</id>
-        <link href="https://v.daum.net/v/20241016105303522"/>
-        <updated>2024-10-16T02:19:20.612Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
