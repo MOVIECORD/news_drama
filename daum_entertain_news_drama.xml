@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-17T09:13:48.241Z</updated>
+    <updated>2024-10-17T10:14:43.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전배수, 타고난 금수저였다…여배우 전문 父에서 벗어나 성형외과 대표원장으로]]></title>
+        <id>https://v.daum.net/v/20241017190902910</id>
+        <link href="https://v.daum.net/v/20241017190902910"/>
+        <updated>2024-10-17T10:13:41.100Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대장이 반찬' 김대호X이장우, 새 예능 출격…'나혼산' 프랜차이즈 IP]]></title>
+        <id>https://v.daum.net/v/20241017182130637</id>
+        <link href="https://v.daum.net/v/20241017182130637"/>
+        <updated>2024-10-17T10:13:41.108Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박성웅, 깡소주 마시더니 비관해 돌발 행동]]></title>
         <id>https://v.daum.net/v/20241017175616266</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241017164034931"/>
         <updated>2024-10-17T08:16:45.723Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 강나언→최건 손동표 ‘0교시는 인싸타임’ 대본 리딩 현장 공개]]></title>
-        <id>https://v.daum.net/v/20241017162918412</id>
-        <link href="https://v.daum.net/v/20241017162918412"/>
-        <updated>2024-10-17T08:16:45.723Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘개소리’ 박성웅, 갈등 끝 돌발행동 하나…위기상황서 연우 등장]]></title>
-        <id>https://v.daum.net/v/20241017162744365</id>
-        <link href="https://v.daum.net/v/20241017162744365"/>
-        <updated>2024-10-17T08:16:45.728Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
