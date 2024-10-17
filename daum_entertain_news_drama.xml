@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-17T19:12:13.662Z</updated>
+    <updated>2024-10-17T20:15:06.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘35세’ 이이경, ‘나솔’ MC 하더니 “결혼이고 나발이고 신경 쓸 겨를 없다”]]></title>
+        <id>https://v.daum.net/v/20241018050545325</id>
+        <link href="https://v.daum.net/v/20241018050545325"/>
+        <updated>2024-10-17T20:14:03.953Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤아 앓이는 쭉~계속..스타랭킹 2위]]></title>
         <id>https://v.daum.net/v/20241017214149958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241017165345514"/>
         <updated>2024-10-17T08:16:45.719Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나솔사계' 19기 영숙, 모태솔로 탈출?…21기 영수에 폭풍 직진]]></title>
-        <id>https://v.daum.net/v/20241017165328502</id>
-        <link href="https://v.daum.net/v/20241017165328502"/>
-        <updated>2024-10-17T08:16:45.719Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
