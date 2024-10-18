@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-18T21:13:40.549Z</updated>
+    <updated>2024-10-18T22:12:14.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈물 흘린 박신혜, 김재영 향한 마음 부정..."사랑? 개소리"]]></title>
+        <id>https://v.daum.net/v/20241019064003411</id>
+        <link href="https://v.daum.net/v/20241019064003411"/>
+        <updated>2024-10-18T22:12:07.790Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재영, 박신혜와 점점 가까워져..“날 걱정해주는 눈빛 좋아”]]></title>
+        <id>https://v.daum.net/v/20241019062452193</id>
+        <link href="https://v.daum.net/v/20241019062452193"/>
+        <updated>2024-10-18T22:12:07.797Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘예비 초1’ 금쪽, 유치원 등원 거부..오은영 “이유=쪽팔려서”]]></title>
         <id>https://v.daum.net/v/20241019060153838</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241018221613437"/>
         <updated>2024-10-18T13:20:50.706Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜X김재영 어떡하나…김아영, 광기 어린 눈빛]]></title>
-        <id>https://v.daum.net/v/20241018213143767</id>
-        <link href="https://v.daum.net/v/20241018213143767"/>
-        <updated>2024-10-18T13:20:50.707Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘용수정’ 서준영, 오열하는 엄현경 안으며 “안 죽고 버틸게”]]></title>
-        <id>https://v.daum.net/v/20241018211022475</id>
-        <link href="https://v.daum.net/v/20241018211022475"/>
-        <updated>2024-10-18T12:23:03.771Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
