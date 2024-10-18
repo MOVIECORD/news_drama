@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-18T15:13:21.397Z</updated>
+    <updated>2024-10-18T16:16:30.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지옥 판사' 천사, 박신혜에 "김재영 지킬 수 있는 건 너뿐"…박신혜, 목숨 걸고 김재영 지킬까?]]></title>
+        <id>https://v.daum.net/v/20241019005700694</id>
+        <link href="https://v.daum.net/v/20241019005700694"/>
+        <updated>2024-10-18T16:15:28.332Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이토록 친밀한 배신자’ 한석규, ‘연쇄살인 증거’ 채원빈 이름 댈까?]]></title>
+        <id>https://v.daum.net/v/20241019001824403</id>
+        <link href="https://v.daum.net/v/20241019001824403"/>
+        <updated>2024-10-18T16:15:28.333Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['괴팍 할매' 김영옥, 가브리엘 대천사였다… "한다온 지켜달라" 당부]]></title>
         <id>https://v.daum.net/v/20241018231900992</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241018202402761"/>
         <updated>2024-10-18T12:23:03.771Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄현경, ♥서준영 병 숨긴 권화운 원망 "의리가 아냐"]]></title>
-        <id>https://v.daum.net/v/20241018195346292</id>
-        <link href="https://v.daum.net/v/20241018195346292"/>
-        <updated>2024-10-18T11:11:22.010Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄현경, 뇌종양 숨긴 서준영에 원망+자책 "너 죽고 미치라고? 못 보내"]]></title>
-        <id>https://v.daum.net/v/20241018195330289</id>
-        <link href="https://v.daum.net/v/20241018195330289"/>
-        <updated>2024-10-18T11:11:22.011Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
