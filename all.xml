@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T21:12:02.640Z</updated>
+    <updated>2024-10-21T22:12:03.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유아인 없는 '지옥2' 전편만한 속편 없다 편견 완전히 깼다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241022070158474</id>
+        <link href="https://v.daum.net/v/20241022070158474"/>
+        <updated>2024-10-21T22:11:55.795Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소연→김선영, 금기 깬 여성들…‘정숙한 세일즈’ 상승세 탔다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241022060511708</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241021175543509"/>
         <updated>2024-10-21T09:14:35.826Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 선뵈는 '지옥2' ···더 혼잡해진 세상에 대한 장르적 풍자 압권 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241021175248411</id>
-        <link href="https://v.daum.net/v/20241021175248411"/>
-        <updated>2024-10-21T09:14:35.829Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
