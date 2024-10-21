@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T10:14:41.520Z</updated>
+    <updated>2024-10-21T11:12:27.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연우진-김소연, 첫 만남에 성인용품…어쩌다 응원하는 사이 됐나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241021192301931</id>
+        <link href="https://v.daum.net/v/20241021192301931"/>
+        <updated>2024-10-21T11:12:20.513Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥2', 연상호 감독 "김성철 에너지 어마어마해… 시즌2 흥미느끼실 것" 자신감 피력 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241021184748195</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241021171128896"/>
         <updated>2024-10-21T08:17:46.124Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘수령인’ 류경수, 냉온 오가는 ’섬뜩한 카리스마’..진짜 사채업자인 줄 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241021170448564</id>
-        <link href="https://v.daum.net/v/20241021170448564"/>
-        <updated>2024-10-21T08:17:46.125Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
