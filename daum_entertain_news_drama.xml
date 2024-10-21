@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-21T14:12:38.625Z</updated>
+    <updated>2024-10-21T15:14:09.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이제 혼자다' 율희 양육권 포기 이유는…최민환과 이혼 후 첫 독립 일상]]></title>
+        <id>https://v.daum.net/v/20241022000010433</id>
+        <link href="https://v.daum.net/v/20241022000010433"/>
+        <updated>2024-10-21T15:13:55.242Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이연두, 김사권에 박하나 치워버리겠다 협박 "인턴 따위가 대들어"]]></title>
         <id>https://v.daum.net/v/20241021210447180</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241021175125362"/>
         <updated>2024-10-21T09:14:35.829Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선, 모든 프로그램 하차…이진욱→강훈 한자리 모였다]]></title>
-        <id>https://v.daum.net/v/20241021174355119</id>
-        <link href="https://v.daum.net/v/20241021174355119"/>
-        <updated>2024-10-21T09:14:35.831Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
