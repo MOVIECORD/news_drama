@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-23T20:15:13.479Z</updated>
+    <updated>2024-10-23T21:12:18.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배인혁 "첫 일본 팬미팅, 긴장되고 설레"… 플링크 매거진 인터뷰]]></title>
+        <id>https://v.daum.net/v/20241024060157914</id>
+        <link href="https://v.daum.net/v/20241024060157914"/>
+        <updated>2024-10-23T21:12:10.115Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박하나, 박상남에 신신당부 "김사권에 동거 사실 비밀"]]></title>
         <id>https://v.daum.net/v/20241023212153880</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241023172726502"/>
         <updated>2024-10-23T09:13:41.027Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스티븐 연은 어디에?" 넷플릭스, 오스카 아이작→캐리 멀리건 '성난 사람들' 시즌2 합류 발표]]></title>
-        <id>https://v.daum.net/v/20241023170241190</id>
-        <link href="https://v.daum.net/v/20241023170241190"/>
-        <updated>2024-10-23T08:17:05.506Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
