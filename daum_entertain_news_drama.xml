@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-24T11:11:00.915Z</updated>
+    <updated>2024-10-24T12:25:02.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘용수정’ 공정환, 이승연에 청혼 “나만큼 당신 위해주는 사람 없어”]]></title>
+        <id>https://v.daum.net/v/20241024203632305</id>
+        <link href="https://v.daum.net/v/20241024203632305"/>
+        <updated>2024-10-24T12:24:00.927Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한채영, 친자인 최웅 월드스타로 키울 야심→딸 김규선에 "발목 잡고 싶나"]]></title>
+        <id>https://v.daum.net/v/20241024202700138</id>
+        <link href="https://v.daum.net/v/20241024202700138"/>
+        <updated>2024-10-24T12:24:00.927Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승연, '살인 추궁' 권화운에 "너대신 청소해 준 것...나 없이 못 살아"]]></title>
         <id>https://v.daum.net/v/20241024195651490</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241024170212680"/>
         <updated>2024-10-24T08:17:00.959Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태형, '모텔 캘리포니아' 주연 합류···이세영·나인우와 호흡]]></title>
-        <id>https://v.daum.net/v/20241024170150660</id>
-        <link href="https://v.daum.net/v/20241024170150660"/>
-        <updated>2024-10-24T08:17:00.960Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커리어우먼과 토스트트럭 주인의 만남…신도현X백성철 '상극 케미']]></title>
-        <id>https://v.daum.net/v/20241024165940529</id>
-        <link href="https://v.daum.net/v/20241024165940529"/>
-        <updated>2024-10-24T08:17:00.962Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
