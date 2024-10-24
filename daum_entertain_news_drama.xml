@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-24T13:22:02.630Z</updated>
+    <updated>2024-10-24T14:13:41.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하나-김사권, 본격 '썸' 타나... "며느리 프리패스상", "장모님이라 부를 것"]]></title>
+        <id>https://v.daum.net/v/20241024225300475</id>
+        <link href="https://v.daum.net/v/20241024225300475"/>
+        <updated>2024-10-24T14:12:39.422Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한석규, 분노의 멱살잡이 포착]]></title>
         <id>https://v.daum.net/v/20241024215005499</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241024172839717"/>
         <updated>2024-10-24T09:13:26.923Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김태형, 모태 재벌인데 자수성가까지…리얼 영앤리치]]></title>
-        <id>https://v.daum.net/v/20241024171521213</id>
-        <link href="https://v.daum.net/v/20241024171521213"/>
-        <updated>2024-10-24T08:17:00.958Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
