@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-25T10:14:13.427Z</updated>
+    <updated>2024-10-25T11:11:18.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개소리' 연우, 인간 비타민 등극! 긍정 에너지+웃음 선사]]></title>
+        <id>https://v.daum.net/v/20241025194743340</id>
+        <link href="https://v.daum.net/v/20241025194743340"/>
+        <updated>2024-10-25T11:11:11.595Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥에서 온 판사' 악마 능력 잃은 박신혜..피 흘리며 실신 '위기']]></title>
+        <id>https://v.daum.net/v/20241025193253977</id>
+        <link href="https://v.daum.net/v/20241025193253977"/>
+        <updated>2024-10-25T11:11:11.596Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한석규 '이친자', 오늘 결방..한국시리즈 3차전 중계 여파]]></title>
         <id>https://v.daum.net/v/20241025190803288</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241025165801693"/>
         <updated>2024-10-25T08:16:44.265Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피 철철' 박신혜, 최동구와 일촉즉발 대치 '긴장감 폭발']]></title>
-        <id>https://v.daum.net/v/20241025165220541</id>
-        <link href="https://v.daum.net/v/20241025165220541"/>
-        <updated>2024-10-25T08:16:44.269Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석, 걸그룹 출신 女배우 길들이기…애증의 최애]]></title>
-        <id>https://v.daum.net/v/20241025164518281</id>
-        <link href="https://v.daum.net/v/20241025164518281"/>
-        <updated>2024-10-25T08:16:44.271Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
