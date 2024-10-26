@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-26T19:09:58.193Z</updated>
+    <updated>2024-10-26T20:13:06.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["김수미 기억하며 보내줘"…故 김수미, 오늘 발인 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241027050750311</id>
+        <link href="https://v.daum.net/v/20241027050750311"/>
+        <updated>2024-10-26T20:12:57.332Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥 판사' 김재영, 연쇄살인마 J 잡았다…박신혜, 이규한 처단하고 지옥으로 돌아갈까? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241027040600002</id>
@@ -100,13 +107,6 @@
         <id>https://v.daum.net/v/20241026224343847</id>
         <link href="https://v.daum.net/v/20241026224343847"/>
         <updated>2024-10-26T14:11:13.406Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["명복 빌어야 되니?" 박신혜, 최동구와 손잡고 김홍파·이규한 속였다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241026224131834</id>
-        <link href="https://v.daum.net/v/20241026224131834"/>
-        <updated>2024-10-26T14:11:13.411Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
