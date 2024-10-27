@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-27T08:16:53.757Z</updated>
+    <updated>2024-10-27T09:12:43.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리, 왜 ‘군졸1’ 단역에서도 주인공처럼 빛났나…‘자명고’ 무대 후끈]]></title>
+        <id>https://v.daum.net/v/20241027172104210</id>
+        <link href="https://v.daum.net/v/20241027172104210"/>
+        <updated>2024-10-27T09:12:35.179Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신현준, 친아들 최태준 만났다…유전자 검사 진행하나]]></title>
         <id>https://v.daum.net/v/20241027170953982</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241027153038037"/>
         <updated>2024-10-27T07:11:44.645Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주인공 김태리, 결국 단역 '군졸1' 맡았다]]></title>
-        <id>https://v.daum.net/v/20241027152852988</id>
-        <link href="https://v.daum.net/v/20241027152852988"/>
-        <updated>2024-10-27T07:11:44.646Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
