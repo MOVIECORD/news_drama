@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-28T19:11:02.330Z</updated>
+    <updated>2024-10-28T20:14:40.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학교 보건실에서 男학생 둘이 왜?..10대 스캔들 터졌다 ‘충격’]]></title>
+        <id>https://v.daum.net/v/20241029050822140</id>
+        <link href="https://v.daum.net/v/20241029050822140"/>
+        <updated>2024-10-28T20:14:31.133Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선, 이진욱 아닌 ‘첫사랑 로맨스’ 강훈 선택?… ‘나의 해리에게’ 종영까지 단 2회]]></title>
         <id>https://v.daum.net/v/20241028233308547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241028173319104"/>
         <updated>2024-10-28T09:14:36.132Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 승희, 김태리 향한 시기+질투…그래도 미워할 수 없네]]></title>
-        <id>https://v.daum.net/v/20241028173030978</id>
-        <link href="https://v.daum.net/v/20241028173030978"/>
-        <updated>2024-10-28T09:14:36.135Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
