@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-28T14:13:05.371Z</updated>
+    <updated>2024-10-28T15:14:18.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[신혜선, 이진욱 아닌 ‘첫사랑 로맨스’ 강훈 선택?… ‘나의 해리에게’ 종영까지 단 2회 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241028233308547</id>
+        <link href="https://v.daum.net/v/20241028233308547"/>
+        <updated>2024-10-28T15:14:11.573Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숙희, '결혼하자 맹꽁아' OST 가창…짙은 이별 감성 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241028213516024</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241028173030978"/>
         <updated>2024-10-28T09:14:36.135Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘페이스미’ 전배수 “끝까지 알 수 없는 범인의 정체 추리하는 매력” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241028172344728</id>
-        <link href="https://v.daum.net/v/20241028172344728"/>
-        <updated>2024-10-28T09:14:36.138Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
