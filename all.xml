@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-29T16:17:28.460Z</updated>
+    <updated>2024-10-29T17:12:58.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김동욱, ‘동방’카리스마 작렬…왜 강력반 왔을까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241030020019609</id>
+        <link href="https://v.daum.net/v/20241030020019609"/>
+        <updated>2024-10-29T17:11:56.788Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길·김성균, 5년 공백 이상無…떡볶이집 재회 포착 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241030010017429</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241029205801145"/>
         <updated>2024-10-29T12:24:16.601Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김규선 친모 따로 있었나? 한채영, 子 최웅만 챙긴 이유 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241029203101740</id>
-        <link href="https://v.daum.net/v/20241029203101740"/>
-        <updated>2024-10-29T12:24:16.601Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
