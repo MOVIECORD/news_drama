@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-29T15:15:02.971Z</updated>
+    <updated>2024-10-29T16:17:28.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김남길·김성균, 5년 공백 이상無…떡볶이집 재회 포착 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241030010017429</id>
+        <link href="https://v.daum.net/v/20241030010017429"/>
+        <updated>2024-10-29T16:16:26.206Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[막방 '나의 해리에게', 이진욱♥신혜선 결혼 약속…애틋한 키스 엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241030001317147</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241029203101740"/>
         <updated>2024-10-29T12:24:16.601Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['용수정' 권화운, 이승연 잡기 위해 임주은 이용…지수원, 도우미 투입 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241029202527644</id>
-        <link href="https://v.daum.net/v/20241029202527644"/>
-        <updated>2024-10-29T12:24:16.602Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
