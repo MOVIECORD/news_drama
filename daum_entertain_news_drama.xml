@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-30T21:12:25.268Z</updated>
+    <updated>2024-10-30T22:12:19.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성철 "유아인 연기? 난 못할 듯…비교 감사해"]]></title>
+        <id>https://v.daum.net/v/20241031065002496</id>
+        <link href="https://v.daum.net/v/20241031065002496"/>
+        <updated>2024-10-30T22:12:11.144Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공주한, 알고보니 동성애자였다…♥김어진과 키스 "마음 숨기며 촬영"]]></title>
+        <id>https://v.daum.net/v/20241031064102391</id>
+        <link href="https://v.daum.net/v/20241031064102391"/>
+        <updated>2024-10-30T22:12:11.146Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이비식스 김동현, 계약결혼했다..재벌2세 사회화 조건]]></title>
         <id>https://v.daum.net/v/20241031060945046</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241030211801853"/>
         <updated>2024-10-30T12:24:02.761Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영, 子최웅에 김규선과 이별 종용... "아무도 믿지 말고 나만 믿어"]]></title>
-        <id>https://v.daum.net/v/20241030202900124</id>
-        <link href="https://v.daum.net/v/20241030202900124"/>
-        <updated>2024-10-30T12:24:02.762Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김원해·고규필·안창환·백지원·전성우·양현민·이대연·서범준·오만석·최수민...'열혈사제2' 황금 배우 라인업]]></title>
-        <id>https://v.daum.net/v/20241030201849975</id>
-        <link href="https://v.daum.net/v/20241030201849975"/>
-        <updated>2024-10-30T12:24:02.764Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
