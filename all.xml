@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T12:24:11.423Z</updated>
+    <updated>2024-10-30T13:21:40.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김세정X이종원, 그림체 닮은 해맑 미소 ‘심쿵’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241030213316089</id>
+        <link href="https://v.daum.net/v/20241030213316089"/>
+        <updated>2024-10-30T13:21:31.789Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리 일냈다...‘정년이’ 韓 선호프로그램 드라마 1위→MAMA 호스트 출격 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241030211801853</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241030175942778"/>
         <updated>2024-10-30T09:13:41.811Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['페이스미' 이이경, 수술·피부 봉합까지 연습.."오빠美 있다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241030175647640</id>
-        <link href="https://v.daum.net/v/20241030175647640"/>
-        <updated>2024-10-30T09:13:41.819Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
