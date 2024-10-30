@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-10-30T18:17:38.785Z</updated>
+    <updated>2024-10-30T19:11:35.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['강남 비-사이드' 박누리 감독 "강남의 화려함 뒤 리얼함 담았다"]]></title>
+        <id>https://v.daum.net/v/20241031032553540</id>
+        <link href="https://v.daum.net/v/20241031032553540"/>
+        <updated>2024-10-30T19:11:26.594Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송옥숙 "사돈어른, 3년간 동거했던 첫사랑" 충격 '눈물']]></title>
         <id>https://v.daum.net/v/20241030232626231</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241030181453300</id>
         <link href="https://v.daum.net/v/20241030181453300"/>
         <updated>2024-10-30T10:14:31.390Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤주, '최소한의 선의'로 한 발자국 더…진정성 넘치는 연기]]></title>
-        <id>https://v.daum.net/v/20241030181135210</id>
-        <link href="https://v.daum.net/v/20241030181135210"/>
-        <updated>2024-10-30T09:13:41.808Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
