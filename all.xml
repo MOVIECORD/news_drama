@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-31T19:09:57.620Z</updated>
+    <updated>2024-10-31T20:14:41.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최태준, 보육원에 버리고 떠난 친아빠 찾았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241101051020424</id>
+        <link href="https://v.daum.net/v/20241101051020424"/>
+        <updated>2024-10-31T20:13:39.135Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안효섭, '선업튀' 윤종호 감독 연출작서 화류계 에이스 역?…"확정 아냐" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241031222106378</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241031191015965"/>
         <updated>2024-10-31T10:14:02.909Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딕펑스 김태현, 띠동갑 최연수와 열애 "父 최현석 날 죽였어야 했다고" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241031184006318</id>
-        <link href="https://v.daum.net/v/20241031184006318"/>
-        <updated>2024-10-31T10:14:02.909Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
