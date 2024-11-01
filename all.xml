@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-01T15:14:15.366Z</updated>
+    <updated>2024-11-01T16:16:27.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘이토록 친밀한 배신자’ 한석규가 숨긴 오연수의 비밀, ‘채원빈 의심+극단 선댁’ *종합) (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241102011204338</id>
+        <link href="https://v.daum.net/v/20241102011204338"/>
+        <updated>2024-11-01T16:15:25.652Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강매강' 한동희, '헤어질 결심' 탕웨이 오마주… 깊은 여운 선사 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241102001152981</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241101205402898"/>
         <updated>2024-11-01T12:22:57.661Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한채영, 유지연 폭로에 오열 "내가 낳은 김규선, 이병준이 빼앗아 가" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241101203830663</id>
-        <link href="https://v.daum.net/v/20241101203830663"/>
-        <updated>2024-11-01T12:22:57.662Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
