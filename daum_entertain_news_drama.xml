@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-03T17:10:54.971Z</updated>
+    <updated>2024-11-03T18:18:04.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정소민 "정해인과 열애설? 케미 정말 좋았지만 열애는 아냐"]]></title>
+        <id>https://v.daum.net/v/20241104023511033</id>
+        <link href="https://v.daum.net/v/20241104023511033"/>
+        <updated>2024-11-03T18:17:02.563Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["확인해 보려고요"…'정숙한 세일즈' 연우진, ♥김소연과 포옹→사랑 자각]]></title>
         <id>https://v.daum.net/v/20241103235421004</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241103213338209"/>
         <updated>2024-11-03T13:17:02.207Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜은, 100억 검은 돈 행방 찾았다... 박지영 어쩌나]]></title>
-        <id>https://v.daum.net/v/20241103211330064</id>
-        <link href="https://v.daum.net/v/20241103211330064"/>
-        <updated>2024-11-03T12:21:26.968Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
