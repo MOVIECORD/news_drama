@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-03T08:14:58.080Z</updated>
+    <updated>2024-11-03T09:12:54.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리, 득음하려다 실신하겠네...위태로운 모습 ‘긴장감UP’]]></title>
+        <id>https://v.daum.net/v/20241103180303057</id>
+        <link href="https://v.daum.net/v/20241103180303057"/>
+        <updated>2024-11-03T09:12:46.032Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정현-김혜은, 초대받지 않은 결혼식 불청객]]></title>
+        <id>https://v.daum.net/v/20241103172529235</id>
+        <link href="https://v.daum.net/v/20241103172529235"/>
+        <updated>2024-11-03T09:12:46.032Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소연X연우진, 두근두근 데이트...“같이 있으면 혼란스러워”]]></title>
         <id>https://v.daum.net/v/20241103171211030</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241103151518925"/>
         <updated>2024-11-03T06:18:37.945Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민기X한지현, 범죄 피해자 재건 성형…첫방 D-3 '페이스미' 관전포인트]]></title>
-        <id>https://v.daum.net/v/20241103150249730</id>
-        <link href="https://v.daum.net/v/20241103150249730"/>
-        <updated>2024-11-03T06:18:37.949Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연우진, 김소연 입덕 부정기…예비부부 위장 조사 돌입]]></title>
-        <id>https://v.daum.net/v/20241103150017643</id>
-        <link href="https://v.daum.net/v/20241103150017643"/>
-        <updated>2024-11-03T06:18:37.951Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
