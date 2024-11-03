@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-03T02:53:16.342Z</updated>
+    <updated>2024-11-03T03:23:03.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악마보다 더 악마같았던 이규한, 박신혜에 사이다 처단 당했다]]></title>
+        <id>https://v.daum.net/v/20241103121330141</id>
+        <link href="https://v.daum.net/v/20241103121330141"/>
+        <updated>2024-11-03T03:22:54.399Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[129만 유튜버 나선욱, '열혈사제2' 로 첫 정극 도전 "김남길 선배님이 긴장감 풀어주셔서 연기 할 수 있었다"]]></title>
+        <id>https://v.daum.net/v/20241103120848052</id>
+        <link href="https://v.daum.net/v/20241103120848052"/>
+        <updated>2024-11-03T03:22:54.399Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다리미 패밀리' 김정현, 최태준이 신현준 친자라는 사실 알고 '충격']]></title>
         <id>https://v.daum.net/v/20241103114119543</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241103102631289"/>
         <updated>2024-11-03T02:52:14.107Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리, 드디어 라미란에게 인정받았다…‘정년이’ 7회 10.1%]]></title>
-        <id>https://v.daum.net/v/20241103102250255</id>
-        <link href="https://v.daum.net/v/20241103102250255"/>
-        <updated>2024-11-03T02:52:14.108Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연, 연우진 친모 찾기 공조…예상 못한 포옹 엔딩]]></title>
-        <id>https://v.daum.net/v/20241103101948206</id>
-        <link href="https://v.daum.net/v/20241103101948206"/>
-        <updated>2024-11-03T02:52:14.111Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
