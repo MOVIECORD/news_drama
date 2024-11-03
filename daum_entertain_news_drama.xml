@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-03T09:12:54.265Z</updated>
+    <updated>2024-11-03T10:15:12.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소연 동창 심우성 본색 드러냈다, 비정상적 성적 취향 분노 유발]]></title>
+        <id>https://v.daum.net/v/20241103183147510</id>
+        <link href="https://v.daum.net/v/20241103183147510"/>
+        <updated>2024-11-03T10:14:10.008Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지영-김영옥-박인환, 경찰 사이에서 작당모의...수상한 움직임]]></title>
+        <id>https://v.daum.net/v/20241103181501294</id>
+        <link href="https://v.daum.net/v/20241103181501294"/>
+        <updated>2024-11-03T10:14:10.009Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리, 득음하려다 실신하겠네...위태로운 모습 ‘긴장감UP’]]></title>
         <id>https://v.daum.net/v/20241103180303057</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241103152935116"/>
         <updated>2024-11-03T07:11:50.031Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['페이스미' 이민기 화려한 손기술→한지현 명품 액션..첫방 핵심 포인트]]></title>
-        <id>https://v.daum.net/v/20241103152543078</id>
-        <link href="https://v.daum.net/v/20241103152543078"/>
-        <updated>2024-11-03T07:11:50.033Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현준, 경찰서장 딸 하서윤과 결혼한다]]></title>
-        <id>https://v.daum.net/v/20241103151518925</id>
-        <link href="https://v.daum.net/v/20241103151518925"/>
-        <updated>2024-11-03T06:18:37.945Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
