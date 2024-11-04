@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-04T21:11:35.762Z</updated>
+    <updated>2024-11-04T22:11:46.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정영주, 할리우드 스타일 "아직도 전 남친 세 명과 만나"]]></title>
+        <id>https://v.daum.net/v/20241105070055769</id>
+        <link href="https://v.daum.net/v/20241105070055769"/>
+        <updated>2024-11-04T22:11:38.606Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['물어보살' 사기결혼 피해자 출연…이혼남에 학벌·집안도 거짓말]]></title>
+        <id>https://v.daum.net/v/20241105063044318</id>
+        <link href="https://v.daum.net/v/20241105063044318"/>
+        <updated>2024-11-04T22:11:38.607Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길X김성균 심각한 표정도 웃길 일? '열혈사제2' 투샷 떴다]]></title>
         <id>https://v.daum.net/v/20241105061020125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241104191655879"/>
         <updated>2024-11-04T11:13:09.725Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['흑백요리사' 파브리, 유희관에 분노한 사연은?]]></title>
-        <id>https://v.daum.net/v/20241104191330804</id>
-        <link href="https://v.daum.net/v/20241104191330804"/>
-        <updated>2024-11-04T10:15:04.861Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박신혜 가니 더 강력한 김남길 온다... 태평성대는 끝났다! 전 편 보다 더 독해졌다는데?]]></title>
-        <id>https://v.daum.net/v/20241104185929597</id>
-        <link href="https://v.daum.net/v/20241104185929597"/>
-        <updated>2024-11-04T10:15:04.862Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
