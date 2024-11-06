@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T14:12:09.057Z</updated>
+    <updated>2024-11-06T15:13:20.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[탕준상, 목숨까지 내건 신념…남다름, 역사 기록 지웠다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241106233300270</id>
+        <link href="https://v.daum.net/v/20241106233300270"/>
+        <updated>2024-11-06T15:13:10.747Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성형외과 의사 이민기, 형사 한지현과 첫만남→공조..납치 피해자 구했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241106225921995</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241106180942215"/>
         <updated>2024-11-06T09:14:33.849Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경성크리처→조립식가족→지옥2’까지, 배현성 新글로벌 여심 스틸러 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241106175729781</id>
-        <link href="https://v.daum.net/v/20241106175729781"/>
-        <updated>2024-11-06T09:14:33.850Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
