@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T19:10:56.000Z</updated>
+    <updated>2024-11-06T20:14:06.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유연석, 탁월한 피지컬 뽐내는 ‘완벽 수트핏’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241107045652950</id>
+        <link href="https://v.daum.net/v/20241107045652950"/>
+        <updated>2024-11-06T20:13:58.882Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕준상, 목숨까지 내건 신념…남다름, 역사 기록 지웠다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241106233300270</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241106181404354"/>
         <updated>2024-11-06T09:14:33.849Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈X정유미, 밀당 케미 어떨까…'사랑은 외나무다리에서' 23일 첫방 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241106180942215</id>
-        <link href="https://v.daum.net/v/20241106180942215"/>
-        <updated>2024-11-06T09:14:33.849Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
