@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-08T12:23:13.512Z</updated>
+    <updated>2024-11-08T13:19:28.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[첫방 '열혈사제2' 김남길, 사제복 아닌 승려복 입고 첫등장 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241108221237709</id>
+        <link href="https://v.daum.net/v/20241108221237709"/>
+        <updated>2024-11-08T13:19:21.857Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영, 종적 감췄던 최웅에 "너 없이 못 살아" 포옹...김규선 목격 '얼음' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241108204047673</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241108171808884"/>
         <updated>2024-11-08T09:13:06.095Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황찬성, 열도 접수 예고…첫 주연작 '준킷사인연' 日 지상파 방영 확정 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241108170820620</id>
-        <link href="https://v.daum.net/v/20241108170820620"/>
-        <updated>2024-11-08T08:16:10.649Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
