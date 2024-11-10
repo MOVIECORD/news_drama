@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-10T02:21:36.982Z</updated>
+    <updated>2024-11-10T03:17:49.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소연♥연우진 놀이공원 데이트 포착, 식은땀 어쩌나]]></title>
+        <id>https://v.daum.net/v/20241110120216715</id>
+        <link href="https://v.daum.net/v/20241110120216715"/>
+        <updated>2024-11-10T03:17:40.726Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다리미 패밀리' 김혜은, 돈다발 찾기 위해 신현준 서재 침입]]></title>
+        <id>https://v.daum.net/v/20241110114540393</id>
+        <link href="https://v.daum.net/v/20241110114540393"/>
+        <updated>2024-11-10T03:17:40.726Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['열혈사제2' 김남길-김성균, 초당황 체포 엔딩…최고 14.1%]]></title>
+        <id>https://v.daum.net/v/20241110113939319</id>
+        <link href="https://v.daum.net/v/20241110113939319"/>
+        <updated>2024-11-10T03:17:40.727Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정숙한 세일즈' 김성령, "다신 보지 말자" 절연 선언]]></title>
         <id>https://v.daum.net/v/20241110104540396</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241110092830223"/>
         <updated>2024-11-10T01:01:34.996Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금새록 앞 김정현 vs 최태준, '다리미 패밀리' 긴장감 폭발시킨 삼각관계]]></title>
-        <id>https://v.daum.net/v/20241110092345169</id>
-        <link href="https://v.daum.net/v/20241110092345169"/>
-        <updated>2024-11-10T01:01:34.998Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정년이' 김태리, 목소리 잃고 절망…혼란 빠진 매란국극단]]></title>
-        <id>https://v.daum.net/v/20241110092308166</id>
-        <link href="https://v.daum.net/v/20241110092308166"/>
-        <updated>2024-11-10T01:01:34.999Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열혈사제2' 이하늬, 반전 썼다…10.1%]]></title>
-        <id>https://v.daum.net/v/20241110090852003</id>
-        <link href="https://v.daum.net/v/20241110090852003"/>
-        <updated>2024-11-10T01:01:35.002Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
