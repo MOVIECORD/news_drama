@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-11T18:16:08.690Z</updated>
+    <updated>2024-11-11T19:10:42.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이범수 이혼' 이윤진, 정신건강의학과 방문…수면 장애·불안증 고백]]></title>
+        <id>https://v.daum.net/v/20241112040042705</id>
+        <link href="https://v.daum.net/v/20241112040042705"/>
+        <updated>2024-11-11T19:09:40.717Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사강 "사별 후 동정의 시선 때문에 힘들어…'선업튀' 변우석 보고 위로"]]></title>
+        <id>https://v.daum.net/v/20241112033019667</id>
+        <link href="https://v.daum.net/v/20241112033019667"/>
+        <updated>2024-11-11T19:09:40.719Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태리 3년 연습 보람 있네…K뮤지컬 '여성 국극', 해외에서도 通했다]]></title>
         <id>https://v.daum.net/v/20241111233316432</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241111180202900"/>
         <updated>2024-11-11T09:14:20.719Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정년이' 특별 출연인데…"故남해성 향한 보답" 문소리, 1년간 판소리 연습 이유]]></title>
-        <id>https://v.daum.net/v/20241111180111868</id>
-        <link href="https://v.daum.net/v/20241111180111868"/>
-        <updated>2024-11-11T09:14:20.720Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조립식 가족' 황인엽·정채연, 모두가 기다린 대망의 로맨스 본격 시작]]></title>
-        <id>https://v.daum.net/v/20241111180055844</id>
-        <link href="https://v.daum.net/v/20241111180055844"/>
-        <updated>2024-11-11T09:14:20.731Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
