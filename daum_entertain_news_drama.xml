@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-11T11:10:53.417Z</updated>
+    <updated>2024-11-11T12:24:01.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한채영, "딸의 남자 뺏고 싶어?" 김규선 공격에 "만약 그렇다면?" 이성 잃었다]]></title>
+        <id>https://v.daum.net/v/20241111203248784</id>
+        <link href="https://v.daum.net/v/20241111203248784"/>
+        <updated>2024-11-11T12:23:53.727Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정은채, '정년이'로 호감도 높였다]]></title>
         <id>https://v.daum.net/v/20241111200220301</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241111175554680"/>
         <updated>2024-11-11T09:14:20.732Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최강야구' 최강 몬스터즈, 파이널 스테이지 첫 상대 경기상고…결과는?]]></title>
-        <id>https://v.daum.net/v/20241111175510650</id>
-        <link href="https://v.daum.net/v/20241111175510650"/>
-        <updated>2024-11-11T09:14:20.735Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
