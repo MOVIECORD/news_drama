@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-12T19:10:44.589Z</updated>
+    <updated>2024-11-12T20:14:33.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재은, 염산 테러 사건 범인이었다…현장에서 체포, "왜 그랬는지 모르겠어"]]></title>
+        <id>https://v.daum.net/v/20241113050603756</id>
+        <link href="https://v.daum.net/v/20241113050603756"/>
+        <updated>2024-11-12T20:13:41.865Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소민, 파혼 당하고 두 남자 품에 안겼다…세상 행복한 미소]]></title>
         <id>https://v.daum.net/v/20241113010305796</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241112221902395"/>
         <updated>2024-11-12T13:20:50.245Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소금 따귀 맞았던 김세정, 이종원과 애틋엔딩 그후]]></title>
-        <id>https://v.daum.net/v/20241112213921873</id>
-        <link href="https://v.daum.net/v/20241112213921873"/>
-        <updated>2024-11-12T13:20:50.245Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
