@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-12T12:23:56.195Z</updated>
+    <updated>2024-11-12T13:20:58.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['워너비 원조 패피' 나영희, 냉혈한 그룹 오너 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241112221902395</id>
+        <link href="https://v.daum.net/v/20241112221902395"/>
+        <updated>2024-11-12T13:20:50.245Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소금 따귀 맞았던 김세정, 이종원과 애틋엔딩 그후 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241112213921873</id>
+        <link href="https://v.daum.net/v/20241112213921873"/>
+        <updated>2024-11-12T13:20:50.245Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼' 이영돈 저격 후..황정음 "회식날 술 마시다 택시서 토할 뻔" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241112205251248</id>
@@ -94,19 +108,5 @@
         <link href="https://v.daum.net/v/20241112184316257"/>
         <updated>2024-11-12T10:13:22.245Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한석규 의심은 시작일 뿐"...'이친자', 결말 기대되는 이유 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241112184249248</id>
-        <link href="https://v.daum.net/v/20241112184249248"/>
-        <updated>2024-11-12T10:13:22.247Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송재림, 오늘 사망... 향년 39세 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241112183143956</id>
-        <link href="https://v.daum.net/v/20241112183143956"/>
-        <updated>2024-11-12T10:13:22.248Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
