@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-13T19:11:47.242Z</updated>
+    <updated>2024-11-13T20:13:41.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJ ENM, 한국ESG기준원 종합등급 ‘A’ 획득]]></title>
+        <id>https://v.daum.net/v/20241114050056382</id>
+        <link href="https://v.daum.net/v/20241114050056382"/>
+        <updated>2024-11-13T20:13:33.260Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 송재림, 오늘 영면… 비공개 발인]]></title>
         <id>https://v.daum.net/v/20241114040008136</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241113190023160"/>
         <updated>2024-11-13T10:13:50.915Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황인엽·정채연, 같이 10년 떨어져 10년…키스 1초 전]]></title>
-        <id>https://v.daum.net/v/20241113190022158</id>
-        <link href="https://v.daum.net/v/20241113190022158"/>
-        <updated>2024-11-13T10:13:50.919Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
