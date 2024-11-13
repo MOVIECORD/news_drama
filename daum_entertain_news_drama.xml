@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-13T12:23:44.168Z</updated>
+    <updated>2024-11-13T13:20:22.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얼굴 갈아끼운 임지연, 박연진 찰떡인 줄 알았는데 '옥씨부인전' 남달라]]></title>
+        <id>https://v.daum.net/v/20241113213323986</id>
+        <link href="https://v.daum.net/v/20241113213323986"/>
+        <updated>2024-11-13T13:20:14.112Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스캔들' 김홍표, 한보름 父 죽음 폭로 결심→사체로 발견]]></title>
         <id>https://v.daum.net/v/20241113203648068</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241113180253791"/>
         <updated>2024-11-13T09:13:26.485Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘현커’의 꽁냥 케미…김우석♥강나언, 카메라 향해 ‘V’]]></title>
-        <id>https://v.daum.net/v/20241113174814239</id>
-        <link href="https://v.daum.net/v/20241113174814239"/>
-        <updated>2024-11-13T09:13:26.487Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
