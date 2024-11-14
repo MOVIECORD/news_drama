@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-14T14:13:44.057Z</updated>
+    <updated>2024-11-14T15:13:34.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영옥♥박인환, 연기 경력 120년으로 만든 케미 맛집]]></title>
+        <id>https://v.daum.net/v/20241115000144825</id>
+        <link href="https://v.daum.net/v/20241115000144825"/>
+        <updated>2024-11-14T15:13:25.998Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이민기·한지현, 염산 테러 피해자 사연에 긴장]]></title>
         <id>https://v.daum.net/v/20241114213513981</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241114173739537"/>
         <updated>2024-11-14T09:13:33.563Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 시즌2, 월드 프리미어 이벤트 DDP 아트홀1에서 열린다]]></title>
-        <id>https://v.daum.net/v/20241114173127204</id>
-        <link href="https://v.daum.net/v/20241114173127204"/>
-        <updated>2024-11-14T09:13:33.564Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
