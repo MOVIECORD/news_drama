@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-14T15:13:34.594Z</updated>
+    <updated>2024-11-14T16:17:10.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나영희·지수원·김혜옥, 욕망→헌신 3색 모성애 예고]]></title>
+        <id>https://v.daum.net/v/20241115010144556</id>
+        <link href="https://v.daum.net/v/20241115010144556"/>
+        <updated>2024-11-14T16:16:08.912Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영옥♥박인환, 연기 경력 120년으로 만든 케미 맛집]]></title>
         <id>https://v.daum.net/v/20241115000144825</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241114173933643"/>
         <updated>2024-11-14T09:13:33.559Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민기X한지현, 염산 테러 사건 피해자 보는 다른 시선]]></title>
-        <id>https://v.daum.net/v/20241114173739537</id>
-        <link href="https://v.daum.net/v/20241114173739537"/>
-        <updated>2024-11-14T09:13:33.563Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
