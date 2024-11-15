@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-15T09:14:49.394Z</updated>
+    <updated>2024-11-15T10:14:11.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 D-2 '정년이' 김태리-신예은-라미란-정은채-김윤혜, 직접 뽑은 최애 장면 BEST 7]]></title>
+        <id>https://v.daum.net/v/20241115185247888</id>
+        <link href="https://v.daum.net/v/20241115185247888"/>
+        <updated>2024-11-15T10:14:03.388Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['정년이' 라미란, 힐링부터 울림까지…명대사 메이커]]></title>
+        <id>https://v.daum.net/v/20241115184847816</id>
+        <link href="https://v.daum.net/v/20241115184847816"/>
+        <updated>2024-11-15T10:14:03.396Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남길, 의미심장 '낮과 밤 이중생활'…한밤중 월담 포착]]></title>
         <id>https://v.daum.net/v/20241115180502922</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241115171556536"/>
         <updated>2024-11-15T08:16:45.273Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이친자' 한석규 "정성껏 촬영했다, 가족을 이해하는 시간 됐길" 종영소감]]></title>
-        <id>https://v.daum.net/v/20241115170344176</id>
-        <link href="https://v.daum.net/v/20241115170344176"/>
-        <updated>2024-11-15T08:16:45.273Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승연, '용감무쌍 용수정' 종영소감 "대장정 마쳐···더 좋은 모습으로 찾아뵐 것"]]></title>
-        <id>https://v.daum.net/v/20241115165743982</id>
-        <link href="https://v.daum.net/v/20241115165743982"/>
-        <updated>2024-11-15T08:16:45.273Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
