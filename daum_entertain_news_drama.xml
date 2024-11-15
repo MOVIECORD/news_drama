@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-15T19:10:35.754Z</updated>
+    <updated>2024-11-15T20:14:29.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이토록 친밀한 배신자’ 한석규, 채원빈 향한 15년 의심 풀고 진범 최유화 잡았다]]></title>
+        <id>https://v.daum.net/v/20241116051146250</id>
+        <link href="https://v.daum.net/v/20241116051146250"/>
+        <updated>2024-11-15T20:14:20.130Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이토록 친밀한 배신자’ 한예리, 한석규 경고에 정신 ‘번쩍’ “놓친 게 있다!”]]></title>
         <id>https://v.daum.net/v/20241116014744573</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241115221313924"/>
         <updated>2024-11-15T13:21:45.750Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세희, ♥김정진과 비밀 연애 중이었다…집 데이트 즐겨]]></title>
-        <id>https://v.daum.net/v/20241115220202810</id>
-        <link href="https://v.daum.net/v/20241115220202810"/>
-        <updated>2024-11-15T13:21:45.750Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
