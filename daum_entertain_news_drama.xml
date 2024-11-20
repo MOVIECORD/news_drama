@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-20T03:24:37.894Z</updated>
+    <updated>2024-11-20T04:16:57.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루크강 아태지역 사장, 디즈니 성과 조명 "40억 달러 매출…'쇼군' 18관왕"]]></title>
+        <id>https://v.daum.net/v/20241120125802119</id>
+        <link href="https://v.daum.net/v/20241120125802119"/>
+        <updated>2024-11-20T04:16:50.461Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루크 강 "월트디즈니, 경이로운 한 해 보내…40억 달러 성과→적수無"]]></title>
+        <id>https://v.daum.net/v/20241120124135826</id>
+        <link href="https://v.daum.net/v/20241120124135826"/>
+        <updated>2024-11-20T04:16:50.461Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'인사이드 아웃' 기쁨+슬픔이, 디즈니+ 시리즈로 돌아온다"]]></title>
+        <id>https://v.daum.net/v/20241120123735760</id>
+        <link href="https://v.daum.net/v/20241120123735760"/>
+        <updated>2024-11-20T04:16:50.462Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플랑크톤' 우도환 "7kg 그냥 빠져, 해조? 가장 로맨틱"]]></title>
+        <id>https://v.daum.net/v/20241120123435714</id>
+        <link href="https://v.daum.net/v/20241120123435714"/>
+        <updated>2024-11-20T04:16:50.464Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심이영 남편 가방서 발견된 슬립, 정영섭 불륜 밝혀지나]]></title>
+        <id>https://v.daum.net/v/20241120122634564</id>
+        <link href="https://v.daum.net/v/20241120122634564"/>
+        <updated>2024-11-20T04:16:50.466Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신분 세탁하는 임지연, '옥씨부인전'으로 '리볼버' 쓴맛 털자]]></title>
         <id>https://v.daum.net/v/20241120121144305</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20241120113648084"/>
         <updated>2024-11-20T03:24:29.442Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈 김갑수 어떻게 나오길래, 정유미 “나보다 더 귀여워”]]></title>
-        <id>https://v.daum.net/v/20241120113348934</id>
-        <link href="https://v.daum.net/v/20241120113348934"/>
-        <updated>2024-11-20T03:24:29.443Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미안하다, 사랑한다' 20년만 재탄생…정경호x전혜진 신인 배우]]></title>
-        <id>https://v.daum.net/v/20241120112830661</id>
-        <link href="https://v.daum.net/v/20241120112830661"/>
-        <updated>2024-11-20T03:24:29.445Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고수 권유리 공조→사이다 엔딩에 시청률 상승세, 동시간대 1위 싹쓸이]]></title>
-        <id>https://v.daum.net/v/20241120112807648</id>
-        <link href="https://v.daum.net/v/20241120112807648"/>
-        <updated>2024-11-20T03:24:29.446Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가석방 심사관 이한신' 권유리, 이번엔 '액션퀸' 변신..범인 제압 강렬 첫 등장]]></title>
-        <id>https://v.daum.net/v/20241120112649586</id>
-        <link href="https://v.daum.net/v/20241120112649586"/>
-        <updated>2024-11-20T03:24:29.447Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란, '정년이'의 든든한 기둥 "열정 되찾고 싶을 때 다시 볼 작품"]]></title>
-        <id>https://v.daum.net/v/20241120112625577</id>
-        <link href="https://v.daum.net/v/20241120112625577"/>
-        <updated>2024-11-20T03:24:29.449Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
