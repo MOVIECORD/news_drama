@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-21T19:10:49.184Z</updated>
+    <updated>2024-11-21T20:14:35.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#'무빙2' 발표 #김수현→박은빈 총출동…이 악문 디즈니, K-콘텐츠에 승부 걸었다]]></title>
+        <id>https://v.daum.net/v/20241122050846327</id>
+        <link href="https://v.daum.net/v/20241122050846327"/>
+        <updated>2024-11-21T20:14:27.533Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도경수, 저 선한 얼굴로 악역이라니…지창욱과 '조각도시' 이끈다]]></title>
         <id>https://v.daum.net/v/20241122031851836</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241121183254638"/>
         <updated>2024-11-21T10:14:37.054Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나인퍼즐' 손석구 "마흔 후 먹으면 바로 살 쪄…촬영 중 체중 변화"]]></title>
-        <id>https://v.daum.net/v/20241121183151619</id>
-        <link href="https://v.daum.net/v/20241121183151619"/>
-        <updated>2024-11-21T10:14:37.055Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
