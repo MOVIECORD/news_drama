@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T18:17:57.466Z</updated>
+    <updated>2024-11-21T19:10:49.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[도경수, 저 선한 얼굴로 악역이라니…지창욱과 '조각도시' 이끈다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241122031851836</id>
+        <link href="https://v.daum.net/v/20241122031851836"/>
+        <updated>2024-11-21T19:10:40.390Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['넉오프', 2025년에도 '짝퉁왕' 김수현에게 스며들 것 같은 예감 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241122021557623</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241121183151619"/>
         <updated>2024-11-21T10:14:37.055Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나인 퍼즐' 윤종빈 감독 "내가 쓴 대본, 여주인공 없어..김다미=여배우 첫 호흡" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241121183026581</id>
-        <link href="https://v.daum.net/v/20241121183026581"/>
-        <updated>2024-11-21T10:14:37.057Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
