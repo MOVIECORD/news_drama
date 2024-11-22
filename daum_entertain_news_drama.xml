@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-22T10:15:28.525Z</updated>
+    <updated>2024-11-22T11:11:39.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주지훈 하찮게 귀엽네, 이게 다 원수 정유미 때문]]></title>
+        <id>https://v.daum.net/v/20241122195344923</id>
+        <link href="https://v.daum.net/v/20241122195344923"/>
+        <updated>2024-11-22T11:11:31.473Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동원, 첫 주연작 ‘트렁크’서 서현진 공유 만난다]]></title>
+        <id>https://v.daum.net/v/20241122195131897</id>
+        <link href="https://v.daum.net/v/20241122195131897"/>
+        <updated>2024-11-22T11:11:31.475Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정영섭, 내연녀 최정윤 오피스텔로 이사...아내 심이영에 "말투 거칠고 저렴"]]></title>
+        <id>https://v.daum.net/v/20241122195130896</id>
+        <link href="https://v.daum.net/v/20241122195130896"/>
+        <updated>2024-11-22T11:11:31.477Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쾌속 성장 최우진 ‘지금 거신 전화는’ 지상파 데뷔]]></title>
+        <id>https://v.daum.net/v/20241122194314799</id>
+        <link href="https://v.daum.net/v/20241122194314799"/>
+        <updated>2024-11-22T11:11:31.477Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정체 들키나? ‘열혈사제2’ 성준, 이번에는 이하늬 앞 등장]]></title>
         <id>https://v.daum.net/v/20241122190303046</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241122170322518"/>
         <updated>2024-11-22T08:17:29.006Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신랑수업’ 측 은가은♥박현호 동거 조작 사과…“혼란 드려 죄송”]]></title>
-        <id>https://v.daum.net/v/20241122165830304</id>
-        <link href="https://v.daum.net/v/20241122165830304"/>
-        <updated>2024-11-22T08:17:29.006Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영희 한그루 앞 닥친 교통사고, 복수극 서막 오른다]]></title>
-        <id>https://v.daum.net/v/20241122165654247</id>
-        <link href="https://v.daum.net/v/20241122165654247"/>
-        <updated>2024-11-22T08:17:29.006Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 진가은, '사랑은 외나무다리에서' 출연…정유미와 연기 호흡]]></title>
-        <id>https://v.daum.net/v/20241122164559947</id>
-        <link href="https://v.daum.net/v/20241122164559947"/>
-        <updated>2024-11-22T08:17:29.006Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영희x한그루에 닥친 교통사고..강렬 복수극 서막 올랐다]]></title>
-        <id>https://v.daum.net/v/20241122163149572</id>
-        <link href="https://v.daum.net/v/20241122163149572"/>
-        <updated>2024-11-22T08:17:29.008Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
