@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-23T10:13:26.929Z</updated>
+    <updated>2024-11-23T11:10:18.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘싸늘한 얼굴’ 유연석, 채수빈 의심 시작]]></title>
+        <id>https://v.daum.net/v/20241123193601173</id>
+        <link href="https://v.daum.net/v/20241123193601173"/>
+        <updated>2024-11-23T11:10:09.510Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파죽지세의 중심…김남길이 180도 달라졌다]]></title>
         <id>https://v.daum.net/v/20241123185103874</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241123153048008"/>
         <updated>2024-11-23T07:12:46.496Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민기, 형사 한지현·범죄자 윤정일 남매관계 알았다‥다음 스텝은]]></title>
-        <id>https://v.daum.net/v/20241123152244904</id>
-        <link href="https://v.daum.net/v/20241123152244904"/>
-        <updated>2024-11-23T07:12:46.498Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
