@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-23T03:24:17.810Z</updated>
+    <updated>2024-11-23T04:16:55.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금 거신 전화는' 유연석, 빈틈이 없다]]></title>
+        <id>https://v.daum.net/v/20241123131250701</id>
+        <link href="https://v.daum.net/v/20241123131250701"/>
+        <updated>2024-11-23T04:15:53.488Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘지금 거신 전화는’ 유연석, 협박범에 전쟁 선포! 극강의 몰입감 선사]]></title>
+        <id>https://v.daum.net/v/20241123125609482</id>
+        <link href="https://v.daum.net/v/20241123125609482"/>
+        <updated>2024-11-23T04:15:53.489Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼윈도 부부의 로맨스 '지금 거신 전화는' 시청률 5.5%로 출발]]></title>
         <id>https://v.daum.net/v/20241123122021306</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241123100143059"/>
         <updated>2024-11-23T02:19:31.913Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정년이' 김윤혜 "현실적인 빌런 서혜랑, 저도 그럴 때 있었죠"]]></title>
-        <id>https://v.daum.net/v/20241123100107047</id>
-        <link href="https://v.daum.net/v/20241123100107047"/>
-        <updated>2024-11-23T02:19:31.914Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지금 거신 전화는' 유연석 협박범 정체=채수빈…정략 부부 서스펜스 포문 열었다]]></title>
-        <id>https://v.daum.net/v/20241123095538954</id>
-        <link href="https://v.daum.net/v/20241123095538954"/>
-        <updated>2024-11-23T00:59:08.045Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
