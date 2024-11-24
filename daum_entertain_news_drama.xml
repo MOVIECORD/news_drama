@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-24T08:16:27.989Z</updated>
+    <updated>2024-11-24T09:14:09.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“대사 없어도 OK”…채수빈, 수어로 완성한 ‘홍희주’]]></title>
+        <id>https://v.daum.net/v/20241124180602848</id>
+        <link href="https://v.daum.net/v/20241124180602848"/>
+        <updated>2024-11-24T09:13:07.676Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["혹시 내 가까이에 있습니까?"..유연석, 채수빈 향한 의심]]></title>
+        <id>https://v.daum.net/v/20241124173947382</id>
+        <link href="https://v.daum.net/v/20241124173947382"/>
+        <updated>2024-11-24T09:13:07.676Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김갑수, 이병준과 기싸움..삿대질에 고성까지 '분노 폭발']]></title>
         <id>https://v.daum.net/v/20241124170448785</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241124142447868"/>
         <updated>2024-11-24T06:16:54.719Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좋나동' 백선호 "박성웅과 연기 영광…시즌2? 무조건이죠"②]]></title>
-        <id>https://v.daum.net/v/20241124142255842</id>
-        <link href="https://v.daum.net/v/20241124142255842"/>
-        <updated>2024-11-24T06:16:54.722Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈, 공개 연애 내기로 ‘정유미 도발’..살벌 눈싸움]]></title>
-        <id>https://v.daum.net/v/20241124142144833</id>
-        <link href="https://v.daum.net/v/20241124142144833"/>
-        <updated>2024-11-24T06:16:54.726Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
