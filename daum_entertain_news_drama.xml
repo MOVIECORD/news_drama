@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-24T14:11:31.249Z</updated>
+    <updated>2024-11-24T15:11:54.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['51세' 정우성, 문가비子 친부→이정재보다 먼저 아빠 됐다 "결혼은 NO"]]></title>
+        <id>https://v.daum.net/v/20241125000110764</id>
+        <link href="https://v.daum.net/v/20241125000110764"/>
+        <updated>2024-11-24T15:11:46.790Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연인 된 황인엽♥정채연, 아빠들 반응은? '조립식 가족' 종영까지 단 2회]]></title>
+        <id>https://v.daum.net/v/20241124231818543</id>
+        <link href="https://v.daum.net/v/20241124231818543"/>
+        <updated>2024-11-24T15:11:46.790Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소란 고영배, '사랑은 외나무다리에서' OST 가창]]></title>
         <id>https://v.daum.net/v/20241124225005372</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241124211447746"/>
         <updated>2024-11-24T12:22:07.201Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리미 패밀리' 회사 쫓겨난 김정현, 친아들 최태준 찾은 신현준에 '눈물']]></title>
-        <id>https://v.daum.net/v/20241124211430745</id>
-        <link href="https://v.daum.net/v/20241124211430745"/>
-        <updated>2024-11-24T12:22:07.203Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5억 반환하고 나가라" 김정현, 신현준에 징계 받고 회사 쫓겨났다]]></title>
-        <id>https://v.daum.net/v/20241124211201719</id>
-        <link href="https://v.daum.net/v/20241124211201719"/>
-        <updated>2024-11-24T12:22:07.203Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
