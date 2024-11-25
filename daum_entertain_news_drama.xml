@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-25T14:12:56.877Z</updated>
+    <updated>2024-11-25T15:13:58.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘조립식 가족’ 배우들이 직접 뽑은 최애 장면]]></title>
+        <id>https://v.daum.net/v/20241126000022532</id>
+        <link href="https://v.daum.net/v/20241126000022532"/>
+        <updated>2024-11-25T15:13:50.846Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하준, 한 지붕 두 집 살림…강미나·최리 아내 워맨스 예고]]></title>
         <id>https://v.daum.net/v/20241125230143185</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241125181850538</id>
         <link href="https://v.daum.net/v/20241125181850538"/>
         <updated>2024-11-25T10:14:49.231Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길, 코믹+액션+휴머니즘 다 되네..극강의 연기 변주]]></title>
-        <id>https://v.daum.net/v/20241125180708267</id>
-        <link href="https://v.daum.net/v/20241125180708267"/>
-        <updated>2024-11-25T09:14:57.144Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
