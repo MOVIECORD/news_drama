@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-25T10:15:51.322Z</updated>
+    <updated>2024-11-25T11:11:49.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[심이영, 정영섭·최정윤 불륜 모른 채 밀애 현장 기습 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241125194700952</id>
+        <link href="https://v.daum.net/v/20241125194700952"/>
+        <updated>2024-11-25T11:11:41.534Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤상현, 아내 뒷바라지하다 경력 단절 10년…현업 복귀 꿈 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241125190118314</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241125172849033"/>
         <updated>2024-11-25T09:14:57.153Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설움+상처 가득 최태준, 먹먹함 유발하는 내면 연기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241125171335486</id>
-        <link href="https://v.daum.net/v/20241125171335486"/>
-        <updated>2024-11-25T08:18:41.157Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
