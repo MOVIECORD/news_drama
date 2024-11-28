@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-28T10:16:13.220Z</updated>
+    <updated>2024-11-28T11:11:40.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잠 한숨 못잔 임지연, '옥씨부인전' 부담감…"믿어주세요"]]></title>
+        <id>https://v.daum.net/v/20241128195002852</id>
+        <link href="https://v.daum.net/v/20241128195002852"/>
+        <updated>2024-11-28T11:11:32.814Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['애처가' 황동주, ♥조향기와 아름다운 이별했다…"함께 해줘서 감사"]]></title>
         <id>https://v.daum.net/v/20241128190209730</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241128165125522"/>
         <updated>2024-11-28T08:18:05.209Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연 "자격지심 有" '사극퀸' 되나?…'열혈사제2'→'지거전'과 경쟁]]></title>
-        <id>https://v.daum.net/v/20241128165005459</id>
-        <link href="https://v.daum.net/v/20241128165005459"/>
-        <updated>2024-11-28T08:18:05.210Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
