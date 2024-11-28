@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-28T11:11:40.867Z</updated>
+    <updated>2024-11-28T12:25:48.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민기, 인생 최대 위기…7년전 사고 숨은 진실은?]]></title>
+        <id>https://v.daum.net/v/20241128205349008</id>
+        <link href="https://v.daum.net/v/20241128205349008"/>
+        <updated>2024-11-28T12:25:40.003Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠 한숨 못잔 임지연, '옥씨부인전' 부담감…"믿어주세요"]]></title>
         <id>https://v.daum.net/v/20241128195002852</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241128170108872"/>
         <updated>2024-11-28T08:18:05.206Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘조립식 가족’ 서지혜 “사람 냄새 폴폴나는 작품, 함께할 수 있어 영광” 종영소감]]></title>
-        <id>https://v.daum.net/v/20241128165125522</id>
-        <link href="https://v.daum.net/v/20241128165125522"/>
-        <updated>2024-11-28T08:18:05.209Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
