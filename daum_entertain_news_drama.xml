@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-29T10:14:40.381Z</updated>
+    <updated>2024-11-29T11:11:30.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘질투 폭발’ 주지훈, 쉴 틈 없는 정유미 사수]]></title>
+        <id>https://v.daum.net/v/20241129195847084</id>
+        <link href="https://v.daum.net/v/20241129195847084"/>
+        <updated>2024-11-29T11:11:21.938Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서로의 위로가 된 김세정X이종원, 쌍방 로맨스 기대↑]]></title>
+        <id>https://v.daum.net/v/20241129191618940</id>
+        <link href="https://v.daum.net/v/20241129191618940"/>
+        <updated>2024-11-29T11:11:21.940Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신분 사기' 임지연, 자격지심 고백까지…김남길x유연석 꺾고 '연말 승자' 될까]]></title>
         <id>https://v.daum.net/v/20241129185002382</id>
         <link href="https://v.daum.net/v/20241129185002382"/>
         <updated>2024-11-29T10:14:32.772Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힘 키운 티빙 연합군, 넷플 천하 흔든다]]></title>
-        <id>https://v.daum.net/v/20241129183647209</id>
-        <link href="https://v.daum.net/v/20241129183647209"/>
-        <updated>2024-11-29T10:14:32.773Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김남길VS성준, 전투력 최강자의 맞대면…불꽃 액션 기대]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241129170018790"/>
         <updated>2024-11-29T08:17:41.413Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 이수현, '가족계획' 주연 발탁..배두나·류승범과 호흡]]></title>
-        <id>https://v.daum.net/v/20241129165032447</id>
-        <link href="https://v.daum.net/v/20241129165032447"/>
-        <updated>2024-11-29T08:17:41.413Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
