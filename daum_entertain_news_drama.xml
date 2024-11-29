@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-29T12:25:44.592Z</updated>
+    <updated>2024-11-29T13:23:22.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석, 협박범 폭탄 테러에 "해보자는 거지"]]></title>
+        <id>https://v.daum.net/v/20241129221824838</id>
+        <link href="https://v.daum.net/v/20241129221824838"/>
+        <updated>2024-11-29T13:23:15.911Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['열혈사제2' 측 "성모상 화재장면, 천주교 교구청 협의 하에 가상으로 제작"]]></title>
+        <id>https://v.daum.net/v/20241129221321747</id>
+        <link href="https://v.daum.net/v/20241129221321747"/>
+        <updated>2024-11-29T13:23:15.911Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박상남, 박하나와 입맞춤 시도→퇴짜… "운명은 다음에 뒤집어야겠네"]]></title>
         <id>https://v.daum.net/v/20241129210830456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241129175431382"/>
         <updated>2024-11-29T09:15:12.635Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민기X한지현 '페이스미', 일본·대만 OTT서 1위..해외 반응 '후끈']]></title>
-        <id>https://v.daum.net/v/20241129173747891</id>
-        <link href="https://v.daum.net/v/20241129173747891"/>
-        <updated>2024-11-29T09:15:12.635Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남길 해명한 '참교육', 원작 논란 알았다…김무열 "각색 대본·감독 신뢰"]]></title>
-        <id>https://v.daum.net/v/20241129173003645</id>
-        <link href="https://v.daum.net/v/20241129173003645"/>
-        <updated>2024-11-29T09:15:12.635Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
