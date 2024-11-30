@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-11-30T06:17:08.807Z</updated>
+    <updated>2024-11-30T07:12:39.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배인혁, 남장한 김지은에 끌렸나 “정체 대체 무엇이냐”]]></title>
+        <id>https://v.daum.net/v/20241130155402308</id>
+        <link href="https://v.daum.net/v/20241130155402308"/>
+        <updated>2024-11-30T07:12:30.841Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석, 채수빈 옆에 두고 폭발했다]]></title>
+        <id>https://v.daum.net/v/20241130152020892</id>
+        <link href="https://v.daum.net/v/20241130152020892"/>
+        <updated>2024-11-30T07:12:30.844Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 청룡영화상 첫 MC 소감 "오랜시간 동경… 영광"]]></title>
         <id>https://v.daum.net/v/20241130151617853</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241130135005970"/>
         <updated>2024-11-30T05:12:33.673Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지현, 이민기 마음 녹이는 초콜릿 플러팅 ‘능청 만렙’]]></title>
-        <id>https://v.daum.net/v/20241130134712950</id>
-        <link href="https://v.daum.net/v/20241130134712950"/>
-        <updated>2024-11-30T05:12:33.674Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도망 노비' 임지연, 추영우와 대면..지독한 악연으로 엮일까]]></title>
-        <id>https://v.daum.net/v/20241130134657948</id>
-        <link href="https://v.daum.net/v/20241130134657948"/>
-        <updated>2024-11-30T05:12:33.677Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
