@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-01T19:11:07.590Z</updated>
+    <updated>2024-12-01T20:14:13.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['사외다' 주지훈vs이시우, 정유미와 사택서 동거…삼각관계 시작 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241202051002304</id>
+        <link href="https://v.daum.net/v/20241202051002304"/>
+        <updated>2024-12-01T20:14:05.529Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아씨 꿈 이룰 것" 임지연, 윤서아 죽음에 추영우와 이별…아씨 삶 택했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241202002131125</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241201220206276"/>
         <updated>2024-12-01T13:20:21.769Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사외다’ 정유미, ♥주지훈과 어색한 기류… 전혜진 “드라마 보면 눈 맞더라” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241201215942262</id>
-        <link href="https://v.daum.net/v/20241201215942262"/>
-        <updated>2024-12-01T13:20:21.776Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
