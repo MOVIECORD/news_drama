@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-02T13:24:30.318Z</updated>
+    <updated>2024-12-02T14:13:13.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[故송재림 이어 박민재까지..30대 젊은 男배우 사망 소식에 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241202224425671</id>
+        <link href="https://v.daum.net/v/20241202224425671"/>
+        <updated>2024-12-02T14:13:01.291Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한채영 "'스캔들', 새로운 도전..시원섭섭해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241202221600522</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241202193011092"/>
         <updated>2024-12-02T11:11:42.333Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이유의 남자' 변우석, 청룡 비하인드..태평양 같은 어깨 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241202190001585</id>
-        <link href="https://v.daum.net/v/20241202190001585"/>
-        <updated>2024-12-02T10:15:30.781Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
