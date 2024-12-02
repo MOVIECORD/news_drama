@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-02T14:13:13.239Z</updated>
+    <updated>2024-12-02T15:14:24.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故박민재, '작은아씨들'·'고거전' 남기고 떠났다…중국서 심정지 사망]]></title>
+        <id>https://v.daum.net/v/20241202234922214</id>
+        <link href="https://v.daum.net/v/20241202234922214"/>
+        <updated>2024-12-02T15:14:16.041Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故송재림 이어 박민재까지..30대 젊은 男배우 사망 소식에 '충격']]></title>
         <id>https://v.daum.net/v/20241202224425671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241202193211145"/>
         <updated>2024-12-02T11:11:42.332Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정 子, 사고로 청력 잃어…♥동업자 남편과도 갈등 심화]]></title>
-        <id>https://v.daum.net/v/20241202193011092</id>
-        <link href="https://v.daum.net/v/20241202193011092"/>
-        <updated>2024-12-02T11:11:42.333Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
