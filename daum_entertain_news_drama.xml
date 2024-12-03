@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-03T15:14:24.583Z</updated>
+    <updated>2024-12-03T16:16:27.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비상계엄 선포에 연예계 예의주시…서현진 인터뷰 취소]]></title>
+        <id>https://v.daum.net/v/20241204004549934</id>
+        <link href="https://v.daum.net/v/20241204004549934"/>
+        <updated>2024-12-03T16:16:19.723Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이한신' 고수, 취업조건부 가석방 비리 폭로→이학주, 남민우 살해 '충격']]></title>
         <id>https://v.daum.net/v/20241203222604894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241203190245693"/>
         <updated>2024-12-03T10:15:19.413Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공개 연애 시작' 김세정·이종원, 결전의 날 밝았다…심각 표정]]></title>
-        <id>https://v.daum.net/v/20241203190125675</id>
-        <link href="https://v.daum.net/v/20241203190125675"/>
-        <updated>2024-12-03T10:15:19.414Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
