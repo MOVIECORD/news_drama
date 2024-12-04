@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-04T21:12:49.001Z</updated>
+    <updated>2024-12-04T22:13:00.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[임현서 "'피의 게임3' 감옥보다 실제 구치소가 나을 정도" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241205070103057</id>
+        <link href="https://v.daum.net/v/20241205070103057"/>
+        <updated>2024-12-04T22:12:53.099Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가족계획’ 류승범 “지금 황금의 시간…딸이 새 길 열어줘” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241205060513405</id>
@@ -100,13 +107,6 @@
         <id>https://v.daum.net/v/20241204174132664</id>
         <link href="https://v.daum.net/v/20241204174132664"/>
         <updated>2024-12-04T09:14:29.152Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현역가왕2', 비상 계엄 선포로 방송 중단 "다음주 재개" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241204173108277</id>
-        <link href="https://v.daum.net/v/20241204173108277"/>
-        <updated>2024-12-04T09:14:29.153Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
