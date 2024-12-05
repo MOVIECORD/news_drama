@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-05T22:12:52.660Z</updated>
+    <updated>2024-12-05T23:13:53.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성준 vs 신은정, 고문 신 연기대결 '팽팽']]></title>
+        <id>https://v.daum.net/v/20241206080234224</id>
+        <link href="https://v.daum.net/v/20241206080234224"/>
+        <updated>2024-12-05T23:13:41.206Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김무준, 댕댕美 폭발하는데 심쿵 피지컬…연하남 정석]]></title>
+        <id>https://v.daum.net/v/20241206074933985</id>
+        <link href="https://v.daum.net/v/20241206074933985"/>
+        <updated>2024-12-05T23:13:41.207Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이이경 수상한 정황 포착…코앞에 닥친 절체절명의 위기]]></title>
+        <id>https://v.daum.net/v/20241206074533927</id>
+        <link href="https://v.daum.net/v/20241206074533927"/>
+        <updated>2024-12-05T23:13:41.207Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지금 거신 전화는’ 유연석의 전성시대]]></title>
         <id>https://v.daum.net/v/20241206070021323</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241205203930189"/>
         <updated>2024-12-05T12:26:06.518Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한가인 입원한 이유=김동준 때문? "도플갱어 만나면 죽는다고" 폭소]]></title>
-        <id>https://v.daum.net/v/20241205200905463</id>
-        <link href="https://v.daum.net/v/20241205200905463"/>
-        <updated>2024-12-05T11:11:53.616Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["짐 빼서 나갔더라?" 정영섭, 내연녀 최정윤 집 나와...심이영X송창의 재회]]></title>
-        <id>https://v.daum.net/v/20241205195900254</id>
-        <link href="https://v.daum.net/v/20241205195900254"/>
-        <updated>2024-12-05T11:11:53.617Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공유, 정치적 이용 당했나…"너무 힘들면 떠날 수도"]]></title>
-        <id>https://v.daum.net/v/20241205192120584</id>
-        <link href="https://v.daum.net/v/20241205192120584"/>
-        <updated>2024-12-05T11:11:53.619Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
