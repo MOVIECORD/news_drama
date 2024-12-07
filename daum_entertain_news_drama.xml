@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-07T20:13:28.787Z</updated>
+    <updated>2024-12-07T21:11:26.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주지훈, 정유미 앞에서 하반신 노출→자괴감에 식음전폐]]></title>
+        <id>https://v.daum.net/v/20241208060002657</id>
+        <link href="https://v.daum.net/v/20241208060002657"/>
+        <updated>2024-12-07T21:11:18.005Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권력을 만드는 것은 무엇인가…‘체크인 한양’ 김의성→한재석 치열한 정치 싸움]]></title>
         <id>https://v.daum.net/v/20241208000252522</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241207215405031"/>
         <updated>2024-12-07T13:20:24.593Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금새록, '100억 절도' 가족 범행 알고 김정현에 급포옹→로맨스로 위기 탈출?]]></title>
-        <id>https://v.daum.net/v/20241207214518860</id>
-        <link href="https://v.daum.net/v/20241207214518860"/>
-        <updated>2024-12-07T13:20:24.593Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
