@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-07T10:13:58.194Z</updated>
+    <updated>2024-12-07T11:10:32.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘김우석♥︎’ 강나언, 모교 한예종 시국선언 공유..“예술은 권력의 억압에 굴하지 않는다”]]></title>
+        <id>https://v.daum.net/v/20241207195722429</id>
+        <link href="https://v.daum.net/v/20241207195722429"/>
+        <updated>2024-12-07T11:10:24.331Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['몸값 100억' 변우석, 차은우 꺾나.. '글로벌 핫 캐릭터 어워즈' 6연속 1위]]></title>
         <id>https://v.daum.net/v/20241207183226934</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241207154930192"/>
         <updated>2024-12-07T07:12:28.109Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼해YOU' 이이경X조수민, 서점 데이트 포착…본격 로맨스 시작?]]></title>
-        <id>https://v.daum.net/v/20241207154130082</id>
-        <link href="https://v.daum.net/v/20241207154130082"/>
-        <updated>2024-12-07T07:12:28.112Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
