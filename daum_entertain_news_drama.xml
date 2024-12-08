@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-08T10:13:00.698Z</updated>
+    <updated>2024-12-08T11:10:23.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조수민, 이이경·지이수 매칭 반대..“지이수, 그럴 자격 없어”]]></title>
+        <id>https://v.daum.net/v/20241208200933972</id>
+        <link href="https://v.daum.net/v/20241208200933972"/>
+        <updated>2024-12-08T11:10:14.519Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘옥씨부인전’ 임지연, 또 다른 추영우와 만난다]]></title>
+        <id>https://v.daum.net/v/20241208200601916</id>
+        <link href="https://v.daum.net/v/20241208200601916"/>
+        <updated>2024-12-08T11:10:14.521Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“진짜 결혼해유?”…턱시도 입은 이이경, 드디어 장가 가나]]></title>
         <id>https://v.daum.net/v/20241208184216880</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241208151303478"/>
         <updated>2024-12-08T06:17:31.721Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이한신' 권유리, 살인사건 용의자 이학주 의심…수사 시작]]></title>
-        <id>https://v.daum.net/v/20241208150700307</id>
-        <link href="https://v.daum.net/v/20241208150700307"/>
-        <updated>2024-12-08T06:17:31.722Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연, 또다른 추영우 만났다…베일에 싸인 성윤겸 첫등장]]></title>
-        <id>https://v.daum.net/v/20241208144815797</id>
-        <link href="https://v.daum.net/v/20241208144815797"/>
-        <updated>2024-12-08T06:17:31.724Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
