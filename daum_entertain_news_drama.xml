@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-09T08:19:48.627Z</updated>
+    <updated>2024-12-09T09:15:48.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어게임2' 황동혁 감독 "시즌2는 성기훈과 프런트맨 갈등 구조가 가장 중요한 핵심"]]></title>
+        <id>https://v.daum.net/v/20241209174201102</id>
+        <link href="https://v.daum.net/v/20241209174201102"/>
+        <updated>2024-12-09T09:15:40.495Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송중기, '냉부해'·'더 시즌즈'·'살롱드립' 예능 출격]]></title>
+        <id>https://v.daum.net/v/20241209172915693</id>
+        <link href="https://v.daum.net/v/20241209172915693"/>
+        <updated>2024-12-09T09:15:40.496Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로몬, '20살 차' 배두나에 '엄마' 호칭 "젊은 母 느낌으로… "]]></title>
         <id>https://v.daum.net/v/20241209171003079</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241209155201003"/>
         <updated>2024-12-09T07:14:04.447Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“코인→성소수자” 젊은 세대 조명한 ‘오징어게임2’, 시즌1과 어떻게 다를까]]></title>
-        <id>https://v.daum.net/v/20241209155018930</id>
-        <link href="https://v.daum.net/v/20241209155018930"/>
-        <updated>2024-12-09T07:14:04.447Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로몬 "류승범='형님'인데 배두나는 '선배님'…'누나' 부르고파"]]></title>
-        <id>https://v.daum.net/v/20241209154240640</id>
-        <link href="https://v.daum.net/v/20241209154240640"/>
-        <updated>2024-12-09T07:14:04.449Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
