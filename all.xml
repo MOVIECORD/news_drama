@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-09T19:11:17.249Z</updated>
+    <updated>2024-12-09T20:15:27.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[서현진, 40대에도 여전한 ♥결혼 가치관…"사는 게 무료한가, 재미없나" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241210051002664</id>
+        <link href="https://v.daum.net/v/20241210051002664"/>
+        <updated>2024-12-09T20:15:19.493Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥씨부인전' 김선빈, 윤서아 향한 절절한 사랑…몰입감 UP (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241209231741826</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241209194634983"/>
         <updated>2024-12-09T11:11:57.358Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정호연, 이미지 변신 제대로... 풀뱅 앞머리 ‘찰떡’이네 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241209193408742</id>
-        <link href="https://v.daum.net/v/20241209193408742"/>
-        <updated>2024-12-09T11:11:57.358Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
