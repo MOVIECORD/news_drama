@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-10T14:14:32.974Z</updated>
+    <updated>2024-12-10T15:14:39.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정찬, 촛불 시위까지 나갔는데..유언비어에 고통 "저 따위 글 없다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241210235830914</id>
+        <link href="https://v.daum.net/v/20241210235830914"/>
+        <updated>2024-12-10T15:14:31.803Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김국희, 악랄한 사기꾼 완벽 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241210224202397</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241210184424673"/>
         <updated>2024-12-10T10:15:11.804Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈, '조명가게' 스틸컷 보고 충격 "심한 거북목, 치료 필요한 상태" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241210184101618</id>
-        <link href="https://v.daum.net/v/20241210184101618"/>
-        <updated>2024-12-10T10:15:11.804Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
