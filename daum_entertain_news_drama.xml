@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-12T12:26:27.790Z</updated>
+    <updated>2024-12-12T13:24:14.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돌싱' 전소민, 졸지에 엄마로 소문났다…구남친 권혁도 대면]]></title>
+        <id>https://v.daum.net/v/20241212214500431</id>
+        <link href="https://v.daum.net/v/20241212214500431"/>
+        <updated>2024-12-12T13:24:06.508Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권도형, 배신한 연인 박리원에 "맹물 같아"→"결혼빙자 사기죄" 협박 당한 한그루]]></title>
         <id>https://v.daum.net/v/20241212204731621</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241212175256220"/>
         <updated>2024-12-12T09:14:55.349Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘발바닥이 뜨거워서’ 김강민, 뜨거운 청춘]]></title>
-        <id>https://v.daum.net/v/20241212173818641</id>
-        <link href="https://v.daum.net/v/20241212173818641"/>
-        <updated>2024-12-12T09:14:55.351Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
