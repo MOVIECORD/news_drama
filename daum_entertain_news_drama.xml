@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-13T11:11:40.492Z</updated>
+    <updated>2024-12-13T12:26:32.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한그루, 스파이로 몬 박리원에 "죄없는 사람 따귀 날려"→첫 출근 '감격']]></title>
+        <id>https://v.daum.net/v/20241213204830686</id>
+        <link href="https://v.daum.net/v/20241213204830686"/>
+        <updated>2024-12-13T12:25:30.094Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박보영, 왜 갈수록 어려지나요? 나이 가늠할 수 없는 러블리!]]></title>
+        <id>https://v.daum.net/v/20241213204342613</id>
+        <link href="https://v.daum.net/v/20241213204342613"/>
+        <updated>2024-12-13T12:25:30.098Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뒤늦게 밝혀진 故김수미 '자필 탄원서'..죽기 전까지 '결백 호소' 먹먹]]></title>
         <id>https://v.daum.net/v/20241213195323824</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241213180302472"/>
         <updated>2024-12-13T09:14:28.775Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이한신' 권유리, 형사 위해 7kg 빼더니 이렇게까지 노력하다니]]></title>
-        <id>https://v.daum.net/v/20241213180023380</id>
-        <link href="https://v.daum.net/v/20241213180023380"/>
-        <updated>2024-12-13T09:14:28.775Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈♥정유미 비밀 연애 포착, 좋아 죽네 “평생 함께하자”]]></title>
-        <id>https://v.daum.net/v/20241213175856292</id>
-        <link href="https://v.daum.net/v/20241213175856292"/>
-        <updated>2024-12-13T09:14:28.778Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
