@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-17T13:24:55.819Z</updated>
+    <updated>2024-12-17T14:13:15.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주지훈, 얼굴이 피투성이…고양이상 아닌 '고양이 눈'이었네]]></title>
+        <id>https://v.daum.net/v/20241217230302786</id>
+        <link href="https://v.daum.net/v/20241217230302786"/>
+        <updated>2024-12-17T14:13:07.285Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동완, 백댄서 해고→문화센터 출근 근황…오형제 라인업 공개]]></title>
+        <id>https://v.daum.net/v/20241217230014765</id>
+        <link href="https://v.daum.net/v/20241217230014765"/>
+        <updated>2024-12-17T14:13:07.288Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이한신' 고수, 조승연 가석방 통과→마약류 관리법 위반으로 체포돼 '충격']]></title>
         <id>https://v.daum.net/v/20241217220330450</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241217190018304"/>
         <updated>2024-12-17T10:14:35.075Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인우, 공익 3년 기다리다 군면제?…소속사 '묵묵부답']]></title>
-        <id>https://v.daum.net/v/20241217182935748</id>
-        <link href="https://v.daum.net/v/20241217182935748"/>
-        <updated>2024-12-17T10:14:35.075Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옥씨부인전' 임지연, 드라마 출연자 화제성 또 1위...2주 연속 정상 '싹쓸이']]></title>
-        <id>https://v.daum.net/v/20241217182604671</id>
-        <link href="https://v.daum.net/v/20241217182604671"/>
-        <updated>2024-12-17T10:14:35.077Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
