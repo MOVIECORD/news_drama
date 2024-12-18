@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-18T12:25:15.812Z</updated>
+    <updated>2024-12-18T13:23:13.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현빈 "안중근 의사 역, 굉장한 압박감과 무게감…진심 전달되길"]]></title>
+        <id>https://v.daum.net/v/20241218220103948</id>
+        <link href="https://v.daum.net/v/20241218220103948"/>
+        <updated>2024-12-18T13:22:11.322Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신데렐라 게임' 최상, 한그루에 같은 편 제안.."책임감 느낄 필요 無"]]></title>
         <id>https://v.daum.net/v/20241218210417157</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241218184114981"/>
         <updated>2024-12-18T10:14:22.448Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["목소리도 비슷" 추영우 친동생=배우 차정우..'옥씨부인전' 대역이었다]]></title>
-        <id>https://v.daum.net/v/20241218182941757</id>
-        <link href="https://v.daum.net/v/20241218182941757"/>
-        <updated>2024-12-18T10:14:22.449Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
