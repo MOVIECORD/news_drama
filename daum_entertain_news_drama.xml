@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-18T14:14:25.779Z</updated>
+    <updated>2024-12-18T15:13:51.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수상한 그녀' 진영, 화려한 등장…"실망하시는 일 없을 것" 자신만만]]></title>
+        <id>https://v.daum.net/v/20241218232403517</id>
+        <link href="https://v.daum.net/v/20241218232403517"/>
+        <updated>2024-12-18T15:13:44.798Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수상한 그녀' 인교진, 개원식서 난동…"한 마디 말도 없이 뒤통수"]]></title>
+        <id>https://v.daum.net/v/20241218231434467</id>
+        <link href="https://v.daum.net/v/20241218231434467"/>
+        <updated>2024-12-18T15:13:44.799Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김해숙, 정지소로 변했다…"이 얼굴은 누구 얼굴이여?" 경악]]></title>
         <id>https://v.daum.net/v/20241218230804442</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241218190103258"/>
         <updated>2024-12-18T10:14:22.445Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조수민 "이이경과 연애, 적극 추천…상대에게 잘해줄 듯"]]></title>
-        <id>https://v.daum.net/v/20241218185003100</id>
-        <link href="https://v.daum.net/v/20241218185003100"/>
-        <updated>2024-12-18T10:14:22.448Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 황정민, 스파이끼리 한 팀 이뤘다‥무르익은 티키타카]]></title>
-        <id>https://v.daum.net/v/20241218184249001</id>
-        <link href="https://v.daum.net/v/20241218184249001"/>
-        <updated>2024-12-18T10:14:22.448Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
