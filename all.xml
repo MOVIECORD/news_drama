@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-18T13:23:13.507Z</updated>
+    <updated>2024-12-18T14:14:25.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김해숙, 정지소로 변했다…"이 얼굴은 누구 얼굴이여?" 경악 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241218230804442</id>
+        <link href="https://v.daum.net/v/20241218230804442"/>
+        <updated>2024-12-18T14:13:23.744Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈 "안중근 의사 역, 굉장한 압박감과 무게감…진심 전달되길" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241218220103948</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241218184249001"/>
         <updated>2024-12-18T10:14:22.448Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈돌' 정미애 4남매, 갑자기 오열 사태…다둥이맘 일상 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241218184114981</id>
-        <link href="https://v.daum.net/v/20241218184114981"/>
-        <updated>2024-12-18T10:14:22.448Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
