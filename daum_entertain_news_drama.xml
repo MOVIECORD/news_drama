@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-20T19:11:07.993Z</updated>
+    <updated>2024-12-20T20:13:51.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황동혁 감독, 美언론 인터뷰서 "'오징어게임'에 질렸다" 농담]]></title>
+        <id>https://v.daum.net/v/20241221050149567</id>
+        <link href="https://v.daum.net/v/20241221050149567"/>
+        <updated>2024-12-20T20:13:43.234Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['열혈사제2' 김남길, 성준 협박에 "장난은 여기까지" 통쾌한 반격]]></title>
         <id>https://v.daum.net/v/20241221010222109</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241220210324272"/>
         <updated>2024-12-20T12:23:22.078Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈♥정유미, 18년전 추억 몽글몽글…볼 콕 찌르며 애교 시전]]></title>
-        <id>https://v.daum.net/v/20241220210102236</id>
-        <link href="https://v.daum.net/v/20241220210102236"/>
-        <updated>2024-12-20T12:23:22.079Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
