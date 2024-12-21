@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-21T17:11:11.171Z</updated>
+    <updated>2024-12-21T18:16:22.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[韓연예계 새 역사…'23년만 대상' 장나라, "궁금한 배우 되고파" 눈물 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241222025547673</id>
+        <link href="https://v.daum.net/v/20241222025547673"/>
+        <updated>2024-12-21T18:16:15.232Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대상' 장나라, 데뷔 23년만 영예 "♥정하철 많이 사랑해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241222020613627</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241222011549488"/>
         <updated>2024-12-21T17:11:01.409Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘커넥션’ 전미도, 최우수상 “두 마리 토끼 잡은 작품” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241222011407480</id>
-        <link href="https://v.daum.net/v/20241222011407480"/>
-        <updated>2024-12-21T17:11:01.411Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
