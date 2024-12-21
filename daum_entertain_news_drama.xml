@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-21T19:09:58.220Z</updated>
+    <updated>2024-12-21T20:13:26.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장나라 대상, 이변 없었다…김남길·안보현 최우수상, '굿파트너' 8관왕]]></title>
+        <id>https://v.daum.net/v/20241222050102815</id>
+        <link href="https://v.daum.net/v/20241222050102815"/>
+        <updated>2024-12-21T20:13:16.995Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓연예계 새 역사…'23년만 대상' 장나라, "궁금한 배우 되고파" 눈물]]></title>
         <id>https://v.daum.net/v/20241222025547673</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241222012103531"/>
         <updated>2024-12-21T17:11:01.408Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿파트너' 장나라, 영예의 대상…"남편 많이 사랑해"]]></title>
-        <id>https://v.daum.net/v/20241222011549488</id>
-        <link href="https://v.daum.net/v/20241222011549488"/>
-        <updated>2024-12-21T17:11:01.409Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
