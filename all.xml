@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-21T09:12:03.712Z</updated>
+    <updated>2024-12-21T10:12:15.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[수지, 한겨울에도 이렇게 청순할 수 있는 이유 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241221191139834</id>
+        <link href="https://v.daum.net/v/20241221191139834"/>
+        <updated>2024-12-21T10:12:08.827Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'오징어 게임' 아주 질린다"…치아 8개 빠진 황동혁 감독, 공개 전 깜짝 고백 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241221181116049</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241221155801989"/>
         <updated>2024-12-21T07:10:53.929Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애 시작한 주지훈♥정유미, 포옹으로 교감..애틋한 위로 스킨십 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241221154047860</id>
-        <link href="https://v.daum.net/v/20241221154047860"/>
-        <updated>2024-12-21T07:10:53.929Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
