@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-22T02:50:52.562Z</updated>
+    <updated>2024-12-22T03:21:36.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[있지 리아X추영우 ‘옥씨부인전’ OST 가창... 진한 감동 선사]]></title>
+        <id>https://v.daum.net/v/20241222121323663</id>
+        <link href="https://v.daum.net/v/20241222121323663"/>
+        <updated>2024-12-22T03:20:34.666Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다리미' 김현준, '박지영=도둑' 사실 확인하고 '충격']]></title>
+        <id>https://v.daum.net/v/20241222120234526</id>
+        <link href="https://v.daum.net/v/20241222120234526"/>
+        <updated>2024-12-22T03:20:34.666Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[믿고 보는 김성균 ‘열혈사제’로 5년만 또 우수연기상]]></title>
         <id>https://v.daum.net/v/20241222114818139</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241222101204578"/>
         <updated>2024-12-22T02:50:44.918Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배인혁, 김지은 저고리 찢었다…첫방부터 케미 폭발]]></title>
-        <id>https://v.daum.net/v/20241222100606497</id>
-        <link href="https://v.daum.net/v/20241222100606497"/>
-        <updated>2024-12-22T02:50:44.920Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옥씨부인전' 임지연, 추영우 손잡고 또 한 번 일어섰다]]></title>
-        <id>https://v.daum.net/v/20241222100257432</id>
-        <link href="https://v.daum.net/v/20241222100257432"/>
-        <updated>2024-12-22T01:03:03.848Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
