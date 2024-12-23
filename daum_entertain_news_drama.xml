@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-23T13:19:56.557Z</updated>
+    <updated>2024-12-23T14:12:02.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정, 청각장애 아들 위해 영끌해 공장 샀다 “잔금 10억도 문제 없어”]]></title>
+        <id>https://v.daum.net/v/20241223231122236</id>
+        <link href="https://v.daum.net/v/20241223231122236"/>
+        <updated>2024-12-23T14:11:54.369Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조명가게’ 김설현 “많이 고민한 작품, 찾아준 분들께 감사” 종영소감]]></title>
         <id>https://v.daum.net/v/20241223221408878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241223190106764"/>
         <updated>2024-12-23T10:13:51.975Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지훈♥정유미, 교제 허락받고 쌍방 프러포즈 "평생 함께하자"]]></title>
-        <id>https://v.daum.net/v/20241223184537474</id>
-        <link href="https://v.daum.net/v/20241223184537474"/>
-        <updated>2024-12-23T10:13:51.976Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
