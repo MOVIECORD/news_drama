@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-24T18:16:45.724Z</updated>
+    <updated>2024-12-24T19:10:57.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['데이팅앱→원나잇' 박상원♥송옥숙 "파격 키스신? 부담스러웠다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241225032305977</id>
+        <link href="https://v.daum.net/v/20241225032305977"/>
+        <updated>2024-12-24T19:09:55.579Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고현정, 려운에 '유치권' 선언… "이제부터 려운 내 것, 나타나지 마라" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241224231900835</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241224192907570"/>
         <updated>2024-12-24T11:10:35.333Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세영, 父와 이 정도로 사이 어색했나…집까지 나간 딸 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241224190314224</id>
-        <link href="https://v.daum.net/v/20241224190314224"/>
-        <updated>2024-12-24T10:13:20.948Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
