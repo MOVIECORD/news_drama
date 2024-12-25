@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-25T09:13:21.062Z</updated>
+    <updated>2024-12-25T10:13:46.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희 모친 `불법 도박장 개설 혐의` 징역형 집유]]></title>
+        <id>https://v.daum.net/v/20241225184012515</id>
+        <link href="https://v.daum.net/v/20241225184012515"/>
+        <updated>2024-12-25T10:13:39.408Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허이재, '해바라기' 母도 못 알아 본 얼굴..확 달라진 '제2의 김태희']]></title>
         <id>https://v.daum.net/v/20241225180018846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241225152500786"/>
         <updated>2024-12-25T07:12:11.802Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민호 “지금 연애하나” 질문에 녹화장 이탈]]></title>
-        <id>https://v.daum.net/v/20241225151446530</id>
-        <link href="https://v.daum.net/v/20241225151446530"/>
-        <updated>2024-12-25T06:18:36.575Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
