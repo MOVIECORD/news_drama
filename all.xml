@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-25T12:23:54.539Z</updated>
+    <updated>2024-12-25T13:19:25.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김준호, 육아 내팽개쳤다..골프→PC방까지 "子 정우 깬 줄도 몰라" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241225213110157</id>
+        <link href="https://v.daum.net/v/20241225213110157"/>
+        <updated>2024-12-25T13:18:23.375Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최종환, 손자 김건우 정체에 '충격'.."지난 밤 만났던 아이" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241225204417710</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241225164511329"/>
         <updated>2024-12-25T08:16:19.063Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소민, '돌싱'도 서러운데 불륜녀 낙인..난투극 후 최다니엘 첫대면 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241225162439968</id>
-        <link href="https://v.daum.net/v/20241225162439968"/>
-        <updated>2024-12-25T08:16:19.064Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
