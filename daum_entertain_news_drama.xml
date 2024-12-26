@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-26T20:15:11.060Z</updated>
+    <updated>2024-12-26T21:11:18.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 ‘열혈사제2’, 대박 아니어도 의미 있는 시즌2]]></title>
+        <id>https://v.daum.net/v/20241227060012541</id>
+        <link href="https://v.daum.net/v/20241227060012541"/>
+        <updated>2024-12-26T21:11:10.895Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서수희, 성추행 피해자였다…'성소수자'라는 이유로 참형 위기]]></title>
+        <id>https://v.daum.net/v/20241227055902510</id>
+        <link href="https://v.daum.net/v/20241227055902510"/>
+        <updated>2024-12-26T21:11:10.898Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'오겜2' 탑 봤어?"..약쟁이 랩 연기는 오글, 예고편 박제 SNS는 창피]]></title>
         <id>https://v.daum.net/v/20241227001527966</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241226190924553"/>
         <updated>2024-12-26T10:13:08.510Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성유리 억울하다더니..♥︎안성현, ‘코인 상장 뒷돈 의혹’ 징역 4년 6개월 선고]]></title>
-        <id>https://v.daum.net/v/20241226181018256</id>
-        <link href="https://v.daum.net/v/20241226181018256"/>
-        <updated>2024-12-26T09:13:10.180Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오징어게임2’ 본편 떴다! 죽음의 게임에 다시 뛰어드는 이정재]]></title>
-        <id>https://v.daum.net/v/20241226173838316</id>
-        <link href="https://v.daum.net/v/20241226173838316"/>
-        <updated>2024-12-26T09:13:10.183Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
