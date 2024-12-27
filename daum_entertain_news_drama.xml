@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-27T12:22:49.713Z</updated>
+    <updated>2024-12-27T13:18:41.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오징어게임2’, 여캐는 구색 갖추기? 센 언니or성녀뿐인 ‘납작 설정’]]></title>
+        <id>https://v.daum.net/v/20241227221221100</id>
+        <link href="https://v.daum.net/v/20241227221221100"/>
+        <updated>2024-12-27T13:18:34.461Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나영희, 실종된 딸 죽음 소식에 패닉 "일곱 살 손자 있다"]]></title>
         <id>https://v.daum.net/v/20241227203830205</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241227173732088"/>
         <updated>2024-12-27T09:13:10.758Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 구성환, 1박 2일 홍콩 여행…장국영 발자취 좇는다]]></title>
-        <id>https://v.daum.net/v/20241227173713083</id>
-        <link href="https://v.daum.net/v/20241227173713083"/>
-        <updated>2024-12-27T09:13:10.758Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
