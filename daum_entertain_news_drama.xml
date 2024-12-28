@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-28T15:12:26.209Z</updated>
+    <updated>2024-12-28T16:13:40.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옥씨부인전' 과부 된 임지연, 7년 기다린 추영우 시신 발견…'충격 엔딩']]></title>
+        <id>https://v.daum.net/v/20241229004221193</id>
+        <link href="https://v.daum.net/v/20241229004221193"/>
+        <updated>2024-12-28T16:13:32.206Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, 과부 됐다..7년 기다린 추영우 주검으로 “찾지도 못하고 기다렸는데"]]></title>
         <id>https://v.daum.net/v/20241229000716108</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['지거전' 채수빈, 유연석에 "사랑해요" 한 마디 남기고 납치범과 물속으로]]></title>
+        <title type="html"><![CDATA['지거전' 채수빈, 유연석에 "사랑해요" 고백 후 납치범과 강물로 추락]]></title>
         <id>https://v.daum.net/v/20241229000015031</id>
         <link href="https://v.daum.net/v/20241229000015031"/>
         <updated>2024-12-28T15:11:23.920Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241228230650836"/>
         <updated>2024-12-28T14:10:23.930Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추영우, 옥살이 중에도 임지연 걱정 뿐 "행복하게 잘 지냈느냐?"]]></title>
-        <id>https://v.daum.net/v/20241228230130790</id>
-        <link href="https://v.daum.net/v/20241228230130790"/>
-        <updated>2024-12-28T14:10:23.930Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
