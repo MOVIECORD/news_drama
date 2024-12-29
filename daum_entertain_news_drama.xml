@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-29T15:11:45.860Z</updated>
+    <updated>2024-12-29T16:13:44.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['옥씨부인전' 연우, ♥김재원에 계획적 접근 고백..임지연 "이미 알고 있어"]]></title>
+        <id>https://v.daum.net/v/20241230001211745</id>
+        <link href="https://v.daum.net/v/20241230001211745"/>
+        <updated>2024-12-29T16:13:36.057Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연 남편 추영우, 청나라서 살아있었다.."이젠 집으로 가요"]]></title>
         <id>https://v.daum.net/v/20241230000404547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241229225129118"/>
         <updated>2024-12-29T14:10:33.460Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연, 관아 시신 확인.."서방님 아니다, 어깨에 상흔이 없다"]]></title>
-        <id>https://v.daum.net/v/20241229225056115</id>
-        <link href="https://v.daum.net/v/20241229225056115"/>
-        <updated>2024-12-29T14:10:33.462Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
