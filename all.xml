@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-29T10:13:02.593Z</updated>
+    <updated>2024-12-29T11:10:31.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최우진, 데뷔작 ‘지금 거신 전화는’ 눈도장...연기력 갖춘 차세대 주인공 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241229193300062</id>
+        <link href="https://v.daum.net/v/20241229193300062"/>
+        <updated>2024-12-29T11:09:29.400Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘정숙한 세일즈’·‘소년시대’·‘이친자’ 김정진, 신인상 수상..눈도장 찍은 연기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241229183320184</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241229161346699"/>
         <updated>2024-12-29T08:15:14.998Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지윤, 뉴욕여행 중 여객기 참사 비보에 “여행지서 들으니 더 마음 안 좋아” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241229155931439</id>
-        <link href="https://v.daum.net/v/20241229155931439"/>
-        <updated>2024-12-29T07:11:38.271Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
