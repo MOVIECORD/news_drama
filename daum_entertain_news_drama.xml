@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2024-12-31T09:14:00.898Z</updated>
+    <updated>2024-12-31T10:14:21.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 카운트다운 없는 연말…방송가는 올스톱→애도 물결]]></title>
+        <id>https://v.daum.net/v/20241231183643239</id>
+        <link href="https://v.daum.net/v/20241231183643239"/>
+        <updated>2024-12-31T10:13:19.653Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안유성 명장 "'흑백요리사' 셰프들도 요리 봉사 동참…유가족 도울 것"]]></title>
+        <id>https://v.daum.net/v/20241231181948033</id>
+        <link href="https://v.daum.net/v/20241231181948033"/>
+        <updated>2024-12-31T10:13:19.653Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신승환, 임지연 악랄하게 괴롭히네..완벽한 캐아일체]]></title>
         <id>https://v.daum.net/v/20241231172850714</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241231145722407"/>
         <updated>2024-12-31T06:17:18.703Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임2' 감독 "탑, '약쟁이 래퍼' 연기? 매우 만족한다" 소신 마이웨이]]></title>
-        <id>https://v.daum.net/v/20241231144511027</id>
-        <link href="https://v.daum.net/v/20241231144511027"/>
-        <updated>2024-12-31T06:17:18.704Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 잘한다 했더니…'오징어 게임2' 강하늘 공기놀이, '생활의 달인' 손 대역이었다]]></title>
-        <id>https://v.daum.net/v/20241231144506020</id>
-        <link href="https://v.daum.net/v/20241231144506020"/>
-        <updated>2024-12-31T06:17:18.706Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스]]></content>
     </entry>
 </feed>
