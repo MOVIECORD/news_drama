@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-31T10:14:21.618Z</updated>
+    <updated>2024-12-31T11:11:01.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["시청량 425%↑" 피범벅 배두나♥류승범, 자녀들까지 삐리…시즌2가 시급합니다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20241231195002202</id>
+        <link href="https://v.daum.net/v/20241231195002202"/>
+        <updated>2024-12-31T11:10:53.744Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새해 카운트다운 없는 연말…방송가는 올스톱→애도 물결 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20241231183643239</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20241231150056530"/>
         <updated>2024-12-31T06:17:18.702Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수현, 데뷔작 존재감 확실히 입증 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20241231145722407</id>
-        <link href="https://v.daum.net/v/20241231145722407"/>
-        <updated>2024-12-31T06:17:18.703Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
