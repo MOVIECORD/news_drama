@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-04T10:12:44.690Z</updated>
+    <updated>2025-01-04T11:10:46.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배인혁·김지은, 뭔가 잘못 됐다.."운명 가를 마지막 시험"]]></title>
+        <id>https://v.daum.net/v/20250104200822534</id>
+        <link href="https://v.daum.net/v/20250104200822534"/>
+        <updated>2025-01-04T11:09:44.779Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가난한 의사 이민호, 납치 됐다]]></title>
+        <id>https://v.daum.net/v/20250104194228261</id>
+        <link href="https://v.daum.net/v/20250104194228261"/>
+        <updated>2025-01-04T11:09:44.781Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이민호, 검은 무리에 납치→재벌 회장과 ‘위험한 독대’…그 뒤에 숨겨진 비밀은?]]></title>
+        <id>https://v.daum.net/v/20250104192711148</id>
+        <link href="https://v.daum.net/v/20250104192711148"/>
+        <updated>2025-01-04T11:09:44.783Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['옥씨부인전' 전익령, 임지연 앞에 다시 나타났다…팽팽한 긴장감]]></title>
         <id>https://v.daum.net/v/20250104183104838</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250104152739190"/>
         <updated>2025-01-04T07:11:36.560Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민호 납치 사건 전말…‘별들에게 물어봐’ 첫 방송부터 아슬아슬]]></title>
-        <id>https://v.daum.net/v/20250104151305048</id>
-        <link href="https://v.daum.net/v/20250104151305048"/>
-        <updated>2025-01-04T06:16:13.667Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘체크인 한양’ 배인혁, 호색한 영감에게서 김지은 구해낼까]]></title>
-        <id>https://v.daum.net/v/20250104151105034</id>
-        <link href="https://v.daum.net/v/20250104151105034"/>
-        <updated>2025-01-04T06:16:13.669Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채수빈, 그리움 속 텅 빈 눈빛...종적 감춘 유연석과 재회할까]]></title>
-        <id>https://v.daum.net/v/20250104150131922</id>
-        <link href="https://v.daum.net/v/20250104150131922"/>
-        <updated>2025-01-04T06:16:13.672Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
