@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-05T17:10:21.748Z</updated>
+    <updated>2025-01-05T18:16:02.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조립식가족' 배현성 "청춘의 에너지 한가득 펼쳐 보일 수 있어 기뻤죠"]]></title>
+        <id>https://v.daum.net/v/20250106022049667</id>
+        <link href="https://v.daum.net/v/20250106022049667"/>
+        <updated>2025-01-05T18:15:54.320Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, ♥추영우와 부부로 가짜 삶 시작.."한 번 더 욕심내고파"]]></title>
         <id>https://v.daum.net/v/20250106003735434</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250105224818720"/>
         <updated>2025-01-05T14:10:27.728Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대한민국이 아픕니다" 故김수미 말한 '선물같은 오늘' 언제 올까]]></title>
-        <id>https://v.daum.net/v/20250105224418704</id>
-        <link href="https://v.daum.net/v/20250105224418704"/>
-        <updated>2025-01-05T14:10:27.729Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
