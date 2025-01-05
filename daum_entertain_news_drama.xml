@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-05T15:12:22.641Z</updated>
+    <updated>2025-01-05T16:15:11.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임지연, ♥추영우와 부부로 가짜 삶 시작.."한 번 더 욕심내고파"]]></title>
+        <id>https://v.daum.net/v/20250106003735434</id>
+        <link href="https://v.daum.net/v/20250106003735434"/>
+        <updated>2025-01-05T16:14:09.742Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['옥씨부인전' 추영우, ♥임지연 남편 됐다…"죽어도 여한 없어"]]></title>
+        <id>https://v.daum.net/v/20250106001221325</id>
+        <link href="https://v.daum.net/v/20250106001221325"/>
+        <updated>2025-01-05T16:14:09.742Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, 서방도 아닌 추영우 안방에 들였다…"거짓된 삶 살 수 없어"]]></title>
         <id>https://v.daum.net/v/20250106000101043</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250105224418704"/>
         <updated>2025-01-05T14:10:27.729Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별들에게 물어봐' 이민호, 우주로 난자 반입하다 공효진과 갈등…김응수 배신 '충격']]></title>
-        <id>https://v.daum.net/v/20250105223301657</id>
-        <link href="https://v.daum.net/v/20250105223301657"/>
-        <updated>2025-01-05T14:10:27.735Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별들에게 물어봐' 공효진, 초파리 교미 위해 뉴스 보도 지연…이민호 "당신 진짜"]]></title>
-        <id>https://v.daum.net/v/20250105221958603</id>
-        <link href="https://v.daum.net/v/20250105221958603"/>
-        <updated>2025-01-05T14:10:27.737Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
