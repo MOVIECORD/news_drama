@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-08T13:20:46.296Z</updated>
+    <updated>2025-01-08T14:13:19.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미숙함으로 심려 끼쳐"..김지영, 전남친 동거·빚투 2년 만 입 열었다]]></title>
+        <id>https://v.daum.net/v/20250108224921605</id>
+        <link href="https://v.daum.net/v/20250108224921605"/>
+        <updated>2025-01-08T14:13:08.989Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임2'를 본 당신, 원지안에 빠졌다]]></title>
         <id>https://v.daum.net/v/20250108220005253</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250108190007669"/>
         <updated>2025-01-08T10:13:54.664Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백서후, 신인상 영예]]></title>
-        <id>https://v.daum.net/v/20250108183027161</id>
-        <link href="https://v.daum.net/v/20250108183027161"/>
-        <updated>2025-01-08T10:13:54.664Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
