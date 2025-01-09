@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-09T14:12:00.973Z</updated>
+    <updated>2025-01-09T15:15:09.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["요즘 왜 이러냐" 정지소, 진영의 한 손 플러팅에 '심쿵']]></title>
+        <id>https://v.daum.net/v/20250109235630579</id>
+        <link href="https://v.daum.net/v/20250109235630579"/>
+        <updated>2025-01-09T15:14:07.727Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“병명은 개인사, 침묵 제 선택” 직접 입 연 나인우, 군대 논란 종결되나]]></title>
+        <id>https://v.daum.net/v/20250109232322390</id>
+        <link href="https://v.daum.net/v/20250109232322390"/>
+        <updated>2025-01-09T15:14:07.729Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소민, 무장 강도에 목숨 잃을 뻔… 한밤중 추격전→범인 검거 성공]]></title>
         <id>https://v.daum.net/v/20250109222800037</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250109194530601"/>
         <updated>2025-01-09T11:10:50.337Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 고민시와 홍자매 신작 출연할까..“긍정 검토 중”]]></title>
-        <id>https://v.daum.net/v/20250109194424568</id>
-        <link href="https://v.daum.net/v/20250109194424568"/>
-        <updated>2025-01-09T11:10:50.339Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로맨틱 모먼트 포착…전소민♥최다니엘, 밀착 포옹→달달 눈빛]]></title>
-        <id>https://v.daum.net/v/20250109193905460</id>
-        <link href="https://v.daum.net/v/20250109193905460"/>
-        <updated>2025-01-09T11:10:50.344Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
