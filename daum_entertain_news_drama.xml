@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-10T10:14:08.869Z</updated>
+    <updated>2025-01-10T11:11:09.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심이영, 김혜정에 합의금 뿌리며 최정윤 불륜 폭로 "내 남편과 바람나"]]></title>
+        <id>https://v.daum.net/v/20250110195001999</id>
+        <link href="https://v.daum.net/v/20250110195001999"/>
+        <updated>2025-01-10T11:11:00.474Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한재이, 전작 이미지 지워버렸네…재벌 2세의 비하인드 컷]]></title>
+        <id>https://v.daum.net/v/20250110192101515</id>
+        <link href="https://v.daum.net/v/20250110192101515"/>
+        <updated>2025-01-10T11:11:00.475Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한지민·이준혁, 떡볶이 데이트로 ‘냉담→설렘’ 급 전환?]]></title>
         <id>https://v.daum.net/v/20250110190301226</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250110165458663"/>
         <updated>2025-01-10T08:16:35.969Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리미 패밀리' 김정현, 코믹·진지 오가는 연기…안방 사로잡았다]]></title>
-        <id>https://v.daum.net/v/20250110165243613</id>
-        <link href="https://v.daum.net/v/20250110165243613"/>
-        <updated>2025-01-10T08:16:35.969Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[려운, 몸과 마음의 상처 多…시청자 울렸다]]></title>
-        <id>https://v.daum.net/v/20250110163324020</id>
-        <link href="https://v.daum.net/v/20250110163324020"/>
-        <updated>2025-01-10T08:16:35.970Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
