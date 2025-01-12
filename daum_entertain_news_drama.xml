@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-12T11:10:46.475Z</updated>
+    <updated>2025-01-12T12:24:24.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["헤어질게" 김정현, 금새록 가족 범행 신고하려는 김혜은 막았다]]></title>
+        <id>https://v.daum.net/v/20250112211130206</id>
+        <link href="https://v.daum.net/v/20250112211130206"/>
+        <updated>2025-01-12T12:24:15.696Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정재, 연기력 논란에 당황…수양대군? "시즌 1과 똑같은데" 부정]]></title>
+        <id>https://v.daum.net/v/20250112205801092</id>
+        <link href="https://v.daum.net/v/20250112205801092"/>
+        <updated>2025-01-12T12:24:15.697Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘별들에게 물어봐’ 시청률 하락…이민호, 공효진·시청률  구출할 수 있을까]]></title>
         <id>https://v.daum.net/v/20250112185705942</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250112173236686"/>
         <updated>2025-01-12T09:11:54.788Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옥씨부인전' 추영우, 장원급제 할 수 있을까?]]></title>
-        <id>https://v.daum.net/v/20250112173007654</id>
-        <link href="https://v.daum.net/v/20250112173007654"/>
-        <updated>2025-01-12T09:11:54.790Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“승자는 선한 사람”..김정현 ‘딱딱’ 사과에 서현 ‘대인배’ 면모만 빛났다]]></title>
-        <id>https://v.daum.net/v/20250112172920638</id>
-        <link href="https://v.daum.net/v/20250112172920638"/>
-        <updated>2025-01-12T09:11:54.795Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
