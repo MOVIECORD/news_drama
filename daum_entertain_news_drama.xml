@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-16T15:13:01.785Z</updated>
+    <updated>2025-01-16T16:14:54.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜리, 금수저 병원장 딸이라더니…"모든 것 갖췄는데" 관심의 대상 생겼다]]></title>
+        <id>https://v.daum.net/v/20250117011102414</id>
+        <link href="https://v.daum.net/v/20250117011102414"/>
+        <updated>2025-01-16T16:14:39.738Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내가 좋아하는 사람" 정지소, 진영 마음 깨닫고 심쿵]]></title>
         <id>https://v.daum.net/v/20250116231700430</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250116191431270"/>
         <updated>2025-01-16T11:10:21.177Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통쾌한 김혜수, 성깔에 독기까지 ‘사이다 완전캐’]]></title>
-        <id>https://v.daum.net/v/20250116191026213</id>
-        <link href="https://v.daum.net/v/20250116191026213"/>
-        <updated>2025-01-16T10:13:02.358Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
