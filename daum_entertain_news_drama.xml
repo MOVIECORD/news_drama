@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-17T15:12:45.095Z</updated>
+    <updated>2025-01-17T16:15:46.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“잠만 잤을 뿐” 한지민, 이준혁 집에서 하룻밤…딸 등장에 경악]]></title>
+        <id>https://v.daum.net/v/20250118003436569</id>
+        <link href="https://v.daum.net/v/20250118003436569"/>
+        <updated>2025-01-17T16:15:37.779Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세영, ♥나인우와 헤어졌다…"최희진과 사이 오해"]]></title>
+        <id>https://v.daum.net/v/20250118001802461</id>
+        <link href="https://v.daum.net/v/20250118001802461"/>
+        <updated>2025-01-17T16:15:37.785Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나완비’ 한지민, 이준혁 과거 아픔 위로 “애썼어요”]]></title>
         <id>https://v.daum.net/v/20250118001037393</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250117222437343"/>
         <updated>2025-01-17T14:11:31.602Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 첫사랑 끝" 이세영, 나인우에 키스 대신 이별 선언]]></title>
-        <id>https://v.daum.net/v/20250117222231335</id>
-        <link href="https://v.daum.net/v/20250117222231335"/>
-        <updated>2025-01-17T14:11:31.603Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취중고백한 한지민, 이준혁 품에 안겼다..“꿈인가?” 당황]]></title>
-        <id>https://v.daum.net/v/20250117221907319</id>
-        <link href="https://v.daum.net/v/20250117221907319"/>
-        <updated>2025-01-17T14:11:31.604Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
