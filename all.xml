@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-18T19:10:11.132Z</updated>
+    <updated>2025-01-18T20:12:52.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이준혁, 집밥→자장자장 플러팅도 성공..한지민 푹 빠졌다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250119050005871</id>
+        <link href="https://v.daum.net/v/20250119050005871"/>
+        <updated>2025-01-18T20:12:43.070Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, 하율리X최정우에 신분 들키나 "죗값 치를 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250119002601830</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250118230957348"/>
         <updated>2025-01-18T14:10:55.893Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민, 이준혁 향한 마음 깨달았다..."좋아해요" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250118230734341</id>
-        <link href="https://v.daum.net/v/20250118230734341"/>
-        <updated>2025-01-18T14:10:55.894Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
