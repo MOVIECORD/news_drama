@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-19T03:16:51.664Z</updated>
+    <updated>2025-01-19T04:14:16.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['다리미' 김혜은, 무릎 꿇고 용서 구하는 박지영에 "이 동네 떠나라"]]></title>
+        <id>https://v.daum.net/v/20250119123753206</id>
+        <link href="https://v.daum.net/v/20250119123753206"/>
+        <updated>2025-01-19T04:14:07.582Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['별들에게 물어봐' 공효진, 오정세에 분노 폭발 "폭파시키기 전에 문 열어"]]></title>
+        <id>https://v.daum.net/v/20250119122953108</id>
+        <link href="https://v.daum.net/v/20250119122953108"/>
+        <updated>2025-01-19T04:14:07.582Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정건주 보조개에 빠져든다…김지은 직진모드 시작]]></title>
         <id>https://v.daum.net/v/20250119113058120</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250119103257870"/>
         <updated>2025-01-19T02:44:28.394Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영, 노정의에게 아무도 없을 때 와준 단 한 사람]]></title>
-        <id>https://v.daum.net/v/20250119102640742</id>
-        <link href="https://v.daum.net/v/20250119102640742"/>
-        <updated>2025-01-19T02:44:28.396Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인우 보려다 김태형에게 치인다…'모텔 캘리포니아' 서브병 유발]]></title>
-        <id>https://v.daum.net/v/20250119101348522</id>
-        <link href="https://v.daum.net/v/20250119101348522"/>
-        <updated>2025-01-19T02:44:28.398Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
