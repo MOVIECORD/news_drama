@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-20T13:19:25.669Z</updated>
+    <updated>2025-01-20T14:12:37.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["믿어 달라?" '원경' 차주영, 이이담 거짓말에 분노…칼 꺼냈다]]></title>
+        <id>https://v.daum.net/v/20250120222019254</id>
+        <link href="https://v.daum.net/v/20250120222019254"/>
+        <updated>2025-01-20T14:12:29.465Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["보고 싶어서 왔소" 이현욱, 후궁 반대한 차주영 찾아가 뜨거운 키스]]></title>
         <id>https://v.daum.net/v/20250120220600128</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250120200907608"/>
         <updated>2025-01-20T11:11:21.301Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채수빈 수어 소감에도... '지거전' 수어 희화화로 방심위 법정제재]]></title>
-        <id>https://v.daum.net/v/20250120200230515</id>
-        <link href="https://v.daum.net/v/20250120200230515"/>
-        <updated>2025-01-20T11:11:21.301Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
