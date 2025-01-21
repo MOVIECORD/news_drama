@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-21T21:11:32.655Z</updated>
+    <updated>2025-01-21T22:11:37.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이이담, 이현욱에 회임 사실 알려…“왕자를 낳을 것이다”]]></title>
+        <id>https://v.daum.net/v/20250122064617838</id>
+        <link href="https://v.daum.net/v/20250122064617838"/>
+        <updated>2025-01-21T22:11:27.098Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고현정, 과거사 해명 기자회견 나선 려운 지켰다 "고개 들어"]]></title>
+        <id>https://v.daum.net/v/20250122063631684</id>
+        <link href="https://v.daum.net/v/20250122063631684"/>
+        <updated>2025-01-21T22:11:27.098Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘문짝남’ 나인우vs‘직진남’ 김태형…‘모텔캘리’ 남주들 극과극 매력 대결]]></title>
         <id>https://v.daum.net/v/20250122060507323</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250121205119021"/>
         <updated>2025-01-21T12:23:39.735Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박리원, 한그루에 '불꽃 싸대기'… "최상 좋아하냐", "남의 것 탐 안 내"]]></title>
-        <id>https://v.daum.net/v/20250121201830383</id>
-        <link href="https://v.daum.net/v/20250121201830383"/>
-        <updated>2025-01-21T12:23:39.736Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추영우 후광 입은 '중증외상센터'..주지훈이 말아주는 꿀잼 의드]]></title>
-        <id>https://v.daum.net/v/20250121201121230</id>
-        <link href="https://v.daum.net/v/20250121201121230"/>
-        <updated>2025-01-21T12:23:39.739Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
