@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-27T13:19:29.029Z</updated>
+    <updated>2025-01-27T14:13:00.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레오, 20대 초 결혼→이혼 사실 고백 "이미 갔다 와"]]></title>
+        <id>https://v.daum.net/v/20250127230001952</id>
+        <link href="https://v.daum.net/v/20250127230001952"/>
+        <updated>2025-01-27T14:12:49.833Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원경' 이현욱, ♥차주영 집안에 칼 빼들었다…"그댄 날 버리고 가셨소"]]></title>
+        <id>https://v.daum.net/v/20250127222313776</id>
+        <link href="https://v.daum.net/v/20250127222313776"/>
+        <updated>2025-01-27T14:12:49.837Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전 세자 지키겠다" 차주영, 민씨 척결하려 양위 선언한 이현욱에 맞불]]></title>
         <id>https://v.daum.net/v/20250127221830759</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250127210231300"/>
         <updated>2025-01-27T12:23:39.811Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재수 없는 주지훈? 솔직하게 말하는 편이라서"]]></title>
-        <id>https://v.daum.net/v/20250127210127295</id>
-        <link href="https://v.daum.net/v/20250127210127295"/>
-        <updated>2025-01-27T12:23:39.813Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘故 이선균 아내’ 전혜진 근황…‘라이딩 인생’ 대본리딩 현장 공개]]></title>
-        <id>https://v.daum.net/v/20250127204200181</id>
-        <link href="https://v.daum.net/v/20250127204200181"/>
-        <updated>2025-01-27T12:23:39.816Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
