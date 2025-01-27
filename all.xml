@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-27T20:14:14.783Z</updated>
+    <updated>2025-01-27T21:12:09.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["조권, 차안에서 가스 중독..쓰러진 채 내려" 이이경, 촉 발동 일화 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250128060001008</id>
+        <link href="https://v.daum.net/v/20250128060001008"/>
+        <updated>2025-01-27T21:12:01.863Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원경' 이현욱, ♥차주영과 날선 대립 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250128001000264</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250127212035402"/>
         <updated>2025-01-27T12:23:39.808Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원경' 차주영, 이현욱에 "공녀 없단 약속 지켜져야 해" 독설 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250127211547385</id>
-        <link href="https://v.daum.net/v/20250127211547385"/>
-        <updated>2025-01-27T12:23:39.809Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
