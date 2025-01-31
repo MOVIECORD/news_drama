@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-01-31T22:12:09.273Z</updated>
+    <updated>2025-01-31T23:11:52.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나완비’ 결방 틈타 ‘모텔캘리’ 자체 최고 시청률]]></title>
+        <id>https://v.daum.net/v/20250201075741246</id>
+        <link href="https://v.daum.net/v/20250201075741246"/>
+        <updated>2025-01-31T23:11:44.078Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["친구끼리 키스 해도 돼?" 이세영, ♥나인우에 직진…로맨스 싹 틔우나]]></title>
+        <id>https://v.daum.net/v/20250201074003140</id>
+        <link href="https://v.daum.net/v/20250201074003140"/>
+        <updated>2025-01-31T23:11:44.078Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최다니엘, ♥전소민과 재혼할까]]></title>
         <id>https://v.daum.net/v/20250201070029719</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250131230828765"/>
         <updated>2025-01-31T14:11:45.046Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["친구끼리 키스해도 돼?" 이세영, 나인우에 먼저 다가섰다]]></title>
-        <id>https://v.daum.net/v/20250131230701756</id>
-        <link href="https://v.daum.net/v/20250131230701756"/>
-        <updated>2025-01-31T14:11:45.048Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태형, 상탈한 채 나인우와 동침 "너가 왜 여깄어"]]></title>
-        <id>https://v.daum.net/v/20250131225545680</id>
-        <link href="https://v.daum.net/v/20250131225545680"/>
-        <updated>2025-01-31T14:11:45.049Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
