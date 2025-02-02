@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-02T08:14:32.271Z</updated>
+    <updated>2025-02-02T09:11:41.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['별물' 이민호-공효진, 평범한 연애 시작할 수 있을까?]]></title>
+        <id>https://v.daum.net/v/20250202180008441</id>
+        <link href="https://v.daum.net/v/20250202180008441"/>
+        <updated>2025-02-02T09:11:31.661Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이필모, ♥엄지원과 꿀 뚝뚝…멜로 눈빛 장착]]></title>
         <id>https://v.daum.net/v/20250202170628484</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250202143003969"/>
         <updated>2025-02-02T06:15:35.159Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신혼' 엄지원♥이필모, 속전속결 결혼했는데…흉조 들었다]]></title>
-        <id>https://v.daum.net/v/20250202142502894</id>
-        <link href="https://v.daum.net/v/20250202142502894"/>
-        <updated>2025-02-02T06:15:35.160Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
