@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-02T02:17:35.590Z</updated>
+    <updated>2025-02-02T03:15:52.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모텔 캘리포니아’에 감성 더했다…순순희 기태 OST ‘사랑이 눈처럼 내려와’ 가창]]></title>
+        <id>https://v.daum.net/v/20250202115700850</id>
+        <link href="https://v.daum.net/v/20250202115700850"/>
+        <updated>2025-02-02T03:15:42.432Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우리 사귀자" 나인우, 금기 깨고 ♥이세영에 뜨거운 입맞춤]]></title>
+        <id>https://v.daum.net/v/20250202112629419</id>
+        <link href="https://v.daum.net/v/20250202112629419"/>
+        <updated>2025-02-02T03:15:42.434Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 완벽한 비서' 김윤혜, 이준혁 짝사랑 들켰다]]></title>
         <id>https://v.daum.net/v/20250202111436184</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250202095002823"/>
         <updated>2025-02-02T01:00:35.565Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민 父가 살린 아이가 이준혁? '나완비' 충격 반전에 오열]]></title>
-        <id>https://v.daum.net/v/20250202094751802</id>
-        <link href="https://v.daum.net/v/20250202094751802"/>
-        <updated>2025-02-02T01:00:35.567Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모텔 캘리' 나인우, 母 지수원 아닌 이세영 택했다→담벼락 질주 키스]]></title>
-        <id>https://v.daum.net/v/20250202093930716</id>
-        <link href="https://v.daum.net/v/20250202093930716"/>
-        <updated>2025-02-02T01:00:35.570Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
