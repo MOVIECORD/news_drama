@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-04T12:24:05.799Z</updated>
+    <updated>2025-02-04T13:19:42.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차주영, 후궁 이이담 내쫓았다…세자 책봉 두고 이현욱과 갈등 예고]]></title>
+        <id>https://v.daum.net/v/20250204221100227</id>
+        <link href="https://v.daum.net/v/20250204221100227"/>
+        <updated>2025-02-04T13:19:31.403Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원경' 이현욱vs차주영, 세자 책봉 갈등 시작됐다]]></title>
+        <id>https://v.daum.net/v/20250204220024112</id>
+        <link href="https://v.daum.net/v/20250204220024112"/>
+        <updated>2025-02-04T13:19:31.404Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차주영, '후궁' 이이담 드디어 궁에서 쫓아냈다..."이제 그만 궐을 나가거라"]]></title>
+        <id>https://v.daum.net/v/20250204214420874</id>
+        <link href="https://v.daum.net/v/20250204214420874"/>
+        <updated>2025-02-04T13:19:31.405Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원경' 이현욱, ♥차주영 역모 모의 정황 드러나 회임사에 연금 '살벌']]></title>
         <id>https://v.daum.net/v/20250204211339480</id>
@@ -41,7 +62,7 @@
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“아내 분리불안증 생겨” 윤박, 러브 스토리 최초 공개]]></title>
+        <title type="html"><![CDATA[“아내 분리불안증 생겨” 윤박, 러브스토리 최초 공개]]></title>
         <id>https://v.daum.net/v/20250204193600735</id>
         <link href="https://v.daum.net/v/20250204193600735"/>
         <updated>2025-02-04T11:10:53.907Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250204175502265"/>
         <updated>2025-02-04T09:13:35.659Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔·다리 잘린 '원경' 차주영, 역사가 스포일러…"되돌릴 수 없는 비극"]]></title>
-        <id>https://v.daum.net/v/20250204175337214</id>
-        <link href="https://v.daum.net/v/20250204175337214"/>
-        <updated>2025-02-04T09:13:35.660Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘언더커버’ 서강준‧전배수‧윤가이‧조복래, 국정원 국내 4팀 유쾌 공조 시작]]></title>
-        <id>https://v.daum.net/v/20250204174638020</id>
-        <link href="https://v.daum.net/v/20250204174638020"/>
-        <updated>2025-02-04T09:13:35.660Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라스' 김종민 "'1박 2일' 18년째…까나리 마신 적 無"]]></title>
-        <id>https://v.daum.net/v/20250204174615005</id>
-        <link href="https://v.daum.net/v/20250204174615005"/>
-        <updated>2025-02-04T09:13:35.660Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
