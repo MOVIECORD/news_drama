@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-09T03:17:24.941Z</updated>
+    <updated>2025-02-09T04:14:42.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀' 박진영-노정의, 서로의 구원이 되는 4차 로맨스 티저 공개]]></title>
+        <id>https://v.daum.net/v/20250209125349151</id>
+        <link href="https://v.daum.net/v/20250209125349151"/>
+        <updated>2025-02-09T04:14:32.318Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['선업튀'→'나완비' 그 다음은…서혜원 "작품 안 쉬는 게 목표"]]></title>
+        <id>https://v.daum.net/v/20250209125017063</id>
+        <link href="https://v.daum.net/v/20250209125017063"/>
+        <updated>2025-02-09T04:14:32.320Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서혜원 "한지민♥이준혁, 진짜 좋아하는 것처럼…많이 배웠다"]]></title>
+        <id>https://v.daum.net/v/20250209125010060</id>
+        <link href="https://v.daum.net/v/20250209125010060"/>
+        <updated>2025-02-09T04:14:32.324Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서혜원 "'나완비' 이 정도일 줄은…소속감 남다른 작품"]]></title>
+        <id>https://v.daum.net/v/20250209125002056</id>
+        <link href="https://v.daum.net/v/20250209125002056"/>
+        <updated>2025-02-09T04:14:32.325Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오징어게임2’ 美크리틱스초이스 외국어 시리즈상 수상, 글로벌 첫 트로피]]></title>
+        <id>https://v.daum.net/v/20250209123212738</id>
+        <link href="https://v.daum.net/v/20250209123212738"/>
+        <updated>2025-02-09T04:14:32.328Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선의의 경쟁' 정수빈, 혜리와 우정과 욕망 사이..미스터리 중심 선다]]></title>
         <id>https://v.daum.net/v/20250209121521491</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20250209111041994"/>
         <updated>2025-02-09T02:44:13.399Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배인혁 김지은 정건주 운명은? ‘체크인 한양’ 최종회 관전 포인트]]></title>
-        <id>https://v.daum.net/v/20250209110827952</id>
-        <link href="https://v.daum.net/v/20250209110827952"/>
-        <updated>2025-02-09T02:44:13.405Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차주영 팔·다리 다 자른 이현욱, '킬방원'인가 '人방원'인가…단 2회 남은 '원경']]></title>
-        <id>https://v.daum.net/v/20250209110222834</id>
-        <link href="https://v.daum.net/v/20250209110222834"/>
-        <updated>2025-02-09T02:44:13.405Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아슬아슬 우정과 욕망 사이…정수빈, 이혜리와 ‘선의의 경쟁’]]></title>
-        <id>https://v.daum.net/v/20250209110003721</id>
-        <link href="https://v.daum.net/v/20250209110003721"/>
-        <updated>2025-02-09T02:44:13.405Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘축가 전문’ 조혜련, “김준호♥김지민 결혼식서 축가 부르고파”]]></title>
-        <id>https://v.daum.net/v/20250209105721669</id>
-        <link href="https://v.daum.net/v/20250209105721669"/>
-        <updated>2025-02-09T02:44:13.406Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영♥노정의 구원 로맨스 서사 ‘마녀’ 4차 티저 영상 공개]]></title>
-        <id>https://v.daum.net/v/20250209105521642</id>
-        <link href="https://v.daum.net/v/20250209105521642"/>
-        <updated>2025-02-09T02:44:13.408Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
