@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-10T21:12:06.310Z</updated>
+    <updated>2025-02-10T22:12:32.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[동생들은 죽고 아들은 배신하고…차주영, 역사가 스포일러라 더 안쓰러운 ‘원경’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250211062827603</id>
+        <link href="https://v.daum.net/v/20250211062827603"/>
+        <updated>2025-02-10T22:12:22.766Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제대한 박진영, ‘마녀’로 안방극장 복귀 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250211060703422</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250210213021155"/>
         <updated>2025-02-10T13:19:43.266Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원경' 이현욱, 차주영 중궁전에 연금하고 동생들 사사해 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250210212507098</id>
-        <link href="https://v.daum.net/v/20250210212507098"/>
-        <updated>2025-02-10T13:19:43.268Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
