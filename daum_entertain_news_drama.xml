@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-12T20:14:02.585Z</updated>
+    <updated>2025-02-12T21:12:00.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티빙 해지 안 하길 잘했네… 드라마 '스터디그룹']]></title>
+        <id>https://v.daum.net/v/20250213060014408</id>
+        <link href="https://v.daum.net/v/20250213060014408"/>
+        <updated>2025-02-12T21:11:49.924Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파격 동성♥키스신도 부족했나…혜리, '상위 0.1%' 극과 극 이중 생활]]></title>
+        <id>https://v.daum.net/v/20250213052017169</id>
+        <link href="https://v.daum.net/v/20250213052017169"/>
+        <updated>2025-02-12T21:11:49.925Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['종영' 소주연→최원영, 초콜릿으로 행복 찾았다 "한 조각씩 꺼내 먹을 것"]]></title>
         <id>https://v.daum.net/v/20250213000931718</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250212195602142"/>
         <updated>2025-02-12T11:10:50.682Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전혜진 복귀작 '라이딩 인생', '7세 고시' 대치맘 온다...예고·포스터 공개]]></title>
-        <id>https://v.daum.net/v/20250212191250371</id>
-        <link href="https://v.daum.net/v/20250212191250371"/>
-        <updated>2025-02-12T10:14:12.415Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노출 잡음'에도 유종의 미…차주영, 혜정이 벗고 인생캐 썼다]]></title>
-        <id>https://v.daum.net/v/20250212191002315</id>
-        <link href="https://v.daum.net/v/20250212191002315"/>
-        <updated>2025-02-12T10:14:12.415Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
