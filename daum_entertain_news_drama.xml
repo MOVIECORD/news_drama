@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-12T12:24:01.659Z</updated>
+    <updated>2025-02-12T13:19:49.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지진희, 이규형과 ♥키스하더니…커플룩 입고 길거리에서 '딱' 걸렸네]]></title>
+        <id>https://v.daum.net/v/20250212213104780</id>
+        <link href="https://v.daum.net/v/20250212213104780"/>
+        <updated>2025-02-12T13:19:40.350Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최다니엘, ♥전소민에 드디어 고백하나…떠나기 전 애틋한 눈빛 교환]]></title>
         <id>https://v.daum.net/v/20250212210116268</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250212183008460"/>
         <updated>2025-02-12T10:14:12.422Z</updated>
         <content type="html"><![CDATA[ize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트리거' 김혜수x정성일, 내부 갈등 폭발..이대로 팀 폐지되나?]]></title>
-        <id>https://v.daum.net/v/20250212182830419</id>
-        <link href="https://v.daum.net/v/20250212182830419"/>
-        <updated>2025-02-12T10:14:12.422Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
