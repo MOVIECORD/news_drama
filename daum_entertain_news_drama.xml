@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-13T09:13:58.551Z</updated>
+    <updated>2025-02-13T10:13:55.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄지원의 '막걸리 무단 방류' 장면…KBS 측 해명은 오락가락]]></title>
+        <id>https://v.daum.net/v/20250213190102706</id>
+        <link href="https://v.daum.net/v/20250213190102706"/>
+        <updated>2025-02-13T10:13:47.366Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["제2의 '옷소매'·'이친자' 찾자" MBC '2025 극본 공모' 개최]]></title>
+        <id>https://v.daum.net/v/20250213184144336</id>
+        <link href="https://v.daum.net/v/20250213184144336"/>
+        <updated>2025-02-13T10:13:47.366Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아쉬웠다"…차주영, '원경' 노출·역사왜곡 논란에 대한 생각]]></title>
+        <id>https://v.daum.net/v/20250213181809671</id>
+        <link href="https://v.daum.net/v/20250213181809671"/>
+        <updated>2025-02-13T10:13:47.367Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['편스토랑' 장민호, 안대 쓰고 백종원 성대모사…"한입 더 줘봐유"]]></title>
         <id>https://v.daum.net/v/20250213180506212</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250213171006872"/>
         <updated>2025-02-13T08:16:59.124Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ ENM 피프스시즌, 벤 애플렉→조 라이트 신작 제작…글로벌 확장 시동]]></title>
-        <id>https://v.daum.net/v/20250213170642746</id>
-        <link href="https://v.daum.net/v/20250213170642746"/>
-        <updated>2025-02-13T08:16:59.125Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤균상, '신의 구슬' 출연]]></title>
-        <id>https://v.daum.net/v/20250213170522686</id>
-        <link href="https://v.daum.net/v/20250213170522686"/>
-        <updated>2025-02-13T08:16:59.128Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선의의 경쟁' 오우리, 이혜리에 당했다…긴장감 폭발]]></title>
-        <id>https://v.daum.net/v/20250213170344613</id>
-        <link href="https://v.daum.net/v/20250213170344613"/>
-        <updated>2025-02-13T08:16:59.129Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
