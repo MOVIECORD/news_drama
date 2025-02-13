@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-13T14:12:58.234Z</updated>
+    <updated>2025-02-13T15:14:00.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구준엽, 아내 서희원 떠나보내고 건강 악화설]]></title>
+        <id>https://v.daum.net/v/20250214000213343</id>
+        <link href="https://v.daum.net/v/20250214000213343"/>
+        <updated>2025-02-13T15:13:50.933Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오우리, 이혜리 콤플렉스 겪는 만년 2등..제대로 과몰입 유발]]></title>
+        <id>https://v.daum.net/v/20250213234725201</id>
+        <link href="https://v.daum.net/v/20250213234725201"/>
+        <updated>2025-02-13T15:13:50.938Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혜리, '18세에 결별' 토니안 첫사랑 아니었다…"공부 잘하는 아이, 티 났을 것"]]></title>
         <id>https://v.daum.net/v/20250213213101599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250213180253113"/>
         <updated>2025-02-13T09:13:48.851Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천만배우' 지진희, 유튜브 구독자 21만명 돌파…명예 회복할 수 있을까]]></title>
-        <id>https://v.daum.net/v/20250213180116060</id>
-        <link href="https://v.daum.net/v/20250213180116060"/>
-        <updated>2025-02-13T09:13:48.852Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감자연구소' 이선빈·강태오, 커플 스틸 공개]]></title>
-        <id>https://v.daum.net/v/20250213180035030</id>
-        <link href="https://v.daum.net/v/20250213180035030"/>
-        <updated>2025-02-13T09:13:48.854Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
