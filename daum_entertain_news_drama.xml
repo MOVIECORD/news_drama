@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-16T15:11:35.071Z</updated>
+    <updated>2025-02-16T16:14:25.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故김새론, '아저씨'부터 음주운전까지..복귀 대신 하늘로 떠났다]]></title>
+        <id>https://v.daum.net/v/20250217003319050</id>
+        <link href="https://v.daum.net/v/20250217003319050"/>
+        <updated>2025-02-16T16:14:14.790Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["故 김새론, 개명하고 복귀 준비했는데" 안타까운 사망]]></title>
         <id>https://v.daum.net/v/20250217000137616</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250216212414619"/>
         <updated>2025-02-16T13:15:53.148Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['독수리 5형제를 부탁해' 엄지원, 만취해 안재욱에 포옹→뽀뽀 시도]]></title>
-        <id>https://v.daum.net/v/20250216212247600</id>
-        <link href="https://v.daum.net/v/20250216212247600"/>
-        <updated>2025-02-16T12:23:44.409Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
