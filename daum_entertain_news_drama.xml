@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-19T12:22:04.145Z</updated>
+    <updated>2025-02-19T13:20:05.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['트리거' 주종혁 "정성일 형, 없으면 보고 싶어요"]]></title>
+        <id>https://v.daum.net/v/20250219220148004</id>
+        <link href="https://v.daum.net/v/20250219220148004"/>
+        <updated>2025-02-19T13:19:56.546Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전혜연♥김은호, 얼결 키스로 로맨스 점화]]></title>
+        <id>https://v.daum.net/v/20250219213519643</id>
+        <link href="https://v.daum.net/v/20250219213519643"/>
+        <updated>2025-02-19T13:19:56.548Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장신영, 그늘 없는 미소 '부디 행복하길']]></title>
+        <id>https://v.daum.net/v/20250219212304477</id>
+        <link href="https://v.daum.net/v/20250219212304477"/>
+        <updated>2025-02-19T13:19:56.549Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김사권, 이연두와 포옹 딱 걸렸다…박하나 "그만해라"]]></title>
         <id>https://v.daum.net/v/20250219211800431</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250219184525971"/>
         <updated>2025-02-19T10:13:33.247Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신들린 연애2' 가비 "연애 문제로 사주…제작진 이 갈았다"]]></title>
-        <id>https://v.daum.net/v/20250219184035812</id>
-        <link href="https://v.daum.net/v/20250219184035812"/>
-        <updated>2025-02-19T10:13:33.250Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘보물섬’ 권수현, 라이벌 박형식과 팽팽한 대립]]></title>
-        <id>https://v.daum.net/v/20250219183230550</id>
-        <link href="https://v.daum.net/v/20250219183230550"/>
-        <updated>2025-02-19T10:13:33.250Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' 진창규 감독 "박형식, 물고문 씬에서도 집중력 발휘 대단했어"]]></title>
-        <id>https://v.daum.net/v/20250219182913412</id>
-        <link href="https://v.daum.net/v/20250219182913412"/>
-        <updated>2025-02-19T10:13:33.252Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
