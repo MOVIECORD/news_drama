@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-23T09:12:10.680Z</updated>
+    <updated>2025-02-23T10:13:23.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀' 박진영, 노정의 위한 사투..운명적 사랑의 시작]]></title>
+        <id>https://v.daum.net/v/20250223184506676</id>
+        <link href="https://v.daum.net/v/20250223184506676"/>
+        <updated>2025-02-23T10:13:14.858Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['박형식 누나' 한지혜, 수녀 미모 원톱]]></title>
+        <id>https://v.daum.net/v/20250223181729343</id>
+        <link href="https://v.daum.net/v/20250223181729343"/>
+        <updated>2025-02-23T10:13:14.860Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유x변우석 ‘21세기 대군 부인’ 내년 공개 논의..“편성 미정”]]></title>
         <id>https://v.daum.net/v/20250223180022148</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250223170806247"/>
         <updated>2025-02-23T08:15:58.303Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영♥최현욱 벌써 눈 맞아, 이렇게 될 줄 알았지만…]]></title>
-        <id>https://v.daum.net/v/20250223162454598</id>
-        <link href="https://v.daum.net/v/20250223162454598"/>
-        <updated>2025-02-23T08:15:58.306Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언더커버 하이스쿨' 서강준 떨게 한 장세림, 비련의 여학생 귀신으로 등장]]></title>
-        <id>https://v.daum.net/v/20250223161730488</id>
-        <link href="https://v.daum.net/v/20250223161730488"/>
-        <updated>2025-02-23T08:15:58.308Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
