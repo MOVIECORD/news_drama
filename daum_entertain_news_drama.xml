@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-25T10:15:05.586Z</updated>
+    <updated>2025-02-25T11:11:53.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤승아, 스타일이 중요해? ♥김무열은 다 좋아할 텐데]]></title>
+        <id>https://v.daum.net/v/20250225200725713</id>
+        <link href="https://v.daum.net/v/20250225200725713"/>
+        <updated>2025-02-25T11:11:45.585Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최정윤, 심이영 '일일 남편' 선언한 정영섭에 분노 "환장"]]></title>
+        <id>https://v.daum.net/v/20250225194900390</id>
+        <link href="https://v.daum.net/v/20250225194900390"/>
+        <updated>2025-02-25T11:11:45.587Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웨이브, 2025 상반기 주요 콘텐츠 라인업 공개]]></title>
         <id>https://v.daum.net/v/20250225190818927</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250225175553211"/>
         <updated>2025-02-25T09:13:50.237Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스터디그룹' 이종현 "황민현 액션 연기 부러웠지만…"]]></title>
-        <id>https://v.daum.net/v/20250225175254113</id>
-        <link href="https://v.daum.net/v/20250225175254113"/>
-        <updated>2025-02-25T09:13:50.238Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아들맘' 전혜진, 자녀 교육에 진심이었네…"'대치맘'과 싱크로율 70%"]]></title>
-        <id>https://v.daum.net/v/20250225175004011</id>
-        <link href="https://v.daum.net/v/20250225175004011"/>
-        <updated>2025-02-25T09:13:50.238Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
