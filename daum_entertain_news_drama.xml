@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-02-27T20:15:04.784Z</updated>
+    <updated>2025-02-27T21:12:35.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤가이, SNL 하차 아쉽지 않네…‘나완비’->‘언더커버’ 화제작 종횡무진]]></title>
+        <id>https://v.daum.net/v/20250228060519261</id>
+        <link href="https://v.daum.net/v/20250228060519261"/>
+        <updated>2025-02-27T21:12:25.171Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서강준, 학폭에 연루되다! 퇴학 위기 속 운명은?]]></title>
         <id>https://v.daum.net/v/20250227224201847</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250227181603139"/>
         <updated>2025-02-27T10:14:27.270Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송하윤 '학폭 의혹'에 불똥 맞았다…김풍 "우여곡절 끝에 나오게 돼"]]></title>
-        <id>https://v.daum.net/v/20250227181601137</id>
-        <link href="https://v.daum.net/v/20250227181601137"/>
-        <updated>2025-02-27T10:14:27.271Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
