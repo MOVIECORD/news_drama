@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-03T10:15:22.010Z</updated>
+    <updated>2025-03-03T11:11:37.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정영섭, '남편 대행' 송창의 질투...심이영에 "이혼남 아냐, 헛물켜지 마"]]></title>
+        <id>https://v.daum.net/v/20250303195931621</id>
+        <link href="https://v.daum.net/v/20250303195931621"/>
+        <updated>2025-03-03T11:11:27.651Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신슬기, 금수저라더니..싱글대디에 홀렸다]]></title>
+        <id>https://v.daum.net/v/20250303195815610</id>
+        <link href="https://v.daum.net/v/20250303195815610"/>
+        <updated>2025-03-03T11:11:27.653Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마녀' 남중규, 신인 맞아? 현실감 넘치는 연기→감초 역할 제대로]]></title>
+        <id>https://v.daum.net/v/20250303191923219</id>
+        <link href="https://v.daum.net/v/20250303191923219"/>
+        <updated>2025-03-03T11:11:27.653Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故이선균 아내 전혜진 복귀작 ‘라이딩 인생’, 오늘 첫 공개]]></title>
         <id>https://v.daum.net/v/20250303191200131</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250303161203369"/>
         <updated>2025-03-03T07:14:02.578Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순정남 박진영에게 빠져든다…노정의 향한 직진모드 시작]]></title>
-        <id>https://v.daum.net/v/20250303160735298</id>
-        <link href="https://v.daum.net/v/20250303160735298"/>
-        <updated>2025-03-03T07:14:02.579Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오만석, 이제훈 조력자 된다 ‘협상의 기술’ 캐스팅]]></title>
-        <id>https://v.daum.net/v/20250303160008121</id>
-        <link href="https://v.daum.net/v/20250303160008121"/>
-        <updated>2025-03-03T07:14:02.580Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' '수중신→고난도 액션' 박형식의 피땀눈물]]></title>
-        <id>https://v.daum.net/v/20250303155501019</id>
-        <link href="https://v.daum.net/v/20250303155501019"/>
-        <updated>2025-03-03T07:14:02.584Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
