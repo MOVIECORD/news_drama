@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-03T03:23:27.246Z</updated>
+    <updated>2025-03-03T04:17:26.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조인성 `13년 동행` 소속사 마침표…“응원하겠다”]]></title>
+        <id>https://v.daum.net/v/20250303131347303</id>
+        <link href="https://v.daum.net/v/20250303131347303"/>
+        <updated>2025-03-03T04:17:17.563Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['라이딩 인생' 전혜진X조민수, 대치동 라이프 시작…관전 포인트 공개]]></title>
+        <id>https://v.daum.net/v/20250303123300647</id>
+        <link href="https://v.daum.net/v/20250303123300647"/>
+        <updated>2025-03-03T04:17:17.565Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김신록, 간담 서늘하게 만드는 섬뜩한 연기→광기 그 자체]]></title>
         <id>https://v.daum.net/v/20250303122040484</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250303095910036"/>
         <updated>2025-03-03T01:02:35.989Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈 백발→흑발 변신, 협상 테이블 주도하는 스킬 보니]]></title>
-        <id>https://v.daum.net/v/20250303094724756</id>
-        <link href="https://v.daum.net/v/20250303094724756"/>
-        <updated>2025-03-03T01:02:35.989Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언더커버 하이스쿨' 김신록, 서강준과 팽팽 기싸움→티키타카 케미 폭발]]></title>
-        <id>https://v.daum.net/v/20250303092058021</id>
-        <link href="https://v.daum.net/v/20250303092058021"/>
-        <updated>2025-03-03T01:02:35.991Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
