@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-04T20:14:11.890Z</updated>
+    <updated>2025-03-04T21:13:03.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스터디그룹’ 이장훈 감독 “황민현, 시즌2 위해 벌크업 하겠다고”]]></title>
+        <id>https://v.daum.net/v/20250305055308565</id>
+        <link href="https://v.daum.net/v/20250305055308565"/>
+        <updated>2025-03-04T21:12:53.750Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어쩌다 사장' 조인성X차태현, 손잡고 '진짜 사장'..신생 기획사 설립]]></title>
         <id>https://v.daum.net/v/20250305050002737</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20250304210330661</id>
         <link href="https://v.daum.net/v/20250304210330661"/>
         <updated>2025-03-04T12:24:52.975Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최상, 박리원·지수원 면전서 '파혼' 선언… "죽어버릴 것" 박리원 혼절]]></title>
-        <id>https://v.daum.net/v/20250304203434282</id>
-        <link href="https://v.daum.net/v/20250304203434282"/>
-        <updated>2025-03-04T12:24:52.976Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
