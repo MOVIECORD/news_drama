@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-04T19:10:51.073Z</updated>
+    <updated>2025-03-04T20:14:11.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['어쩌다 사장' 조인성X차태현, 손잡고 '진짜 사장'..신생 기획사 설립 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250305050002737</id>
+        <link href="https://v.daum.net/v/20250305050002737"/>
+        <updated>2025-03-04T20:14:01.780Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차태현x조인성이 소속사 대표라니..이정재x정우성 잡는 배우 왕국 탄생하나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250305002615772</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250304203434282"/>
         <updated>2025-03-04T12:24:52.976Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선주씨' 정영섭, 천예주 결혼식 참석...심이영 '분노' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250304203015216</id>
-        <link href="https://v.daum.net/v/20250304203015216"/>
-        <updated>2025-03-04T12:24:52.976Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
