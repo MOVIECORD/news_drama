@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-05T20:15:35.723Z</updated>
+    <updated>2025-03-05T21:12:49.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추성훈·야노시호, 돈 계산 철저히…김호영 "'동상이몽' 소재감"]]></title>
+        <id>https://v.daum.net/v/20250306060021739</id>
+        <link href="https://v.daum.net/v/20250306060021739"/>
+        <updated>2025-03-05T21:12:38.737Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수·이제훈, 올해 못 본다…다시 뭉친 '두 번째 시그널', 내년 상반기 공개]]></title>
         <id>https://v.daum.net/v/20250305233101337</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250305193329495"/>
         <updated>2025-03-05T11:13:00.580Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀' 권한솔, 비하인드 컷 공개]]></title>
-        <id>https://v.daum.net/v/20250305191327123</id>
-        <link href="https://v.daum.net/v/20250305191327123"/>
-        <updated>2025-03-05T10:14:34.891Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
