@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-06T03:22:57.939Z</updated>
+    <updated>2025-03-06T04:16:18.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기은세 주작에 반격 나선 지진희, 멜로 눈빛 장착하고 국민배우 컴백]]></title>
+        <id>https://v.daum.net/v/20250306123024623</id>
+        <link href="https://v.daum.net/v/20250306123024623"/>
+        <updated>2025-03-06T04:16:02.849Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이규형 마음 이용한 기은세 “어떻게 하면 더 얄밉게 보일까” 특별출연 소감]]></title>
+        <id>https://v.daum.net/v/20250306122409495</id>
+        <link href="https://v.daum.net/v/20250306122409495"/>
+        <updated>2025-03-06T04:16:02.850Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘언더스쿨’ 김신록, 고상하거나 섬뜩하거나]]></title>
         <id>https://v.daum.net/v/20250306121250289</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250306112815289"/>
         <updated>2025-03-06T03:22:47.758Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육성재 첫 사극 도전! ‘귀궁’서 1인 2역 변신…대본리딩 현장 공개]]></title>
-        <id>https://v.daum.net/v/20250306112720248</id>
-        <link href="https://v.daum.net/v/20250306112720248"/>
-        <updated>2025-03-06T03:22:47.760Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백만 팔로워' 김요한x'너드미 공대생' 황보름별, 캠퍼스 청춘물 온다]]></title>
-        <id>https://v.daum.net/v/20250306112704230</id>
-        <link href="https://v.daum.net/v/20250306112704230"/>
-        <updated>2025-03-06T03:22:47.763Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
