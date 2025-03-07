@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-07T21:11:08.965Z</updated>
+    <updated>2025-03-07T22:10:58.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금토 드라마 빅매치! '보물섬' 박형식 vs '언더커버 하이스쿨' 서강준, 불꽃 대결]]></title>
+        <id>https://v.daum.net/v/20250308070031735</id>
+        <link href="https://v.daum.net/v/20250308070031735"/>
+        <updated>2025-03-07T22:10:48.506Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서강준, 중간고사에서 전교 10등했다…"국정원의 美친 능력"]]></title>
+        <id>https://v.daum.net/v/20250308065128634</id>
+        <link href="https://v.daum.net/v/20250308065128634"/>
+        <updated>2025-03-07T22:10:48.508Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서강준, 살인 사건 휘말리나…진기주 졸업앨범 보고 충격]]></title>
         <id>https://v.daum.net/v/20250307232730447</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250307210056397"/>
         <updated>2025-03-07T12:24:21.191Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬, 60억 세금 탈루 의혹 재차 해명→둘째 임신 깜짝 발표]]></title>
-        <id>https://v.daum.net/v/20250307205019289</id>
-        <link href="https://v.daum.net/v/20250307205019289"/>
-        <updated>2025-03-07T12:24:21.192Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한그루, 나영희와 악연에 패닉 "부모님 죽게 해...은총이는 원수 핏줄"]]></title>
-        <id>https://v.daum.net/v/20250307204101171</id>
-        <link href="https://v.daum.net/v/20250307204101171"/>
-        <updated>2025-03-07T12:24:21.192Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
