@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-07T12:24:31.615Z</updated>
+    <updated>2025-03-07T13:21:30.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보물섬' 박형식, ♥홍화연 못 알아봤다.."기억 잃어"]]></title>
+        <id>https://v.daum.net/v/20250307221739095</id>
+        <link href="https://v.daum.net/v/20250307221739095"/>
+        <updated>2025-03-07T13:21:18.933Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보물섬' 박형식, 홍화연 못 알아봤다..."기억을 잃었다"]]></title>
+        <id>https://v.daum.net/v/20250307220725032</id>
+        <link href="https://v.daum.net/v/20250307220725032"/>
+        <updated>2025-03-07T13:21:18.933Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박상남, 선 보라는 양희경에 "결혼할 사람 있어"...'이혼' 박하나에 일편단심]]></title>
         <id>https://v.daum.net/v/20250307211230529</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250307182134256"/>
         <updated>2025-03-07T10:14:57.439Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["꽁꽁 숨겨 죄송" 아이유♥박보검, 600억 제작비 값할까]]></title>
-        <id>https://v.daum.net/v/20250307181003062</id>
-        <link href="https://v.daum.net/v/20250307181003062"/>
-        <updated>2025-03-07T09:14:15.274Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈♥강태오의 달콤설렘…케이시, '감자연구소' OST '버드송' 가창]]></title>
-        <id>https://v.daum.net/v/20250307180608987</id>
-        <link href="https://v.daum.net/v/20250307180608987"/>
-        <updated>2025-03-07T09:14:15.276Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
