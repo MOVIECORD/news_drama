@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-08T15:10:45.718Z</updated>
+    <updated>2025-03-08T16:12:45.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조민수·김사랑, 세대 뛰어넘은 케미]]></title>
+        <id>https://v.daum.net/v/20250309010016374</id>
+        <link href="https://v.daum.net/v/20250309010016374"/>
+        <updated>2025-03-08T16:12:35.140Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘언더커버’ 서강준 갑작스러운 스킨십에 진기주 심쿵 “꼭 지켜줄게요”]]></title>
+        <id>https://v.daum.net/v/20250309002802277</id>
+        <link href="https://v.daum.net/v/20250309002802277"/>
+        <updated>2025-03-08T16:12:35.141Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외모가 무기네…서강준, 정체 알아챈 진기주에 '얼굴' 공격 가동]]></title>
         <id>https://v.daum.net/v/20250309000404153</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250308223902609"/>
         <updated>2025-03-08T14:09:34.436Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈 밀당에 김대명→차강윤 제대로 홀린다…‘협상의 기술’ 첫 방송부터 케미 폭발]]></title>
-        <id>https://v.daum.net/v/20250308223201577</id>
-        <link href="https://v.daum.net/v/20250308223201577"/>
-        <updated>2025-03-08T14:09:34.436Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감자연구소' 강태오, ♥이선빈에 "저와 만나주시겠습니까?"]]></title>
-        <id>https://v.daum.net/v/20250308222458560</id>
-        <link href="https://v.daum.net/v/20250308222458560"/>
-        <updated>2025-03-08T14:09:34.437Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
