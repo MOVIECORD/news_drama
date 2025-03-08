@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-08T20:10:35.545Z</updated>
+    <updated>2025-03-08T21:11:33.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선빈, 눈썹문신 굴욕→전연인 멱살 잡고→해고 통보까지]]></title>
+        <id>https://v.daum.net/v/20250309060841178</id>
+        <link href="https://v.daum.net/v/20250309060841178"/>
+        <updated>2025-03-08T21:11:22.667Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“3번째 키스한 여자” 이선빈, 강태오 연애 제안에 충격]]></title>
+        <id>https://v.daum.net/v/20250309060823177</id>
+        <link href="https://v.daum.net/v/20250309060823177"/>
+        <updated>2025-03-08T21:11:22.667Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강태오, 이선빈 기습키스 당하고 다리 후들 불면증]]></title>
+        <id>https://v.daum.net/v/20250309060808176</id>
+        <link href="https://v.daum.net/v/20250309060808176"/>
+        <updated>2025-03-08T21:11:22.669Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조민수·김사랑, 세대 뛰어넘은 케미]]></title>
         <id>https://v.daum.net/v/20250309010016374</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20250308230331763"/>
         <updated>2025-03-08T14:09:34.431Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진기주, 서강준 정체에 야망 활활 “분골쇄신 모든 걸 바치겠다”]]></title>
-        <id>https://v.daum.net/v/20250308224902693</id>
-        <link href="https://v.daum.net/v/20250308224902693"/>
-        <updated>2025-03-08T14:09:34.432Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감자연구소' 강태오, 이선빈에 연애 제안→해고 통보]]></title>
-        <id>https://v.daum.net/v/20250308223931613</id>
-        <link href="https://v.daum.net/v/20250308223931613"/>
-        <updated>2025-03-08T14:09:34.432Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언더커버' 진기주, 서강준 정체 알았다.."너 학생 아니지"]]></title>
-        <id>https://v.daum.net/v/20250308223902609</id>
-        <link href="https://v.daum.net/v/20250308223902609"/>
-        <updated>2025-03-08T14:09:34.436Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
