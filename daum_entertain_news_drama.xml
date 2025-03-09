@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-09T19:08:23.477Z</updated>
+    <updated>2025-03-09T20:12:12.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유X박보검 '폭싹 속았수다'만?..3월 드라마 '소문난 잔치']]></title>
+        <id>https://v.daum.net/v/20250310050003266</id>
+        <link href="https://v.daum.net/v/20250310050003266"/>
+        <updated>2025-03-09T20:12:04.462Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이번엔 사겠다"…'협상의 기술' 이제훈, 성동일에 건설 매각 후 '폭탄 선언']]></title>
         <id>https://v.daum.net/v/20250310001347871</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250309203656976"/>
         <updated>2025-03-09T12:18:15.722Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['독수리 5형제' 유인영, 안미나에 공개 고백한 김동완 보고 '기절']]></title>
-        <id>https://v.daum.net/v/20250309203654975</id>
-        <link href="https://v.daum.net/v/20250309203654975"/>
-        <updated>2025-03-09T12:18:15.723Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
