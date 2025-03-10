@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-10T13:23:05.100Z</updated>
+    <updated>2025-03-10T14:14:03.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최현욱, 진심 고백 "좋아해요"...문가영과 사랑확인 "본부장님 비밀 되겠다"]]></title>
+        <id>https://v.daum.net/v/20250310224430454</id>
+        <link href="https://v.daum.net/v/20250310224430454"/>
+        <updated>2025-03-10T14:13:54.260Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄지원, 재산 갈취에 꽃뱀 논란까지 엎친 데 덮친 격…안재욱 "앞으로 조심해"]]></title>
+        <id>https://v.daum.net/v/20250310223102357</id>
+        <link href="https://v.daum.net/v/20250310223102357"/>
+        <updated>2025-03-10T14:13:54.260Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['학폭 누명' 서강준, ♥진기주 소꿉친구였다…"내가 꼭 지켜줄게" 핑크빛 본격화]]></title>
         <id>https://v.daum.net/v/20250310220102161</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250310194401297"/>
         <updated>2025-03-10T11:10:23.904Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서강준 ‘언더커버 하이스쿨’ 화제성 일등 공신... 살벌한 얼굴 공격]]></title>
-        <id>https://v.daum.net/v/20250310193754190</id>
-        <link href="https://v.daum.net/v/20250310193754190"/>
-        <updated>2025-03-10T11:10:23.906Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영♥최현욱, 흑역사 첫사랑 정체 공개 후 로맨스 향방은?]]></title>
-        <id>https://v.daum.net/v/20250310191207870</id>
-        <link href="https://v.daum.net/v/20250310191207870"/>
-        <updated>2025-03-10T10:13:25.040Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
