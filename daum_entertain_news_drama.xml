@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-11T22:13:27.896Z</updated>
+    <updated>2025-03-11T23:12:58.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지연, 신기 있는데도 무녀 운명 거부한 사연]]></title>
+        <id>https://v.daum.net/v/20250312081241338</id>
+        <link href="https://v.daum.net/v/20250312081241338"/>
+        <updated>2025-03-11T23:12:50.172Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["하와이에서 잘 살아" 박수진 근황 전해졌다.."보고싶다" 말에 응답할까]]></title>
+        <id>https://v.daum.net/v/20250312073017603</id>
+        <link href="https://v.daum.net/v/20250312073017603"/>
+        <updated>2025-03-11T23:12:50.173Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그놈은 흑염룡' 최현욱♥문가영, 비밀 연애 시작→과거 들통나 '이별 위기']]></title>
         <id>https://v.daum.net/v/20250312065002871</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250311203030447"/>
         <updated>2025-03-11T12:26:01.942Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문가영♥최현욱, 사람들 눈 피해 애정 행각"…한강 데이트 포착됐다]]></title>
-        <id>https://v.daum.net/v/20250311200401113</id>
-        <link href="https://v.daum.net/v/20250311200401113"/>
-        <updated>2025-03-11T11:11:33.693Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전역' 공명, 내성적이더니 변했다…김민하와 얽혀 '시끌벅적']]></title>
-        <id>https://v.daum.net/v/20250311200105059</id>
-        <link href="https://v.daum.net/v/20250311200105059"/>
-        <updated>2025-03-11T11:11:33.694Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
