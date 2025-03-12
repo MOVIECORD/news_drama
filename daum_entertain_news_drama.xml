@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-12T21:13:05.858Z</updated>
+    <updated>2025-03-12T22:12:56.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사별' 엄지원, 꽃뱀 의혹에 근거 없는 낭설까지…심경 토로 "자꾸 눈물 나"]]></title>
+        <id>https://v.daum.net/v/20250313062603276</id>
+        <link href="https://v.daum.net/v/20250313062603276"/>
+        <updated>2025-03-12T22:12:46.457Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘다리미 패밀리’ 하서윤 “배우로서 첫 결혼, 기분이 이상했죠”]]></title>
         <id>https://v.daum.net/v/20250313060517118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250312195209798"/>
         <updated>2025-03-12T11:11:36.678Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심이영, 최정윤 변심 간파.. "정영섭 버리고 송창의에게 돌아가게?"]]></title>
-        <id>https://v.daum.net/v/20250312194330677</id>
-        <link href="https://v.daum.net/v/20250312194330677"/>
-        <updated>2025-03-12T11:11:36.678Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
