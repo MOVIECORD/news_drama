@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-13T10:15:21.813Z</updated>
+    <updated>2025-03-13T11:11:58.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 미래에 당신은 없어" 송창의, 거짓말로 붙잡은 최정윤에 분노]]></title>
+        <id>https://v.daum.net/v/20250313194331722</id>
+        <link href="https://v.daum.net/v/20250313194331722"/>
+        <updated>2025-03-13T11:11:48.804Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오우리, '163cm 37kg' 강혜원과 절친이라더니…"머리채 잡고 싸워, 긴장 多"]]></title>
+        <id>https://v.daum.net/v/20250313193105350</id>
+        <link href="https://v.daum.net/v/20250313193105350"/>
+        <updated>2025-03-13T11:11:48.806Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수현, 논란 속 '굿데이' 녹화 참여…"일정 최소화해 진행"]]></title>
         <id>https://v.daum.net/v/20250313184121487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250313163016052"/>
         <updated>2025-03-13T08:19:00.820Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그대좌' 10기 영식 '나솔사계' 등장…"최선 다해 다가갈 것"]]></title>
-        <id>https://v.daum.net/v/20250313162115694</id>
-        <link href="https://v.daum.net/v/20250313162115694"/>
-        <updated>2025-03-13T08:19:00.821Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뒤죽박죽 장르 혼재 속 중심 꽉 잡는 서강준의 연기 차력쇼]]></title>
-        <id>https://v.daum.net/v/20250313161845590</id>
-        <link href="https://v.daum.net/v/20250313161845590"/>
-        <updated>2025-03-13T08:19:00.822Z</updated>
-        <content type="html"><![CDATA[엔터미디어]]></content>
     </entry>
 </feed>
