@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-13T09:15:02.484Z</updated>
+    <updated>2025-03-13T10:15:21.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현, 논란 속 '굿데이' 녹화 참여…"일정 최소화해 진행"]]></title>
+        <id>https://v.daum.net/v/20250313184121487</id>
+        <link href="https://v.daum.net/v/20250313184121487"/>
+        <updated>2025-03-13T10:15:12.678Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘멜로무비→폭싹 속았수다’ 화제작엔 김영웅 있다]]></title>
         <id>https://v.daum.net/v/20250313180752608</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250313161845590"/>
         <updated>2025-03-13T08:19:00.822Z</updated>
         <content type="html"><![CDATA[엔터미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' 허준호, 왜 박형식 그토록 몰아내려 했나 '충격적 이유']]></title>
-        <id>https://v.daum.net/v/20250313161311373</id>
-        <link href="https://v.daum.net/v/20250313161311373"/>
-        <updated>2025-03-13T08:19:00.824Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
