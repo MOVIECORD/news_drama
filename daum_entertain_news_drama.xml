@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-14T10:14:20.422Z</updated>
+    <updated>2025-03-14T11:12:30.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최정윤, 이혼 엎고 불륜남 정영섭에 이별선언 "피곤해...그만 정리하자"]]></title>
+        <id>https://v.daum.net/v/20250314195030100</id>
+        <link href="https://v.daum.net/v/20250314195030100"/>
+        <updated>2025-03-14T11:12:19.861Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종훈 “10년 같이 살며 한 번도 안 싸워”…동거인 위한 특식 준비]]></title>
         <id>https://v.daum.net/v/20250314191343669</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250314180402652"/>
         <updated>2025-03-14T09:14:45.479Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보물섬' 박형식, 허준호 머리에 총 겨눴다...'숨멎 대치']]></title>
-        <id>https://v.daum.net/v/20250314175006269</id>
-        <link href="https://v.daum.net/v/20250314175006269"/>
-        <updated>2025-03-14T09:14:45.480Z</updated>
-        <content type="html"><![CDATA[ize]]></content>
     </entry>
 </feed>
