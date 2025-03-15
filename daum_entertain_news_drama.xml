@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-15T08:16:04.545Z</updated>
+    <updated>2025-03-15T09:12:53.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오나라X소유진, 지지고 볶는 현실 자매 투샷...케미 어떨까]]></title>
+        <id>https://v.daum.net/v/20250315175930378</id>
+        <link href="https://v.daum.net/v/20250315175930378"/>
+        <updated>2025-03-15T09:12:44.626Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보물섬' 허준호-이해영 또 만났다! 박형식 무사할까?]]></title>
+        <id>https://v.daum.net/v/20250315173007153</id>
+        <link href="https://v.daum.net/v/20250315173007153"/>
+        <updated>2025-03-15T09:12:44.626Z</updated>
+        <content type="html"><![CDATA[ize]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['협상의 기술' 이제훈, 이커머스 시장 진출 선언]]></title>
         <id>https://v.daum.net/v/20250315171050976</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250315152359901"/>
         <updated>2025-03-15T07:11:58.137Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빌런의 나라' 오나라·소유진, 자매 투샷 공개..우당탕탕 가족 일상기]]></title>
-        <id>https://v.daum.net/v/20250315151846854</id>
-        <link href="https://v.daum.net/v/20250315151846854"/>
-        <updated>2025-03-15T07:11:58.139Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민호, 빌리언스 전속계약 체결→‘무언가 잘못되었다’ 주인공 캐스팅]]></title>
-        <id>https://v.daum.net/v/20250315151618825</id>
-        <link href="https://v.daum.net/v/20250315151618825"/>
-        <updated>2025-03-15T06:17:09.506Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
