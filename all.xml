@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-16T10:13:19.950Z</updated>
+    <updated>2025-03-16T11:11:47.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘딸바보’ 윤박, 이봄 데리고 병원行…긴박한 순간 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250316195700836</id>
+        <link href="https://v.daum.net/v/20250316195700836"/>
+        <updated>2025-03-16T11:11:38.083Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['감자연구소' 이선빈X강태오, 한밤 감자밭 데이트 현장 포착 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250316190010214</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250316165329242"/>
         <updated>2025-03-16T08:16:21.675Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유, ‘폭싹’ 음주신 진짜 술 마셨다…“분장 귀엽게 보일까봐” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250316164522099</id>
-        <link href="https://v.daum.net/v/20250316164522099"/>
-        <updated>2025-03-16T08:16:21.675Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
