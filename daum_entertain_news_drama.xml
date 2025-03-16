@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-16T02:57:06.190Z</updated>
+    <updated>2025-03-16T03:28:56.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빌런의 나라' 19년 만에 시트콤으로 돌아온 소유진, 오나라와 美친 케미]]></title>
+        <id>https://v.daum.net/v/20250316122428539</id>
+        <link href="https://v.daum.net/v/20250316122428539"/>
+        <updated>2025-03-16T03:28:45.415Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로봇 같았던 강태오, 달콤한 썸남으로 “흥미롭습니다”]]></title>
         <id>https://v.daum.net/v/20250316112948645</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250316095703056"/>
         <updated>2025-03-16T01:06:16.184Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀' 최종회 앞두고 충격 반전… 임재혁도 '죽음의 법칙'에 걸렸다]]></title>
-        <id>https://v.daum.net/v/20250316094849934</id>
-        <link href="https://v.daum.net/v/20250316094849934"/>
-        <updated>2025-03-16T01:06:16.185Z</updated>
-        <content type="html"><![CDATA[스포츠조선]]></content>
     </entry>
 </feed>
