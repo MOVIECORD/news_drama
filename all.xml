@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-17T19:11:19.947Z</updated>
+    <updated>2025-03-17T20:14:46.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[송혜교, 사랑에 빠졌네… 품에 쏙 넣고 공개적으로 밝힌 "내 사랑" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250318045620481</id>
+        <link href="https://v.daum.net/v/20250318045620481"/>
+        <updated>2025-03-17T20:14:36.057Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 박명주, 암 투병 끝 지난달 별세…유작이 된 '폭싹 속았수다' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250318003558323</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250317200944532"/>
         <updated>2025-03-17T11:11:24.561Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심이영, 죄 뒤집어 씌우고 뻔뻔한 최정윤 가족에 "합의금 10억 내놔" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250317194731185</id>
-        <link href="https://v.daum.net/v/20250317194731185"/>
-        <updated>2025-03-17T11:11:24.561Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
