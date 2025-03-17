@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-17T15:15:44.732Z</updated>
+    <updated>2025-03-17T16:17:59.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 박명주, 암 투병 끝 지난달 별세…유작이 된 '폭싹 속았수다']]></title>
+        <id>https://v.daum.net/v/20250318003558323</id>
+        <link href="https://v.daum.net/v/20250318003558323"/>
+        <updated>2025-03-17T16:17:49.083Z</updated>
+        <content type="html"><![CDATA[스포츠한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갓세븐 영재, 공개 고백 받았다…정수빈 "너무 잘해, 언제든 연락 주길"]]></title>
         <id>https://v.daum.net/v/20250317233101616</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250317194731185"/>
         <updated>2025-03-17T11:11:24.561Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수빈, '前아이즈원' 강혜원과 절교할 뻔했다…"처음인데 잃을까 두렵더라"]]></title>
-        <id>https://v.daum.net/v/20250317190102330</id>
-        <link href="https://v.daum.net/v/20250317190102330"/>
-        <updated>2025-03-17T10:15:26.193Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
