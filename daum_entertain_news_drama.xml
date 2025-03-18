@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-18T18:19:06.696Z</updated>
+    <updated>2025-03-18T19:11:37.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김일우X박선영, 벌써 100일?…양희경 "같이 살아도 될 듯"]]></title>
+        <id>https://v.daum.net/v/20250319040017962</id>
+        <link href="https://v.daum.net/v/20250319040017962"/>
+        <updated>2025-03-18T19:11:27.406Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박상면, 子 심장병 수술비 걱정하더니…장례식장서 절친까지 외면]]></title>
         <id>https://v.daum.net/v/20250318233101404</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250318184908506"/>
         <updated>2025-03-18T10:15:02.582Z</updated>
         <content type="html"><![CDATA[스포츠한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신병’ 김동준‧김요한 출격..감탄‧분노 오가는 ‘극과 극’ 풍경]]></title>
-        <id>https://v.daum.net/v/20250318184245409</id>
-        <link href="https://v.daum.net/v/20250318184245409"/>
-        <updated>2025-03-18T10:15:02.583Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
