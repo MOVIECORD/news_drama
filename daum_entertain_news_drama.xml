@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-18T14:13:24.281Z</updated>
+    <updated>2025-03-18T15:14:55.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박상면, 子 심장병 수술비 걱정하더니…장례식장서 절친까지 외면]]></title>
+        <id>https://v.daum.net/v/20250318233101404</id>
+        <link href="https://v.daum.net/v/20250318233101404"/>
+        <updated>2025-03-18T15:14:45.230Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 김새론에 “비린내 난다” 막말..'매불쇼' 논란 하루만 코너 영구폐지]]></title>
         <id>https://v.daum.net/v/20250318222323817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250318184245409"/>
         <updated>2025-03-18T10:15:02.583Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현욱, 처가살이 돌입!‘하드 록 덕후’→‘살림 9단’ 포스 폭발]]></title>
-        <id>https://v.daum.net/v/20250318183601251</id>
-        <link href="https://v.daum.net/v/20250318183601251"/>
-        <updated>2025-03-18T10:15:02.584Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
