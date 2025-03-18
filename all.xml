@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-18T21:12:50.607Z</updated>
+    <updated>2025-03-18T22:13:03.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박은빈, 소녀 이미지 벗었다…데뷔 29년차, 미치광이 사이코패스로 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250319070101141</id>
+        <link href="https://v.daum.net/v/20250319070101141"/>
+        <updated>2025-03-18T22:12:55.015Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌런 자매 오나라X소유진, 시청률 0%대 곤두박질 시트콤 구할까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250319061235447</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250318211657970"/>
         <updated>2025-03-18T12:25:55.106Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그놈은 흑염룡' 문가영, ♥최현욱 집서 하룻밤…父 고창석에 '들통' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250318211157882</id>
-        <link href="https://v.daum.net/v/20250318211157882"/>
-        <updated>2025-03-18T12:25:55.107Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
