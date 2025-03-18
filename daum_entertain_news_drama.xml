@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-18T13:23:25.001Z</updated>
+    <updated>2025-03-18T14:13:24.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 김새론에 “비린내 난다” 막말..'매불쇼' 논란 하루만 코너 영구폐지]]></title>
+        <id>https://v.daum.net/v/20250318222323817</id>
+        <link href="https://v.daum.net/v/20250318222323817"/>
+        <updated>2025-03-18T14:13:13.530Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최현욱, ♥문가영과 열애 들킨 후 해임→흑화 "널 위한 선택"]]></title>
         <id>https://v.daum.net/v/20250318220200572</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250318183601251"/>
         <updated>2025-03-18T10:15:02.584Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조병규부터 려운까지, 김풍 원작 '찌질의 역사' 찢고 나온 '만찢남'들]]></title>
-        <id>https://v.daum.net/v/20250318183318188</id>
-        <link href="https://v.daum.net/v/20250318183318188"/>
-        <updated>2025-03-18T10:15:02.587Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
