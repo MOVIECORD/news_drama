@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-19T14:13:39.927Z</updated>
+    <updated>2025-03-19T15:14:35.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빌런의 나라' 한성민, 국민 첫사랑 비주얼에…숨겨진 MZ력까지]]></title>
+        <id>https://v.daum.net/v/20250319235341213</id>
+        <link href="https://v.daum.net/v/20250319235341213"/>
+        <updated>2025-03-19T15:14:24.980Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소유진, 오나라 사망설 퍼뜨린 장본인이었다…만취 자매 폭주]]></title>
         <id>https://v.daum.net/v/20250319230709855</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250319190117016"/>
         <updated>2025-03-19T10:15:29.504Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상진, '24시 헬스클럽' 합류... 강단 役 이준영X정은지와 호흡]]></title>
-        <id>https://v.daum.net/v/20250319182342015</id>
-        <link href="https://v.daum.net/v/20250319182342015"/>
-        <updated>2025-03-19T10:15:29.508Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
