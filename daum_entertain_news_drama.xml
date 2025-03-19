@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-19T21:13:49.891Z</updated>
+    <updated>2025-03-19T22:13:14.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오나라 은퇴작이냐고…"노빠꾸 원웨이" 웃음 위해 온 몸 던진 '빌런']]></title>
+        <id>https://v.daum.net/v/20250320063217048</id>
+        <link href="https://v.daum.net/v/20250320063217048"/>
+        <updated>2025-03-19T22:13:04.578Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문소리, 母 이향란과 동반 출연…"'폭싹 속았수다' 엄마 생각나 눈물"]]></title>
+        <id>https://v.daum.net/v/20250320061504889</id>
+        <link href="https://v.daum.net/v/20250320061504889"/>
+        <updated>2025-03-19T22:13:04.581Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재수 없어" 오나라x소유진, 친자매 맞아? 서로 못 잡아먹어 안달]]></title>
         <id>https://v.daum.net/v/20250320045006688</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250319194701992"/>
         <updated>2025-03-19T11:12:30.839Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제니 母' 김금순, 그릇된 모성애…아이유를 쥐락펴락]]></title>
-        <id>https://v.daum.net/v/20250319192005438</id>
-        <link href="https://v.daum.net/v/20250319192005438"/>
-        <updated>2025-03-19T11:12:30.842Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보경, 왜 저렇게 야멸찬가 했더니…트라우마 있었다]]></title>
-        <id>https://v.daum.net/v/20250319190301056</id>
-        <link href="https://v.daum.net/v/20250319190301056"/>
-        <updated>2025-03-19T10:15:29.504Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
