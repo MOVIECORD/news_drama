@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-21T15:14:41.443Z</updated>
+    <updated>2025-03-21T16:17:11.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보물섬' 어르신 정체=現 대통령..허준호에 경고 "박형식 건들지마"]]></title>
+        <id>https://v.daum.net/v/20250322003243891</id>
+        <link href="https://v.daum.net/v/20250322003243891"/>
+        <updated>2025-03-21T16:16:58.552Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내신 조작 혐의’ 김신록, 학교 컴백..서강준에 “학생놀이는 여기까지”]]></title>
         <id>https://v.daum.net/v/20250321231159256</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250321200857328"/>
         <updated>2025-03-21T11:12:05.262Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학씨 아저씨' 최대훈 "'확, 씨' 시기에 따라 달라" 디테일 공개]]></title>
-        <id>https://v.daum.net/v/20250321200537275</id>
-        <link href="https://v.daum.net/v/20250321200537275"/>
-        <updated>2025-03-21T11:12:05.263Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
