@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-22T09:13:46.856Z</updated>
+    <updated>2025-03-22T10:13:59.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인영, 김동완 지키기 위한 마지막 승부수 던진다]]></title>
+        <id>https://v.daum.net/v/20250322190901457</id>
+        <link href="https://v.daum.net/v/20250322190901457"/>
+        <updated>2025-03-22T10:13:48.759Z</updated>
+        <content type="html"><![CDATA[MK스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['언더피프틴', 아동 성 상품화 논란 정면돌파… "보고 평가" 호소]]></title>
+        <id>https://v.daum.net/v/20250322185522324</id>
+        <link href="https://v.daum.net/v/20250322185522324"/>
+        <updated>2025-03-22T10:13:48.760Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["박보검 분량 어디 갔어?"...'폭싹 속았수다' 남주 취업사기 4막서 풀릴까]]></title>
+        <id>https://v.daum.net/v/20250322185459316</id>
+        <link href="https://v.daum.net/v/20250322185459316"/>
+        <updated>2025-03-22T10:13:48.760Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["역시!" 허준호·이해영 눈빛 하나로 상황 설명 끝]]></title>
+        <id>https://v.daum.net/v/20250322184048171</id>
+        <link href="https://v.daum.net/v/20250322184048171"/>
+        <updated>2025-03-22T10:13:48.764Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오겜2' 네모 가면 이상준, '2반 이희수' 확정..'대세 배우' 굳힌다]]></title>
         <id>https://v.daum.net/v/20250322181218876</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20250322170339652"/>
         <updated>2025-03-22T08:16:04.116Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대결! 핑퐁핑퐁' 팽식당 VS 봉식당, 영업대결 막 오른다]]></title>
-        <id>https://v.daum.net/v/20250322165909518</id>
-        <link href="https://v.daum.net/v/20250322165909518"/>
-        <updated>2025-03-22T08:16:04.118Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노라조-모스트 참여한 ‘빌런의 나라’ 첫 OST 발매]]></title>
-        <id>https://v.daum.net/v/20250322165839505</id>
-        <link href="https://v.daum.net/v/20250322165839505"/>
-        <updated>2025-03-22T08:16:04.119Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자매 싸움 레전드” 오나라 소유진, 다 내려놓은 코믹 연기]]></title>
-        <id>https://v.daum.net/v/20250322165732486</id>
-        <link href="https://v.daum.net/v/20250322165732486"/>
-        <updated>2025-03-22T08:16:04.122Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선빈♥강태오 첫 데이트 포착 "선 넘고 싶은 사람"]]></title>
-        <id>https://v.daum.net/v/20250322165507435</id>
-        <link href="https://v.daum.net/v/20250322165507435"/>
-        <updated>2025-03-22T08:16:04.123Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
