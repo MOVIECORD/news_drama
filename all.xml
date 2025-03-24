@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-24T14:13:57.863Z</updated>
+    <updated>2025-03-24T15:15:19.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[문가영, 미국행 포기→최현욱과 일+사랑 잡으며 꽉 닫힌 해피엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250324232330784</id>
+        <link href="https://v.daum.net/v/20250324232330784"/>
+        <updated>2025-03-24T15:15:10.729Z</updated>
+        <content type="html"><![CDATA[TV리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그놈은 흑염룡' 최현욱♥문가영, 승진도 사랑도 초고속 '꽉 닫힌 해피엔딩' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250324231223703</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250324181330040"/>
         <updated>2025-03-24T09:15:29.807Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서강준, '언더커버' 방송 후 단 한 번도 놓치지 않은 것 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250324181321039</id>
-        <link href="https://v.daum.net/v/20250324181321039"/>
-        <updated>2025-03-24T09:15:29.808Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
