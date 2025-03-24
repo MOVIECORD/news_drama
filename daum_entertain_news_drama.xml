@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-24T09:15:39.750Z</updated>
+    <updated>2025-03-24T10:15:20.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄정화X송승헌, 10년만 로코로 재회..'금쪽같은 내 스타' 캐스팅]]></title>
+        <id>https://v.daum.net/v/20250324191047514</id>
+        <link href="https://v.daum.net/v/20250324191047514"/>
+        <updated>2025-03-24T10:15:09.809Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문가영♥최현욱, 스캔들 주인공 됐다… 동공 지진]]></title>
+        <id>https://v.daum.net/v/20250324190613437</id>
+        <link href="https://v.daum.net/v/20250324190613437"/>
+        <updated>2025-03-24T10:15:09.809Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서예지, 8년 만 예능 출연…밝은 미소 되찾았다]]></title>
         <id>https://v.daum.net/v/20250324181330040</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250324171004881"/>
         <updated>2025-03-24T08:18:55.641Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보검 "바다수영, 대역 없이 소화...어릴 때부터 수영 배웠다"]]></title>
-        <id>https://v.daum.net/v/20250324170600762</id>
-        <link href="https://v.daum.net/v/20250324170600762"/>
-        <updated>2025-03-24T08:18:55.642Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신랑수업' 장우혁, "김종민 결혼에 자극받아"]]></title>
-        <id>https://v.daum.net/v/20250324170514737</id>
-        <link href="https://v.daum.net/v/20250324170514737"/>
-        <updated>2025-03-24T08:18:55.643Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
