@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-24T20:13:35.362Z</updated>
+    <updated>2025-03-24T21:12:57.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뉴토피아' 기대와 아쉬움 사이…지수 연기, 신선함 그리고 K좀비물]]></title>
+        <id>https://v.daum.net/v/20250325060516952</id>
+        <link href="https://v.daum.net/v/20250325060516952"/>
+        <updated>2025-03-24T21:12:48.976Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문가영, 미국행 포기→최현욱과 일+사랑 잡으며 꽉 닫힌 해피엔딩]]></title>
         <id>https://v.daum.net/v/20250324232330784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250324190613437"/>
         <updated>2025-03-24T10:15:09.809Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서예지, 8년 만 예능 출연…밝은 미소 되찾았다]]></title>
-        <id>https://v.daum.net/v/20250324181330040</id>
-        <link href="https://v.daum.net/v/20250324181330040"/>
-        <updated>2025-03-24T09:15:29.807Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
