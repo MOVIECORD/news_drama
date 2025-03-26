@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-26T02:55:13.449Z</updated>
+    <updated>2025-03-26T03:27:14.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정은채, 이나영 워맨스로 만날까 "'아너' 출연, 아직 검토 중"]]></title>
+        <id>https://v.daum.net/v/20250326120340070</id>
+        <link href="https://v.daum.net/v/20250326120340070"/>
+        <updated>2025-03-26T03:27:03.801Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운좋게 '폭싹' 등에 업힌 이준영, '헬스클럽'에 약일까 독일까]]></title>
+        <id>https://v.daum.net/v/20250326120007731</id>
+        <link href="https://v.daum.net/v/20250326120007731"/>
+        <updated>2025-03-26T03:27:03.802Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혜진이 전혜진 했다..'라이딩 인생'서 증명한 명불허전 연기력]]></title>
         <id>https://v.daum.net/v/20250326114746346</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250326103605461"/>
         <updated>2025-03-26T02:55:03.056Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최종회까지 2회 남은 '언더커버 하이스쿨' 관전 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20250326103422382</id>
-        <link href="https://v.daum.net/v/20250326103422382"/>
-        <updated>2025-03-26T02:55:03.057Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무녀 김지연 뒤 이무기 육성재, 설화집 찢고 나왔다]]></title>
-        <id>https://v.daum.net/v/20250326102722001</id>
-        <link href="https://v.daum.net/v/20250326102722001"/>
-        <updated>2025-03-26T02:55:03.057Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
     </entry>
 </feed>
