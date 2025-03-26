@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-26T18:19:36.447Z</updated>
+    <updated>2025-03-26T19:12:00.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김대호 "MBC 퇴사 후 출연료 150배 올라…계약금 놀랐다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250327040015318</id>
+        <link href="https://v.daum.net/v/20250327040015318"/>
+        <updated>2025-03-26T19:11:49.753Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오리발로 엉덩이 맞기 싫어…박보검 "수영 선수반 들어가긴 했는데" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250326214701092</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250326191308190"/>
         <updated>2025-03-26T10:14:49.859Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성훈 측 "'미혼남녀' 선순위 배우 있어...답 기다리는 중" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250326190410982</id>
-        <link href="https://v.daum.net/v/20250326190410982"/>
-        <updated>2025-03-26T10:14:49.859Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
