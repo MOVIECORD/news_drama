@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-27T16:17:25.410Z</updated>
+    <updated>2025-03-27T17:12:54.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘폭싹 속았수다’ 아이유, 결혼식에서 눈물 펑펑 흘린 이유]]></title>
+        <id>https://v.daum.net/v/20250328013239642</id>
+        <link href="https://v.daum.net/v/20250328013239642"/>
+        <updated>2025-03-27T17:12:45.762Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이효리 닮은꼴' 최유라, 본격 배우 활동 나선다..김재중 소속사와 '한솥밥']]></title>
         <id>https://v.daum.net/v/20250328003256246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250327182353545"/>
         <updated>2025-03-27T10:14:50.491Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류해준, 박은빈과 긴장감 넘치는 호흡…섬세한 감정 열연]]></title>
-        <id>https://v.daum.net/v/20250327182310533</id>
-        <link href="https://v.daum.net/v/20250327182310533"/>
-        <updated>2025-03-27T10:14:50.492Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
