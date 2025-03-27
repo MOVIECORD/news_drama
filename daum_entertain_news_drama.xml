@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-27T13:23:27.454Z</updated>
+    <updated>2025-03-27T14:14:14.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대운을 잡아라’ 16인 단체 포스터 공개]]></title>
+        <id>https://v.daum.net/v/20250327231218405</id>
+        <link href="https://v.daum.net/v/20250327231218405"/>
+        <updated>2025-03-27T14:14:05.253Z</updated>
+        <content type="html"><![CDATA[스포츠동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나 미워하지마"..故김새론의 부치지 못한 편지]]></title>
         <id>https://v.daum.net/v/20250327220722769</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250327182106457"/>
         <updated>2025-03-27T10:14:50.496Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故김새론 자필편지 공개.."김수현, 5~6년 만난 첫사랑이자 마지막 사랑"]]></title>
-        <id>https://v.daum.net/v/20250327182019420</id>
-        <link href="https://v.daum.net/v/20250327182019420"/>
-        <updated>2025-03-27T10:14:50.498Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
