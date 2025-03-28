@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-28T15:15:08.642Z</updated>
+    <updated>2025-03-28T16:16:55.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식, 홍화연과 이복남매...父=주상욱 "이해영 범인이었다"]]></title>
+        <id>https://v.daum.net/v/20250329003301720</id>
+        <link href="https://v.daum.net/v/20250329003301720"/>
+        <updated>2025-03-28T16:16:45.562Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박형식, 주상욱 아들 맞았다…도지원 전면 등장, 이해영 진범 확정]]></title>
         <id>https://v.daum.net/v/20250328234501304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250328213715112"/>
         <updated>2025-03-28T13:23:46.564Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서강준, 살인 혐의로 체포됐다…현장서 피범벅 된 채 검거 '일생일대 위기']]></title>
-        <id>https://v.daum.net/v/20250328210111513</id>
-        <link href="https://v.daum.net/v/20250328210111513"/>
-        <updated>2025-03-28T12:25:27.421Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
