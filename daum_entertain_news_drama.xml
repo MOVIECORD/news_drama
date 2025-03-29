@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-29T12:22:44.077Z</updated>
+    <updated>2025-03-29T13:19:09.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["첫사랑 김가은이었어"…'감자연구소' 이선빈, 동생 신현승 진심 알고 관계 인정]]></title>
+        <id>https://v.daum.net/v/20250329220200267</id>
+        <link href="https://v.daum.net/v/20250329220200267"/>
+        <updated>2025-03-29T13:18:59.991Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['감자연구소' 이선빈, 이학주♥정신혜 관계 깨닫고 "뭐 이딴 우연이 있냐"]]></title>
+        <id>https://v.daum.net/v/20250329214213161</id>
+        <link href="https://v.daum.net/v/20250329214213161"/>
+        <updated>2025-03-29T13:18:59.993Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독수리 5형제' 안재욱, 엄지원에 뒤늦은 후회…"떠도는 얘기 믿는 게 아닌데"]]></title>
         <id>https://v.daum.net/v/20250329211540921</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250329180758117"/>
         <updated>2025-03-29T09:13:15.961Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차인표·신애라 부부, 산불 피해 지원금 1억 기부…"희망은 타지 않아"]]></title>
-        <id>https://v.daum.net/v/20250329175950001</id>
-        <link href="https://v.daum.net/v/20250329175950001"/>
-        <updated>2025-03-29T09:13:15.963Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서강준, 폭주하는 김신록에 총구 겨눴다...생사 갈림길 '승자는?']]></title>
-        <id>https://v.daum.net/v/20250329175330937</id>
-        <link href="https://v.daum.net/v/20250329175330937"/>
-        <updated>2025-03-29T09:13:15.964Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
     </entry>
 </feed>
