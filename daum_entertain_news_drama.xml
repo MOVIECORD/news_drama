@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-03-30T10:13:21.695Z</updated>
+    <updated>2025-03-30T11:11:45.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강태오, 감자밭 고백→키스까지..'강폭스'의 풀코스 로맨스]]></title>
+        <id>https://v.daum.net/v/20250330200538027</id>
+        <link href="https://v.daum.net/v/20250330200538027"/>
+        <updated>2025-03-30T11:11:35.319Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['감자연구소' 강태오, 감자밭 고백→키스..'강폭스'의 풀코스 로맨스]]></title>
+        <id>https://v.daum.net/v/20250330193650740</id>
+        <link href="https://v.daum.net/v/20250330193650740"/>
+        <updated>2025-03-30T11:11:35.321Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘협상의 기술’ 이제훈, 성동일 딸 권유리에게 찍혔다...긴장감 ‘최고조’]]></title>
         <id>https://v.daum.net/v/20250330185407206</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250330155020171"/>
         <updated>2025-03-30T07:13:25.021Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언더커버 하이스쿨' 서강준, 액션·휴먼·코믹 등 多 장르 섭렵]]></title>
-        <id>https://v.daum.net/v/20250330155008166</id>
-        <link href="https://v.daum.net/v/20250330155008166"/>
-        <updated>2025-03-30T07:13:25.022Z</updated>
-        <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[god부터 H.O.T까지…1세대 아이돌, 무인도에 모인 이유는]]></title>
-        <id>https://v.daum.net/v/20250330154910154</id>
-        <link href="https://v.daum.net/v/20250330154910154"/>
-        <updated>2025-03-30T07:13:25.022Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
