@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-03T20:15:05.292Z</updated>
+    <updated>2025-04-03T21:12:51.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하정우‧이동욱과 다른 첫사랑 저승사자, ’내가 죽기 일주일 전’ 공명의 새 얼굴]]></title>
+        <id>https://v.daum.net/v/20250404060513538</id>
+        <link href="https://v.daum.net/v/20250404060513538"/>
+        <updated>2025-04-03T21:12:40.248Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱, 알바생 변신...넷플릭스 ‘꿀단지 프로젝트’ 출연]]></title>
+        <id>https://v.daum.net/v/20250404060015295</id>
+        <link href="https://v.daum.net/v/20250404060015295"/>
+        <updated>2025-04-03T21:12:40.251Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['폭싹' 감독, 적극 해명…"제주어 안 쓰는 이유? 피난 온 설정"]]></title>
         <id>https://v.daum.net/v/20250404041502906</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250403195731458"/>
         <updated>2025-04-03T11:12:25.030Z</updated>
         <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안방 사로잡은 이수경 표 부현숙…'폭싹 속았수다'로 뽐낸 매력]]></title>
-        <id>https://v.daum.net/v/20250403191003485</id>
-        <link href="https://v.daum.net/v/20250403191003485"/>
-        <updated>2025-04-03T10:15:22.623Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서영, 손창민 인생 최대 위기 빠트린다…빌런 활약]]></title>
-        <id>https://v.daum.net/v/20250403190328313</id>
-        <link href="https://v.daum.net/v/20250403190328313"/>
-        <updated>2025-04-03T10:15:22.624Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
