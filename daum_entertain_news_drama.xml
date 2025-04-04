@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-04T22:13:05.623Z</updated>
+    <updated>2025-04-04T23:13:04.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형식, ‘유퀴즈’ 나올 만하네..‘보물섬’ 또 자체최고시청률 경신 ‘최고 15.7%’]]></title>
+        <id>https://v.daum.net/v/20250405075418528</id>
+        <link href="https://v.daum.net/v/20250405075418528"/>
+        <updated>2025-04-04T23:12:54.419Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보물섬' 이해영, 子 박형식 위해 목숨 던졌다…피습범과 동반 추락 '최고 15.7%']]></title>
         <id>https://v.daum.net/v/20250405071102260</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250404231727244"/>
         <updated>2025-04-04T15:13:53.073Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이해영, 박형식 친아들 사실 알고 절망 "왜 말 안 했어"]]></title>
-        <id>https://v.daum.net/v/20250404224243926</id>
-        <link href="https://v.daum.net/v/20250404224243926"/>
-        <updated>2025-04-04T14:13:33.082Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
