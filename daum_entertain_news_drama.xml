@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-04T02:56:41.817Z</updated>
+    <updated>2025-04-04T03:29:10.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신민아, 익숙함 버렸다…'악연' 속 불안한 얼굴]]></title>
+        <id>https://v.daum.net/v/20250404122102727</id>
+        <link href="https://v.daum.net/v/20250404122102727"/>
+        <updated>2025-04-04T03:29:02.676Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신소율→정영주, 尹 탄핵에 "만세…우리 모두 축하"]]></title>
+        <id>https://v.daum.net/v/20250404120254687</id>
+        <link href="https://v.daum.net/v/20250404120254687"/>
+        <updated>2025-04-04T03:29:02.676Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공승연·노상현, 아이유X변우석 '21세기 대군부인' 만날까 "검토 중"]]></title>
         <id>https://v.daum.net/v/20250404115348998</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250404104102138"/>
         <updated>2025-04-04T02:56:31.829Z</updated>
         <content type="html"><![CDATA[MBC연예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신민아 본 적 없는 얼굴, 스릴러 눈빛 ON]]></title>
-        <id>https://v.daum.net/v/20250404103359839</id>
-        <link href="https://v.daum.net/v/20250404103359839"/>
-        <updated>2025-04-04T02:56:31.830Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정라엘, 티빙 ‘내가 죽기 일주일 전’에서 ‘라블리’ 매력 과시...능청 연기]]></title>
-        <id>https://v.daum.net/v/20250404103006643</id>
-        <link href="https://v.daum.net/v/20250404103006643"/>
-        <updated>2025-04-04T02:56:31.833Z</updated>
-        <content type="html"><![CDATA[MK스포츠]]></content>
     </entry>
 </feed>
