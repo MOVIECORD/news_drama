@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-04T20:14:48.860Z</updated>
+    <updated>2025-04-04T21:12:41.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유의 남자, '폭싹' 홀렸수다…박보검→김선호, 거를 타선이 없네]]></title>
+        <id>https://v.daum.net/v/20250405060105579</id>
+        <link href="https://v.daum.net/v/20250405060105579"/>
+        <updated>2025-04-04T21:12:31.073Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형식, 친父 이해영 사망 희생으로 위기 넘겼다…허준호 이간질 '충격']]></title>
+        <id>https://v.daum.net/v/20250405055917464</id>
+        <link href="https://v.daum.net/v/20250405055917464"/>
+        <updated>2025-04-04T21:12:31.073Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이해영, 끝내 박형식 구했다…허준호 계략에 피 흘리며 사망]]></title>
         <id>https://v.daum.net/v/20250405005202028</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250404185055998"/>
         <updated>2025-04-04T10:15:12.352Z</updated>
         <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['협상의 기술' 이제훈vs장현성, 핵심 세력의 치열한 각축전]]></title>
-        <id>https://v.daum.net/v/20250404180101026</id>
-        <link href="https://v.daum.net/v/20250404180101026"/>
-        <updated>2025-04-04T09:14:46.829Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전한길 '폭싹' 통편집 굴욕, 출연 배우도 몰랐다..정해균 "기사로 알아"]]></title>
-        <id>https://v.daum.net/v/20250404175925932</id>
-        <link href="https://v.daum.net/v/20250404175925932"/>
-        <updated>2025-04-04T09:14:46.830Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
