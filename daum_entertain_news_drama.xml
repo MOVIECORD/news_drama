@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-05T10:13:18.359Z</updated>
+    <updated>2025-04-05T11:11:14.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘독수리 5형제’ 안재욱, ♥엄지원 향해 두근두근→건강 이상 착각]]></title>
+        <id>https://v.daum.net/v/20250405200618675</id>
+        <link href="https://v.daum.net/v/20250405200618675"/>
+        <updated>2025-04-05T11:11:05.846Z</updated>
+        <content type="html"><![CDATA[MBC연예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 발밑에서 손이 발이 되도록 빌게 만들 것”… 박형식, 허준호 향해 복수 폭주]]></title>
         <id>https://v.daum.net/v/20250405190921247</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250405163538327"/>
         <updated>2025-04-05T08:16:09.492Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대명, 옛 친구 등장에 난감… 골프장 매각 난항]]></title>
-        <id>https://v.daum.net/v/20250405162405203</id>
-        <link href="https://v.daum.net/v/20250405162405203"/>
-        <updated>2025-04-05T08:16:09.495Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
