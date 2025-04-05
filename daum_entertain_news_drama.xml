@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-05T15:12:15.159Z</updated>
+    <updated>2025-04-05T16:14:59.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허준호, 박형식 역습에 무너졌다…"살인 자백→실시간 방송"]]></title>
+        <id>https://v.daum.net/v/20250406005102599</id>
+        <link href="https://v.daum.net/v/20250406005102599"/>
+        <updated>2025-04-05T16:14:51.062Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['협상의 기술' 이제훈, 성동일 시험 통과해 임원 될까]]></title>
         <id>https://v.daum.net/v/20250406000116344</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20250405220614608</id>
         <link href="https://v.daum.net/v/20250405220614608"/>
         <updated>2025-04-05T13:19:04.864Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감자연구소' 이선빈, ♥강태오에 독설 "나한테서 사라지면 돼"]]></title>
-        <id>https://v.daum.net/v/20250405214600421</id>
-        <link href="https://v.daum.net/v/20250405214600421"/>
-        <updated>2025-04-05T13:19:04.865Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
 </feed>
