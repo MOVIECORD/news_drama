@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-06T03:00:47.301Z</updated>
+    <updated>2025-04-06T03:36:24.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현 논란 4주째…"미성년 교제 아냐" 눈물→120억 소송]]></title>
+        <id>https://v.daum.net/v/20250406122009214</id>
+        <link href="https://v.daum.net/v/20250406122009214"/>
+        <updated>2025-04-06T03:36:13.708Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로코 장인' 문가영, 또 해냈다...'흑염룡' 감독x작가 "다 배우 덕분"]]></title>
+        <id>https://v.daum.net/v/20250406120218979</id>
+        <link href="https://v.daum.net/v/20250406120218979"/>
+        <updated>2025-04-06T03:36:13.711Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“모든 건 최현욱 덕분”...'그놈은 흑염룡' 감독x작가의 무한 애정]]></title>
         <id>https://v.daum.net/v/20250406120019888</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250406101202135"/>
         <updated>2025-04-06T03:00:36.301Z</updated>
         <content type="html"><![CDATA[MK스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈, 윤제문 향한 전투력 폭발…‘협상의 기술’ 시청률 7.1%]]></title>
-        <id>https://v.daum.net/v/20250406101141128</id>
-        <link href="https://v.daum.net/v/20250406101141128"/>
-        <updated>2025-04-06T03:00:36.302Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 오열의 기자회견 "스타 김수현의 선택…김새론 성인 이후 열애"]]></title>
-        <id>https://v.daum.net/v/20250406101016110</id>
-        <link href="https://v.daum.net/v/20250406101016110"/>
-        <updated>2025-04-06T03:00:36.302Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
