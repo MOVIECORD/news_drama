@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-06T05:13:06.564Z</updated>
+    <updated>2025-04-06T06:17:55.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해수의 악연+노정의의 로맨스…카카오엔터, 4월 안방 장악 선언]]></title>
+        <id>https://v.daum.net/v/20250406145755176</id>
+        <link href="https://v.daum.net/v/20250406145755176"/>
+        <updated>2025-04-06T06:17:45.479Z</updated>
+        <content type="html"><![CDATA[스포츠조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이혼’ 최대철, 박효주와 재혼하나 ‘달라진 분위기’]]></title>
+        <id>https://v.daum.net/v/20250406143353621</id>
+        <link href="https://v.daum.net/v/20250406143353621"/>
+        <updated>2025-04-06T06:17:45.479Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘감자연구소’ 오늘 종영…강태오, 이선빈 마음 녹이는 치트키 풀가동]]></title>
         <id>https://v.daum.net/v/20250406140955167</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250406110126945"/>
         <updated>2025-04-06T03:00:36.293Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재욱 인생에 훅 들어온 엄지원…단짠 로맨스로 만든 최고 시청률]]></title>
-        <id>https://v.daum.net/v/20250406105500774</id>
-        <link href="https://v.daum.net/v/20250406105500774"/>
-        <updated>2025-04-06T03:00:36.295Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대희, 연세대 합격한 미모의 딸 영상 편지에 눈물]]></title>
-        <id>https://v.daum.net/v/20250406104603656</id>
-        <link href="https://v.daum.net/v/20250406104603656"/>
-        <updated>2025-04-06T03:00:36.295Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
