@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-09T21:11:46.912Z</updated>
+    <updated>2025-04-09T22:13:10.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문가영, 과감한 노출 선보인 이유 "얌전한 이미지…변칙 주고 싶었다"]]></title>
+        <id>https://v.daum.net/v/20250410070042295</id>
+        <link href="https://v.daum.net/v/20250410070042295"/>
+        <updated>2025-04-09T22:13:00.763Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김지연, 육성재와 16년 지기 친구 "우리가 뽀뽀하는 날이 올 줄이야"]]></title>
+        <id>https://v.daum.net/v/20250410063034859</id>
+        <link href="https://v.daum.net/v/20250410063034859"/>
+        <updated>2025-04-09T22:13:00.766Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웃긴 줄만 알았다고?… ‘이혼보험’→’악연’ 스펙트럼 넓은 ‘참배우’ 이광수]]></title>
         <id>https://v.daum.net/v/20250410060511362</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250409203325985"/>
         <updated>2025-04-09T14:14:58.512Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깨어난 나영희, 한그루 '친딸'로 착각... "유진아, 엄마야"]]></title>
-        <id>https://v.daum.net/v/20250409202830901</id>
-        <link href="https://v.daum.net/v/20250409202830901"/>
-        <updated>2025-04-09T14:14:58.514Z</updated>
-        <content type="html"><![CDATA[TV리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나라, 동생 소유진 사주 확인→일터까지 쫓아가 지켜]]></title>
-        <id>https://v.daum.net/v/20250409202812895</id>
-        <link href="https://v.daum.net/v/20250409202812895"/>
-        <updated>2025-04-09T14:14:58.516Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>
