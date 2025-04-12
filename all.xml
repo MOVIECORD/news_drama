@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/news_drama/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-12T07:12:11.515Z</updated>
+    <updated>2025-04-12T08:16:02.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[박혜수·정재현, 우정일까 사랑일까..설렘 폭발 투샷 공개 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+        <id>https://v.daum.net/v/20250412170953693</id>
+        <link href="https://v.daum.net/v/20250412170953693"/>
+        <updated>2025-04-12T08:15:51.108Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전공의 파업 안 끝났는데…'언슬전', 비판 여론 극복할까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
         <id>https://v.daum.net/v/20250412160730920</id>
@@ -101,12 +108,5 @@
         <link href="https://v.daum.net/v/20250412141327681"/>
         <updated>2025-04-12T06:17:09.063Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘보물섬’ 행방불명 허준호 등판, 박형식에 총 겨눴다 ‘충격’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-        <id>https://v.daum.net/v/20250412141245678</id>
-        <link href="https://v.daum.net/v/20250412141245678"/>
-        <updated>2025-04-12T06:17:09.065Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
