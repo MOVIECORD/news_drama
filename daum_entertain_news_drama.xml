@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/drama</id>
     <title>다음 연예 ─ 뉴스 ─ 드라마</title>
-    <updated>2025-04-15T08:19:27.058Z</updated>
+    <updated>2025-04-15T09:15:22.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남규홍 PD 세계관 미쳤다…'나는 솔로' 24기 영식·옥순 몽골행]]></title>
+        <id>https://v.daum.net/v/20250415172759995</id>
+        <link href="https://v.daum.net/v/20250415172759995"/>
+        <updated>2025-04-15T09:15:12.291Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅→‘폭싹’ 제치고 랭킹 1위 차지한 드라마는? “자체 최고 시청률 종영”]]></title>
+        <id>https://v.daum.net/v/20250415172452883</id>
+        <link href="https://v.daum.net/v/20250415172452883"/>
+        <updated>2025-04-15T09:15:12.293Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하이퍼나이프' 윤찬영 "박은빈 에너지 놀라워…배울 점 多"]]></title>
         <id>https://v.daum.net/v/20250415170710268</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20250415160822853"/>
         <updated>2025-04-15T07:14:03.273Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현, 악플 고소…"사이버 렉카·해외 플랫폼도 강경 대응"]]></title>
-        <id>https://v.daum.net/v/20250415154129530</id>
-        <link href="https://v.daum.net/v/20250415154129530"/>
-        <updated>2025-04-15T07:14:03.273Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년 차 배우 박은빈 “도전 좋아하는 성격 아냐, 본의 아니게 챌린지”]]></title>
-        <id>https://v.daum.net/v/20250415154007455</id>
-        <link href="https://v.daum.net/v/20250415154007455"/>
-        <updated>2025-04-15T07:14:03.274Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
 </feed>
